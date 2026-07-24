@@ -1,0 +1,40 @@
+# Knowledge-graph ontology for the YS Jagan press-meet archive.
+# Used by the LLM entity/relation extractor (M3) and the graph store loader.
+
+node_types:
+  Person:        {desc: "Politician, official, reporter, or named individual"}
+  Party:         {desc: "Political party or alliance (YSRCP, TDP, Kutami/NDA, Congress, BJP, Janasena)"}
+  Organization:  {desc: "Govt body, PSU, company, court, board (SECI, CERC, TTD, NDDB, World Bank, CAG)"}
+  Place:         {desc: "State, city, district, landmark (Amaravati, Tirumala, Visakhapatnam, Rayalaseema)"}
+  Scheme:        {desc: "Government scheme, policy, or promise (Super Six, Talliki Vandanam, Rythu Bharosa, Deepam)"}
+  Issue:         {desc: "Controversy / topic thread that recurs across meets (TTD Laddu, Liquor scam, DSC scam, Budget/CAG)"}
+  PressMeet:     {desc: "A dated press-meet event; the top-level container node"}
+  Source:        {desc: "A source document/evidence file cited in a meet (letter, agreement, report, news clip)"}
+  Publication:   {desc: "News outlet (Sakshi, Eenadu, Andhra Jyothi)"}
+  Claim:         {desc: "A specific allegation, promise, or factual assertion made by a Person"}
+  Date:          {desc: "A calendar date referenced in content"}
+
+relationship_types:
+  MENTIONS:         {from: PressMeet, to: [Person, Party, Organization, Place, Scheme, Issue]}
+  MAKES_CLAIM:      {from: Person,    to: Claim}
+  ACCUSES:          {from: Person,    to: [Person, Party, Organization]}
+  DEFENDS:          {from: Person,    to: [Person, Party, Scheme]}
+  ANNOUNCED_SCHEME: {from: [Person, Party], to: Scheme}
+  RELATED_TO_ISSUE: {from: [Claim, Scheme, Source, PressMeet], to: Issue}
+  ABOUT_ISSUE:      {from: PressMeet, to: Issue}
+  HELD_ON:          {from: PressMeet, to: Date}
+  COVERED_BY:       {from: [PressMeet, Issue], to: Publication}
+  CITES_SOURCE:     {from: PressMeet, to: Source}
+  MEMBER_OF:        {from: Person,    to: Party}
+  LOCATED_IN:       {from: [Place, Organization], to: Place}
+  PRECEDES:         {from: PressMeet, to: PressMeet}   # temporal ordering of an issue thread
+
+# Alias table seeds entity resolution (canonical -> variants). Extend as needed.
+aliases:
+  "Y. S. Jagan Mohan Reddy": ["YS Jagan", "Jagan", "YSJ", "Jagan Mohan Reddy", "వైయస్ జగన్", "జగన్"]
+  "N. Chandrababu Naidu":    ["Chandrababu", "CBN", "Babu", "చంద్రబాబు"]
+  "Nara Lokesh":             ["Lokesh", "లోకేష్"]
+  "YSRCP":                   ["YSR Congress", "వైఎస్సార్సీపీ", "వైసీపీ"]
+  "TDP":                     ["Telugu Desam", "తెలుగుదేశం", "టీడీపీ"]
+  "TTD":                     ["Tirumala Tirupati Devasthanams", "తిరుమల"]
+  "Amaravati":               ["అమరావతి", "Amaravathi"]

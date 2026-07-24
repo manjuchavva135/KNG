@@ -1,0 +1,54 @@
+[project]
+name = "kng"
+version = "0.1.0"
+description = "KNG — Hybrid GraphRAG over the YS Jagan press-meet archive (multimodal, Telugu-first, cited answers)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    # config / core
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+    "pydantic>=2.6",
+    "tqdm>=4.66",
+    "numpy>=1.26",
+    # text extraction (pure-python, run anywhere)
+    "python-docx>=1.1",
+    "python-pptx>=0.6.23",
+    "openpyxl>=3.1",
+    "pandas>=2.1",
+    "pymupdf>=1.24",        # fitz: PDF text + page rasterization for OCR
+    "langdetect>=1.0.9",
+    "requests>=2.31",       # Sarvam Document Intelligence (OCR) REST calls
+    "sarvamai>=0.1",        # Sarvam SDK: chat / speech-to-text / translate
+    # embedded vector store (no server needed)
+    "lancedb>=0.6",
+    "pyarrow>=15.0",
+]
+
+[project.optional-dependencies]
+# Local model fallbacks so the pipeline runs with no cloud keys.
+local = [
+    "sentence-transformers>=2.6",   # multilingual embeddings (pulls torch)
+    "faster-whisper>=1.0",          # local Telugu ASR fallback
+    "networkx>=3.2",                # in-process graph fallback
+    "python-louvain>=0.16",         # community detection fallback
+]
+# Cloud providers (activated by keys in .env), per the approved plan.
+cloud = [
+    "anthropic>=0.39",
+    "google-generativeai>=0.8",     # Gemini vision OCR + LLM
+    "cohere>=5.5",                  # multilingual embeddings + rerank
+    "neo4j>=5.20",                  # graph store when NEO4J_URI is set
+]
+api = [
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.29",
+    "sse-starlette>=2.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["kng"]

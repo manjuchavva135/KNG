@@ -1,0 +1,27 @@
+# secrets
+.env
+*.key
+
+# python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# generated artifacts / indexes (portable output lives here, not in git)
+index/
+extracted/
+*.lancedb
+
+# node / web
+web/node_modules/
+web/.next/
+web/dist/
+
+# large source media — 584 MB corpus, not pushed to GitHub
+data/
+
+# os
+.DS_Store
