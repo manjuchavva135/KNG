@@ -56,6 +56,25 @@ The project skeleton and the seams everything else plugs into.
 - `metadata.derive(...)` on a real file →
   `id=10, date=2024-11-28, topic="SECI – POWER SECTOR", type=press_release`. ✅
 
+### Live re-verification (2026-07-24, offline, no paid calls)
+
+Re-ran every seam to confirm WP0 is a solid, runnable checkpoint:
+
+- All 9 modules import clean (`kng`, `config`, `models`, `providers`,
+  `pipeline.{manifest,metadata,run,normalize,extract}`). ✅
+- `settings()` → Sarvam key present; providers = sarvam (llm/ocr/asr/translate),
+  local (embed). ✅
+- Data model: `Segment.citation_label()` →
+  `Sakshi YS Jagan PC.docx p.2 (2024-11-28)`; `ExtractedDoc`/`Chunk`/`Locator`
+  construct. ✅
+- `metadata.derive(file, data_root)` on the SECI docx → id=10, 2024-11-28,
+  "SECI – POWER SECTOR", press_release (matches original claim). ✅
+- `manifest`: content-hash changes on file edit; `Manifest` exposes
+  `mark/needs/status/save/summary` for incremental. ✅
+- Provider factories build `SarvamLLM/SarvamOCR/SarvamASR/SarvamTranslator` with
+  no network I/O. `get_embedder` raises only because `sentence-transformers`
+  isn't installed yet — expected, deferred to WP2 `.[local]` (below). ✅
+
 ## Known gaps / TODOs (picked up later)
 
 - **Sarvam OCR job schema is best-effort** — the exact `doc-digitization` request/
