@@ -1,13 +1,0 @@
-discovered 635 source files under /home/balannag/KNG/data
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 25259.89it/s]
-  [25/208] 227 chunks embedded
-  [50/208] 420 chunks embedded
-  [75/208] 475 chunks embedded
-  [100/208] 544 chunks embedded
-  [125/208] 593 chunks embedded
-  [150/208] 646 chunks embedded
-  [175/208] 699 chunks embedded
-  [200/208] 810 chunks embedded
-embed: 208/635 docs · 824 chunks · dim 1024 · 4267 rows in lancedb
-manifest: {"files": 635, "extract": 634, "normalize": 634, "chunk": 635, "embed": 635, "graph": 0}
