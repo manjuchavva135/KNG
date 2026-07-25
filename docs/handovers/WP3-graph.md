@@ -8,6 +8,10 @@ the cluster and incomplete** — resumable, re-bills nothing. Everything else
 
 ## Quick resume
 
+`index/` and `extracted/` are committed, so `git clone` + `pip install -e
+'.[local]'` gives a working system with no API key. See "Cluster → local
+hand-off" below. To continue the paid extraction:
+
 ```bash
 cd ~/KNG && source .venv/bin/activate
 
@@ -221,32 +225,26 @@ afterwards (they are fingerprinted, so a real run ignores them anyway).
 
 ## Cluster → local hand-off
 
-Extraction should finish on the **cluster**; WP4/WP5 run **locally**.
+Extraction runs on the **cluster**; WP4/WP5 run **locally**. `index/` and
+`extracted/` are now **committed to git**, so the hand-off is just a clone.
 
-| path | size | ship? |
-|---|---|---|
-| `index/lancedb/` | 147 MB | yes |
-| `index/chunks/` | 35 MB | yes |
-| `index/graph/` | 3.9 MB (grows with extraction) | yes |
-| `index/manifest.json`, `stats.json` | 0.4 MB | yes |
-| `extracted/` | 18 MB | yes — citations resolve against it |
-| **total** | **~204 MB** | |
+| path | files | size | in git? |
+|---|---|---|---|
+| `index/lancedb/` | 3269 | 147 MB | yes |
+| `index/chunks/` | 635 | 35 MB | yes |
+| `index/graph/` | 192 | 3.9 MB (grows with extraction) | yes |
+| `index/manifest.json`, `stats.json` | 2 | 0.4 MB | yes |
+| `extracted/` | 645 | 18 MB | yes — citations resolve against it |
+| `/data/` | — | 584 MB | **no** — source archive, not needed to query |
+| `.env` | — | — | **no** — secret |
 
 ```bash
-# ── on the cluster ──
-cd ~/KNG
-tar -czf kng-index-$(date +%Y%m%d).tar.gz index/ extracted/
-sha256sum kng-index-*.tar.gz | tee kng-index.sha256
-du -sh index extracted
-
-# ── on the laptop ──
 git clone <repo> KNG && cd KNG
 python3.11 -m venv .venv && source .venv/bin/activate
-pip install -e '.[local]'                  # bge-m3 for query-side embedding
-sha256sum -c kng-index.sha256 && tar -xzf kng-index-*.tar.gz
-cp .env.example .env                       # SARVAM_API_KEY only needed for WP3
+pip install -e '.[local]'      # bge-m3 for query-side embedding
+cp .env.example .env           # SARVAM_API_KEY only needed to resume WP3
 
-# post-copy smoke — none of these need an API key
+# smoke test — none of these need an API key
 python -m kng.graph_query stats
 python -m kng.graph_query entities --type Person --top 10
 python -m kng.graph_query timeline "TTD"
@@ -254,12 +252,37 @@ python -m kng.query "Tirupati laddu" -k 5
 python -m kng.stats
 ```
 
-Local dependencies: `pyyaml`, `networkx`, `pydantic`, `lancedb`, `pyarrow`, plus
-`.[local]` for bge-m3. **No `SARVAM_API_KEY` is needed to query the graph** — WP4
-development is guardrail-free.
+**No `SARVAM_API_KEY` is needed to query** — WP4 development is entirely free of
+the paid-call guardrail. The first `kng.query` downloads bge-m3 (~2 GB) from
+HuggingFace; after that everything runs offline.
 
-To top up the graph later, re-run extraction on the cluster, then re-copy
-`index/graph/`. It is the only directory that changes.
+Local dependencies: `pyyaml`, `networkx`, `pydantic`, `lancedb`, `pyarrow`, plus
+`.[local]` for bge-m3.
+
+**`.gitignore` caveat.** The rule is `/data/`, anchored to the repo root. An
+unanchored `data/` matches *any* directory of that name at any depth, so it also
+excluded `extracted/data/` and `index/chunks/data/` — 2100 of 4743 artifact
+files would have been silently missing from a clone. Verify after any
+`.gitignore` change:
+
+```bash
+for d in index/lancedb index/chunks index/graph extracted; do
+  printf "%-18s disk=%s staged=%s\n" "$d" \
+    "$(find $d -type f | wc -l)" \
+    "$(git ls-files -z -- $d | tr '\0' '\n' | grep -c .)"
+done
+```
+(Use `-z`: git quotes paths containing spaces and Telugu characters, which
+breaks a naive `grep "^$d/"`.)
+
+**Trade-off of committing the index.** LanceDB files are binary and rewritten
+wholesale, so each re-index adds another full ~180 MB copy to git history that
+git cannot delta. The repo is currently ~582 MB including history. If it becomes
+unwieldy, re-ignore `index/` and `extracted/` and use `scripts/package_index.sh`,
+which tars both with a checksum.
+
+To top up the graph after more extraction, commit `index/graph/` — it is the only
+directory that changes.
 
 ---
 

@@ -10,8 +10,12 @@ with **exact source citations**, plus cross-meet / temporal reasoning.
   with local-only stages (`chunk`, `embed`, `query` are all free). This is the
   standing guardrail. Note `--local-only` is now *destructive* on this repo —
   see "Verification" below.
-- **Sarvam key lives only in git-ignored `.env`.** Never commit it. `data/` is
-  also git-ignored (not pushed).
+- **Sarvam key lives only in git-ignored `.env`.** Never commit it. The
+  top-level `/data/` source archive (584 MB) is also ignored. **`index/` and
+  `extracted/` ARE committed** so a clone reproduces the whole system — see
+  "Cluster → local hand-off". The ignore rule is `/data/`, anchored: an
+  unanchored `data/` also matches `extracted/data/` and `index/chunks/data/`,
+  which silently excluded 2100 of 4743 artifact files until it was caught.
 - **Provider-first:** all models go through `kng/providers`. Sarvam is primary;
   local / other-cloud are `.env`-selectable fallbacks. No provider names hard-coded
   in pipeline logic.
@@ -31,10 +35,25 @@ Data processing runs on the **cluster**; the query app runs **locally**.
   calls, ffmpeg chunking) → WP2 (chunk + local-embedding-model compute +
   LanceDB) → WP3 (graph build: entity/relation extraction, resolution,
   communities). End of WP3 = `index/` is complete and self-contained.
-- **Local:** copy `index/` (+`extracted/`) after WP3, then build/run WP4
-  (query engine) and WP5 (chat web UI) there — no bulk processing needed.
-- WP6's `kng/pipeline/export.py` is the formal packaging step, but `index/`
-  is already copyable as soon as WP3 finishes.
+- **Local:** `git clone` is the whole hand-off — `index/` and `extracted/` are
+  committed (~204 MB), so WP4 (query engine) and WP5 (chat UI) need no bulk
+  processing and **no `SARVAM_API_KEY`**. Querying makes zero API calls.
+
+```bash
+git clone <repo> KNG && cd KNG
+python3.11 -m venv .venv && source .venv/bin/activate
+pip install -e '.[local]'          # bge-m3 for query-side embedding
+cp .env.example .env               # key only needed to resume WP3
+python -m kng.graph_query stats
+```
+
+- `/data/` (584 MB of source files) stays out of git; it is input to stages
+  already completed and is not needed to query.
+- `scripts/package_index.sh` tars `index/` + `extracted/` with a checksum — the
+  alternative if the repo is ever made artifact-free again. Committing binary
+  LanceDB files means every re-index adds another full copy to git history, so
+  if the repo grows unwieldy, re-ignore both directories and use that script.
+- WP6's `kng/pipeline/export.py` remains the formal packaging step.
 
 ## Provider stack (locked)
 
@@ -145,7 +164,9 @@ kng/pipeline/extract/  documents.py media.py
 kng/store/        vector.py(LanceDB, WP2)  graph.py(WP3)
 kng/retrieval/ generation/ api/           # WP4–WP5
 config/ontology.yaml   docs/   extracted/
-index/   manifest.json stats.json chunks/ lancedb/   # portable, copyable
+scripts/ package_index.sh               # tar index/+extracted/ with checksum
+index/   manifest.json stats.json chunks/ lancedb/ graph/   # committed to git
+extracted/                               # committed; citations resolve against it
 ```
 
 ## Verification (no paid calls)

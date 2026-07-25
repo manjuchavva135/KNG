@@ -10,8 +10,9 @@ or scheme across press meets over time**.
 - **Provider-first & modular:** Sarvam powers LLM inference, ASR, OCR and
   translation; embeddings run on a local multilingual model. Swapping any
   provider is a `.env` change, not a code change.
-- **Portable output:** all artifacts land in a self-contained `index/` directory
-  you can copy to another system after embedding.
+- **Clone-and-run:** `index/` and `extracted/` are committed (~204 MB), so a
+  clone is a working system — no artifact transfer, no reprocessing, and **no
+  API key** for querying. Only the 584 MB `/data/` source archive stays out.
 - **Scalable:** a content-hash manifest means dropping new press meets into
   `data/` only reprocesses what changed.
 
@@ -49,14 +50,32 @@ meaningless bytes.
 
 ## Setup
 
-```bash
-uv venv --python 3.11 .venv
-uv pip install -e .            # core (extraction + vector store)
-uv pip install -e '.[local]'  # REQUIRED for embeddings — bge-m3 + torch (~2GB)
-uv pip install -e '.[cloud]'  # optional cloud providers (anthropic/cohere/neo4j)
-uv pip install -e '.[api]'    # FastAPI backend
+### Querying an existing index (no API key needed)
 
-cp .env.example .env          # then fill in SARVAM_API_KEY
+The committed `index/` + `extracted/` make a fresh clone immediately queryable:
+
+```bash
+git clone <repo> KNG && cd KNG
+uv venv --python 3.11 .venv && source .venv/bin/activate
+uv pip install -e '.[local]'   # bge-m3 + torch (~2GB), for query-side embedding
+cp .env.example .env           # SARVAM_API_KEY only needed to re-run the pipeline
+
+python -m kng.stats            # per-stage document counts
+python -m kng.graph_query stats
+python -m kng.query "Tirupati laddu" -k 5
+```
+
+The first query downloads the bge-m3 model from HuggingFace (~2 GB, free). After
+that everything runs offline.
+
+### Re-running the pipeline
+
+Needs the `/data/` source archive (not in git) and a `SARVAM_API_KEY`:
+
+```bash
+uv pip install -e .            # core (extraction + vector store)
+uv pip install -e '.[cloud]'   # optional providers (anthropic/cohere/neo4j)
+uv pip install -e '.[api]'     # FastAPI backend
 ```
 
 `.[local]` is not optional: Sarvam has no embeddings API, so the index is built
