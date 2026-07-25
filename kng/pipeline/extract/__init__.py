@@ -1,8 +1,10 @@
 """Extraction dispatch: one source file -> ExtractedDoc (metadata + segments).
 
-Text formats (docx/pdf/pptx/xlsx) run with no external calls. Images route to
-the OCR provider and videos to the ASR provider — gated by `use_ocr`/`use_asr`
-so a dry run never triggers paid calls.
+WP1b — Sarvam-first: every document is routed through the Sarvam API (PDFs +
+images via OCR; office docs via LLM cleanup; videos via ASR). `sarvam=False`
+(`--local-only`) forces the local-parse fallbacks and makes zero paid calls, so
+a dev/dry run stays fully offline. Each paid call is tallied into the doc's
+`sarvam_calls` counter.
 """
 from __future__ import annotations
 
@@ -21,8 +23,9 @@ _TEXT_DISPATCH = {
 }
 
 
-def extract_file(abs_path: Path, data_root: Path | None = None,
-                 use_ocr: bool = True, use_asr: bool = True) -> ExtractedDoc:
+def extract_file(abs_path: Path, data_root: Path | None = None, *,
+                 use_ocr: bool = True, use_asr: bool = True,
+                 sarvam: bool = True, use_cleanup: bool = True) -> ExtractedDoc:
     data_root = data_root or settings().data_dir
     meta = metadata.derive(abs_path, data_root)
     rel = str(abs_path.relative_to(ROOT))
@@ -37,16 +40,20 @@ def extract_file(abs_path: Path, data_root: Path | None = None,
         topic=meta["topic"],
         publication=meta["publication"],
     )
+    calls = doc.sarvam_calls  # extractors bump this shared counter in place
     try:
         if stype == SourceType.news_clip:
-            doc.segments = media.extract_image(abs_path, meta, rel, use_ocr=use_ocr)
+            doc.segments = media.extract_image(abs_path, meta, rel, use_ocr=use_ocr,
+                                               sarvam=sarvam, calls=calls)
             doc.extractor = "ocr"
         elif stype == SourceType.video:
-            doc.segments = media.extract_video(abs_path, meta, rel, use_asr=use_asr)
+            doc.segments = media.extract_video(abs_path, meta, rel, use_asr=use_asr,
+                                               sarvam=sarvam, calls=calls)
             doc.extractor = "asr"
         elif stype in _TEXT_DISPATCH:
             fn = _TEXT_DISPATCH[stype]
-            doc.segments = fn(abs_path, meta, rel, use_ocr=use_ocr)
+            doc.segments = fn(abs_path, meta, rel, use_ocr=use_ocr, sarvam=sarvam,
+                              use_cleanup=use_cleanup, calls=calls)
             doc.extractor = fn.__name__
         else:
             doc.error = f"no extractor for {abs_path.suffix}"

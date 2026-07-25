@@ -43,6 +43,8 @@ def normalize_doc(doc: ExtractedDoc, translate: bool = False) -> ExtractedDoc:
         if translator is not None and seg.language in {"te", "hi", "mixed"} and seg.text_original:
             try:
                 seg.text_en = translator.to_english(seg.text_original)
+                if seg.text_en:
+                    doc.sarvam_calls["translate"] = doc.sarvam_calls.get("translate", 0) + 1
             except Exception:
                 seg.text_en = None
     return doc

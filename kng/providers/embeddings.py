@@ -16,8 +16,15 @@ class LocalEmbedder:
         from sentence_transformers import SentenceTransformer
         self.model_name = model_name
         self._model = SentenceTransformer(model_name)
-        self.dim = self._model.get_sentence_embedding_dimension()
+        # renamed in sentence-transformers 5.x; support both
+        _dim = (getattr(self._model, "get_embedding_dimension", None)
+                or self._model.get_sentence_embedding_dimension)
+        self.dim = _dim()
+        # Anything longer is silently truncated by the model, so the chunker
+        # sizes against this rather than assuming a limit.
+        self.max_tokens = int(self._model.max_seq_length)
         # e5 models expect "query:"/"passage:" prefixes; handle transparently.
+        # bge-* models are trained without them, so this must stay model-aware.
         self._is_e5 = "e5" in model_name.lower()
 
     def _prep(self, texts: list[str], kind: str) -> list[str]:

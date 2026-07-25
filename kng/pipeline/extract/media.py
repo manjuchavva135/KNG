@@ -11,6 +11,11 @@ from pathlib import Path
 from ...models import Locator, Segment, SourceType
 
 
+def _bump(calls: dict | None, kind: str, n: int = 1) -> None:
+    if calls is not None:
+        calls[kind] = calls.get(kind, 0) + n
+
+
 def _clean_ocr(text: str) -> str:
     """Tidy OCR markdown from newspaper cuttings: collapse whitespace, drop
     stray single-char lines and repeated separators, keep headings/paragraphs."""
@@ -46,13 +51,18 @@ def _seg(meta: dict, rel: str, sid: str, text: str, locator: Locator,
     )
 
 
-def extract_image(path: Path, meta: dict, rel: str, use_ocr: bool = True) -> list[Segment]:
-    if not use_ocr:
+def extract_image(path: Path, meta: dict, rel: str, *, use_ocr: bool = True,
+                  sarvam: bool = False, calls: dict | None = None) -> list[Segment]:
+    # News-clip OCR is a paid Sarvam call → gated on both the feature flag and
+    # sarvam (so `--local-only` makes no calls and simply yields no segments).
+    if not (use_ocr and sarvam):
         return []
     from ...providers import get_ocr
     ocr = get_ocr()
+    pages = ocr.ocr_file(path, languages=["te", "hi", "en"])
+    _bump(calls, "ocr")
     segs: list[Segment] = []
-    for page, raw in ocr.ocr_file(path, languages=["te", "hi", "en"]):
+    for page, raw in pages:
         text = _clean_ocr(raw)
         if text:
             segs.append(_seg(meta, rel, f"{rel}#ocr{page}", text,
@@ -61,13 +71,16 @@ def extract_image(path: Path, meta: dict, rel: str, use_ocr: bool = True) -> lis
     return segs
 
 
-def extract_video(path: Path, meta: dict, rel: str, use_asr: bool = True) -> list[Segment]:
-    if not use_asr:
+def extract_video(path: Path, meta: dict, rel: str, *, use_asr: bool = True,
+                  sarvam: bool = False, calls: dict | None = None) -> list[Segment]:
+    if not (use_asr and sarvam):
         return []
     from ...providers import get_asr
     asr = get_asr()
+    transcript = asr.transcribe(path)
+    _bump(calls, "asr")
     segs: list[Segment] = []
-    for i, (start, end, text) in enumerate(asr.transcribe(path)):
+    for i, (start, end, text) in enumerate(transcript):
         text = text.strip()
         if text:
             segs.append(_seg(meta, rel, f"{rel}#t{i}", text,

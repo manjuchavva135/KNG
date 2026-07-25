@@ -34,9 +34,14 @@ When documents disagree, use this order:
 6. The approved plan at
    `~/.claude/plans/act-as-a-software-snuggly-pond.md`.
 
-The plan's **Revision 1** supersedes its original cloud/Neo4j/Docker defaults.
-The locked current direction is Sarvam-first providers, local multilingual
-embeddings, LanceDB, and NetworkX, with portable artifacts and no Docker.
+The plan's revisions supersede its original cloud/Neo4j/Docker defaults:
+
+- **Revision 1:** Sarvam-first universal extraction, local multilingual
+  embeddings, LanceDB, NetworkX, portable artifacts, and persisted counts.
+- **Revision 2:** run bulk data work through WP3 on the cluster, then transfer
+  the completed artifacts to the local machine for WP4 and WP5.
+
+There is no Docker requirement in the locked current direction.
 
 ## Non-negotiable guardrails
 
@@ -93,6 +98,31 @@ The exact WP1b checklist is in
 `docs/handovers/WP1b-sarvam-revision.md`. Keep that handover and the tracker
 updated as implementation advances.
 
+## Cluster-to-local deployment boundary
+
+Development and execution are deliberately split:
+
+| Environment | Work packages | Responsibility |
+|---|---|---|
+| Cluster | WP0, WP1/WP1b, WP2, WP3 | Extraction, paid Sarvam batch calls, ffmpeg processing, local embedding-model compute, LanceDB creation, and graph construction |
+| Local machine | WP4, WP5 | Hybrid retrieval, cited answer generation, FastAPI, and the interactive chat UI |
+| Either | WP6 | Evaluation, hardening, and formal export packaging |
+
+WP3 is the hand-off point. By its end, `index/` must be self-contained and
+include the manifest, stats, vectors, and graph required for querying. Copy
+`index/` **and** `extracted/` to the local machine so citation/source viewing can
+resolve the underlying extracted evidence.
+
+Code written in WP0-WP3 must be resumable and suitable for non-interactive
+cluster runs. Code written in WP4-WP5 must not silently depend on the original
+cluster, raw `data/`, cluster-only absolute paths, or a bulk re-ingestion step.
+Store portable project-relative paths in artifacts.
+
+`kng/pipeline/export.py` is planned for WP6 as the formal packaging command, but
+the artifacts must already be directly copyable after WP3. Before hand-off,
+verify that the copied index opens on a different filesystem location and that
+sample citations still resolve against the copied `extracted/` tree.
+
 ## Locked provider and storage choices
 
 - LLM: Sarvam `sarvam-m`
@@ -133,6 +163,8 @@ index/                      manifest, stats, vector/graph artifacts; ignored
 
 Later planned packages are `kng/store/`, `kng/retrieval/`,
 `kng/generation/`, and `kng/api/`. Add them only with their work package.
+WP0-WP3 produce the portable data plane; WP4-WP5 consume it as the local serving
+plane.
 
 ## Data and pipeline contracts
 
@@ -240,6 +272,8 @@ For each change:
 
 Network/provider integration must be mocked or left for a user-run live smoke
 test. Never weaken the paid-call guardrail merely to make a test convenient.
+Run bulk ingestion, embedding, and graph-building commands on the cluster.
+After WP3, exercise retrieval and UI work locally against copied artifacts.
 
 ## Code conventions
 
@@ -268,6 +302,11 @@ A WP is complete only when its code runs and is verified offline. At the end:
 - record commands run and real per-stage document/segment/error/call counts;
 - document decisions, fallbacks, gaps, and the exact next resume point; and
 - leave paid/full-corpus execution as an explicit user action when applicable.
+
+WP3's handover must additionally provide the exact cluster-to-local copy or
+packaging procedure, artifact sizes/checksums, required local dependencies, and
+a post-copy smoke test. WP4 must treat the copied index as read-only input unless
+the user explicitly requests local re-indexing.
 
 Use the existing handover template: what was built, how to run it, decisions and
 trade-offs, verification, counts, known gaps, and what the next WP picks up.

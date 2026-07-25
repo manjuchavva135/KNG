@@ -78,6 +78,8 @@ class ExtractedDoc(BaseModel):
     file_hash: str = ""
     segments: list[Segment] = Field(default_factory=list)
     extractor: str = ""                         # which extractor produced this
+    # paid Sarvam calls this file triggered, by kind: ocr | cleanup | asr | translate
+    sarvam_calls: dict[str, int] = Field(default_factory=dict)
     error: Optional[str] = None
 
 
@@ -88,6 +90,11 @@ class Chunk(BaseModel):
     text_original: str
     text_en: Optional[str] = None
     embedding: Optional[list[float]] = None
+    # sha1 of the whitespace-normalised text. The archive holds byte-identical
+    # duplicate files, so the same passage legitimately appears under several
+    # sources; every copy stays indexed (each must remain citable) and retrieval
+    # collapses them on this hash instead.
+    content_hash: str = ""
     # flattened provenance for filtering + citation
     source_file: str = ""
     source_type: str = ""
