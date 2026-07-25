@@ -6,6 +6,8 @@ not yet expose. All auth uses the `api-subscription-key` header.
 """
 from __future__ import annotations
 
+import threading
+import time
 from functools import lru_cache
 
 from ..config import settings
@@ -15,16 +17,106 @@ SARVAM_BASE = "https://api.sarvam.ai"
 
 @lru_cache(maxsize=1)
 def client():
-    """Cached sarvamai SDK client."""
+    """Cached sarvamai SDK client.
+
+    The timeout is set here, on the client, rather than left to per-request
+    `request_options`. A graph run at concurrency 16 had all 16 workers block on
+    responses that never arrived and never timed out — the process sat at 0.3%
+    CPU for 35 minutes holding 16 open connections. A client-level timeout
+    configures the underlying httpx client directly and is the backstop that
+    actually fires, so a stalled call fails and retries instead of hanging.
+
+    The SDK's own default is 60s, which is too short for the chat models used
+    for graph extraction; this raises it rather than lowering it.
+    """
     from sarvamai import SarvamAI
     s = settings()
     if not s.sarvam_api_key:
         raise RuntimeError("SARVAM_API_KEY not set in .env")
-    return SarvamAI(api_subscription_key=s.sarvam_api_key)
+    return SarvamAI(api_subscription_key=s.sarvam_api_key, timeout=s.llm_timeout)
 
 
 def _headers() -> dict:
     return {"api-subscription-key": settings().sarvam_api_key}
+
+
+@lru_cache(maxsize=1)
+def _http():
+    """Shared httpx client for direct REST chat calls.
+
+    The SDK is bypassed for chat for the same reason it already is for Document
+    Intelligence: control. Two graph runs hung with every worker blocked on
+    responses that never returned and never timed out — once at concurrency 16
+    and again at 4 — while a direct httpx POST to the same endpoint answered in
+    one second. Setting the timeout on the SDK client did not fix it. An
+    explicit `httpx.Timeout` here does fire, so a stalled call fails and retries
+    instead of parking a worker forever.
+    """
+    import httpx
+    s = settings()
+    return httpx.Client(
+        timeout=httpx.Timeout(s.llm_timeout, connect=15.0, pool=30.0),
+        # **Keep-alive is disabled deliberately.** The server drops idle
+        # connections without the close reaching us, so a pooled socket stays
+        # ESTABLISHED locally while being dead at the far end; the next request
+        # on it is never answered and the worker blocks until the read timeout,
+        # burning `llm_timeout x (retries+1)` per chunk. Every long graph run
+        # died this way — all workers in `poll_schedule_timeout` on live-looking
+        # sockets, while a fresh connection from another process answered in one
+        # second. Rate limiting made it worse by adding the idle gaps that let
+        # connections go stale. A new connection per request costs a TLS
+        # handshake (~100ms) against calls that take 15-40s: irrelevant.
+        limits=httpx.Limits(max_connections=32, max_keepalive_connections=0),
+        headers={**_headers(), "Connection": "close"},
+    )
+
+
+class _RateLimiter:
+    """Token bucket over a sliding minute, shared by every worker thread.
+
+    Sarvam publishes 40 req/min for the large chat models on the Starter tier,
+    counted **per account** rather than per key. Staying under that by design is
+    better than discovering it: exceeding it earlier produced connections that
+    hung rather than clean 429s, which cost two runs and ~45 minutes of wall
+    clock before the cause was clear.
+    """
+
+    def __init__(self, per_minute: int):
+        self.per_minute = max(1, per_minute)
+        self._times: list[float] = []
+        self._lock = threading.Lock()
+
+    def acquire(self) -> None:
+        while True:
+            with self._lock:
+                now = time.monotonic()
+                self._times = [t for t in self._times if now - t < 60.0]
+                if len(self._times) < self.per_minute:
+                    self._times.append(now)
+                    return
+                wait = 60.0 - (now - self._times[0]) + 0.05
+            time.sleep(max(0.05, wait))
+
+
+@lru_cache(maxsize=1)
+def _limiter() -> _RateLimiter:
+    return _RateLimiter(settings().llm_rpm)
+
+
+def chat_completion(payload: dict) -> dict:
+    """POST /v1/chat/completions and return the parsed body.
+
+    Raises on a non-2xx so the caller's retry/backoff sees a real error — and so
+    a permanent 4xx (a deprecated model, an over-tier `max_tokens`) surfaces
+    immediately rather than being retried.
+    """
+    import httpx
+    _limiter().acquire()
+    r = _http().post(f"{SARVAM_BASE}/v1/chat/completions", json=payload)
+    if r.status_code >= 400:
+        raise httpx.HTTPStatusError(
+            f"{r.status_code}: {r.text[:400]}", request=r.request, response=r)
+    return r.json()
 
 
 def _unwrap(resp, *names: str) -> str:

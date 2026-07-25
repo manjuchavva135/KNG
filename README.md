@@ -113,14 +113,18 @@ kng/
     manifest.py        # content-hash incremental state
     metadata.py        # derive meet id/date/topic/publication from paths
     extract/           # docx pdf pptx xlsx image(OCR) video(ASR)
-    normalize.py chunk.py embed.py graph_build.py run.py export.py
-  query.py             # retrieval smoke test (WP2)
-  store/               # vector.py (LanceDB) · graph.py (NetworkX/Neo4j, WP3)
+    normalize.py chunk.py embed.py run.py export.py
+    graph_build.py       # WP3 phases A (structural, free) + D (communities)
+    graph_extract.py     # WP3 phases B/C/E — the paid ones
+  graph/  ontology.py    # reads config/ontology.yaml; constrains + validates
+  query.py               # vector retrieval smoke test (WP2)
+  graph_query.py         # graph smoke test (WP3): neighbors/path/timeline
+  store/                 # vector.py (LanceDB) · graph.py (NetworkX/Neo4j)
   retrieval/  generation/  api/   # WP4 / WP5
 config/  ontology.yaml            # graph node/edge types + alias table
 docs/                            # WORK_PACKAGES.md + handovers/
 index/                           # portable output — copy this to the query machine
-  manifest.json  stats.json  chunks/  lancedb/
+  manifest.json  stats.json  chunks/  lancedb/  graph/
 ```
 
 ---
@@ -136,11 +140,11 @@ Built in independently-resumable work packages; each ends with a handover doc in
 | WP1 | Multimodal extraction + Sarvam OCR/ASR + normalization | ✅ text done · OCR/ASR ready |
 | WP1b | Sarvam-first universal extraction + per-stage doc counts | ✅ done · 634/635 files · 2323 seg |
 | WP2 | Chunk → embed → LanceDB (RAG works) | ✅ done · 4267 chunks · bge-m3 (1024d) |
-| WP3 | Knowledge graph build | ⏳ |
+| WP3 | Knowledge graph build | 🟡 code done · extraction in progress (1043/4251 units, resumable) |
 | WP4 | GraphRAG query engine (cited synopsis) | ⏳ |
 | WP5 | FastAPI + chat web UI | ⏳ |
 | WP6 | Eval, hardening, portable export | ⏳ |
 
-> **Resume point:** WP3 (knowledge graph) — see
-> [`docs/handovers/WP2-index.md`](docs/handovers/WP2-index.md)
-> has the exact next steps. `data/` is git-ignored (not pushed to GitHub).
+> **Resume point:** WP3's paid extraction pass, then WP4 — see
+> [`docs/handovers/WP3-graph.md`](docs/handovers/WP3-graph.md)
+> for the exact commands. `data/` is git-ignored (not pushed to GitHub).

@@ -22,8 +22,15 @@ def get_embedder():
 
 @lru_cache(maxsize=1)
 def get_llm():
-    from .llm import AnthropicLLM, SarvamLLM
+    import os
+
+    from .llm import AnthropicLLM, FakeLLM, SarvamLLM
     s = settings()
+    # Dev-only escape hatch so the paid extraction path can be exercised end to
+    # end without spending. Checked from the environment rather than Settings
+    # because it must never be a deployment setting.
+    if os.environ.get("KNG_FAKE_LLM", "").lower() in {"1", "true", "yes", "on"}:
+        return FakeLLM()
     if s.llm_provider == "anthropic" and s.anthropic_api_key:
         return AnthropicLLM(s.anthropic_model)
     return SarvamLLM(s.sarvam_chat_model)

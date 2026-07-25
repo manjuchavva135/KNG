@@ -110,3 +110,73 @@ class Chunk(BaseModel):
     video_start: Optional[float] = None
     video_end: Optional[float] = None
     citation: str = ""
+
+
+# ── knowledge graph (WP3) ──────────────────────────────────────────────────────
+# Node and edge types are declared in config/ontology.yaml and enforced by
+# kng/graph/ontology.py; these carry the instances plus the provenance that makes
+# every one of them citable.
+
+class Entity(BaseModel):
+    """A resolved graph node — one real-world thing, however it was spelled.
+
+    `entity_id` is derived from (type, normalised canonical name) rather than
+    assigned, so the same person found in a Telugu clip and an English press
+    release lands on one node and a rebuild is reproducible.
+    """
+    entity_id: str
+    name: str                                   # canonical display form
+    type: str                                   # a node_type from the ontology
+    aliases: list[str] = Field(default_factory=list)     # surface forms observed
+    mention_count: int = 0
+    press_meet_ids: list[str] = Field(default_factory=list)
+    first_date: Optional[str] = None            # earliest meet mentioning it
+    last_date: Optional[str] = None
+    structural: bool = False                    # from file metadata, not the LLM
+
+
+class Mention(BaseModel):
+    """One occurrence of an entity in one chunk — the citation anchor.
+
+    Without this the graph could assert a fact but not say where it came from,
+    which is the whole point of the archive.
+    """
+    entity_id: str
+    chunk_id: str
+    source_file: str
+    press_meet_id: str
+    date: Optional[str] = None
+    citation: str = ""
+    surface: str = ""                           # the name exactly as written
+
+
+class Relation(BaseModel):
+    """A typed edge, with the passage that supports it."""
+    source_id: str
+    relation: str                               # a relationship_type from the ontology
+    target_id: str
+    evidence: str = ""                          # short supporting quote
+    chunk_id: str = ""                          # "" for structural edges
+    source_file: str = ""
+    press_meet_id: str = ""
+    date: Optional[str] = None
+    citation: str = ""
+    structural: bool = False
+
+    def key(self) -> tuple[str, str, str]:
+        return (self.source_id, self.relation, self.target_id)
+
+
+class Community(BaseModel):
+    """A Louvain cluster plus its LLM 'god-node' summary.
+
+    These answer the global/thematic questions that passage retrieval cannot —
+    "what recurs across the budget meets" rather than "what was said on the 20th".
+    """
+    community_id: str
+    level: int = 0
+    entity_ids: list[str] = Field(default_factory=list)
+    press_meet_ids: list[str] = Field(default_factory=list)
+    title: str = ""
+    summary: str = ""
+    size: int = 0

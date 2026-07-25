@@ -206,6 +206,20 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--repair-extracted", action="store_true",
                     help="strip base64 image payloads + re-paginate OCR'd docs "
                          "already in extracted/ (no paid calls) and exit")
+    ap.add_argument("--structural-only", action="store_true",
+                    help="graph: build only the free metadata scaffold "
+                         "(meets/sources/publications/dates) — no paid LLM calls")
+    ap.add_argument("--no-summaries", action="store_true",
+                    help="graph: skip the paid LLM community summaries")
+    ap.add_argument("--concurrency", type=int, default=0,
+                    help="graph: parallel LLM calls (default LLM_CONCURRENCY)")
+    ap.add_argument("--retry-split", type=int, default=0,
+                    help="graph: retry chunks that failed extraction, re-split to "
+                         "this many chars (e.g. 1200). Only touches chunks absent "
+                         "from the cache, so nothing already paid for is re-billed")
+    ap.add_argument("--plan-only", action="store_true",
+                    help="graph: report what a paid pass would cost and exit "
+                         "(makes no calls)")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args(argv)
 
@@ -264,26 +278,39 @@ def main(argv: list[str] | None = None) -> int:
     if args.stage in ("all", "embed"):
         _run_later_stage("embed", man, files)
     if args.stage in ("all", "graph"):
-        _run_later_stage("graph", man, files)
+        # `--stage all` never spends on graph extraction unasked: the paid phase
+        # is opt-in via an explicit `--stage graph`.
+        _run_later_stage("graph", man, files,
+                         structural_only=args.structural_only or args.stage == "all",
+                         force=args.force, concurrency=args.concurrency,
+                         summaries=not args.no_summaries, plan_only=args.plan_only,
+                         retry_split=args.retry_split)
 
     print("manifest:", json.dumps(man.summary()), file=sys.stderr)
     return 0
 
 
-def _run_later_stage(stage: str, man: Manifest, files: list[Path]) -> None:
-    """chunk/embed/graph land in WP2/WP3. Dispatch here when implemented."""
+_STAGE_MODULES = {"chunk": ".chunk", "embed": ".embed", "graph": ".graph_build"}
+
+
+def _run_later_stage(stage: str, man: Manifest, files: list[Path], **kwargs) -> None:
+    """Dispatch chunk/embed/graph, which are implemented in WP2/WP3.
+
+    The import is guarded only for the stage module's own absence. It used to
+    catch every ImportError, which meant a missing dependency *inside* a written
+    stage was reported as "not implemented yet" — exactly the kind of silent
+    misdirection that hid the earlier extraction defects.
+    """
+    import importlib
+    modname = _STAGE_MODULES[stage]
     try:
-        if stage == "chunk":
-            from .chunk import run_chunk
-            run_chunk(man, files)
-        elif stage == "embed":
-            from .embed import run_embed
-            run_embed(man, files)
-        elif stage == "graph":
-            from .graph_build import run_graph
-            run_graph(man, files)
-    except ImportError:
-        print(f"[{stage}] not implemented yet — skipping", file=sys.stderr)
+        mod = importlib.import_module(modname, package=__package__)
+    except ModuleNotFoundError as e:
+        if e.name == f"{__package__}{modname}":
+            print(f"[{stage}] not implemented yet — skipping", file=sys.stderr)
+            return
+        raise
+    getattr(mod, f"run_{'graph' if stage == 'graph' else stage}")(man, files, **kwargs)
 
 
 if __name__ == "__main__":

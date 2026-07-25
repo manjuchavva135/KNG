@@ -24,7 +24,10 @@ from .config import ROOT
 
 STATS_PATH = ROOT / "index" / "stats.json"
 
-_CALL_KINDS = ("ocr", "cleanup", "asr", "translate")
+# Billed call kinds. `graph` (entity/relation extraction) and `summary`
+# (community god-nodes) are WP3's paid passes; anything else in the dict is a
+# non-billed diagnostic and renders on the "issues" line.
+_CALL_KINDS = ("ocr", "cleanup", "asr", "translate", "graph", "summary")
 
 
 def _load(path: Path = STATS_PATH) -> dict:
@@ -60,6 +63,14 @@ def render(path: Path = STATS_PATH) -> str:
         )
         if "rows" in c:      # cumulative index size, independent of resumes
             lines.append(f"{'':<10} indexed: {c['rows']} rows in the vector store")
+        if "nodes" in c:     # graph size, likewise cumulative
+            lines.append(f"{'':<10} graph:   {c['nodes']} nodes · {c['edges']} edges · "
+                         f"{c.get('communities', 0)} communities")
+            for label, key in (("by node", "by_node_type"), ("by rel ", "by_relation")):
+                d = c.get(key) or {}
+                if d:
+                    bits = " ".join(f"{k}={v}" for k, v in d.items())
+                    lines.append(f"{'':<10} {label}: {bits}")
         # a no-op run has no per-run by_type; fall back to the whole index's
         by_type = c.get("by_type") or c.get("indexed_by_type") or {}
         if by_type:
