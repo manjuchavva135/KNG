@@ -1,0 +1,955 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f836a23b2e61abc2117a1920480cd5851ee5d9c4": {
+   "entities": [
+    {
+     "name": "mallikarjuna tummaluru",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Voter Helpline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ponnathota Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu Mandal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu Constituency",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSR",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nallapureddy Palle",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "M.P.P.SCHOOL PONNATHOTA",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ponnathota Village",
+     "relation": "LOCATED_IN",
+     "target": "Jammalamadugu Mandal",
+     "evidence": "Ponnathota Village"
+    },
+    {
+     "source": "Jammalamadugu Constituency",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "State: Andhra Pradesh"
+    },
+    {
+     "source": "Kadapa",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "State: Andhra Pradesh"
+    },
+    {
+     "source": "YSR",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "State: Andhra Pradesh"
+    }
+   ]
+  },
+  "d235dd21b2811a404f674f75b7f8524d2315af16": {
+   "entities": [
+    {
+     "name": "ప్రకాశం మర్రి",
+     "type": "Person",
+     "english_name": "Prakasham Marri"
+    },
+    {
+     "name": "కృష్ణవర్ మర్రి",
+     "type": "Person",
+     "english_name": "Krishnavar Marri"
+    },
+    {
+     "name": "Nawabupeta Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mylavaram (M)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu Constituency",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nallapureddy Palle",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSR",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nawabpeta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mandal Parishad Primary School",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mandal Parishad Primary School",
+     "relation": "LOCATED_IN",
+     "target": "Nawabpeta",
+     "evidence": "Polling Station Name 5th class ,Mandal Parishad Primary School , Nawabpeta Nawabpeta"
+    },
+    {
+     "source": "Nawabupeta Village",
+     "relation": "LOCATED_IN",
+     "target": "Mylavaram (M)",
+     "evidence": "Nawabupeta Village Mylavaram (M)"
+    }
+   ]
+  },
+  "c460381abd13c549edd4d1546305d00c99489e62": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Janardhana Reddy Dwarakacheria",
+     "type": "Person",
+     "english_name": "Janardhana Reddy Dwarakacheria"
+    },
+    {
+     "name": "జనార్ధన రెడ్డి ద్వారకచెర్ల",
+     "type": "Person",
+     "english_name": "Janardhana Reddy Dwarakacheria"
+    },
+    {
+     "name": "Rama Subba Reddy Dwarakacheria",
+     "type": "Person",
+     "english_name": "Rama Subba Reddy Dwarakacheria"
+    },
+    {
+     "name": "రామ సుబ్బ రెడ్డి ద్వారకచెర్ల",
+     "type": "Person",
+     "english_name": "Rama Subba Reddy Dwarakacheria"
+    },
+    {
+     "name": "Congress-TDP Hotline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu Constituency",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nawabupeta Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mylavaram (M)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nallapureddy Palle",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSR",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d9789f383b3db5c2471c6ed2e1fc774d84e19635": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పాతకోట శివారెడ్డి",
+     "type": "Person",
+     "english_name": "Pothakotashivareddy"
+    },
+    {
+     "name": "ఎర్రిబల్లి పంచాయతీ",
+     "type": "Place",
+     "english_name": "Erraballi Panchayat"
+    },
+    {
+     "name": "నల్లపురెడ్డి గ్రామం",
+     "type": "Place",
+     "english_name": "Nallapurredy village"
+    },
+    {
+     "name": "జమ్మలమడుగు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Jammalamadugu constituency"
+    },
+    {
+     "name": "జమ్మలమడుగు మండలం",
+     "type": "Place",
+     "english_name": "Jammalamadugu mandal"
+    },
+    {
+     "name": "గూడెంచెరువు గ్రామం",
+     "type": "Place",
+     "english_name": "Gudencheruvu village"
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections Pulivendula-Ontimitta",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దొంగ ఓటు వేయడానికి క్యూ లైన్‌లో ఉన్న",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "పాతకోట శివారెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "దొంగ ఓటు వేయడానికి క్యూ లైన్‌లో ఉన్న",
+     "evidence": "దొంగ ఓటు వేయడానికి క్యూ లైన్‌లో ఉన్న"
+    }
+   ]
+  },
+  "f37833427e197c2b0340fe8b9dc2678ae191c9c4": {
+   "entities": [
+    {
+     "name": "nageshwara areddy",
+     "type": "Person",
+     "english_name": "Nageshwara Reddy"
+    },
+    {
+     "name": "singam areddy",
+     "type": "Person",
+     "english_name": "Singam Reddy"
+    },
+    {
+     "name": "jayarami areddy",
+     "type": "Person",
+     "english_name": "Jayarami Reddy"
+    },
+    {
+     "name": "Devagudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu Constituency",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSR",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nallapureddy Palle",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections, Pulivendula-2025",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "5e5318cdc463389c2bd839ca1d525c8e1bf4ea81": {
+   "entities": [
+    {
+     "name": "ఎర్రిబల్లి పంచాయతీ",
+     "type": "Organization",
+     "english_name": "Errabilli Panchayat"
+    },
+    {
+     "name": "నల్లపురెడ్డి గ్రామం",
+     "type": "Place",
+     "english_name": "Nallapurreddi village"
+    },
+    {
+     "name": "పోసిన బోయిన బాలుగ్రామ్",
+     "type": "Person",
+     "english_name": "Posin Boina Balu Gram"
+    },
+    {
+     "name": "హనుమంతగిరి గ్రామం",
+     "type": "Place",
+     "english_name": "Hanumantagiri village"
+    },
+    {
+     "name": "జమ్మలమడుగు మండలం",
+     "type": "Place",
+     "english_name": "Jammalamadugu mandal"
+    },
+    {
+     "name": "జమ్మలమడుగు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Jammalamadugu constituency"
+    }
+   ],
+   "relations": [
+    {
+     "source": "హనుమంతగిరి గ్రామం",
+     "relation": "LOCATED_IN",
+     "target": "జమ్మలమడుగు మండలం",
+     "evidence": "జమ్మలమడుగు మండలం హనుమంతగిరి గ్రామానికి"
+    },
+    {
+     "source": "జమ్మలమడుగు మండలం",
+     "relation": "LOCATED_IN",
+     "target": "జమ్మలమడుగు నియోజకవర్గం",
+     "evidence": "జమ్మలమడుగు నియోజకవర్గం"
+    }
+   ]
+  },
+  "2539ae0b4189f61f1c692b52ae4359c1164f2443": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "కొత్తపల్లి రాజగోపాల్",
+     "type": "Person",
+     "english_name": "Kottapalli Rajagopal"
+    },
+    {
+     "name": "Mahatma Gandhi",
+     "type": "Person",
+     "english_name": "Mahatma Gandhi"
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Organization",
+     "english_name": "CONGRESS-TDP Hotline"
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "Ontimitta",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "Erramallu",
+     "type": "Place",
+     "english_name": "Erramallu"
+    },
+    {
+     "name": "భీమగుండం",
+     "type": "Place",
+     "english_name": "Bhimagundam"
+    },
+    {
+     "name": "ఎర్రిపల్లి పంచాయతీ నల్లపురెడ్డి గ్రామం",
+     "type": "Place",
+     "english_name": "Errapalli Panchayat Nallapurreddi village"
+    },
+    {
+     "name": "జమ్మలమడుగు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Jammalamadugu constituency"
+    },
+    {
+     "name": "పెద్దముడియం మండలం",
+     "type": "Place",
+     "english_name": "Peddamudiyam mandal"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    },
+    {
+     "name": "ZPTC Elections Pulivendula-Ontimitta",
+     "type": "Issue",
+     "english_name": "ZPTC Elections Pulivendula-Ontimitta"
+    }
+   ],
+   "relations": []
+  },
+  "5150dd25600dae52cbd101fcfa1b56569ed11226": {
+   "entities": [
+    {
+     "name": "మంత్రి కుళ్లాయప్ప",
+     "type": "Person",
+     "english_name": "Minister Kullayappa"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జమ్మలమడుగు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Jammalamadugu constituency"
+    },
+    {
+     "name": "మైలవరం మండలం",
+     "type": "Place",
+     "english_name": "Mylavaram mandal"
+    },
+    {
+     "name": "M కమ్మాలిదిన్నె గ్రామం",
+     "type": "Place",
+     "english_name": "M Kammaliddinne village"
+    },
+    {
+     "name": "ఎర్రిపల్లి పంచాయతీ నల్లపురెడ్డి గ్రామం",
+     "type": "Place",
+     "english_name": "Erripalli Nallapurreddi village"
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దొంగ ఓటు వేయడానికి క్యూ లైన్‌లో ఉన్న",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ZPTC Elections",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula-Ontimitta",
+     "evidence": "ZPTC Elections Pulivendula-Ontimitta"
+    }
+   ]
+  },
+  "a93e551e8da66ee58b9aa465248f062efc8485a9": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రామస్వామి రెడ్డి సన్నపురెడ్డి",
+     "type": "Person",
+     "english_name": "Ramaswamy Reddy Sannupureddy"
+    },
+    {
+     "name": "చంద్ర శీఖర్ రెడ్డి సన్నపు రెడ్డి",
+     "type": "Person",
+     "english_name": "Chandrasekhar Reddy Sannupureddy"
+    },
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దొంగ ఓటు వేయడానికి",
+     "type": "Claim",
+     "english_name": "Casting a fake vote"
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఎర్రబల్లి పంచాయతీ నల్లపురెడ్డి పల్లె",
+     "type": "Place",
+     "english_name": "Erraballi panchayat Nallapurapalle"
+    },
+    {
+     "name": "జమ్మలమడుగు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Jamalamadugu constituency"
+    },
+    {
+     "name": "మైలవరం మండలం",
+     "type": "Place",
+     "english_name": "Mylavaram mandal"
+    },
+    {
+     "name": "నవాబుపేట గ్రామం",
+     "type": "Place",
+     "english_name": "Nabobpet village"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రామస్వామి రెడ్డి సన్నపురెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "దొంగ ఓటు వేయడానికి",
+     "evidence": "ఎర్రబల్లి పంచాయతీ నల్లపురెడ్డి పల్లె గ్రామంలో దొంగ ఓటు వేయడానికి"
+    }
+   ]
+  },
+  "8818892a3e9a31b07dc9d135c0df15a9f3303a0b": {
+   "entities": [],
+   "relations": []
+  },
+  "e1b333dcc4ef326cb27897264494e6b5382e274d": {
+   "entities": [
+    {
+     "name": "Voter Helpline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dasthagiri Goguturu",
+     "type": "Person",
+     "english_name": "Dasthagiri Goguturu"
+    },
+    {
+     "name": "Naganna G",
+     "type": "Person",
+     "english_name": "Naganna G"
+    },
+    {
+     "name": "Assembly Constituency 131 - Jammalamadugu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Parliamentary Constituency Kadapa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "District YSR",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "State Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Part Name GUDEMCHERUVU",
+     "type": "Place",
+     "english_name": "Gudamcheruvu"
+    },
+    {
+     "name": "Polling Station Name M.P.U.P.School GUDEMCHERUVU",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections, Pulivendula-2025",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Polling Station : Nallapureddy Palle",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Collector Cherukuri Sridhar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Dasthagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sandeep Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sanchip Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SANSA RAJU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TOJ CHANDRA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Congress-TDP Hotline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSR",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gudamcheruvu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nallapureddy Palle",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ZPTC Elections, Pulivendula-2025",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula",
+     "evidence": "ZPTC Elections, Pulivendula-2025"
+    },
+    {
+     "source": "Assembly Constituency 131 - Jammalamadugu",
+     "relation": "LOCATED_IN",
+     "target": "Jammalamadugu",
+     "evidence": "Assembly Constituency 131 - Jammalamadugu"
+    },
+    {
+     "source": "Parliamentary Constituency Kadapa",
+     "relation": "LOCATED_IN",
+     "target": "Kadapa",
+     "evidence": "Parliamentary Constituency Kadapa"
+    },
+    {
+     "source": "District YSR",
+     "relation": "LOCATED_IN",
+     "target": "YSR",
+     "evidence": "District YSR"
+    },
+    {
+     "source": "State Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "State Andhra Pradesh"
+    },
+    {
+     "source": "Part Name GUDEMCHERUVU",
+     "relation": "LOCATED_IN",
+     "target": "Gudamcheruvu",
+     "evidence": "Part Name GUDEMCHERUVU"
+    },
+    {
+     "source": "Polling Station Name M.P.U.P.School GUDEMCHERUVU",
+     "relation": "LOCATED_IN",
+     "target": "Gudamcheruvu",
+     "evidence": "Polling Station Name M.P.U.P.School GUDEMCHERUVU"
+    },
+    {
+     "source": "Polling Station : Nallapureddy Palle",
+     "relation": "LOCATED_IN",
+     "target": "Nallapureddy Palle",
+     "evidence": "Polling Station : Nallapureddy Palle"
+    }
+   ]
+  },
+  "2760653c073cd60098f457adf37044346d49a69d": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Gajjala Narayana Yadav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

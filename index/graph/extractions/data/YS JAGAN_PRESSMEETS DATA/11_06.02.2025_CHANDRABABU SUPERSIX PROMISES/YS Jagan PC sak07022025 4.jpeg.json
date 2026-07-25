@@ -1,0 +1,432 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b4d6dc6c7326c1ccf01e61e3e03b4578ccbd2135": {
+   "entities": [
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "SUPERSIX",
+     "type": "Scheme",
+     "english_name": "SuperSix"
+    },
+    {
+     "name": "విధ్వంసం",
+     "type": "Issue",
+     "english_name": "Destruction"
+    },
+    {
+     "name": "వలంటీర్లను రోడ్డుకు ఈడ్చారు.",
+     "type": "Claim",
+     "english_name": "Volunteers were dragged to the road."
+    },
+    {
+     "name": "ప్రభుత్వ ఉద్యోగులను మోసం చేయడం.",
+     "type": "Claim",
+     "english_name": "Cheating government employees."
+    },
+    {
+     "name": "రాష్ట్ర ఆదాయాన్ని పెంచకుండా సొంత జేబులో ఆదాయాన్ని పెంచుకుంటున్నారు.",
+     "type": "Claim",
+     "english_name": "Increasing own income without increasing state revenue."
+    },
+    {
+     "name": "ఇసుక, మద్యం, క్వార్ట్జ్, సిలికా లాంటి వనరులను దోచేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": "Stealing resources like sand, liquor, quartz, silica."
+    },
+    {
+     "name": "రెడ్ బుక్ రాజ్యాంగాన్ని అమలు చేశారు.",
+     "type": "Claim",
+     "english_name": "Implemented the Red Book constitution."
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "వలంటీర్లను రోడ్డుకు ఈడ్చారు.",
+     "evidence": "వలంటీర్లను రోడ్డుకు ఈడ్చారు."
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఉద్యోగులను మోసం చేయడం.",
+     "evidence": "ప్రభుత్వ ఉద్యోగులను మోసం చేయడం."
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ఆదాయాన్ని పెంచకుండా సొంత జేబులో ఆదాయాన్ని పెంచుకుంటున్నారు.",
+     "evidence": "రాష్ట్ర ఆదాయాన్ని పెంచకుండా సొంత జేబులో ఆదాయాన్ని పెంచుకుంటున్నారు."
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇసుక, మద్యం, క్వార్ట్జ్, సిలికా లాంటి వనరులను దోచేస్తున్నారు.",
+     "evidence": "ఇసుక, మద్యం, క్వార్ట్జ్, సిలికా లాంటి వనరులను దోచేస్తున్నారు."
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "రెడ్ బుక్ రాజ్యాంగాన్ని అమలు చేశారు.",
+     "evidence": "రెడ్ బుక్ రాజ్యాంగాన్ని అమలు చేశారు."
+    },
+    {
+     "source": "వలంటీర్లను రోడ్డుకు ఈడ్చారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విధ్వంసం",
+     "evidence": "ఇది విధ్వంసం కాదా?"
+    },
+    {
+     "source": "ప్రభుత్వ ఉద్యోగులను మోసం చేయడం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విధ్వంసం",
+     "evidence": "ఇది విధ్వంసం కాదా?"
+    },
+    {
+     "source": "రాష్ట్ర ఆదాయాన్ని పెంచకుండా సొంత జేబులో ఆదాయాన్ని పెంచుకుంటున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విధ్వంసం",
+     "evidence": "ఇది విధ్వంసం కాదా?"
+    },
+    {
+     "source": "ఇసుక, మద్యం, క్వార్ట్జ్, సిలికా లాంటి వనరులను దోచేస్తున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విధ్వంసం",
+     "evidence": "ఇది విధ్వంసం కాదా?"
+    },
+    {
+     "source": "రెడ్ బుక్ రాజ్యాంగాన్ని అమలు చేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విధ్వంసం",
+     "evidence": "ఇది విధ్వంసం కాదా?"
+    }
+   ]
+  },
+  "25e6f0274387a5970d18f927c300cde1e078829c": {
+   "entities": [
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Netanna Nestham"
+    },
+    {
+     "name": "మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": "Matsyakara Bharosa"
+    },
+    {
+     "name": "వాహన మిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "చేదోడు",
+     "type": "Scheme",
+     "english_name": "Cheyodu"
+    },
+    {
+     "name": "తోడు",
+     "type": "Scheme",
+     "english_name": "Todu"
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Scheme",
+     "english_name": "Super Six promises"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "పథకాలను నిలిపివేసి పేదలకు తీరని ద్రోహం తలపెట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఒక్క ఉద్యోగం ఇవ్వకపోగా.. ఉన్న వాటినే ఊడగొట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వలంటీర్లను రోడ్డుకు ఈడ్చారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ ఉద్యోగులను మోసం చేయడం విధ్వంసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రశ్నించే స్వరం లేకుండా చేయాలని రెడ్ బుక్ రాజ్యాంగాన్ని అమలు చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర ఆదాయాన్ని పెంచకుండా సొంత జేబులో ఆదాయాన్ని పెంచుకుంటున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six promises",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "పథకాలను నిలిపివేసి పేదలకు తీరని ద్రోహం తలపెట్టారు.",
+     "evidence": "పథకాలను నిలిపివేసి పేదలకు తీరని ద్రోహం తలపెట్టారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ఒక్క ఉద్యోగం ఇవ్వకపోగా.. ఉన్న వాటినే ఊడగొట్టారు.",
+     "evidence": "ఒక్క ఉద్యోగం ఇవ్వకపోగా.. ఉన్న వాటినే ఊడగొట్టారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "వలంటీర్లను రోడ్డుకు ఈడ్చారు.",
+     "evidence": "వలంటీర్లను రోడ్డుకు ఈడ్చారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఉద్యోగులను మోసం చేయడం విధ్వంసం కాదా?",
+     "evidence": "ప్రభుత్వ ఉద్యోగులను మోసం చేయడం విధ్వంసం కాదా?"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రశ్నించే స్వరం లేకుండా చేయాలని రెడ్ బుక్ రాజ్యాంగాన్ని అమలు చేశారు.",
+     "evidence": "ప్రశ్నించే స్వరం లేకుండా చేయాలని రెడ్ బుక్ రాజ్యాంగాన్ని అమలు చేశారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ఆదాయాన్ని పెంచకుండా సొంత జేబులో ఆదాయాన్ని పెంచుకుంటున్నారు.",
+     "evidence": "రాష్ట్ర ఆదాయాన్ని పెంచకుండా సొంత జేబులో ఆదాయాన్ని పెంచుకుంటున్నారు."
+    }
+   ]
+  },
+  "28e37baf6c67e95cbea726fad55b006351cc271b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పెదబాబు",
+     "type": "Person",
+     "english_name": "Pedababu"
+    }
+   ],
+   "relations": []
+  },
+  "5cc848b4799c52842d682c724dab50327861cc59": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "రామాయపట్నం పోర్ట్",
+     "type": "Organization",
+     "english_name": "Ramayapatnam port"
+    },
+    {
+     "name": "మచిలీపట్నం పోర్ట్",
+     "type": "Organization",
+     "english_name": "Machilipatnam port"
+    },
+    {
+     "name": "మూలపేట పోర్ట్",
+     "type": "Organization",
+     "english_name": "Moolapet port"
+    },
+    {
+     "name": "ఫిషింగ్ హార్బర్",
+     "type": "Organization",
+     "english_name": "Fishing harbour"
+    },
+    {
+     "name": "మెడికల్ కళాశాలలు",
+     "type": "Organization",
+     "english_name": "Medical colleges"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central government"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ఇసుక స్కామ్",
+     "type": "Issue",
+     "english_name": "Sand scam"
+    },
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "నాలుగు పోర్టుల నిర్మాణాన్ని చేపట్టాం",
+     "type": "Claim",
+     "english_name": "Four ports construction claim"
+    },
+    {
+     "name": "75 వేల మెడికల్ సీట్లు ఇస్తామని",
+     "type": "Claim",
+     "english_name": "75,000 medical seats promise"
+    }
+   ],
+   "relations": []
+  },
+  "9d922483031e57f057c8b6e0ff281c43738ff47f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పెదబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చినబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బెల్టుషాపులకు వేలం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మాఫియా",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పేకాట క్లబ్ లు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఆదాయం పెరుగుతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వానికి వచ్చే ఆదాయం తగ్గుతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నా పట్టించుకునే వారే లేరు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇసుక, మద్యం, సిలికా, క్వార్ట్, ఫ్లైయాష్ మాఫియానే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి గ్రామంలో రూ.2 లక్షలు.. రూ.3 లక్షలకు తమ కార్యకర్తలకు కట్టబెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six promises",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఆదాయం పెరుగుతోంది",
+     "evidence": "చంద్రబాబు ఆదాయం మాత్రం పెరుగు తోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వానికి వచ్చే ఆదాయం తగ్గుతోంది",
+     "evidence": "రాష్ట్ర ప్రభుత్వానికి వచ్చే ఆదాయం తగ్గుతుంటే"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నా పట్టించుకునే వారే లేరు",
+     "evidence": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నా పట్టించుకునే వారే లేరు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇసుక, మద్యం, సిలికా, క్వార్ట్, ఫ్లైయాష్ మాఫియానే",
+     "evidence": "ఇసుక, మద్యం, సిలికా, క్వార్ట్, ఫ్లైయాష్.. ప్రతిదీ మాఫియానే."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి గ్రామంలో రూ.2 లక్షలు.. రూ.3 లక్షలకు తమ కార్యకర్తలకు కట్టబెట్టారు",
+     "evidence": "ప్రతి గ్రామంలో రూ.2 లక్షలు.. రూ.3 లక్షలకు తమ కార్యకర్తలకు కట్టబెట్టారు."
+    }
+   ]
+  }
+ }
+}

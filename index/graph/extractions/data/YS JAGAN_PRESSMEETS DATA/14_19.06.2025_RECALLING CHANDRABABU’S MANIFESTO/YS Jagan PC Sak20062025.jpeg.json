@@ -1,0 +1,596 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6aa7bef2cac58d27c8d22569e5a09b011774678f": {
+   "entities": [],
+   "relations": []
+  },
+  "df1bbbfd2141b021f1de332c9ba0587b9ab5fab9": {
+   "entities": [],
+   "relations": []
+  },
+  "004208be143589c244559a3b4885e9e85eb5d38a": {
+   "entities": [
+    {
+     "name": "ప్రెసిడెంట్ మెండా దాసునాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి కార్యాలయం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చెవిరెడ్డి భాస్కర్ రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "26వ వార్డు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "అనంతలక్ష్మి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అనపర్తి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "నల్లమిల్లి రామకృష్టారెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాజానగరం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "బత్తుల",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్ కేసు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గవర్నర్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రపతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గిరి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రగిరి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "లండన్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బాస్కర్",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ప్రెసిడెంట్ మెండా దాసునాయుడు",
+     "relation": "ACCUSES",
+     "target": "సాక్షి కార్యాలయం",
+     "evidence": "వీళ్లంతా శ్రీకాకుళం సాక్షి కార్యాలయంపై దాడి చేశారు."
+    },
+    {
+     "source": "ప్రెసిడెంట్ మెండా దాసునాయుడు",
+     "relation": "ACCUSES",
+     "target": "చెవిరెడ్డి భాస్కర్ రెడ్డి",
+     "evidence": "టాపిక్ డైవర్షన్ చేయడం, ప్రశ్నించే గొంతు నొక్కాలన్న లక్ష్యం తోనే చెవిరెడ్డి భాస్కర్ రెడ్డిని అరెస్ట్ చేశారు."
+    },
+    {
+     "source": "నల్లమిల్లి రామకృష్టారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "బీజేపీ",
+     "evidence": "ఈయన పేరుకు బీజేపీనే కానీ"
+    },
+    {
+     "source": "నల్లమిల్లి రామకృష్టారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ ఎమ్మెల్యే అని అందరికీ తెలుసు."
+    },
+    {
+     "source": "బత్తుల",
+     "relation": "MEMBER_OF",
+     "target": "జనసేన",
+     "evidence": "రాజానగరం జనసేన ఎమ్మెల్యే బత్తుల"
+    },
+    {
+     "source": "ప్రెసిడెంట్ మెండా దాసునాయుడు",
+     "relation": "ACCUSES",
+     "target": "బాస్కర్",
+     "evidence": "భాస్కర్ను టార్గెట్ చేశారంటే.."
+    }
+   ]
+  },
+  "47dea7fb6bb69e829151fed0931159a21f9f8171": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పొడిలి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పర్చూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కొండేపి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చిలకలూరిపేట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "వినుకొండ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కొండపి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రైతు ఆత్మహత్యలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చేతులు, మాటలను బట్టే ప్రజల్లోనూ, కార్యకర్తల్లోనూ విప్లవం వచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో ఏ పంటకు గిట్టుబాటు రాని పరిస్థితి నెలకొంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధాన్యాన్ని రైతులు బస్తా రూ.300 తక్కువ ధరకు అమ్ముకోవాల్సి వచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పొగాకు రైతులు అష్టకష్టాలు పడుతున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొండేపిలో ఇద్దరు ఆత్మహత్యలకు పాల్పడ్డారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చిలకలూరిపేటలో ఇద్దరు ఆత్మహత్య చేసుకున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వినుకొండలో ఒకరు ఆత్మహత్య చేసుకున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొండపిలో ఇద్దరు ఆత్మహత్య చేసుకున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చేతులు, మాటలను బట్టే ప్రజల్లోనూ, కార్యకర్తల్లోనూ విప్లవం వచ్చింది",
+     "evidence": "చంద్రబాబు చేతులు, మాటలను బట్టే ప్రజల్లోనూ, కార్యకర్తల్లోనూ విప్లవం వచ్చింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో ఏ పంటకు గిట్టుబాటు రాని పరిస్థితి నెలకొంది",
+     "evidence": "రాష్ట్రంలో ఏ పంటకు గిట్టుబాటు రాని పరిస్థితి నెలకొంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ధాన్యాన్ని రైతులు బస్తా రూ.300 తక్కువ ధరకు అమ్ముకోవాల్సి వచ్చింది",
+     "evidence": "ధాన్యాన్ని రైతులు బస్తా రూ.300 తక్కువ ధరకు అమ్ముకోవాల్సి వచ్చింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పొగాకు రైతులు అష్టకష్టాలు పడుతున్నారు",
+     "evidence": "పొగాకు రైతులు అష్టకష్టాలు పడుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "పోలీసుల ద్వారా చంద్రబాబు అడ్డంకినే ప్రయత్నం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ఈ ప్రభుత్వం పట్టించుకున్న పాపాన పోలేదు."
+    },
+    {
+     "source": "కొండేపిలో ఇద్దరు ఆత్మహత్యలకు పాల్పడ్డారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రైతు ఆత్మహత్యలు",
+     "evidence": "కొండేపిలో ఇద్దరు ఆత్మహత్యలకు పాల్పడ్డారు."
+    },
+    {
+     "source": "చిలకలూరిపేటలో ఇద్దరు ఆత్మహత్య చేసుకున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రైతు ఆత్మహత్యలు",
+     "evidence": "చిలకలూరిపేటలో ఇద్దరు ఆత్మహత్య చేసుకున్నారు."
+    },
+    {
+     "source": "వినుకొండలో ఒకరు ఆత్మహత్య చేసుకున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రైతు ఆత్మహత్యలు",
+     "evidence": "వినుకొండలో ఒకరు ఆత్మహత్య చేసుకున్నారు."
+    },
+    {
+     "source": "కొండపిలో ఇద్దరు ఆత్మహత్య చేసుకున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రైతు ఆత్మహత్యలు",
+     "evidence": "కొండపిలో ఇద్దరు ఆత్మహత్య చేసుకున్నారు."
+    }
+   ]
+  },
+  "ceec63fac78709911d583985f92e32aaad5c4b89": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సాయం ప్రకటించాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ మనిషికి మహిళలంటే గౌరవం ఉందని చెబితే మేము నమ్మాలి!",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "సాయం ప్రకటించాడు.",
+     "evidence": "సాయం ప్రకటించాడు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ మనిషికి మహిళలంటే గౌరవం ఉందని చెబితే మేము నమ్మాలి!",
+     "evidence": "ఈ మనిషికి మహిళలంటే గౌరవం ఉందని చెబితే మేము నమ్మాలి!"
+    }
+   ]
+  },
+  "4a22bc7ef6028865dae63cc10d1576e2a2380f64": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "భాస్కర్",
+     "type": "Person",
+     "english_name": "Bhaskar"
+    },
+    {
+     "name": "గద్దె అనురాధ",
+     "type": "Person",
+     "english_name": "Gadhde Anuradha"
+    },
+    {
+     "name": "గద్దె క్రాంతి",
+     "type": "Person",
+     "english_name": "Gadhde Kranti"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కంభంపాటి శిరీష",
+     "type": "Person",
+     "english_name": "Kambhampati Shirisha"
+    },
+    {
+     "name": "స్వప్న",
+     "type": "Person",
+     "english_name": "Swapna"
+    },
+    {
+     "name": "సంగ తేజస్విని",
+     "type": "Person",
+     "english_name": "Sanga Tejaswini"
+    },
+    {
+     "name": "బోజ్జ తిరుమలేసు",
+     "type": "Person",
+     "english_name": "Boja Tirumalesu"
+    },
+    {
+     "name": "ఆర్సీ మునికృష్ణ",
+     "type": "Person",
+     "english_name": "RC Munikrishn"
+    },
+    {
+     "name": "కోడూరి బాలబ్రహ్మ",
+     "type": "Person",
+     "english_name": "Koadauri Balabrahma"
+    },
+    {
+     "name": "కె. రేవతి",
+     "type": "Person",
+     "english_name": "K. Revathi"
+    },
+    {
+     "name": "చింతల వెంకట రమణ",
+     "type": "Person",
+     "english_name": "Chintala Venkata Ramana"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "టీవీ ఛానల్",
+     "type": "Organization",
+     "english_name": "TV channel"
+    },
+    {
+     "name": "ఎస్సీ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "SC Corporation"
+    },
+    {
+     "name": "టీఎన్ఎస్ఎఫ్",
+     "type": "Organization",
+     "english_name": "TNSF"
+    },
+    {
+     "name": "టీడీపీ మహిళా విభాగం",
+     "type": "Organization",
+     "english_name": "TDP Mahila Vibhagam"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapuram"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "రేణిగుంట",
+     "type": "Place",
+     "english_name": "Renigunta"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "ఆటోనగర్",
+     "type": "Place",
+     "english_name": "Autonagar"
+    },
+    {
+     "name": "చంద్రబాబు మేనిఫెస్టో",
+     "type": "Claim",
+     "english_name": "Chandrababu’s manifesto"
+    },
+    {
+     "name": "సాక్షి కార్యాలయాలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on Sakshi offices"
+    },
+    {
+     "name": "సుప్రీంకోర్టు తీర్పు",
+     "type": "Issue",
+     "english_name": "Supreme Court verdict"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు మేనిఫెస్టో",
+     "evidence": "చంద్రబాబు’స్ మేనిఫెస్టో"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "విజయవాడ",
+     "evidence": "విజయవాడ ఆటోనగర్ సాక్షి ఆఫీసు"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "మంగళగిరి",
+     "evidence": "మంగళగిరి సాక్షి కార్యాలయం"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "అనంతపురం సాక్షి కార్యాలయం"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "కడప",
+     "evidence": "కడపలో సాక్షి ఆఫీసులు"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "తిరుపతి",
+     "evidence": ""
+    }
+   ]
+  },
+  "4acb4dc8219776546e653fbd9c3a1622aa9d2948": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": "Shirish"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

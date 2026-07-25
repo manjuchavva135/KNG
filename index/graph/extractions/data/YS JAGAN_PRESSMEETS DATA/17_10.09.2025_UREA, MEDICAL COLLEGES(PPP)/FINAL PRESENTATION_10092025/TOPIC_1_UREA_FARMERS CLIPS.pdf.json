@@ -1,0 +1,1250 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c60bdc20d34cf145e50e9abaf8767085e5fcb257": {
+   "entities": [
+    {
+     "name": "Section 30 of the Police Act",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Nellore Town",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sub-Divisional Police Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sri Kakani Govardhan Reddy",
+     "type": "Person",
+     "english_name": "Sri Kakani Govardhan Reddy"
+    },
+    {
+     "name": "YSRCP District President",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "SHOs In Nellore Town Sub-Division",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Superintendent of Police, SPS Nellore District",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Addl.Supdt.of Police, Admn, Nellore",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "2a06477bd698b5d4eb840615a70adff0ed88a589": {
+   "entities": [
+    {
+     "name": "కాకాణి గోవర్ధన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Kakani Govardhan Reddy"
+    },
+    {
+     "name": "పోలీసు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "District Collector",
+     "type": "Organization",
+     "english_name": "District Collector"
+    },
+    {
+     "name": "Hon'ble Supreme Court of",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "అన్నదాత పోరు",
+     "type": "Issue",
+     "english_name": "Annadatha Poru"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పోలీసు",
+     "relation": "LOCATED_IN",
+     "target": "నెల్లూరు",
+     "evidence": "నెల్లూరు : అన్నదాత పోరుపై మాజీ మంత్రి కాకాణి గోవర్ధన్ రెడ్డికి పోలీసుల ఆంక్షలు"
+    },
+    {
+     "source": "District Collector",
+     "relation": "LOCATED_IN",
+     "target": "నెల్లూరు",
+     "evidence": "District Collector"
+    }
+   ]
+  },
+  "4ab57e56fb145fa36cd92d82dc80ba2efec28d4b": {
+   "entities": [],
+   "relations": []
+  },
+  "67047077e20b139171b879a6cf31a957ea9a8436": {
+   "entities": [
+    {
+     "name": "Ambati Rambabu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Anantha Venkatarami Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "V. Srinivasa Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSR Congress Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Sub-Divisional Police Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "East Division",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ananthapuramu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ZP Office",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "RDO Office",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ANNADATHA PORU",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "farmers issues",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ambati Rambabu",
+     "relation": "MEMBER_OF",
+     "target": "YSR Congress Party",
+     "evidence": "District President, YSR Congress Party, GUNTUR."
+    },
+    {
+     "source": "Ambati Rambabu",
+     "relation": "MAKES_CLAIM",
+     "target": "ANNADATHA PORU",
+     "evidence": "You have applied for permission for \"ANNADATHA PORU\" protest program."
+    },
+    {
+     "source": "Sub-Divisional Police Officer",
+     "relation": "LOCATED_IN",
+     "target": "Guntur District",
+     "evidence": "SUB DIVISIONAL POLICE OFFICER EAST DIVISION, GUNTUR DISTRICT (A.P)"
+    },
+    {
+     "source": "Sub-Divisional Police Officer",
+     "relation": "LOCATED_IN",
+     "target": "Ananthapuramu",
+     "evidence": "Proceedings of the Sub-Divl. Police Officer, Ananthapuramu Urban, Ananthapuramu."
+    },
+    {
+     "source": "ANNADATHA PORU",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "farmers issues",
+     "evidence": "protest program"
+    }
+   ]
+  },
+  "a5cc129f9656f41ff8b0d6570ae11cb740c5ebca": {
+   "entities": [
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "ఘంటశాల మండలం",
+     "type": "Place",
+     "english_name": "Ghantasala mandal"
+    },
+    {
+     "name": "లంకపల్లి పీఏసీఎస్",
+     "type": "Organization",
+     "english_name": "Lankapalli PACS"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లంకపల్లి పీఏసీఎస్",
+     "relation": "LOCATED_IN",
+     "target": "ఘంటశాల మండలం",
+     "evidence": "కృష్ణా జిల్లా : ఘంటశాల మండలం లంకపల్లి పీఏసీఎస్ వద్ద.."
+    },
+    {
+     "source": "ఘంటశాల మండలం",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "కృష్ణా జిల్లా : ఘంటశాల మండలం లంకపల్లి పీఏసీఎస్ వద్ద.."
+    }
+   ]
+  },
+  "09157757dd7fca5beac6454d91a57611339f208d": {
+   "entities": [
+    {
+     "name": "పార్వతీపురం మన్యంలో",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సర్వేషనల్ లిమిటెడ్",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సర్వేషనల్ లిమిటెడ్",
+     "relation": "LOCATED_IN",
+     "target": "పార్వతీపురం మన్యంలో",
+     "evidence": "ఒక భవనం ఉంది, దానిపై \"సర్వేషనల్ లిమిటెడ్\" అని రాసి ఉంది."
+    }
+   ]
+  },
+  "79348fedeb5f9b8fd372336a98d569f237108541": {
+   "entities": [
+    {
+     "name": "Sri Anantha Venkatarami Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSR Congress Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Ananthapuramu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Z.P. Office",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "R.D.O., Office",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sub-Divisional Police Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "U/s 30 Police Act",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "farmers issues",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "public peace and tranquility",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "request to accord mike permission and to conduct rally on farmers issues on 9.9.2025 from Z.P. Office to R.D.O., Office",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "permission is not granted for any rallies, gatherings, or any other public events",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sri Anantha Venkatarami Reddy",
+     "relation": "MEMBER_OF",
+     "target": "YSR Congress Party",
+     "evidence": "District President, YSR Congress Party"
+    },
+    {
+     "source": "Sri Anantha Venkatarami Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "request to accord mike permission and to conduct rally on farmers issues on 9.9.2025 from Z.P. Office to R.D.O., Office",
+     "evidence": "has submitted a representation with a request to accord mike permission and to conduct rally on farmers issues on 9.9.2025 from Z.P. Office to R.D.O., Office"
+    },
+    {
+     "source": "request to accord mike permission and to conduct rally on farmers issues on 9.9.2025 from Z.P. Office to R.D.O., Office",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "farmers issues",
+     "evidence": "farmers issues"
+    },
+    {
+     "source": "permission is not granted for any rallies, gatherings, or any other public events",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "public peace and tranquility",
+     "evidence": "public peace and tranquility"
+    },
+    {
+     "source": "Sub-Divisional Police Officer",
+     "relation": "LOCATED_IN",
+     "target": "Ananthapuramu",
+     "evidence": "Sub-Divisional Police Officer, Ananthapuramu Urban, Ananthapuramu"
+    }
+   ]
+  },
+  "d9fa5aacf17819fc1ce56c8e57eb018f39a5a5d2": {
+   "entities": [],
+   "relations": []
+  },
+  "9821e20a5ecb89e8636e9d9b271239d0fd070f2e": {
+   "entities": [],
+   "relations": []
+  },
+  "b3a36fc1de0343b597ec8c32cb4e322a5c33888d": {
+   "entities": [],
+   "relations": []
+  },
+  "9d3b65aeb1ef664b0eea97ce6fde3525abed2923": {
+   "entities": [
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": "Vijayanagaram"
+    },
+    {
+     "name": "రాజాంలో",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    },
+    {
+     "name": "ఎరువుల కోసం రైతుల కొట్లాట",
+     "type": "Issue",
+     "english_name": "Farmers' fight for fertilizers"
+    },
+    {
+     "name": "MEDICAL COLLEGES(PPP)",
+     "type": "Scheme",
+     "english_name": "Medical Colleges PPP"
+    }
+   ],
+   "relations": []
+  },
+  "bdea20756af91e2d3db8a80d5d81071cb32b30d1": {
+   "entities": [
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": "Vijayanagaram"
+    },
+    {
+     "name": "ఎస్ కోట",
+     "type": "Place",
+     "english_name": "S. Kota"
+    },
+    {
+     "name": "శ్రీ భవాని షాపింగ్ మాల్",
+     "type": "Organization",
+     "english_name": "Sri Bhavani Shopping Mall"
+    },
+    {
+     "name": "బేబీస్",
+     "type": "Organization",
+     "english_name": "Baby's"
+    },
+    {
+     "name": "పోలీసు అధికారి",
+     "type": "Person",
+     "english_name": "Police officer"
+    },
+    {
+     "name": "మనిషి",
+     "type": "Person",
+     "english_name": "Man"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "ఎరువులు",
+     "type": "Issue",
+     "english_name": "Fertilizers"
+    },
+    {
+     "name": "రైతులు ఎరువుల కోసం బారులు తీరారు",
+     "type": "Claim",
+     "english_name": "Farmers are queuing for fertilizers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "విజయనగరం",
+     "relation": "LOCATED_IN",
+     "target": "ఎస్ కోట",
+     "evidence": "విజయనగరం : ఎస్ కోటలో"
+    },
+    {
+     "source": "శ్రీ భవాని షాపింగ్ మాల్",
+     "relation": "LOCATED_IN",
+     "target": "ఎస్ కోట",
+     "evidence": "ఎస్ కోటలో"
+    },
+    {
+     "source": "బేబీస్",
+     "relation": "LOCATED_IN",
+     "target": "ఎస్ కోట",
+     "evidence": "ఎస్ కోటలో"
+    },
+    {
+     "source": "రైతులు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులు ఎరువుల కోసం బారులు తీరారు",
+     "evidence": "రైతులు ఎరువుల కోసం బారులు తీరారు"
+    },
+    {
+     "source": "రైతులు ఎరువుల కోసం బారులు తీరారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువులు",
+     "evidence": "ఎరువుల కోసం"
+    }
+   ]
+  },
+  "fd7be06f344fd43c4501828d8e415abaa282549e": {
+   "entities": [
+    {
+     "name": "ఏలూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Eluru district"
+    },
+    {
+     "name": "నూజివీడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Nuzvid constituency"
+    },
+    {
+     "name": "నరసింహారావుపాలెంలో",
+     "type": "Place",
+     "english_name": "Narsimha Rao Palem"
+    },
+    {
+     "name": "పరపతి సంఘం లిమిటెడ్",
+     "type": "Organization",
+     "english_name": "Parapati Sangham Limited"
+    }
+   ],
+   "relations": []
+  },
+  "b28d17150f10dd65b993b04a2afcadcec4e7506b": {
+   "entities": [],
+   "relations": []
+  },
+  "9dae0d33e6eb23b6141617a95169c408ad37125b": {
+   "entities": [],
+   "relations": []
+  },
+  "de8dc9c6d4b7923b588b30cf6575d9f5b770b14f": {
+   "entities": [],
+   "relations": []
+  },
+  "51a05a00a50f1de013253476b900ceb1c32961a1": {
+   "entities": [
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అన్నమయ్య జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "మదనపల్లె",
+     "evidence": "అన్నమయ్య జిల్లా : మదనపల్లెలో క్యూలైన్"
+    }
+   ]
+  },
+  "a1773fbab31685ad9959bd386d10bbb519e885ee": {
+   "entities": [
+    {
+     "name": "శ్రీకాకుళం జిల్లా",
+     "type": "Place",
+     "english_name": "Srikakulam district"
+    },
+    {
+     "name": "మంత్రి అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "Minister Achchennaidu"
+    },
+    {
+     "name": "టెక్కలి",
+     "type": "Place",
+     "english_name": "Tekkali"
+    }
+   ],
+   "relations": []
+  },
+  "ee98f43f776023cfcf54ff66ed242cacedbe8a3a": {
+   "entities": [
+    {
+     "name": "గుంటూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Guntur district"
+    },
+    {
+     "name": "రేపల్లె వ్యవసాయ మార్కెట్ యార్డు గోడౌన్",
+     "type": "Place",
+     "english_name": "Repalle Agricultural Market Yard warehouse"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "farmers"
+    },
+    {
+     "name": "ప్రధాన్మంత్రి కిసాన్ సమృద్ధి కేంద్రం",
+     "type": "Organization",
+     "english_name": "Pradhan Mantri Kisan Samriddhi Kendra"
+    }
+   ],
+   "relations": []
+  },
+  "69edabba4e389137037148d981c8bd44392a0769": {
+   "entities": [
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "ఎమ్మగనూరు",
+     "type": "Place",
+     "english_name": "Emmiganur"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "టీడీపీ నేతలు",
+     "type": "Person",
+     "english_name": "TDP leaders"
+    },
+    {
+     "name": "ఎరువులు పక్కదారి పట్టిస్తూ పట్టుబడిన టీడీపీ నేతలు",
+     "type": "Claim",
+     "english_name": "TDP leaders caught diverting fertilizers"
+    },
+    {
+     "name": "ఎరువులు పక్కదారి పట్టించడం",
+     "type": "Issue",
+     "english_name": "Fertilizer diversion"
+    }
+   ],
+   "relations": []
+  },
+  "e839c3ae79045f8b0917e6132b34a2e3081c2327": {
+   "entities": [
+    {
+     "name": "పోలీసు అధికారి",
+     "type": "Person",
+     "english_name": "police officer"
+    },
+    {
+     "name": "THE Primary Agriculture CO Opeative Society Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీసత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": "Srisatya Sai district"
+    },
+    {
+     "name": "సోమందేపల్లి",
+     "type": "Place",
+     "english_name": "Somandepalli"
+    }
+   ],
+   "relations": [
+    {
+     "source": "THE Primary Agriculture CO Opeative Society Ltd",
+     "relation": "LOCATED_IN",
+     "target": "సోమందేపల్లి",
+     "evidence": "సోమందేపల్లి పీసీఎస్ వద్ద.."
+    },
+    {
+     "source": "సోమందేపల్లి",
+     "relation": "LOCATED_IN",
+     "target": "శ్రీసత్యసాయి జిల్లా",
+     "evidence": "శ్రీసత్యసాయి జిల్లా : సోమందేపల్లి"
+    }
+   ]
+  },
+  "46571688f49f0784ee13ac8a588d06c51bfcf108": {
+   "entities": [
+    {
+     "name": "జేసీ డా. బి. నవ్య",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నూలు మార్కెట్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నూలు వ్యవసాయ మార్కెట్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మార్కెట్ కమిటీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కనిష్ఠ ధర రూ.500కు తగ్గకుండా కొనుగోలు చేయాలని జేసీ ఆదేశించారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉల్లి మార్కెట్ ధరల సమస్య",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జేసీ డా. బి. నవ్య",
+     "relation": "MAKES_CLAIM",
+     "target": "కనిష్ఠ ధర రూ.500కు తగ్గకుండా కొనుగోలు చేయాలని జేసీ ఆదేశించారు",
+     "evidence": "కనిష్ఠ ధర రూ.500కు తగ్గకుండా కొనుగోలు చేయాలని జేసీ ఆదేశించారు"
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి",
+     "evidence": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి"
+    },
+    {
+     "source": "మార్కెట్ కమిటీ",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు మార్కెట్",
+     "evidence": "మార్కెట్ కమిటీ అధికారులు"
+    },
+    {
+     "source": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉల్లి మార్కెట్ ధరల సమస్య",
+     "evidence": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి"
+    },
+    {
+     "source": "కనిష్ఠ ధర రూ.500కు తగ్గకుండా కొనుగోలు చేయాలని జేసీ ఆదేశించారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉల్లి మార్కెట్ ధరల సమస్య",
+     "evidence": "కనిష్ఠ ధర రూ.500కు తగ్గకుండా కొనుగోలు చేయాలని జేసీ ఆదేశించారు"
+    }
+   ]
+  },
+  "8460eb8d6970657dca4b8a8b401fea6d1d777e21": {
+   "entities": [
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "Varikuti Ashok Babu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Y.S. Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "Coalition government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vemuru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bapatla district",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vella Buddi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా పంపిణీ",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా పంపిణీ లోటులేకుండా జరిగింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం రైతులను యాచించే పరి స్థితికి తీసుకొచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Varikuti Ashok Babu",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "టీడీపీ నేతల అరాచకం"
+    },
+    {
+     "source": "Varikuti Ashok Babu",
+     "relation": "ACCUSES",
+     "target": "Coalition government",
+     "evidence": "కూటమి ప్రభుత్వం రైతులను యాచించే పరి స్థితికి తీసుకొచ్చిందని మండిపడ్డారు."
+    },
+    {
+     "source": "Varikuti Ashok Babu",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "వైఎస్సార్సీపీ రాష్ట్ర అధికార ప్రతినిధి"
+    },
+    {
+     "source": "Varikuti Ashok Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "యూరియా పంపిణీ లోటులేకుండా జరిగింది",
+     "evidence": "వై.ఎస్. జగన్ పాలనలో రైతులందరికీ ఎలాంటి లోటులేకుండా యూరియాను పంపిణీ చేశారని అశోక్బాబు గుర్తుచేశారు."
+    },
+    {
+     "source": "Varikuti Ashok Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "కూటమి ప్రభుత్వం రైతులను యాచించే పరి స్థితికి తీసుకొచ్చింది",
+     "evidence": "కూటమి ప్రభుత్వం రైతులను యాచించే పరి స్థితికి తీసుకొచ్చిందని మండిపడ్డారు."
+    },
+    {
+     "source": "Vemuru",
+     "relation": "LOCATED_IN",
+     "target": "Bapatla district",
+     "evidence": "బాపట్ల జిల్లా వేమూరు మండలం"
+    },
+    {
+     "source": "Vella Buddi",
+     "relation": "LOCATED_IN",
+     "target": "Vemuru",
+     "evidence": "వేమూరు (కొల్లూరు) లోని రైతుసేవా కేంద్రం"
+    },
+    {
+     "source": "యూరియా పంపిణీ లోటులేకుండా జరిగింది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యూరియా పంపిణీ",
+     "evidence": "యూరియా పంపిణీ"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం రైతులను యాచించే పరి స్థితికి తీసుకొచ్చింది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యూరియా పంపిణీ",
+     "evidence": "యూరియా పంపిణీ"
+    }
+   ]
+  },
+  "029738a27c74cf11a2ca5bf102b6ae65dd28de6b": {
+   "entities": [
+    {
+     "name": "నంద్యాల జిల్లా",
+     "type": "Place",
+     "english_name": "Nandyal district"
+    },
+    {
+     "name": "డోన్",
+     "type": "Place",
+     "english_name": "Dhone"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "మార్క్ ఫెడ్",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "రాఘవేంద్ర రెడ్డి",
+     "type": "Person",
+     "english_name": "Raghavendra Reddy"
+    },
+    {
+     "name": "ఎమ్మెల్యే కోట్ల జయసూర్యప్రకాశ్ రెడ్డి",
+     "type": "Person",
+     "english_name": "MLA Kotla Jayasurya Prakash Reddy"
+    },
+    {
+     "name": "డోన్ టౌన్ ఎస్సై రవిప్రకాష్",
+     "type": "Person",
+     "english_name": "Dhone Town SI Ravi Prakash"
+    },
+    {
+     "name": "ఆర్ఐ మస్తాన్",
+     "type": "Person",
+     "english_name": "RI Masten"
+    },
+    {
+     "name": "ఏవో మధు",
+     "type": "Person",
+     "english_name": "AO Madhu"
+    },
+    {
+     "name": "విజిలెన్స్ అధికారులు",
+     "type": "Organization",
+     "english_name": "Vigilance officials"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "రెవెన్యూ అధికారులు",
+     "type": "Organization",
+     "english_name": "Revenue officials"
+    },
+    {
+     "name": "వ్యవసాయ అధికారులు",
+     "type": "Organization",
+     "english_name": "Agriculture officials"
+    },
+    {
+     "name": "యూరియా మాయం",
+     "type": "Issue",
+     "english_name": "Urea missing"
+    },
+    {
+     "name": "బ్లాక్ మార్కెట్",
+     "type": "Issue",
+     "english_name": "Black market"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పోలీసులు",
+     "relation": "LOCATED_IN",
+     "target": "డోన్",
+     "evidence": "గోడౌన్‌ను తనిఖీచేస్తున్న పోలీసు"
+    },
+    {
+     "source": "రెవెన్యూ అధికారులు",
+     "relation": "LOCATED_IN",
+     "target": "డోన్",
+     "evidence": "గోడౌన్‌ను తనిఖీచేస్తున్న రెవెన్యూ అధికారులు"
+    },
+    {
+     "source": "వ్యవసాయ అధికారులు",
+     "relation": "LOCATED_IN",
+     "target": "డోన్",
+     "evidence": "గోడౌన్‌ను తనిఖీచేస్తున్న వ్యవసాయ అధికారులు"
+    },
+    {
+     "source": "విజిలెన్స్ అధికారులు",
+     "relation": "LOCATED_IN",
+     "target": "డోన్",
+     "evidence": "విజిలెన్స్ అధికారులు"
+    }
+   ]
+  },
+  "9f9b802d9a1b9e3d5937e1c4c8b54d8eb360cde1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "ఉల్లికి మద్దతు ధర",
+     "type": "Issue",
+     "english_name": "Onion support price"
+    },
+    {
+     "name": "మద్దతు ధర రూ.1,200",
+     "type": "Scheme",
+     "english_name": "Support price Rs 1200 per quintal"
+    },
+    {
+     "name": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనాలి",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనాలి",
+     "evidence": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనాలి"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మద్దతు ధర రూ.1,200",
+     "evidence": "చంద్రబాబు ఆదేశాలు.. రూ.1200కు కొనాలని"
+    },
+    {
+     "source": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనాలి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉల్లికి మద్దతు ధర",
+     "evidence": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనాలి"
+    }
+   ]
+  },
+  "7bf18529922b07edb03887d344fea4c96ce10ca9": {
+   "entities": [],
+   "relations": []
+  },
+  "0fe61b55eed051dc6dfcc90800cb438fa9cfc5a2": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జేసీ",
+     "type": "Person",
+     "english_name": "JC"
+    },
+    {
+     "name": "మార్కెట్‌ఫెడ్",
+     "type": "Organization",
+     "english_name": "MARKFED"
+    },
+    {
+     "name": "మార్కెట్ కమిటీ",
+     "type": "Organization",
+     "english_name": "Market Committee"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "కొత్త బస్టాండు",
+     "type": "Place",
+     "english_name": "New Bus Stand"
+    },
+    {
+     "name": "ప్రధాన రహదారి",
+     "type": "Place",
+     "english_name": "Main Road"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Place",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఉల్లి రైతు కన్నెర్ర",
+     "type": "Issue",
+     "english_name": "Onion Farmer Protest"
+    },
+    {
+     "name": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి",
+     "type": "Claim",
+     "english_name": "No farmer should suffer loss; support onion at Rs 1200 per quintal"
+    },
+    {
+     "name": "జేసీ హామీ",
+     "type": "Claim",
+     "english_name": "JC promised government will pay remaining amount"
+    },
+    {
+     "name": "ప్రభుత్వమే క్వింటాలుకు రూ.1,200 ధరతో మార్కెట్‌ఫెడ్ ద్వారా కొనుగోలు చేయాలని డిమాండ్ చేశారు",
+     "type": "Claim",
+     "english_name": "Demand government purchase at Rs 1200 per quintal via MARKFED"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి",
+     "evidence": "పంట సాగు చేసిన ఏ ఒక్క రైతు నష్టపోకూడదు. వారికి అండగా నిలవాలి.. ఉల్లికి మద్దతు క్వింటా రూ.1,200కు కొనుగోలు చేయాలి' అని ముఖ్యమంత్రి చంద్రబాబు నాయుడు అదే శంచారు."
+    },
+    {
+     "source": "జేసీ",
+     "relation": "MAKES_CLAIM",
+     "target": "జేసీ హామీ",
+     "evidence": "మిగిలిన మొత్తం ప్రభుత్వం ఇస్తుందని జేసీ హామీ"
+    },
+    {
+     "source": "మార్కెట్ కమిటీ",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు",
+     "evidence": "కర్నూలు వ్యవసాయ మార్కెట్కు"
+    },
+    {
+     "source": "మార్కెట్ కమిటీ",
+     "relation": "LOCATED_IN",
+     "target": "కొత్త బస్టాండు",
+     "evidence": "కొత్త బస్టాండు దగ్గర ప్రధాన రహదారిపై"
+    },
+    {
+     "source": "మార్కెట్‌ఫెడ్",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు",
+     "evidence": "ప్రభుత్వమే క్వింటాలుకు రూ.1,200 ధరతో మార్కెట్‌ఫెడ్ ద్వారా కొనుగోలు చేయాలని డిమాండ్ చేశారు"
+    }
+   ]
+  },
+  "e844f1419135644be33ec22b72bda30bc71eca87": {
+   "entities": [
+    {
+     "name": "జేసీ",
+     "type": "Person",
+     "english_name": "JCI"
+    },
+    {
+     "name": "జేసీ నవ్య",
+     "type": "Person",
+     "english_name": "JCI Nvya"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పులా",
+     "type": "Place",
+     "english_name": "Pula"
+    },
+    {
+     "name": "ఆందోళన",
+     "type": "Issue",
+     "english_name": "Protest"
+    },
+    {
+     "name": "జేసీ హామీతో శాంతించిన రైతులు",
+     "type": "Claim",
+     "english_name": "Farmers pacified by JCI's promise"
+    },
+    {
+     "name": "రైతులకు మద్దతుగా వైకాపా నాయకులు",
+     "type": "Claim",
+     "english_name": "YSRCP leaders support farmers"
+    },
+    {
+     "name": "జేసీ నవ్య రైతులతో చర్చించారు",
+     "type": "Claim",
+     "english_name": "JCI Nvya discusses with farmers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జేసీ",
+     "relation": "MAKES_CLAIM",
+     "target": "జేసీ హామీతో శాంతించిన రైతులు",
+     "evidence": "జేసీ హామీతో శాంతించిన రైతులు"
+    },
+    {
+     "source": "జేసీ నవ్య",
+     "relation": "MAKES_CLAIM",
+     "target": "జేసీ నవ్య రైతులతో చర్చించారు",
+     "evidence": "జేసీ నవ్య రైతులతో చర్చించారు"
+    },
+    {
+     "source": "జేసీ హామీతో శాంతించిన రైతులు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఆందోళన",
+     "evidence": "ఆందోళనలో పాల్గొన్నారు"
+    },
+    {
+     "source": "రైతులకు మద్దతుగా వైకాపా నాయకులు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఆందోళన",
+     "evidence": "ఆందోళనలో పాల్గొన్నారు"
+    },
+    {
+     "source": "జేసీ నవ్య రైతులతో చర్చించారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఆందోళన",
+     "evidence": "ఆందోళనలో పాల్గొన్నారు"
+    }
+   ]
+  },
+  "71cfb92eafc12f2d0d607dd75fe5a015e4093569": {
+   "entities": [
+    {
+     "name": "మార్కెఫెడ్",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "మార్కెట్ కమిటీ కార్య దర్శి",
+     "type": "Person",
+     "english_name": "Market Committee Secretary"
+    },
+    {
+     "name": "జేసీ",
+     "type": "Person",
+     "english_name": "JC"
+    },
+    {
+     "name": "వైకాపా నాయకులు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "జేసీ నవ్య",
+     "type": "Person",
+     "english_name": "JC Nvya"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "కొత్త బస్టాండు",
+     "type": "Place",
+     "english_name": "New bus stand"
+    },
+    {
+     "name": "ప్రధాన రహదారి",
+     "type": "Place",
+     "english_name": "Main road"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "వ్యాపారులు",
+     "type": "Person",
+     "english_name": "Traders"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఉల్లి రేటు",
+     "type": "Issue",
+     "english_name": "Onion price"
+    },
+    {
+     "name": "మార్కెట్ కమిటీ",
+     "type": "Organization",
+     "english_name": "Market Committee"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

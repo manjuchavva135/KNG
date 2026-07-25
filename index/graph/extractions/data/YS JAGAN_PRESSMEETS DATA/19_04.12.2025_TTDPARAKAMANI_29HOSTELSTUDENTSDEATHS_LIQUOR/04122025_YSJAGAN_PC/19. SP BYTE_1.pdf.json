@@ -1,0 +1,236 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c44dc2dbae183d3a13996db83025db777ce0a306": {
+   "entities": [],
+   "relations": []
+  },
+  "be3b9a006cae6a5b0880a1a689b5542d625ba9fa": {
+   "entities": [
+    {
+     "name": "తోట వెంకట్రామయ్య",
+     "type": "Person",
+     "english_name": "Tota Venkataramayya"
+    },
+    {
+     "name": "ఎస్పీ కంచి శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "SP Kanchi Srinivasa Rao"
+    },
+    {
+     "name": "మాచర్ల ప్రభుత్వాసుపత్రి",
+     "type": "Organization",
+     "english_name": "Macharla Government Hospital"
+    },
+    {
+     "name": "వెల్దుర్తి పోలీసులు",
+     "type": "Organization",
+     "english_name": "Veludurthi Police"
+    },
+    {
+     "name": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Pinnelli Ramakrishnareddy"
+    },
+    {
+     "name": "వెంకట్రామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Venkatarami Reddy"
+    },
+    {
+     "name": "జూలకంటి బ్రహ్మారెడ్డి",
+     "type": "Person",
+     "english_name": "Julakanti Brahmareddy"
+    },
+    {
+     "name": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలు",
+     "type": "Issue",
+     "english_name": "Attacks and murders in villages"
+    },
+    {
+     "name": "ముందస్తు ప్రణాళికతోనే హత్యలు చేశారని, నిందితులను పట్టుకోవడానికి బృందాలు ఏర్పాటు చేశామని",
+     "type": "Claim",
+     "english_name": "Murders were pre‑planned and teams formed to catch culprits"
+    },
+    {
+     "name": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని",
+     "type": "Claim",
+     "english_name": "Attacks and murders in villages caused by former YSRCP MLA Pinnelli Ramakrishnareddy and his brother Venkatarami Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని పల్నాడు జిల్లా మాచర్ల ఎమ్మెల్యే జూలకంటి బ్రహ్మారెడ్డి ఆరోపించారు."
+    },
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వెంకట్రామిరెడ్డి",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని పల్నాడు జిల్లా మాచర్ల ఎమ్మెల్యే జూలకంటి బ్రహ్మారెడ్డి ఆరోపించారు."
+    },
+    {
+     "source": "ఎస్పీ కంచి శ్రీనివాసరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "ముందస్తు ప్రణాళికతోనే హత్యలు చేశారని, నిందితులను పట్టుకోవడానికి బృందాలు ఏర్పాటు చేశామని",
+     "evidence": "ముందస్తు ప్రణాళికతోనే హత్యలు చేశారని, నిందితులను పట్టుకోవడానికి బృందాలు ఏర్పాటు చేశామని ఎస్పీ తెలిపారు."
+    }
+   ]
+  },
+  "4380b1bc6f4f36e34d86f01b1d98b2e7f30b186f": {
+   "entities": [
+    {
+     "name": "పల్నాడు జిల్లా పోలీసు కార్యాలయం",
+     "type": "Organization",
+     "english_name": "Palnadu District Police Office"
+    },
+    {
+     "name": "నరసరావుపేట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జిల్లా ఎస్పీ శ్రీ కంచి శ్రీనివాస్ రావు గారు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టిడిపి పార్టీ",
+     "type": "Party",
+     "english_name": "TDP Party"
+    },
+    {
+     "name": "గుండ్లపాడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "వెల్దుర్తి మండలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బోధిల వీడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "హుజూర్నగర్ జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కోటేశ్వరరావు వెంకటేశ్వర్లు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జవిశెట్టి వెంకటేశ్వర్లు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జవిశెట్టి కోటేశ్వరరావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వెంకటేశ్వర్లు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పంచాయతీ ఎన్నికలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆధిపత్య పోరు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "హత్య",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "స్కార్పియో",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "హత్యలు గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో జరిగి ఉండవచ్చు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జవిశెట్టి వెంకటేశ్వర్లు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి పార్టీ",
+     "evidence": "ఇద్దరు టిడిపి పార్టీకి చెందినవారు"
+    },
+    {
+     "source": "కోటేశ్వరరావు వెంకటేశ్వర్లు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి పార్టీ",
+     "evidence": "ఇద్దరు టిడిపి పార్టీకి చెందినవారు"
+    },
+    {
+     "source": "జవిశెట్టి కోటేశ్వరరావు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి పార్టీ",
+     "evidence": "ఇద్దరు టిడిపి పార్టీకి చెందినవారు"
+    },
+    {
+     "source": "పల్నాడు జిల్లా పోలీసు కార్యాలయం",
+     "relation": "LOCATED_IN",
+     "target": "నరసరావుపేట",
+     "evidence": "పల్నాడు జిల్లా పోలీసు కార్యాలయం, నరసరావుపేట"
+    },
+    {
+     "source": "హత్యలు గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో జరిగి ఉండవచ్చు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఆధిపత్య పోరు",
+     "evidence": "హత్యలు గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో జరిగి ఉండవచ్చు."
+    },
+    {
+     "source": "హత్యలు గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో జరిగి ఉండవచ్చు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పంచాయతీ ఎన్నికలు",
+     "evidence": "హత్యలు గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో జరిగి ఉండవచ్చు."
+    },
+    {
+     "source": "హత్యలు గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో జరిగి ఉండవచ్చు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "హత్య",
+     "evidence": "హత్యలు గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో జరిగి ఉండవచ్చు."
+    }
+   ]
+  }
+ }
+}

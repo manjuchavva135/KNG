@@ -1,0 +1,180 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "47f6ac54753f549caf4a029bcfd50ce4ebbba374": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గవర్నర్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక అరాచకం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "డెట్ సస్టెయినబిలిటి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రం అప్పులు రూ.6,46,531 కోట్లు మాత్రమే",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్ ప్రామిసెస్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ హయాం"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రం అప్పులు రూ.6,46,531 కోట్లు మాత్రమే",
+     "evidence": "రాష్ట్రం అప్పులు రూ.6,46,531 కోట్లు మాత్రమే అని తనంతట తానే ఒప్పుకోక తప్పలేదు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ఇలాంటి మోసాలు చేస్తాడు"
+    },
+    {
+     "source": "రాష్ట్ర ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "రాష్ట్రం"
+    },
+    {
+     "source": "Super Six",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఆర్థిక అరాచకం",
+     "evidence": "ఆర్థిక అరాచకం.."
+    }
+   ]
+  },
+  "9b7ffc436b91aaec7c01b7e65dd946e69a0cfe45": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jindal",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Maharashtra",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Lockheed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Airbus",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MedTech Innovation Center",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "Jindal",
+     "evidence": "వాళ్లపై కేసులు పెట్టి, వాళ్ల ప్రతిష్టను నాశనం చేసి భయపెట్టి వెళ్లగొట్టాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "SUPERSIX PROMISES"
+    }
+   ]
+  }
+ }
+}

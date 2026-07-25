@@ -1,0 +1,98 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "84321799d3698c896f693da0c356234daf8b8d92": {
+   "entities": [
+    {
+     "name": "షేక్ మస్తాన్",
+     "type": "Person",
+     "english_name": "Sheik Mastan"
+    },
+    {
+     "name": "ఉప్పు చెంగమ్మ",
+     "type": "Person",
+     "english_name": "Uppu Chengamma"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "వెంకటాచలం",
+     "type": "Place",
+     "english_name": "Venkata Chalam"
+    },
+    {
+     "name": "నెల్లూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Nellore district"
+    },
+    {
+     "name": "కసుమూరు",
+     "type": "Place",
+     "english_name": "Kasumuru"
+    },
+    {
+     "name": "మహిళపై దాడి",
+     "type": "Issue",
+     "english_name": "Attack on women"
+    },
+    {
+     "name": "షేక్ మస్తాన్ ఆమె తలపై రాడ్డుతో దాడిచేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులకు ఫిర్యాదు చేసినా పట్టించుకోలేదని స్థానికులు ఆవేదన వ్యక్తంచేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "షేక్ మస్తాన్",
+     "relation": "ACCUSES",
+     "target": "ఉప్పు చెంగమ్మ",
+     "evidence": "షేక్ మస్తాన్ ఆమె తలపై రాడ్డుతో దాడిచేశాడు."
+    },
+    {
+     "source": "షేక్ మస్తాన్",
+     "relation": "MAKES_CLAIM",
+     "target": "షేక్ మస్తాన్ ఆమె తలపై రాడ్డుతో దాడిచేశాడు.",
+     "evidence": "షేక్ మస్తాన్ ఆమె తలపై రాడ్డుతో దాడిచేశాడు."
+    },
+    {
+     "source": "ఉప్పు చెంగమ్మ",
+     "relation": "MAKES_CLAIM",
+     "target": "షేక్ మస్తాన్ ఆమె తలపై రాడ్డుతో దాడిచేశాడు.",
+     "evidence": "ఉప్పు చెంగమ్మ ప్రశ్నించడంతో షేక్ మస్తాన్ ఆమె తలపై రాడ్డుతో దాడిచేశాడు."
+    },
+    {
+     "source": "షేక్ మస్తాన్ ఆమె తలపై రాడ్డుతో దాడిచేశాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళపై దాడి",
+     "evidence": "మహిళపై జరిగిన దాడిపై"
+    },
+    {
+     "source": "వెంకటాచలం",
+     "relation": "LOCATED_IN",
+     "target": "నెల్లూరు జిల్లా",
+     "evidence": "వెంకటాచలం: ... నెల్లూరు జిల్లా వెంకటాచలం మండలం"
+    },
+    {
+     "source": "కసుమూరు",
+     "relation": "LOCATED_IN",
+     "target": "నెల్లూరు జిల్లా",
+     "evidence": "నెల్లూరు జిల్లా వెంకటాచలం మండలం కసుమూరులో"
+    },
+    {
+     "source": "ఉప్పు చెంగమ్మ",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీసులకు ఫిర్యాదు చేసినా పట్టించుకోలేదని స్థానికులు ఆవేదన వ్యక్తంచేస్తున్నారు.",
+     "evidence": "మహిళపై జరిగిన దాడిపై పోలీసులకు ఫిర్యాదు చేసినా పట్టించుకోలేదని స్థానికులు ఆవేదన వ్యక్తంచేస్తున్నారు."
+    }
+   ]
+  }
+ }
+}

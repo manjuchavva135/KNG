@@ -1,0 +1,3116 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5124806553f1bc72dfcd792e82b70e5bd275c5d4": {
+   "entities": [
+    {
+     "name": "సహన",
+     "type": "Person",
+     "english_name": "Sahana"
+    },
+    {
+     "name": "నవీన్",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "తెనాలి టూటౌన్ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Tenali Town Police"
+    },
+    {
+     "name": "డీఎస్పీ జనార్ధనరావు",
+     "type": "Person",
+     "english_name": "DSP Janardhan Rao"
+    },
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "నవీన్ సహనపై దాడి చేశాడు",
+     "type": "Claim",
+     "english_name": "Naveen attacked Sahana"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీఎస్పీ జనార్ధనరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "నవీన్ సహనపై దాడి చేశాడు",
+     "evidence": "డీఎస్పీ జనార్ధనరావు చెప్పారు."
+    },
+    {
+     "source": "నవీన్ సహనపై దాడి చేశాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "సాక్షి వార్తా క్లిప్‌లు మహిళలపై దాడులపై"
+    }
+   ]
+  },
+  "c376f240b12844d7542a32364200647b04b1eb51": {
+   "entities": [
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Munikannappa",
+     "type": "Person",
+     "english_name": "Munikannappa"
+    },
+    {
+     "name": "Shirisha",
+     "type": "Person",
+     "english_name": "Shirisha"
+    },
+    {
+     "name": "Kuppam",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "మహిళలపై వరుస దౌర్జన్యాలు",
+     "type": "Issue",
+     "english_name": "Serial atrocities on women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Munikannappa",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీకి చెందిన మునికన్నప్ప"
+    },
+    {
+     "source": "Police",
+     "relation": "LOCATED_IN",
+     "target": "Kuppam",
+     "evidence": "కుప్పం పోలీసులు గ్రామానికి చేరుకుని"
+    }
+   ]
+  },
+  "7f3f3fbc88f04941a0353fb639554e019d28dbbf": {
+   "entities": [
+    {
+     "name": "తిమ్మరాయప్ప",
+     "type": "Person",
+     "english_name": "Timmarayappa"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": "Shirish"
+    },
+    {
+     "name": "మునికన్నప్ప",
+     "type": "Person",
+     "english_name": "Munikannappa"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కుప్పం రూరల్",
+     "type": "Place",
+     "english_name": "Kuppam Rural"
+    },
+    {
+     "name": "కుప్పం నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Kuppam constituency"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "నారాయణపురం",
+     "type": "Place",
+     "english_name": "Narayanapuram"
+    },
+    {
+     "name": "కుప్పం మండలం",
+     "type": "Place",
+     "english_name": "Kuppam mandal"
+    },
+    {
+     "name": "మహిళపై దాడి",
+     "type": "Claim",
+     "english_name": "Assault on a woman"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మునికన్నప్ప",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళపై దాడి",
+     "evidence": "చెట్టుకు తాళ్లతో కట్టేసి చిత్రహింసలకు గురి చేశాడు"
+    },
+    {
+     "source": "మహిళపై దాడి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళను నడిరోడ్డుపై ఈడ్చుకెళ్లి చెట్టుకు కట్టేసిన ఘటన"
+    },
+    {
+     "source": "కుప్పం రూరల్",
+     "relation": "LOCATED_IN",
+     "target": "కుప్పం నియోజకవర్గం",
+     "evidence": "కుప్పం రూరల్: ముఖ్యమంత్రి చంద్రబాబు ప్రాతినిధ్యం వహిస్తున్న చిత్తూరు జిల్లా కుప్పం నియోజకవర్గంలో"
+    },
+    {
+     "source": "కుప్పం రూరల్",
+     "relation": "LOCATED_IN",
+     "target": "చిత్తూరు జిల్లా",
+     "evidence": "కుప్పం రూరల్: ... చిత్తూరు జిల్లా కుప్పం నియోజకవర్గంలో"
+    },
+    {
+     "source": "నారాయణపురం",
+     "relation": "LOCATED_IN",
+     "target": "కుప్పం మండలం",
+     "evidence": "కుప్పం మండలం నారాయణపురం గ్రామానికి చెందిన"
+    }
+   ]
+  },
+  "889707a42341f73d975aba6bf2556a1ac2adbe62": {
+   "entities": [
+    {
+     "name": "వైస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్యారం పల్లె",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పాలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళల భద్రత",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "శాంతి భద్రతలకు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "నిందితుడి పై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాధిత యువతికి మెరుగైన వైద్యం అందించి ఆ కుటుంబానికి ప్రభుత్వం అన్ని విధాలా అండగా ఉం కాటని సూచించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో దిగజారిన శాంతి భద్రతలకు ఇదొక నిదర్శనమని, రెడ్ బుక్ పాలనకు పరాకాష్ట అని పేర్కొన్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో మహిళల భద్రత విషయంలో ప్రభుత్వ నిర్లక్ష్యం, వైఫల్యం వల్లే ఇలాంటి ఘటనలు చోటు చేసుకుంటున్నాయని, ఇటోనైనా వారి భద్రతపై దృష్టి సారించాలని డిమాండ్ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "గణేష్",
+     "evidence": "నిందితుడి పై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "వైస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నిందితుడి పై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు.",
+     "evidence": "నిందితుడి పై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "వైస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "బాధిత యువతికి మెరుగైన వైద్యం అందించి ఆ కుటుంబానికి ప్రభుత్వం అన్ని విధాలా అండగా ఉం కాటని సూచించారు.",
+     "evidence": "బాధిత యువతికి మెరుగైన వైద్యం అందించి ఆ కుటుంబానికి ప్రభుత్వం అన్ని విధాలా అండగా ఉం కాటని సూచించారు."
+    },
+    {
+     "source": "వైస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో దిగజారిన శాంతి భద్రతలకు ఇదొక నిదర్శనమని, రెడ్ బుక్ పాలనకు పరాకాష్ట అని పేర్కొన్నారు.",
+     "evidence": "రాష్ట్రంలో దిగజారిన శాంతి భద్రతలకు ఇదొక నిదర్శనమని, రెడ్ బుక్ పాలనకు పరాకాష్ట అని పేర్కొన్నారు."
+    },
+    {
+     "source": "వైస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో మహిళల భద్రత విషయంలో ప్రభుత్వ నిర్లక్ష్యం, వైఫల్యం వల్లే ఇలాంటి ఘటనలు చోటు చేసుకుంటున్నాయని, ఇటోనైనా వారి భద్రతపై దృష్టి సారించాలని డిమాండ్ చేశారు.",
+     "evidence": "రాష్ట్రంలో మహిళల భద్రత విషయంలో ప్రభుత్వ నిర్లక్ష్యం, వైఫల్యం వల్లే ఇలాంటి ఘటనలు చోటు చేసుకుంటున్నాయని, ఇటోనైనా వారి భద్రతపై దృష్టి సారించాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "-సాక్షి, అమరావతి"
+    },
+    {
+     "source": "ప్యారం పల్లె",
+     "relation": "LOCATED_IN",
+     "target": "అన్నమయ్య జిల్లా",
+     "evidence": "15 రోజుల కింద ప్యారం పల్లెకు వెళ్లి రెక్కీ నిర్వహించాడు."
+    }
+   ]
+  },
+  "3791fd715176a492e025ecc5ee0074947cc3d7d1": {
+   "entities": [
+    {
+     "name": "మల్లెల వెంకట రమణ మూర్తి",
+     "type": "Person",
+     "english_name": "M. Venkata Ramana Murthy"
+    },
+    {
+     "name": "మహిళ",
+     "type": "Person",
+     "english_name": "woman"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "నగర పాలక సంస్థ",
+     "type": "Organization",
+     "english_name": "Municipal Corporation"
+    },
+    {
+     "name": "నగరంపాలెం పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Nagarampalem Police Station"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "కృష్ణబాబు కాలనీ",
+     "type": "Place",
+     "english_name": "Krishnababu Colony"
+    },
+    {
+     "name": "21వ డివిజన్",
+     "type": "Place",
+     "english_name": "21st Division"
+    },
+    {
+     "name": "మహిళపై దాడి",
+     "type": "Issue",
+     "english_name": "Attack on woman"
+    },
+    {
+     "name": "మహిళను వివస్త్రను చేసి చితక బాదారు",
+     "type": "Claim",
+     "english_name": "Woman stripped and beaten"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మల్లెల వెంకట రమణ మూర్తి",
+     "relation": "MEMBER_OF",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "తెలుగుదేశం పార్టీ నాయకులు"
+    },
+    {
+     "source": "మల్లెల వెంకట రమణ మూర్తి",
+     "relation": "ACCUSES",
+     "target": "మహిళ",
+     "evidence": "మూర్తి బెదిరించడం తో"
+    },
+    {
+     "source": "మహిళ",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళను వివస్త్రను చేసి చితక బాదారు",
+     "evidence": "ఓ మహిళను వివస్త్రను చేసి చితక బాదారు"
+    },
+    {
+     "source": "మహిళను వివస్త్రను చేసి చితక బాదారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళపై దాడి",
+     "evidence": "ఓ మహిళపై అనాగరికంగా దాడి చేసిన"
+    },
+    {
+     "source": "కృష్ణబాబు కాలనీ",
+     "relation": "LOCATED_IN",
+     "target": "గుంటూరు",
+     "evidence": "గుంటూరు నగరంలో"
+    },
+    {
+     "source": "నగరంపాలెం పోలీస్ స్టేషన్",
+     "relation": "LOCATED_IN",
+     "target": "గుంటూరు",
+     "evidence": "గుంటూరు పశ్చిమ నియోజకవర్గం నగరంపాలెం పోలీస్ స్టేషన్ పరిధిలో"
+    },
+    {
+     "source": "నగర పాలక సంస్థ",
+     "relation": "LOCATED_IN",
+     "target": "గుంటూరు",
+     "evidence": "నగర పాలక సంస్థలో ఫిర్యాదు చేశాడు"
+    }
+   ]
+  },
+  "44aec516638955d9720c02c0c49bc21677210fbb": {
+   "entities": [
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "పోలీసు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "బాధితుల బంధువులు",
+     "type": "Person",
+     "english_name": "Victims' relatives"
+    },
+    {
+     "name": "సల్లాపురి",
+     "type": "Person",
+     "english_name": "Sallapuri"
+    },
+    {
+     "name": "పార్వతమ్మ",
+     "type": "Person",
+     "english_name": "Parvathamma"
+    },
+    {
+     "name": "ఇందిరమ్మ",
+     "type": "Person",
+     "english_name": "Indiramma"
+    },
+    {
+     "name": "ఉమా దేవి",
+     "type": "Person",
+     "english_name": "Uma Devi"
+    },
+    {
+     "name": "ఉషారాణి",
+     "type": "Person",
+     "english_name": "Usharani"
+    },
+    {
+     "name": "శ్వేత",
+     "type": "Person",
+     "english_name": "Shwetha"
+    },
+    {
+     "name": "శాలిని",
+     "type": "Person",
+     "english_name": "Shalini"
+    },
+    {
+     "name": "గొల్ల లక్ష్మి",
+     "type": "Person",
+     "english_name": "Gollu Laxmi"
+    },
+    {
+     "name": "దొడ్డయ్య",
+     "type": "Person",
+     "english_name": "Doddayya"
+    },
+    {
+     "name": "తహసీల్దార్",
+     "type": "Organization",
+     "english_name": "Tahsildar"
+    },
+    {
+     "name": "రెవెన్యూ అధికారులు",
+     "type": "Organization",
+     "english_name": "Revenue officers"
+    },
+    {
+     "name": "శాంతిపురం మండలం",
+     "type": "Place",
+     "english_name": "Shantipuram Mandal"
+    },
+    {
+     "name": "వెంకటేష్ పురం",
+     "type": "Place",
+     "english_name": "Venkatapuram"
+    },
+    {
+     "name": "మఠం పంచాయతీ",
+     "type": "Place",
+     "english_name": "Matham Panchayat"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur district"
+    },
+    {
+     "name": "జంబుగుంపల",
+     "type": "Place",
+     "english_name": "Jambulagumpala"
+    },
+    {
+     "name": "SP కార్యాలయం",
+     "type": "Organization",
+     "english_name": "SP Office"
+    },
+    {
+     "name": "పచ్చ పెద్ద మనుషులు రూ.2.20 లక్షలు బాధితులు ఇచ్చేలా సెటిల్మెంట్ చేశారు.",
+     "type": "Claim",
+     "english_name": "Pachcha pedda manushulu Rs.2.20 lakhs settlement claim"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సల్లాపురి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "స్థానిక టీడీపీ నాయకుడు సల్లాపురి"
+    },
+    {
+     "source": "బాధితుల బంధువులు",
+     "relation": "ACCUSES",
+     "target": "సల్లాపురి",
+     "evidence": "పోలీసులకు ఫిర్యాదు చేసినా అధికార పార్టీ నాయకుల ఒత్తిడితో కేసు నమోదు కాలేదు."
+    },
+    {
+     "source": "బాధితుల బంధువులు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "పోలీసులకు ఫిర్యాదు చేసినా అధికార పార్టీ నాయకుల ఒత్తిడితో కేసు నమోదు కాలేదు."
+    },
+    {
+     "source": "బాధితుల బంధువులు",
+     "relation": "MAKES_CLAIM",
+     "target": "పచ్చ పెద్ద మనుషులు రూ.2.20 లక్షలు బాధితులు ఇచ్చేలా సెటిల్మెంట్ చేశారు.",
+     "evidence": "పచ్చ పెద్ద మనుషులు రూ.2.20 లక్షలు బాధితులు ఇచ్చేలా సెటిల్మెంట్ చేశారు."
+    },
+    {
+     "source": "వెంకటేష్ పురం",
+     "relation": "LOCATED_IN",
+     "target": "మఠం పంచాయతీ",
+     "evidence": "వెంకటేష్ పురంలో ముగ్గురు మహిళలు, ముగ్గురు బాలికలపై గత నెల 31న హేయమైన రీతిలో దాడి జరిగింది."
+    },
+    {
+     "source": "శాంతిపురం మండలం",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం జిల్లా",
+     "evidence": "ఈ ఘటన అనంతపురం జిల్లా కుందుర్పి మండలం జంబుగుంపల చోటు చేసుకుంది."
+    },
+    {
+     "source": "జంబుగుంపల",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం జిల్లా",
+     "evidence": "ఈ ఘటన అనంతపురం జిల్లా కుందుర్పి మండలం జంబుగుంపల చోటు చేసుకుంది."
+    }
+   ]
+  },
+  "ab7282f29ff98d00215c082f644623611f0f1ee6": {
+   "entities": [
+    {
+     "name": "తిరుపతి",
+     "type": "Person",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "అరతి",
+     "type": "Person",
+     "english_name": "Arati"
+    },
+    {
+     "name": "టీడీపీ నాయకుడు",
+     "type": "Person",
+     "english_name": "TDP leader"
+    },
+    {
+     "name": "పచ్చ పెద్ద మనుషులు",
+     "type": "Organization",
+     "english_name": "Pachcha pedda manushulu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కడపల్లి పంచాయతీ",
+     "type": "Place",
+     "english_name": "Kadapalli Panchayat"
+    },
+    {
+     "name": "పోడూరు",
+     "type": "Place",
+     "english_name": "Poduru"
+    },
+    {
+     "name": "మండల కేంద్రం",
+     "type": "Place",
+     "english_name": "Mandal centre"
+    },
+    {
+     "name": "శాంతిపురం",
+     "type": "Place",
+     "english_name": "Santhipuram"
+    },
+    {
+     "name": "వెంకటేష్ పురం",
+     "type": "Place",
+     "english_name": "Venkateshapuram"
+    },
+    {
+     "name": "మఠం పంచాయతీ",
+     "type": "Place",
+     "english_name": "Matham Panchayat"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "పసుపు చొక్కాల దౌర్జన్యకాండ",
+     "type": "Issue",
+     "english_name": "Yellow shirt atrocities"
+    },
+    {
+     "name": "అప్పు తీర్చలేదని తన భార్యను మండల కేంద్రంలో నిర్బంధించిన ఘటన",
+     "type": "Claim",
+     "english_name": "Detention of wife due to unpaid debt"
+    },
+    {
+     "name": "పోలీసులకు ఫిర్యాదు చేసినా కేసు నమోదు కాలేదు",
+     "type": "Claim",
+     "english_name": "Complaint not registered"
+    }
+   ],
+   "relations": []
+  },
+  "37a2a2e83125122f31b7ba84ecdcf88ca193afed": {
+   "entities": [
+    {
+     "name": "తాతంశెట్టి నాగేంద్ర",
+     "type": "Person",
+     "english_name": "Tathamshetti Nagendra"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "వరుదు కళ్యాణి",
+     "type": "Person",
+     "english_name": "Varudu Kalyani"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "మహిళా హోంమంత్రి అనిత",
+     "type": "Person",
+     "english_name": "Women Home Minister Anitha"
+    },
+    {
+     "name": "అరవ శ్రీధర్",
+     "type": "Person",
+     "english_name": "Arva Sridhar"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "ముక్కా రూపానందరెడ్డి",
+     "type": "Person",
+     "english_name": "Mukka Roopanandareddy"
+    },
+    {
+     "name": "రైల్వేకోడూరు",
+     "type": "Place",
+     "english_name": "Railwaykoduru"
+    },
+    {
+     "name": "విశాఖ పెదవాల్తేరు",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "బాధితురాలు",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": "జనసేన ఎమ్మెల్యే అరవ శ్రీధర్ బాధితురాలిపై జనసేన నేతల దాడిని ... ఖండించారు."
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": "మహిళా హోంమంత్రి అనితకు ఈ దాడులు కనపడవా.."
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": "పవన్ కళ్యాణ్ ఆదేశించినా అరవ పాల్గొంటున్నారని, ఇది పవన్ ను అవమానిం చడమేనని పేర్కొన్నారు."
+    },
+    {
+     "name": "దాడులు",
+     "type": "Issue",
+     "english_name": "దాడులు"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాధితురాలు",
+     "relation": "ACCUSES",
+     "target": "తాతంశెట్టి నాగేంద్ర",
+     "evidence": "తాతంశెట్టి నాగేంద్ర... ఫిర్యాదు చేశారు."
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "ACCUSES",
+     "target": "జనసేన",
+     "evidence": "జనసేన చోటా నేతలపై ఫిర్యాదు చేశారు."
+    },
+    {
+     "source": "వరుదు కళ్యాణి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim1",
+     "evidence": "జనసేన ఎమ్మెల్యే అరవ శ్రీధర్ బాధితురాలిపై జనసేన నేతల దాడిని ... ఖండించారు."
+    },
+    {
+     "source": "వరుదు కళ్యాణి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "మహిళా హోంమంత్రి అనితకు ఈ దాడులు కనపడవా.."
+    }
+   ]
+  },
+  "115d15ba12d836024f77a7f8bb4cc2b69367e633": {
+   "entities": [
+    {
+     "name": "రమణ",
+     "type": "Person",
+     "english_name": "Raman"
+    },
+    {
+     "name": "హరీష్",
+     "type": "Person",
+     "english_name": "Harish"
+    },
+    {
+     "name": "కనకమ్మ",
+     "type": "Person",
+     "english_name": "Kanakkamma"
+    },
+    {
+     "name": "ఉప్మాక",
+     "type": "Person",
+     "english_name": "Upmaaka"
+    },
+    {
+     "name": "పైడిరాజు",
+     "type": "Person",
+     "english_name": "Paidiraju"
+    },
+    {
+     "name": "గనిశెట్టి కనకరాజు",
+     "type": "Person",
+     "english_name": "Ganesetti Kanakaraju"
+    },
+    {
+     "name": "గ్రామ సచివాలయ మహిళా పోలీస్",
+     "type": "Organization",
+     "english_name": "Village Secretariat Women Police"
+    },
+    {
+     "name": "108",
+     "type": "Organization",
+     "english_name": "108 Ambulance Service"
+    },
+    {
+     "name": "కేజీహెచ్",
+     "type": "Place",
+     "english_name": "KGH Hospital"
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": "Harish was in an attempt to murder case and got bail"
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": "Harish was arrested in the attack case on Ganesetti Kanakaraju"
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": "Raman and Harish attempted to seize land"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఉప్మాక",
+     "relation": "ACCUSES",
+     "target": "రమణ",
+     "evidence": "రమణ, కనకమ్మ, హరీష్ కలిసి ఉప్మాకను విచక్షణారహితంగా కొట్టారు."
+    },
+    {
+     "source": "ఉప్మాక",
+     "relation": "ACCUSES",
+     "target": "కనకమ్మ",
+     "evidence": "రమణ, కనకమ్మ, హరీష్ కలిసి ఉప్మాకను విచక్షణారహితంగా కొట్టారు."
+    },
+    {
+     "source": "ఉప్మాక",
+     "relation": "ACCUSES",
+     "target": "హరీష్",
+     "evidence": "రమణ, కనకమ్మ, హరీష్ కలిసి ఉప్మాకను విచక్షణారహితంగా కొట్టారు."
+    },
+    {
+     "source": "హరీష్",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim1",
+     "evidence": "హరీష్ ఓ హత్యాయత్నం కేసులో జైలుకు వెళ్లి బెయిల్పై వచ్చాడు."
+    },
+    {
+     "source": "హరీష్",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "గనిశెట్టి కనకరాజుపై దాడి కేసులోనూ అరెస్ట్ అయ్యాడు."
+    },
+    {
+     "source": "రమణ",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim3",
+     "evidence": "రమణ, అతని కుమారుడు హరీష్ ఆ భూమిని స్వాధీనం చేసుకునేందుకు ప్రయత్నాలు చేస్తున్నారు."
+    }
+   ]
+  },
+  "805e8574e88d3a199325e69b393be2dbe24cbbcf": {
+   "entities": [
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీధర్రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కిషోర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పురుషోత్తంరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తిరుమలమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆదోని మండలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నాగనాథహళ్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "దీన్ని (మాల గుండమ్మ) ట్రాక్టర్తో తొక్కించి చంపేసెయ్.. ప్రభుత్వం మనదే.. ఎవడు అడ్డాస్తాడో చూద్దాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కర్రతో కొట్టి చంపేస్తామంటూ బెదిరిం చారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆదోని మండలం",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు జిల్లా",
+     "evidence": "ఆదోని మండలం నాగనాథహళ్లిలో"
+    },
+    {
+     "source": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "దీన్ని (మాల గుండమ్మ) ట్రాక్టర్తో తొక్కించి చంపేసెయ్.. ప్రభుత్వం మనదే.. ఎవడు అడ్డాస్తాడో చూద్దాం",
+     "evidence": "దీన్ని (మాల గుండమ్మ) ట్రాక్టర్తో తొక్కించి చంపేసెయ్.. ప్రభుత్వం మనదే.. ఎవడు అడ్డాస్తాడో చూద్దాం"
+    },
+    {
+     "source": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "కర్రతో కొట్టి చంపేస్తామంటూ బెదిరిం చారు.",
+     "evidence": "కర్రతో కొట్టి చంపేస్తామంటూ బెదిరిం చారు."
+    }
+   ]
+  },
+  "73574b63b9bc9b378e3cae41f9208a76deaab2db": {
+   "entities": [
+    {
+     "name": "చంద్రకళ",
+     "type": "Person",
+     "english_name": "Chandrakala"
+    },
+    {
+     "name": "హన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Hanreddy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కళ్యాణదుర్గం",
+     "type": "Place",
+     "english_name": "Kalyanadurgam"
+    },
+    {
+     "name": "పోలీసు స్టేషన్",
+     "type": "Organization",
+     "english_name": "Police station"
+    },
+    {
+     "name": "ఆడబిడ్డలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "మా బిడ్డను అన్యాయంగా పొట్టన పెట్టుకున్నారు",
+     "type": "Claim",
+     "english_name": "Our child was unfairly killed"
+    },
+    {
+     "name": "టీడీపీ పాలనలో ఆడబిడ్డలకు రక్షణ లేదు",
+     "type": "Claim",
+     "english_name": "In TDP rule, women are not protected"
+    },
+    {
+     "name": "పోలీసులు... కేసు నమోదు. చేసి గంటలోపే స్టేషన్ బెయిలిచ్చి నిందితులను వదిలేశారు",
+     "type": "Claim",
+     "english_name": "Police registered case and released accused within hour"
+    },
+    {
+     "name": "హన్రెడ్డి... ఆర్థిక సాయం అందించి అండగా నిలిచారు",
+     "type": "Claim",
+     "english_name": "Hanreddy provided financial aid"
+    },
+    {
+     "name": "చంద్రకళ... యాసిడ్ తాగి బలవన్మరణానికి యత్నించిన తర్వాత కేసు నమోదు",
+     "type": "Claim",
+     "english_name": "Case registered after Chandrakala attempted suicide by drinking acid"
+    },
+    {
+     "name": "చంద్రకళ కుటుంబ సభ్యులు... ధర్నాకు దిగారు",
+     "type": "Claim",
+     "english_name": "Chandrakala's family members staged dharna"
+    },
+    {
+     "name": "బాధితురాలి పిల్లలకు దిక్కెవరంటూ",
+     "type": "Claim",
+     "english_name": "Who will support the victim's children?"
+    },
+    {
+     "name": "మా బిడ్డను అన్యాయంగా టీడీపీ వారే పొట్టున పెట్టుకు న్నారు",
+     "type": "Claim",
+     "english_name": "Our child was unfairly killed by TDP people"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రకళ",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "మా బిడ్డను అన్యాయంగా టీడీపీ వారే పొట్టున పెట్టుకు న్నారు."
+    },
+    {
+     "source": "చంద్రకళ",
+     "relation": "ACCUSES",
+     "target": "పోలీసు స్టేషన్",
+     "evidence": "పోలీసులు... తూతూ మంత్రంగా కేసులు కట్టి తమ బిడ్డ చావుకు కారణమయ్యారని వారు ఆవేదన వ్యక్తం చేశారు."
+    },
+    {
+     "source": "చంద్రకళ",
+     "relation": "MAKES_CLAIM",
+     "target": "మా బిడ్డను అన్యాయంగా పొట్టన పెట్టుకున్నారు",
+     "evidence": "మా బిడ్డను అన్యాయంగా పొట్టన పెట్టుకున్నారు"
+    },
+    {
+     "source": "చంద్రకళ",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ పాలనలో ఆడబిడ్డలకు రక్షణ లేదు",
+     "evidence": "టీడీపీ పాలనలో ఆడబిడ్డలకు రక్షణ లేదు"
+    },
+    {
+     "source": "పోలీసు స్టేషన్",
+     "relation": "LOCATED_IN",
+     "target": "కళ్యాణదుర్గం",
+     "evidence": "కళ్యాణదుర్గం పట్టణ పోలీసు స్టేషన్ వద్ద ధర్నాకు దిగారు."
+    },
+    {
+     "source": "చంద్రకళ",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీసులు... కేసు నమోదు. చేసి గంటలోపే స్టేషన్ బెయిలిచ్చి నిందితులను వదిలేశారు",
+     "evidence": "పోలీసులు... కేసు నమోదు. చేసి గంటలోపే స్టేషన్ బెయిలిచ్చి నిందితులను వదిలేశారు."
+    }
+   ]
+  },
+  "d0558c67b619b9ff7969e69830e6fca2f930e252": {
+   "entities": [
+    {
+     "name": "హరీష్",
+     "type": "Person",
+     "english_name": "Harish"
+    },
+    {
+     "name": "గ్రామ సచివాలయ మహిళా పోలీస్",
+     "type": "Organization",
+     "english_name": "Village Secretariat Women Police"
+    },
+    {
+     "name": "గ్రామపెద్దలు",
+     "type": "Organization",
+     "english_name": "Village Elders"
+    },
+    {
+     "name": "108",
+     "type": "Organization",
+     "english_name": "108 Ambulance"
+    },
+    {
+     "name": "కేజీహెచ్",
+     "type": "Organization",
+     "english_name": "KGH Hospital"
+    },
+    {
+     "name": "గనిశెట్టి కనకరాజు",
+     "type": "Person",
+     "english_name": "Ganesetti Kanakaraju"
+    },
+    {
+     "name": "అయ్యారక కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Ayyarakar Corporation"
+    },
+    {
+     "name": "దళిత మహిళ",
+     "type": "Person",
+     "english_name": "Dalit Woman"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి టాస్క్ ఫోర్స్",
+     "type": "Organization",
+     "english_name": "Sakshi Task Force"
+    },
+    {
+     "name": "శ్రీకాకుళం జిల్లా",
+     "type": "Place",
+     "english_name": "Srikakulam District"
+    },
+    {
+     "name": "కోట బొమ్మాళి మండలం",
+     "type": "Place",
+     "english_name": "Kotabommali Mandal"
+    },
+    {
+     "name": "కిష్టుపురం",
+     "type": "Place",
+     "english_name": "Kistapuram"
+    }
+   ],
+   "relations": []
+  },
+  "519f82bf1423900b399393e112510b16b2ba38c7": {
+   "entities": [
+    {
+     "name": "రాఘవేంద్రరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghavendra Reddy"
+    },
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": "Malagundamma"
+    },
+    {
+     "name": "శ్రీధర్రెడ్డి",
+     "type": "Person",
+     "english_name": "Sridhar Reddy"
+    },
+    {
+     "name": "పురుషోత్తంరెడ్డి",
+     "type": "Person",
+     "english_name": "Purushottam Reddy"
+    },
+    {
+     "name": "సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "Subbarayudu"
+    },
+    {
+     "name": "కె.డి.నాగరాజ్",
+     "type": "Person",
+     "english_name": "K.D. Nagaraj"
+    },
+    {
+     "name": "రామకృష్ణ",
+     "type": "Person",
+     "english_name": "Ramakrishna"
+    },
+    {
+     "name": "సోమశేఖర్",
+     "type": "Person",
+     "english_name": "Somasekhar"
+    },
+    {
+     "name": "నిరంజన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Niranjan Reddy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్సిపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "దేవ దాసు",
+     "type": "Person",
+     "english_name": "Devadasu"
+    },
+    {
+     "name": "నరసింహులు",
+     "type": "Person",
+     "english_name": "Narasimulu"
+    },
+    {
+     "name": "గురునాథ్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Gurunath Reddy"
+    },
+    {
+     "name": "దేవాలు",
+     "type": "Person",
+     "english_name": "Devallu"
+    },
+    {
+     "name": "పార్థసారథి",
+     "type": "Person",
+     "english_name": "Parthasarathi"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "ఆదోని ప్రభుత్వ జనరల్ ఆస్పత్రి",
+     "type": "Organization",
+     "english_name": "Adoni Government General Hospital"
+    },
+    {
+     "name": "ఆదోని తాలూకా",
+     "type": "Place",
+     "english_name": "Adoni taluk"
+    },
+    {
+     "name": "పుంగనూరు",
+     "type": "Place",
+     "english_name": "Pungnur"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "దళిత మహిళ మాల గుండమ్మ హత్య",
+     "type": "Issue",
+     "english_name": "Murder of Dalit woman Malagundamma"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాఘవేంద్రరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకుడు రాఘవేంద్రరెడ్డి"
+    },
+    {
+     "source": "దేవ దాసు",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సిపీ",
+     "evidence": "వైఎస్సార్సిపీ నాయకులు ఆగ్రహం వ్యక్తం చేశారు"
+    },
+    {
+     "source": "నరసింహులు",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సిపీ",
+     "evidence": "వైఎస్సార్సిపీ నాయకులు ఆగ్రహం వ్యక్తం చేశారు"
+    },
+    {
+     "source": "గురునాథ్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సిపీ",
+     "evidence": "వైఎస్సార్సిపీ నాయకులు ఆగ్రహం వ్యక్తం చేశారు"
+    },
+    {
+     "source": "దేవాలు",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సిపీ",
+     "evidence": "వైఎస్సార్సిపీ నాయకులు ఆగ్రహం వ్యక్తం చేశారు"
+    },
+    {
+     "source": "దేవ దాసు",
+     "relation": "ACCUSES",
+     "target": "రాఘవేంద్రరెడ్డి",
+     "evidence": "టీడీపీ నాయకుడు రాఘవేంద్రరెడ్డి... హత్య చేయడం దారుణమని వైఎస్సార్సిపీ నాయకులు ఆగ్రహం వ్యక్తం చేశారు"
+    },
+    {
+     "source": "ఆదోని ప్రభుత్వ జనరల్ ఆస్పత్రి",
+     "relation": "LOCATED_IN",
+     "target": "ఆదోని",
+     "evidence": "ఆదోని ప్రభుత్వ జనరల్ ఆస్పత్రికి తరలించారు"
+    },
+    {
+     "source": "పుంగనూరు",
+     "relation": "LOCATED_IN",
+     "target": "చిత్తూరు జిల్లా",
+     "evidence": "పింఛను అడిగిన మహిళను చావబాదారు! ... పుంగనూరు (చిత్తూరు జిల్లా):"
+    }
+   ]
+  },
+  "d273e19ebc896b06cf8fddb71af4cc23f2d6a167": {
+   "entities": [
+    {
+     "name": "అమరమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మాలమహానాడు",
+     "type": "Organization",
+     "english_name": "Mala Mahanadu"
+    },
+    {
+     "name": "ఎన్ఆర్. అశోక్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఎంపీడీవో",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వెంగమునిరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఏవో చంద్రశేఖర్రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఉషాశ్రీ చరణ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సవిత",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పరిటాల సునీత",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మీర్జాపల్లి గ్రామం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీ సత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రొద్దం మండలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నారనాగేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పెనుకొండ నియోజకవర్గం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "లబ్ధిదారులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి టాస్క్ ఫోర్స్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పెన్షన్ పంపిణీ సమస్య",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మాకు పెన్షన్ రాకుండా టీడీపీ నేతలు అడ్డుపడుతున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అధికారులపై ఒత్తిడి తెచ్చి ఇబ్బందులకు గురి చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తక్షణమే వారందరికీ పింఛన్లు పంపిణీ చేయాలని ఆదేశించారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మంత్రి సవిత ఇలా కాలో పండుటాకుల పింఛన్లు నిలిపివేయడం దుర్మార్గమైన చర్య",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై టీడీపీ నేతల మరో అరాచకం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "లబ్ధిదారులు",
+     "relation": "ACCUSES",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "మాకు పెన్షన్ రాకుండా టీడీపీ నేతలు అడ్డుపడుతున్నారు"
+    },
+    {
+     "source": "ఏవో చంద్రశేఖర్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "తక్షణమే వారందరికీ పింఛన్లు పంపిణీ చేయాలని ఆదేశించారు",
+     "evidence": "తక్షణమే వారందరికీ పింఛన్లు పంపిణీ చేయాలని ఆదేశించారు"
+    },
+    {
+     "source": "ఉషాశ్రీ చరణ్",
+     "relation": "ACCUSES",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "మంత్రి సవిత ఇలా కాలో పండుటాకుల పింఛన్లు నిలిపివేయడం దుర్మార్గమైన చర్య"
+    }
+   ]
+  },
+  "2c61b8097d1bbfb7ed39880e95daf97d2b2a19c2": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "హోం మంత్రి అనిత",
+     "type": "Person",
+     "english_name": "Home Minister Anitha"
+    },
+    {
+     "name": "టీడీపీ నాయకులు",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "కోటవురట్లలో",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మడెం వరలక్ష్మి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జవ్వాది ఈశ్వరరావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జవ్వాది కిష్టమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జవ్వాది కుమారి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పబ్బు మహలక్ష్మి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జవ్వాది రమేష్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బత్తుల అప్పారావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బత్తుల నరసింహమూర్తి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పబ్బు తుర్రయ్య",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పెమ్మసాని",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాగి నవీన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సహన",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గుంటూరు ప్రభుత్వ ఆసుపత్రి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "గత ప్రభుత్వంలో మహిళలకు రక్షణ లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ నాయకులు ఇద్దరు మహిళలపై దాడి చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పెమ్మసాని అనుచరుడు రాగి నవీన్ దాడి చేసిన తెనాలి యువతి మధిర సహానా మృతి చెందింది",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "హోం మంత్రి అనిత",
+     "relation": "MAKES_CLAIM",
+     "target": "గత ప్రభుత్వంలో మహిళలకు రక్షణ లేదు",
+     "evidence": "గత ప్రభుత్వంలో మహిళలకు రక్షణ లేదంటూ గొంతు చించుకుని తీవ్ర స్థాయిలో దుష్ప్రచారం చేసిన ప్రస్తుత హోం మంత్రి వంగలపూడి అనిత"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ నాయకులు",
+     "evidence": "టీడీపీ నాయకులు ఇద్దరు మహిళలపై దాడి చేశారు"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ నాయకులు ఇద్దరు మహిళలపై దాడి చేశారు",
+     "evidence": "టీడీపీ నాయకులు ఇద్దరు మహిళలపై దాడి చేశారు"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "జవ్వాది ఈశ్వరరావు",
+     "evidence": "జవ్వాది ఈశ్వరరావు"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "జవ్వాది కిష్టమ్మ",
+     "evidence": "జవ్వాది కిష్టమ్మ"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "జవ్వాది కుమారి",
+     "evidence": "జవ్వాది కుమారి"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "పబ్బు మహలక్ష్మి",
+     "evidence": "పబ్బు మహలక్ష్మి"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "జవ్వాది రమేష్",
+     "evidence": "జవ్వాది రమేష్"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "బత్తుల అప్పారావు",
+     "evidence": "బత్తుల అప్పారావు"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "బత్తుల నరసింహమూర్తి",
+     "evidence": "బత్తుల నరసింహమూర్తి"
+    },
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "పబ్బు తుర్రయ్య",
+     "evidence": "పబ్బు తుర్రయ్య"
+    },
+    {
+     "source": "సహన",
+     "relation": "MAKES_CLAIM",
+     "target": "పెమ్మసాని అనుచరుడు రాగి నవీన్ దాడి చేసిన తెనాలి యువతి మధిర సహానా మృతి చెందింది",
+     "evidence": "పెమ్మసాని అనుచరుడు రాగి నవీన్ దాడి చేసిన తెనాలి యువతి మధిర సహానా మృతి చెందింది"
+    }
+   ]
+  },
+  "6e38c4391146590571362e5c7f23e6518dd0f257": {
+   "entities": [
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "గొల్ల బొ మ్మయ్య",
+     "type": "Person",
+     "english_name": "Gollabommala Bommala"
+    },
+    {
+     "name": "గొల్ల తిప్పేస్వామి",
+     "type": "Person",
+     "english_name": "Gollathippaswami"
+    },
+    {
+     "name": "గొల్ల నర సింహప్ప",
+     "type": "Person",
+     "english_name": "Gollanarasimha"
+    },
+    {
+     "name": "గొల్ల చిక్కమ్మ",
+     "type": "Person",
+     "english_name": "Gollachikamma"
+    },
+    {
+     "name": "శాలిని",
+     "type": "Person",
+     "english_name": "Shalini"
+    },
+    {
+     "name": "వెట్టి మారెప్ప",
+     "type": "Person",
+     "english_name": "Vetti Mareppa"
+    },
+    {
+     "name": "వెట్టి హనుమంతురా యుడు",
+     "type": "Person",
+     "english_name": "Vetti Hanumanthurao"
+    },
+    {
+     "name": "ఈరప్ప",
+     "type": "Person",
+     "english_name": "Eerappa"
+    },
+    {
+     "name": "జి. హనుమంతురా యుడు",
+     "type": "Person",
+     "english_name": "G. Hanumanthurao"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "జిల్లా ఎస్పీ కార్యాలయం",
+     "type": "Organization",
+     "english_name": "District SP Office"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాప్తాడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Rapthadu Constituency"
+    },
+    {
+     "name": "రామగిరి",
+     "type": "Place",
+     "english_name": "Ramagiri"
+    },
+    {
+     "name": "అంగన్వాడీ హెల్పర్",
+     "type": "Person",
+     "english_name": "Anganwadi Helper"
+    },
+    {
+     "name": "కొత్తగాదికుంట",
+     "type": "Place",
+     "english_name": "Kotthagadi Kuntla"
+    },
+    {
+     "name": "పేరూరు",
+     "type": "Place",
+     "english_name": "Peruru"
+    },
+    {
+     "name": "దళిత బాలిక",
+     "type": "Person",
+     "english_name": "Dalit Girl"
+    },
+    {
+     "name": "శాలిని తల్లిపై విచక్షణారహితంగా దాడి చేశారు.",
+     "type": "Claim",
+     "english_name": "Shalini's mother was attacked indiscriminately."
+    },
+    {
+     "name": "జేసీబీతో తొక్కించి చంపుతామంటూ బండ బూతులు తిడుతూ తీవ్రంగా కొట్టారు.",
+     "type": "Claim",
+     "english_name": "They threatened to kill with"
+    }
+   ],
+   "relations": []
+  },
+  "a62a6ff222178a3b4501f2219ade345adaad51f0": {
+   "entities": [
+    {
+     "name": "ఇంద్రజ",
+     "type": "Person",
+     "english_name": "Indrja"
+    },
+    {
+     "name": "గోళ్ల శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "Golla Srinivasulu"
+    },
+    {
+     "name": "విష్ణు",
+     "type": "Person",
+     "english_name": "Vishnu"
+    },
+    {
+     "name": "నాగమ్మ",
+     "type": "Person",
+     "english_name": "Nagamma"
+    },
+    {
+     "name": "ఓబయ్య",
+     "type": "Person",
+     "english_name": "Obayya"
+    },
+    {
+     "name": "నరసింహమూర్తి",
+     "type": "Person",
+     "english_name": "Narasimhamurthy"
+    },
+    {
+     "name": "పరిటాల సునీత",
+     "type": "Person",
+     "english_name": "Paritala Sunitha"
+    },
+    {
+     "name": "శ్రీరామ్",
+     "type": "Person",
+     "english_name": "Sriram"
+    },
+    {
+     "name": "సుధాకర్ యాదవ్",
+     "type": "Person",
+     "english_name": "Sudhakar Yadav"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అంగన్వాడీ",
+     "type": "Organization",
+     "english_name": "Anganwadi"
+    },
+    {
+     "name": "మంగాపురం",
+     "type": "Place",
+     "english_name": "Mangapuram"
+    },
+    {
+     "name": "రామగిరి",
+     "type": "Place",
+     "english_name": "Ramagiri"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "శ్రీసత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": "Sathya Sai district"
+    },
+    {
+     "name": "పుట్టపర్తి",
+     "type": "Place",
+     "english_name": "Puttaparthi"
+    },
+    {
+     "name": "రాప్తాడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Rapthadu constituency"
+    },
+    {
+     "name": "అనంతపురం ప్రభుత్వాసుపత్రి",
+     "type": "Place",
+     "english_name": "Anantapur Government Hospital"
+    },
+    {
+     "name": "దాడి",
+     "type": "Claim",
+     "english_name": "Attack on Anganwadi helper"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "అంగన్వాడీ హెల్పర్పై టీడీపీ కార్యకర్తలు దౌర్జన్యానికి పాల్పడ్డారు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "పరిటాల సునీత",
+     "evidence": "ఎమ్మెల్యే పరిటాల సునీత, ఆమె కుమారుడు శ్రీరామ్ అండ చూసుకుని వేధింపులు చేస్తున్నాడు."
+    },
+    {
+     "source": "గోళ్ల శ్రీనివాసులు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ కార్యకర్త గోళ్ల శ్రీనివాసులు"
+    },
+    {
+     "source": "పరిటాల సునీత",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ అధికారంలోకి వచ్చాక"
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "దాడి",
+     "evidence": "ఇంద్రజ దంపతులకు తీవ్ర గాయాల య్యాయి."
+    },
+    {
+     "source": "మంగాపురం",
+     "relation": "LOCATED_IN",
+     "target": "రామగిరి",
+     "evidence": "శ్రీసత్యసాయి జిల్లా రామగిరి మండలం మంగాపురం గ్రామంలో"
+    },
+    {
+     "source": "రామగిరి",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "అనంతపురం సెంట్రల్/సాక్షి పుట్టపర్తి"
+    },
+    {
+     "source": "అనంతపురం",
+     "relation": "LOCATED_IN",
+     "target": "శ్రీసత్యసాయి జిల్లా",
+     "evidence": "శ్రీసత్యసాయి జిల్లా"
+    },
+    {
+     "source": "అంగన్వాడీ",
+     "relation": "LOCATED_IN",
+     "target": "మంగాపురం",
+     "evidence": "ఇంద్రజ 2019 నుంచి అంగన్వాడీ హెల్పర్గా పనిచేస్తున్నారు."
+    },
+    {
+     "source": "దాడి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళా ప్రజాప్రతినిధి ప్రాతినిధ్యం వహిస్తున్న నియోజకవర్గంలో మహిళలకే రక్షణ కరువైంది"
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "సుధాకర్ యాదవ్",
+     "evidence": "పోలీసులు ఎలాంటి చర్యలూ తీసుకోలేదు."
+    }
+   ]
+  },
+  "b063ce2382cc14d20d6742fb5277e7b05b7400a0": {
+   "entities": [
+    {
+     "name": "గొళ్ల విష్ణు",
+     "type": "Person",
+     "english_name": "Golla Vishnu"
+    },
+    {
+     "name": "సునీత",
+     "type": "Person",
+     "english_name": "Sunitha"
+    },
+    {
+     "name": "ఇంద్రజ",
+     "type": "Person",
+     "english_name": "Indraja"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "రాప్తాడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Rapthadu constituency"
+    },
+    {
+     "name": "టీడీపీ కార్యకర్త గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా ముగ్గురు పిల్లలను కిడ్నాప్ చేస్తామంటున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హెల్పర్ పోస్టు వదిలిపెట్టాలని వేధిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గొళ్ల విష్ణు రాత్రివేళ ఫోన్లతో పాటు అసభ్య మెసేజ్ పెడుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేరుగా అంగన్వాడీ సెంటర్కి వచ్చి దౌర్జన్యానికి దిగుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులకు ఫిర్యాదు చేసినా పట్టించుకోలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు నిష్పక్షపాతంగా వ్యవహరించాలి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు వచ్చిన రోజు నుంచి రాష్ట్ర వ్యాప్తంగా అరాచకాలు ఎక్కువయ్యాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Attacks on women",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "గొళ్ల విష్ణు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ కార్యకర్త గొళ్ల విష్ణు"
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "గొళ్ల విష్ణు",
+     "evidence": "గొళ్ల విష్ణు రాత్రివేళ ఫోన్లతో పాటు అసభ్య మెసేజ్ పెడుతున్నాడు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "గొళ్ల విష్ణు",
+     "evidence": "మా ముగ్గురు పిల్లలను కిడ్నాప్ చేస్తామంటున్నారు"
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "గొళ్ల విష్ణు",
+     "evidence": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు"
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "పోలీసులకు ఫిర్యాదు చేసినా పట్టించుకోలేదు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "పోలీసులు సైతం ఏకపక్షంగా అధికార పార్టీ వారి వైపే వ్యవహరిస్తున్నారన్న ఆరోపణలు ఉన్నాయి."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "సునీత",
+     "evidence": "ఎమ్మెల్యే సునీత అండతో విష్ణు పోలీసుల నుంచి రక్షణ పొందుతు న్నట్లు సమాచారం."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ కార్యకర్త గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు.",
+     "evidence": "టీడీపీ కార్యకర్త గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "మా ముగ్గురు పిల్లలను కిడ్నాప్ చేస్తామంటున్నారు",
+     "evidence": "మా ముగ్గురు పిల్లలను కిడ్నాప్ చేస్తామంటున్నారు"
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు",
+     "evidence": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు"
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "హెల్పర్ పోస్టు వదిలిపెట్టాలని వేధిస్తున్నారు.",
+     "evidence": "హెల్పర్ పోస్టు వదిలిపెట్టాలని వేధిస్తున్నారు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "గొళ్ల విష్ణు రాత్రివేళ ఫోన్లతో పాటు అసభ్య మెసేజ్ పెడుతున్నాడు.",
+     "evidence": "గొళ్ల విష్ణు రాత్రివేళ ఫోన్లతో పాటు అసభ్య మెసేజ్ పెడుతున్నాడు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "నేరుగా అంగన్వాడీ సెంటర్కి వచ్చి దౌర్జన్యానికి దిగుతున్నాడు.",
+     "evidence": "నేరుగా అంగన్వాడీ సెంటర్కి వచ్చి దౌర్జన్యానికి దిగుతున్నాడు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీసులకు ఫిర్యాదు చేసినా పట్టించుకోలేదు.",
+     "evidence": "పోలీసులకు ఫిర్యాదు చేసినా పట్టించుకోలేదు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీసులు నిష్పక్షపాతంగా వ్యవహరించాలి.",
+     "evidence": "పోలీసులు నిష్పక్షపాతంగా వ్యవహరించాలి."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు సర్కారు వచ్చిన రోజు నుంచి రాష్ట్ర వ్యాప్తంగా అరాచకాలు ఎక్కువయ్యాయి.",
+     "evidence": "చంద్రబాబు సర్కారు వచ్చిన రోజు నుంచి రాష్ట్ర వ్యాప్తంగా అరాచకాలు ఎక్కువయ్యాయి."
+    },
+    {
+     "source": "టీడీపీ కార్యకర్త గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attacks on women",
+     "evidence": "టీడీపీ కార్యకర్త గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు."
+    },
+    {
+     "source": "మా ముగ్గురు పిల్లలను కిడ్నాప్ చేస్తామంటున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attacks on women",
+     "evidence": "మా ముగ్గురు పిల్లలను కిడ్నాప్ చేస్తామంటున్నారు"
+    },
+    {
+     "source": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attacks on women",
+     "evidence": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు"
+    }
+   ]
+  },
+  "fd1b4c530ef5d790145c261bc601f06446d51424": {
+   "entities": [
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "అరవ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ముక్కా రూపానందరెడ్డి",
+     "type": "Person",
+     "english_name": "Mukka Rupananand Reddy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "రైల్వేకోడూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రకళ",
+     "type": "Person",
+     "english_name": "Chandrakala"
+    },
+    {
+     "name": "రామాంజినేయులు",
+     "type": "Person",
+     "english_name": "Ramangineni"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "ఆమి లినేని సురేంద్ర బాబు",
+     "type": "Person",
+     "english_name": "Ami Lineni Surendra Babu"
+    },
+    {
+     "name": "డాక్టర్ తలారి రంగయ్య",
+     "type": "Person",
+     "english_name": "Dr. Talari Rangayya"
+    },
+    {
+     "name": "వైఎస్ జగన్మో",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కళ్యాణదుర్గం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "వడ్డే కాలనీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Attacks on women",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముక్కా రూపానందరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "నియోజకవర్గ టీడీపీ ఇన్చార్జ్ ముక్కా రూపానందరెడ్డి"
+    },
+    {
+     "source": "చంద్రకళ",
+     "relation": "ACCUSES",
+     "target": "రామాంజినేయులు",
+     "evidence": "రామాంజినేయులు తన కుటుంబ సభ్యులతో కలిసి ఏడాదిన్నర క్రితం చంద్రకళపైనా, ఆమె కుటుంబ సభ్యులపైనా దాడికి పాల్పడ్డారు."
+    },
+    {
+     "source": "ముక్కా రూపానందరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim1",
+     "evidence": "పవన్ కళ్యాణ్ ఆదేశించినా అరవ పాల్గొంటున్నారని, ఇది పవన్ ను అవమానిం చడమేనని పేర్కొన్నారు."
+    },
+    {
+     "source": "చంద్రకళ",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "చంద్రకళపై స్థానిక టీడీపీ నాయకుడు రామాంజినేయులు కన్ను పడింది. కోరిక తీర్చాలంటూ వేధించాడు."
+    },
+    {
+     "source": "ఆమి లినేని సురేంద్ర బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim3",
+     "evidence": "మీ పార్టీ అధికారంలోకి వచ్చినప్పుడు దరఖాస్తు చేసు కోండంటూ.."
+    },
+    {
+     "source": "Claim1",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attacks on women",
+     "evidence": "పవన్ కళ్యాణ్ ఆదేశించినా అరవ పాల్గొంటున్నారని, ఇది పవన్ ను అవమానిం చడమేనని పేర్కొన్నారు."
+    },
+    {
+     "source": "Claim2",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attacks on women",
+     "evidence": "చంద్రకళపై స్థానిక టీడీపీ నాయకుడు రామాంజినేయులు కన్ను పడింది. కోరిక తీర్చాలంటూ వేధించాడు."
+    },
+    {
+     "source": "Claim3",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attacks on women",
+     "evidence": "మీ పార్టీ అధికారంలోకి వచ్చినప్పుడు దరఖాస్తు చేసు కోండంటూ.."
+    },
+    {
+     "source": "వైఎస్ జగన్మో",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ సీపీ",
+     "evidence": "వైఎ స్సార్స్పీ నియోజకవర్గ సమన్వయకర్త డాక్టర్ తలారి రంగయ్య.. మాజీ సీఎం, పార్టీ అధినేత వైఎస్ జగన్మో"
+    }
+   ]
+  },
+  "799a06a546dbe917d2c315675ed3098df6f63f57": {
+   "entities": [
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "అమరమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చెన్నమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రామయ్య",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మునెమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గంగమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సరస్వతి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఏకిల",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నాగరాజు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గిరి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్ఆర్. అశోక్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వెంకమునిరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మానవహక్కుల కమిషన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మాలమహానాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మీరేపల్లి గ్రామం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పుంగనూరు మండలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ ఆస్పత్రి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ గూండాలు దాడి చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పింఛను ఆపేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు కేసులు నమోదు చేయలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పింఛన్లు అందరికీ పంపిణీ చేశామని ఎంపీడీవో వెంగమునిరెడ్డి స్పష్టం చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Pension denial and attack on women",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "అమరమ్మ",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ గూండాలు దాడి చేశారు",
+     "evidence": "టీడీపీ గూండాలు దాడి చేశారు"
+    },
+    {
+     "source": "ఎన్ఆర్. అశోక్",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ గూండాలు దాడి చేశారు",
+     "evidence": "టీడీపీ గూండాలు దాడి చేశారు"
+    },
+    {
+     "source": "మీరేపల్లి గ్రామం",
+     "relation": "LOCATED_IN",
+     "target": "పుంగనూరు మండలం",
+     "evidence": "పుంగనూరు మండలంలోని మీరేపల్లి గ్రామంలో"
+    },
+    {
+     "source": "ప్రభుత్వ ఆస్పత్రి",
+     "relation": "LOCATED_IN",
+     "target": "మీరేపల్లి గ్రామం",
+     "evidence": "అంబులెన్స్ ద్వారా ప్రభుత్వ ఆస్పత్రికి తరలించారు"
+    },
+    {
+     "source": "టీడీపీ గూండాలు దాడి చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Pension denial and attack on women",
+     "evidence": "టీడీపీ గూండాలు దాడి చేశారు"
+    },
+    {
+     "source": "పోలీసులు కేసులు నమోదు చేయలేదు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Pension denial and attack on women",
+     "evidence": "పోలీసులు కేసులు నమోదు చేయకపోవడంతో"
+    },
+    {
+     "source": "పింఛన్లు అందరికీ పంపిణీ చేశామని ఎంపీడీవో వెంగమునిరెడ్డి స్పష్టం చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Pension denial and attack on women",
+     "evidence": "పింఛన్లు అందరికీ పంపిణీ చేశామని ఎంపీడీవో వెంగమునిరెడ్డి స్పష్టం చేశారు"
+    }
+   ]
+  },
+  "bb3937f5951532a318539ed766a710f194b39a7a": {
+   "entities": [
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "అనంతపురం పోలీ స్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Anantapur Police Station"
+    },
+    {
+     "name": "రహ మత్ బీ అన్న ఇస్మాయిల్",
+     "type": "Person",
+     "english_name": "Rahmat Bee Ann Ismail"
+    },
+    {
+     "name": "దాసరి అనిల్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "దాసరి ఈశ్వరయ్య",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మిలటరీ ఈశ్వ రయ్య",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "దాసరి నీరజ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బ్రాహ్మణ యాలేరు",
+     "type": "Place",
+     "english_name": "Brahmana Yaleru"
+    },
+    {
+     "name": "ఆత్మకూరు మం డలం",
+     "type": "Place",
+     "english_name": "Atmakur Mandal"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur District"
+    },
+    {
+     "name": "రాప్తాడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Rapthadu Constituency"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఇస్మాయిల్ దాడి చేశాడంటూ ... ఫిర్యాదు చేశారు",
+     "type": "Claim",
+     "english_name": "Ismail allegedly attacked a young woman"
+    },
+    {
+     "name": "దాసరి అనిల్, దాసరి ఈశ్వరయ్య, మిలటరీ ఈశ్వ రయ్య, దాసరి నీరజ రహమత్ ఇంట్లోకి చొరబడ్డారు ... దాడి చేశారు ... బెదిరించారు",
+     "type": "Claim",
+     "english_name": "Dasari Anil, Dasari Eeshwarayya, Military Eswaraya, Dasari Neeraja broke into Rahmat's house, attacked and threatened her"
+    },
+    {
+     "name": "మాపైనే ఫిర్యా దు చేస్తారా అంటూ మరోసారి దాడి చేశారు",
+     "type": "Claim",
+     "english_name": "They were attacked again while going to file a complaint"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "దాసరి అనిల్",
+     "relation": "MAKES_CLAIM",
+     "target": "దాసరి అనిల్, దాసరి ఈశ్వరయ్య, మిలటరీ ఈశ్వ రయ్య, దాసరి నీరజ రహమత్ ఇంట్లోకి చొరబడ్డారు ... దాడి చేశారు ... బెదిరించారు",
+     "evidence": "దాసరి అనిల్, దాసరి ఈశ్వరయ్య, మిలటరీ ఈశ్వ రయ్య, దాసరి నీరజ ద్విచక్ర వాహనాలపై వచ్చి రహమత్ ఇంట్లోకి చొరబడ్డారు... బూతులు తిడుతూ ఆమెతో పాటు కలసింబీ, అమనాబీలపై చెప్పులతో దాడి చేశారు."
+    },
+    {
+     "source": "దాసరి అనిల్",
+     "relation": "MAKES_CLAIM",
+     "target": "మాపైనే ఫిర్యా దు చేస్తారా అంటూ మరోసారి దాడి చేశారు",
+     "evidence": "మాపైనే ఫిర్యా దు చేస్తారా అంటూ మరోసారి దాడి చేశారు."
+    },
+    {
+     "source": "ఇస్మాయిల్ దాడి చేశాడంటూ ... ఫిర్యాదు చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    },
+    {
+     "source": "దాసరి అనిల్, దాసరి ఈశ్వరయ్య, మిలటరీ ఈశ్వ రయ్య, దాసరి నీరజ రహమత్ ఇంట్లోకి చొరబడ్డారు ... దాడి చేశారు ... బెదిరించారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    },
+    {
+     "source": "మాపైనే ఫిర్యా దు చేస్తారా అంటూ మరోసారి దాడి చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    }
+   ]
+  },
+  "5cf1e8b504933a3737c53b4095f8918159f2d538": {
+   "entities": [
+    {
+     "name": "మల్లెల వెంకట రమణ మూర్తి",
+     "type": "Person",
+     "english_name": "Mallela Venkata Ramana Murthy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "నగర పాలక సంస్థ",
+     "type": "Organization",
+     "english_name": "Municipal Corporation"
+    },
+    {
+     "name": "నగరంపాలెం పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Nagarampalem Police Station"
+    },
+    {
+     "name": "ట్రాన్స్ జెండర్ మాధవి",
+     "type": "Person",
+     "english_name": "Transgender Madhavi"
+    },
+    {
+     "name": "మాధవి",
+     "type": "Person",
+     "english_name": "Madhavi"
+    },
+    {
+     "name": "హోం మంత్రి",
+     "type": "Person",
+     "english_name": "Home Minister"
+    },
+    {
+     "name": "మహిళా కమిషన్",
+     "type": "Organization",
+     "english_name": "Women's Commission"
+    },
+    {
+     "name": "గుండమ్మ",
+     "type": "Person",
+     "english_name": "Gundamma"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "ఆదోని రూరల్",
+     "type": "Place",
+     "english_name": "Adoni Rural"
+    },
+    {
+     "name": "బాధితురాలు",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "టీడీపీ పెద్దలు",
+     "type": "Organization",
+     "english_name": "TDP Elders"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మల్లెల వెంకట రమణ మూర్తి",
+     "relation": "ACCUSES",
+     "target": "నగర పాలక సంస్థ",
+     "evidence": "మల్లెల వెంకట రమణ మ"
+    }
+   ]
+  },
+  "1702cdab9dbf2415b58139643f4d44611b3f56c7": {
+   "entities": [
+    {
+     "name": "చంద్రకళ",
+     "type": "Person",
+     "english_name": "Chandrakala"
+    },
+    {
+     "name": "బయన్న",
+     "type": "Person",
+     "english_name": "Bahanna"
+    },
+    {
+     "name": "డాక్టర్ తలారి రంగయ్య",
+     "type": "Person",
+     "english_name": "Dr. Talari Rangayya"
+    },
+    {
+     "name": "హరినాథ్",
+     "type": "Person",
+     "english_name": "Harinath"
+    },
+    {
+     "name": "ఉప్మాక",
+     "type": "Person",
+     "english_name": "Upmaaka"
+    },
+    {
+     "name": "మాడిన వెంకునాయుడు",
+     "type": "Person",
+     "english_name": "Madina Venkunaidu"
+    },
+    {
+     "name": "రమణ",
+     "type": "Person",
+     "english_name": "Raman"
+    },
+    {
+     "name": "పైడిరాజు",
+     "type": "Person",
+     "english_name": "Paidiraju"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "పోలీసు వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "కళ్యాణదుర్గం పట్టణ పోలీసు స్టేషన్",
+     "type": "Organization",
+     "english_name": "Police station"
+    },
+    {
+     "name": "కళ్యాణదుర్గం",
+     "type": "Place",
+     "english_name": "Kalyanadurgam"
+    },
+    {
+     "name": "విశాఖ జిల్లా",
+     "type": "Place",
+     "english_name": "Visakhapatnam district"
+    },
+    {
+     "name": "పెందుర్తి",
+     "type": "Place",
+     "english_name": "Pendurthi"
+    },
+    {
+     "name": "చింతగట్లు",
+     "type": "Place",
+     "english_name": "Chitagattu"
+    },
+    {
+     "name": "భూ వివాదం",
+     "type": "Issue",
+     "english_name": "Land dispute"
+    },
+    {
+     "name": "మహిళల రక్షణ",
+     "type": "Issue",
+     "english_name": "Women protection"
+    },
+    {
+     "name": "మా బిడ్డను అన్యాయంగా టీడీపీ వారే పొట్టున పెట్టుకు న్నారు.",
+     "type": "Claim",
+     "english_name": "My child was unfairly killed by TDP"
+    },
+    {
+     "name": "రాష్ట్రంలో పోలీసు వ్యవస్థ బలంగా పనిచేయా లి.",
+     "type": "Claim",
+     "english_name": "The police system should work strongly in the state."
+    },
+    {
+     "name": "నిందితులు ఎంతటి వారినైనా ఉపేక్షించేది లేదని, చట్టపరంగా కఠిన చర్యలు తీసుకుంటామని హామీ ఇచ్చారు.",
+     "type": "Claim",
+     "english_name": "He promised that no culprit will be"
+    }
+   ],
+   "relations": []
+  },
+  "d0709e5d2fd14bbd09a4eef9bfbf88a7167edc38": {
+   "entities": [
+    {
+     "name": "గౌతమి",
+     "type": "Person",
+     "english_name": "Gautami"
+    },
+    {
+     "name": "మురళి",
+     "type": "Person",
+     "english_name": "Murli"
+    },
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": "Ganesh"
+    },
+    {
+     "name": "శ్రీకాంత్",
+     "type": "Person",
+     "english_name": "Srikanth"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "టీడీపీ ఎమ్మెల్యేలు",
+     "type": "Person",
+     "english_name": "TDP MLAs"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamaiah district"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "పీలేరు",
+     "type": "Place",
+     "english_name": "Peeleru"
+    },
+    {
+     "name": "ప్యారంపల్లె",
+     "type": "Place",
+     "english_name": "Parampalle"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bangalore"
+    }
+   ],
+   "relations": []
+  },
+  "9603f2f3254337de92e5601167cfa18ce4c81685": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": "Ganesh"
+    },
+    {
+     "name": "పారం పల్లె",
+     "type": "Place",
+     "english_name": "Paryam Palle"
+    },
+    {
+     "name": "గుర్రంకొండ ప్రభుత్వాస్పత్రి",
+     "type": "Organization",
+     "english_name": "Guruntham Government Hospital"
+    },
+    {
+     "name": "మదనపల్లె ప్రభుత్వాస్పత్రి",
+     "type": "Organization",
+     "english_name": "Madanapalle Government Hospital"
+    },
+    {
+     "name": "బెంగళూరులోని ఆస్పత్రి",
+     "type": "Organization",
+     "english_name": "Bangalore Hospital"
+    },
+    {
+     "name": "స్థానిక న్యాయమూర్తి",
+     "type": "Person",
+     "english_name": "Local Judge"
+    },
+    {
+     "name": "మాజీ ఎమ్మెల్యే చింతల",
+     "type": "Person",
+     "english_name": "Former MLA Chintala"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "గణేష్ బాధితురాలిపై యాసిడ్ దాడి చేసి కత్తితో పొడిచాడు",
+     "type": "Claim",
+     "english_name": "Ganesh attacked the victim with acid and a knife"
+    },
+    {
+     "name": "నిం దితుడుని కఠినంగా శిక్షించాలని",
+     "type": "Claim",
+     "english_name": "Demand to punish the accused strictly"
+    },
+    {
+     "name": "రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Ramachandra Reddy"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "వరుదు కళ్యాణి",
+     "type": "Person",
+     "english_name": "Varudu Kalyani"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "హోంమంత్రి అనిత",
+     "type": "Person",
+     "english_name": "Home Minister Anita"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "రాంప్రసాద్",
+     "type": "Person",
+     "english_name": "Ramprasad"
+    },
+    {
+     "name": "షాజహాన్ బాషా",
+     "type": "Person",
+     "english_name": "Shahjahan Bashaa"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ఎస్సీ విద్యాసాగర్ నాయుడు",
+     "type": "Person",
+     "english_name": "SC Vidyasagar Naidu"
+    },
+    {
+     "name": "షాజహానా బాషా",
+     "type": "Person",
+     "english_name": "Shahjahan Bashaa"
+    },
+    {
+     "name": "మురళి",
+     "type": "Person",
+     "english_name": "Murli"
+    },
+    {
+     "name": "కందికుంట వెంకట ప్రసాద్",
+     "type": "Person",
+     "english_name": "Kandikunta Venkata Prasad"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "-సాక్షి, అమరావతి"
+    },
+    {
+     "source": "గణేష్",
+     "relation": "MAKES_CLAIM",
+     "target": "గణేష్ బాధితురాలిపై యాసిడ్ దాడి చేసి కత్తితో పొడిచాడు",
+     "evidence": "గణేష్ ఆమెను అంతమొందిం చేందుకు ... దాడి చేసి ... కత్తితో పొడిచారు"
+    },
+    {
+     "source": "మాజీ ఎమ్మెల్యే చింతల",
+     "relation": "MAKES_CLAIM",
+     "target": "నిం దితుడుని కఠినంగా శిక్షించాలని",
+     "evidence": "నిం దితుడుని కఠినంగా శిక్షించాలని మాజీ ఎమ్మెల్యే చింతల"
+    },
+    {
+     "source": "గణేష్ బాధితురాలిపై యాసిడ్ దాడి చేసి కత్తితో పొడిచాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "నిత్యం మహిళలపై దాడులు.."
+    },
+    {
+     "source": "నిం దితుడుని కఠినంగా శిక్షించాలని",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "నిత్యం మహిళలపై దాడులు.."
+    },
+    {
+     "source": "రామచంద్రారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "రామచంద్రారెడ్డి డిమాండ్ దేశారు. ప్రభుత్వం వెంటనే స్పందించి బాదితురాలికి మెరుగైన వైద్యం అందం రాలని, ఇలాంటివి పునరావృతం కాకుండా కఠినంగా వ్యవహరించాలన్నారు."
+    },
+    {
+     "source": "వరుదు కళ్యాణి",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వ హయాంలో మహిళలకు రక్షణ కరువైంచారు."
+    }
+   ]
+  },
+  "476e8b34f94f95c2dafa78016c9ac231364dc9e8": {
+   "entities": [
+    {
+     "name": "తిరుపతి జిల్లా",
+     "type": "Place",
+     "english_name": "Tirupati district"
+    },
+    {
+     "name": "రైల్వే కోడూరు",
+     "type": "Place",
+     "english_name": "Railway Koduru"
+    },
+    {
+     "name": "ఎమ్మెల్యే అరవ శ్రీధర్",
+     "type": "Person",
+     "english_name": "MLA Arva Sridhar"
+    },
+    {
+     "name": "బాధితురాలి",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "జనసేన పార్టీ",
+     "type": "Party",
+     "english_name": "Janasena Party"
+    },
+    {
+     "name": "తాతంశెట్టి నాగేంద్ర",
+     "type": "Person",
+     "english_name": "Tatamsetty Nagendra"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu's government"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అనుచరుడు",
+     "type": "Person",
+     "english_name": "Follower"
+    },
+    {
+     "name": "గాంధీ విగ్రహం",
+     "type": "Place",
+     "english_name": "Gandhi statue"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "కోడూరు / ఓబులవారిపల్లె",
+     "type": "Place",
+     "english_name": "Koduru / Obulavaripalle"
+    },
+    {
+     "name": "దాడికి పాల్పడ్డారు",
+     "type": "Issue",
+     "english_name": "Attack on women"
+    },
+    {
+     "name": "కులం పేరుతో దూషిస్తూ",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

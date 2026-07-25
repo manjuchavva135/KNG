@@ -1,0 +1,83 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e6e9ab1712354116cd5d3f526e55643ae69a56c8": {
+   "entities": [
+    {
+     "name": "Gujarat Urja Vikas Nigam Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Engie Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NHPC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "JSW Neo Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NTPC renewables",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "KPI Green Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Avaada Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Kraft Power India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hinduja Renewables",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Khavda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Gujarat Urja Vikas Nigam Limited",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Gujarat Urja Vikas Nigam Limited"
+    },
+    {
+     "source": "Khavda",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Khavda, Gujarat"
+    }
+   ]
+  }
+ }
+}

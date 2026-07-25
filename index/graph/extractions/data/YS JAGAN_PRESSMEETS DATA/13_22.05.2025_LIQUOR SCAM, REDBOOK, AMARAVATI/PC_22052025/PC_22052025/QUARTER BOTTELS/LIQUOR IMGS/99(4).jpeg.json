@@ -1,0 +1,91 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "67c827780e7716a736b6f5a37e3e7be8ff41b394": {
+   "entities": [
+    {
+     "name": "John Distilleries Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Visakha Distilleries LLP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PWG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Consumer care cell",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Anakapalli District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Visakha",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "John Distilleries Pvt. Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Bengaluru",
+     "evidence": "Regd. Office: No.110, Pantharapalya, Mysuru Road, Bengaluru - 560 039, Karnataka."
+    },
+    {
+     "source": "John Distilleries Pvt. Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Karnataka",
+     "evidence": "Regd. Office: No.110, Pantharapalya, Mysuru Road, Bengaluru - 560 039, Karnataka."
+    },
+    {
+     "source": "Visakha Distilleries LLP",
+     "relation": "LOCATED_IN",
+     "target": "Anakapalli District",
+     "evidence": "SyNo.74/8, Road Opp. to Weigh Bridge, Sundarayyapeta (V) Kasmikota Mandal, Anakapalli District - 531031, Andhra Pradesh."
+    },
+    {
+     "source": "Visakha Distilleries LLP",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "SyNo.74/8, Road Opp. to Weigh Bridge, Sundarayyapeta (V) Kasmikota Mandal, Anakapalli District - 531031, Andhra Pradesh."
+    },
+    {
+     "source": "Visakha Distilleries LLP",
+     "relation": "LOCATED_IN",
+     "target": "Visakha",
+     "evidence": "SyNo.74/8, Road Opp. to Weigh Bridge, Sundarayyapeta (V) Kasmikota Mandal, Anakapalli District - 531031, Andhra Pradesh."
+    }
+   ]
+  }
+ }
+}

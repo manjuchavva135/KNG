@@ -1,0 +1,73 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e856974403c460e9d254060a7b3f2b339d33439a": {
+   "entities": [
+    {
+     "name": "THE SUPERINTENDING ENGINEER, APMSIDC CIRCLE, KURNOOL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Engineer, APMSIDC Mangalagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Executive Engineer APMSIDC MC Division, Adoni",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Executive Engineer APMSIDC MC Division, Penukonda",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Penukonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "P.R.Raddy",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "THE SUPERINTENDING ENGINEER, APMSIDC CIRCLE, KURNOOL",
+     "relation": "LOCATED_IN",
+     "target": "Kurnool District",
+     "evidence": "APMSIDC CIRCLE, KURNOOL"
+    },
+    {
+     "source": "APMSIDC",
+     "relation": "LOCATED_IN",
+     "target": "Kurnool District",
+     "evidence": "APMSIDC CIRCLE, KURNOOL"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e3402994464184f92665bd8ed95b44148a60d819": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "రైతులు కష్టాలు పడకూడదు అనే తపన, తాపత్రయం ఉంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతుల కష్టాలు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులు కష్టాలు పడకూడదు అనే తపన, తాపత్రయం ఉంది.",
+     "evidence": "రైతులు కష్టాలు పడకూడదు అనే తపన, తాపత్రయం ఉంది."
+    },
+    {
+     "source": "రైతులు కష్టాలు పడకూడదు అనే తపన, తాపత్రయం ఉంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రైతుల కష్టాలు",
+     "evidence": "రైతులు కష్టాలు పడకూడదు అనే తపన, తాపత్రయం ఉంది."
+    },
+    {
+     "source": "Sakshi",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "Andhra Pradesh Main"
+    }
+   ]
+  },
+  "c8942381c8a57854cff1a952578195fd16000f81": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adbidda Nidhi"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment Allowance"
+    },
+    {
+     "name": "50 ఏళ్లకే పింఛన్",
+     "type": "Scheme",
+     "english_name": "Pension at 50"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "గ్యాస్ సిలిండర్లు",
+     "type": "Scheme",
+     "english_name": "Gas Cylinders"
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Scheme",
+     "english_name": "Free Bus"
+    },
+    {
+     "name": "Super Six/Super Seven సంక్షేమ పథకాల వివాదం",
+     "type": "Issue",
+     "english_name": "Super Six/Super Seven welfare scheme controversy"
+    },
+    {
+     "name": "బాబు మోసం కళ్లకు కట్టినట్లు కనిపిస్తోంది",
+     "type": "Claim",
+     "english_name": "Baburao's cheating is evident"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్రెడ్డి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "బాబు మోసం కళ్లకు కట్టినట్లు కనిపిస్తోంది"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "బాబు మోసం కళ్లకు కట్టినట్లు కనిపిస్తోంది",
+     "evidence": "ఇది మోసం కాదా?"
+    },
+    {
+     "source": "బాబు మోసం కళ్లకు కట్టినట్లు కనిపిస్తోంది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Super Six/Super Seven సంక్షేమ పథకాల వివాదం",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్"
+    }
+   ]
+  }
+ }
+}

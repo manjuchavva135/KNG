@@ -1,0 +1,90 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f785c9138fee05b48bcb9237c0ddba9f72f5eda5": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PSUs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APPFC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Markfed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Civil Supplies Corp",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Debt and Other Liabilities of the State Government",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d8e0bac9999a62d79ab83181f213e5a891462f92": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APADCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Increase in liabilities during YSRCP Government",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liabilities contracted by TDP alliance Government",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

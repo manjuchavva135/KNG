@@ -1,0 +1,279 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e270a977b151bba848517b44837fd09efd71233e": {
+   "entities": [
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shram Shakti Bhawan, Rafi Marg, New Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tariff Policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Waiver of Inter-State Transmission charges and losses",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Renewable Purchase Obligations",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Corporation of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NTPC Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Project Implementing Agencies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transmission provider",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government Agency",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Renewable power projects",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Force Majeure",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Inter-State Transmission charges and losses",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "08d3e2766f2282908a7c5084d4a412db713e08c6": {
+   "entities": [
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "inter-state transmission charges waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Merit in the contention",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Power plants using solar and wind sources of energy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "distribution licensees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RPO",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Hydro pumped storage plants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Force Majeure",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Government Agency",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Renewable Energy generation capacity",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "LTA",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "96ac430e14a067843ed99cc20b6eec7d3542f1c8": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CERC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Electricity Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Power/Energy Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Governments/UTs",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Minister of State (I/C) for Power and NRE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Debranjan Chattopadhyay",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy Secretary to Government of India",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, CERC, New Delhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, MNRE, New Delhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chairperson, Central Electricity Authority, New Delhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary in charge, Power/Energy Department, State Governments/UTs",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, State Electricity Regulatory Commissions/Joint Electricity Regulatory Commissions",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "All Joint Secretaries/Economic Adviser, Ministry of Power",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PS to MoS(I/C) for Power and NRE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sr. PPS to Secretary (Power), Sr. PPS to AS(R&R), Sr. PPS to AS (SKGR), Sr. PPS to JS (R&R) and PS to Director (R&R)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE's Central Public Sector Undertaking (CPSU) Scheme Phase-II (Government Producer Scheme)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SECI Tender for manufacturing linked capacity scheme (RFS No SECI/C&P/RfS/2GW Manufacturing/P-3/R1/062019dated 25.06.2019)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RPO",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Power/Energy Department",
+     "relation": "LOCATED_IN",
+     "target": "State Governments/UTs",
+     "evidence": "Secretary in charge, Power/Energy Department, State Governments/UTs."
+    },
+    {
+     "source": "MNRE's Central Public Sector Undertaking (CPSU) Scheme Phase-II (Government Producer Scheme)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "RPO",
+     "evidence": "sale to entities having RPO"
+    },
+    {
+     "source": "SECI Tender for manufacturing linked capacity scheme (RFS No SECI/C&P/RfS/2GW Manufacturing/P-3/R1/062019dated 25.06.2019)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "RPO",
+     "evidence": "sale to entities having RPO"
+    }
+   ]
+  }
+ }
+}

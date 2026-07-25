@@ -1,0 +1,111 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0b15357fb70438dc0a649cbddf87ecb8c54cbe18": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "Andhra Pradesh Central Power Distribution Corporation limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Eastern Power Distribution Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Southern Power Distribution Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Discoms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Rural Agriculture Power Supply Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Power Developers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE Scheme for Setting up of ISTS connected Solar Power Projects linked with Manufacturing",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Power Purchase Agreements (PPAs)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Central Power Distribution Corporation limited",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada, Andhra Pradesh",
+     "evidence": "having its registered office at Vijayawada, Andhra Pradesh"
+    },
+    {
+     "source": "Eastern Power Distribution Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam, Andhra Pradesh",
+     "evidence": "having its registered office at Visakhapatnam, Andhra Pradesh"
+    },
+    {
+     "source": "Andhra Pradesh Southern Power Distribution Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati, Andhra Pradesh",
+     "evidence": "having its registered office at Tirupati, Andhra Pradesh"
+    },
+    {
+     "source": "Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh represented through Deputy Secretary to Government (Energy)"
+    },
+    {
+     "source": "AP Discoms",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "AP Discoms, which expression shall, unless repugnant to the context or meaning thereof, be deemed to include their respective successors and permitted assigns viz. AP Rural Agriculture Power Supply Company Limited"
+    }
+   ]
+  }
+ }
+}

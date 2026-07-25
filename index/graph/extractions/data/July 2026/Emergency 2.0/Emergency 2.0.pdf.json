@@ -1,0 +1,2148 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a6b652eaf6339fef7c1d682d572e104b74c270e3": {
+   "entities": [
+    {
+     "name": "Peddireddy Sudharani",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bodi Venkatesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sajjala Bhargava Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Posani Krishna Murali",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Baddam Ashok Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nakkina Shyam",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vanipenta Veera Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tarak Pratap Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Paleti Krishnaveni",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "8a41caf8221417617b351c9aef19ebd4a00d4566": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Instagram",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Facebook",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tuni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Peddapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kavali",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gnaneshwari",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Instagram",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "in India"
+    },
+    {
+     "source": "Facebook",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "in India"
+    }
+   ]
+  },
+  "b42c0cac43a29ba6685cfec7d7941710a3266c40": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSJ 2.0",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "V-YSRCP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Talks",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Official Page",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Youth Wing",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Buzz",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police stations",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Circle Inspector",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Facebook pages",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X handles",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YouTube channels",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WhatsApp administrators",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tirumala Laddu controversy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Indapur–Heritage connection",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "liquor",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "sand mining",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "crimes against women",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "custodial deaths",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "corruption",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "farmer grievances",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "electricity tariffs",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "fertilizer scarcity",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "DSC recruitment",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "government medical colleges",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "capital expenditure",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "land transactions",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Police action, organised disruption and compelled political submission are being used to protect powerful leaders from ridicule.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "An FIR, which is only an allegation and the beginning of an investigation, is treated as though it were a judicial verdict.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "7ac1f1bffcda567a399aa86c38444905ff27f7ec": {
+   "entities": [
+    {
+     "name": "Khaja",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "magistrate",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Posani Krishna Murali",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Facebook",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Instagram",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YouTube",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "notice procedure should have been followed and ordered his release",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police oppose bail, delay documentation, activate fresh cases and move accused persons between jurisdictions",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Posani Krishna Murali's multiple cases enabled jail-to-jail transfers",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The government does not need conviction to keep a critic trapped in custody and litigation",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police ask X, Facebook, Instagram or YouTube to remove or geographically restrict the underlying content",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The police agency investigating the case effectively becomes the body initiating censorship of the disputed material",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "magistrate",
+     "relation": "MAKES_CLAIM",
+     "target": "notice procedure should have been followed and ordered his release",
+     "evidence": "the magistrate later held that notice procedure should have been followed and ordered his release"
+    },
+    {
+     "source": "Posani Krishna Murali",
+     "relation": "MAKES_CLAIM",
+     "target": "Posani Krishna Murali's multiple cases enabled jail-to-jail transfers",
+     "evidence": "Posani Krishna Murali’s multiple cases enabled jail-to-jail transfers"
+    }
+   ]
+  },
+  "1d8b075e0a6af9d9450395342ec180700e38fed8": {
+   "entities": [
+    {
+     "name": "Criticism of the government becomes criminal; abuse serving the government remains protected.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The proposed creation of social-media response cells, task forces, forensic monitoring, trained officers, designated prosecutors and stronger legal provisions shows an attempt to make political surveillance permanent.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Savindra Reddy’s case captures the complete machinery of repression.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "His case shows plainclothes pickup, concealed custody, inconsistent records, family trauma, fabricated criminal branding and the use of a severe offence to destroy reputation.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Savindra Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tarak Pratap Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "AP Digital Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "emergency helpline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tadepalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "political surveillance",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Savindra Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "Savindra Reddy’s case captures the complete machinery of repression.",
+     "evidence": "Savindra Reddy’s case captures the complete machinery of repression."
+    },
+    {
+     "source": "Savindra Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "His case shows plainclothes pickup, concealed custody, inconsistent records, family trauma, fabricated criminal branding and the use of a severe offence to destroy reputation.",
+     "evidence": "His case shows plainclothes pickup, concealed custody, inconsistent records, family trauma, fabricated criminal branding and the use of a severe offence to destroy reputation."
+    },
+    {
+     "source": "Savindra Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "The proposed creation of social-media response cells, task forces, forensic monitoring, trained officers, designated prosecutors and stronger legal provisions shows an attempt to make political surveillance permanent.",
+     "evidence": "The proposed creation of social-media response cells, task forces, forensic monitoring, trained officers, designated prosecutors and stronger legal provisions shows an attempt to make political surveillance permanent."
+    },
+    {
+     "source": "The proposed creation of social-media response cells, task forces, forensic monitoring, trained officers, designated prosecutors and stronger legal provisions shows an attempt to make political surveillance permanent.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "political surveillance",
+     "evidence": "make political surveillance permanent."
+    }
+   ]
+  },
+  "70d7f9cd14bb3168526f26c29a9016cba78609ce": {
+   "entities": [
+    {
+     "name": "Confiscating it silences the person before any court determines guilt.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Arrest timing determines whether constitutional safeguards were followed and whether the person was produced within the required period.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Several cases reveal gaps between the actual pickup and the formally recorded arrest.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The detainee may have no lawyer.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The family may receive no information.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Phones may be searched.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Statements and confessions may be prepared.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The arrest location and timing may be reconstructed later to suit the prosecution.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "These are not clerical mistakes.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Victims have described being made to sign blank sheets, typed papers or statements they were not permitted to read.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Once completed, these documents enter the remand record as though they were voluntary or contemporaneous.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The sequence is reversed: detention does not follow evidence; paperwork is created after detention to justify what has already happened.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Unrecorded Custody and Altered Arrest Timelines",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Forced Signatures and Retroactive Evidence",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Savindra Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Varra Ravindra Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Krishnaveni",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tarak",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Krishnaveni",
+     "relation": "MAKES_CLAIM",
+     "target": "Victims have described being made to sign blank sheets, typed papers or statements they were not permitted to read.",
+     "evidence": "Victims have described being made to sign blank sheets, typed papers or statements they were not permitted to read."
+    },
+    {
+     "source": "police",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "Krishnaveni was transported from Hyderabad before formal arrest documentation."
+    }
+   ]
+  },
+  "48f12e559794dd86e14c22f5510aad15a22ad1a9": {
+   "entities": [
+    {
+     "name": "Varra Ravindra Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Inturi Ravikiran",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Puli Sagar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Paleti Krishnaveni",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Posani Krishna Murali",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "magistrate",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Varra Ravindra Reddy faces 26 documented cases.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "He was also subjected to a disputed period of detention before arrest was formally recorded and reported custodial assault before the magistrate.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The government first created the large number of FIRs and then used that number to portray him as a habitual offender.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Ravikiran faces 19 cases for satire, memes and political commentary.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Even humorous content concerning EVM batteries was transformed into criminal proceedings.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Despite serious health issues, he was required to move through repeated police and court processes.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The target was not one meme. It was the freedom to ridicule power.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Puli Sagar, a Dalit youth, questioned a TDP MLA’s flood-relief claims.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Inside the police station, he was stripped, assaulted, subjected to caste abuse and threatened.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "His case reveals the convergence of political repression, custodial violence and caste humiliation.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Krishnaveni was traced to Hyderabad, transported to Andhra Pradesh and compelled to sign papers before her arrest was formally recorded.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Her case illustrates interstate extraction, delayed documentation and the creation of a prosecution record after police control had already been established.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Varra Ravindra Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "Varra Ravindra Reddy faces 26 documented cases.",
+     "evidence": "Varra Ravindra Reddy faces 26 documented cases."
+    },
+    {
+     "source": "Varra Ravindra Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "He was also subjected to a disputed period of detention before arrest was formally recorded and reported custodial assault before the magistrate.",
+     "evidence": "He was also subjected to a disputed period of detention before arrest was formally recorded and reported custodial assault before the magistrate."
+    },
+    {
+     "source": "Varra Ravindra Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "The government first created the large number of FIRs and then used that number to portray him as a habitual offender.",
+     "evidence": "The government first created the large number of FIRs and then used that number to portray him as a habitual offender."
+    },
+    {
+     "source": "Inturi Ravikiran",
+     "relation": "MAKES_CLAIM",
+     "target": "Ravikiran faces 19 cases for satire, memes and political commentary.",
+     "evidence": "Ravikiran faces 19 cases for satire, memes and political commentary."
+    },
+    {
+     "source": "Inturi Ravikiran",
+     "relation": "MAKES_CLAIM",
+     "target": "Even humorous content concerning EVM batteries was transformed into criminal proceedings.",
+     "evidence": "Even humorous content concerning EVM batteries was transformed into criminal proceedings."
+    },
+    {
+     "source": "Inturi Ravikiran",
+     "relation": "MAKES_CLAIM",
+     "target": "Despite serious health issues, he was required to move through repeated police and court processes.",
+     "evidence": "Despite serious health issues, he was required to move through repeated police and court processes."
+    },
+    {
+     "source": "Inturi Ravikiran",
+     "relation": "MAKES_CLAIM",
+     "target": "The target was not one meme. It was the freedom to ridicule power.",
+     "evidence": "The target was not one meme. It was the freedom to ridicule power."
+    },
+    {
+     "source": "Puli Sagar",
+     "relation": "MAKES_CLAIM",
+     "target": "Puli Sagar, a Dalit youth, questioned a TDP MLA’s flood-relief claims.",
+     "evidence": "Puli Sagar, a Dalit youth, questioned a TDP MLA’s flood-relief claims."
+    },
+    {
+     "source": "Puli Sagar",
+     "relation": "MAKES_CLAIM",
+     "target": "Inside the police station, he was stripped, assaulted, subjected to caste abuse and threatened.",
+     "evidence": "Inside the police station, he was stripped, assaulted, subjected to caste abuse and threatened."
+    },
+    {
+     "source": "Puli Sagar",
+     "relation": "MAKES_CLAIM",
+     "target": "His case reveals the convergence of political repression, custodial violence and caste humiliation.",
+     "evidence": "His case reveals the convergence of political repression, custodial violence and caste humiliation."
+    },
+    {
+     "source": "Paleti Krishnaveni",
+     "relation": "MAKES_CLAIM",
+     "target": "Krishnaveni was traced to Hyderabad, transported to Andhra Pradesh and compelled to sign papers before her arrest was formally recorded.",
+     "evidence": "Krishnaveni was traced to Hyderabad, transported to Andhra Pradesh and compelled to sign papers before her arrest was formally recorded."
+    },
+    {
+     "source": "Paleti Krishnaveni",
+     "relation": "MAKES_CLAIM",
+     "target": "Her case illustrates interstate extraction, delayed documentation and the creation of a prosecution record after police control had already been established.",
+     "evidence": "Her case illustrates interstate extraction, delayed documentation and the creation of a prosecution record after police control had already been established."
+    }
+   ]
+  },
+  "f68cea869269c8eab3905fdbe673bc7ae394566b": {
+   "entities": [
+    {
+     "name": "Tarak",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sai Bhargav Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Peddireddy Sudharani",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Varra Ravindra Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Anantapur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CID Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Women activists",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Fertilizer shortages",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Urea issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "assaulted in custody",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police invoked Section 111 BNS and additional allegations involving extortion and sexual harassment",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Women activists are targeted not only through police action but through motherhood, family reputation and the threat that children will suffer for political participation",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sai Bhargav Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "assaulted in custody",
+     "evidence": "He told the court that he had been assaulted in custody."
+    }
+   ]
+  },
+  "6e0454d8b6a84aa28f36056df829568b49ac3b31": {
+   "entities": [
+    {
+     "name": "questioning the government is increasingly treated as a criminal act.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "political criticism is being answered not with facts, explanations or democratic debate, but with police notices, multiple FIRs, midnight arrests, interstate operations, custodial intimidation, serious non-bailable charges and digital takedowns.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The crackdown began with YSRCP social media activists.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The target is no longer one category of political worker. The target is dissent itself.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "What is unfolding is not a series of isolated police excesses.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The same pattern appears across districts and cases.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "A politically inconvenient post is identified.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "A ruling-party functionary or sympathiser files a complaint.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police register an FIR, often under provisions disproportionate to the alleged expression.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The speaker is summoned, picked up or arrested.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Phones are seized, families are denied information and arrest records are prepared after custody has begun.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The same content may produce several FIRs in different jurisdictions.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "If ordinary provisions do not secure remand, organised-crime, narcotics, extortion, sexual-offence or extraordinary legal provisions are added.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The prosecution then serves two purposes.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "It punishes the person who raised the question and supplies the official basis for asking X, Facebook, Instagram or YouTube to restrict the content.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The speaker is criminalised while the speech disappears.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "By the time a court intervenes, the arrest, humiliation, financial damage and political warning have already achieved their purpose.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Digital Emergency",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu-led coalition",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Facebook",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Instagram",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YouTube",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "districts",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "questioning the government is increasingly treated as a criminal act.",
+     "evidence": "Under the Chandrababu Naidu-led coalition, political criticism is being answered not with facts, explanations or democratic debate, but with police notices, multiple FIRs, midnight arrests, interstate operations, custodial intimidation, serious non-bailable charges and digital takedowns."
+    },
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "political criticism is being answered not with facts, explanations or democratic debate, but with police notices, multiple FIRs, midnight arrests, interstate operations, custodial intimidation, serious non-bailable charges and digital takedowns.",
+     "evidence": "Under the Chandrababu Naidu-led coalition, political criticism is being answered not with facts, explanations or democratic debate, but with police notices, multiple FIRs, midnight arrests, interstate operations, custodial intimidation, serious non-bailable charges and digital takedowns."
+    },
+    {
+     "source": "questioning the government is increasingly treated as a criminal act.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Digital Emergency",
+     "evidence": "Andhra Pradesh is passing through a Digital Emergency in which questioning the government is increasingly treated as a criminal act."
+    },
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "The crackdown began with YSRCP social media activists."
+    }
+   ]
+  },
+  "5d77b9d86d26270d26dae55072f3ac22afd372f5": {
+   "entities": [
+    {
+     "name": "Posani",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. K. Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jana Sena",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "KVR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nagarjuna Yadav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Anudeep Kakitala",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sarat Uday",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rafiq",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nara Lokesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Political remarks",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Interstate force against independent digital journalism",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Retrospective criminalisation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Coordinated outrage",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Police",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh Police travelled to Uttar Pradesh to arrest Anudeep Kakitala over a comedy performance."
+    },
+    {
+     "source": "Andhra Pradesh Police",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "Journalist KVR was brought from Hyderabad by a large police team and sent to jail."
+    }
+   ]
+  },
+  "c7ee61bdcae6f0da4994604f6385f8a341d7732b": {
+   "entities": [
+    {
+     "name": "Sai Bhargav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Puli Sagar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sudharani",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Savindra",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tarak",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "police station",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Custody itself becomes punishment.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The purpose is larger than extracting information.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The government expects families to pressure activists into silence.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Before judicial scrutiny, the accused may be photographed between officers, presented with a covered face or described through the harshest section in the FIR.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Custodial Violence, Caste Abuse and Humiliation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Targeting Families and Livelihoods",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Media Parade and Criminal Branding",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sai Bhargav",
+     "relation": "MAKES_CLAIM",
+     "target": "Custody itself becomes punishment.",
+     "evidence": "Custody itself becomes punishment."
+    },
+    {
+     "source": "police station",
+     "relation": "LOCATED_IN",
+     "target": "police station",
+     "evidence": "inside a police station"
+    }
+   ]
+  },
+  "277496a7354ecaa0c5503f80c940b44d34820e83": {
+   "entities": [
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Digital Emergency",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sudharani",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Savindra",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tarak",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Puli Sagar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sai Bhargav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Journalist",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Student",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Farmer",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Comedian",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Government employee",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "287fb75d496a72c21bd25e0c360440c042c97857": {
+   "entities": [
+    {
+     "name": "Sai Krishna",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sai Krishna custodial-death controversy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "courts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ruling-party ecosystems",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Jana Sena",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Savindra Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sai Bhargav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Khaja",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "The police are not required to answer the questions. They are empowered to act against the people asking them.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The government’s claim that it is cleaning up social media therefore collapses.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Ruling-party ecosystems circulate morphed images, personal attacks, degrading content against women and character assassination without facing comparable action.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "In Savindra Reddy’s case, judicial scrutiny exposed inconsistencies between the police account and independent evidence.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "In Sai Bhargav’s case, the judge recorded his custodial-assault statement in camera, ordered a medical examination and questioned the organised-crime provision.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "In Khaja’s case, the magistrate held that notice procedure should have been followed and ordered his release.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "f53383d5ac7fe564549a8bd0e5254226269dbabd": {
+   "entities": [
+    {
+     "name": "Emergency 2.0",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Opposition",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Constitution",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Social media platforms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Task forces",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Monitoring structures",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Journalist",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Student",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Artist",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Activist",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Citizen",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6224934257137f7c2f346f3d48db136a4ca23991": {
+   "entities": [
+    {
+     "name": "The notice appears less severe than arrest, but when used at scale it becomes an efficient form of censorship.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The message is that no statement is ever closed. It can become tomorrow’s FIR.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Mass Notices and WhatsApp Intimidation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Reopening Years-Old Speech",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Midnight Arrests and Plainclothes Pickups",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WhatsApp",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Yagnesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Posani Krishna Murali",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nagarjuna Yadav",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "The notice appears less severe than arrest, but when used at scale it becomes an efficient form of censorship.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Mass Notices and WhatsApp Intimidation",
+     "evidence": "The notice appears less severe than arrest, but when used at scale it becomes an efficient form of censorship."
+    },
+    {
+     "source": "The message is that no statement is ever closed. It can become tomorrow’s FIR.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Midnight Arrests and Plainclothes Pickups",
+     "evidence": "The message is that no statement is ever closed. It can become tomorrow’s FIR."
+    }
+   ]
+  },
+  "aaf826d6e7a0417a6dd66d5e99a621c3806f258f": {
+   "entities": [
+    {
+     "name": "A daytime notice allows a person to contact a lawyer and inform the family.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "A midnight pickup creates fear, humiliation and uncertainty.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Families do not know whether the person has been arrested, abducted or attacked.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Arrest becomes a spectacle designed to warn the neighbourhood and the wider political community.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Interstate Political Policing",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Seizing Phones and Mapping Networks",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Savindra Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tarak Pratap Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Paleti Krishnaveni",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "KVR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Anudeep Kakitala",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nagarjuna Yadav",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "de97132028055a28f2e6fbb743b8aa963707b853": {
+   "entities": [
+    {
+     "name": "Emergency 2.0",
+     "type": "Issue",
+     "english_name": "Emergency 2.0"
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "West Godavari",
+     "type": "Place",
+     "english_name": "West Godavari"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "Varra Ravindra Reddy",
+     "type": "Person",
+     "english_name": "Varra Ravindra Reddy"
+    },
+    {
+     "name": "Kowlepalli Amjad Khan",
+     "type": "Person",
+     "english_name": "Kowlepalli Amjad Khan"
+    },
+    {
+     "name": "Dodda Rakesh Gandhi",
+     "type": "Person",
+     "english_name": "Dodda Rakesh Gandhi"
+    },
+    {
+     "name": "Bhargav",
+     "type": "Person",
+     "english_name": "Bhargav"
+    },
+    {
+     "name": "Inturi Ravikiran",
+     "type": "Person",
+     "english_name": "Inturi Ravikiran"
+    },
+    {
+     "name": "Munagala Harishwar Reddy",
+     "type": "Person",
+     "english_name": "Munagala Harishwar Reddy"
+    },
+    {
+     "name": "Police stations",
+     "type": "Organization",
+     "english_name": "Police stations"
+    },
+    {
+     "name": "Special units",
+     "type": "Organization",
+     "english_name": "Special units"
+    },
+    {
+     "name": "Platform notices",
+     "type": "Organization",
+     "english_name": "Platform notices"
+    },
+    {
+     "name": "Coordinated propaganda",
+     "type": "Organization",
+     "english_name": "Coordinated propaganda"
+    },
+    {
+     "name": "More than 1200 named individuals, pages, political handles and account administrators connected with 3000 reported cases documented through available police information, court proceedings, media reports, victim accounts and party records.",
+     "type": "Claim",
+     "english_name": "More than 1200 named individuals..."
+    },
+    {
+     "name": "The documented figures reveal two parallel strategies.",
+     "type": "Claim",
+     "english_name": "The documented figures reveal two parallel strategies."
+    },
+    {
+     "name": "The first is mass intimidation: hundreds of people face one case, notice or summons so that fear spreads across the wider digital community.",
+     "type": "Claim",
+     "english_name": "The first is mass intimidation..."
+    },
+    {
+     "name": "The second is concentrated persecution: selected activists are buried under repeated FIRs until their lives revolve around police stations, court appearances, anticipatory bail and legal expenditure.",
+     "type": "Claim",
+     "english_name": "The second is concentrated persecution..."
+    }
+   ],
+   "relations": [
+    {
+     "source": "More than 1200 named individuals, pages, political handles and account administrators connected with 3000 reported cases documented through available police information, court proceedings, media reports, victim accounts and party records.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Emergency 2.0",
+     "evidence": "More than 1200 named individuals, pages, political handles and account administrators connected with 3000 reported cases documented through available police information, court proceedings, media reports, victim accounts and party records."
+    },
+    {
+     "source": "The documented figures reveal two parallel strategies.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Emergency 2.0",
+     "evidence": "The documented figures reveal two parallel strategies."
+    },
+    {
+     "source": "The first is mass intimidation: hundreds of people face one case, notice or summons so that fear spreads across the wider digital community.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Emergency 2.0",
+     "evidence": "The first is mass intimidation: hundreds of people face one case, notice or summons so that fear spreads across the wider digital community."
+    },
+    {
+     "source": "The second is concentrated persecution: selected activists are buried under repeated FIRs until their lives revolve around police stations, court appearances, anticipatory bail and legal expenditure.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Emergency 2.0",
+     "evidence": "The second is concentrated persecution: selected activists are buried under repeated FIRs until their lives revolve around police stations, court appearances, anticipatory bail and legal expenditure."
+    }
+   ]
+  },
+  "2893b9cc1359628e3800295c4bc9dc2760fdf588": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati expenditure and land acquisition",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "floods",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "fertilizer shortages",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "electricity tariffs",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "government debt",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "medical-college privatisation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "DSC irregularities",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "TTD tenders",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "the Tirumala Laddu controversy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "liquor and sand operations",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "crimes against women",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "custodial deaths",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "corruption",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ruling-party functionary",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "local leader",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "sympathiser",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "politically connected person",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "complainant",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "leader",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "party workers",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "06b1054593d2f48d49d6338576c20e3d15fb3f95": {
+   "entities": [
+    {
+     "name": "Courts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Bharatiya Nagarik Suraksha Sanhita",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Section 35(3)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Human Cost of Manufactured Fear",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Activists",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Daily-wage workers",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Farmers",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Small businesses",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Employees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Young people",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "905b761e819fb528ddf44dd11e4be3b40e02a45c": {
+   "entities": [
+    {
+     "name": "Section 111 of the Bharatiya Nyaya Sanhita",
+     "type": "Scheme",
+     "english_name": "Section 111 of the Bharatiya Nyaya Sanhita"
+    },
+    {
+     "name": "Bharatiya Nyaya Sanhita",
+     "type": "Organization",
+     "english_name": "Bharatiya Nyaya Sanhita"
+    },
+    {
+     "name": "Tarak Pratap Reddy",
+     "type": "Person",
+     "english_name": "Tarak Pratap Reddy"
+    },
+    {
+     "name": "Sai Bhargav Reddy",
+     "type": "Person",
+     "english_name": "Sai Bhargav Reddy"
+    },
+    {
+     "name": "Courts",
+     "type": "Organization",
+     "english_name": "Courts"
+    },
+    {
+     "name": "Savindra Reddy",
+     "type": "Person",
+     "english_name": "Savindra Reddy"
+    },
+    {
+     "name": "Ravan",
+     "type": "Person",
+     "english_name": "Ravan"
+    },
+    {
+     "name": "UAPA",
+     "type": "Scheme",
+     "english_name": "UAPA"
+    },
+    {
+     "name": "Preventive Detention",
+     "type": "Scheme",
+     "english_name": "Preventive Detention"
+    },
+    {
+     "name": "Organised crime",
+     "type": "Issue",
+     "english_name": "Organised crime"
+    },
+    {
+     "name": "Political coordination",
+     "type": "Issue",
+     "english_name": "Political coordination"
+    },
+    {
+     "name": "Criminal enterprise",
+     "type": "Issue",
+     "english_name": "Criminal enterprise"
+    },
+    {
+     "name": "Ganja offender",
+     "type": "Issue",
+     "english_name": "Ganja offender"
+    },
+    {
+     "name": "Extortion",
+     "type": "Issue",
+     "english_name": "Extortion"
+    },
+    {
+     "name": "Sexual-harassment allegations",
+     "type": "Issue",
+     "english_name": "Sexual-harassment allegations"
+    },
+    {
+     "name": "Terrorism",
+     "type": "Issue",
+     "english_name": "Terrorism"
+    },
+    {
+     "name": "Cyber offences",
+     "type": "Issue",
+     "english_name": "Cyber offences"
+    },
+    {
+     "name": "Bail",
+     "type": "Issue",
+     "english_name": "Bail"
+    },
+    {
+     "name": "Remand",
+     "type": "Issue",
+     "english_name": "Remand"
+    },
+    {
+     "name": "Devices",
+     "type": "Issue",
+     "english_name": "Devices"
+    },
+    {
+     "name": "Opposition digital network",
+     "type": "Issue",
+     "english_name": "Opposition digital network"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

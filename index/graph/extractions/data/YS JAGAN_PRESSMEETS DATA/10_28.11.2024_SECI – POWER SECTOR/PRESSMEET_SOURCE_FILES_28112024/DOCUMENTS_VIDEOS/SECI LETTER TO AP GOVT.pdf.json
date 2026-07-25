@@ -1,0 +1,258 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9c6cdcf61858f27fa0aebace69b20b90fd2f378e": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Corporation of India Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Atma Nirbhar Bharat Abhiyan",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Manufacturing Linked Solar Tender",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Dr. Srikant Nagulapalli, IAS",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Principal Secretary, Energy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NBCC Office Block Tower-2",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "East Kidwai Nagar, New Delhi",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "GoAP",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amravati, Andhra Pradesh"
+    }
+   ]
+  },
+  "7c1b88b86face825ea1e756ee4edc48730018022": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of AP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Manufacturing linked PSAs",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 2.49/kWh",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Agricultural Subsidy Savings",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS Waiver",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Park Infrastructure Available for Alternative Use",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Better Integration of Solar Power",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Atma Nirbhar Bharat Abhiyan",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Atulya Kumar Nalk",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "AP DISCOMs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "STU",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "b9e09a712e37200bcee44b3aa57d31dda1bfb923": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "developers",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tranche II, III & IV",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Developers offered 9GW at tariff Rs. 2.49/kWh",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "Regd. Office : 6th Floor, Plate-B, NBCC Office Block Tower-2 East Kidwai Nagar, New Delhi-110023"
+    },
+    {
+     "source": "developers",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Tranche II, III & IV",
+     "evidence": "The developers, who have been issued Letter of Award (LoA) have suo-moto offered 9GW under Tranche-II, III & IV under this scheme"
+    },
+    {
+     "source": "developers",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: Developers offered 9GW at tariff Rs. 2.49/kWh",
+     "evidence": "The developers, who have been issued Letter of Award (LoA) have suo-moto offered 9GW under Tranche-II, III & IV under this scheme at a tariff of Rs. 2.49 / kWh including SECI's trading margin"
+    }
+   ]
+  },
+  "78adb705482892959128b76df0216d0103294cee": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Corporation of India Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dr. Srikant Nagulapalli, IAS",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Atma Nirbhar Bharat Abhiyan",
+     "type": "Scheme",
+     "english_name": "Atma Nirbhar Bharat Abhiyan"
+    },
+    {
+     "name": "Manufacturing Linked Solar Scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Clean India - Clean Energy",
+     "type": "Scheme",
+     "english_name": "Clean India - Clean Energy"
+    },
+    {
+     "name": "few of the bidders have offered a tariff of Rs. 2.49/kWh",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Amravati",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amravati, Andhra Pradesh"
+    }
+   ]
+  }
+ }
+}

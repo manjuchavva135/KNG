@@ -1,0 +1,410 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "352d244b5487f08574227978822b223c08e54ac8": {
+   "entities": [
+    {
+     "name": "Capital Expenditure",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e9f4cdab8c0e06e832dddc392e015e8708965e6b": {
+   "entities": [
+    {
+     "name": "Mr. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "baseless allegations that the State of Andhra Pradesh had undergone a period of severe economic hardship and financial mismanagement owing to the policies of the State Government during the period 2019-24",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "economic distress",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Chandrababu Naidu",
+     "relation": "ACCUSES",
+     "target": "State Government",
+     "evidence": "made baseless allegations that the State of Andhra Pradesh had undergone a period of severe economic hardship and financial mismanagement owing to the policies of the State Government during the period 2019-24."
+    },
+    {
+     "source": "Mr. Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "baseless allegations that the State of Andhra Pradesh had undergone a period of severe economic hardship and financial mismanagement owing to the policies of the State Government during the period 2019-24",
+     "evidence": "made baseless allegations that the State of Andhra Pradesh had undergone a period of severe economic hardship and financial mismanagement owing to the policies of the State Government during the period 2019-24."
+    },
+    {
+     "source": "baseless allegations that the State of Andhra Pradesh had undergone a period of severe economic hardship and financial mismanagement owing to the policies of the State Government during the period 2019-24",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "economic distress",
+     "evidence": "Does this improvement in State’s contribution to National GDP during 2019-24 indicate economic distress to Mr. Naidu?"
+    }
+   ]
+  },
+  "86bdbdfcf6cb82ed5b469910bd18befea28c6185": {
+   "entities": [
+    {
+     "name": "Mr. Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "capital expenditure",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "capital expenditure in social services sector has reduced by 84.3%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "average capital incurred in social services sector during 2019-24 is more than double of what was incurred during 2014-19",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "capital expenditure in social services sector has reduced by 84.3%",
+     "evidence": "he blatantly lied that since 2018-19, the capital expenditure on social services sector has reduced. This is completely false."
+    }
+   ]
+  },
+  "246f697f3ee01eb76fa0978ac939429cb1d61787": {
+   "entities": [],
+   "relations": []
+  },
+  "0aca8997d1690bf7251628f8f2a2c74571a86cd5": {
+   "entities": [
+    {
+     "name": "Mr. Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "GDP components and Per Capita income comparison",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State’s rank improvement",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Country",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "State",
+     "relation": "LOCATED_IN",
+     "target": "Country",
+     "evidence": "compared to the Country"
+    }
+   ]
+  },
+  "5f132eeb30836328dea231f3a577eda671ecb0d6": {
+   "entities": [
+    {
+     "name": "Mr. Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nara Lokesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "State of AP",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RBI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "the then Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Investors abandoned the State of AP during 2019-24 owing to the policies of the then Government.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Investors abandoned the State of AP",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Naidu",
+     "relation": "ACCUSES",
+     "target": "the then Government",
+     "evidence": "Mr. Naidu and Nara Lokesh continuously allege that the investors abandoned the State of AP during 2019-24 owing to the policies of the then Government."
+    },
+    {
+     "source": "Nara Lokesh",
+     "relation": "ACCUSES",
+     "target": "the then Government",
+     "evidence": "Mr. Naidu and Nara Lokesh continuously allege that the investors abandoned the State of AP during 2019-24 owing to the policies of the then Government."
+    },
+    {
+     "source": "Mr. Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Investors abandoned the State of AP during 2019-24 owing to the policies of the then Government.",
+     "evidence": "Mr. Naidu and Nara Lokesh continuously allege that the investors abandoned the State of AP during 2019-24 owing to the policies of the then Government."
+    },
+    {
+     "source": "Nara Lokesh",
+     "relation": "MAKES_CLAIM",
+     "target": "Investors abandoned the State of AP during 2019-24 owing to the policies of the then Government.",
+     "evidence": "Mr. Naidu and Nara Lokesh continuously allege that the investors abandoned the State of AP during 2019-24 owing to the policies of the then Government."
+    },
+    {
+     "source": "Investors abandoned the State of AP during 2019-24 owing to the policies of the then Government.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Investors abandoned the State of AP",
+     "evidence": "Mr. Naidu and Nara Lokesh continuously allege that the investors abandoned the State of AP during 2019-24 owing to the policies of the then Government."
+    }
+   ]
+  },
+  "5e3f98c2e9148b19122f53c449b880165f8fe83c": {
+   "entities": [
+    {
+     "name": "Mr. Naidu",
+     "type": "Person",
+     "english_name": "Naidu"
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Debt sustainability",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Debt sustainability (Central Govt. Vs AP Govt. 2014-19)",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Debt sustainability (Central Govt. Vs AP Govt. 2014-19)",
+     "evidence": "Mr. Naidu has specified a definition that indicates debt sustainability."
+    },
+    {
+     "source": "Debt sustainability (Central Govt. Vs AP Govt. 2014-19)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Debt sustainability",
+     "evidence": "Debt sustainability (Central Govt. Vs AP Govt. 2014-19)"
+    }
+   ]
+  },
+  "1c5d6e1182aa053247ee36e7d1ba9861775d7776": {
+   "entities": [
+    {
+     "name": "Mr. Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Debt sustainability",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Growth Rate of Interest Payments > GSDP Growth Rate",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "both Central Government and AP State Government are in a state of debt unsustainability",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Growth Rate of Interest Payments > GSDP Growth Rate",
+     "evidence": "Growth Rate of Interest Payments > GSDP Growth Rate."
+    },
+    {
+     "source": "Mr. Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "both Central Government and AP State Government are in a state of debt unsustainability",
+     "evidence": "both Central Government and AP State Government are in a state of debt unsustainability."
+    },
+    {
+     "source": "Growth Rate of Interest Payments > GSDP Growth Rate",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Debt sustainability",
+     "evidence": "Debt sustainability (Central Govt. Vs AP Govt. 2019-24)"
+    },
+    {
+     "source": "both Central Government and AP State Government are in a state of debt unsustainability",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Debt sustainability",
+     "evidence": "Debt sustainability (Central Govt. Vs AP Govt. 2019-24)"
+    }
+   ]
+  },
+  "ac284d1a8c5f0b0f24341cfa3066d5a1932c3e35": {
+   "entities": [
+    {
+     "name": "Mr. Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue growth",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State’s own tax revenues grew at a year-on-year rate of 17.10%",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "State’s own tax revenues grew at a year-on-year rate of 17.10%",
+     "evidence": "Mr. Naidu’s presentation demonstrates his intention to mislead the public into believing that the State’s own tax revenues grew during this period at a year-on-year rate of 17.10%."
+    },
+    {
+     "source": "State’s own tax revenues grew at a year-on-year rate of 17.10%",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Revenue growth",
+     "evidence": "the State’s own tax revenues grew during this period at a year-on-year rate of 17.10%"
+    }
+   ]
+  }
+ }
+}

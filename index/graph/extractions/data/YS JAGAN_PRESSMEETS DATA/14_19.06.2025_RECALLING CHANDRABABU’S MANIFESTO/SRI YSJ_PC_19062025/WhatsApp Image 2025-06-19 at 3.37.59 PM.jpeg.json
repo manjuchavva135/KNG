@@ -1,0 +1,99 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ecfc9f583916c48a12bcaca785506f93e8e2587e": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "రవితేజ",
+     "type": "Person",
+     "english_name": "Ravi Teja"
+    },
+    {
+     "name": "ఎల్లోమీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "భాష్యం ప్రవీణ్",
+     "type": "Person",
+     "english_name": "Bhashyam Praveen"
+    },
+    {
+     "name": "Rentapalem",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Peddakurapadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో బ్యాచ్",
+     "type": "Organization",
+     "english_name": "Yellow batch"
+    },
+    {
+     "name": "Recall of Chandrababu’s manifesto",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Controversial placards",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "TDP membership registration",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "2029లో YSRCP వచ్చిన వెంటనే... గంగమ్మ తల్లి బాటలో వేట తలలు సరిపినట్టు రప్పించి రప్పించి నరుకుతాం ఒక్కొక్కడిని...",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "రవితేజ",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "TDP కార్యకర్త రవితేజ"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "జగన్ పర్యటనలో"
+    },
+    {
+     "source": "భాష్యం ప్రవీణ్",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "పెదకూరపాడు టీడీపీ ఎ"
+    }
+   ]
+  }
+ }
+}

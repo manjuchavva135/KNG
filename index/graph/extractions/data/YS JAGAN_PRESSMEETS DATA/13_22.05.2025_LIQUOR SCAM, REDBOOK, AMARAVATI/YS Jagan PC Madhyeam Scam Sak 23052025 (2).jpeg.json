@@ -1,0 +1,615 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6af073c039282dd53016ef4af620403723994e9c": {
+   "entities": [
+    {
+     "name": "సీసీఐ",
+     "type": "Organization",
+     "english_name": "CCI"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "విజయసాయిరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాజ్యసభ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "రాజ్ కేసిరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బెవరేజెస్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మిథున్ రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కె.ధనుంజయరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "92d8a54f427588e4f2bdc31397f82866e06e2cac": {
+   "entities": [
+    {
+     "name": "పీఎస్ఆర్ అంజనేయులు",
+     "type": "Person",
+     "english_name": "PSR Anjaneyulu"
+    },
+    {
+     "name": "సునీల్ కుమార్",
+     "type": "Person",
+     "english_name": "Sunil Kumar"
+    },
+    {
+     "name": "సంజయ్ ఐపీఎస్",
+     "type": "Person",
+     "english_name": "Sanjay IPS"
+    },
+    {
+     "name": "శాంతిరాణా టాటా",
+     "type": "Person",
+     "english_name": "Santhira Rana Tata"
+    },
+    {
+     "name": "విశాల్ గున్నీ",
+     "type": "Person",
+     "english_name": "Vishal Guni"
+    },
+    {
+     "name": "రఘురామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghuramireddy"
+    },
+    {
+     "name": "రవిశంకర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Ravishankar Reddy"
+    },
+    {
+     "name": "నిశాంత్ రెడ్డి ఐపీఎస్",
+     "type": "Person",
+     "english_name": "Nishanth Reddy IPS"
+    },
+    {
+     "name": "పి. జాషువా",
+     "type": "Person",
+     "english_name": "P. Joshua"
+    },
+    {
+     "name": "విజయ్ పాల్",
+     "type": "Person",
+     "english_name": "Vijaypal"
+    },
+    {
+     "name": "ధనుంజయరెడ్డి",
+     "type": "Person",
+     "english_name": "Dhanunjaya Reddy"
+    },
+    {
+     "name": "కృష్ణ మోహన్",
+     "type": "Person",
+     "english_name": "Krishna Mohan"
+    },
+    {
+     "name": "బాలాజీ గోవిందప్ప",
+     "type": "Person",
+     "english_name": "Balaji Govindappa"
+    },
+    {
+     "name": "కాంతిరాణా టాటా",
+     "type": "Person",
+     "english_name": "Kanthi Rana Tata"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "రెడ్ బుక్",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "రాష్ట్రంలో ఇప్పుడు అప్రకటిత ఎమర్జెన్సీ కొనసాగుతోంది.",
+     "type": "Claim",
+     "english_name": "Unannounced emergency is ongoing in the state."
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం పోస్టింగ్లు ఇవ్వకుండా వీఆర్లో పెట్టింది.",
+     "type": "Claim",
+     "english_name": "Coalition government placed officers on VR without postings."
+    }
+   ],
+   "relations": []
+  },
+  "b2f47b48720266315bf125caab96d9e8c1794024": {
+   "entities": [
+    {
+     "name": "సీసీఐ",
+     "type": "Organization",
+     "english_name": "CCI"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కాంపిటిషన్ కమిషన్ ఆఫ్ ఇండియా",
+     "type": "Organization",
+     "english_name": "Competition Commission of India"
+    },
+    {
+     "name": "రాజ్యసభ",
+     "type": "Organization",
+     "english_name": "Rajya Sabha"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "విజయసాయిరెడ్డి",
+     "type": "Person",
+     "english_name": "Vijaysai Reddy"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "మద్యం విధానం",
+     "type": "Scheme",
+     "english_name": "Liquor Policy"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సీసీఐ",
+     "evidence": "చంద్రబాబు అండ్ కో కంపెనీలు మా ప్రభుత్వ మద్యాల విధా నంపై 2022లో కాంపిటిషన్ కమిషన్ ఆఫ్ ఇండియాలో కేసు వేశాయి."
+    },
+    {
+     "source": "మద్యం విధానం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "మద్యం విధానం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు అండ్ కో కంపెనీలు మా ప్రభుత్వ మద్యాల విధా నంపై 2022లో కాంపిటిషన్ కమిషన్ ఆఫ్ ఇండియాలో కేసు వేశాయి."
+    },
+    {
+     "source": "విజయసాయిరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబుకు లొంగిపోయిన మరో వ్యక్తి విజయసాయిరెడ్డి."
+    }
+   ]
+  },
+  "e1b02872dc2e2c1cc79a9638938f1449b1e27862": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ కూటమి",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "సీసీఐ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక శాఖ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్ బుక్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మద్యం కుంభకోణం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు మద్యం కుంభకోణానికి పాల్పడ్డారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్, సూపర్ సెవెన్ ఏమయ్యాయి?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్ బుక్ రాజ్యాంగంతో చేస్తున్న అరాచకాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సీసీఐ తీర్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక శాఖ అనుమతి",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "fc39829cd9429f71d1512f36de3ea63b2cc801d4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GO 998",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు బెయిలీపై లేరా? ఇది వాస్తవం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు బెయిలీపై లేరా? ఇది వాస్తవం కాదా?",
+     "evidence": "చంద్రబాబు బెయిలీపై లేరా? ఇది వాస్తవం కాదా?"
+    },
+    {
+     "source": "GO 998",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor scam",
+     "evidence": "2014 నవంబర్లో జీవో 998 ప్రకారం ఏర్పాటైన కమిటీ సిఫార్సులు బేఖాతరు చేస్తూ..."
+    }
+   ]
+  },
+  "5d643f1e64e96a54b7d2d9f3825c64a507279739": {
+   "entities": [
+    {
+     "name": "P.S.R. Anjaneyulu",
+     "type": "Person",
+     "english_name": "P.S.R. Anjaneyulu"
+    },
+    {
+     "name": "Sunil Kumar",
+     "type": "Person",
+     "english_name": "Sunil Kumar"
+    },
+    {
+     "name": "Sanjay IPS",
+     "type": "Person",
+     "english_name": "Sanjay IPS"
+    },
+    {
+     "name": "Shanti Rana Tata",
+     "type": "Person",
+     "english_name": "Shanti Rana Tata"
+    },
+    {
+     "name": "Vishal Guni",
+     "type": "Person",
+     "english_name": "Vishal Guni"
+    },
+    {
+     "name": "Raghunath Reddy",
+     "type": "Person",
+     "english_name": "Raghunath Reddy"
+    },
+    {
+     "name": "Ravishankar Reddy",
+     "type": "Person",
+     "english_name": "Ravishankar Reddy"
+    },
+    {
+     "name": "Nishanth Reddy IPS",
+     "type": "Person",
+     "english_name": "Nishanth Reddy IPS"
+    },
+    {
+     "name": "P. Joshua",
+     "type": "Person",
+     "english_name": "P. Joshua"
+    },
+    {
+     "name": "Vijay Pal",
+     "type": "Person",
+     "english_name": "Vijay Pal"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": "Redbook"
+    }
+   ],
+   "relations": [
+    {
+     "source": "P.S.R. Anjaneyulu",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "Sunil Kumar",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "Sanjay IPS",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "Shanti Rana Tata",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "Vishal Guni",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "Raghunath Reddy",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "Ravishankar Reddy",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "Nishanth Reddy IPS",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    },
+    {
+     "source": "P. Joshua",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ పాలనలో వేధింపులకు గురైన అధికారులు"
+    }
+   ]
+  },
+  "350531f561ec6e058bd625c2c5c73af82df537d4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "లిక్కర్ స్కాం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్ బుక్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు తానొస్తే ధరలు తగ్గిస్తానన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సారథ్యంలో కూటమి ప్రభుత్వం వచ్చాక జరిగిన హత్యలు 390",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హత్యలు, హత్యాయత్నాలు, దాడులకు గురైన వైఎస్సార్ సీపీ, నాయకులు, కార్యకర్తలు 766 మంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అక్రమ కేసులు 2,466",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు తానొస్తే ధరలు తగ్గిస్తానన్నాడు",
+     "evidence": "చంద్రబాబు తానొస్తే ధరలు తగ్గిస్తానన్నాడు"
+    }
+   ]
+  }
+ }
+}

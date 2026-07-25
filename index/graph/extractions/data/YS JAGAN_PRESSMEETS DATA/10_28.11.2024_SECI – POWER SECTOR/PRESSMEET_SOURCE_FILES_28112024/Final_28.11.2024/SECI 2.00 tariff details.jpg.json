@@ -1,0 +1,171 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "59593cfd1a9ec64547c94cd19c6057a6d2a4d549": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of New & Renewable Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "National Solar Mission",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan Urja Vikas Nigam Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Build Own Operate",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tariff-based Competitive bidding",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 2.00 tariff",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "100 GW Solar PV installation target",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "Rajasthan",
+     "evidence": "in the State of Rajasthan"
+    }
+   ]
+  },
+  "3bf8f892239dba392ece60fb9a4c83f2b006046a": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RAJASTHAN",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "RAJASTHAN",
+     "evidence": "setting up of plant in Rajasthan"
+    }
+   ]
+  },
+  "812ea0be6ceab5f38e94b923081098d34f4daa34": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "Ministry of New & Renewable Energy",
+     "type": "Organization",
+     "english_name": "Ministry of New & Renewable Energy"
+    },
+    {
+     "name": "MNRE",
+     "type": "Organization",
+     "english_name": "Ministry of New & Renewable Energy"
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": "Ministry of Power"
+    },
+    {
+     "name": "MoP",
+     "type": "Organization",
+     "english_name": "Ministry of Power"
+    },
+    {
+     "name": "National Solar Mission",
+     "type": "Scheme",
+     "english_name": "National Solar Mission"
+    },
+    {
+     "name": "NSM",
+     "type": "Scheme",
+     "english_name": "National Solar Mission"
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": "Rajasthan"
+    },
+    {
+     "name": "Rajasthan Urja Vikas Nigam Limited",
+     "type": "Organization",
+     "english_name": "Rajasthan Urja Vikas Nigam Limited"
+    },
+    {
+     "name": "RUVNL",
+     "type": "Organization",
+     "english_name": "Rajasthan Urja Vikas Nigam Limited"
+    },
+    {
+     "name": "Build Own Operate",
+     "type": "Scheme",
+     "english_name": "Build Own Operate"
+    },
+    {
+     "name": "B-O-O",
+     "type": "Scheme",
+     "english_name": "Build Own Operate"
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": "New Delhi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "D - 3, 1st Floor, Wing - A, Prius Platinum Building, District Centre, Saket, New Delhi - 110 017"
+    }
+   ]
+  }
+ }
+}

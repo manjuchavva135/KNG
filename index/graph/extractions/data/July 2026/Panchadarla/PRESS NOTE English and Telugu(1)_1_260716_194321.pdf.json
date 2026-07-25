@@ -1,0 +1,158 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fd07e6a3ee46f0a887e5c0a9753e11e25c1dcffb": {
+   "entities": [
+    {
+     "name": "Minor Mineral Concession Rules, 1966",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Quarry Lease Deed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Mines & Geology Officer",
+     "type": "Person",
+     "english_name": "District Mines & Geology Officer"
+    },
+    {
+     "name": "Anakapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ordered immediate stoppage of all quarrying operations, including excavation, drilling, blasting, loading and transportation of mineral from the lease area, until completion of the detailed survey and further orders.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "District Mines & Geology Officer",
+     "relation": "MAKES_CLAIM",
+     "target": "ordered immediate stoppage of all quarrying operations, including excavation, drilling, blasting, loading and transportation of mineral from the lease area, until completion of the detailed survey and further orders.",
+     "evidence": "has ordered immediate stoppage of all quarrying operations, including excavation, drilling, blasting, loading and transportation of mineral from the lease area, until completion of the detailed survey and further orders."
+    }
+   ]
+  },
+  "db8e9ba4ce02f3364703d5d06ea4b9e6a8e4dc86": {
+   "entities": [
+    {
+     "name": "Department of Mines and Geology, Anakapalli",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gravel Quarry Lease",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Panchadarla Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rambilli Mandal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Anakapalli District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. Vijay Kumar Naidu Dasamnani",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. Minor Mineral Concession Rules, 1966",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Assistant Director (Technical), Archaeology & Museums Department, Visakhapatnam",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Panchadarla Group of Temples",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Ancient and Historical Monuments and Archaeological Sites and Remains Act, 1960",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Quarrying violations",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Heritage impact",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "immediate stoppage of quarrying operations",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "quarrying operations had allegedly extended beyond the sanctioned lease boundaries",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "quarry benches exceeding 8.00 metres in height had been formed without obtaining prior permission",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "continued quarrying operations and the vibrations generated therefrom may potentially affect the ancient natural water channels associated with the protected monument",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Assistant Director (Technical), Archaeology & Museums Department, Visakhapatnam",
+     "relation": "MAKES_CLAIM",
+     "target": "continued quarrying operations and the vibrations generated therefrom may potentially affect the ancient natural water channels associated with the protected monument",
+     "evidence": "the report states that although the quarry is situated at a distance of about 1,000 metres from the protected Panchadarla Group of Temples, continued quarrying operations and the vibrations generated therefrom may potentially affect the ancient natural water channels associated with the protected monument"
+    },
+    {
+     "source": "Panchadarla Group of Temples",
+     "relation": "LOCATED_IN",
+     "target": "Panchadarla Village",
+     "evidence": "the quarry is situated at a distance of about 1,000 metres from the protected Panchadarla Group of Temples"
+    },
+    {
+     "source": "Department of Mines and Geology, Anakapalli",
+     "relation": "LOCATED_IN",
+     "target": "Anakapalli District",
+     "evidence": "Department of Mines and Geology, Anakapalli"
+    },
+    {
+     "source": "A.P. Minor Mineral Concession Rules, 1966",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Quarrying violations",
+     "evidence": "contrary to the provisions of the A.P. Minor Mineral Concession Rules, 1966"
+    },
+    {
+     "source": "Andhra Pradesh Ancient and Historical Monuments and Archaeological Sites and Remains Act, 1960",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Heritage impact",
+     "evidence": "protected under the Andhra Pradesh Ancient and Historical Monuments and Archaeological Sites and Remains Act, 1960"
+    }
+   ]
+  }
+ }
+}

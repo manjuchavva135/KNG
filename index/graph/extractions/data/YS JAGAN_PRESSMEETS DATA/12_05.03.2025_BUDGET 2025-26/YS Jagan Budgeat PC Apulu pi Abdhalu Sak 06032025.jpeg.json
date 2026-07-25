@@ -1,0 +1,534 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e135839c6e6fcbb752d80465708a3d918b018d9e": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.3,22,359 కోట్ల బడ్జెట్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాహుబళి బడ్జెట్",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "రూ.3,22,359 కోట్ల బడ్జెట్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "2025-26లో రూ.3,22,359 కోట్ల బడ్జెట్ అంకెల గారడి కాదా?"
+    },
+    {
+     "source": "బాహుబళి బడ్జెట్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "దీన్ని బాహుబళి బడ్జెట్ అనడం మీకు మాత్రమే చెల్లుతుంది!"
+    }
+   ]
+  },
+  "7e56d06ace085a2e95926933451aa6eebfdaf8f5": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "గంగాధర నెల్లూరు",
+     "type": "Place",
+     "english_name": "Ganga Dhara Nellore"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "అప్పులపై",
+     "type": "Issue",
+     "english_name": "Debt"
+    },
+    {
+     "name": "చంద్రబాబు మోసాలు ఏ స్థాయికి చేరుకున్నాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు పీహెచ్డీలు, రీసెర్చ్లు చేస్తున్నారు: వైఎస్ జగన్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు రూ.పది లక్షల కోట్లు అని అబద్ధాలు చెప్పాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు వచ్చాక రెవెన్యూ తగ్గిందని ప్రస్ఫుటంగా కనిపిస్తోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రానికి సొంత ఆదాయాలు పెరగలేదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "0ec6725efe50a370eb68147ad5d45dbace078a14": {
+   "entities": [
+    {
+     "name": "ప్లానింగ్ డిపార్టుమెంట్",
+     "type": "Organization",
+     "english_name": "Planning Department"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    }
+   ],
+   "relations": []
+  },
+  "b073946b7f5ccab84e45c11c2590e0b7397281cd": {
+   "entities": [
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "ఉత్తరాంధ్ర",
+     "type": "Place",
+     "english_name": "Uttarandhra"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "Graduate MLC elections"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేశాడు"
+    }
+   ]
+  },
+  "4d4fc16b28ee95f77f4497841996f8a35ada99ec": {
+   "entities": [
+    {
+     "name": "World Bank",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": "Asian Development Bank"
+    },
+    {
+     "name": "HUDCO",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "Markfed",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "Civil Supplies",
+     "type": "Organization",
+     "english_name": "Civil Supplies"
+    },
+    {
+     "name": "KFW",
+     "type": "Organization",
+     "english_name": "KFW"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "Bharatiya Janata Party"
+    },
+    {
+     "name": "Amaravati self‑financing project controversy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి సెల్ఫ్ ఫైనాన్సింగ్ ప్రాజెక్టు అని చంద్రబాబు చాలా సందర్భాల్లో చెప్పారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ డాక్యుమెంట్లో ఒక మాదిరిగా, స్పీచ్లో మరో మాదిరిగా ఉంటుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి పేరిట ఇంతింత అప్పులు చేస్తూ సెల్ఫ్ సస్టెయినింగ్ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా ఇవ్వడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఢిల్లీ అసెంబ్లీలో మూడే సీట్లున్న బీజేపీకి ప్రతిపక్ష హోదా ఇచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికల్లో రిగ్గింగ్ చేయడం ఎవరైనా చూశామా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పవన్కళ్యాణ్ కార్పొరేటర్కు ఎక్కువ.. ఎమ్మెల్యేకు తక్కువ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజల గొంతుకను ప్రతిపక్షం వినిపించగలుగుతుంది. కానీ, ప్రజల గొంతుక వినిపించకూడదని మాకు ప్రతిపక్ష హోదా ఇవ్వడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గవర్నర్ ప్రసంగం, బడ్జెట్లో లోపాలను సాక్ష్యాధారాలతో ఎండగడుతూ ప్రజలకు వివరించడానికి ఇప్పుడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా కల్పించినప్పుడే అసెంబ్లీ వేదికగా ఈ తరహాలో ప్రజలకు వివరించడానికి అవకాశం ఉంటుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంతమంది సభ్యుల బలం ఉంటేనే ప్రతిపక్ష హోదా ఇవ్వాలన్న నిబంధన ఎక్కడా లేదన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతి సెల్ఫ్ ఫైనాన్సింగ్ ప్రాజెక్టు అని చంద్రబాబు చాలా సందర్భాల్లో చెప్పారు.",
+     "evidence": "అమరావతి సెల్ఫ్ ఫైనాన్సింగ్ ప్రాజెక్టు అని చంద్రబాబు చాలా సందర్భాల్లో చెప్పారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "బడ్జెట్ డాక్యుమెంట్లో ఒక మాదిరిగా, స్పీచ్లో మరో మాదిరిగా ఉంటుంది.",
+     "evidence": "బడ్జెట్ డాక్యుమెంట్లో ఒక మాదిరిగా, స్పీచ్లో మరో మాదిరిగా ఉంటుంది."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతి పేరిట ఇంతింత అప్పులు చేస్తూ సెల్ఫ్ సస్టెయినింగ్ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు?",
+     "evidence": "అమరావతి పేరిట ఇంతింత అప్పులు చేస్తూ సెల్ఫ్ సస్టెయినింగ్ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు?"
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతిపక్ష హోదా ఇవ్వడం లేదు",
+     "evidence": "ప్రతిపక్ష హోదా ఇవ్వడం లేదు"
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ఢిల్లీ అసెంబ్లీలో మూడే సీట్లున్న బీజేపీకి ప్రతిపక్ష హోదా ఇచ్చారు",
+     "evidence": "ఢిల్లీ అసెంబ్లీలో మూడే సీట్లున్న బీజేపీకి ప్రతిపక్ష హోదా ఇచ్చారు"
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికల్లో రిగ్గింగ్ చేయడం ఎవరైనా చూశామా?",
+     "evidence": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికల్లో రిగ్గింగ్ చేయడం ఎవరైనా చూశామా?"
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "పవన్కళ్యాణ్ కార్పొరేటర్కు ఎక్కువ.. ఎమ్మెల్యేకు తక్కువ",
+     "evidence": "పవన్కళ్యాణ్ కార్పొరేటర్కు ఎక్కువ.. ఎమ్మెల్యేకు తక్కువ"
+    },
+    {
+     "source": "అమరావతి సెల్ఫ్ ఫైనాన్సింగ్ ప్రాజెక్టు అని చంద్రబాబు చాలా సందర్భాల్లో చెప్పారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati self‑financing project controversy",
+     "evidence": "అమరావతి సెల్ఫ్ ఫైనాన్సింగ్ ప్రాజెక్టు అని చంద్రబాబు చాలా సందర్భాల్లో చెప్పారు."
+    },
+    {
+     "source": "బడ్జెట్ డాక్యుమెంట్లో ఒక మాదిరిగా, స్పీచ్లో మరో మాదిరిగా ఉంటుంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati self‑financing project controversy",
+     "evidence": "బడ్జెట్ డాక్యుమెంట్లో ఒక మాదిరిగా, స్పీ"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "అసెంబ్లీ",
+     "evidence": "ప్రజల గొంతుక వినిపించకూడదని మాకు ప్రతిపక్ష హోదా ఇవ్వడం లేదు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజల గొంతుకను ప్రతిపక్షం వినిపించగలుగుతుంది. కానీ, ప్రజల గొంతుక వినిపించకూడదని మాకు ప్రతిపక్ష హోదా ఇవ్వడం లేదు",
+     "evidence": "ప్రజల గొంతుకను ప్రతిపక్షం వినిపించగలుగుతుంది. కానీ, ప్రజల గొంతుక వినిపించకూడదని మాకు ప్రతిపక్ష హోదా ఇవ్వడం లేదు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "గవర్నర్ ప్రసంగం, బడ్జెట్లో లోపాలను సాక్ష్యాధారాలతో ఎండగడుతూ ప్రజలకు వివరించడానికి ఇప్పుడు",
+     "evidence": "గవర్నర్ ప్రసంగం, బడ్జెట్లో లోపాలను సాక్ష్యాధారాలతో ఎండగడుతూ ప్రజలకు వివరించడానికి ఇప్పుడు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతిపక్ష హోదా కల్పించినప్పుడే అసెంబ్లీ వేదికగా ఈ తరహాలో ప్రజలకు వివరించడానికి అవకాశం ఉంటుంది",
+     "evidence": "ప్రతిపక్ష హోదా కల్పించినప్పుడే అసెంబ్లీ వేదికగా ఈ తరహాలో ప్రజలకు వివరించడానికి అవకాశం ఉంటుంది"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇంతమంది సభ్యుల బలం ఉంటేనే ప్రతిపక్ష హోదా ఇవ్వాలన్న నిబంధన ఎక్కడా లేదన్నారు",
+     "evidence": "ఇంతమంది సభ్యుల బలం ఉంటేనే ప్రతిపక్ష హోదా ఇవ్వాలన్న నిబంధన ఎక్కడా లేదన్నారు"
+    }
+   ]
+  },
+  "2a7ff650077336a64e9bf6978303e971ae1dfb97": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రాడ్యుయేట్ ఎమ్మెల్సీ ఎన్నికలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ల్యాండ్ రెవెన్యూస్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మూలధన వ్యయం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రెవెన్యూ",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "జీఎస్డీపీ",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఇప్పుడు రూ.10,854 కోట్లు మాత్రమే వ్యయం చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు వచ్చాక రెవెన్యూ తగ్గిందని",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేశాడు.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఇప్పుడు రూ.10,854 కోట్లు మాత్రమే వ్యయం చేశారు.",
+     "evidence": "చంద్రబాబు ఇప్పుడు రూ.10,854 కోట్లు మాత్రమే వ్యయం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు వచ్చాక రెవెన్యూ తగ్గిందని",
+     "evidence": "చంద్రబాబు వచ్చాక రెవెన్యూ తగ్గిందని"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "efccdf5743e25347c96cc8b5609ea1e8be206f2f": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Bhavishyattu ki Guarantee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Annadata",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Adbidda Nidhi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Yuva Gnana",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Surya",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana Rajya",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gas cylinders",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Water tap connection",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Free bus travel",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Bhavishyattu ki Guarantee",
+     "evidence": "TDP ప్రకటించిన 'భవిష్యత్తుకు గ్యారెంటీ'"
+    },
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Annadata",
+     "evidence": "అన్నదాత: ₹20,000"
+    },
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Adbidda Nidhi",
+     "evidence": "ఆడబిడ్డ నిధి: ₹18,000"
+    },
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Talliki Vandanam",
+     "evidence": "తల్లికి వందన: ₹15,000"
+    },
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Yuva Gnana",
+     "evidence": "యువగణం నిధి: ₹36,000"
+    },
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Gas cylinders",
+     "evidence": "3 గ్యాస్ సిలిండర్లు/సంవత్సరానికి(బీపం పథకం)"
+    },
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Water tap connection",
+     "evidence": "నీటి కుకాయి కనెక్షన్ (ఇంటింటికి మంచి నీరు)"
+    },
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Free bus travel",
+     "evidence": "మహిళలకు ఉచిత ప్రయాణం(ఉచిత బస్సు ప్రయాణం)"
+    }
+   ]
+  }
+ }
+}

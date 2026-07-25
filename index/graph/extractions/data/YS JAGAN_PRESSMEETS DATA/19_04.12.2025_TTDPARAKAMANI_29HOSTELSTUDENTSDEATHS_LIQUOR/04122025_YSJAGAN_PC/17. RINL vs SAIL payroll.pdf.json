@@ -1,0 +1,73 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "299022effe6bba62012dcb2ad2a2569fa0b79f5e": {
+   "entities": [
+    {
+     "name": "RINL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SAIL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vizag",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jharkhand State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Employee benefit expenses as a % of revenues is same with respect to SAIL and RINL",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The key difference is higher Iron ore prices for RINL",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "During the FY 2023-24, total requirement of iron ore was met from the captive sources",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "About 1.16 MT of iron ore was made available in the open market from the Mines in the States of Odisha",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "approval from Jharkhand State Government for selling of iron ore in the open market is still awaited",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "RINL",
+     "relation": "LOCATED_IN",
+     "target": "Vizag",
+     "evidence": "RINL Vizag (2023-24)"
+    },
+    {
+     "source": "SAIL",
+     "relation": "LOCATED_IN",
+     "target": "Odisha",
+     "evidence": "Mines in the States of Odisha"
+    }
+   ]
+  }
+ }
+}

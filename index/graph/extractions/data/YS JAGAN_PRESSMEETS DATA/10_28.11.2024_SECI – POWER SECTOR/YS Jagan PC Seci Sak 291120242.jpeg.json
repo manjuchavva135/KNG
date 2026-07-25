@@ -1,0 +1,1591 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e673bb8f517cd9a46a4dfa66ad4e5d22b83d20aa": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "APERC",
+     "type": "Organization",
+     "english_name": "APERC"
+    },
+    {
+     "name": "DISCOMs",
+     "type": "Organization",
+     "english_name": "DISCOMs"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Production Linked Incentive",
+     "type": "Scheme",
+     "english_name": "Production Linked Incentive"
+    },
+    {
+     "name": "Free electricity for farmers",
+     "type": "Scheme",
+     "english_name": "Free electricity for farmers"
+    },
+    {
+     "name": "Electricity purchase rates",
+     "type": "Issue",
+     "english_name": "Electricity purchase rates"
+    },
+    {
+     "name": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది",
+     "type": "Claim",
+     "english_name": "Wealth evaporated under Chandrababu's rule"
+    },
+    {
+     "name": "రూ.2.49కే విద్యుత్తు కొనుగోలుతో రూ.1.10 లక్షల కోట్లు ఆదా చేశాం",
+     "type": "Claim",
+     "english_name": "Saved Rs 1.10 lakh crore by buying electricity at Rs 2.49"
+    },
+    {
+     "name": "చంద్రబాబు హయాంలో సోలార్ విద్యుత్తును సగటున యూనిట్ రూ.5.90 చొప్పున కొన్నారు",
+     "type": "Claim",
+     "english_name": "Solar power bought at average Rs 5.90 per unit during Chandrababu's tenure"
+    },
+    {
+     "name": "డిస్కంల పరిస్థితి దయనీయంగా ఉంది",
+     "type": "Claim",
+     "english_name": "DISCOMs condition is pathetic"
+    },
+    {
+     "name": "మేము డిస్కంలను ఆదుకున్నాం",
+     "type": "Claim",
+     "english_name": "We rescued DISCOMs"
+    },
+    {
+     "name": "రైతన్నలకు ఉచిత విద్యుత్",
+     "type": "Claim",
+     "english_name": "Free electricity for farmers"
+    },
+    {
+     "name": "కేంద్రం ప్రొడక్షన్ లింక్డ్ ఇన్సెంటివ్ కింద గొప్ప అడుగు వేసింది",
+     "type": "Claim",
+     "english_name": "Centre took a great step under Production Linked Incentive"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.2.49కే విద్యుత్తు కొనుగోలుతో రూ.1.10 లక్షల కోట్లు ఆదా చేశాం",
+     "evidence": "రూ.2.49కే విద్యుత్తు కొనుగోలుతో రూ.1.10 లక్షల కోట్లు ఆదా చేశాం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు హయాంలో సోలార్ విద్యుత్తును సగటున యూనిట్ రూ.5.90 చొప్పున కొన్నారు",
+     "evidence": "చంద్రబాబు హయాంలో సోలార్ విద్యుత్తును సగటున యూనిట్ రూ.5.90 చొప్పున కొన్నారు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "డిస్కంల పరిస్థితి దయనీయంగా ఉంది",
+     "evidence": "డిస్కంల పరిస్థితి దయనీయంగా ఉంది"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మేము డిస్కంలను ఆదుకున్నాం",
+     "evidence": "మేము డిస్కంలను ఆదుకున్నాం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతన్నలకు ఉచిత విద్యుత్",
+     "evidence": "రైతన్నలకు ఉచిత విద్యుత్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Free electricity for farmers",
+     "evidence": "రైతన్నలకు ఉచిత విద్యుత్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "YSRCP"
+    },
+    {
+     "source": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Electricity purchase rates",
+     "evidence": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది"
+    },
+    {
+     "source": "డిస్కంల పరిస్థితి దయనీయంగా ఉంది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Electricity purchase rates",
+     "evidence": "డిస్కంల పరిస్థితి దయనీయంగా ఉంది"
+    }
+   ]
+  },
+  "53f7b5e649753c4a46b274ce3714f42d77ae37e4": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Green Energy Corporation Limited (APGENCL)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NTPC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Solar parks",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Power",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Wind Power",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Power Purchase Agreements (PPA)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Open Access Charges",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "CTU charges",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Scheduling charges",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "VNTs charges",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Discoms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Buyer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Buying Entity",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "STU/CTU",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Agreement",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6c91098b2e2f3cf99288cc811c49ddc708781791": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డిస్కంలు",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State government"
+    },
+    {
+     "name": "Power sector debt",
+     "type": "Issue",
+     "english_name": "Power sector debt"
+    },
+    {
+     "name": "సోలార్, విండ్ పీవీ ఏల",
+     "type": "Scheme",
+     "english_name": "Solar and wind PV plants"
+    },
+    {
+     "name": "చంద్రబాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది",
+     "type": "Claim",
+     "english_name": "Discom situation worsened under Chandrababu"
+    },
+    {
+     "name": "వార్షిక అప్పు పెరుగుదల (సీఏజీఆర్) 23.88%",
+     "type": "Claim",
+     "english_name": "Annual debt growth (CAGR) 23.88%"
+    },
+    {
+     "name": "చంద్రబాబు అందించిన సాయం రూ.13,255 కోట్లు",
+     "type": "Claim",
+     "english_name": "Assistance of Rs 13,255 crore by Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ హయాంలో రూ.47,800 కోట్లు డిస్కంలకు అందించి ఆదుకున్నాం",
+     "type": "Claim",
+     "english_name": "Rs 47,800 crore assistance to discoms under YSRCP"
+    },
+    {
+     "name": "రూ.2.49 చొప్పున కొనుగోలు చేయడం వల్ల 25 ఏళ్లలో రూ.1.10 లక్షల కోట్లను ఆదా చేయడం",
+     "type": "Claim",
+     "english_name": "Saving Rs 1.10 lakh crore over 25 years by purchasing at Rs 2.49 per unit"
+    },
+    {
+     "name": "సోలార్, విండ్ పీవీ ఏల వల్ల అదనంగా రూ.87,500 కోట్ల భారం",
+     "type": "Claim",
+     "english_name": "Extra Rs 87,500 crore burden from solar and wind PV plants"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది",
+     "evidence": "చంద్రబాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వార్షిక అప్పు పెరుగుదల (సీఏజీఆర్) 23.88%",
+     "evidence": "దాదాపుగా 23.88 శాతం వార్షిక అప్పు పెరుగుదల (సీఏజీఆర్)తో చంద్రబాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు అందించిన సాయం రూ.13,255 కోట్లు",
+     "evidence": "డిస్కంలను ఆదుకునేందుకు ఆయన చేసిన సాయం రూ.13,255 కోట్లు మాత్రమే."
+    },
+    {
+     "source": "చంద్రబాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector debt",
+     "evidence": "డిస్కంల పరిస్థితి చూస్తే చంద్రబాబు అధికారంలోకి రాకముందు అంటే 2014 నాటికి రూ.28 వేల కోట్లు అప్పులు, బకాయిలు ఉండగా ఆయన దిగిపోయే నాటికి అంటే 2019కి ఏకంగా రూ.86 వేల కోట్లకు ఎగబాకాయి."
+    },
+    {
+     "source": "వార్షిక అప్పు పెరుగుదల (సీఏజీఆర్) 23.88%",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector debt",
+     "evidence": "దాదాపుగా 23.88 శాతం వార్షిక అప్పు పెరుగుదల (సీఏజీఆర్)తో చంద్రబాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది."
+    },
+    {
+     "source": "చంద్రబాబు అందించిన సాయం రూ.13,255 కోట్లు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector debt",
+     "evidence": "డిస్కంలను ఆదుకునేందుకు ఆయన చేసిన సాయం రూ.13,255 కోట్లు మాత్రమే."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ హయాంలో రూ.47,800 కోట్లు డిస్కంలకు అందించి ఆదుకున్నాం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector debt",
+     "evidence": "అదే వైఎస్సార్సీపీ హయాంలో రూ.47,800 కోట్లు డిస్కంలకు అందించి ఆదుకున్నాం."
+    },
+    {
+     "source": "రూ.2.49 చొప్పున కొనుగోలు చేయడం వల్ల 25 ఏళ్లలో రూ.1.10 లక్షల కోట్లను ఆదా చేయడం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector debt",
+     "evidence": "రూ.2.49 చొప్పున కొనుగోలు చేయడం వల్ల రాష్ట్ర ప్రభుత్వానికి 25 ఏళ్లలో"
+    }
+   ]
+  },
+  "375088aed2761ac3bcdeb1cc722094ac00fbbb87": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "గుజరాత్",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "ఏపీఈఆర్సీ",
+     "type": "Organization",
+     "english_name": "APERC"
+    },
+    {
+     "name": "భారత న్యాయశాఖ (GOI)",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "భారత జాతీయ రాజధాని ప్రాంతీయ ప్రభుత్వం (National Capital Territory of Delhi)",
+     "type": "Place",
+     "english_name": "National Capital Territory of Delhi"
+    },
+    {
+     "name": "శక్తి సంస్థ లిమిటెడ్",
+     "type": "Organization",
+     "english_name": "Energy Corporation of India Limited"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "డిస్కమ్లు",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "ఏపీ కన్నా అధిక ధరకు పవర్ సేల్ అగ్రిమెంట్ చేసుకున్న ఛత్తీస్గఢ్, ఒడిశా, తమిళనాడు రాష్ట్రాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మనం యూనిట్ రూ.2.485 కొనుగోలు ఒప్పందం చేసుకున్నాం, అది కూడా కోవిడ్ సమయంలో.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ఏడాది మార్చిలో గుజరాత్లో సెకీ టెండర్లు పిలిస్తే యూనిట్ రూ.2.62 నుంచి రూ.2.67 చొప్పున యూనిట్ రూ.2,49కే యూనిట్ చొప్పున విద్యుత్ సరఫరా చేస్తామని 2021 సెప్టెంబర్ 15న సెకీ నుంచి లెటర్ వచ్చింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎక్కడా థర్డ్ పార్టీ ఎవరూ లేరు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ అగ్రిమెంట్ 3.2 క్లాజ్లో 25 ఏకపాటు అంతరాష్ట్ర ట్రాన్స్మిషన్ ఛార్జీలు నుంచి మినహాయింపు ఇస్తామని స్పష్టంగా పేర్కొంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గుజరాత్లో ఉత్పత్తయ్యే విద్యుత్ను గుజరాత్లోనే సరఫరా చేసేందుకు ఈ ధర నిర్ణయించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీవీ మోడల్ రేట్లు తగ్గినట్లుగా పవర్ ఉత్పత్తి రేట్లు కూడా తగ్గాలి.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్"
+    },
+    {
+     "source": "సెకీ",
+     "relation": "LOCATED_IN",
+     "target": "గుజరాత్",
+     "evidence": "గుజరాత్లో సెకీ టెండర్లు పిలిస్తే"
+    }
+   ]
+  },
+  "1a31b98be40e11f375e6b7fd07f9bf4525a3fffa": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఆత్మనిర్భర్ ప్యాకేజ్",
+     "type": "Scheme",
+     "english_name": "Atmanirbhar Package"
+    },
+    {
+     "name": "నేను సంపద సృష్టిస్తే.. చంద్రబాబు సంపద ఆవిరి చేశాడు.",
+     "type": "Claim",
+     "english_name": "I create wealth; Chandrababu destroys wealth."
+    },
+    {
+     "name": "25 ఏళ్లలో రూ.1.10 లక్షల కోట్లను ఆదా చేయడం ద్వారా సంపద సృష్టించాం.",
+     "type": "Claim",
+     "english_name": "We created wealth by saving Rs 1.10 lakh crores over 25 years."
+    }
+   ],
+   "relations": []
+  },
+  "0a0bdfcdff0069263aff28e30f33b329857fc6b4": {
+   "entities": [
+    {
+     "name": "సెకి",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "గుజరాత్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రాజస్థాన్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నాటక",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఐఎస్టీఎస్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యుత్ ధర",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సోలార్ పవర్ ధర",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎల్ఎఫ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ట్రాన్స్మిషన్ వ్యయం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఐఎస్టీఎస్ ధర",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యుత్ ధర తగ్గాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సోలార్ పవర్ ధర రూ.2.49 నుండి రూ.1.50కు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గుజరాత్ విద్యుత్ ధర రూ.1.90 vs సెకి రూ.2.49",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గుజరాత్, రాజస్థాన్ పీఎల్ఎఫ్ 23.5% vs ఏపీ 17-18%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గుజరాత్, రాజస్థాన్ సోలార్ పవర్ అడ్వంటేజ్ రూ.0.50",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "faee48d02c34fc2186f7ab6d3d9b891a9daeed40": {
+   "entities": [
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    }
+   ],
+   "relations": []
+  },
+  "73cc6bc47b7d9a1ba03b74eb549f5fb2bdae43f2": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అంతర్రాష్ట్ర ట్రాన్స్మిషన్ చార్జీలు (ఐఎస్టీఎస్)",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ (సోలార్ ఎనర్జీ కార్పొరేషన్ ఆఫ్ ఇండియా)",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సోలార్ ఎనర్జీ కార్పొరేషన్ ఆఫ్ ఇండియా లిమిటెడ్.",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Ltd."
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Act, 2008",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Saving Rs 1.10 lakh crores over 25 years",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu purchased solar power at Rs 5.90 per unit",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Solar power purchase at Rs 2.49 per unit for 25 years",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Innovative renewable energy model for sustainable agriculture",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "Saving Rs 1.10 lakh crores over 25 years",
+     "evidence": "మరి 25 ఏళ్లకు రూ.1.10 లక్షల కోట్లను ఖజానాకు ఆదా చేసి సంపద సృష్టించిన వైఎస్ జగన్గొప్పా..?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మరి 25 ఏళ్లకు రూ.1.10 లక్షల కోట్లను ఖజానాకు ఆదా చేసి సంపద సృష్టించిన వైఎస్ జగన్గొప్పా..? లేక రూ.87,500 కోట్లు ఖజానాపై భారం వేసి సంపదను ఆవిరి చేసిన చంద్రబాబు గొప్పా? - వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "Chandrababu purchased solar power at Rs 5.90 per unit",
+     "evidence": "చంద్రబాబు హయాంలో 2014-19 మధ్య సౌర విద్యుత్ యూనిట్ సగటున రూ.5.90 చొప్పున కొనుగోలు చేస్తూ విద్యుత్ కొనుగోలు ఒప్పందాలు(పీసీ ఏలు) చేసుకున్నారు."
+    }
+   ]
+  },
+  "974fe5ed2d053ea7577799608a4baac9d3a0577a": {
+   "entities": [
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Buying Entity",
+     "type": "Organization",
+     "english_name": "Buying Entity"
+    },
+    {
+     "name": "Power Sale Agreement",
+     "type": "Scheme",
+     "english_name": "Power Sale Agreement"
+    },
+    {
+     "name": "Free electricity to farmers",
+     "type": "Issue",
+     "english_name": "Free electricity to farmers"
+    },
+    {
+     "name": "ఏ ప్రభుత్వం కొనుగోలు చేయలేదు",
+     "type": "Claim",
+     "english_name": "No government has purchased"
+    },
+    {
+     "name": "ఏ ఒక్కరూ చేయలేనిదాన్ని, వైఎస్సార్సీపీ ప్రభుత్వం చేయగలిగింది",
+     "type": "Claim",
+     "english_name": "YSRCP government achieved what no one else could"
+    },
+    {
+     "name": "చరిత్రలో నిలిచిపోయే ఒప్పందం ఇది",
+     "type": "Claim",
+     "english_name": "This is a historic agreement"
+    },
+    {
+     "name": "tariff of power supply fixed tariff of Rs. 2.42/kWh plus trading margin of Rs. 0.07/ kWh",
+     "type": "Claim",
+     "english_name": "Tariff fixed at Rs. 2.42/kWh plus Rs. 0.07/kWh margin"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏ ప్రభుత్వం కొనుగోలు చేయలేదు",
+     "evidence": "ఏ ప్రభుత్వం కొనుగోలు చేయలేదు"
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏ ఒక్కరూ చేయలేనిదాన్ని, వైఎస్సార్సీపీ ప్రభుత్వం చేయగలిగింది",
+     "evidence": "ఏ ఒక్కరూ చేయలేనిదాన్ని, వైఎస్సార్సీపీ ప్రభుత్వం చేయగలిగింది"
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "చరిత్రలో నిలిచిపోయే ఒప్పందం ఇది",
+     "evidence": "చరిత్రలో నిలిచిపోయే ఒప్పందం ఇది"
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "evidence": "వైఎస్సార్సీపీ ప్రభుత్వం"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Power Sale Agreement",
+     "evidence": "Power Sale Agreement providing for the tariff of power supply fixed tariff of Rs. 2.42/kWh plus trading margin of Rs. 0.07/ kWh"
+    },
+    {
+     "source": "Power Sale Agreement",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Free electricity to farmers",
+     "evidence": "రైతులకు హక్కుగా ఉచిత విద్యుత్ లక్ష్యంగా"
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "tariff of power supply fixed tariff of Rs. 2.42/kWh plus trading margin of Rs. 0.07/ kWh",
+     "evidence": "tariff of power supply fixed tariff of Rs. 2.42/kWh plus trading margin of Rs. 0.07/ kWh"
+    }
+   ]
+  },
+  "ce0bdb351654b159c675b75cc6c62b1b8e1d1276": {
+   "entities": [
+    {
+     "name": "గుజరాత్",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "సోలార్ పవర్",
+     "type": "Scheme",
+     "english_name": "Solar Power"
+    },
+    {
+     "name": "సోలార్ పవర్ను మా హయాంలో రూ.2.49 చొప్పున కొనుగోలు చేశాం. అంటే ఇప్పుడు అది రూ.1.50కే రావాలి కదా..?",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "4b457ec6cd9773926e4aec601f0176678dc3e61b": {
+   "entities": [
+    {
+     "name": "చంద్ర బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డిస్కంలు",
+     "type": "Organization",
+     "english_name": "DISCOMs"
+    },
+    {
+     "name": "డిస్కంల పరిస్థితి",
+     "type": "Issue",
+     "english_name": "DISCOMs financial condition"
+    },
+    {
+     "name": "ముందు అంటే 2014 నాటికి రూ.28 వేల కోట్లు అప్పులు, బకాయిలు ఉండగా ఆయన దిగిపోయే నాటికి అంటే 2019కి ఏకంగా రూ.86 వేల కోట్లకు ఎగబాకాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్ర బాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డిస్కంలను ఆదుకునేందుకు ఆయన చేసిన సాయం రూ.13,255 కోట్లు మాత్రమే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అదే వైఎస్సార్సీపీ హయాంలో రూ.47,800 కోట్లు డిస్కంలకు అందించి ఆదుకున్నాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్ర బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ముందు అంటే 2014 నాటికి రూ.28 వేల కోట్లు అప్పులు, బకాయిలు ఉండగా ఆయన దిగిపోయే నాటికి అంటే 2019కి ఏకంగా రూ.86 వేల కోట్లకు ఎగబాకాయి.",
+     "evidence": "ముందు అంటే 2014 నాటికి రూ.28 వేల కోట్లు అప్పులు, బకాయిలు ఉండగా ఆయన దిగిపోయే నాటికి అంటే 2019కి ఏకంగా రూ.86 వేల కోట్లకు ఎగబాకాయి."
+    },
+    {
+     "source": "చంద్ర బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "డిస్కంలను ఆదుకునేందుకు ఆయన చేసిన సాయం రూ.13,255 కోట్లు మాత్రమే.",
+     "evidence": "డిస్కంలను ఆదుకునేందుకు ఆయన చేసిన సాయం రూ.13,255 కోట్లు మాత్రమే."
+    },
+    {
+     "source": "ముందు అంటే 2014 నాటికి రూ.28 వేల కోట్లు అప్పులు, బకాయిలు ఉండగా ఆయన దిగిపోయే నాటికి అంటే 2019కి ఏకంగా రూ.86 వేల కోట్లకు ఎగబాకాయి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డిస్కంల పరిస్థితి",
+     "evidence": "ముందు అంటే 2014 నాటికి రూ.28 వేల కోట్లు అప్పులు, బకాయిలు ఉండగా ఆయన దిగిపోయే నాటికి అంటే 2019కి ఏకంగా రూ.86 వేల కోట్లకు ఎగబాకాయి."
+    },
+    {
+     "source": "చంద్ర బాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డిస్కంల పరిస్థితి",
+     "evidence": "చంద్ర బాబు హయాంలో డిస్కంల పరిస్థితి దయనీయంగా ఉంది."
+    },
+    {
+     "source": "డిస్కంలను ఆదుకునేందుకు ఆయన చేసిన సాయం రూ.13,255 కోట్లు మాత్రమే.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డిస్కంల పరిస్థితి",
+     "evidence": "డిస్కంలను ఆదుకునేందుకు ఆయన చేసిన సాయం రూ.13,255 కోట్లు మాత్రమే."
+    },
+    {
+     "source": "అదే వైఎస్సార్సీపీ హయాంలో రూ.47,800 కోట్లు డిస్కంలకు అందించి ఆదుకున్నాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డిస్కంల పరిస్థితి",
+     "evidence": "అదే వైఎస్సార్సీపీ హయాంలో రూ.47,800 కోట్లు డిస్కంలకు అందించి ఆదుకున్నాం."
+    }
+   ]
+  },
+  "94ed7c6ffdffdb00feb473eed53cf4cef532f57d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అత్యంత చౌకగా రూ.2.49కే విద్యుత్తు కొనుగోలుతో రూ.1.10 లక్షల కోట్లు ఆదా చేశాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.6.99కు కొన్న బాబు గొప్పా..? రూ.2.49కు నేను కొంటే తప్పా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొత్త మెడికల్ కాలేజీలు.. పోర్టుల నిర్మాణంతో భావి తరాలకు విలువైన సంపద సృష్టించాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొత్త మెడికల్ కాలేజీలు.. పోర్టుల నిర్మాణంతో",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది: వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది",
+     "evidence": "చంద్రబాబు పాలనలో సంపద ఆవిరైంది: వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "అత్యంత చౌకగా రూ.2.49కే విద్యుత్తు కొనుగోలుతో రూ.1.10 లక్షల కోట్లు ఆదా చేశాం",
+     "evidence": "అత్యంత చౌకగా రూ.2.49కే విద్యుత్తు కొనుగోలుతో రూ.1.10 లక్షల కోట్లు ఆదా చేశాం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.6.99కు కొన్న బాబు గొప్పా..? రూ.2.49కు నేను కొంటే తప్పా?",
+     "evidence": "రూ.6.99కు కొన్న బాబు గొప్పా..? రూ.2.49కు నేను కొంటే తప్పా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "కొత్త మెడికల్ కాలేజీలు.. పోర్టుల నిర్మాణంతో భావి తరాలకు విలువైన సంపద సృష్టించాం",
+     "evidence": "కొత్త మెడికల్ కాలేజీలు.. పోర్టుల నిర్మాణంతో భావి తరాలకు విలువైన సంపద సృష్టించాం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కొత్త మెడికల్ కాలేజీలు.. పోర్టుల నిర్మాణంతో",
+     "evidence": "కొత్త మెడికల్ కాలేజీలు.. పోర్టుల నిర్మాణంతో"
+    }
+   ]
+  },
+  "fb6d30cda18ed1e2004d8440e50d6870d6f3c055": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "గుజరాత్",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "ఏపీఈఆర్సీ",
+     "type": "Organization",
+     "english_name": "APERC"
+    },
+    {
+     "name": "భారత న్యాయశాఖ (GOI)",
+     "type": "Organization",
+     "english_name": "Ministry of Power (GOI)"
+    },
+    {
+     "name": "శక్తి సంస్థ లిమిటెడ్",
+     "type": "Organization",
+     "english_name": "Energy Corporation of India Limited"
+    },
+    {
+     "name": "డిస్కమ్లు",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "Deputy Secretary to Government",
+     "type": "Person",
+     "english_name": "Deputy Secretary to Government"
+    },
+    {
+     "name": "Director, APSECL",
+     "type": "Person",
+     "english_name": "Director, APSECL"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Power Purchase Price Dispute",
+     "type": "Issue",
+     "english_name": "Power Purchase Price Dispute"
+    },
+    {
+     "name": "మనం యూనిట్ రూ.2.485 కొనుగోలు ఒప్పందం చేసుకున్నాం",
+     "type": "Claim",
+     "english_name": "Purchase agreement at Rs 2.485 per unit"
+    },
+    {
+     "name": "ఈనాడు రూ.5.73కు కొంటున్నామని రాస్తుంది",
+     "type": "Claim",
+     "english_name": "Eenadu claims purchase at Rs 5.73 per unit"
+    },
+    {
+     "name": "సెకీ నుండి లెటర్ వచ్చిం ది... యూనిట్ రూ.2,49కే యూనిట్ చొప్పున విద్యుత్ సరఫరా",
+     "type": "Claim",
+     "english_name": "SECI offered power at Rs 2.49 per unit"
+    },
+    {
+     "name": "3.2 క్లాజ్లో 25 ఏకపాటు అంతరాష్ట్ర ట్రాన్స్మిషన్ ఛార్జీలు నుంచి మినహాయింపు ఇస్తామని స్పష్టంగా పేర్కొంది",
+     "type": "Claim",
+     "english_name": "Agreement exempts 25 paise per unit transmission charges"
+    },
+    {
+     "name": "ఎక్కడా థర్డ్ పార్టీ ఎవరూ లేరు",
+     "type": "Claim",
+     "english_name": "No third party involved in the agreement"
+    }
+   ],
+   "relations": []
+  },
+  "acd8ad68bf632721e315d103576a2b4b88766c1c": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "Rs. 2.49kWh",
+     "type": "Claim",
+     "english_name": "Rs. 2.49 per kWh"
+    },
+    {
+     "name": "Letter of Award (LoA)",
+     "type": "Scheme",
+     "english_name": "Letter of Award"
+    },
+    {
+     "name": "Solar Manufacturing tender",
+     "type": "Scheme",
+     "english_name": "Solar Manufacturing tender"
+    },
+    {
+     "name": "ISTS charges waiver",
+     "type": "Scheme",
+     "english_name": "ISTS charges waiver"
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "Special Investment Authority",
+     "type": "Organization",
+     "english_name": "Special Investment Authority"
+    },
+    {
+     "name": "Court",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Mission bundles",
+     "type": "Scheme",
+     "english_name": "Mission bundles"
+    },
+    {
+     "name": "EMI",
+     "type": "Claim",
+     "english_name": "EMI"
+    }
+   ],
+   "relations": []
+  },
+  "e8f256b9b15e26774d4cb2a99328b8d44a802bdf": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "STU/CTU",
+     "type": "Organization",
+     "english_name": "STU/CTU"
+    },
+    {
+     "name": "Buying Entity",
+     "type": "Organization",
+     "english_name": "Buying Entity"
+    },
+    {
+     "name": "Andhra Pradesh Green Energy Corporation Limited (APGENCL)",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Green Energy Corporation Limited"
+    },
+    {
+     "name": "NTPC",
+     "type": "Organization",
+     "english_name": "NTPC"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Open Access Charges",
+     "type": "Scheme",
+     "english_name": "Open Access Charges"
+    },
+    {
+     "name": "CTU charges",
+     "type": "Scheme",
+     "english_name": "CTU charges"
+    },
+    {
+     "name": "scheduling charges",
+     "type": "Scheme",
+     "english_name": "scheduling charges"
+    },
+    {
+     "name": "VNTs charges",
+     "type": "Scheme",
+     "english_name": "VNTs charges"
+    },
+    {
+     "name": "inter-state transmission charges",
+     "type": "Scheme",
+     "english_name": "inter-state transmission charges"
+    },
+    {
+     "name": "Power sector",
+     "type": "Issue",
+     "english_name": "Power sector"
+    },
+    {
+     "name": "Claim_Chandrababu_wealth",
+     "type": "Claim",
+     "english_name": "Chandrababu created wealth"
+    },
+    {
+     "name": "Claim_OpenAccessChargesWaived",
+     "type": "Claim",
+     "english_name": "Open Access Charges, CTU charges, scheduling charges, VNTs charges and other charges do not apply"
+    },
+    {
+     "name": "Claim_SolarParksTenders",
+     "type": "Claim",
+     "english_name": "Solar parks tenders were called by APGENCL"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "చంద్రబాబు అనే చంద్రగ్రహణం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_Chandrababu_wealth",
+     "evidence": "మేం సంపద సృష్టించాం.. అని చేసింది చంద్రబాబే"
+    }
+   ]
+  },
+  "c72c3a1b4a52569cb3d0439ad6bf2655971b12dd": {
+   "entities": [
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "APERC",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Electricity Regulatory Commission"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ఆత్మనిర్భర్",
+     "type": "Scheme",
+     "english_name": "Atmanirbhar"
+    }
+   ],
+   "relations": []
+  },
+  "9c27751352090661406b8f47c061b9895e5c92cf": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్ర జ్యోతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీవీ 5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సంపద ఆవిరి చేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు, ఆంధ్ర జ్యోతి, టీవీ 5తో పాటు చంద్రబాబుకు చెందిన ఎల్లో గ్యాంగ్ పనిగా పెట్టుకుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు సంపద ఆవిరి చేశాడు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడు, ఆంధ్ర జ్యోతి, టీవీ 5తో పాటు చంద్రబాబుకు చెందిన ఎల్లో గ్యాంగ్ పనిగా పెట్టుకుంది."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్ర జ్యోతి",
+     "evidence": "ఈనాడు, ఆంధ్ర జ్యోతి, టీవీ 5తో పాటు చంద్రబాబుకు చెందిన ఎల్లో గ్యాంగ్ పనిగా పెట్టుకుంది."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "టీవీ 5",
+     "evidence": "ఈనాడు, ఆంధ్ర జ్యోతి, టీవీ 5తో పాటు చంద్రబాబుకు చెందిన ఎల్లో గ్యాంగ్ పనిగా పెట్టుకుంది."
+    }
+   ]
+  },
+  "3fedbccaf46c1bba0719b6c4f950b6c026255875": {
+   "entities": [
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "స్పెషల్ ఇన్వెస్ట్మెంట్ అథారిటీ",
+     "type": "Organization",
+     "english_name": "Special Investment Authority"
+    },
+    {
+     "name": "సేల్",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "తెలుగుదేశం",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ సంస్థ సెకీతో కారుచౌకగా యూనిట్ రూ.2.49కే సార విద్యుత్తు కొనుగోలు ఒప్పందం కుదుర్చుకోవడం రూ.1.10 లక్షల కోట్లను ఆదా చేసి సంపద సృష్టించామన్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అధిక ధరలతో పీవీఏల ఒప్పందాల గుదిబండ వల్ల సీఎం చంద్రబాబు రూ.87,500 కోట్లు ఆవిరి చేశారని ధ్వజమెత్తారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ సీపీ",
+     "evidence": "మాజీ సీఎం, వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్ రెడ్డి తెలిపారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర ప్రభుత్వ సంస్థ సెకీతో కారుచౌకగా యూనిట్ రూ.2.49కే సార విద్యుత్తు కొనుగోలు ఒప్పందం కుదుర్చుకోవడం రూ.1.10 లక్షల కోట్లను ఆదా చేసి సంపద సృష్టించామన్నారు.",
+     "evidence": "కేంద్ర ప్రభుత్వ సంస్థ సెకీతో కారుచౌకగా యూనిట్ రూ.2.49కే సార విద్యుత్తు కొనుగోలు ఒప్పందం కుదుర్చుకోవడం రూ.1.10 లక్షల కోట్లను ఆదా చేసి సంపద సృష్టించామన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అధిక ధరలతో పీవీఏల ఒప్పందాల గుదిబండ వల్ల సీఎం చంద్రబాబు రూ.87,500 కోట్లు ఆవిరి చేశారని ధ్వజమెత్తారు.",
+     "evidence": "అధిక ధరలతో పీవీఏల ఒప్పందాల గుదిబండ వల్ల సీఎం చంద్రబాబు రూ.87,500 కోట్లు ఆవిరి చేశారని ధ్వజమెత్తారు."
+    }
+   ]
+  }
+ }
+}

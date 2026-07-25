@@ -1,0 +1,151 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "de968086afda7fd6bd57c627a2f40b61198ecfdb": {
+   "entities": [
+    {
+     "name": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "రైతు సేవా కేంద్రం",
+     "type": "Organization",
+     "english_name": "Farmers Service Center"
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "గోపాలపురం నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Gopalapuram constituency"
+    },
+    {
+     "name": "నల్లజర్ల",
+     "type": "Place",
+     "english_name": "Nallajerla"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ - పీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava - PM Kisan"
+    },
+    {
+     "name": "బిందు సేద్యం",
+     "type": "Scheme",
+     "english_name": "Drip Irrigation"
+    },
+    {
+     "name": "మెరుగైన సాగునీటి విధానం",
+     "type": "Scheme",
+     "english_name": "Improved Irrigation Policy"
+    },
+    {
+     "name": "రైతస్సా మీకోసం కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "Rythu Sa Meeku Kosam Program"
+    },
+    {
+     "name": "రైతు సేవా కేంద్రం - సమగ్ర ప్రణాళిక",
+     "type": "Scheme",
+     "english_name": "Farmers Service Center - Comprehensive Plan"
+    },
+    {
+     "name": "46,85,838 రైతులకు రూ.6,310 కోట్లు జమ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "90% సబ్సిడీపై 'బిందు సేద్యం' ద్వారా రైతులకు రూ.1,654 కోట్ల లబ్ది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MSP, MIS ద్వారా రైతుల దగ్గర నుండి పంటను కొనుగోలు చేసి ఆదుకోవడం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ - పీఎం కిసాన్",
+     "evidence": "అన్నదాత సుఖీభవ - పీఎం కిసాన్' పథకం కింద 46,85,838 రైతులకు రూ.6,310 కోట్లు జమ"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బిందు సేద్యం",
+     "evidence": "90% సబ్సిడీపై 'బిందు సేద్యం' ద్వారా రైతులకు రూ.1,654 కోట్ల లబ్ది"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెరుగైన సాగునీటి విధానం",
+     "evidence": "మెరుగైన సాగునీటి విధానం'"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతస్సా మీకోసం కార్యక్రమం",
+     "evidence": "రైతస్సా మీకోసం కార్యక్రమాన్ని రాష్ట్ర వ్యాప్తంగా విజయవంతం చేసిన రైతులకు ధన్యవాదాలు"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "MAKES_CLAIM",
+     "target": "46,85,838 రైతులకు రూ.6,310 కోట్లు జమ",
+     "evidence": "46,85,838 రైతులకు రూ.6,310 కోట్లు జమ"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "MAKES_CLAIM",
+     "target": "90% సబ్సిడీపై 'బిందు సేద్యం' ద్వారా రైతులకు రూ.1,654 కోట్ల లబ్ది",
+     "evidence": "90% సబ్సిడీపై 'బిందు సేద్యం' ద్వారా రైతులకు రూ.1,654 కోట్ల లబ్ది"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "MAKES_CLAIM",
+     "target": "MSP, MIS ద్వారా రైతుల దగ్గర నుండి పంటను కొనుగోలు చేసి ఆదుకోవడం",
+     "evidence": "MSP, MIS ద్వారా రైతుల దగ్గర నుండి పంటను కొనుగోలు చేసి ఆదుకోవడం"
+    },
+    {
+     "source": "తూర్పుగోదావరి జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "తూర్పుగోదావరి జిల్లా, గోపాలపురం నియోజకవర్గం, నల్లజర్ల రైతు సేవా కేంద్రంలో"
+    },
+    {
+     "source": "గోపాలపురం నియోజకవర్గం",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "తూర్పుగోదావరి జిల్లా, గోపాలపురం నియోజకవర్గం, నల్లజర్ల రైతు సేవా కేంద్రంలో"
+    },
+    {
+     "source": "నల్లజర్ల",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "తూర్పుగోదావరి జిల్లా, గోపాలపురం నియోజకవర్గం, నల్లజర్ల రైతు సేవా కేంద్రంలో"
+    }
+   ]
+  }
+ }
+}

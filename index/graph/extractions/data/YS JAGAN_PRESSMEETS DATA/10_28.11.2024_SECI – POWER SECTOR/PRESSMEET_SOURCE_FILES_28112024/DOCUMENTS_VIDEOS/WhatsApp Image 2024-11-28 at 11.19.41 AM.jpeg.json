@@ -1,0 +1,197 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "810526d4f6528372e10b0dafb9b54387dcbce6fe": {
+   "entities": [
+    {
+     "name": "దొడ్డాల సుధీర్",
+     "type": "Person",
+     "english_name": "Doddaala Sudheer"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "దొడ్డాల చిట్టి బాబు",
+     "type": "Person",
+     "english_name": "Chitti Babu"
+    },
+    {
+     "name": "కోటేశ్వరమ్మ",
+     "type": "Person",
+     "english_name": "Koteshwaramma"
+    },
+    {
+     "name": "ఈవీఎం కాలేజీ",
+     "type": "Organization",
+     "english_name": "EVM College"
+    },
+    {
+     "name": "విరించి టౌన్షిప్స్ ప్రైవేటు లిమిటెడ్",
+     "type": "Organization",
+     "english_name": "Viriinchi Townships Private Limited"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "నర్సరావుపేట",
+     "type": "Place",
+     "english_name": "Narasaraopet"
+    },
+    {
+     "name": "రొంపిచర్ల",
+     "type": "Place",
+     "english_name": "Rompicherla"
+    },
+    {
+     "name": "సంతగుడిపాడు",
+     "type": "Place",
+     "english_name": "Santagudipadu"
+    },
+    {
+     "name": "గుంటూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Guntur district"
+    },
+    {
+     "name": "లక్షల కోట్ల పెట్టుబడులన్నీ తుస్!",
+     "type": "Issue",
+     "english_name": "Investment MoU scam"
+    },
+    {
+     "name": "Signed MoU with government",
+     "type": "Claim",
+     "english_name": "Signed MoU with government"
+    },
+    {
+     "name": "Not an industrialist",
+     "type": "Claim",
+     "english_name": "Not an industrialist"
+    }
+   ],
+   "relations": []
+  },
+  "d78212dbbfc9933010606479dc52ede920bfdfab": {
+   "entities": [],
+   "relations": []
+  },
+  "56886fd24c86259c208c8594f28a88c8d05343d6": {
+   "entities": [
+    {
+     "name": "రూ.లక్షల కోట్ల పెట్టుబడులన్నీ తుస్!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దొడ్డాల సుధీర్",
+     "type": "Person",
+     "english_name": "Doddaala Sudheer"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "దొడ్డాల చిట్టి బాబు",
+     "type": "Person",
+     "english_name": "Doddaala Chitti Babu"
+    },
+    {
+     "name": "కోటేశ్వరమ్మ",
+     "type": "Person",
+     "english_name": "Kotishwaramma"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఈవీఎం కాలేజీ",
+     "type": "Organization",
+     "english_name": "EEVMA College"
+    },
+    {
+     "name": "విరించి టౌన్షిప్స్ ప్రైవేటు లిమిటెడ్",
+     "type": "Organization",
+     "english_name": "Varinchi Townships Private Limited"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "నర్సరావుపేట",
+     "type": "Place",
+     "english_name": "Narsaraopet"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "రొంపిచర్ల",
+     "type": "Place",
+     "english_name": "Rompicherla"
+    },
+    {
+     "name": "సంతగుడిపాడు",
+     "type": "Place",
+     "english_name": "Santagudipadu"
+    },
+    {
+     "name": "కోతప్పకొండ",
+     "type": "Place",
+     "english_name": "Koppal"
+    },
+    {
+     "name": "ఎంవోయూ",
+     "type": "Issue",
+     "english_name": "MOU"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి ప్రతినిధి, అమరావతి బ్యూరో"
+    },
+    {
+     "source": "విరించి టౌన్షిప్స్ ప్రైవేటు లిమిటెడ్",
+     "relation": "LOCATED_IN",
+     "target": "కోతప్పకొండ",
+     "evidence": "కోతప్పకొండ సమీపం విరించి టౌన్షిప్స్ ప్రైవేటు లిమిటెడ్ కంపెనీ భూములు కొనుగోలు"
+    }
+   ]
+  }
+ }
+}

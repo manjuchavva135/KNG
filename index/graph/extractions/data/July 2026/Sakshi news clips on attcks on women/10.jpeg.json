@@ -1,0 +1,233 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4ef309a1e6655c4a133154065781200c6e823a19": {
+   "entities": [
+    {
+     "name": "చంద్రకళ",
+     "type": "Person",
+     "english_name": "Chandrakala"
+    },
+    {
+     "name": "బయన్న",
+     "type": "Person",
+     "english_name": "Bayanna"
+    },
+    {
+     "name": "డాక్టర్ తలారి రంగయ్య",
+     "type": "Person",
+     "english_name": "Dr. Talari Rangayya"
+    },
+    {
+     "name": "సీఐ హరినాథ్",
+     "type": "Person",
+     "english_name": "CI Harinath"
+    },
+    {
+     "name": "గొల్ల మమత",
+     "type": "Person",
+     "english_name": "Gowra Mamata"
+    },
+    {
+     "name": "బోయ శ్రావణి",
+     "type": "Person",
+     "english_name": "Boya Sravani"
+    },
+    {
+     "name": "వడ్డే చంద్రకళ",
+     "type": "Person",
+     "english_name": "Vadda Chandrakala"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పోలీసు వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "కళ్యాణదుర్గం",
+     "type": "Place",
+     "english_name": "Kalyandurgam"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Women safety",
+     "type": "Issue",
+     "english_name": "Women safety"
+    },
+    {
+     "name": "టీడీపీ వారే పొట్టున పెట్టుకున్నారు",
+     "type": "Claim",
+     "english_name": "TDP killed our child"
+    },
+    {
+     "name": "చంద్రకళ కుటుంబానికి వైఎస్సార్సీపీ తరపున అండగా ఉంటాం",
+     "type": "Claim",
+     "english_name": "YSRCP will stand with Chandrakala's family"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బయన్న",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ వారే పొట్టున పెట్టుకున్నారు"
+    },
+    {
+     "source": "బయన్న",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ వారే పొట్టున పెట్టుకున్నారు",
+     "evidence": "టీడీపీ వారే పొట్టున పెట్టుకున్నారు"
+    },
+    {
+     "source": "డాక్టర్ తలారి రంగయ్య",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "నియోజకవర్గ వైఎస్సార్సీపీ సమన్వయకర్త"
+    },
+    {
+     "source": "డాక్టర్ తలారి రంగయ్య",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రకళ కుటుంబానికి వైఎస్సార్సీపీ తరపున అండగా ఉంటాం",
+     "evidence": "చంద్రకళ కుటుంబానికి వైఎస్సార్సీపీ తరపున అండగా ఉంటాం"
+    },
+    {
+     "source": "కళ్యాణదుర్గం",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "కళ్యాణదుర్గం నియోజకవర్గంలో"
+    },
+    {
+     "source": "పోలీసు వ్యవస్థ",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "రాష్ట్రంలో పోలీసు వ్యవస్థ బలంగా పనిచేయా"
+    }
+   ]
+  },
+  "24a047d74e4a6f010258f8e4428eb6be399036a9": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "చంద్రకళ",
+     "type": "Person",
+     "english_name": "Chandrakala"
+    },
+    {
+     "name": "రామాంజినేయులు",
+     "type": "Person",
+     "english_name": "Ramanjaneyulu"
+    },
+    {
+     "name": "కళ్యాణదుర్గం",
+     "type": "Place",
+     "english_name": "Kalyanadurgam"
+    },
+    {
+     "name": "వడ్డే కాలనీ",
+     "type": "Place",
+     "english_name": "Vaddé colony"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "డాక్టర్ తలారి రంగయ్య",
+     "type": "Person",
+     "english_name": "Dr. Talari Rangayya"
+    },
+    {
+     "name": "వైఎస్ జగన్మో",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "ముఖ్యమంత్రి సహాయ నిధి",
+     "type": "Scheme",
+     "english_name": "CM Relief Fund"
+    },
+    {
+     "name": "అమలినేని సురేంద్ర బాబు",
+     "type": "Person",
+     "english_name": "Amalineni Suresh Babu"
+    },
+    {
+     "name": "పోలీసు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "Women attacks",
+     "type": "Issue",
+     "english_name": "Women attacks"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రామాంజినేయులు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "స్థానిక టీడీపీ నాయకుడు రామాంజినేయులు"
+    },
+    {
+     "source": "డాక్టర్ తలారి రంగయ్య",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎ స్సార్సీపీ నియోజకవర్గ సమన్వయకర్త డాక్టర్ తలారి రంగయ్య"
+    },
+    {
+     "source": "వైఎస్ జగన్మో",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "మాజీ సీఎం, పార్టీ అధినేత వైఎస్ జగన్మో"
+    },
+    {
+     "source": "చంద్రకళ",
+     "relation": "ACCUSES",
+     "target": "రామాంజినేయులు",
+     "evidence": "రామాంజినేయులు ... దాడికి పాల్పడ్డారు"
+    },
+    {
+     "source": "అమలినేని సురేంద్ర బాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రకళ",
+     "evidence": "మీ పార్టీ అధికారంలోకి వచ్చినప్పుడు దరఖాస్తు చేసు కోండంటూ..' హేళన చేశారు."
+    }
+   ]
+  }
+ }
+}

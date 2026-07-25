@@ -1,0 +1,92 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b6315cb49313708d8002a1aca6cada0268f65679": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "బాబే",
+     "type": "Person",
+     "english_name": "Don Babu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "కేబినెట్",
+     "type": "Organization",
+     "english_name": "Cabinet"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "రామేశ్వరప్రసాద్ గుప్తా",
+     "type": "Person",
+     "english_name": "Rameshwar Prasad Gupta"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సీసీఐ",
+     "type": "Organization",
+     "english_name": "CCI"
+    },
+    {
+     "name": "ప్రభుత్వ మద్యం పాలసీ",
+     "type": "Scheme",
+     "english_name": "Government Liquor Policy"
+    },
+    {
+     "name": "మద్యం స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు కుతంత్రం"
+    }
+   ]
+  }
+ }
+}

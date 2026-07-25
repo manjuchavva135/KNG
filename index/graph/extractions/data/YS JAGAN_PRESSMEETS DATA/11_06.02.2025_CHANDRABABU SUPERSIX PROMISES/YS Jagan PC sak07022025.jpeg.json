@@ -1,0 +1,276 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "96f042f3ca421ea873b91594086f32249c370bfd": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "BOSCH",
+     "type": "Organization",
+     "english_name": "BOSCH"
+    },
+    {
+     "name": "గత వైఎస్సార్సీపీ ప్రభుత్వంలోనే అని గర్వంగా చెప్పగలుగుతున్నా.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు బటన్ నొక్కడం లేదు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "గత వైఎస్సార్సీపీ ప్రభుత్వంలోనే అని గర్వంగా చెప్పగలుగుతున్నా.",
+     "evidence": "జరిగిందంటే గత వైఎస్సార్సీపీ ప్రభుత్వంలోనే అని గర్వంగా చెప్పగలుగుతున్నా."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "ఒక్క సీటు ఉన్న టీడీపీకి తిరుపతి డిప్యూటీ మేయర్ పదవి అరాచకం కాదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్ ప్రామిసెస్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్"
+    }
+   ]
+  },
+  "57f9d96e54e70e1d81822394be559ef919d9ec0c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబే",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Vodi"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deepam"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deepam"
+    },
+    {
+     "name": "చేయూత",
+     "type": "Scheme",
+     "english_name": "Cheyitha"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero interest"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Aarogyasri"
+    },
+    {
+     "name": "వాహనమిత్ర",
+     "type": "Scheme",
+     "english_name": "Vaahanamitra"
+    },
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Netanna Nestham"
+    },
+    {
+     "name": "మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": "Matsyakara Bharosa"
+    },
+    {
+     "name": "కాపునేస్తం",
+     "type": "Scheme",
+     "english_name": "Kapu Nestham"
+    },
+    {
+     "name": "ఈజీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "EGC Nestham"
+    },
+    {
+     "name": "చేదోడు",
+     "type": "Scheme",
+     "english_name": "Chadodu"
+    },
+    {
+     "name": "తోడు",
+     "type": "Scheme",
+     "english_name": "Todu"
+    },
+    {
+     "name": "లా నేస్తం",
+     "type": "Scheme",
+     "english_name": "La Nestham"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": "DBT"
+    },
+    {
+     "name": "నీతి ఆయోగ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక విధ్వంసకారుడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక అరాచకాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక విధ్వంసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "లంచం లేని పాలన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "9 నెలల్లో రూ 1.45 లక్షల కోట్ల అప్పులు చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.1.45 లక్షల కోట్లు ఎవరి జేబుల్లోకి పోతున్నాయి?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చీటింగ్లో పీహెచ్డీ తీసుకున్న వ్యక్తి ఒక్క చంద్రబాబే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేను సంపద సృష్టించినట్లా? లేక వాటిని ప్రైవేట్కు కట్టబెడుతూ జేబులు నింపుకుంటున్న చంద్రబాబు సంపద సృష్టించినట్లా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేను పారదర్శకంగా ఇసుక, మద్యం విక్రయాలతో ప్రభుత్వానికి 2 లో ఆదాయం సమకూర్చిన నేను సంపద సృష్టించినట్లా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్య, వైద్యం, వ్యవసాయ రంగాలను మౌలిక వసతులతో బలోపేతం చేసి కోవిడ్లోనూ వృద్ధిని పరుగులు తీయించిన నేను విధ్వంసం సృష్టించినట్లా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.1.45 లక్షల కోట్ల రికార్డు అప్పలు చేసిన చంద్రబాబు ఆర్థిక విధ్వంసం సృష్టించినట్లా?",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

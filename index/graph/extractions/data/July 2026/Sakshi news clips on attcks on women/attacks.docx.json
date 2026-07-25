@@ -1,0 +1,401 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "80bedb03de38b1a0d57a7a20a9158d2f23652318": {
+   "entities": [
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": "Malagundamma"
+    },
+    {
+     "name": "భూ వివాదం",
+     "type": "Issue",
+     "english_name": "Land dispute"
+    },
+    {
+     "name": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన",
+     "type": "Claim",
+     "english_name": "Malagundamma was run over by a tractor and killed"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మాల గుండమ్మ",
+     "relation": "MAKES_CLAIM",
+     "target": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన",
+     "evidence": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన"
+    },
+    {
+     "source": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "భూ వివాదం",
+     "evidence": "భూ వివాదం నేపథ్యంలో దాడి చేసి ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన"
+    }
+   ]
+  },
+  "5bbb180e0f8e7511b90ae8cd4155b2f68c10d89d": {
+   "entities": [
+    {
+     "name": "కోటవురట్ల",
+     "type": "Place",
+     "english_name": "Kotavurttala"
+    },
+    {
+     "name": "వరలక్ష్మి",
+     "type": "Person",
+     "english_name": "Varalaxmi"
+    },
+    {
+     "name": "లక్ష్మి",
+     "type": "Person",
+     "english_name": "Lakshmi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "మధిర సహానా",
+     "type": "Person",
+     "english_name": "Madira Sahana"
+    },
+    {
+     "name": "రాగి నవీన్",
+     "type": "Person",
+     "english_name": "Ragi Naveen"
+    },
+    {
+     "name": "గౌతమి",
+     "type": "Person",
+     "english_name": "Gowthami"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": "Sirisha"
+    },
+    {
+     "name": "శాలిని",
+     "type": "Person",
+     "english_name": "Salini"
+    },
+    {
+     "name": "ఇంద్రజ",
+     "type": "Person",
+     "english_name": "Indraja"
+    },
+    {
+     "name": "రైల్వే కోడూరు",
+     "type": "Place",
+     "english_name": "Railway Koduru"
+    },
+    {
+     "name": "తెనాలి",
+     "type": "Place",
+     "english_name": "Tenali"
+    },
+    {
+     "name": "గుర్రంకొండ",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "కుందుర్పి",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "1ddd5b0505dc9660a65d33feae3284e9e837ce9c": {
+   "entities": [
+    {
+     "name": "బాధితురాలు",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "జనసేన ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Jan Sena MLA"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Jan Sena"
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": "Jan Sena leaders attacked with iron rods on the road"
+    },
+    {
+     "name": "చంద్రకళ",
+     "type": "Person",
+     "english_name": "Chandrakala"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Issue1",
+     "type": "Issue",
+     "english_name": "Death of Chandrakala after alleged harassment"
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": "Family alleges TDP leader's harassment led to suicide"
+    },
+    {
+     "name": "కుటుంబ సభ్యులు",
+     "type": "Person",
+     "english_name": "Family members"
+    },
+    {
+     "name": "కళ్యాణదుర్గం",
+     "type": "Place",
+     "english_name": "Kalyandurgam"
+    },
+    {
+     "name": "ఉప్మాక",
+     "type": "Person",
+     "english_name": "Upmaaka"
+    },
+    {
+     "name": "పెందుర్తి",
+     "type": "Place",
+     "english_name": "Pendurthi"
+    },
+    {
+     "name": "దమయంతి",
+     "type": "Person",
+     "english_name": "Damayanti"
+    },
+    {
+     "name": "కోటబొమ్మాళి",
+     "type": "Place",
+     "english_name": "Kotabommali"
+    },
+    {
+     "name": "టీడీపీ వర్గీయులు",
+     "type": "Party",
+     "english_name": "TDP cadre"
+    },
+    {
+     "name": "ఉప్పు చెంగమ్మ",
+     "type": "Person",
+     "english_name": "Uppu Chengam"
+    },
+    {
+     "name": "వెంకటాచలం",
+     "type": "Place",
+     "english_name": "Venkatachalam"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": "Victim filed police complaint seeking justice"
+    },
+    {
+     "name": "Claim4",
+     "type": "Claim",
+     "english_name": "Uppu Chengam attacked with iron rod for questioning demolition"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాధితురాలు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim1",
+     "evidence": "జనసేన నాయకులు నడిరోడ్డుపై ఇనుపరాడ్లతో దాడి చేసినట్లు కథనం తెలిపింది."
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim3",
+     "evidence": "ఆమె పోలీసులకు ఫిర్యాదు చేసి న్యాయం కోరింది."
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "ACCUSES",
+     "target": "జనసేన",
+     "evidence": "జనసేన నాయకులు నడిరోడ్డుపై ఇనుపరాడ్లతో దాడి చేసినట్లు కథనం తెలిపింది."
+    },
+    {
+     "source": "కుటుంబ సభ్యులు",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "కుటుంబ సభ్యులు ఆరోపించారు"
+    },
+    {
+     "source": "ఉప్పు చెంగమ్మ",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim4",
+     "evidence": "ఆమె తలకు తీవ్ర గాయాలు కావడంతో ఆస్పత్రిలో చికిత్స పొందింది."
+    }
+   ]
+  },
+  "a98fba4733350309c5308a854c0684fa94fe9064": {
+   "entities": [
+    {
+     "name": "ఉప్పు చెంగమ్మ",
+     "type": "Person",
+     "english_name": "Uppu Chengemma"
+    },
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": "Mala Gundamma"
+    },
+    {
+     "name": "అమరమ్మ",
+     "type": "Person",
+     "english_name": "Amara"
+    },
+    {
+     "name": "రహమత్ బీ",
+     "type": "Person",
+     "english_name": "Rahmath Bee"
+    },
+    {
+     "name": "కలసింబీ",
+     "type": "Person",
+     "english_name": "Kalasumbi"
+    },
+    {
+     "name": "అమనాబీ",
+     "type": "Person",
+     "english_name": "Amanabi"
+    },
+    {
+     "name": "గుండమ్మ",
+     "type": "Person",
+     "english_name": "Gundamma"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "టీడీపీ కార్యకర్తలు",
+     "type": "Organization",
+     "english_name": "TDP activists"
+    },
+    {
+     "name": "టీడీపీ నేత కుటుంబ సభ్యులు",
+     "type": "Organization",
+     "english_name": "TDP leader's family members"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ఎస్పీ",
+     "type": "Organization",
+     "english_name": "Superintendent of Police"
+    },
+    {
+     "name": "వెంకటాచలం",
+     "type": "Place",
+     "english_name": "Venkataachalam"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "పుంగనూరు",
+     "type": "Place",
+     "english_name": "Punganur"
+    },
+    {
+     "name": "ఆత్మకూరు",
+     "type": "Place",
+     "english_name": "Atmakur"
+    },
+    {
+     "name": "శ్రీకాకుళం జిల్లా",
+     "type": "Place",
+     "english_name": "Srikakulam district"
+    },
+    {
+     "name": "నెల్లూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Nellore district"
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "దాడి",
+     "type": "Issue",
+     "english_name": "Attack"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఉప్పు చెంగమ్మ",
+     "relation": "ACCUSES",
+     "target": "ఎస్పీ",
+     "evidence": "ఎస్పీని ఆశ్రయిస్తామని తెలిపారు."
+    },
+    {
+     "source": "అమరమ్మ",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కార్యకర్తలు",
+     "evidence": "టీడీపీ కార్యకర్తలు దాడి చేసి తీవ్రంగా కొట్టారు."
+    },
+    {
+     "source": "రహమత్ బీ",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కార్యకర్తలు",
+     "evidence": "గ్రామం విడిచి వెళ్లిపోవాలని హెచ్చరించినట్లు బాధితులు తెలిపారు."
+    },
+    {
+     "source": "కలసింబీ",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కార్యకర్తలు",
+     "evidence": "గ్రామం విడిచి వెళ్లిపోవాలని హెచ్చరించినట్లు బాధితులు తెలిపారు."
+    },
+    {
+     "source": "అమనాబీ",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కార్యకర్తలు",
+     "evidence": "గ్రామం విడిచి వెళ్లిపోవాలని హెచ్చరించినట్లు బాధితులు తెలిపారు."
+    },
+    {
+     "source": "గుండమ్మ",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేపట్టారు."
+    }
+   ]
+  }
+ }
+}

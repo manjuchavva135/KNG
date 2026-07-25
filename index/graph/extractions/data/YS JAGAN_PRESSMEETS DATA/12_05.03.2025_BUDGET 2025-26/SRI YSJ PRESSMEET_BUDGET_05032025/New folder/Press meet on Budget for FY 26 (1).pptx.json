@@ -1,0 +1,868 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8835f1f18dadb7cb224513cad6091104f82f3ef8": {
+   "entities": [
+    {
+     "name": "Dipam scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "PM Ujwal Yojana",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Budget documents",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PPAC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOPNG",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "01a3dc0d2c343696ece91b059c33f305b0060045": {
+   "entities": [
+    {
+     "name": "MSME",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Socio Economic Survey",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The last row in this table was introduced merely to show a huge increase in MSME employment during 2024-25.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government is taking credit for creation of employment of only 4,00,000 and that too of only potential.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "3ec9e1bb7271a30b6e27d902addebf8159895f80": {
+   "entities": [],
+   "relations": []
+  },
+  "4293604c3d54d9f194c1ea6477bbc2221c8ba440": {
+   "entities": [
+    {
+     "name": "Financial implications of Super Seven schemes",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Total amount required is Rs. 79,867 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "amount budgeted for Financial year 2025-26 is only Rs. 17,179",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Super Seven schemes",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Financial implications of Super Seven schemes",
+     "evidence": "Financial implications of Super Seven schemes"
+    },
+    {
+     "source": "Total amount required is Rs. 79,867 crores",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Financial implications of Super Seven schemes",
+     "evidence": "Total amount required is Rs. 79,867 crores"
+    },
+    {
+     "source": "amount budgeted for Financial year 2025-26 is only Rs. 17,179",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Financial implications of Super Seven schemes",
+     "evidence": "amount budgeted for Financial year 2025-26 is only Rs. 17,179"
+    }
+   ]
+  },
+  "ca9224ca14081c5bd7e0048444591af620fe163d": {
+   "entities": [],
+   "relations": []
+  },
+  "b1bc24428c3e9a4cd6edc5485ecbefe100d8a5b7": {
+   "entities": [
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rythu Bharosa Programme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Annadata Sukhibhava scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Subsidy of Rs. 20,000 over and above PM Kisan amount",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Allocation of Rs. 6,300 crores for Annadata Sukhibhava",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "98766c2ca4546d5a9a8748467ea0a7aef78af25c": {
+   "entities": [
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "UDISE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Thallikivandanam allocation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Actual allocation is Rs. 8,278 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Budget allocation shown is Rs. 9,407 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Required amount is Rs. 13,112 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Thallikivandanam",
+     "evidence": "The promise of TDP alliance was that, the benefits under scheme Thallikivandanam, would be avaialabless to every child."
+    },
+    {
+     "source": "Thallikivandanam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Thallikivandanam allocation",
+     "evidence": "Thallikivandanam allocation"
+    }
+   ]
+  },
+  "0b071d30076326ce2b71d410a5c961f5272b3acd": {
+   "entities": [
+    {
+     "name": "Vaddileni Runalu",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Self Help Groups",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amount allocated for Vaddileni Runalu for SHG is Rs. 950 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount expended during 2024-25 is zero",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount budgeted for this head for FY 2024-25 is only Rs. 100 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d5d72e944f54e82da083c68a6b84df46ad744b3e": {
+   "entities": [
+    {
+     "name": "TDP Govt",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "distribution utilities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "generators",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pending payments",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "b074d820c16d8cac4db413eded63f4f091d44b0d": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume VI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume V",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volumes II and III/5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume IV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Debt",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e017709249077451d5ac3ca4b25fbf7a4f5e8988": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "budget documents",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State’s revenues are expected to growth at 9.24% in FY 2024-25",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "growth in first 10 months is -0.01%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "likely revenues during this year would touch Rs. 93,500",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "overestimation of around Rs. 8,000 crores in the revised estimates",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "0369344638bd6f593a084e24c535dde8aad691f7": {
+   "entities": [
+    {
+     "name": "AP budget documents",
+     "type": "Organization",
+     "english_name": "AP budget documents"
+    },
+    {
+     "name": "CAG Accounts",
+     "type": "Organization",
+     "english_name": "CAG Accounts"
+    },
+    {
+     "name": "Debt and guarantees",
+     "type": "Issue",
+     "english_name": "Debt and guarantees"
+    },
+    {
+     "name": "Aggregate of Government debt and Guaranteed debt as of 31st March, 2024 is Rs. 6,46,531 crores",
+     "type": "Claim",
+     "english_name": "Aggregate of Government debt and Guaranteed debt as of 31st March, 2024 is Rs. 6,46,531 crores"
+    },
+    {
+     "name": "Aggregate of Government debt and Guaranteed debt as of 31st March, 2019 is Rs. 3,13,018 crores",
+     "type": "Claim",
+     "english_name": "Aggregate of Government debt and Guaranteed debt as of 31st March, 2019 is Rs. 3,13,018 crores"
+    }
+   ],
+   "relations": []
+  },
+  "5dde2d61284195d1a381e6d124077582aaac9109": {
+   "entities": [
+    {
+     "name": "current dispensation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "the current dispensation deceives the people",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government projects that own revenues grow at 9.56%, capital expenditure grows at 3.18% and that the GSDP grows at 12.94%",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "07fe78c90448977334019edc5906fddd1ab746f4": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Covid-19 pandemic",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "election commitments",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "programmes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "the Finance Minister suggests that given the greater share of salaries and pensions in the State’s own revenues, the State Government is unable to implement the programmes.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "the Finance Minister tries to mislead the people into believing that this resulted from the policies of the previous YSRCP Government.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "the truth is, even in 2019-20, the share was way higher as 84.71%, when compared with the first year of the TDP alliance Government.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "the then Government did not find excuses to implement the election commitments.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Finance Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "the Finance Minister suggests that given the greater share of salaries and pensions in the State’s own revenues, the State Government is unable to implement the programmes.",
+     "evidence": "the Finance Minister suggests that given the greater share of salaries and pensions in the State’s own revenues, the State Government is unable to implement the programmes."
+    },
+    {
+     "source": "Finance Minister",
+     "relation": "ACCUSES",
+     "target": "YSRCP Government",
+     "evidence": "the Finance Minister tries to mislead the people into believing that this resulted from the policies of the previous YSRCP Government."
+    },
+    {
+     "source": "Finance Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "the truth is, even in 2019-20, the share was way higher as 84.71%, when compared with the first year of the TDP alliance Government.",
+     "evidence": "the truth is, even in 2019-20, the share was way higher as 84.71%, when compared with the first year of the TDP alliance Government."
+    },
+    {
+     "source": "Finance Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "the then Government did not find excuses to implement the election commitments.",
+     "evidence": "the then Government did not find excuses to implement the election commitments."
+    }
+   ]
+  },
+  "652b67c67a1da5f6baa5c72fc23f1e5ae69c1005": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "The budget for FY 2025-26 estimates a growth of 25.63% in State’s own revenues in year FY 26.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Going by the 10 month performance during FY 25, one can estimate the State’s own revenues during FY 25 would be able to reach Rs. 93,500 crores by the year end, with great difficulty.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "In FY 2025-26, it is estimated that Rs. 1,28,126 crores would be received as own revenues. That is a growth of 37% or around Rs. 35,000 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "If this increase in revenues is not achieved, then to that extent, Government will have to borrow or cut down expenditure.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "The budget for FY 2025-26 estimates a growth of 25.63% in State’s own revenues in year FY 26.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "The budget for FY 2025-26 estimates a growth of 25.63% in State’s own revenues in year FY 26."
+    },
+    {
+     "source": "Going by the 10 month performance during FY 25, one can estimate the State’s own revenues during FY 25 would be able to reach Rs. 93,500 crores by the year end, with great difficulty.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Going by the 10 month performance during FY 25, one can estimate the State’s own revenues during FY 25 would be able to reach Rs. 93,500 crores by the year end, with great difficulty."
+    },
+    {
+     "source": "In FY 2025-26, it is estimated that Rs. 1,28,126 crores would be received as own revenues. That is a growth of 37% or around Rs. 35,000 crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "In FY 2025-26, it is estimated that Rs. 1,28,126 crores would be received as own revenues. That is a growth of 37% or around Rs. 35,000 crores."
+    },
+    {
+     "source": "If this increase in revenues is not achieved, then to that extent, Government will have to borrow or cut down expenditure.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "If this increase in revenues is not achieved, then to that extent, Government will have to borrow or cut down expenditure."
+    }
+   ]
+  },
+  "a496afeee1a51e1c3697de146fd933c0f2f4d12c": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tax burden",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Land revenue discrepancy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Miscellaneous General Services high estimate",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Some of the tax revenue categories are estimating to show a growth of more than 20% in FY 2025-26",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Is the Government expecting to make taxes very burdensome as it is unable to generate wealth?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "With respect to Land revenue a huge amount of Rs. 1,341 crores is shown this year as a revised estimate.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The revenues under this head during the first 10 months is only Rs. 196 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "What huge burden would the Government levy on the people in this March month?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "An amount of Rs. 1,321 crores is shown as ‘Other Receipts’ under land revenue",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "In Non-tax revenues, the receipts under the head ‘Miscellaneous General Services’ has historically been very low at around Rs. 200 to Rs. 300 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "However, the amount budgeted to be received under this head during FY 2025-26 is Rs. 7,916 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "This is unimaginably high.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Is this part of the State Government’s plan to deceive the people or is there any agenda of the Government to burden the people with some new strategy?",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Some of the tax revenue categories are estimating to show a growth of more than 20% in FY 2025-26",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tax burden",
+     "evidence": "Some of the tax revenue categories are estimating to show a growth of more than 20% in FY 2025-26"
+    },
+    {
+     "source": "Is the Government expecting to make taxes very burdensome as it is unable to generate wealth?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tax burden",
+     "evidence": "Is the Government expecting to make taxes very burdensome as it is unable to generate wealth?"
+    },
+    {
+     "source": "With respect to Land revenue a huge amount of Rs. 1,341 crores is shown this year as a revised estimate.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land revenue discrepancy",
+     "evidence": "With respect to Land revenue a huge amount of Rs. 1,341 crores is shown this year as a revised estimate."
+    },
+    {
+     "source": "The revenues under this head during the first 10 months is only Rs. 196 crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land revenue discrepancy",
+     "evidence": "The revenues under this head during the first 10 months is only Rs. 196 crores."
+    },
+    {
+     "source": "What huge burden would the Government levy on the people in this March month?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land revenue discrepancy",
+     "evidence": "What huge burden would the Government levy on the people in this March month?"
+    },
+    {
+     "source": "An amount of Rs. 1,321 crores is shown as ‘Other Receipts’ under land revenue",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land revenue discrepancy",
+     "evidence": "An amount of Rs. 1,321 crores is shown as ‘Other Receipts’ under land revenue"
+    },
+    {
+     "source": "In Non-tax revenues, the receipts under the head ‘Miscellaneous General Services’ has historically been very low at around Rs. 200 to Rs. 300 crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Miscellaneous General Services high estimate",
+     "evidence": "In Non-tax revenues, the receipts under the head ‘Miscellaneous General Services’ has historically been very low at around Rs. 200 to Rs. 300 crores."
+    },
+    {
+     "source": "However, the amount budgeted to be received under this head during FY 2025-26 is Rs. 7,916 crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Miscellaneous General Services high estimate",
+     "evidence": "However, the amount budgeted to be received under this head during FY 2025-26 is Rs. 7,916 crores."
+    },
+    {
+     "source": "This is unimaginably high.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Miscellaneous General Services high estimate",
+     "evidence": "This is unimaginably high."
+    },
+    {
+     "source": "Is this part of the State Government’s plan to deceive the people or is there any agenda of the Government to burden the people with some new strategy?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Miscellaneous General Services high estimate",
+     "evidence": "Is this part of the State Government’s plan to deceive the people or is there any agenda of the Government to burden the people with some new strategy?"
+    },
+    {
+     "source": "Budget 2025-26",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tax burden",
+     "evidence": "Budget 2025-26"
+    }
+   ]
+  },
+  "043bd49a004ab23a31075040194cf7acf8110ba8": {
+   "entities": [
+    {
+     "name": "allocation for capital city",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "self sustaining one",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Is the Government’s fact check on the matter, wrong (or) is the demand for grants made as per the Constitution of India, wrong?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Capital City Development Allocation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Legislative Assembly",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Municipal Administration and Urban Development",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "finance minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "finance minister",
+     "relation": "MAKES_CLAIM",
+     "target": "allocation for capital city",
+     "evidence": "In the demand for grants placed before the Legislative Assembly for Municipal Administration and Urban Development, an amount of Rs. 6,000 crores was shown as an allocation for Amaravati Capital City Development."
+    },
+    {
+     "source": "finance minister",
+     "relation": "MAKES_CLAIM",
+     "target": "self sustaining one",
+     "evidence": "The budget speech of the finance minister describes the project as a self sustaining one."
+    },
+    {
+     "source": "finance minister",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners",
+     "evidence": "they had once again tried to blatantly mislead the public by conveying that this Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners."
+    },
+    {
+     "source": "finance minister",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531",
+     "evidence": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531."
+    },
+    {
+     "source": "finance minister",
+     "relation": "MAKES_CLAIM",
+     "target": "amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532",
+     "evidence": "The amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532"
+    },
+    {
+     "source": "finance minister",
+     "relation": "MAKES_CLAIM",
+     "target": "Is the Government’s fact check on the matter, wrong (or) is the demand for grants made as per the Constitution of India, wrong?",
+     "evidence": "Is the Government’s fact check on the matter, wrong (or) is the demand for grants made as per the Constitution of India, wrong?"
+    },
+    {
+     "source": "finance minister",
+     "relation": "ACCUSES",
+     "target": "Government",
+     "evidence": "the Government as a logic defying proposition and to address this, they had once again tried to blatantly mislead the public by conveying that this Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners."
+    },
+    {
+     "source": "Legislative Assembly",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati Capital City",
+     "evidence": "In the demand for grants placed before the Legislative Assembly for Municipal Administration and Urban Development, an amount of Rs. 6,000 crores was shown as an allocation for Amaravati Capital City Development."
+    },
+    {
+     "source": "Municipal Administration and Urban Development",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati Capital City",
+     "evidence": "In the demand for grants placed before the Legislative Assembly for Municipal Administration and Urban Development, an amount of Rs. 6,000 crores was shown as an allocation for Amaravati Capital City Development."
+    },
+    {
+     "source": "allocation for capital city",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital City Development Allocation",
+     "evidence": "allocation for capital city"
+    },
+    {
+     "source": "self sustaining one",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital City Development Allocation",
+     "evidence": "self sustaining one"
+    },
+    {
+     "source": "Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital City Development Allocation",
+     "evidence": "Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners"
+    },
+    {
+     "source": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital City Development Allocation",
+     "evidence": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531"
+    },
+    {
+     "source": "amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital City Development Allocation",
+     "evidence": "amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532"
+    },
+    {
+     "source": "Is the Government’s fact check on the matter, wrong (or) is the demand for grants made as per the Constitution of India, wrong?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital City Development Allocation",
+     "evidence": "Is the Government’s fact check on the matter, wrong (or) is the demand for grants made as per the Constitution of India, wrong?"
+    }
+   ]
+  }
+ }
+}

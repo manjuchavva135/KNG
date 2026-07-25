@@ -1,0 +1,251 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ffa2a8518666945f2035278785c9d12d5ed957d2": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Organization",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "చంద్రబాబు 143 హామీలు అమలు చేసేశానని చెబుతున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఇచ్చిన బాండ్లను చూపి ప్రభుత్వాన్ని నిలదీయండి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి కింద నెలకు రూ.1,500 చొప్పున ఏడాదికి రూ.18 వేలు ఇస్తామన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పచ్చి అబద్ధాలు చెబుతున్నాడు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు 143 హామీలు అమలు చేసేశానని చెబుతున్నాడు",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవన్ సహా 143 హామీలు అమలు చేసేశానని చెబుతున్నాడు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఇచ్చిన బాండ్లను చూపి ప్రభుత్వాన్ని నిలదీయండి",
+     "evidence": "చంద్రబాబు ఇచ్చిన బాండ్లను చూపి ప్రభుత్వాన్ని నిలదీయండి"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆడబిడ్డ నిధి కింద నెలకు రూ.1,500 చొప్పున ఏడాదికి రూ.18 వేలు ఇస్తామన్నారు",
+     "evidence": "ఆడబిడ్డ నిధి కింద నెలకు రూ.1,500 చొప్పున ఏడాదికి రూ.18 వేలు ఇస్తామన్నారు"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "LOCATED_IN",
+     "target": "తాడేపల్లి",
+     "evidence": "తాడేపల్లిలోని వైఎస్సార్సీపీ కేంద్ర కార్యాలయంలో"
+    }
+   ]
+  },
+  "5a3898e3839c1af4d57ae71860393c5f79321ead": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పీ-4",
+     "type": "Scheme",
+     "english_name": "P-4"
+    },
+    {
+     "name": "Manifesto",
+     "type": "Issue",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "తొలి ఏడాది ఎగ్గొట్టాక.. ఇప్పుడు పీ-4 జపం చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": "After cheating the first year.. now he is chanting P-4."
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "తొలి ఏడాది ఎగ్గొట్టాక.. ఇప్పుడు పీ-4 జపం చేస్తున్నాడు.",
+     "evidence": "తొలి ఏడాది ఎగ్గొట్టాక.. ఇప్పుడు పీ-4 జపం చేస్తున్నాడు."
+    },
+    {
+     "source": "పీ-4",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Manifesto",
+     "evidence": "పీ-4 జపం"
+    }
+   ]
+  },
+  "76e907422ef6917c7c4b19f34e9f1efe647b7b6f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అమూల్",
+     "type": "Organization",
+     "english_name": "Amul"
+    },
+    {
+     "name": "బెవరేజస్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Beverages Corporation"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పప్పుల ధరలు పెరగడం",
+     "type": "Issue",
+     "english_name": "Price rise of pulses"
+    },
+    {
+     "name": "ఉద్యోగాల కోత",
+     "type": "Issue",
+     "english_name": "Job cuts"
+    },
+    {
+     "name": "పీఆర్సీ రద్దు",
+     "type": "Issue",
+     "english_name": "PRC cancellation"
+    },
+    {
+     "name": "పెన్షన్ స్కీమ్",
+     "type": "Issue",
+     "english_name": "Pension scheme"
+    },
+    {
+     "name": "అమూల్ను చంపేసి పాలరేట్ల బాదుడు",
+     "type": "Claim",
+     "english_name": "Amul being killed and milk price hike"
+    },
+    {
+     "name": "3 లక్షలకుపైగా ఉద్యోగాలు తీసేశాడు",
+     "type": "Claim",
+     "english_name": "Cut over 3 lakh jobs"
+    },
+    {
+     "name": "2.60 లక్షల మంది వాలంటీర్లు, 20 వేల మంది రేషన్ వాహనాల ఆపరేటర్లు, హెల్పర్ల ఉద్యోగాలు హుష్ కాకి",
+     "type": "Claim",
+     "english_name": "Volunteers and ration vehicle operators jobs eliminated"
+    },
+    {
+     "name": "బెవరేజస్ కార్పొరేషన్లో పని చేస్తున్న 15 వేల మంది అవుట్ సోర్సింగ్ సిబ్బంది ఉద్యోగాలు పోయాయి",
+     "type": "Claim",
+     "english_name": "15,000 outsourcing staff jobs lost in Beverages Corporation"
+    },
+    {
+     "name": "ఉన్న పీఆర్సీని రద్దు చేశాడు",
+     "type": "Claim",
+     "english_name": "Cancelled existing PRC"
+    },
+    {
+     "name": "రూ.20 వేల కోట్ల బకాయి",
+     "type": "Claim",
+     "english_name": "Rs 20,000 crore dues"
+    },
+    {
+     "name": "కొత్త పీఆర్సీ వేయలేదు",
+     "type": "Claim",
+     "english_name": "Did not implement new PRC"
+    },
+    {
+     "name": "మూడు డీఏలు పెండింగ్ పెట్టాడు",
+     "type": "Claim",
+     "english_name": "Three DA pending"
+    },
+    {
+     "name": "ఓపీఎస్ తీసుకుంటా అన్నాడు",
+     "type": "Claim",
+     "english_name": "Will take OPS"
+    },
+    {
+     "name": "తోకలు కత్తిరిస్తా.. భూ స్థాపితం చేస్తా అంటున్నాడు",
+     "type": "Claim",
+     "english_name": "Will cut tails and bury"
+    },
+    {
+     "name": "ప్రజలకు తానిచ్చిన వాగ్దానాలను ఎగవేయడానికి",
+     "type": "Claim",
+     "english_name": "Will betray promises"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అమూల్",
+     "evidence": "అమూల్ను చంపేసి పాలరేట్ల బాదుడు"
+    }
+   ]
+  }
+ }
+}

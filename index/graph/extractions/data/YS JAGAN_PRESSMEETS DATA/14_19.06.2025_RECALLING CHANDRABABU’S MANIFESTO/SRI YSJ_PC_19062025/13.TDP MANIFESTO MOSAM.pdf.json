@@ -1,0 +1,200 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7a5aa0f802eaff4b3b088724a7f5a23f930be00b": {
+   "entities": [
+    {
+     "name": "MEHARAJ BEGAM SHAIK",
+     "type": "Person",
+     "english_name": "Meharaj Begam Shaik"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "భవిష్యత్తుకి గ్యారంటీ",
+     "type": "Scheme",
+     "english_name": "Future Guarantee"
+    },
+    {
+     "name": "Manifesto",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తుకి గ్యారంటీ",
+     "evidence": "భవిష్యత్తుకి గ్యారంటీ"
+    },
+    {
+     "source": "MEHARAJ BEGAM SHAIK",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "Jai TDP"
+    }
+   ]
+  },
+  "2717c7501564eb672ff767a248626ac22a0cec94": {
+   "entities": [
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "TDP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Telugu Rajya Sarkar",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Bhavshyatuku Guarantee Card",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "NTRLO బాబు మ్యూరిట్ - GO భవిష్యత్తుకు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నేను... మన రాష్ట్ర ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని త్రికరణశుద్ధితో ప్రమాణం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Bhavshyatuku Guarantee Card",
+     "evidence": "చంద్రబాబు నాయుడు అనే నేను..."
+    },
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "నేను... మన రాష్ట్ర ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని త్రికరణశుద్ధితో ప్రమాణం",
+     "evidence": "నేను... మన రాష్ట్ర ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని త్రికరణశుద్ధితో ప్రమాణం"
+    }
+   ]
+  },
+  "e7eaf453fe95901d9c1a62211c4a5e5d44dd2c65": {
+   "entities": [
+    {
+     "name": "MEHARAJ BEGAM SHAIK",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "RAJAMPET",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మహాశక్తి",
+     "type": "Scheme",
+     "english_name": "Mahashakti"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "అన్నదాత",
+     "type": "Scheme",
+     "english_name": "Annadata"
+    },
+    {
+     "name": "యువగళం",
+     "type": "Scheme",
+     "english_name": "YuvaGalam"
+    },
+    {
+     "name": "దీపం",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "free bus travel scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Mahashakti provides 3 free gas cylinders per family per year under the Deepam scheme.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Mahashakti provides free bus travel for women.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మహాశక్తి",
+     "evidence": "CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వందనం",
+     "evidence": "CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత",
+     "evidence": "CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువగళం",
+     "evidence": "CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దీపం",
+     "evidence": "CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "free bus travel scheme",
+     "evidence": "CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "Mahashakti provides 3 free gas cylinders per family per year under the Deepam scheme.",
+     "evidence": "మహాశక్తి : Under the 'Deepam' scheme, 3 gas cylinders per family per year free."
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "Mahashakti provides free bus travel for women.",
+     "evidence": "మహాశక్తి : Under the 'free bus travel' scheme, we will provide ticket-less travel for all women in local buses."
+    }
+   ]
+  }
+ }
+}

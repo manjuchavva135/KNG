@@ -1,0 +1,166 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "655718d46fa59b7b5d17b1f3838a894902b1e241": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Kairindreddy",
+     "type": "Person",
+     "english_name": "Kairindreddy"
+    },
+    {
+     "name": "Nallaparthi Prasanna Kumar Reddy",
+     "type": "Person",
+     "english_name": "Nallaparthi Prasanna Kumar Reddy"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Organization",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TDP",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "Krishna",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "Anantapuram",
+     "type": "Place",
+     "english_name": "Anantapuram"
+    },
+    {
+     "name": "Tadivri",
+     "type": "Place",
+     "english_name": "Tadivri"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Super Seven",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "Attack on Uppala Harika",
+     "type": "Issue",
+     "english_name": "Attack on Uppala Harika"
+    },
+    {
+     "name": "False Cases against YSRCP",
+     "type": "Issue",
+     "english_name": "False Cases against YSRCP"
+    },
+    {
+     "name": "Chandrababu Manifesto",
+     "type": "Issue",
+     "english_name": "Chandrababu Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "ఎన్నికల్లో ఇచ్చిన సూపర్ సిక్స్"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Seven",
+     "evidence": "ఎన్నికల్లో ఇచ్చిన సూపర్ సెవెన్"
+    }
+   ]
+  },
+  "2a05d0591d09f32b034e3a3a5bda4ba34abb914b": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Galla Foods",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీని ఫుడ్స్",
+     "type": "Organization",
+     "english_name": "Srinivasa Foods"
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kumaraswamy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "Galla Foods",
+     "evidence": "చంద్రబాబు తనకు సంబంధించిన బినామీలు.. గల్లా ఫుడ్స్, శ్రీని ఫుడ్స్ వంటి వాటికి మేలు చేసేందుకే ఇదంతా చేశారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "శ్రీని ఫుడ్స్",
+     "evidence": "చంద్రబాబు తనకు సంబంధించిన బినామీలు.. గల్లా ఫుడ్స్, శ్రీని ఫుడ్స్ వంటి వాటికి మేలు చేసేందుకే ఇదంతా చేశారు."
+    }
+   ]
+  }
+ }
+}

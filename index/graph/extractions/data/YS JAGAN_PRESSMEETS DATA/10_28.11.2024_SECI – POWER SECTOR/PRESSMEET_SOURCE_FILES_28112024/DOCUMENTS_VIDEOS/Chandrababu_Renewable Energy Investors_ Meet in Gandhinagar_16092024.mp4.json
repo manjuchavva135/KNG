@@ -1,0 +1,173 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1faa3b885ec8d6f6f66826081ba43179aa7310df": {
+   "entities": [
+    {
+     "name": "Piyush Goyal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "speaker",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PM Suryagarb",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Kusum",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Future green energy rate, solar energy rate will come down to ₹1.50 paisa.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Almost all ₹1.99 paisa in Gujarat has come at one stage.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "India's target is 637 gigawatts.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh 45 potential.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "AP targeting 3 gigawatt solar rooftop development under PM Suryagarb.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Kusum India 35 giga GW, Andhra Pradesh 9 gigawatt potential.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "We are planning up to 2030 3.7.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "All your targets we are prepared to achieve.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "At least I am taking your target 30% of the country's target, your vision.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "We'll go for saturation mode.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "speaker",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "PM Suryagarb",
+     "evidence": "AP targeting 3 gigawatt solar rooftop development under PM Suryagarb."
+    },
+    {
+     "source": "speaker",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Kusum",
+     "evidence": "Kusum India 35 giga GW, Andhra Pradesh 9 gigawatt potential."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "Future green energy rate, solar energy rate will come down to ₹1.50 paisa.",
+     "evidence": "Future green energy rate, solar energy rate will come down to ₹1.50 paisa."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "Almost all ₹1.99 paisa in Gujarat has come at one stage.",
+     "evidence": "Almost all ₹1.99 paisa in Gujarat has come at one stage."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "India's target is 637 gigawatts.",
+     "evidence": "India's target is 637 gigawatts."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "Andhra Pradesh 45 potential.",
+     "evidence": "Andhra Pradesh 45 potential."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "AP targeting 3 gigawatt solar rooftop development under PM Suryagarb.",
+     "evidence": "AP targeting 3 gigawatt solar rooftop development under PM Suryagarb."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "Kusum India 35 giga GW, Andhra Pradesh 9 gigawatt potential.",
+     "evidence": "Kusum India 35 giga GW, Andhra Pradesh 9 gigawatt potential."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "We are planning up to 2030 3.7.",
+     "evidence": "We are planning up to 2030 3.7."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "All your targets we are prepared to achieve.",
+     "evidence": "All your targets we are prepared to achieve."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "At least I am taking your target 30% of the country's target, your vision.",
+     "evidence": "At least I am taking your target 30% of the country's target, your vision."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "We'll go for saturation mode.",
+     "evidence": "We'll go for saturation mode."
+    }
+   ]
+  }
+ }
+}

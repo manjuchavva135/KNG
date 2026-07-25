@@ -1,0 +1,129 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6aa60f90689eeebf6c52fb0181358cb3ee41ee5a": {
+   "entities": [
+    {
+     "name": "పల్నాడు జిల్లా పోలీసు",
+     "type": "Organization",
+     "english_name": "Palnadu district police"
+    },
+    {
+     "name": "పల్నాడు",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "నరసరావుపేట",
+     "type": "Place",
+     "english_name": "Narsaraopet"
+    },
+    {
+     "name": "వెల్దుర్తి మండలం",
+     "type": "Place",
+     "english_name": "Veldurthi mandal"
+    },
+    {
+     "name": "బోధిల వీడు",
+     "type": "Place",
+     "english_name": "Bodilividu"
+    },
+    {
+     "name": "గుండ్లపాడు",
+     "type": "Place",
+     "english_name": "Gundlapadu"
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "జవిశెట్టి వెంకటేశ్వర్లు",
+     "type": "Person",
+     "english_name": "Javishetti Venkateswarlu"
+    },
+    {
+     "name": "కోటేశ్వరాలు",
+     "type": "Person",
+     "english_name": "Kotheshwaralu"
+    },
+    {
+     "name": "జవిశెట్టి కోటేశ్వరాలు",
+     "type": "Person",
+     "english_name": "Javishetti Kotheshwaralu"
+    },
+    {
+     "name": "కాంచి శ్రీనివాస రావు",
+     "type": "Person",
+     "english_name": "Kanchi Srinivasa Rao"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆధిపత్య పోరు",
+     "type": "Issue",
+     "english_name": "Dominance struggle"
+    },
+    {
+     "name": "హత్యలు ఆధిపత్య పోరు మరియు రాబోయే పంచాయతీ ఎన్నికల వల్ల జరిగాయి",
+     "type": "Claim",
+     "english_name": "The murders were committed due to dominance struggle and upcoming panchayat elections."
+    }
+   ],
+   "relations": [
+    {
+     "source": "జవిశెట్టి వెంకటేశ్వర్లు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి",
+     "evidence": "ఇద్దరు టిడిపి పార్టీకి చెందినవారు"
+    },
+    {
+     "source": "కోటేశ్వరాలు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి",
+     "evidence": "ఇద్దరు టిడిపి పార్టీకి చెందినవారు"
+    },
+    {
+     "source": "జవిశెట్టి కోటేశ్వరాలు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి",
+     "evidence": "ఇద్దరు టిడిపి పార్టీకి చెందినవారు"
+    },
+    {
+     "source": "పల్నాడు జిల్లా పోలీసు",
+     "relation": "LOCATED_IN",
+     "target": "పల్నాడు",
+     "evidence": "పల్నాడు జిల్లా పోలీసు కార్యాలయం, నరసరావుపేట"
+    },
+    {
+     "source": "నరసరావుపేట",
+     "relation": "LOCATED_IN",
+     "target": "పల్నాడు",
+     "evidence": "పల్నాడు జిల్లా పోలీసు కార్యాలయం, నరసరావుపేట"
+    },
+    {
+     "source": "బోధిల వీడు",
+     "relation": "LOCATED_IN",
+     "target": "వెల్దుర్తి మండలం",
+     "evidence": "వెల్దుర్తి మండలం బోధిల వీడు గ్రామ శివారులో"
+    },
+    {
+     "source": "గుండ్లపాడు",
+     "relation": "LOCATED_IN",
+     "target": "వెల్దుర్తి మండలం",
+     "evidence": "గుండ్లపాడు గ్రామానికి వస్తున్న"
+    },
+    {
+     "source": "హత్యలు ఆధిపత్య పోరు మరియు రాబోయే పంచాయతీ ఎన్నికల వల్ల జరిగాయి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఆధిపత్య పోరు",
+     "evidence": "పోలీసులు భావిస్తున్నారు... గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో హత్యలు జరిగి ఉండవచ్చని"
+    }
+   ]
+  }
+ }
+}

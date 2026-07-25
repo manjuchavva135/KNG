@@ -1,0 +1,403 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "251b736a54cbc3d2ea4357525cb71ceec0eb136d": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (HR.VI-PC&TA) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.MS.No. 60",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Agricultural Market Committees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Treasuries and Accounts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of State Audit",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pay & Accounts Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Works and Accounts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CEO, APCFSS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCFSS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jawaharlal Nehru Technological University",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dr.YSR Horticulture University",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. Agricultural University",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Govt. Polytechnics",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Teaching staff",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance enhancement",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Finance (HR.VI-PC&TA) Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Finance (HR.VI-PC&TA) Department"
+    },
+    {
+     "source": "Director of Treasuries and Accounts",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Director of Treasuries and Accounts/ Director of State Audit/ Pay & Accounts Officer/ Director of Works and Accounts, Andhra Pradesh, Mangalagiri, Guntur"
+    },
+    {
+     "source": "Director of State Audit",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Director of Treasuries and Accounts/ Director of State Audit/ Pay & Accounts Officer/ Director of Works and Accounts, Andhra Pradesh, Mangalagiri, Guntur"
+    },
+    {
+     "source": "Pay & Accounts Officer",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Director of Treasuries and Accounts/ Director of State Audit/ Pay & Accounts Officer/ Director of Works and Accounts, Andhra Pradesh, Mangalagiri, Guntur"
+    },
+    {
+     "source": "Director of Works and Accounts",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Director of Treasuries and Accounts/ Director of State Audit/ Pay & Accounts Officer/ Director of Works and Accounts, Andhra Pradesh, Mangalagiri, Guntur"
+    },
+    {
+     "source": "Dearness Allowance",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Dearness Allowance enhancement",
+     "evidence": "Dearness Allowance enhancement of 3.64% due from 01-01-2024 to the employees of the State Government w.e.f. 01.01.2024 – Sanctioned – Orders – Issued."
+    }
+   ]
+  },
+  "c7100899ba03664c41e51dbafa2da6e540e2dd51": {
+   "entities": [
+    {
+     "name": "G.O.Ms.No.1",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (PC-TA) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Revision of Pay Scales, 2022",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Employees of Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance (DA)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Revised UGC Pay Scales, 2006",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Zilla Parishads",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mandal Parishads",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gram Panchayats",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Municipalities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Municipal Corporations",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Agricultural Market Committees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Peeyush Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Principal Secretary to Government",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Government",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh"
+    }
+   ]
+  },
+  "6b08c806c5a6670f5c92226863919c7213b5ba1e": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (HR.VI-PC&TA) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "श्रीकृष्ण",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CPS employees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PTD employees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "EPS-95 employees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "OPS employees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Provident Fund (GPF)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PRAN accounts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance enhancement of 3.64%",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "1750336564b524478d94b1bc4c76087634d0445a": {
+   "entities": [
+    {
+     "name": "PEEYUSH KUMAR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "General Provident Fund (GPF) account",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "A.G (A&E) / Prl. A.G. (G&SSA) / A.G.(E&RSA), A.P., Vijayawada",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Treasuries & Accounts, AP, Mangalagiri",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of State Audit, A.P., Mangalagiri",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pay & Accounts Officer, A.P., Mangalagiri",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Works Accounts, A.P., Mangalagiri",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Registrar, High Court of Andhra Pradesh, Amaravati",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, A.P. TRANSCO, A.P. GENCO, Vidyuth Soudha, Gunadala, Vijayawada",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, A.P. Public Service Commission, Vijayawada",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Administration (Cabinet) Department",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "A.G (A&E) / Prl. A.G. (G&SSA) / A.G.(E&RSA), A.P., Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "A.G (A&E) / Prl. A.G. (G&SSA) / A.G.(E&RSA), A.P., Vijayawada"
+    },
+    {
+     "source": "Secretary, A.P. TRANSCO, A.P. GENCO, Vidyuth Soudha, Gunadala, Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Secretary, A.P. TRANSCO, A.P. GENCO, Vidyuth Soudha, Gunadala, Vijayawada"
+    },
+    {
+     "source": "Secretary, A.P. Public Service Commission, Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Secretary, A.P. Public Service Commission, Vijayawada"
+    }
+   ]
+  }
+ }
+}

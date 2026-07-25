@@ -1,0 +1,129 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b8e3d7aaa081f8b022b39d9245d0f9087aaf577d": {
+   "entities": [
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "రేవంత్రెడ్డి",
+     "type": "Person",
+     "english_name": "Revanth Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "మాణిక్యం ఠాగూర్",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఓట్ల చోరీ",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    },
+    {
+     "name": "ఓట్ల అవకతవకలు",
+     "type": "Issue",
+     "english_name": "Vote irregularities"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "పులివెందుల-ఓంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Pulivendula-Ontimitta"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఓట్ల చోరీ గురించి మాట్లాడరని వైఎస్ జగన్ వ్యాఖ్య",
+     "type": "Claim",
+     "english_name": "YS Jagan comment that Rahul won't talk about vote theft"
+    },
+    {
+     "name": "ఓట్ల అవకతవకలపై రాహుల్ గాంధీకే చిత్తశుద్ధి లేదు",
+     "type": "Claim",
+     "english_name": "Rahul Gandhi lacks sincerity on vote irregularities"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఓట్ల చోరీ గురించి మాట్లాడరని వైఎస్ జగన్ వ్యాఖ్య",
+     "evidence": "ఓట్ల చోరీ గురించి మాట్లాడరని వైఎస్ జగన్ వ్యాఖ్య"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఓట్ల అవకతవకలపై రాహుల్ గాంధీకే చిత్తశుద్ధి లేదు",
+     "evidence": "ఓట్ల అవకతవకలపై రాహుల్ గాంధీకే చిత్తశుద్ధి లేదు"
+    },
+    {
+     "source": "మాణిక్యం ఠాగూర్",
+     "relation": "ACCUSES",
+     "target": "టిడిపి",
+     "evidence": "మాణిక్యం ఠాగూర్ మాపై విమర్శలు"
+    },
+    {
+     "source": "మాణిక్యం ఠాగూర్",
+     "relation": "MEMBER_OF",
+     "target": "కాంగ్రెస్",
+     "evidence": "కాంగ్రెస్ ఏపీ ఇన్ఛార్జ్ మాణిక్యం ఠాగూర్"
+    },
+    {
+     "source": "రేవంత్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "కాంగ్రెస్",
+     "evidence": "రేవంత్రెడ్డి ద్వారా నిత్యం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి",
+     "evidence": "చంద్రబాబు కుంభకోణాలు"
+    },
+    {
+     "source": "పులివెందుల-ఓంటిమిట్ట",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "పులివెందుల-ఓంటిమిట్ట"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "సాక్షి"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b710776467e1c01840ec5df5729d1cb7d7ae1ffa": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CTU",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CERC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SPD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Buying Entity",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Delivery Point",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim4",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

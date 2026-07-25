@@ -1,0 +1,58 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d77773e3342ca838d4ebcbdde673b0588a90042d": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State power sector PSUs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DISCOMs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector liabilities",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Debt in the books of State Power sector corporations have risen to disproportionately high levels during the period of the TDP Government.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant tariffs and so forth.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Debt in the books of State Power sector corporations have risen to disproportionately high levels during the period of the TDP Government.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector liabilities",
+     "evidence": "The debt in the books of State Power sector corporations have risen to disproportionately high levels during the period of the TDP Government."
+    },
+    {
+     "source": "Under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant tariffs and so forth.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector liabilities",
+     "evidence": "This resulted from under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant tariffs and so forth."
+    }
+   ]
+  }
+ }
+}

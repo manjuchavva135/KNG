@@ -1,0 +1,2409 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8a731d8b94bb769a88db36d99525fd5e7d50021e": {
+   "entities": [
+    {
+     "name": "యాక్సిస్‌ సంస్థ",
+     "type": "Organization",
+     "english_name": "Axis"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "NTPC",
+     "type": "Organization",
+     "english_name": "NTPC"
+    },
+    {
+     "name": "Reliance",
+     "type": "Organization",
+     "english_name": "Reliance"
+    },
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    }
+   ],
+   "relations": []
+  },
+  "33d03e64ff67058dc5e63e3d1f7b8e5c8faa8589": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఫైనాన్స్‌ కమిషన్‌",
+     "type": "Organization",
+     "english_name": "Finance Commission"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "నాగార్జునా యూనివర్సిటీ",
+     "type": "Place",
+     "english_name": "Nagarjuna University"
+    },
+    {
+     "name": "విజయవాడ–గుంటూరు",
+     "type": "Place",
+     "english_name": "Vijayawada–Guntur"
+    },
+    {
+     "name": "చంద్రబాబుగారు ప్రజెంటేషన్‌ ఇచ్చి, రూ.77 వేల కోట్లు కావాలని అడిగారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ పెద్దమనిషి అమరావతి విస్తరణకు మరో 50 వేల ఎకరాలు కావాలంటున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నీ సొంత లాభాలు పక్కన పెట్టి.. నీ సొంత బినామీల ఆస్తులు పెంచుకునే కార్యక్రమం పక్కన పెట్టి..",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబుగారు ప్రజెంటేషన్‌ ఇచ్చి, రూ.77 వేల కోట్లు కావాలని అడిగారు.",
+     "evidence": "చంద్రబాబుగారు ప్రజెంటేషన్‌ ఇచ్చి, రూ.77 వేల కోట్లు కావాలని అడిగారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ పెద్దమనిషి అమరావతి విస్తరణకు మరో 50 వేల ఎకరాలు కావాలంటున్నాడు.",
+     "evidence": "ఈ పెద్దమనిషి అమరావతి విస్తరణకు మరో 50 వేల ఎకరాలు కావాలంటున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నీ సొంత లాభాలు పక్కన పెట్టి.. నీ సొంత బినామీల ఆస్తులు పెంచుకునే కార్యక్రమం పక్కన పెట్టి..",
+     "evidence": "నీ సొంత లాభాలు పక్కన పెట్టి.. నీ సొంత బినామీల ఆస్తులు పెంచుకునే కార్యక్రమం పక్కన పెట్టి.."
+    },
+    {
+     "source": "నాగార్జునా యూనివర్సిటీ",
+     "relation": "LOCATED_IN",
+     "target": "విజయవాడ–గుంటూరు",
+     "evidence": "విజయవాడ–గుంటూరు మధ్య ఎన్‌హెచ్‌ దగ్గర్లో నాగార్జునా యూనివర్సిటీలోనో"
+    }
+   ]
+  },
+  "0f88d8b37a6e1f02a6ffec85ac858cfc1fba7265": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "టీడీపీ ప్రభుత్వ హయాంలో ఐఎంఎల్, బీర్ల అమ్మకాల ద్వారా చివరి ఏడాది 2018–19లో రూ.17,341 కోట్ల ఆదాయం వస్తే, మా ప్రభుత్వ హయాంలో చివరి ఏడాది 2023–24లో వచ్చిన ఆదాయం రూ.25,082 కోట్లు.",
+     "type": "Claim",
+     "english_name": "టీడీపీ ప్రభుత్వ హయాంలో ఐఎంఎల్, బీర్ల అమ్మకాల ద్వారా చివరి ఏడాది 2018–19లో రూ.17,341 కోట్ల ఆదాయం వస్తే, మా ప్రభుత్వ హయాంలో చివరి ఏడాది 2023–24లో వచ్చిన ఆదాయం రూ.25,082 కోట్లు."
+    },
+    {
+     "name": "మద్యం అమ్మకాలు తగ్గాయి.",
+     "type": "Claim",
+     "english_name": "మద్యం అమ్మకాలు తగ్గాయి."
+    },
+    {
+     "name": "పన్నులు వేశాం.",
+     "type": "Claim",
+     "english_name": "పన్నులు వేశాం."
+    },
+    {
+     "name": "పేరుకు లాటరీ ద్వారా మద్యం షాపులు కేటాయించినా, తమకు కావాల్సిన వారికే షాపులు వచ్చేలా చేశారు.",
+     "type": "Claim",
+     "english_name": "పేరుకు లాటరీ ద్వారా మద్యం షాపులు కేటాయించినా, తమకు కావాల్సిన వారికే షాపులు వచ్చేలా చేశారు."
+    }
+   ],
+   "relations": []
+  },
+  "5e973960567cfa0367f544f5d23f33ba3979e7bb": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "వెన్నుపోటు దినం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్‌బుక్‌ రాజ్యాంగం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఏడాది గడుస్తున్నా ఒక్క పథకం అమలు చేయకపోగా, ఇంత తక్కువ వ్యవధిలోనే దాదాపు రూ.1.40 కోట్ల అప్పులు చేశారని, ఇదే సమయంలో ప్రభుత్వ ఆదాయం దారుణంగా పడిపోయిందని, ఆదాయమంతా.. చంద్రబాబు, ఆయన తోడు గజదొంగల జేబుల్లోకి వెళ్తోందని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రభుత్వం ఎప్పటికప్పుడు డైవర్షన్‌ పాలిటిక్స్‌ చేస్తూ, ప్రశ్నించే గొంతులు నొక్కుతూ, యథేచ్ఛగా రెడ్‌బుక్‌ రాజ్యాంగం అమలు చేస్తోందని"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏడాది గడుస్తున్నా ఒక్క పథకం అమలు చేయకపోగా, ఇంత తక్కువ వ్యవధిలోనే దాదాపు రూ.1.40 కోట్ల అప్పులు చేశారని, ఇదే సమయంలో ప్రభుత్వ ఆదాయం దారుణంగా పడిపోయిందని, ఆదాయమంతా.. చంద్రబాబు, ఆయన తోడు గజదొంగల జేబుల్లోకి వెళ్తోందని",
+     "evidence": "ఏడాది గడుస్తున్నా ఒక్క పథకం అమలు చేయకపోగా, ఇంత తక్కువ వ్యవధిలోనే దాదాపు రూ.1.40 కోట్ల అప్పులు చేశారని, ఇదే సమయంలో ప్రభుత్వ ఆదాయం దారుణంగా పడిపోయిందని, ఆదాయమంతా.. చంద్రబాబు, ఆయన తోడు గజదొంగల జేబుల్లోకి వెళ్తోందని"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వెన్నుపోటు దినం",
+     "evidence": "ఆ ప్రక్రియలో వచ్చే నెల 4న ‘వెన్నుపోటు’ దినం"
+    }
+   ]
+  },
+  "38c66a999586493b83563f151085731b0e3d11bb": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "My Government"
+    },
+    {
+     "name": "జ్యుడీషియల్‌ విధానం",
+     "type": "Scheme",
+     "english_name": "Judicial Procedure"
+    },
+    {
+     "name": "రివర్స్‌ టెండరింగ్‌ విధానం",
+     "type": "Scheme",
+     "english_name": "Reverse Tendering Procedure"
+    },
+    {
+     "name": "మొబిలైజేషన్‌ అడ్వాన్స్‌ విధానం",
+     "type": "Scheme",
+     "english_name": "Mobilization Advance Procedure"
+    },
+    {
+     "name": "ఐకానిక్‌ టవర్లు",
+     "type": "Organization",
+     "english_name": "Iconic Towers"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "బాహుబలి నిర్మాణాలు",
+     "type": "Organization",
+     "english_name": "Bahubali Constructions"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "8 శాతం కమిషన్‌ తీసుకుంటున్నారు",
+     "type": "Claim",
+     "english_name": "Taking 8 percent commission"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మొబిలైజేషన్‌ అడ్వాన్స్‌ విధానం",
+     "evidence": "చంద్రబాబు దాన్ని తీసుకొచ్చి, టెండర్‌ ఇవ్వగానే 10 శాతం అడ్వాన్స్‌ ఇచ్చి, అందులో ఇచ్చారు, 8 శాతం కమిషన్‌ తీసుకుంటున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "8 శాతం కమిషన్‌ తీసుకుంటున్నారు",
+     "evidence": "చంద్రబాబు దాన్ని తీసుకొచ్చి, టెండర్‌ ఇవ్వగానే 10 శాతం అడ్వాన్స్‌ ఇచ్చి, అందులో ఇచ్చారు, 8 శాతం కమిషన్‌ తీసుకుంటున్నారు."
+    },
+    {
+     "source": "మా ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి"
+    }
+   ]
+  },
+  "b08447c6cf3cb86470679ba308e5137b0a187b9e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "SDL ఇన్సూరెన్స్‌",
+     "type": "Organization",
+     "english_name": "SDL Insurance"
+    },
+    {
+     "name": "APPFc",
+     "type": "Organization",
+     "english_name": "APPFc"
+    },
+    {
+     "name": "మార్క్‌ఫెడ్‌",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "సివిల్‌ సప్లయిస్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "Civil Supplies Corporation"
+    },
+    {
+     "name": "ఏపీఎండీసీ బాండ్స్‌",
+     "type": "Organization",
+     "english_name": "APMDC bonds"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "మా హయాంలో అప్పుల పెరుగుదల (కాంపౌండ్‌ యాన్యువల్‌ గ్రోత్‌ రేట్‌–సీఏజీఆర్‌) 13.57 శాతం",
+     "type": "Claim",
+     "english_name": "Debt growth 13.57%"
+    },
+    {
+     "name": "చంద్రబాబు తన హయాంలో రూ.2,49,350 కోట్ల అప్పులు చేసి, ‘అప్పుల సామ్రాట్‌’ గా పేరు తెచ్చుకున్నాడు.",
+     "type": "Claim",
+     "english_name": "Debt Emperor claim"
+    },
+    {
+     "name": "ఆయన హయాంలో సీఏజీఆర్‌ 22.63 శాతంగా నమోదైంది.",
+     "type": "Claim",
+     "english_name": "CAGR 22.63% claim"
+    },
+    {
+     "name": "2019–24 మధ్య 5 ఏళ్లలో వైయస్సార్‌సీపీ ప్రభుత్వం మొత్తం రూ.3,32,671 కోట్ల అప్పు చేస్తే, చంద్రబాబునాయుడు కేవలం ఈ 12 నెలల్లోనే రూ.1,37,546 కోట్ల అప్పు చేశారు.",
+     "type": "Claim",
+     "english_name": "YSRCP 5‑year debt vs Chandrababu 12‑month debt claim"
+    },
+    {
+     "name": "అంటే వైయస్సార్‌సీపీ ప్రభుత్వం ఐదేళ్లలో చేసిన అప్పుల్లో ఏకంగా 41 శాతం, చంద్రబాబు ఒక్క ఏడాదిలోనే చేశాడు.",
+     "type": "Claim",
+     "english_name": "41% debt share claim"
+    },
+    {
+     "name": "ఈ ప్రభుత్వం ఏకంగా రూ.81,597 కోట్ల అప్పు చేసింది.",
+     "type": "Claim",
+     "english_name": "Government debt 81,597 crores claim"
+    },
+    {
+     "name": "మొత్తంగా కలిపితే, మొత్తం అప్పు: రూ.1,37,576 కోట్లు.",
+     "type": "Claim",
+     "english_name": "Total debt 1,37,576 crores claim"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "మా హయాంలో అప్పుల పెరుగుదల (కాంపౌండ్‌ యాన్యువల్‌ గ్రోత్‌ రేట్‌–సీఏజీఆర్‌) 13.57 శాతం",
+     "evidence": "మా హయాంలో అప్పుల పెరుగుదల (కాంపౌండ్‌ యాన్యువల్‌ గ్రోత్‌ రేట్‌–సీఏజీఆర్‌) 13.57 శాతం."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు తన హయాంలో రూ.2,49,350 కోట్ల అప్పులు చేసి, ‘అప్పుల సామ్రాట్‌’ గా పేరు తెచ్చుకున్నాడు.",
+     "evidence": "చంద్రబాబు తన హయాంలో రూ.2,49,350 కోట్ల అప్పులు చేసి, ‘అప్పుల సామ్రాట్‌’ గా పేరు తెచ్చుకున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆయన హయాంలో సీఏజీఆర్‌ 22.63 శాతంగా నమోదైంది.",
+     "evidence": "ఆయన హయాంలో సీఏజీఆర్‌ 22.63 శాతంగా నమోదైంది."
+    }
+   ]
+  },
+  "119ce1a516bd0c1bca2d67c87fc2e5d473e49ce8": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పెండ్యాల శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "Pendyala Srinivasarao"
+    },
+    {
+     "name": "ఆదాయపు పన్ను శాఖ",
+     "type": "Organization",
+     "english_name": "Income Tax Department"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "ఏడీబీ",
+     "type": "Organization",
+     "english_name": "ADB"
+    },
+    {
+     "name": "హడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "కేఎఫ్‌డబ్ల్యూ (జర్మనీ) బ్యాంక్‌",
+     "type": "Organization",
+     "english_name": "KFW (Germany) bank"
+    },
+    {
+     "name": "సీఆర్‌డీఏ",
+     "type": "Organization",
+     "english_name": "CRDA"
+    },
+    {
+     "name": "హైదరాబాద్‌",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సెల్ఫ్‌ ఫైనాన్స్‌ మోడల్‌",
+     "type": "Scheme",
+     "english_name": "Self-finance model"
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "ఒక్కో చదరపు అడుగు నిర్మాణ వ్యయం",
+     "type": "Claim",
+     "english_name": "Construction cost per square foot"
+    },
+    {
+     "name": "రోడ్ల నిర్మాణ వ్యయం",
+     "type": "Claim",
+     "english_name": "Road construction cost"
+    },
+    {
+     "name": "చంద్రబాబు లంచాలు",
+     "type": "Claim",
+     "english_name": "Chandrababu bribery"
+    },
+    {
+     "name": "అప్పుల వివరాలు",
+     "type": "Claim",
+     "english_name": "Loan details"
+    }
+   ],
+   "relations": []
+  },
+  "4397d0071e3e1f0e37e32f3bc6a9cec94281dd70": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "కాంపిటిషన్‌ కమిషన్‌ ఆఫ్‌ ఇండియా",
+     "type": "Organization",
+     "english_name": "Competition Commission of India"
+    },
+    {
+     "name": "సీసీఐ",
+     "type": "Organization",
+     "english_name": "CCI"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "షాపులు తగ్గించి, పర్మిట్‌రూమ్‌లు, బెల్టు షాపులు రద్దు చేస్తే లంచాలు ఇస్తారా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రైవేటు వ్యక్తులకు లిక్కర్‌ వ్యాపారం అప్పజెప్పి, అడ్డగోలుగా రోజంతా అమ్మి, లాభాలు గడిస్తే, డిస్టిలరీలకు ఎక్కువ ఆదాయం వస్తే లంచాలు ఇస్తారా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు దగ్గరుండి మద్యం అమ్మిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ విధంగా ఆ కంపెనీకి మేలు చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఇప్పుడు చేస్తున్నట్లు, కొన్ని డిస్టిలరీలకు మాత్రమే మేలు చేసేలా ప్రైవేటు లిక్కర్‌ షాప్‌ల నుంచి ఇండెంట్‌ పెట్టించడం ద్వారా 2014–19 మధ్య కేవలం 5 డిస్టిలరీలు రాష్ట్రంలో 69 శాతం మద్యం సరఫరా చేశాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేము కొత్తగా ఏ డిస్టిలరీ కూడా చేర్చలేదు. కొత్త డిస్టిలరీకి అనుమతి ఇవ్వలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చివరకు చంద్రబాబు అండ్‌ కో కంపెనీలు మా ప్రభుత్వంలో 2022లో కాంపిటిషన్‌ కమిషన్‌ ఆఫ్‌ ఇండియా (సీసీఐ)లో కేసు వేశాయి.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కాంపిటిషన్‌ కమిషన్‌ ఆఫ్‌ ఇండియా",
+     "evidence": "చంద్రబాబు అండ్‌ కో కంపెనీలు మా ప్రభుత్వంలో 2022లో కాంపిటిషన్‌ కమిషన్‌ ఆఫ్‌ ఇండియా (సీసీఐ)లో కేసు వేశాయి."
+    },
+    {
+     "source": "షాపులు తగ్గించి, పర్మిట్‌రూమ్‌లు, బెల్టు షాపులు రద్దు చేస్తే లంచాలు ఇస్తారా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "షాపులు తగ్గించి, పర్మిట్‌రూమ్‌లు, బెల్టు షాపులు రద్దు చేస్తే లంచాలు ఇస్తారా?"
+    },
+    {
+     "source": "ప్రైవేటు వ్యక్తులకు లిక్కర్‌ వ్యాపారం అప్పజెప్పి, అడ్డగోలుగా రోజంతా అమ్మి, లాభాలు గడిస్తే, డిస్టిలరీలకు ఎక్కువ ఆదాయం వస్తే లంచాలు ఇస్తారా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ప్రೖేవేటు వ్యక్తులకు లిక్కర్‌ వ్యాపారం అప్పజెప్పి, అడ్డగోలుగా రోజంతా అమ్మి, లాభాలు గడిస్తే, డిస్టిలరీలకు ఎక్కువ ఆదాయం వస్తే లంచాలు ఇస్తారా?"
+    },
+    {
+     "source": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నారు."
+    },
+    {
+     "source": "పోలీసులు దగ్గరుండి మద్యం అమ్మిస్తున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "పోలీసులు దగ్గరుండి మద్యం అమ్మిస్తున్నారు."
+    },
+    {
+     "source": "ఆ విధంగా ఆ కంపెనీకి మేలు చేస్తున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఆ విధంగా ఆ కంపెనీకి మేలు చేస్తున్నారు."
+    },
+    {
+     "source": "మేము కొత్తగా ఏ డిస్టిలరీ కూడా చేర్చలేదు. కొత్త డిస్టిలరీకి అనుమతి ఇవ్వలేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "మేము కొత్తగా ఏ డిస్టిలరీ కూడా చేర్చలేదు. కొత్త డిస్టిలరీకి అనుమతి ఇవ్వలేదు."
+    },
+    {
+     "source": "చివరకు చంద్రబాబు అండ్‌ కో కంపెనీలు మా ప్రభుత్వంలో 2022లో కాంపిటిషన్‌ కమిషన్‌ ఆఫ్‌ ఇండియా (సీసీఐ)లో కేసు వేశాయి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "చివరకు చంద్రబాబు అండ్‌ కో కంపెనీలు మా ప్రభుత్వంలో 2022లో కాంపిటిషన్‌ కమిషన్‌ ఆఫ్‌ ఇండియా (సీసీఐ)లో కేసు వేశాయి."
+    }
+   ]
+  },
+  "4ac87accd304140620216acb296eb8699fb2d422": {
+   "entities": [
+    {
+     "name": "రాజ్ కేసిరెడ్డి",
+     "type": "Person",
+     "english_name": "Raj Kasi Reddy"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "విజయవాడ ఎంపీ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వాసూదేవరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "He is being made an accused because he didn't lie.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "If he had given statement as they wanted, they would have let him go like Vasudeva Reddy.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu is making arrests of unrelated people.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Telugu Desam party has close ties.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాజ్ కేసిరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "He is being made an accused because he didn't lie.",
+     "evidence": "ఈయన అబద్ధం చెప్పకపోవడం వల్ల అక్యూజ్డ్‌ గా చేర్చారు."
+    },
+    {
+     "source": "రాజ్ కేసిరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "If he had given statement as they wanted, they would have let him go like Vasudeva Reddy.",
+     "evidence": "ఒక వేళ ఈయన కూడా వీళ్లకు కావాల్సిన పద్ధతి ప్రకారం స్టేట్మెంట్‌ ఇచ్చి ఉంటే ఈయన్ను కూడా వాసుదేవరెడ్డిని వదిలేసినట్లు వదిలేసే వారు."
+    },
+    {
+     "source": "రాజ్ కేసిరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Chandrababu is making arrests of unrelated people.",
+     "evidence": "చంద్రబాబు ఒక భేతాళ కథ అల్లి.. సంబంధం లేని వ్యక్తులను లెఫ్ట్‌ రైట్‌ సెంటర్‌ అరెస్టు చేసే కార్యక్రమాలు చేస్తున్నాడు."
+    },
+    {
+     "source": "రాజ్ కేసిరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Telugu Desam party has close ties.",
+     "evidence": "ఈ వ్యక్తి అయితే తెలుగుదేశం పార్టీకి సన్నిహిత సంబంధాలు కలిగి ఉన్నాడు"
+    },
+    {
+     "source": "రాజ్ కేసిరెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ఒక భేతాళ కథ అల్లి.. సంబంధం లేని వ్యక్తులను లెఫ్ట్‌ రైట్‌ సెంటర్‌ అరెస్టు చేసే కార్యక్రమాలు చేస్తున్నాడు."
+    }
+   ]
+  },
+  "2ab4aa172e5ddcba769478cacc5bda8ddfd22764": {
+   "entities": [
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రామేశ్వర్‌ప్రసాద గుప్తా",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఉర్సా కంపెనీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "లులూ సంస్థ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "క్యాబినెట్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఇసుక స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మైనింగ్ స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సిలికా స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d536c76b13683c4b2dfc9408de99f228273046f1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సీసీఐ",
+     "type": "Organization",
+     "english_name": "CCI"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "ప్రైవేట్‌ షాపుల కార్టల్‌",
+     "type": "Organization",
+     "english_name": "Private shops cartel"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం అమలు చేస్తున్న మద్యం విధానం పూర్తిగా సహేతుకంగా ఉందని, ప్రభుత్వం అనుసరించిన విధానం వల్ల మద్యం అమ్మకాలు తగ్గాయని, అన్ని కంపెనీల మద్యం బ్రాండ్లు కొంటున్నారని, వాటికి సంబంధించిన చెల్లింపులు కూడా సకాలంలో చేస్తున్నారని తీర్పు ఇచ్చింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆయన ఐదు డిస్టలరీలకు 69 శాతం ఆర్డర్లు ప్లేస్‌ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతీ బాటిల్‌పై క్యూఆర్‌ కోడ్‌ పెట్టి, అమ్మేటప్పుడు కోడ్‌ స్కాన్‌ చేసి, డైనమిక్‌గా రియల్‌ టైమ్‌ బేసిస్‌లో ఆటోమెటిక్‌గా అప్‌లోడ్‌ అయ్యే విధంగా చేశాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆయన ఐదు డిస్టలరీలకు 69 శాతం ఆర్డర్లు ప్లేస్‌ చేశారు.",
+     "evidence": "ఆయన స్కామ్‌ చేస్తే.. ఎదురు ఆరోపణ మళ్లీ ఆయనే చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర ప్రభుత్వం",
+     "evidence": "ఎదురు ఆరోపణ మళ్లీ ఆయనే చేస్తున్నాడు."
+    },
+    {
+     "source": "రాష్ట్ర ప్రభుత్వం అమలు చేస్తున్న మద్యం విధానం పూర్తిగా సహేతుకంగా ఉందని, ప్రభుత్వం అనుసరించిన విధానం వల్ల మద్యం అమ్మకాలు తగ్గాయని, అన్ని కంపెనీల మద్యం బ్రాండ్లు కొంటున్నారని, వాటికి సంబంధించిన చెల్లింపులు కూడా సకాలంలో చేస్తున్నారని తీర్పు ఇచ్చింది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "మద్యం విధానం"
+    },
+    {
+     "source": "ఆయన ఐదు డిస్టలరీలకు 69 శాతం ఆర్డర్లు ప్లేస్‌ చేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఆర్డర్లు"
+    },
+    {
+     "source": "ప్రతీ బాటిల్‌పై క్యూఆర్‌ కోడ్‌ పెట్టి, అమ్మేటప్పుడు కోడ్‌ స్కాన్‌ చేసి, డైనమిక్‌గా రియల్‌ టైమ్‌ బేసిస్‌లో ఆటోమెటిక్‌గా అప్‌లోడ్‌ అయ్యే విధంగా చేశాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "క్యూఆర్‌ కోడ్‌"
+    }
+   ]
+  },
+  "73e76fc53f9dd28d6a4051ab2bef6dc4a93725c4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సత్యప్రసాద్‌",
+     "type": "Person",
+     "english_name": "Satya Prasad"
+    },
+    {
+     "name": "అనూష",
+     "type": "Person",
+     "english_name": "Anusha"
+    },
+    {
+     "name": "వాసుదేవరెడ్డి",
+     "type": "Person",
+     "english_name": "Vasudeva Reddy"
+    },
+    {
+     "name": "వి.విజయసాయిరెడ్డి",
+     "type": "Person",
+     "english_name": "V Vijayasai Reddy"
+    },
+    {
+     "name": "రాజ్‌ కేసీరెడ్డి",
+     "type": "Person",
+     "english_name": "Raj Kasi Reddy"
+    },
+    {
+     "name": "బేవరేజెస్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "Beverages Corporation"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ప్రైవేట్‌ షాపుల కార్టల్‌",
+     "type": "Organization",
+     "english_name": "Private shops cartel"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "రెడ్‌బుక్",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "ఆయన స్కామ్‌ చేస్తే.. ఎదురు ఆరోపణ మళ్లీ ఆయనే చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు అనే వ్యక్తి ఎటువంటి దుర్మార్గమైన ఆలోచనలు చేస్తున్నాడనేదానికి తాజా ఘటనలు నిదర్శనం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు ఇప్పుడు బయటపెట్టి, బెదిరించి తప్పుడు సాక్ష్యాలు సృష్టించి, తప్పుడు వాంగ్మూలాలు సృష్టించి, అరాచకంగా చంద్రబాబు వ్యవహరిస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బేవరేజెస్‌ కార్పొరేషన్‌లో పని చేస్తున్న సత్యప్రసాద్‌ అనే వ్యక్తి ఒక సాధారణ ఉద్యోగి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాసుదేవరెడ్డి... ఈ ప్రభుత్వం తనను వేధిస్తోందని హైకోర్టులో మూడు సార్లు ముందస్తు బెయిల్‌ పిటిషన్లు వేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వి.విజయసాయిరెడ్డి... రాజ్యసభ సభ్యత్వానికి రాజీనామా చేశాడు... తన మూడున్నర సంవత్సరం టర్మ్‌ కూటమికి తాను ప్రలోభాలకు లోనై అమ్మేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆయన స్కామ్‌ చేస్తే.. ఎదురు ఆరోపణ మళ్లీ ఆయనే చేస్తున్నాడు.",
+     "evidence": "ఆయన స్కామ్‌ చేస్తే.. ఎదురు ఆరోపణ మళ్లీ ఆయనే చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబునాయుడు ఇప్పుడు బయటపెట్టి, బెదిరించి తప్పుడు సాక్ష్యాలు సృష్టించి, తప్పుడు వాంగ్మూలాలు సృష్టించి, అరాచకంగా చంద్రబాబు వ్యవహరిస్తున్నాడు.",
+     "evidence": "చంద్రబాబునాయుడు ఇప్పుడు బయటపెట్టి, బెదిరించి తప్పుడు సాక్ష్యాలు సృష్టించి, తప్పుడు వాంగ్మూలాలు సృష్టించి, అరాచకంగా చంద్రబాబు వ్యవహరిస్తున్నాడు."
+    },
+    {
+     "source": "వి.విజయసాయిరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "వి.విజయసాయిరెడ్డి... రాజ్యసభ సభ్యత్వానికి రాజీనామా చేశాడు... తన మూడున్నర సంవత్సరం టర్మ్‌ కూటమికి తాను ప్రలోభాలకు లోనై అమ్మేశారు.",
+     "evidence": "రాజ్యసభ సభ్యత్వానికి రాజీనామా చేశాడు... తన మూడున్నర సంవత్సరం టర్మ్‌ కూటమికి తాను ప్రలోభాలకు లోనై అమ్మేశారు."
+    }
+   ]
+  },
+  "ead715b598530555ecc5011d6e6396a6a1d135bb": {
+   "entities": [
+    {
+     "name": "సజ్జన్‌ జిందాల్‌",
+     "type": "Person",
+     "english_name": "Sajjan Jindal"
+    },
+    {
+     "name": "జత్వానీ గిత్వానీ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్ర రాష్ట్రం",
+     "type": "Place",
+     "english_name": "Andhra state"
+    },
+    {
+     "name": "అరబిందో",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "కుమారమంగళం బిర్లా అల్ట్రాటెక్‌ సిమెంట్స్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ధనుంజయరెడ్డి",
+     "type": "Person",
+     "english_name": "Dhanunjaya Reddy"
+    },
+    {
+     "name": "కృష్ణమోహన్‌",
+     "type": "Person",
+     "english_name": "Krishnamohan"
+    },
+    {
+     "name": "ఫ్రాన్స్‌",
+     "type": "Place",
+     "english_name": "France"
+    },
+    {
+     "name": "యూరప్‌",
+     "type": "Place",
+     "english_name": "Europe"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్ర రాష్ట్రం అంటే సార్‌ నమస్కారం పెట్టి వ్యాపారం చేయొద్దని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అరబిందో వాళ్లు ఇప్పటికే చంద్రబాబు నాయుడికి నమస్కారం పెడుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆయన నమస్కారం పెడుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధనుంజయరెడ్డి ఒక మచ్చలేని ఆఫీసర్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కృష్ణమోహన్‌ అన్న ఒక రిటైర్డ్‌ ఆర్డీఓ.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సజ్జన్‌ జిందాల్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆంధ్ర రాష్ట్రం అంటే సార్‌ నమస్కారం పెట్టి వ్యాపారం చేయొద్దని",
+     "evidence": "సజ్జన్‌ జిందాల్‌ చెబుతున్నాడు... వ్యాపారం చేయొద్దని"
+    },
+    {
+     "source": "ధనుంజయరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ధనుంజయరెడ్డి ఒక మచ్చలేని ఆఫీసర్‌.",
+     "evidence": "ధనుంజయరెడ్డి ఒక మచ్చలేని ఆఫీసర్‌."
+    },
+    {
+     "source": "కృష్ణమోహన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "కృష్ణమోహన్‌ అన్న ఒక రిటైర్డ్‌ ఆర్డీఓ.",
+     "evidence": "కృష్ణమోహన్‌ అన్న ఒక రిటైర్డ్‌ ఆర్డీఓ."
+    },
+    {
+     "source": "ఆంధ్ర రాష్ట్రం అంటే సార్‌ నమస్కారం పెట్టి వ్యాపారం చేయొద్దని",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Press meet title mentions LIQUOR SCAM"
+    }
+   ]
+  },
+  "84a9eba3f7a26de0f1799b587020536dbefad502": {
+   "entities": [
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ration rice",
+     "type": "Scheme",
+     "english_name": "Ration Rice"
+    },
+    {
+     "name": "Sarsatex rice",
+     "type": "Scheme",
+     "english_name": "Sarsatex Rice"
+    },
+    {
+     "name": "Telugu Desam party",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "YSRCP party",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అసలు రేషన్‌ బియ్యం ఇంటింటికీ పంపిస్తేనే కనీసం నువ్వు చేప్పే ఈ అక్రమాలు ఆగిపోతాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సార్టెక్స్‌ బియ్యాన్ని వీళ్లు ఆపేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాడు వైసీపీ పార్టీనో ఇంకో పార్టీనో పోతే ఇవ్వడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నా ఇంటికి రావాలి అంటాడు, సెల్యూట్‌ కొట్టాలంటాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వీళ్లు చేసేది మాఫియా.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "0567e3b986fed0670c3ecc21a7967ede581b1077": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వ",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది",
+     "type": "Claim",
+     "english_name": "Strong case filed against Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబు ఆ కేసుపై ఇప్పుడు బెయిల్‌పై ఉన్నాడు",
+     "type": "Claim",
+     "english_name": "Chandrababu is on bail in that case"
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీపై ఫాల్స్‌ కేసు ఫైల్‌ చేయించారు",
+     "type": "Claim",
+     "english_name": "False case filed against YSRCP"
+    },
+    {
+     "name": "ధరలు తగ్గిస్తానని చెప్పి తగ్గించింది లేదు",
+     "type": "Claim",
+     "english_name": "Promised price reduction but did not reduce"
+    },
+    {
+     "name": "ఎమ్మార్పీ కన్నా ఎక్కువకు అమ్ముతున్నారు",
+     "type": "Claim",
+     "english_name": "Selling above MRP"
+    },
+    {
+     "name": "రూ.99 కే లిక్కర్‌ ఇస్తా అని చెప్పి క్వాలిటీ తగ్గించి అమ్ముతున్నారు",
+     "type": "Claim",
+     "english_name": "Promised Rs.99 liquor but sold lower quality"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్‌ఆర్‌సీపీ",
+     "evidence": "వైయస్‌ఆర్‌సీపీపై ఫాల్స్‌ కేసు ఫైల్‌ చేయించారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది",
+     "evidence": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఆ కేసుపై ఇప్పుడు బెయిల్‌పై ఉన్నాడు",
+     "evidence": "చంద్రబాబు ఆ కేసుపై ఇప్పుడు బెయిల్‌పై ఉన్నాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ధరలు తగ్గిస్తానని చెప్పి తగ్గించింది లేదు",
+     "evidence": "ధరలు తగ్గిస్తానని చెప్పి తగ్గించింది లేదు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎమ్మార్పీ కన్నా ఎక్కువకు అమ్ముతున్నారు",
+     "evidence": "ఎమ్మార్పీ కన్నా ఎక్కువకు అమ్ముతున్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.99 కే లిక్కర్‌ ఇస్తా అని చెప్పి క్వాలిటీ తగ్గించి అమ్ముతున్నారు",
+     "evidence": "రూ.99 కే లిక్కర్‌ ఇస్తా అని చెప్పి క్వాలిటీ తగ్గించి అమ్ముతున్నారు"
+    },
+    {
+     "source": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది"
+    },
+    {
+     "source": "ధరలు తగ్గిస్తానని చెప్పి తగ్గించింది లేదు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ధరలు తగ్గిస్తానని చెప్పి తగ్గించింది లేదు"
+    },
+    {
+     "source": "ఎమ్మార్పీ కన్నా ఎక్కువకు అమ్ముతున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఎమ్మార్పీ కన్నా ఎక్కువకు అమ్ముతున్నారు"
+    },
+    {
+     "source": "రూ.99 కే లిక్కర్‌ ఇస్తా అని చెప్పి క్వాలిటీ తగ్గించి అమ్ముతున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "రూ.99 కే లిక్కర్‌ ఇస్తా అని చెప్పి క్వాలిటీ తగ్గించి అమ్ముతున్నారు"
+    }
+   ]
+  },
+  "d7e2589916b691a1083c7c5774ad3eb3360be425": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రెవెన్యూ డిపార్ట్‌మెంట్‌",
+     "type": "Organization",
+     "english_name": "Revenue Department"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "జీవో 993",
+     "type": "Scheme",
+     "english_name": "GO 993"
+    },
+    {
+     "name": "చంద్రబాబు ప్రత్యేకంగా సిఫార్సు చేశారు డిస్టిలరీల కెపాసిటీకి మించి ఉత్పత్తికి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సంతకం చేసిన ఫైల్‌ను కాగ్‌ కూడా తప్పు పట్టింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీపై ఫాల్స్‌ కేసు ఫైల్‌ చేయించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఆ కేసుపై ఇప్పుడు బెయిల్‌పై ఉన్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ప్రత్యేకంగా సిఫార్సు చేశారు డిస్టిలరీల కెపాసిటీకి మించి ఉత్పత్తికి.",
+     "evidence": "చంద్రబాబు ప్రత్యేకంగా సిఫార్సు చేశారు డిస్టిలరీల కెపాసిటీకి మించి ఉత్పత్తికి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది.",
+     "evidence": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఆ కేసుపై ఇప్పుడు బెయిల్‌పై ఉన్నాడు.",
+     "evidence": "చంద్రబాబు ఆ కేసుపై ఇప్పుడు బెయిల్‌పై ఉన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో 993",
+     "evidence": "2014 నవంబర్‌లో జీవో 993 ప్రకారం రెవెన్యూ డిపార్ట్‌మెంట్‌ ఏర్పాటు చేసిన కమిటీ సిఫార్సులు బేఖాతరు చేస్తూ డిస్టిలరీల కెపాసిటీకి మించి ఉత్పత్తికి చంద్రబాబు ప్రత్యేకంగా సిఫార్సు చేశారు."
+    },
+    {
+     "source": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "LIQUOR SCAM",
+     "evidence": "చంద్రబాబుపై బలమైన కేసు నమోదు అయ్యింది."
+    },
+    {
+     "source": "వైయస్‌ఆర్‌సీపీపై ఫాల్స్‌ కేసు ఫైల్‌ చేయించారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "LIQUOR SCAM",
+     "evidence": "వైయస్‌ఆర్‌సీపీపై ఫాల్స్‌ కేసు ఫైల్‌ చేయించారు."
+    }
+   ]
+  },
+  "1feb2833b1c65bc1d0a7aab830ccb0babdce72e1": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gannavaram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "వైసీపీ పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "రేషన్‌ షాపు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IAS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IPS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు తన బినామీలకు మేలు చేసేందుకు ఇలాంటి హామీలు ఇస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు అనే వ్యక్తి బెయిల్‌పై ఉండి, తన కేసును నీరు గార్చే ప్రయత్నం చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అధికార దుర్వినియోగం చేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కూటమి ఏడాది పాలనలో చంద్రబాబు సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ హామీల ఊసే లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యార్థులకు ఫీజులు అందడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పేదలకు ఆరోగ్యశ్రీ ద్వారా వైద్యం అందడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "50 ఏళ్లకే పింఛన్లు ఇవ్వడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "f236761a5f8221d0fa67f39f07a996d21e1f6638": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "రాష్ట్ర సొంత ఆదాయం (ఎస్‌ఓఆర్‌). పన్ను, పన్నేతర ఆదాయం రెండు గమనిస్తే, ప్రభుత్వ పనితీరు దారుణంగా ఉంది. కేవలం 3.08 శాతం మాత్రమే గ్రోత్‌రేట్‌ కనిపిస్తోంది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మన రాష్ట్ర ఆదాయంలో అంత తక్కువ పెరుగుదలకు కారణం, ఆ ఆదాయం రాష్ట్ర ఖజానాకు కాకుండా, చంద్రబాబునాయుడు, ఆయన గజదొంగల ముఠా జేబులోకి వెళ్తోంది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర సొంత ఆదాయం (ఎస్‌ఓఆర్‌). పన్ను, పన్నేతర ఆదాయం రెండు గమనిస్తే, ప్రభుత్వ పనితీరు దారుణంగా ఉంది. కేవలం 3.08 శాతం మాత్రమే గ్రోత్‌రేట్‌ కనిపిస్తోంది.",
+     "evidence": "రాష్ట్ర సొంత ఆదాయం (ఎస్‌ఓఆర్‌). పన్ను, పన్నేతర ఆదాయం రెండు గమనిస్తే, ప్రభుత్వ పనితీరు దారుణంగా ఉంది. కేవలం 3.08 శాతం మాత్రమే గ్రోత్‌రేట్‌ కనిపిస్తోంది."
+    }
+   ]
+  },
+  "d85b47a6af38c0679189181cda902c294933a6e2": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సీఐడీ",
+     "type": "Organization",
+     "english_name": "CID"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "లిక్కర్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "రెడ్‌బుక్‌ రాజ్యాంగం",
+     "type": "Issue",
+     "english_name": "Redbook Constitution"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "విజయవాడ–గుంటూరు",
+     "type": "Place",
+     "english_name": "Vijayawada–Guntur"
+    },
+    {
+     "name": "ఏడాదిలో ఏకంగా రూ.1,37,576 కోట్ల అప్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యుత్‌ కొనుగోలు ఒప్పందంలోనూ అవినీతి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యాక్సిస్‌తో ఒప్పందంలో రూ.11 వేల కోట్ల స్కామ్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాజధాని నిర్మాణంలో అంతులేని అవినీతి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌ లేదు. సూపర్‌ సెవెన్‌ లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబుపై సీఐడీ కేసు. ఆ కేసులో బెయిల్‌పై బాబు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యథేచ్ఛగా రెడ్‌బుక్‌ రాజ్యాంగం అమలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏడాది పాలనలో ప్రజలకు చంద్రబాబు వెన్నుపోటు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏడాదిలో ఏకంగా రూ.1,37,576 కోట్ల అప్పు",
+     "evidence": "ఏడాదిలో ఏకంగా రూ.1,37,576 కోట్ల అప్పు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "విద్యుత్‌ కొనుగోలు ఒప్పందంలోనూ అవినీతి",
+     "evidence": "విద్యుత్‌ కొనుగోలు ఒప్పందంలోనూ అవినీతి"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "యాక్సిస్‌తో ఒప్పందంలో రూ.11 వేల కోట్ల స్కామ్‌",
+     "evidence": "యాక్సిస్‌తో ఒప్పందంలో రూ.11 వేల కోట్ల స్కామ్‌"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాజధాని నిర్మాణంలో అంతులేని అవినీతి",
+     "evidence": "రాజధాని నిర్మాణంలో అంతులేని అవినీతి"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్‌ సిక్స్‌ లేదు. సూపర్‌ సెవెన్‌ లేదు",
+     "evidence": "సూపర్‌ సిక్స్‌ లేదు. సూపర్‌ సెవెన్‌ లేదు"
+    }
+   ]
+  },
+  "01fd6e7cb667df74b4dc10813f160f0289e5c00d": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "SDDL Insurance",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SDDL Insurances",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APPPFC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MARKFED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Civil Supplies Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Axis Energy Venture India Company",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 5,750 crore in April 2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 7,000 crore in first week of May 2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 710 crore off-budget borrowings APPPFC",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 6,000 crore off-budget borrowings MARKFED",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 2,000 crore off-budget borrowings Civil Supplies Corporation",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 3,489 crore off-budget borrowings APMDC bonds",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 31,000 crore debt for Amaravati",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Total debt Rs. 1,37,576 crore",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 1.91 lakh crore value of mines",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 9,000 crore debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 11,000 crore scam",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Constitutional violation",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 5,750 crore in April 2025",
+     "evidence": "రూ.5750 కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 7,000 crore in first week of May 2025",
+     "evidence": "రూ7 వేల కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 710 crore off-budget borrowings APPPFC",
+     "evidence": "రూ.710 కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 6,000 crore off-budget borrowings MARKFED",
+     "evidence": "రూ.6 వేల కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 2,000 crore off-budget borrowings Civil Supplies Corporation",
+     "evidence": "రూ.2 వేల కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 3,489 crore off-budget borrowings APMDC bonds",
+     "evidence": "రూ.3,489 కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 31,000 crore debt for Amaravati",
+     "evidence": "రూ.31 వేల కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Total debt Rs. 1,37,576 crore",
+     "evidence": "మొత్తం అప్పు: రూ.1,37,576 కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 1.91 lakh crore value of mines",
+     "evidence": "రూ.1.91 లక్షల కోట్లుగా వెల కట్టి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 9,000 crore debt",
+     "evidence": "రూ.9 వేల కోట్ల అప్పు చేస్తున్నాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 11,000 crore scam",
+     "evidence": "ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్‌"
+    },
+    {
+     "source": "AP Government",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "బారోయింగ్స్ సెక్యూర్డ్‌ ఫర్‌ అమరావతి బై ఏపీ గవర్నమెంట్‌"
+    }
+   ]
+  },
+  "ad052602d29b555b4275803b17d59ec2973f5d1e": {
+   "entities": [
+    {
+     "name": "PV Mithun Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vasudeva Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Dhanunjay Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna Mohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Balaji Govindappa",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vikat company",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Bharat Cement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "State government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Beverages Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CMO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Excise department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Mithun Reddy has no relation to Beverages Corporation or liquor",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Balaji Govindappa has no relation to liquor scam",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "PV Mithun Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "చంద్రబాబు ఒక భేతాళ కథ అల్లి.. సంబంధం లేని వ్యక్తులను లెఫ్ట్‌ రైట్‌ సెంటర్‌ అరెస్టు చేసే కార్యక్రమాలు చేస్తున్నాడు."
+    },
+    {
+     "source": "PV Mithun Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "Mithun Reddy has no relation to Beverages Corporation or liquor",
+     "evidence": "Rajampet MP Mithun Reddy ki emi sambandham? State government ki chesina Beverages Corporation, liquor ki Mithun Reddy ki emi sambandham?"
+    },
+    {
+     "source": "PV Mithun Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "ఇప్పుడు అరెస్టు చేసిన రిటైర్డ్‌ ఐఏఎస్‌ కె.ధనుంజయరెడ్డి, మాజీ ప్రభుత్వ అధికారి పి.కృష్ణమోహన్‌రెడ్డి."
+    },
+    {
+     "source": "PV Mithun Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "అసలు ఇలాంటి వారు తప్పుడు వాంగ్మూలాలతో కుట్రలు చేసి చంద్రబాబు ఒక భేతాళ కథ అల్లి.. సంబంధం లేని వ్యక్తులను లెఫ్ట్‌ రైట్‌ సెంటర్‌ అరెస్టు చేసే కార్యక్రమాలు చేస్తున్నాడు."
+    }
+   ]
+  },
+  "95fbc12127e92eff72631c3fc2978e2607a4702c": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": "Red Book"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పీఎస్‌ఆర్‌ అంజనేయులు",
+     "type": "Person",
+     "english_name": "P.S.R. Anjaneyulu"
+    },
+    {
+     "name": "సునీల్‌ కుమార్",
+     "type": "Person",
+     "english_name": "Sunil Kumar"
+    },
+    {
+     "name": "సంజయ్‌ ఐపీఎస్",
+     "type": "Person",
+     "english_name": "Sanjay IPS"
+    },
+    {
+     "name": "కాంతిలాల్‌ రాణా",
+     "type": "Person",
+     "english_name": "Kanthilal Rana"
+    },
+    {
+     "name": "విశాల్‌ గున్నీ",
+     "type": "Person",
+     "english_name": "Vishal Guni"
+    },
+    {
+     "name": "రఘురామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghuramireddy"
+    },
+    {
+     "name": "రవిశంకర్‌ రెడ్డి",
+     "type": "Person",
+     "english_name": "Ravishankar Reddy"
+    },
+    {
+     "name": "నిశాంత్‌ రెడ్డి",
+     "type": "Person",
+     "english_name": "Nishanth Reddy"
+    },
+    {
+     "name": "పి.జాషువా",
+     "type": "Person",
+     "english_name": "P. Joshua"
+    },
+    {
+     "name": "విజయ్‌పాల్‌",
+     "type": "Person",
+     "english_name": "Vijaypal"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "వెన్నుపోటు దినం",
+     "type": "Scheme",
+     "english_name": "Back-stab Day"
+    },
+    {
+     "name": "వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "కేంద్ర, రాష్ట్ర ప్రభుత్వాలు",
+     "type": "Organization",
+     "english_name": "Central and State Governments"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు నాయుడు",
+     "evidence": "చంద్రబాబు నాయుడు చేసిన మోసాలను నిలదీస్తూ"
+    },
+    {
+     "source": "వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వెన్నుపోటు దినం",
+     "evidence": "శ్రీ వైయస్‌ జగన్‌ పిలుపునిచ్చారు"
+    },
+    {
+     "source": "Redbook",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam, Redbook, Amaravati"
+    }
+   ]
+  },
+  "0d476d1c7d089d2c96f67161029fabcabcd3fa46": {
+   "entities": [
+    {
+     "name": "Dhannunjay Reddy",
+     "type": "Person",
+     "english_name": "Dhannunjay Reddy"
+    },
+    {
+     "name": "Krishna Mohan",
+     "type": "Person",
+     "english_name": "Krishna Mohan"
+    },
+    {
+     "name": "Balaji Govindappa",
+     "type": "Person",
+     "english_name": "Balaji Govindappa"
+    },
+    {
+     "name": "PSR Anjaneyulu",
+     "type": "Person",
+     "english_name": "PSR Anjaneyulu"
+    },
+    {
+     "name": "Sunil Kumar",
+     "type": "Person",
+     "english_name": "Sunil Kumar"
+    },
+    {
+     "name": "Sanjay",
+     "type": "Person",
+     "english_name": "Sanjay"
+    },
+    {
+     "name": "Vijay Pal",
+     "type": "Person",
+     "english_name": "Vijay Pal"
+    },
+    {
+     "name": "Kanthi Rana Tata",
+     "type": "Person",
+     "english_name": "Kanthi Rana Tata"
+    },
+    {
+     "name": "Vishal Guni",
+     "type": "Person",
+     "english_name": "Vishal Guni"
+    },
+    {
+     "name": "Joshua",
+     "type": "Person",
+     "english_name": "Joshua"
+    },
+    {
+     "name": "Raghuramireddy",
+     "type": "Person",
+     "english_name": "Raghuramireddy"
+    },
+    {
+     "name": "Rishanth Reddy",
+     "type": "Person",
+     "english_name": "Rishanth Reddy"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "coalition government",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "police officers",
+     "type": "Organization",
+     "english_name": "Police Officers"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    }
+   ],
+   "relations": []
+  },
+  "3c9ca808de2347a70573d7250e770797a26c972a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition government"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "లిక్కర్‌ కు సంబంధించి",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "మద్యం అక్రమాలు",
+     "type": "Issue",
+     "english_name": "Liquor irregularities"
+    },
+    {
+     "name": "రెడ్‌ బుక్‌",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "సోషల్‌ మీడియా యాక్టివిస్టులు",
+     "type": "Person",
+     "english_name": "Social media activists"
+    },
+    {
+     "name": "జర్నలిస్టులు",
+     "type": "Person",
+     "english_name": "Journalists"
+    },
+    {
+     "name": "ప్రజాసంఘాల నాయకులు",
+     "type": "Person",
+     "english_name": "Public organization leaders"
+    },
+    {
+     "name": "అధికారులు",
+     "type": "Person",
+     "english_name": "Officers"
+    },
+    {
+     "name": "ఏఎస్పీలు",
+     "type": "Person",
+     "english_name": "ASPs"
+    },
+    {
+     "name": "డీఎస్పీలు",
+     "type": "Person",
+     "english_name": "DSPs"
+    },
+    {
+     "name": "సీఐలు",
+     "type": "Person",
+     "english_name": "CIs"
+    },
+    {
+     "name": "ఐపీఎస్‌లు",
+     "type": "Person",
+     "english_name": "IPS officers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి"
+    }
+   ]
+  }
+ }
+}

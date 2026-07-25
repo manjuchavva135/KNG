@@ -1,0 +1,129 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "69c79bf36413a1a1f7e16ecb813c25db0640664a": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "గోపాలపురం నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Gopalapuram constituency"
+    },
+    {
+     "name": "నల్లజర్ల రైతు సేవా కేంద్రం",
+     "type": "Organization",
+     "english_name": "Nallajerla farmer service centre"
+    },
+    {
+     "name": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "రైతన్నా (మీకోసం)",
+     "type": "Scheme",
+     "english_name": "Raitha Anna (Meeku Kosam)"
+    },
+    {
+     "name": "అన్వదాత సుఖీభవ - పీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": "Anuvada Sukkhibhava - PM Kisan"
+    },
+    {
+     "name": "బిందు సేద్యం",
+     "type": "Scheme",
+     "english_name": "Bindu Sedyam"
+    },
+    {
+     "name": "మెరుగైన సాగునీటి విధానం",
+     "type": "Scheme",
+     "english_name": "Merugaina Saguneeti Paddhati"
+    },
+    {
+     "name": "46,85,838 రైతులకు ఖాతాల్లో రూ.6,310 కోట్లు జమ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులకు రూ.1,654 కోట్ల లబ్ధి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేలైన విత్తనాలు, ఎరువుల పంపిణీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కాలువల పూడికతీత, సకాలంలో నీటి విడుదల, వాననీటి సంరక్షణ, నదుల అనుసంధానం ద్వారా ప్రతి ఎకరాకు నీరందేలా",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతన్నా (మీకోసం)",
+     "evidence": "ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి గౌII నారా చంద్రబాబు నాయుడు గారు పాల్గొంటున్నారు"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్వదాత సుఖీభవ - పీఎం కిసాన్",
+     "evidence": "'అన్వదాత సుఖీభవ - పీఎం కిసాన్' పథకం కింద"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బిందు సేద్యం",
+     "evidence": "90% సబ్సిడీపై 'బిందు సేద్యం' ద్వారా"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెరుగైన సాగునీటి విధానం",
+     "evidence": "'మెరుగైన సాగునీటి విధానం'"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "MAKES_CLAIM",
+     "target": "46,85,838 రైతులకు ఖాతాల్లో రూ.6,310 కోట్లు జమ",
+     "evidence": "46,85,838 రైతులకు ఖాతాల్లో రూ.6,310 కోట్లు జమ"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులకు రూ.1,654 కోట్ల లబ్ధి",
+     "evidence": "రైతులకు రూ.1,654 కోట్ల లబ్ధి"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "MAKES_CLAIM",
+     "target": "మేలైన విత్తనాలు, ఎరువుల పంపిణీ",
+     "evidence": "మేలైన విత్తనాలు, ఎరువుల పంపిణీ"
+    },
+    {
+     "source": "గౌII నారా చంద్రబాబు నాయుడు గారు",
+     "relation": "MAKES_CLAIM",
+     "target": "కాలువల పూడికతీత, సకాలంలో నీటి విడుదల, వాననీటి సంరక్షణ, నదుల అనుసంధానం ద్వారా ప్రతి ఎకరాకు నీరందేలా",
+     "evidence": "కాలువల పూడికతీత, సకాలంలో నీటి విడుదల, వాననీటి సంరక్షణ, నదుల అనుసంధానం ద్వారా ప్రతి ఎకరాకు నీరందేలా"
+    }
+   ]
+  }
+ }
+}

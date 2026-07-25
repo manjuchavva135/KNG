@@ -1,0 +1,31 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "16be431a0f58bd6c630bba4552c9dd753a9453ec": {
+   "entities": [],
+   "relations": []
+  },
+  "4ba26dcd601071bf1b1b8f962552048e0a009f1c": {
+   "entities": [
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    }
+   ]
+  }
+ }
+}

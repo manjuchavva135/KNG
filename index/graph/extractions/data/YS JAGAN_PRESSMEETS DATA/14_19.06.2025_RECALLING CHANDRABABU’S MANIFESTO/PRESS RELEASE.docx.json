@@ -1,0 +1,2599 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "03df7a7e2f656dd92bdee15842851d2f0b004089": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "ఎల్లో మీడియా సామ్రాజ్యం",
+     "type": "Organization",
+     "english_name": "Yellow Media Empire"
+    },
+    {
+     "name": "వెన్నుపోటు దినం",
+     "type": "Scheme",
+     "english_name": "Venupotu Day"
+    },
+    {
+     "name": "ఏ ఒక్క హామీ నిలబెట్టుకోని కూటమి ప్రభుత్వం",
+     "type": "Claim",
+     "english_name": "Coalition government has not fulfilled any promise"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "ఏ ఒక్క హామీ నిలబెట్టుకోని కూటమి ప్రభుత్వం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు... ఎప్పటికప్పుడు డైవర్షన్‌ పాలిటిక్స్‌ చేస్తున్నారని"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా సామ్రాజ్యం",
+     "evidence": "మనం... ఎల్లో మీడియా సామ్రాజ్యంతో కూడా యుద్ధం చేస్తున్నాం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వెన్నుపోటు దినం",
+     "evidence": "మొన్న జూన్‌ 4న ‘వెన్నుపోటు దినం’ కార్యక్రమానికి పిలుపినిస్తే"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏ ఒక్క హామీ నిలబెట్టుకోని కూటమి ప్రభుత్వం",
+     "evidence": "ఏ ఒక్క హామీ నిలబెట్టుకోని కూటమి ప్రభుత్వం"
+    }
+   ]
+  },
+  "0210618146348994a97b1ff768ce14c74a1404fc": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Organization",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెనూ",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "పొదిలి",
+     "type": "Place",
+     "english_name": "Podili"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "చెవిరెడ్డిభాస్కర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Chevi Reddy Bhaskar Reddy"
+    },
+    {
+     "name": "డీజీపి",
+     "type": "Organization",
+     "english_name": "DGP"
+    },
+    {
+     "name": "కొమ్మినేనిగారు",
+     "type": "Person",
+     "english_name": "Kommineni"
+    },
+    {
+     "name": "చంద్రబాబు మోసాలపై పోరాడుదాం",
+     "type": "Claim",
+     "english_name": "Fight against Chandrababu's frauds"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌ లేదు. సూపర్‌ సెవెనూ లేదు ఏ ఒక్క పథకం కూడా అమలు చేయలేదు",
+     "type": "Claim",
+     "english_name": "No Super Six or Super Seven schemes implemented"
+    },
+    {
+     "name": "నా పర్యటనలపై ఆంక్షలు ఎందుకు విధిస్తున్నారు?",
+     "type": "Claim",
+     "english_name": "Why are restrictions imposed on my tours?"
+    },
+    {
+     "name": "లిక్కర్‌ కేసుతో చెవిరెడ్డిభాస్కర్‌రెడ్డికి ఏం సంబంధం?",
+     "type": "Claim",
+     "english_name": "What is Chevi Reddy Bhaskar Reddy's link to the liquor case?"
+    },
+    {
+     "name": "సీనియర్‌ జర్నలిస్టునూ వదలని చంద్రబాబు",
+     "type": "Claim",
+     "english_name": "Chandrababu does not spare even senior journalists"
+    },
+    {
+     "name": "అందుకే డైవర్షన్‌ పాలిటిక్స్‌",
+     "type": "Claim",
+     "english_name": "That is diversion politics"
+    },
+    {
+     "name": "ఉద్దేశపూర్వకంగా సాక్షి కార్యాలయాలపై దాడులు",
+     "type": "Claim",
+     "english_name": "Deliberate attacks on Sakshi offices"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు మోసాలపై పోరాడుదాం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు మోసాలపై పోరాడుదాం",
+     "evidence": "చంద్రబాబు మోసాలపై పోరాడుదాం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్‌ సిక్స్‌ లేదు. సూపర్‌ సెవెనూ లేదు ఏ ఒక్క పథకం కూడా అమలు చేయలేదు",
+     "evidence": "సూపర్‌ సిక్స్‌ లేదు. సూపర్‌ సెవెనూ లేదు ఏ ఒక్క పథకం కూడా అమలు చేయలేదు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "నా పర్యటనలపై ఆంక్షలు ఎందుకు విధిస్తున్నారు?",
+     "evidence": "నా పర్యటనలపై ఆంక్షలు ఎందుకు విధిస్తున్నారు?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "లిక్కర్‌ కేసుతో చెవిరెడ్డిభాస్కర్‌రెడ్డికి ఏం సంబంధం?",
+     "evidence": "లిక్కర్‌ కేసుతో చెవిరెడ్డిభాస్కర్‌రెడ్డికి ఏం సంబంధం?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "సీనియర్‌ జర్నలిస్టునూ వదలని చంద్రబాబు",
+     "evidence": "సీనియర్‌ జర్నలిస్టునూ వదలని చంద్రబాబు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అందుకే డైవర్షన్‌ పాలిటిక్స్‌",
+     "evidence": "అందుకే డైవర్షన్‌ పాలిటిక్స్‌"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉద్దేశపూర్వకంగా సాక్షి కార్యాలయాలపై దాడులు",
+     "evidence": "ఉద్దేశపూర్వకంగా సాక్షి కార్యాలయాలపై దాడులు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "నా పర్యటనలపై ఆంక్షలు ఎందుకు విధిస్తున్నారు?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "వైయస్సార్‌సీపీ నాయకులపై తప్పుడు కేసులు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "లిక్కర్‌ కేసుతో చెవిరెడ్డిభాస్కర్‌రెడ్డికి ఏం సంబంధం?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "సీనియర్‌ జర్నలిస్టునూ వదలని చంద్రబాబు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అందుకే డైవర్షన్‌ పాలిటిక్స్‌"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఉద్దేశపూర్వకంగా సాక్షి కార్యాలయాలపై దాడులు"
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ",
+     "relation": "LOCATED_IN",
+     "target": "తాడేపల్లి",
+     "evidence": "తాడేపల్లి"
+    }
+   ]
+  },
+  "dea258262f6daf86f95f4b7ed1bbde9d1c951b28": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రతిపక్ష నాయకుడు",
+     "type": "Person",
+     "english_name": "Opposition leader"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పొగాకు రైతులకు",
+     "type": "Issue",
+     "english_name": "Tobacco farmers"
+    },
+    {
+     "name": "రైతుల సమస్యలు",
+     "type": "Issue",
+     "english_name": "Farmers' issues"
+    },
+    {
+     "name": "పంటకు గిట్టుబాటు ధర రావడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధాన్యాన్ని రూ.300 తక్కువకు రైతులు దళారులకు అమ్ముకోవాల్సిన పరిస్థితి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ప్రభుత్వం పట్టించుకోవడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులు ఆత్మహత్యలు చేసుకుంటున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "40 వేల మంది, ప్రజలు రైతులతో జరిగే కార్యక్రమాన్ని నువ్వు 40 మంది చేత నువ్వు డిస్టర్బ్‌ చేయాలని ప్రయత్నం చేస్తావ్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మీరు 40 మంది చేత గొడవ నువ్వు చేయిస్తావు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉల్టా రైతుల మీద నువ్వే కేసులు పెడతావు!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రకాశం జిల్లా",
+     "type": "Place",
+     "english_name": "Prakasam district"
+    },
+    {
+     "name": "పర్చూరు",
+     "type": "Place",
+     "english_name": "Parchur"
+    },
+    {
+     "name": "కొండెపి",
+     "type": "Place",
+     "english_name": "Kondepi"
+    },
+    {
+     "name": "చిలకలూరిపేట",
+     "type": "Place",
+     "english_name": "Chilakaluripet"
+    },
+    {
+     "name": "వినుకొండ",
+     "type": "Place",
+     "english_name": "Vinukonda"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ప్రతిపక్ష నాయకుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పంటకు గిట్టుబాటు ధర రావడం లేదు.",
+     "evidence": "పంటకు గిట్టుబాటు ధర రావడం లేదు."
+    },
+    {
+     "source": "ప్రతిపక్ష నాయకుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ధాన్యాన్ని రూ.300 తక్కువకు రైతులు దళారులకు అమ్ముకోవాల్సిన పరిస్థితి.",
+     "evidence": "ధాన్యాన్ని రూ.300 తక్కువకు రైతులు దళారులకు అమ్ముకోవాల్సిన పరిస్థితి."
+    },
+    {
+     "source": "ప్రతిపక్ష నాయకుడు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ఈ ప్రభుత్వం పట్టించుకోవడం లేదు."
+    },
+    {
+     "source": "ప్రతిపక్ష నాయకుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "నువ్వు 40 మంది చేత నువ్వు డిస్టర్బ్‌ చేయాలని ప్రయత్నం చేస్తావ్‌."
+    },
+    {
+     "source": "ప్రతిపక్ష నాయకుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మీరు 40 మంది చేత గొడవ నువ్వు చేయిస్తావు."
+    },
+    {
+     "source": "ప్రతిపక్ష నాయకుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఉల్టా రైతుల మీద నువ్వే కేసులు పెడతావు!"
+    },
+    {
+     "source": "రైతులు ఆత్మహత్యలు చేసుకుంటున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పొగాకు రైతులకు",
+     "evidence": "రైతులు ఆత్మహత్యలు చేసుకుంటున్నారు."
+    },
+    {
+     "source": "పర్చూరు",
+     "relation": "LOCATED_IN",
+     "target": "ప్రకాశం జిల్లా",
+     "evidence": "ప్రకాశం జిల్లాలో పర్చూరు"
+    },
+    {
+     "source": "కొండెపి",
+     "relation": "LOCATED_IN",
+     "target": "ప్రకాశం జిల్లా",
+     "evidence": "ప్రకాశం జిల్లాలో కొండెపి"
+    },
+    {
+     "source": "చిలకలూరిపేట",
+     "relation": "LOCATED_IN",
+     "target": "ప్రకాశం జిల్లా",
+     "evidence": "చిలకలూరిపేట నియోజకవర్గంలో"
+    },
+    {
+     "source": "వినుకొండ",
+     "relation": "LOCATED_IN",
+     "target": "ప్రకాశం జిల్లా",
+     "evidence": "వినుకొండలో"
+    }
+   ]
+  },
+  "ac0b2412f2ffe6eb9b64776d21bc0abcf60ebb1d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "భాస్కర్‌",
+     "type": "Person",
+     "english_name": "Bhaskar"
+    },
+    {
+     "name": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Pinnelli Ramakrishna Reddy"
+    },
+    {
+     "name": "నందిగం సురేష్‌",
+     "type": "Person",
+     "english_name": "Nandigam Suresh"
+    },
+    {
+     "name": "వల్లభనేని వంశీ",
+     "type": "Person",
+     "english_name": "Vallabhaneeni Vamsi"
+    },
+    {
+     "name": "జోగి రమేష్",
+     "type": "Person",
+     "english_name": "Jogi Ramesh"
+    },
+    {
+     "name": "కాకాణి గోవర్ధన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Kakani Govardhan Reddy"
+    },
+    {
+     "name": "కృష్ణమోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Krishna Mohan Reddy"
+    },
+    {
+     "name": "కె.ధనుంజయరెడ్డి",
+     "type": "Person",
+     "english_name": "K. Dhanunjaya Reddy"
+    },
+    {
+     "name": "చంద్రగిరి",
+     "type": "Place",
+     "english_name": "Chandragiri"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "బిహార్‌",
+     "type": "Place",
+     "english_name": "Bihar"
+    },
+    {
+     "name": "నక్సలిజం",
+     "type": "Issue",
+     "english_name": "Naxalism"
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False cases"
+    },
+    {
+     "name": "చంద్రబాబు కన్నా ఎవడూ ఉండరు",
+     "type": "Claim",
+     "english_name": "No one is greater than Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబు సొంత నియోజకవర్గంలో గెలవలేని వ్యక్తి",
+     "type": "Claim",
+     "english_name": "Unable to win his own constituency"
+    },
+    {
+     "name": "చంద్రగిరి లాంటి చోట రాజకీయాలు చేయాలని చూస్తు...",
+     "type": "Claim",
+     "english_name": "Attempting politics in places like Chandragiri"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు కన్నా ఎవడూ ఉండరు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నక్సలిజం",
+     "evidence": "నక్సలిజం అనేది ఇట్లాంటి దాంట్లో నుంచే పుడుతుంది కదా?"
+    },
+    {
+     "source": "చంద్రబాబు సొంత నియోజకవర్గంలో గెలవలేని వ్యక్తి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "తప్పుడు కేసులు",
+     "evidence": "రాష్ట్రంలో కూటమి ప్రభుత్వం ఏర్పడిన నాటి నుంచి తప్పుడు కేసుల పరంపర కొనసాగుతోంది."
+    },
+    {
+     "source": "చంద్రగిరి లాంటి చోట రాజకీయాలు చేయాలని చూస్తు...",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "తప్పుడు కేసులు",
+     "evidence": "చంద్రగిరి లాంటి చోట రాజకీయాలు చేయాలని చూస్తు..."
+    }
+   ]
+  },
+  "5b7cc67fd0154e88694bf4ccb4d74ab3dbf6ce3a": {
+   "entities": [
+    {
+     "name": "భాస్కర్‌",
+     "type": "Person",
+     "english_name": "Bhaskar"
+    },
+    {
+     "name": "గన్‌మెన్‌",
+     "type": "Person",
+     "english_name": "gunman"
+    },
+    {
+     "name": "కానిస్టేబుల్‌",
+     "type": "Person",
+     "english_name": "constable"
+    },
+    {
+     "name": "గిరి",
+     "type": "Person",
+     "english_name": "Giri"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Organization",
+     "english_name": "Director General of Police"
+    },
+    {
+     "name": "గవర్నర్‌",
+     "type": "Organization",
+     "english_name": "Governor"
+    },
+    {
+     "name": "రాష్ట్రపతి",
+     "type": "Organization",
+     "english_name": "President"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "లిక్కర్‌ కేసు",
+     "type": "Issue",
+     "english_name": "Liquor case"
+    },
+    {
+     "name": "నక్సలిజం",
+     "type": "Issue",
+     "english_name": "Naxalism"
+    },
+    {
+     "name": "లిక్కర్‌ కేసులో భాస్కర్‌ను ఇరికించేందుకు తప్పుడు సాక్ష్యాలను క్రియేట్‌ చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "భాస్కర్‌ గన్‌మెన్‌ను పిల్చి, భాస్కర్‌కు వ్యతిరేకంగా స్టేట్‌మెంట్‌ కోసం ఒత్తిడి చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గన్‌మెన్‌ ఒప్పుక్కోక పోవడంతో కొట్టి చిత్రహింసలకు గురి చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కానిస్టేబుల్‌ వీడియో తీసి, తనకు తగిలిన దెబ్బలు చూపిస్తూ, జరిగిన సంఘటన చెబుతూ, డీజీపీకి, గవర్నర్‌కు, రాష్ట్రపతికి ఫిర్యాదు చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గిరి అనే కానిస్టేబుల్‌ను తీసుకొచ్చి, స్టేట్‌మెంట్‌ ఇప్పించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎవడెన్స్‌ నువ్వు క్రియేట్‌ చేస్తున్నావు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నక్సలిజం అనేది ఇట్లాంటి దాంట్లో నుంచే పుడుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "కానిస్టేబుల్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "కానిస్టేబుల్‌ వీడియో తీసి, తనకు తగిలిన దెబ్బలు చూపిస్తూ, జరిగిన సంఘటన చెబుతూ, డీజీపీకి, గవర్నర్‌కు, రాష్ట్రపతికి ఫిర్యాదు చేశారు.",
+     "evidence": "కానిస్టేబుల్‌ వీడియో తీసి ఫిర్యాదు చేశారు"
+    }
+   ]
+  },
+  "09146cbbb05df60fa3a27a9dbf3ed89a9cfc602a": {
+   "entities": [
+    {
+     "name": "రాజ్ కసిరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బాలాజీ గోవిందప్ప",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మిథున్‌రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పెద్దిరెడ్డి రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పేర్ని నాని",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జయసుధ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కొడాలి నాని",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జోగి రమేష్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సజ్జల రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "భార్గవ్‌రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైవీ సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "దేవినేని అవినాశ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తలశిల రఘురామ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అంబటి రాంబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "విడదల రజిని",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తాటిపర్తి చంద్రశేఖర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బూచేపల్లి శివప్రసాద్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఉషాశ్రీ చరణ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తోపుదుర్తి ప్రకాశ్‌రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గోరంట్ల మాధవ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గౌతమ్ రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మేరుగు నాగార్జున",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "దాశరి రాజశేఖరరావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అరెస్టులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పెద్దిరెడ్డి రామచంద్రారెడ్డి కాలేజీలో చంద్రబాబునాయుడును కొట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉషాశ్రీ చరణ్ బీసీ మహిళ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తాటిపర్తి చంద్రశేఖర్ దళిత ఎమ్మెల్యే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తోపుదుర్తి ప్రకాశ్‌రెడ్డి మాజీ మంత్రి, మాజీ ఎమ్మెల్యే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గోరంట్ల మాధవ్ మాజీ ఎంపీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గౌతమ్ రెడ్డి లాయర్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేరుగు నాగార్జున దళిత మాజీ మంత్రి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దాశరి రాజశేఖరరావు ఎక్స్‌ మినిస్టర్‌",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "పెద్దిరెడ్డి రామచంద్రారెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "పెద్దిరెడ్డి రామచంద్రారెడ్డి కాలేజీలో చంద్రబాబునాయుడును కొట్టారు",
+     "evidence": "చంద్రబాబునాయుడుని ఎప్పుడో కాలేజీలో కొట్టాడంట."
+    },
+    {
+     "source": "ఉషాశ్రీ చరణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉషాశ్రీ చరణ్ బీసీ మహిళ",
+     "evidence": "BC woman"
+    },
+    {
+     "source": "తాటిపర్తి చంద్రశేఖర్",
+     "relation": "MAKES_CLAIM",
+     "target": "తాటిపర్తి చంద్రశేఖర్ దళిత ఎమ్మెల్యే",
+     "evidence": "దళిత ఎమ్మెల్యే"
+    }
+   ]
+  },
+  "6487da9f923c9b3b009615de32c96234af85164e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "కొమ్మినేని శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "Kommineni Srinivasarao"
+    },
+    {
+     "name": "మెట్ట శైలజ",
+     "type": "Person",
+     "english_name": "Metta Sailaja"
+    },
+    {
+     "name": "గొండు శంకర్‌",
+     "type": "Person",
+     "english_name": "Gondi Shankar"
+    },
+    {
+     "name": "గొండు స్వాతి",
+     "type": "Person",
+     "english_name": "Gondi Swathi"
+    },
+    {
+     "name": "చౌదరి ధనలక్ష్మి",
+     "type": "Person",
+     "english_name": "Chowdari Dhanalakshmi"
+    },
+    {
+     "name": "మెండా దాసు నాయుడు",
+     "type": "Person",
+     "english_name": "Menda Dasu Naidu"
+    },
+    {
+     "name": "బుక్కా శ్రావణి",
+     "type": "Person",
+     "english_name": "Bukka Sravani"
+    },
+    {
+     "name": "అనంతలక్ష్మి",
+     "type": "Person",
+     "english_name": "Anantalakshmi"
+    },
+    {
+     "name": "నల్లమిల్లి రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Nallamilli Ramakrishna Reddy"
+    },
+    {
+     "name": "బత్తుల బలరామకృష్ణ",
+     "type": "Person",
+     "english_name": "Bathula Balramakrishna"
+    },
+    {
+     "name": "తెలుగు మహిళ",
+     "type": "Organization",
+     "english_name": "Telugu Mahila"
+    },
+    {
+     "name": "తెలుగు యువత",
+     "type": "Organization",
+     "english_name": "Telugu Yuva"
+    },
+    {
+     "name": "బిజెపి",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "జెడ్‌పి",
+     "type": "Organization",
+     "english_name": "Zilla Parishad"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "తూర్పు గోదావరి",
+     "type": "Place",
+     "english_name": "East Godavari"
+    },
+    {
+     "name": "రాజానగరం",
+     "type": "Place",
+     "english_name": "Rajanagaram"
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False cases"
+    },
+    {
+     "name": "సాక్షి కార్యాలయాలపై కుట్ర. దాడులు",
+     "type": "Issue",
+     "english_name": "Conspiracy and attacks on Sakshi offices"
+    },
+    {
+     "name": "చంద్రబాబు తప్పుడు కేసులు పెడుతున్నాడు",
+     "type": "Claim",
+     "english_name": "Chandrababu is hatching false cases and"
+    }
+   ],
+   "relations": []
+  },
+  "f0ca6d36a46cfa9167715d21fdf33e49f3bb1f1e": {
+   "entities": [
+    {
+     "name": "గద్దె రామ్మోహన్",
+     "type": "Person",
+     "english_name": "Gaddhe Rammohan"
+    },
+    {
+     "name": "గద్దె అనురాధ",
+     "type": "Person",
+     "english_name": "Gaddhe Anuradha"
+    },
+    {
+     "name": "గద్దె క్రాంతి",
+     "type": "Person",
+     "english_name": "Gaddhe Kranthi"
+    },
+    {
+     "name": "కంభంపాటి శిరీష",
+     "type": "Person",
+     "english_name": "Kampampati Shirisha"
+    },
+    {
+     "name": "సంగా స్వాతి",
+     "type": "Person",
+     "english_name": "Sangha Swathi"
+    },
+    {
+     "name": "సంగా తేజస్విని",
+     "type": "Person",
+     "english_name": "Sangha Tejaswini"
+    },
+    {
+     "name": "బొజ్జా తిరుమలేష్",
+     "type": "Person",
+     "english_name": "Boja Tirumalesh"
+    },
+    {
+     "name": "ఆర్‌సీ మునికృష్ణ",
+     "type": "Person",
+     "english_name": "RC Munikrishn"
+    },
+    {
+     "name": "కోడూరు బాలసుబ్రమణ్యం",
+     "type": "Person",
+     "english_name": "Koduru Balasubrahmanyam"
+    },
+    {
+     "name": "కె. రేవతి",
+     "type": "Person",
+     "english_name": "K. Revathi"
+    },
+    {
+     "name": "చింతల వెంకటరమణ",
+     "type": "Person",
+     "english_name": "Chintala Venkataramana"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కొమ్మినేని శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "Kommineni Srinivasa Rao"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    }
+   ],
+   "relations": []
+  },
+  "782d72e17e14eb53da8367dcb0bc854bb3f5e831": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిమ్మరాయప్ప",
+     "type": "Person",
+     "english_name": "Timmarayappa"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": "Shirisha"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kupam"
+    },
+    {
+     "name": "నారాయణపురం",
+     "type": "Place",
+     "english_name": "Narayannapura"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "రూ.5 లక్షలు ప్రకటిస్తాడు",
+     "type": "Claim",
+     "english_name": "Rs 5 lakh announced"
+    },
+    {
+     "name": "ఏకంగా రూ.1.89 లక్షల కోట్లు డీబీటీగా 19 పథకాల ద్వారా అక్కచెల్లెమ్మలకు నేరుగా అందించాం.",
+     "type": "Claim",
+     "english_name": "Rs 1.89 lakh crore DBT to women via 19 schemes"
+    },
+    {
+     "name": "ఏకంగా 32 లక్షల ఇళ్ల పట్టాలు అక్కచెల్లెమ్మల పేరుతో రిజిస్టర్‌ చేశాం.",
+     "type": "Claim",
+     "english_name": "32 lakh house pattas registered in women's names"
+    },
+    {
+     "name": "అందులో 22 లక్షలు ఇళ్లు మంజూరు చేసి 10 లక్షల ఇళ్లు కూడా కట్టించడం జరిగింది.",
+     "type": "Claim",
+     "english_name": "22 lakh houses sanctioned and 10 lakh houses built"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు సొంత నియోజకవర్గం కుప్పంలోని నారాయణపురంలో తిమ్మరాయప్ప అనే పేద కూలి అప్పు చెల్లించలేదని ఆయన భార్య శిరీషను టీడీపీ కార్యకర్త చెట్టుకు కట్టేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్",
+     "evidence": "ఎన్నికల ముందు సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్",
+     "evidence": "ఎన్నికల ముందు సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.5 లక్షలు ప్రకటిస్తాడు",
+     "evidence": "రూ.5 లక్షలు ప్రకటిస్తాడు."
+    }
+   ]
+  },
+  "201974e60d72f54a36301146eb050c9d807ce73f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "సోషల్ మీడియా",
+     "type": "Organization",
+     "english_name": "Social Media"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "టీడీపీ గెజిట్ పత్రిక",
+     "type": "Organization",
+     "english_name": "TDP Gazette"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment Benefit"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Aadabidda Nidhi"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": "DBT"
+    },
+    {
+     "name": "నాన్-డీబీటీ",
+     "type": "Scheme",
+     "english_name": "Non-DBT"
+    },
+    {
+     "name": "ఇళ్ల పట్టాలు",
+     "type": "Scheme",
+     "english_name": "House Pattas"
+    },
+    {
+     "name": "మహిళల రిజర్వేషన్",
+     "type": "Scheme",
+     "english_name": "Women Reservation"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "సూపర్ సిక్స్.. సూపర్ సెవెన్ పేరిట తాను చేసిన వాగ్దానాలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవెన్",
+     "evidence": "సూపర్ సిక్స్.. సూపర్ సెవెన్ పేరిట తాను చేసిన వాగ్దానాలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నిరుద్యోగ భృతి",
+     "evidence": "నిరుద్యోగ యువతకు నెలకు రూ.3 వేలు ఇస్తానన్నావు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆడబిడ్డ నిధి",
+     "evidence": "ఆడబిడ్డ నిధి:"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీబీటీ",
+     "evidence": "దాదాపు రూ.2.73 లక్షల కోట్లు డీబీటీ, నాన్ డీబీటీగా.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నాన్-డీబీటీ",
+     "evidence": "దాదాపు రూ.2.73 లక్షల కోట్లు డీబీటీ, నాన్ డీబీటీగా.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇళ్ల పట్టాలు",
+     "evidence": "32 లక్షల ఇళ్ల పట్టాలు అక్క చెల్లెమ్మల పేరుతో రిజిస్టర్ చేశాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మహిళల రిజర్వేషన్",
+     "evidence": "అక్క చెల్లెమ్మలకు నామినేటెడ్ పదవులు, నామినేషన్ విధానంలో ఇచ్చే పనుల్లో 50 శాతం రిజర్వేషన్ కల్పించాం."
+    }
+   ]
+  },
+  "abc889ff941d63ed620c9ca4126d484b3a2dcceb": {
+   "entities": [
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Andhra Pradesh Women's Fund"
+    },
+    {
+     "name": "పీ4",
+     "type": "Scheme",
+     "english_name": "P4 Scheme"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి పథకం",
+     "type": "Scheme",
+     "english_name": "Andhra Pradesh Women's Fund Scheme"
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Scheme",
+     "english_name": "Free Bus Scheme"
+    },
+    {
+     "name": "ఎన్నికల కమిషన్",
+     "type": "Organization",
+     "english_name": "Election Commission"
+    },
+    {
+     "name": "పెట్రోలియం ప్లానింగ్ అండ్ అనాలిసిస్ సెల్",
+     "type": "Organization",
+     "english_name": "Petroleum Planning and Analysis Cell"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి ఎగురగొట్టి పీ4 అంటున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం, ఉచిత బస్సు అనేవి చిన్న చిన్న పథకాలు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం పథకంలో ఒక్క సిలిండర్‌కు కూడా దిక్కు లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మొదటి ఏడాది బడ్జెట్‌ కేటాయింపు చూస్తే కేవలం రూ.865 కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిగిలిన రూ. 3244 కోట్లు ఇవ్వకుండా చేసింది మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆడబిడ్డ నిధి ఎగురగొట్టి పీ4 అంటున్నాడు.",
+     "evidence": "ఆడబిడ్డ నిధి ఎగురగొట్టి పీ4 అంటున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "దీపం, ఉచిత బస్సు అనేవి చిన్న చిన్న పథకాలు.",
+     "evidence": "దీపం, ఉచిత బస్సు అనేవి చిన్న చిన్న పథకాలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "దీపం పథకంలో ఒక్క సిలిండర్‌కు కూడా దిక్కు లేదు.",
+     "evidence": "దీపం పథకంలో ఒక్క సిలిండర్‌కు కూడా దిక్కు లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మొదటి ఏడాది బడ్జెట్‌ కేటాయింపు చూస్తే కేవలం రూ.865 కోట్లు.",
+     "evidence": "మొదటి ఏడాది బడ్జెట్‌ కేటాయింపు చూస్తే కేవలం రూ.865 కోట్లు."
+    }
+   ]
+  },
+  "6d730e6b98fc94050ca597b94da987757224d535": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎం కిసాన్‌ నిధి పథకం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "యూడీఐఎస్‌ఈ (యూనిఫైడ్‌ డిస్ట్రిక్ట్‌ ఇన్ఫర్మేషన్‌ సిస్టమ్‌ ఫర్‌ ఎడ్యుకేషన్‌)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రైతుకు సంవత్సరానికి ఇప్పుడు ఇచ్చేది కాకుండా రూ.20 వేలు ఇస్తామని చెప్పారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తల్లికి వందనం కింద ఎంత మంది పిల్లలున్నా ఆంక్షలు లేవు, కటింగ్‌లు లేవని మాటిస్తున్నా",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ",
+     "evidence": "ఈయన అదనంగా రూ.20 వేలు ఇస్తామని ఊదరగొట్టి, దానికి అన్నదాత సుఖీభవ అనే పేరు పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వందనం",
+     "evidence": "తల్లికి వందనం పేరిట తల్లులందరిని చంద్రబాబు వంచిస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతుకు సంవత్సరానికి ఇప్పుడు ఇచ్చేది కాకుండా రూ.20 వేలు ఇస్తామని చెప్పారు",
+     "evidence": "రైతుకు సంవత్సరానికి ఇప్పుడు ఇచ్చేది కాకుండా రూ.20 వేలు ఇస్తామని చెప్పారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "తల్లికి వందనం కింద ఎంత మంది పిల్లలున్నా ఆంక్షలు లేవు, కటింగ్‌లు లేవని మాటిస్తున్నా",
+     "evidence": "‘తల్లికి వందనం కింద ఎంత మంది పిల్లలున్నా ఆంక్షలు లేవు, కటింగ్‌లు లేవని మాటిస్తున్నా’"
+    }
+   ]
+  },
+  "c6d3795ac7e27a81bed3fe3034b227063a74f560": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "యూడీఐఎస్‌ఈ",
+     "type": "Organization",
+     "english_name": "UDISE"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "ఇంగ్లీష్ మీడియం బడులు",
+     "type": "Scheme",
+     "english_name": "English medium schools"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu"
+    },
+    {
+     "name": "టోఫెల్",
+     "type": "Scheme",
+     "english_name": "Tofel"
+    },
+    {
+     "name": "మధ్యాహ్న భోజనం",
+     "type": "Scheme",
+     "english_name": "Mid-day meals"
+    },
+    {
+     "name": "ట్యాబ్",
+     "type": "Scheme",
+     "english_name": "Tab"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "క్లెయిమ్: ప్రతి విద్యార్థికి రూ.15 వేలు ఇస్తామన్నారు, ఎలాంటి షరతులు పెట్టబోమని",
+     "type": "Claim",
+     "english_name": "Claim: Rs 15,000 per student, no conditions"
+    },
+    {
+     "name": "క్లెయిమ్: తల్లికి వందనం కింద ఎంత మంది పిల్లలున్నా ఆంక్షలు లేవు, కటింగ్‌లు లేవని మాటిస్తున్నా",
+     "type": "Claim",
+     "english_name": "Claim: No restrictions or cuts under Talliki Vandanam"
+    },
+    {
+     "name": "క్లెయిమ్: రూ.13,111 కోట్లు కావాలి, కానీ ఇప్పుడు రూ.8700 కోట్లు మాత్రమే ఇస్తానంటోంది",
+     "type": "Claim",
+     "english_name": "Claim: Rs 13,111 crore needed, only Rs 8,700 crore offered"
+    },
+    {
+     "name": "క్లెయిమ్: రూ.13 వేలు మాత్రమే, 67 లక్షల మందికి",
+     "type": "Claim",
+     "english_name": "Claim: Rs 13,000 per student for 67 lakh students"
+    },
+    {
+     "name": "క్లెయిమ్: ప్రస్తుతం 55 లక్షల మందికి మాత్రమే ఇస్తామంటున్నాడు",
+     "type": "Claim",
+     "english_name": "Claim: Only 55 lakh students will receive the benefit"
+    },
+    {
+     "name": "ఇష్యూ: తల్లికి వందనం పథకం వివాదం",
+     "type": "Issue",
+     "english_name": "Issue: Talliki Vandanam scheme controversy"
+    },
+    {
+     "name": "ఇష్యూ: అమ్మ ఒడి పథకం",
+     "type": "Issue",
+     "english_name": "Issue: Amma Odi scheme"
+    },
+    {
+     "name": "ఇష్యూ: ఇంగ్లీష్ మీడియం బడులు",
+     "type": "Issue",
+     "english_name": "Issue: English medium schools"
+    },
+    {
+     "name": "ఇష్యూ: నాడు–నేడు పనులు",
+     "type": "Issue",
+     "english_name": "Issue: Naadu-Nedu works"
+    },
+    {
+     "name": "ఇష్యూ: మధ్యాహ్న భోజనం",
+     "type": "Issue",
+     "english_name": "Issue: Mid-day meals"
+    },
+    {
+     "name": "ఇష్యూ: 8వ తరగతి ట్యాబ్",
+     "type": "Issue",
+     "english_name": "Issue: Tab for 8th class"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "క్లెయిమ్: ప్రతి విద్యార్థికి రూ.15 వేలు ఇస్తామన్నారు, ఎలాంటి షరతులు పెట్టబోమని",
+     "evidence": "ప్రతి విద్యార్థికి రూ.15 వేలు చొప్పున ఇస్తామన్నారు. ఈ పథకానికి ఎలాంటి షరతులు పెట్టబోమని చంద్రబాబు ఎన్నికల్లో పదేపదే చెప్పాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "క్లెయిమ్: తల్లికి వందనం కింద ఎంత మంది పిల్లలున్నా ఆంక్షలు లేవు, కటింగ్‌లు లేవని మాటిస్తున్నా",
+     "evidence": "‘తల్లికి వందనం కింద ఎంత మంది పిల్లలున్నా ఆంక్షలు లేవు, కటింగ్‌లు లేవని మా ఆడబిడ్డలకు మాటిస్తున్నా’"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వందనం",
+     "evidence": "ఈ పథకానికి ఎలాంటి షరతులు పెట్టబోమని చంద్రబాబు ఎన్నికల్లో పదేపదే చెప్పాడు."
+    },
+    {
+     "source": "యూడీఐఎస్‌ఈ",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "యూడీఐఎస్‌ఈ (యూనిఫైడ్‌ డిస్ట్రిక్ట్‌ ఇన్ఫర్మేషన్‌ సిస్టమ్‌ ఫర్‌ ఎడ్యుకేషన్‌). ఈ డేటా కలెక్టర్లు అప్‌లోడ్‌ చేస్తారు."
+    },
+    {
+     "source": "తల్లికి వందనం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఇష్యూ: తల్లికి వందనం పథకం వివాదం",
+     "evidence": "ఈ మోసాన్ని ప్రశ్నిస్తే నాలుక మందం అంటున్నాడు."
+    },
+    {
+     "source": "అమ్మ ఒడి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఇష్యూ: అమ్మ ఒడి పథకం",
+     "evidence": "నాడు అమ్మ ఒడి ఘనం:"
+    },
+    {
+     "source": "ఇంగ్లీష్ మీడియం బడులు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఇష్యూ: ఇంగ్లీష్ మీడియం బడులు",
+     "evidence": "మా ప్రభుత్వ హయాంలో తీసుకువచ్చిన ఇంగ్లీష్‌ మీడియం బడులు పోయాయి."
+    },
+    {
+     "source": "నాడు–నేడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఇష్యూ: నాడు–నేడు పనులు",
+     "evidence": "నాడు–నేడు పనులు ఆగిపోయాయి."
+    },
+    {
+     "source": "మధ్యాహ్న భోజనం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఇష్యూ: మధ్యాహ్న భోజనం",
+     "evidence": "రోజుకో మెనూతో చిక్కీతో ఇచ్చే మధ్యాహ్న భోజనం గోరుముద్దా పోయింది."
+    },
+    {
+     "source": "ట్యాబ్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఇష్యూ: 8వ తరగతి ట్యాబ్",
+     "evidence": "8వ తరగతి పిల్లలకు ఇచ్చే ట్యాబ్‌లు ఇవ్వడం లేదు."
+    }
+   ]
+  },
+  "ce7374d1b9e3cea591c2f5528b9dbb879bccdcb2": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్‌",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasati Deevena"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Aasara"
+    },
+    {
+     "name": "ఎన్నికల కోడ్‌",
+     "type": "Issue",
+     "english_name": "Election code"
+    },
+    {
+     "name": "చంద్రబాబు సీఎం అయ్యాక ఈ జూన్‌ వస్తే ఆరు త్రైమాసికాలు అవుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన రద్దు అయినట్లుగా మాట్లాడుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యా దీవెన గురించి తప్పుడు మాటలు మాట్లాడుతాడే తప్ప, ఇవ్వాలనే తాపత్రయం ఎక్కడా కనిపించడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ నిర్వీర్యం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికల కోడ్‌ కారణంగా అప్పట్లో వాయిదా పడింది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు సీఎం అయ్యాక ఈ జూన్‌ వస్తే ఆరు త్రైమాసికాలు అవుతుంది.",
+     "evidence": "చంద్రబాబు సీఎం అయ్యాక ఈ జూన్‌ వస్తే ఆరు త్రైమాసికాలు అవుతుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వసతి దీవెన రద్దు అయినట్లుగా మాట్లాడుతున్నాడు.",
+     "evidence": "వసతి దీవెన రద్దు అయినట్లుగా మాట్లాడుతున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "విద్యా దీవెన గురించి తప్పుడు మాటలు మాట్లాడుతాడే తప్ప, ఇవ్వాలనే తాపత్రయం ఎక్కడా కనిపించడం లేదు.",
+     "evidence": "విద్యా దీవెన గురించి తప్పుడు మాటలు మాట్లాడుతాడే తప్ప, ఇవ్వాలనే తాపత్రయం ఎక్కడా కనిపించడం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆరోగ్యశ్రీ నిర్వీర్యం.",
+     "evidence": "ఆరోగ్యశ్రీ నిర్వీర్యం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆరోగ్య ఆసరా లేదు.",
+     "evidence": "ఆరోగ్య ఆసరా లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్నికల కోడ్‌ కారణంగా అప్పట్లో వాయిదా పడింది.",
+     "evidence": "ఎన్నికల కోడ్‌ కారణంగా అప్పట్లో వాయిదా పడింది."
+    }
+   ]
+  },
+  "35ffa035e9d3e09a1e0d89f295e6736b6f4e1869": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Education Vethanam"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "HealthSree"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "HealthAasara"
+    },
+    {
+     "name": "నెట్‌వర్క్‌ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": "Network Hospitals"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Issue",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "విద్యుత్‌ ఛార్జీల బాదుడు",
+     "type": "Issue",
+     "english_name": "Electricity Charges Burden"
+    },
+    {
+     "name": "గవర్నమెంటు స్కూళ్లు, కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Government Schools and Colleges"
+    },
+    {
+     "name": "ప్రైవేటు స్కూళ్లు, కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Private Schools and Colleges"
+    },
+    {
+     "name": "పన్నులు",
+     "type": "Issue",
+     "english_name": "Taxes"
+    },
+    {
+     "name": "ఇంటిఅద్దెల",
+     "type": "Issue",
+     "english_name": "House Rents"
+    },
+    {
+     "name": "హెరిటేజ్‌",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "అమూల్‌",
+     "type": "Organization",
+     "english_name": "Amul"
+    },
+    {
+     "name": "రేషన్‌ సరుకులు",
+     "type": "Scheme",
+     "english_name": "Ration Supplies"
+    },
+    {
+     "name": "ఉద్యోగాలు",
+     "type": "Issue",
+     "english_name": "Jobs"
+    },
+    {
+     "name": "Claim_ఆరోగ్యశ్రీకి పెట్టిన బకాయిలు రూ.3600 కోట్లు",
+     "type": "Claim",
+     "english_name": "Claim: HealthSree dues of Rs.3600 crore"
+    },
+    {
+     "name": "Claim_ఆరోగ్య ఆసరా కింద నెలకు రూ.5 వేలు",
+     "type": "Claim",
+     "english_name": "Claim: HealthAasara provides Rs.5000 per month"
+    },
+    {
+     "name": "Claim_నెట్‌వర్క్‌ ఆస్పత్రులు చేతులు ఎత్తేశాయి",
+     "type": "Claim",
+     "english_name": "Claim: Network hospitals have stopped services"
+    },
+    {
+     "name": "Claim_రైతుల ఆత్మహత్యలు జరుగుతున్నాయి",
+     "type": "Claim",
+     "english_name": "Claim: Farmer suicides are occurring"
+    },
+    {
+     "name": "Claim_ఏడాదిలో రూ.15 వేల కోట్ల విద్యుత్‌ ఛార్జీల బాదుడు",
+     "type": "Claim",
+     "english_name": "Claim: Rs.15,000 crore electricity charge burden in a year"
+    },
+    {
+     "name": "Claim_గవర్నమెంటు స్కూళ్లు, కాలేజీలు చంపేసి",
+     "type": "Claim",
+     "english_name": "Claim: Government schools and colleges have been shut down"
+    },
+    {
+     "name": "Claim_అన్ని పన్నులు పెంచడం వల్ల ఇంటిఅద్దెల బాదుడు",
+     "type": "Claim",
+     "english_name": "Claim: All taxes increased causing house rent burden"
+    },
+    {
+     "name": "Claim_హెరిటేజ్‌ కోసం అమూల్‌ను చంపేసి",
+     "type": "Claim",
+     "english_name": "Claim: Amul was shut down for Heritage"
+    },
+    {
+     "name": "Claim_రేషన్‌ సరుకుల్లో కందిపప్పు తీసేశాడు",
+     "type": "Claim",
+     "english_name": "Claim: Pulses removed from ration supplies"
+    },
+    {
+     "name": "Claim_ఏడాది కాలంలో 3 లక్షలకు పైగా ఉద్యోగాలు తీసేశాడు",
+     "type": "Claim",
+     "english_name": "Claim: Over 3 lakh jobs removed in a year"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_ఆరోగ్యశ్రీకి పెట్టిన బకాయిలు రూ.3600 కోట్లు",
+     "evidence": "ఆరోగ్యశ్రీకి పెట్టిన బకాయిలు రూ.3600 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_ఆరోగ్య ఆసరా కింద నెలకు రూ.5 వేలు",
+     "evidence": "ఆరోగ్య ఆసరా కింద ఆపరేషన్‌ పూర్తయిన తరువాత పేషెంట్‌ రెస్ట్‌ తీసుకునే సమయంలో నెలకు రూ.5 వేలు ఇచ్చాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_నెట్‌వర్క్‌ ఆస్పత్రులు చేతులు ఎత్తేశాయి",
+     "evidence": "నెట్‌వర్క్‌ ఆస్పత్రులు చేతులు ఎత్తేశాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_రైతుల ఆత్మహత్యలు జరుగుతున్నాయి",
+     "evidence": "వ్యవసాయం పూర్తిగా నిర్వీర్యం అయిపోయిన పరిస్థితుల్లో ఈరోజున రైతుల ఆత్మహత్యలు జరుగుతున్నాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_ఏడాదిలో రూ.15 వేల కోట్ల విద్యుత్‌ ఛార్జీల బాదుడు",
+     "evidence": "ఏడాదిలో రూ.15 వేల కోట్ల విద్యుత్‌ ఛార్జీల బాదుడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_గవర్నమెంటు స్కూళ్లు, కాలేజీలు చంపేసి",
+     "evidence": "గవర్నమెంటు స్కూళ్లు, కాలేజీలు చంపేసి, తద్వారా ప్రైవేటు స్కూళ్లు, కాలేజీల్లో ఫీజులు పెంచేలా చేసి బాదుడే బాదుడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_అన్ని పన్నులు పెంచడం వల్ల ఇంటిఅద్దెల బాదుడు",
+     "evidence": "అన్ని పన్నులు పెంచడం వల్ల ఇంటిఅద్దెల బాదుడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_హెరిటేజ్‌ కోసం అమూల్‌ను చంపేసి",
+     "evidence": "హెరిటేజ్‌ కోసం అమూల్‌ను చంపేసి, పాల రేట్లు పెంచేలా చేసి బాదుడే బాదుడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim_రేషన్‌ సరుకుల్లో కందిపప్పు తీసేశాడు",
+     "evidence": "ఇంటింటికీ రేషన్‌ సరుకులు అందించే వాహనాలు తీసేయడమే కాకుండా, రేషన్‌ సరుకుల్లో కందిపప్పు తీసేశాడు."
+    }
+   ]
+  },
+  "eb9894ced3ff5547f4fc9723d1b57e33615407d8": {
+   "entities": [
+    {
+     "name": "2.60 లక్షల వాలంటీర్ల ఉద్యోగాలు హుష్‌కాకి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మధ్యంతర భృతి లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉన్న పీఆర్‌సీ రద్దు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొత్త పీఆర్‌సీ నియామకం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మూడు డీఏలు ఇప్పటికే పెండింగ్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ జూలై 1 వస్తే 4 డీఏలు పెండింగ్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యోగుల బకాయిలు దాదాపు రూ.20 వేల కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర జీఎస్‌డీపీలో మా హయాంలో అప్పుల శాతం 4.08 శాతం అయితే, చంద్రబాబు పాలనలో ఏడాది కాలంలో అది ఏకంగా 5.12 శాతం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యోగులకు వంచన",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అప్పులు పెరుగుతున్నాయి. ఆదాయం తగ్గుతోంది",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బెవరేజెస్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గ్యారెంటీ పెన్షన్‌ పథకం (జీపీఎస్‌)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఓపీఎస్‌ (పాత పెన్షన్‌ పథకం)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పీఆర్‌సీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "డీఏలు",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2.60 లక్షల వాలంటీర్ల ఉద్యోగాలు హుష్‌కాకి.",
+     "evidence": "2.60 లక్షల వాలంటీర్ల ఉద్యోగాలు హుష్‌కాకి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మధ్యంతర భృతి లేదు.",
+     "evidence": "మధ్యంతర భృతి లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉన్న పీఆర్‌సీ రద్దు.",
+     "evidence": "ఉన్న పీఆర్‌సీ రద్దు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కొత్త పీఆర్‌సీ నియామకం లేదు.",
+     "evidence": "కొత్త పీఆర్‌సీ నియామకం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మూడు డీఏలు ఇప్పటికే పెండింగ్‌.",
+     "evidence": "మూడు డీఏలు ఇప్పటికే పెండింగ్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ జూలై 1 వస్తే 4 డీఏలు పెండింగ్‌.",
+     "evidence": "ఈ జూలై 1 వస్తే 4 డీఏలు పెండింగ్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉద్యోగుల బకాయిలు దాదాపు రూ.20 వేల కోట్లు.",
+     "evidence": "ఉద్యోగుల బకాయిలు దాదాపు రూ.20 వేల కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర జీఎస్‌డీపీలో మా హయాంలో అప్పుల శాతం 4.08 శాతం అయితే, చంద్రబాబు పాలనలో ఏడాది కాలంలో అది ఏకంగా 5.12 శాతం.",
+     "evidence": "రాష్ట్ర జీఎస్‌డీపీలో మా హయాంలో అప్పుల శాతం 4.08 శాతం అయితే, చంద్రబాబు పాలనలో ఏడాది కాలంలో అది ఏకంగా 5.12 శాతం."
+    },
+    {
+     "source": "2.60 లక్షల వాలంటీర్ల ఉద్యోగాలు హుష్‌కాకి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉద్యోగులకు వంచన",
+     "evidence": "2.60 లక్షల వాలంటీర్ల ఉద్యోగాలు హుష్‌కాకి."
+    },
+    {
+     "source": "మధ్యంతర భృతి లేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉద్యోగులకు వంచన",
+     "evidence": "మధ్యంతర భృతి లేదు."
+    },
+    {
+     "source": "ఉన్న పీఆర్‌సీ రద్దు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉద్యోగులకు వంచన",
+     "evidence": "ఉన్న పీఆర్‌సీ రద్దు."
+    },
+    {
+     "source": "కొత్త పీఆర్‌సీ నియామకం లేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉద్యోగులకు వంచన",
+     "evidence": "కొత్త పీఆర్‌సీ నియామకం లేదు."
+    },
+    {
+     "source": "మూడు డీఏలు ఇప్పటికే పెండింగ్‌.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉద్యోగులకు వంచన",
+     "evidence": "మూడు డీఏలు ఇప్పటికే పెండింగ్‌."
+    }
+   ]
+  },
+  "0ef7b20640b010da65719384aeb21853854b9578": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఏపీఎండీసీ",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "మేనిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్‌ ప్రాజెక్టులను తాకట్టు పెడుతూ వాటి విలువ రూ.1.91 లక్షల కోట్లు చూపిస్తున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్‌ ప్రాజెక్టులను తాకట్టు పెడుతూ వాటి విలువ రూ.1.91 లక్షల కోట్లు చూపిస్తున్నాడు",
+     "evidence": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్‌ ప్రాజెక్టులను తాకట్టు పెడుతూ వాటి విలువ రూ.1.91 లక్షల కోట్లు చూపిస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీఎండీసీ",
+     "evidence": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్‌ ప్రాజెక్టులను తాకట్టు పెడుతూ వాటి విలువ రూ.1.91 లక్షల కోట్లు చూపిస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మేనిఫెస్టో",
+     "evidence": "చంద్రబాబు నాయుడు ఇచ్చిన మేనిఫెస్టోను"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు నాయుడుకు సంబంధించిన నాయకులు"
+    }
+   ]
+  },
+  "7aafdc96bc0e306ce8cb9d2a9629b9692a6d0f33": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "ఏపీఎండీసీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గత ఏడాది రాష్ట్రంలో 3.08 శాతం ఆదాయం మాత్రమే పెరిగింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆదాయమంతా చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి పోతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు చెప్పే అబద్ధాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్‌ ప్రాజెక్టులను తాకట్టు పెడుతూ వాటి విలువ రూ.1.91 లక్షల కోట్లు చూపిస్తున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాండ్లు ఇష్యూ చేశాడు. ఎంత దారుణంగా ఇష్యూ చేశాడంటే.. ఏపీఎండీసీ ఇష్యూ చేసిన బాండ్లు.. అంటే రాష్ట్ర ప్రభుత్వానికి సంబంధించిన కన్సాలిడేటెడ్‌ ఫండ్‌ మీద అజమాయిషీని ప్రైవేటు వ్యక్తులకు ఇస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గత ఏడాది రాష్ట్రంలో 3.08 శాతం ఆదాయం మాత్రమే పెరిగింది",
+     "evidence": "గత ఏడాది రాష్ట్రంలో 3.08 శాతం ఆదాయం మాత్రమే పెరిగింది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆదాయమంతా చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి పోతోంది",
+     "evidence": "ఆదాయమంతా చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి పోతోంది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబునాయుడు చెప్పే అబద్ధాలు",
+     "evidence": "చంద్రబాబునాయుడు చెప్పే అబద్ధాలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్‌ ప్రాజెక్టులను తాకట్టు పెడుతూ వాటి విలువ రూ.1.91 లక్షల కోట్లు చూపిస్తున్నాడు",
+     "evidence": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్‌ ప్రాజెక్టులను తాకట్టు పెడుతూ వాటి విలువ రూ.1.91 లక్షల కోట్లు చూపిస్తున్నాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బాండ్లు ఇష్యూ చేశాడు. ఎంత దారుణంగా ఇష్యూ చేశాడంటే.. ఏపీఎండీసీ ఇష్యూ చేసిన బాండ్లు.. అంటే రాష్ట్ర ప్రభుత్వానికి సంబంధించిన కన్సాలిడేటెడ్‌ ఫండ్‌ మీద అజమాయిషీని ప్రైవేటు వ్యక్తులకు ఇస్తున్నాడు.",
+     "evidence": "బాండ్లు ఇష్యూ చేశాడు. ఎంత దారుణంగా ఇష్యూ చేశాడంటే.. ఏపీఎండీసీ ఇష్యూ చేసిన బాండ్లు.. అంటే రాష్ట్ర ప్రభుత్వానికి సంబంధించిన కన్సాలిడేటెడ్‌ ఫండ్‌"
+    }
+   ]
+  },
+  "a786fc78d8d27d82c50c41ab1ee0f5392c2dc8ce": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "గంగమ్మ జాతర",
+     "type": "Place",
+     "english_name": "Goddess Ganguamma festival"
+    },
+    {
+     "name": "రైతు సమస్యలు",
+     "type": "Issue",
+     "english_name": "Farmers' issues"
+    },
+    {
+     "name": "గంజాయి బ్యాచ్‌",
+     "type": "Issue",
+     "english_name": "Ganja batch"
+    },
+    {
+     "name": "రప్పా.. రప్పా పోస్టర్‌",
+     "type": "Issue",
+     "english_name": "Rappa poster"
+    },
+    {
+     "name": "మా ప్రభుత్వంలో చెప్పినమాట మేము నిలబెట్టుకున్నాము",
+     "type": "Claim",
+     "english_name": "We kept what we promised in our government"
+    },
+    {
+     "name": "నేను వెళ్లేవరకు రైతుల సమస్యలను ఆయన ఎందుకు ప్రస్తావించలేదు?",
+     "type": "Claim",
+     "english_name": "Why didn't he raise farmers' issues until I left?"
+    },
+    {
+     "name": "పుష్ప సినిమా డైలాగ్‌ లు పెట్టినా తప్పేనా?",
+     "type": "Claim",
+     "english_name": "Is it wrong to use Pushpa movie dialogues?"
+    }
+   ],
+   "relations": []
+  },
+  "999939c8b235d08e5d30b9f19d2ccc1c72284adb": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "మెహరాజ్ బేగం షేక్",
+     "type": "Person",
+     "english_name": "Mehraj Begum Sheikh"
+    },
+    {
+     "name": "రాజంపేట",
+     "type": "Place",
+     "english_name": "Rajampet"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "మహాశక్తి",
+     "type": "Scheme",
+     "english_name": "Maha Shakti"
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Anna Datha Sukhibhava"
+    },
+    {
+     "name": "యువగళం",
+     "type": "Scheme",
+     "english_name": "Yuva Galam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆడబిడ్డ నిధి",
+     "evidence": "ఆడబిడ్డ నిధి 1500, ఏడాదికి అందే సాయం 2."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వందనం",
+     "evidence": "తల్లికి వందనం వర్తిస్తుంది రూ.30 వేలు,"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మహాశక్తి",
+     "evidence": "మహాశక్తి, దీపం పథకం కింద 3 ఉచిత సిలిండర్లు, ఉచిత బస్సు ప్రయాణం, జూన్‌ 2024 నుంచి ప్రారంభం అని రాశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దీపం పథకం",
+     "evidence": "మహాశక్తి, దీపం పథకం కింద 3 ఉచిత సిలిండర్లు, ఉచిత బస్సు ప్రయాణం, జూన్‌ 2024 నుంచి ప్రారంభం అని రాశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ",
+     "evidence": "అన్నదాత సుఖీభవ వర్తిచదు,"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువగళం",
+     "evidence": "యువగళం వర్తిచదు,"
+    }
+   ]
+  },
+  "7bf57d85086751cef853426550678a91b69e9f89": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీం",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Irrigation Scheme"
+    },
+    {
+     "name": "శ్రీశైలంలో మిగిల్చిన నీటిని తీసుకోని పోవాలంటే రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీం పూర్తి చేయాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ నాలుగు నెలల్లోనే నీరు ఓవర్‌ ఫ్లో కావాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎక్సెస్‌ వాటర్‌ని ఆ నాలుగు నెలల్లోనే తీసుకెళ్లాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రిజర్వాయర్‌ లో నీటిని నింపుకుంటూ వెళ్లాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వర్షాలు పడిన నాలుగు నెలల్లోనే ఈ పనులన్నీ జరగాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అక్కడా ఇక్కడా కాంప్రహెన్సివ్‌గా పనులు జరగాలి",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీం",
+     "evidence": "శ్రీశైలంలో మిగిల్చిన నీటిని తీసుకోని పోవాలంటే రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీం పూర్తి చేయాలి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "శ్రీశైలంలో మిగిల్చిన నీటిని తీసుకోని పోవాలంటే రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీం పూర్తి చేయాలి",
+     "evidence": "శ్రీశైలంలో మిగిల్చిన నీటిని తీసుకోని పోవాలంటే రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీం పూర్తి చేయాలి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ నాలుగు నెలల్లోనే నీరు ఓవర్‌ ఫ్లో కావాలి",
+     "evidence": "ఆ నాలుగు నెలల్లోనే నీరు ఓవర్‌ ఫ్లో కావాలి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎక్సెస్‌ వాటర్‌ని ఆ నాలుగు నెలల్లోనే తీసుకెళ్లాలి",
+     "evidence": "ఎక్సెస్‌ వాటర్‌ని ఆ నాలుగు నెలల్లోనే తీసుకెళ్లాలి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "రిజర్వాయర్‌ లో నీటిని నింపుకుంటూ వెళ్లాలి",
+     "evidence": "రిజర్వాయర్‌ లో నీటిని నింపుకుంటూ వెళ్లాలి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "వర్షాలు పడిన నాలుగు నెలల్లోనే ఈ పనులన్నీ జరగాలి",
+     "evidence": "వర్షాలు పడిన నాలుగు నెలల్లోనే ఈ పనులన్నీ జరగాలి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "అక్కడా ఇక్కడా కాంప్రహెన్సివ్‌గా పనులు జరగాలి",
+     "evidence": "అక్కడా ఇక్కడా కాంప్రహెన్సివ్‌గా పనులు జరగాలి."
+    }
+   ]
+  },
+  "7c9d893079ffbf6f03e454c1bd2b8950697c3dfd": {
+   "entities": [
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "చంద్రబాబుమ",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జర్నలిస్టులు",
+     "type": "Person",
+     "english_name": "journalists"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఏపీఎండీసీ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Mineral Development Corporation"
+    },
+    {
+     "name": "జీవో నెంబర్‌ 69",
+     "type": "Scheme",
+     "english_name": "GO No. 69"
+    },
+    {
+     "name": "కన్సాలిడేటెడ్‌ ఫండ్‌",
+     "type": "Organization",
+     "english_name": "Consolidated Fund"
+    },
+    {
+     "name": "గనుల తాకట్టు ఏమిటి!",
+     "type": "Issue",
+     "english_name": "Mining mortgage issue"
+    },
+    {
+     "name": "ప్రభుత్వం ప్రపోజల్‌ పెట్టింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎండీసీ ఆ హక్కును ప్రైవేటు వ్యక్తులకు లేదా కంపెనీకి కల్పించింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇప్పటికే రూ. 3,489 కోట్లు అప్పు తెచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రెండు రకాల గ్యారెంటీలు ఇస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబుమ మీద కోపంతో పార్టీ మారాడంటే మంచిదే కదా",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుమ",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబుమ మీద కోపంతో పార్టీ మారాడంటే మంచిదే కదా",
+     "evidence": "చంద్రబాబుమ మీద కోపంతో పార్టీ మారాడంటే మంచిదే కదా."
+    },
+    {
+     "source": "ప్రభుత్వం ప్రపోజల్‌ పెట్టింది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "గనుల తాకట్టు ఏమిటి!",
+     "evidence": "గనుల తాకట్టు ఏమిటి!"
+    }
+   ]
+  }
+ }
+}

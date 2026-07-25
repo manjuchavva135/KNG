@@ -1,0 +1,434 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8686a37a4a77f0fd50a1bb79fcd318c50a989a5e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చేస్తున్న మోసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏడాదిగా ఎంత బాకీ ఉన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వాన్ని నిలదీయించడమే మా బాధ్యత",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చేస్తున్న మోసం",
+     "evidence": "చంద్రబాబు చేస్తున్న మోసం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏడాదిగా ఎంత బాకీ ఉన్నాడు",
+     "evidence": "ఏడాదిగా ఎంత బాకీ ఉన్నాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వాన్ని నిలదీయించడమే మా బాధ్యత",
+     "evidence": "ప్రభుత్వాన్ని నిలదీయించడమే మా బాధ్యత"
+    }
+   ]
+  },
+  "eec6495123c4f65660596f1ae59312e201a916ba": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "కురబ లింగమయ్య",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తోపుదుర్తి ప్రకాశ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీస్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గుంటూరు మిర్చి యార్డు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీసత్యసాయి జిల్లా రాప్తాడు నియోజకవర్గం రామగిరి మండలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రకాశం జిల్లా పొదిలి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పల్నాడు జిల్లా సత్తెనపల్లి నియోజకవర్గం రెంటపాళ్ల",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జెడ్ ప్లస్ కేటగిరీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "False Cases",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మిర్చి ధరల పతనం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసు వేధింపులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చేసే ప్రతిపని కూడా టాపిక్ డైవర్ట్ చేసే ఆలోచనతో చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిర్చి ధరలు దారుణంగా పడిపోయిన...",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్ పర్యటనల తర్వాత చంద్రబాబు దగ్గరుండి తప్పుడు కేసులు పెట్టించడం పరిపాటిగా మారింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు శాడిజం!",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేసే ప్రతిపని కూడా టాపిక్ డైవర్ట్ చేసే ఆలోచనతో చేస్తున్నారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చేసే ప్రతిపని కూడా టాపిక్ డైవర్ట్ చేసే ఆలోచనతో చేస్తున్నారు.",
+     "evidence": "చంద్రబాబు చేసే ప్రతిపని కూడా టాపిక్ డైవర్ట్ చేసే ఆలోచనతో చేస్తున్నారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మిర్చి ధరలు దారుణంగా పడిపోయిన...",
+     "evidence": "మిర్చి ధరలు దారుణంగా పడిపోయిన..."
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "జగన్ పర్యటనల తర్వాత చంద్రబాబు దగ్గరుండి తప్పుడు కేసులు పెట్టించడం పరిపాటిగా మారింది.",
+     "evidence": "జగన్ పర్యటనల తర్వాత చంద్రబాబు దగ్గరుండి తప్పుడు కేసులు పెట్టించడం పరిపాటిగా మారింది."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "పోలీస్",
+     "evidence": "పోలీసుల వేధింపులకు గురై ఆత్మహత్య చేసుకున్న..."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ఆదేశాలతో ఆ రోజు ఒక్క పోలీసు సహకరించకపోగా, మాపైనే కేసు పెట్టారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ఓ 40 మందితో 200 మంది పోలీసుల సెక్యూరిటీ ఇచ్చి రాళ్లు వేయించి, టాపిక్ను డైవర్ట్ చేయడానికి ప్రయత్నించాడు."
+    }
+   ]
+  },
+  "bab9a2d31db79bb7bbe1aeae4a7c93a36e0ef2d9": {
+   "entities": [
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "డీఐజీలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఐపీఎస్ అధికారులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సిద్ధార్థ కౌశల్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఇక్కడ పోలీసులు వసూలు చేసి రివర్స్లో ఎమ్మెల్యేలకు ఇవ్వడం విచిత్రం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సగం ఎమ్మెల్యేలకు ఇస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిగిలిన సగ భాగం పైన ఉన్న పెద్దబాబు, చిన్నబాబుకు తీసుకెళ్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇలా వసూళ్ల దందాను డీఐజీలతో నడిపిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొంత మంది ఐపీఎస్ అధికారులు.. సిద్ధార్థ కౌశల్ యంగ్స్టర్ రాజీనామా చేసి వీఆర్ఎస్ తీసుకుని వెళ్లిపోతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు రిలీవ్ చేయడు.. ఇక్కడే ఉండి వేధింపులు ఎందుకని రాజీనామాలు చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సిద్ధార్థ కౌశల్",
+     "relation": "MAKES_CLAIM",
+     "target": "కొంత మంది ఐపీఎస్ అధికారులు.. సిద్ధార్థ కౌశల్ యంగ్స్టర్ రాజీనామా చేసి వీఆర్ఎస్ తీసుకుని వెళ్లిపోతున్నారు.",
+     "evidence": "కొంత మంది ఐపీఎస్ అధికారులు.. సిద్ధార్థ కౌశల్ యంగ్స్టర్ రాజీనామా చేసి వీఆర్ఎస్ తీసుకుని వెళ్లిపోతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు రిలీవ్ చేయడు.. ఇక్కడే ఉండి వేధింపులు ఎందుకని రాజీనామాలు చేస్తున్నారు.",
+     "evidence": "చంద్రబాబు రిలీవ్ చేయడు.. ఇక్కడే ఉండి వేధింపులు ఎందుకని రాజీనామాలు చేస్తున్నారు."
+    }
+   ]
+  },
+  "126ebe7b8adcb9b3694f51a95c16686a702cfab0": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": "Krishna Zilla Parishad"
+    },
+    {
+     "name": "YSRCP Leaders",
+     "type": "Person",
+     "english_name": "YSRCP Leaders"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": []
+  },
+  "4d8f463bd7b6334f6390f0991e3d2a70e428fe28": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Police filing false cases",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Krishna ZP",
+     "relation": "LOCATED_IN",
+     "target": "Krishna",
+     "evidence": "Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "source": "Police filing false cases",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False Cases filed against YSRCP Leaders",
+     "evidence": "పోలీసులే బాధితులపై తప్పుడు కేసులు పెడుతున్నారు."
+    }
+   ]
+  },
+  "cd3ceb101ebf9356045aeecefd75ee83bcf22386": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఉప్పల హారిక",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "కృష్ణ జెడ్ పి",
+     "type": "Organization",
+     "english_name": "Krishna ZP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ మాత్రమే ప్రతిపక్ష పార్టీ",
+     "type": "Claim",
+     "english_name": "YSRCP is the only opposition party"
+    },
+    {
+     "name": "ప్రజలకు ఏ కష్టం వచ్చినా పలుకుతున్న పార్టీ కూడా వైఎస్సార్సీపీనే",
+     "type": "Claim",
+     "english_name": "The party that responds to people's difficulties is YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వాన్ని నడిపిస్తున్న తీరుతో రాష్ట్రంలో భయానక వాతావరణం నెలకొంది",
+     "type": "Claim",
+     "english_name": "The way Chandrababu is running the government has created a fearful atmosphere in the state"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "రాష్ట్రంలో ఒకే ఒక ప్రతిపక్ష పార్టీ వైఎస్సార్సీపీ మాత్రమే ఉంది."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "వైఎస్సార్సీపీ మాత్రమే ప్రతిపక్ష పార్టీ",
+     "evidence": "రాష్ట్రంలో ఒకే ఒక ప్రతిపక్ష పార్టీ వైఎస్సార్సీపీ మాత్రమే ఉంది."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలకు ఏ కష్టం వచ్చినా పలుకుతున్న పార్టీ కూడా వైఎస్సార్సీపీనే",
+     "evidence": "ప్రజలకు ఏ కష్టం వచ్చినా పలుకుతున్న పార్టీ కూడా వైఎస్సార్సీపీనే."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రభుత్వాన్ని నడిపిస్తున్న తీరుతో రాష్ట్రంలో భయానక వాతావరణం నెలకొంది."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ప్రభుత్వాన్ని నడిపిస్తున్న తీరుతో రాష్ట్రంలో భయానక వాతావరణం నెలకొంది",
+     "evidence": "చంద్రబాబు ప్రభుత్వాన్ని నడిపిస్తున్న తీరుతో రాష్ట్రంలో భయానక వాతావరణం నెలకొంది."
+    }
+   ]
+  }
+ }
+}

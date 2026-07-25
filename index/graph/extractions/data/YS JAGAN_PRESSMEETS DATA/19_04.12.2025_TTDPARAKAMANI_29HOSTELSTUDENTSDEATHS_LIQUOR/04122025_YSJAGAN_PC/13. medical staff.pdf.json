@@ -1,0 +1,202 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "48310dca9af3deae1ac9e2460d4bed0f43e96ffb": {
+   "entities": [],
+   "relations": []
+  },
+  "f59e5ce5b28d890743cda7bf41ec28eb4f120657": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Concessionaire",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NMC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "medical college",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "hospital",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of Andhra Pradesh will provide only salary for the medical and non-medical staff, transferred with the existing hospital, for two years from the 'Effective Date'.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Concessionaire is required to assess the provision of additional staff (medical, non- medical, para medical etc) needed as per NMC norms for hospital and medical college and bear the Cost of provision of such additional staff.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of Andhra Pradesh will not provide any operation and maintenance grant or bear any expense thereof for running and operation of hospital and medical college.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "8972bec77bf7e806b16976c885f76e6f607aa590": {
+   "entities": [
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HM&FW Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PPP Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tender Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Markapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Penugonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Palakollu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amalapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Narsipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bapatla",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Parvathipuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PPP mode",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Allocation of Land for each project",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Government have issued orders for development of 10 new medical colleges at Adoni, Madanapalli, Markapuram, Pulivendula, Penugonda, Palakollu, Amalapuram, Narsipatnam, Bapatla and Parvathipuram under PPP mode",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The remaining six (6) medical colleges will be taken up immediately after finalization of the Feasibility Reports, Draft RFPs and Concession Agreements.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Tender Committee was permitted to make minor modifications to the RFPs based on pre-bid consultations.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "the MD, APMSIDC has informed that two pre-bid consultations held on 06.10.2025 and 23.10.2025.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The PPP Committee constituted vide G.O. 2ⁿᵈ read above, has been met on 13.11.2025 and discussed in detail about the responses to be given to the pre-bid queries received.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The PPP Committee have discussed deliberately and drafted the responses against each of queries.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Committee have opined that the following issues requires approval of the Government before publishing the same in e-procurement platform: Allocation of Land for each project",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MD, APMSIDC",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "MD, APMSIDC",
+     "relation": "MAKES_CLAIM",
+     "target": "the MD, APMSIDC has informed that two pre-bid consultations held on 06.10.2025 and 23.10.2025.",
+     "evidence": "the MD, APMSIDC has informed that two pre-bid consultations held on 06.10.2025 and 23.10.2025."
+    },
+    {
+     "source": "Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "GOVERNMENT OF ANDHRA PRADESH"
+    }
+   ]
+  }
+ }
+}

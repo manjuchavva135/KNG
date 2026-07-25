@@ -1,0 +1,453 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cf9fc739dad19fac8431e77cce47c52a105fb4a6": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అదానీ",
+     "type": "Person",
+     "english_name": "Adani"
+    }
+   ],
+   "relations": []
+  },
+  "34bf7c63caad499fdece2194a437cad5040c7bb6": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "అదానీ ప్రాజెక్టులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీలో అదానీ ప్రాజెక్టులు నడుస్తున్నాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేను ముఖ్యమంత్రి హోదాలో రాష్ట్రానికి సంబంధించి పరిశ్రమలపై చర్చలు జరిపామే తప్ప.. వేరే దురుద్దేశాలు ఉండవు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇలాంటి మంచి రేటును మేము కాదనలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "అదానీ ప్రాజెక్టులు",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "ఏపీలో అదానీ ప్రాజెక్టులు నడుస్తున్నాయి."
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీలో అదానీ ప్రాజెక్టులు నడుస్తున్నాయి.",
+     "evidence": "ఏపీలో అదానీ ప్రాజెక్టులు నడుస్తున్నాయి."
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "నేను ముఖ్యమంత్రి హోదాలో రాష్ట్రానికి సంబంధించి పరిశ్రమలపై చర్చలు జరిపామే తప్ప.. వేరే దురుద్దేశాలు ఉండవు.",
+     "evidence": "నేను ముఖ్యమంత్రి హోదాలో రాష్ట్రానికి సంబంధించి పరిశ్రమలపై చర్చలు జరిపామే తప్ప.. వేరే దురుద్దేశాలు ఉండవు."
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల.",
+     "evidence": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల."
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇలాంటి మంచి రేటును మేము కాదనలేదు.",
+     "evidence": "ఇలాంటి మంచి రేటును మేము కాదనలేదు."
+    }
+   ]
+  },
+  "af43d2ff6420498ab180d68aec659c9289598bc1": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "అమెరికా దర్యాప్తు సంస్థ",
+     "type": "Organization",
+     "english_name": "American investigating agency"
+    },
+    {
+     "name": "సీఐడీ",
+     "type": "Organization",
+     "english_name": "CID"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సాక్షి డిజిటల్ మీడియా గ్రూప్",
+     "type": "Organization",
+     "english_name": "Sakshi Digital Media Group"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "అమెరికా",
+     "type": "Place",
+     "english_name": "America"
+    },
+    {
+     "name": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల. ఇలాంటి మంచి రేటును మేము కాదనలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం రాష్ట్రానికి చౌకగా సౌర విద్యుత్ ఇస్తున్నది. అంతరాష్ట్రా ట్రాన్స్మిషన్ ఛార్జీలను మినహాయించి మరీ ఇవ్వడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు బడ్జెట్లో రూ.6.46 లక్షల కోట్లు రాష్ట్ర అప్పుగా చూపించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు... రాష్ట్రానికి రూ.10 లక్షల కోట్లు, రూ.11 లక్షల కోట్లు, రూ.14 లక్షల కోట్లు అప్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పీడీ యాక్టు పెడతామంటే... ప్రజాస్వామ్యం ఎక్కడుందో అర్థమవుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు బడ్జెట్లో రూ.6.46 లక్షల కోట్లు రాష్ట్ర అప్పుగా చూపించారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల. ఇలాంటి మంచి రేటును మేము కాదనలేదు",
+     "evidence": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల. ఇలాంటి మంచి రేటును మేము కాదనలేదు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర ప్రభుత్వం రాష్ట్రానికి చౌకగా సౌర విద్యుత్ ఇస్తున్నది. అంతరాష్ట్రా ట్రాన్స్మిషన్ ఛార్జీలను మినహాయించి మరీ ఇవ్వడం.",
+     "evidence": "కేంద్ర ప్రభుత్వం రాష్ట్రానికి చౌకగా సౌర విద్యుత్ ఇస్తున్నది. అంతరాష్ట్రా ట్రాన్స్మిషన్ ఛార్జీలను మినహాయించి మరీ ఇవ్వడం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు బడ్జెట్లో రూ.6.46 లక్షల కోట్లు రాష్ట్ర అప్పుగా చూపించారు.",
+     "evidence": "చంద్రబాబు బడ్జెట్లో రూ.6.46 లక్షల కోట్లు రాష్ట్ర అప్పుగా చూపించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు... రాష్ట్రానికి రూ.10 లక్షల కోట్లు, రూ.11 లక్షల కోట్లు, రూ.14 లక్షల కోట్లు అప్పు",
+     "evidence": "చంద్రబాబు... రాష్ట్రానికి రూ.10 లక్షల కోట్లు, రూ.11 లక్షల కోట్లు, రూ.14 లక్షల కోట్లు అప్పు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "పీడీ యాక్టు పెడతామంటే... ప్రజాస్వామ్యం ఎక్కడుందో అర్థమవుతుంది."
+    }
+   ]
+  },
+  "1599a9e6eac9cefd01242645f96b6ef5a3810493": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothy"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "మల్లారెడ్డి యూనివర్సిటీ",
+     "type": "Organization",
+     "english_name": "MALLA REDDY UNIVERSITY"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అదానీ",
+     "type": "Organization",
+     "english_name": "Adani"
+    },
+    {
+     "name": "Claim: అమెరికాలో వచ్చిన ఆరోపణల్లో ఎక్కడా నా పేరు లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: సెకీ ఒప్పందాన్ని రద్దు చేస్తే పిచ్చోళ్లు అవుతా రని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: రాష్ట్ర ప్రభుత్వానికి, డిస్కంలకు, సెకీ మధ్య మాత్రమే ఒప్పందం కుదిరింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: మేము సెకీ నుండి విద్యుత్ కొనుగోలుకు ఒప్పందం చేసుకున్నాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: రాష్ట్రానికి పెట్టుబడులను ఆకర్షించడం.. పరిశ్రమల స్థాపన కోసం పారిశ్రామికవేత్తలతో ముఖ్యమంత్రులు సమావేశం కావడం సాధారణం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: లేదంటే రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతిలకు వైఎస్ జగన్ అల్టిమేటం"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతిలకు వైఎస్ జగన్ అల్టిమేటం"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: అమెరికాలో వచ్చిన ఆరోపణల్లో ఎక్కడా నా పేరు లేదు",
+     "evidence": "అమెరికాలో వచ్చిన ఆరోపణల్లో ఎక్కడా నా పేరు లేదు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: సెకీ ఒప్పందాన్ని రద్దు చేస్తే పిచ్చోళ్లు అవుతా రని",
+     "evidence": "సెకీ ఒప్పందాన్ని రద్దు చేస్తే పిచ్చోళ్లు అవుతా రని"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: రాష్ట్ర ప్రభుత్వానికి, డిస్కంలకు, సెకీ మధ్య మాత్రమే ఒప్పందం కుదిరింది",
+     "evidence": "రాష్ట్ర ప్రభుత్వానికి, డిస్కంలకు, సెకీ మధ్య మాత్రమే ఒప్పందం కుదిరింది"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: మేము సెకీ నుండి విద్యుత్ కొనుగోలుకు ఒప్పందం చేసుకున్నాం",
+     "evidence": "మేము సెకీ నుండి విద్యుత్ కొనుగోలుకు ఒప్పందం చేసుకున్నాం"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: రాష్ట్రానికి పెట్టుబడులను ఆకర్షించడం.. పరిశ్రమల స్థాపన కోసం పారిశ్రామికవేత్తలతో ముఖ్యమంత్రులు సమావేశం కావడం సాధారణం",
+     "evidence": "రాష్ట్రానికి పెట్టుబడులను ఆకర్షించడం.. పరిశ్రమల స్థాపన కోసం పారిశ్రామికవేత్తలతో ముఖ్యమంత్రులు సమావేశం కావడం సాధారణం"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: లేదంటే రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా",
+     "evidence": "లేదంటే రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా"
+    },
+    {
+     "source": "సెకీ",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "రాష్ట్ర ప్రభుత్వానికి, డిస్కంలకు, సెకీ మధ్య మాత్రమే ఒప్పందం కుదిరింది"
+    },
+    {
+     "source": "ఈనాడు",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతిలకు వైఎస్ జగన్ అల్టిమేటం"
+    },
+    {
+     "source": "ఆంధ్రజ్యోతి",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతిలకు వైఎస్ జగన్ అల్టిమేటం"
+    },
+    {
+     "source": "మల్లారెడ్డి యూనివర్సిటీ",
+     "relation": "LOCATED_IN",
+     "target": "తెలంగాణ",
+     "evidence": "Kompally, Hyderabad-500100, Telangana State"
+    },
+    {
+     "source": "విశాఖపట్నం",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "విశాఖపట్నం"
+    },
+    {
+     "source": "గుంటూరు",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "గుంటూరు"
+    }
+   ]
+  }
+ }
+}

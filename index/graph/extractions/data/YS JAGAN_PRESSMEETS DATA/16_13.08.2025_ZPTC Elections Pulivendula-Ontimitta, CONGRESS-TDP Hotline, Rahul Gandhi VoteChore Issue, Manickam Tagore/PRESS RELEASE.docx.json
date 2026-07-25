@@ -1,0 +1,858 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "17af9e427ac2435e844d88b6290ff7e38a2c297b": {
+   "entities": [
+    {
+     "name": "ఎన్నికల్లో ప్రతిపక్ష పార్టీ ఏజెంట్స్‌ లేకుండా ఎన్నికలు నిర్వహించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికల రిగ్గింగ్‌ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసుల ప్రోద్భలంతో, బూత్‌ల్లోకి ఏజెంట్లను పోనివ్వలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ వారు, పోలీసులు లాక్కుని చింపేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికల రిగ్గింగ్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎన్నికల్లో ప్రతిపక్ష పార్టీ ఏజెంట్స్‌ లేకుండా ఎన్నికలు నిర్వహించారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎన్నికల రిగ్గింగ్‌",
+     "evidence": "ఎన్నికల్లో ప్రతిపక్ష పార్టీ ఏజెంట్స్‌ లేకుండా ఎన్నికలు నిర్వహించారు."
+    },
+    {
+     "source": "ఎన్నికల రిగ్గింగ్‌ చేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎన్నికల రిగ్గింగ్‌",
+     "evidence": "ఎన్నికల రిగ్గింగ్‌ చేశారు."
+    },
+    {
+     "source": "పోలీసుల ప్రోద్భలంతో, బూత్‌ల్లోకి ఏజెంట్లను పోనివ్వలేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎన్నికల రిగ్గింగ్‌",
+     "evidence": "పోలీసుల ప్రోద్భలంతో, బూత్‌ల్లోకి ఏజెంట్లను పోనివ్వలేదు."
+    },
+    {
+     "source": "టీడీపీ వారు, పోలీసులు లాక్కుని చింపేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎన్నికల రిగ్గింగ్‌",
+     "evidence": "టీడీపీ వారు, పోలీసులు లాక్కుని చింపేశారు."
+    }
+   ]
+  },
+  "153fdc6b1c8aa3a93286bc8793d9209a4936720d": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "రాహుల్‌ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "కాంగ్రెస్‌",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రేవంత్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Revanth Reddy"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "Pulivendula-Ontimitta ZPTC elections",
+     "type": "Issue",
+     "english_name": "Pulivendula-Ontimitta ZPTC elections"
+    },
+    {
+     "name": "Democracy being killed",
+     "type": "Claim",
+     "english_name": "Democracy is being killed"
+    },
+    {
+     "name": "12.5% rigging",
+     "type": "Claim",
+     "english_name": "12.5% rigging"
+    },
+    {
+     "name": "Hotline link between Chandrababu, Rahul, Revanth",
+     "type": "Claim",
+     "english_name": "Hotline link between Chandrababu, Rahul, Revanth"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "అధికారపక్షం అంతులేని దౌర్జన్యకాండ"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "రాహుల్‌ గాంధీ",
+     "evidence": "రాహుల్‌ గాంధీ ప్రభుత్వ అవినీతిని ప్రస్తావించని కాంగ్రెస్‌ ప్రతినిధి"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Democracy being killed",
+     "evidence": "రాష్ట్రంలో ప్రజాస్వామ్యం ఖూనీ."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "12.5% rigging",
+     "evidence": "గత ఎన్నికల పోలింగ్‌లో రాష్ట్రంలో అక్రమాలు ఏకంగా 12.5 శాతం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Hotline link between Chandrababu, Rahul, Revanth",
+     "evidence": "చంద్రబాబు, రాహుల్, రేవంత్‌రెడ్డి అంతా ఒక్కటే వారి మధ్య హాట్‌లైన్‌ లింక్‌."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "పార్టీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి."
+    },
+    {
+     "source": "రాహుల్‌ గాంధీ",
+     "relation": "MEMBER_OF",
+     "target": "కాంగ్రెస్‌",
+     "evidence": "కాంగ్రెస్‌ ప్రతినిధి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు"
+    },
+    {
+     "source": "రేవంత్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "కాంగ్రెస్‌",
+     "evidence": "రేవంత్‌రెడ్డి"
+    }
+   ]
+  },
+  "058f1ce0493a591a40b41622ba56307249c85692": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ontimitta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఎర్రబల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నల్లపురెడ్డిపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నల్లగొండవారిపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఒక మాబ్‌స్టర్‌. ఫ్రాడ్‌స్టర్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలింగ్‌ బూత్‌లు మార్చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఓటర్లు 4 కి.మీ నడిచి పోతుంటే బెదిరించాలి",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Manickam Tagore",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ఒక మాబ్‌స్టర్‌. ఫ్రాడ్‌స్టర్‌"
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "పోలింగ్‌ బూత్‌లు మార్చేశారు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఒక మాబ్‌స్టర్‌. ఫ్రాడ్‌స్టర్‌",
+     "evidence": "చంద్రబాబు ఒక మాబ్‌స్టర్‌. ఫ్రాడ్‌స్టర్‌"
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలింగ్‌ బూత్‌లు మార్చేశారు",
+     "evidence": "పోలింగ్‌ బూత్‌లు మార్చేశారు."
+    },
+    {
+     "source": "Rahul Gandhi",
+     "relation": "MEMBER_OF",
+     "target": "CONGRESS",
+     "evidence": "Rahul Gandhi"
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MEMBER_OF",
+     "target": "CONGRESS",
+     "evidence": "Manickam Tagore"
+    }
+   ]
+  },
+  "55829cabfe113994f27392713c8c647bd01575fc": {
+   "entities": [
+    {
+     "name": "Polling agent",
+     "type": "Person",
+     "english_name": "Polling agent"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Democracy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Voter",
+     "type": "Person",
+     "english_name": "Voter"
+    },
+    {
+     "name": "Polling officer",
+     "type": "Person",
+     "english_name": "Polling officer"
+    },
+    {
+     "name": "Chief Minister Chandrababu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Yellow media",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central forces",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": "Indian National Congress"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": "Pulivendula-Ontimitta"
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": "ZPTC Elections"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Manickam Tagore",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "టీడీపీ వారు, పోలీసులు ఆ ఫామ్‌లను లాక్కుని చింపేశారు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "ACCUSES",
+     "target": "Police",
+     "evidence": "టీడీపీ వారు, పోలీసులు ఆ ఫామ్‌లను లాక్కుని చింపేశారు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "ACCUSES",
+     "target": "Chief Minister Chandrababu",
+     "evidence": "సీఎం చంద్రబాబు, ఆయనతో చేతులు కలిపి అంట కాగుతున్న ఎల్లో మీడియా లక్ష్యం ప్రజలకు మంచి చేయడం కాదు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "ACCUSES",
+     "target": "Yellow media",
+     "evidence": "సీఎం చంద్రబాబు, ఆయనతో చేతులు కలిపి అంట కాగుతున్న ఎల్లో మీడియా లక్ష్యం ప్రజలకు మంచి చేయడం కాదు."
+    },
+    {
+     "source": "Rahul Gandhi",
+     "relation": "MEMBER_OF",
+     "target": "Congress",
+     "evidence": ""
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MEMBER_OF",
+     "target": "Congress",
+     "evidence": ""
+    }
+   ]
+  },
+  "cb1769c90128373179c57802df81caa78bdea7ca": {
+   "entities": [
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nallapurireddypalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Collector",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DIG Koy Praveen",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Garikapati Mohan Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Illegal voting",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Police bias",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Illegal votes were cast in Pulivendula and Nallapurireddypalli.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Illegal votes were cast in the re‑polling.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP agents were absent, leading to illegal votes.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police beat our party workers.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police ignored TDP supporters gathering.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police acted like ‘green shirt’ supporters.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "DIG Koy Praveen is the son‑in‑law of former TDP MP Garikapati Mohan Rao.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rahul Gandhi raised the VoteChore issue.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Garikapati Mohan Rao",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ మాజీ ఎంపీ గరికపాటి మోహన్‌రావు"
+    },
+    {
+     "source": "Illegal votes were cast in Pulivendula and Nallapurireddypalli.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Illegal voting",
+     "evidence": "మా పులివెందులలో, నల్లపురెడ్డిపల్లిలో అలా యథేచ్ఛగా దొంగ ఓట్లు వేశారు."
+    },
+    {
+     "source": "Illegal votes were cast in the re‑polling.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Illegal voting",
+     "evidence": "ఈరోజు (బుధవారం) రీపోలింగ్‌లో కూడా దొంగ ఓట్లు వేస్తున్నారంటూ, ఆ ఫోటోలు కూడా ప్రెస్‌మీట్‌లో చూపారు."
+    },
+    {
+     "source": "YSRCP agents were absent, leading to illegal votes.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Illegal voting",
+     "evidence": "పోలింగ్‌ బూత్‌ల్లో వైయస్సార్‌సీపీ ఏజెంట్లు లేరు కాబట్టి, యథేచ్ఛగా దొంగ ఓట్లు వేస్తున్నారు."
+    },
+    {
+     "source": "Police beat our party workers.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Police bias",
+     "evidence": "మా పార్టీ వారు కేవలం 5గురు కలిసి వెళ్లినా, పోలీసులు తరిమి తరిమి కొట్టారు."
+    },
+    {
+     "source": "Police ignored TDP supporters gathering.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Police bias",
+     "evidence": "అదే టీడీపీ వారు వందల మంది ఒకే చోట చేరి, షామియానాలు వేసి, అక్కడే భోజనాలు చేస్తున్నా పోలీసులు పట్టించుకోవడం లేదు."
+    },
+    {
+     "source": "Police acted like ‘green shirt’ supporters.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Police bias",
+     "evidence": "వారు ఏకంగా పచ్చ చొక్కా వేసుకుని పని చేశారు అని చెప్పడానికి, ఈ ఒక్క ఉదాహరణ చాలు."
+    },
+    {
+     "source": "DIG Koy Praveen is the son‑in‑law of former TDP MP Garikapati Mohan Rao.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Illegal voting",
+     "evidence": "డీఐజీ కోయ ప్రవీణ్‌. ఆయన టీడీపీ మాజీ ఎంపీ గరికపాటి మోహన్‌రావుకు సమీప బంధువు. వరసకు అల్లుడు అవుతాడు."
+    }
+   ]
+  },
+  "663a5926c9d32cecc277dc81557b9ce7dc1c99af": {
+   "entities": [
+    {
+     "name": "డీఐజీ కోయ ప్రవీణ్‌",
+     "type": "Person",
+     "english_name": "DeIG Koy Praveen"
+    },
+    {
+     "name": "గరికపాటి మోహన్‌రావు",
+     "type": "Person",
+     "english_name": "Garikapati Mohan Rao"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పీఎస్‌ఆర్‌ ఆంజనేయులు",
+     "type": "Person",
+     "english_name": "PSR Anjaneyulu"
+    },
+    {
+     "name": "సునీల్‌కుమార్‌",
+     "type": "Person",
+     "english_name": "Sunil Kumar"
+    },
+    {
+     "name": "సంజయ్‌",
+     "type": "Person",
+     "english_name": "Sanjay"
+    },
+    {
+     "name": "విశాల్‌ గున్నీ",
+     "type": "Person",
+     "english_name": "Vishal Guni"
+    },
+    {
+     "name": "కాంతిరాణా టాటా",
+     "type": "Person",
+     "english_name": "Kanthi Rana Tata"
+    },
+    {
+     "name": "పోలీసు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "పులివెందులలో",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "Elections Pulivendula-Ontimitta",
+     "type": "Issue",
+     "english_name": "Elections Pulivendula-Ontimitta"
+    },
+    {
+     "name": "పోలీసులను ఏరికోరి నియమించుకున్నారు. తమకు కావాల్సిన వారిని నియమించారు. ప్రశాంతంగా ఎన్నికలు జరిగేలా చూడాల్సింది పోయి, వారు ఏకంగా పచ్చ చొక్కా వేసుకుని పని చేశారు అని చెప్పడానికి, ఈ ఒక్క ఉదాహరణ చాలు.",
+     "type": "Claim",
+     "english_name": "Police were hand‑picked and acted in favour of TDP"
+    },
+    {
+     "name": "చంద్రబాబు మాట వినకపోతే..! ఒకవేళ పోలీసు అధికారులు ఎవరైనా చంద్రబాబు మాట వినకపోతే.. డీజీ స్థాయిలో ఉన్న అధికారులు సైతం జైళ్లపాలు.",
+     "type": "Claim",
+     "english_name": "Police will jail officers who do not obey Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు చేస్తున్న అవినీతిలో వీళ్లందరూ భాగస్వాములు.",
+     "type": "Claim",
+     "english_name": "Police are partners in Chandrababu's corruption"
+    },
+    {
+     "name": "డీఐజీ పంచుతున్నారు.",
+     "type": "Claim",
+     "english_name": "DeIG distributes illegal collections"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీఐజీ కోయ ప్రవీణ్‌",
+     "relation": "ACCUSES",
+     "target": "పోలీసు",
+     "evidence": "పోలీసులను ఏరికోరి నియమించుకున్నారు. తమకు కావాల్సిన వారిని నియమించారు. ప్రశాంతంగా ఎన్నికలు జరిగేలా చూడాల్సింది పోయి, వారు ఏకంగా పచ్చ చొక్కా వేసుకుని పని చేశారు అని చెప్పడానికి, ఈ ఒక్క ఉదాహరణ చాలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసు",
+     "evidence": "చంద్రబాబు మాట వినకపోతే..! ఒకవేళ పోలీసు అధికారులు ఎవరైనా చంద్రబాబు మాట వినకపోతే.. డీజీ స్థాయిలో ఉన్న అధికారులు సైతం జైళ్లపాలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసు",
+     "evidence": "చంద్రబాబునాయుడు చేస్తున్న అవినీతిలో వీళ్లందరూ భాగస్వాములు."
+    },
+    {
+     "source": "డీఐజీ కోయ ప్రవీణ్‌",
+     "relation": "ACCUSES",
+     "target": "పోలీసు",
+     "evidence": "డీఐజీ పంచుతున్నారు."
+    },
+    {
+     "source": "గరికపాటి మోహన్‌రావు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ మాజీ ఎంపీ గరికపాటి మోహన్‌రావు"
+    },
+    {
+     "source": "పోలీసులను ఏరికోరి నియమించుకున్నారు. తమకు కావాల్సిన వారిని నియమించారు. ప్రశాంతంగా ఎన్నికలు జరిగేలా చూడాల్సింది పోయి, వారు ఏకంగా పచ్చ చొక్కా వేసుకుని పని చేశారు అని చెప్పడానికి, ఈ ఒక్క ఉదాహరణ చాలు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Elections Pulivendula-Ontimitta",
+     "evidence": "పోలీసులను ఏరికోరి నియమించుకున్నారు. తమకు కావాల్సిన వారిని నియమించారు. ప్రశాంతంగా ఎన్నికలు జరిగేలా చూడాల్సింది పోయి, వారు ఏకంగా పచ్చ చొక్కా వేసుకుని పని చేశారు అని చెప్పడానికి, ఈ ఒక్క ఉదాహరణ చాలు."
+    },
+    {
+     "source": "చంద్రబాబు మాట వినకపోతే..! ఒకవేళ పోలీసు అధికారులు ఎవరైనా చంద్రబాబు మాట వినకపోతే.. డీజీ స్థాయిలో ఉన్న అధికారులు సైతం జైళ్లపాలు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Elections Pulivendula-Ontimitta",
+     "evidence": "చంద్రబాబు మాట వినకపోతే..! ఒకవేళ పోలీసు అధికారులు ఎవరైనా చంద్రబాబు మాట వినకపోతే.. డీజీ స్థాయిలో ఉన్న అధికారులు సైతం జైళ్లపాలు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు చేస్తున్న అవినీతిలో వీళ్లందరూ భాగస్వాములు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Elections Pulivendula-Ontimitta",
+     "evidence": "చంద్రబాబునాయుడు చేస్తున్న అవినీతిలో వీళ్లందరూ భాగస్వాములు."
+    },
+    {
+     "source": "డీఐజీ పంచుతున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Elections Pulivendula-Ontimitta",
+     "evidence": "డీఐజీ పంచుతున్నారు."
+    }
+   ]
+  },
+  "b26264116606e1ae140413a1ca6ca1cab7643848": {
+   "entities": [
+    {
+     "name": "డీఐజీ కోయ ప్రవీణ్‌",
+     "type": "Person",
+     "english_name": "DIG Koya Praveen"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఎంపీ అవినాష్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "MP Avinash Reddy"
+    },
+    {
+     "name": "మొట్నుతలపల్లి",
+     "type": "Place",
+     "english_name": "Mothantulapalli"
+    },
+    {
+     "name": "ఎర్రపల్లి",
+     "type": "Place",
+     "english_name": "Errapalli"
+    },
+    {
+     "name": "కనంపల్లి",
+     "type": "Place",
+     "english_name": "Kanampalli"
+    },
+    {
+     "name": "రామాంజనేయులు",
+     "type": "Person",
+     "english_name": "Ramajaneyulu"
+    },
+    {
+     "name": "బిటెక్‌ రవి",
+     "type": "Person",
+     "english_name": "Bitech Ravi"
+    },
+    {
+     "name": "హేమంత్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Hemant Reddy"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "మానికమ్ టాగూర్",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": "ZPTC Elections"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    },
+    {
+     "name": "నిన్నటి ఎన్నికల్లో అక్రమాలను వీడియోలతో సహా ఆధారాలతో మీడియాకు చూపారు.",
+     "type": "Claim",
+     "english_name": "నిన్నటి ఎన్నికల్లో అక్రమాలను వీడియోలతో సహా ఆధారాలతో మీడియాకు చూపారు."
+    },
+    {
+     "name": "పోలింగ్‌ బూత్‌ల ఆక్రమణ.",
+     "type": "Claim",
+     "english_name": "పోలింగ్‌ బూత్‌ల ఆక్రమణ."
+    },
+    {
+     "name": "పులివెందుల టౌన్‌లో ఉన్న ఎంపీ అవినాష్‌రెడ్డి అక్రమ అరెస్ట్‌. నిజానికి అక్కడ ఎన్నిక లేదు. అయినా తెల్లవారుజామున అరెస్టు చేశారు.",
+     "type": "Claim",
+     "english_name": "పులివెందుల టౌన్‌లో ఉన్న ఎంపీ అవినాష్‌రెడ్డి అక్రమ అరెస్ట్‌. నిజానికి అక్కడ ఎన్నిక లేదు. అయినా తెల్లవారుజామున అరెస్టు చేశారు."
+    }
+   ],
+   "relations": []
+  }
+ }
+}

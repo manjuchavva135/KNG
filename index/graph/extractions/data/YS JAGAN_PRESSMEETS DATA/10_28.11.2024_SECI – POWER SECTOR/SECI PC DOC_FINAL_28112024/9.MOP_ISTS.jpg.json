@@ -1,0 +1,122 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b81d9c4e4b1c5a7c4ea5bf509d89a1e17f58b55f": {
+   "entities": [
+    {
+     "name": "MOP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Solar PV power plants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Manufacturing linked capacity scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RFS No SECI/C&P/RfS/2GW Manufacturing/P-3/R1/062019",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RPO",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Competent Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ghanshyam Prasad",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, CERC",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, MNRE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chairperson, Central Electricity Authority",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary in charge, Power/Energy Dept., State Governments/UTs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, State Electricity Regulatory Commissions/Joint Electricity Regulatory Commissions",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PS to Minister for Power and NRE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APS to MoSP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Joint Secretaries/Chief Engineer/Economic Adviser, Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sr. PPS to Secretary (Power)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PPS to AS (SKGR)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PPS to AS (VKD)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sr. PPS to JS (R&R)",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Manufacturing linked capacity scheme",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "RPO",
+     "evidence": "for sale to entities having RPO, irrespective of whether this power is within RPO or not."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "701afb476f16f331c707a049131b151f2f0f9bcb": {
+   "entities": [
+    {
+     "name": "హోం మంత్రి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళా కమిషన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "మూర్తి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళపై దాడి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "హోం మంత్రి, మహిళా కమిషన్ స్పందించి చర్యలు తీసుకోవాలని కోరుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిందితులపై చర్యలు తీసుకోకుం డా ఎందుకు తాత్సారం చేస్తున్నారని స్థానికులు నిలదీస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "మూర్తి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నేత మూర్తి"
+    },
+    {
+     "source": "హోం మంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "హోం మంత్రి, మహిళా కమిషన్ స్పందించి చర్యలు తీసుకోవాలని కోరుతున్నారు.",
+     "evidence": "హోం మంత్రి, మహిళా కమిషన్ స్పందించి చర్యలు తీసుకోవాలని కోరుతున్నారు."
+    },
+    {
+     "source": "హోం మంత్రి, మహిళా కమిషన్ స్పందించి చర్యలు తీసుకోవాలని కోరుతున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళపై దాడి",
+     "evidence": "మహిళపై దాడి"
+    },
+    {
+     "source": "నిందితులపై చర్యలు తీసుకోకుం డా ఎందుకు తాత్సారం చేస్తున్నారని స్థానికులు నిలదీస్తున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళపై దాడి",
+     "evidence": "మహిళపై దాడి"
+    },
+    {
+     "source": "Sakshi",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh Main"
+    }
+   ]
+  },
+  "6986baea097e83627f539f89d9fe6c8f79939b82": {
+   "entities": [
+    {
+     "name": "Telugu Desam Party (TDP)",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "మల్లెల వెంకట రమణ మూర్తి",
+     "type": "Person",
+     "english_name": "Mallela Venkata Ramana Murthy"
+    },
+    {
+     "name": "మాధవి",
+     "type": "Person",
+     "english_name": "Madhavi"
+    },
+    {
+     "name": "బాధితురాలు",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కృష్ణబాబు కాలనీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నగరంపాలెం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "21వ డివిజన్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నగరంపాలెం పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Nagarampalem Police Station"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ట్రాన్స్ జెండర్ మాధవితో పాటు",
+     "type": "Person",
+     "english_name": "Transgender Madhavi"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మూర్తి మరియు అతని కుటుంబం నన్ను వివస్త్రను చేసి దాడి చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "మల్లెల వెంకట రమణ మూర్తి",
+     "relation": "MEMBER_OF",
+     "target": "Telugu Desam Party (TDP)",
+     "evidence": "టీడీపీ నేత మల్లెల వెంకట రమణ మూర్తి"
+    },
+    {
+     "source": "మాధవి",
+     "relation": "MEMBER_OF",
+     "target": "Telugu Desam Party (TDP)",
+     "evidence": "పశ్చిమ టీడీపీ ఎమ్మెల్యే గళ్లా మాధవి"
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "MAKES_CLAIM",
+     "target": "మూర్తి మరియు అతని కుటుంబం నన్ను వివస్త్రను చేసి దాడి చేశారు",
+     "evidence": "స్థానికుల సహాయంతో బాధితురాలు నగరంపాలెం పోలీస్ స్టేషన్లో గురువారం ఫిర్యాదు చేసింది."
+    },
+    {
+     "source": "మూర్తి మరియు అతని కుటుంబం నన్ను వివస్త్రను చేసి దాడి చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "ఆమెను వివస్ధను చేసి మరి తీవ్రంగా దాడి చేశారు."
+    },
+    {
+     "source": "కృష్ణబాబు కాలనీ",
+     "relation": "LOCATED_IN",
+     "target": "గుంటూరు",
+     "evidence": "కృష్ణబాబు కాలనీలో"
+    },
+    {
+     "source": "నగరంపాలెం",
+     "relation": "LOCATED_IN",
+     "target": "గుంటూరు",
+     "evidence": "నగరంపాలెం పోలీస్ స్టేషన్ పరిధిలో"
+    },
+    {
+     "source": "నగరంపాలెం పోలీస్ స్టేషన్",
+     "relation": "LOCATED_IN",
+     "target": "గుంటూరు",
+     "evidence": "నగరంపాలెం పోలీస్ స్టేషన్ పరిధిలో"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,322 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cb6826f82af7c793142613a260001ae63ba66455": {
+   "entities": [],
+   "relations": []
+  },
+  "6ca71ba0d9fffc6455f761991c32db1adab0414c": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పరిటాల సునీత",
+     "type": "Person",
+     "english_name": "Paritala Sunitha"
+    },
+    {
+     "name": "కొత్తగాదికుంట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పేరూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పాపిరెడ్డిపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మంగాపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీసత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రామగిరి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంద్రజ",
+     "type": "Person",
+     "english_name": "Indraja"
+    },
+    {
+     "name": "గొళ్ల శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "Golla Srinivasulu"
+    },
+    {
+     "name": "విష్ణు",
+     "type": "Person",
+     "english_name": "Vishnu"
+    },
+    {
+     "name": "నాగమ్మ",
+     "type": "Person",
+     "english_name": "Nagamma"
+    },
+    {
+     "name": "ఓబయ్య",
+     "type": "Person",
+     "english_name": "Obayya"
+    },
+    {
+     "name": "నరసింహమూర్తి",
+     "type": "Person",
+     "english_name": "Narasimhamurthy"
+    },
+    {
+     "name": "సుధాకర్ యాదవ్",
+     "type": "Person",
+     "english_name": "Sudhakar Yadav"
+    },
+    {
+     "name": "రామగిరి పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అనంతపురం ప్రభుత్వాసుపత్రి",
+     "type": "Organization",
+     "english_name": "Anantapur Government Hospital"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "గొళ్ల శ్రీనివాసులు",
+     "evidence": "గొళ్ల శ్రీనివాసులు, విష్ణు, అతడి భార్య నాగమ్మ, బావమరిది ఓబయ్యలు ఇంద్రజ ఇంట్లోకి చొరబడ్డారు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "సుధాకర్ యాదవ్",
+     "evidence": "ఎస్ఐ సుధాకర్యాదవ్ పెద్దగా పట్టించుకోకుండా రాజీ చేసి పంపారు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "పరిటాల సునీత",
+     "evidence": "ఎమ్మెల్యే పరిటాల సునీత, ఆమె కుమారుడు శ్రీరామ్ అండ చూసుకుని వేధిం చసాగాడు."
+    },
+    {
+     "source": "పరిటాల సునీత",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ అధికారంలోకి వచ్చాక..."
+    },
+    {
+     "source": "రామగిరి పోలీస్ స్టేషన్",
+     "relation": "LOCATED_IN",
+     "target": "రామగిరి",
+     "evidence": "రామగిరి పోలీస్ స్టేషన్కు వెళ్లింది."
+    }
+   ]
+  },
+  "15dd35ed25c4116b804405c083382f32575e6c0b": {
+   "entities": [
+    {
+     "name": "ఇంద్రజ",
+     "type": "Person",
+     "english_name": "Indraja"
+    },
+    {
+     "name": "గొళ్ల విష్ణు",
+     "type": "Person",
+     "english_name": "Golla Vishnu"
+    },
+    {
+     "name": "సునీత",
+     "type": "Person",
+     "english_name": "Sunitha"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anitha"
+    },
+    {
+     "name": "సవిత",
+     "type": "Person",
+     "english_name": "Savitha"
+    },
+    {
+     "name": "తోపుదుర్తి ప్రకాష్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Thopudurthi Prakash Reddy"
+    },
+    {
+     "name": "ఉపశ్రీ చరణ్",
+     "type": "Person",
+     "english_name": "Upashri Charan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "అంగన్వాడీ",
+     "type": "Organization",
+     "english_name": "Anganwadi"
+    },
+    {
+     "name": "రాప్తాడు",
+     "type": "Place",
+     "english_name": "Rapthadu"
+    },
+    {
+     "name": "మంగాపురం",
+     "type": "Place",
+     "english_name": "Mangapuram"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "మా కుటుంబానికి ప్రాణహాని ఉంది.",
+     "type": "Claim",
+     "english_name": "Our family is under threat."
+    },
+    {
+     "name": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": "They threaten you not to let you live."
+    },
+    {
+     "name": "పోలీసులు నిష్పక్షపాతంగా వ్యవహరించాలి.",
+     "type": "Claim",
+     "english_name": "Police should act impartially."
+    },
+    {
+     "name": "హోంమంత్రిగా మహిళ.. కానీ, మహిళలకు రక్షణ కరువు.",
+     "type": "Claim",
+     "english_name": "Home Minister is a woman but women lack protection."
+    },
+    {
+     "name": "మంత్రులు, ఎమ్మెల్యే సునీతులు మంగాపురంలో అంగన్వాడీ హెల్పర్పై దాడి ఘటన మీద స్పందించాలి.",
+     "type": "Claim",
+     "english_name": "Ministers and MLA Sunitha should respond to the attack on Anganwadi helper in Mangapuram."
+    },
+    {
+     "name": "గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు.",
+     "type": "Claim",
+     "english_name": "Golla Vishnu beat a Dalit from the village a month ago."
+    }
+   ],
+   "relations": [
+    {
+     "source": "గొళ్ల విష్ణు",
+     "relation": "MAKES_CLAIM",
+     "target": "గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు.",
+     "evidence": "గొళ్ల విష్ణు నెల రోజుల క్రితం గ్రామానికి చెందిన దళితుడిని చితకబాదాడు."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "మా కుటుంబానికి ప్రాణహాని ఉంది.",
+     "evidence": "మా కుటుంబానికి ప్రాణహాని ఉంది."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు.",
+     "evidence": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు."
+    },
+    {
+     "source": "అనిత",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "రాష్ట్ర హోం మంత్రిగా అనిత"
+    },
+    {
+     "source": "సవిత",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "జిల్లా మంత్రిగా సవిత"
+    },
+    {
+     "source": "సునీత",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "రాప్తాడు ఎమ్మెల్యే సునీత"
+    },
+    {
+     "source": "తోపుదుర్తి ప్రకాష్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "తోపుదుర్తి ప్రకాష్ రెడ్డి, మాజీ ఎమ్మెల్యే"
+    },
+    {
+     "source": "ఉపశ్రీ చరణ్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "ఉపశ్రీ చరణ్, వైఎస్సార్సీపీ శ్రీసత్యసాయి జిల్లా అధ్యక్షురాలు"
+    },
+    {
+     "source": "అంగన్వాడీ",
+     "relation": "LOCATED_IN",
+     "target": "మంగాపురం",
+     "evidence": "మంగాపురంలో అంగన్వాడీ హెల్పర్పై దాడి"
+    },
+    {
+     "source": "మా కుటుంబానికి ప్రాణహాని ఉంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మా కుటుంబానికి ప్రాణహాని ఉంది."
+    },
+    {
+     "source": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మిమ్మల్ని బతకనీయమని బెదిరిస్తున్నారు."
+    }
+   ]
+  }
+ }
+}

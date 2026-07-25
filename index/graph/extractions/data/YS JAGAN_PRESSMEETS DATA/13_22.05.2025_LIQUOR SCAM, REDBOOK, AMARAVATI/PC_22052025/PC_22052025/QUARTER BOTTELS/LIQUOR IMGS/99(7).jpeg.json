@@ -1,0 +1,60 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "aaf3d8c5cd4a872d71f3dfd989841926997a46fc": {
+   "entities": [
+    {
+     "name": "మద్యపానం ఆరోగ్యానికి హానికరము",
+     "type": "Claim",
+     "english_name": "Alcohol is harmful to health"
+    },
+    {
+     "name": "మద్యం సేవించి వాహనం నడుపరాదు",
+     "type": "Claim",
+     "english_name": "Do not drive after drinking"
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PRESENT PRODUCER OF INDIA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "INDUSTRIES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PHILYANAGAR",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MAHARASHTRA",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PUNE",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

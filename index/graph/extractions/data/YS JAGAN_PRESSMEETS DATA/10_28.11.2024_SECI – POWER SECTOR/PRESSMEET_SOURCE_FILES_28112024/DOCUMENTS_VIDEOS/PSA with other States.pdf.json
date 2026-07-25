@@ -1,0 +1,35 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "77f7d68cd7280616b5f1e475978ff172d57be87f": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chhattisgarh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "db17ee6baa962ba1b5f96d47ea1584e12a8681e9": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tranche II, III & IV",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "9428dcc7c61d95fcd31c9051b3be3a6f1b7b8a15": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Ltd."
+    },
+    {
+     "name": "Solar Energy Corporation of India Ltd.",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Ltd."
+    },
+    {
+     "name": "Dr. Srikant Nagulapalli, IAS",
+     "type": "Person",
+     "english_name": "Dr. Srikant Nagulapalli"
+    },
+    {
+     "name": "Amravati, Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Amravati, Andhra Pradesh"
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Atma Nirbhar Bharat Abhiyan",
+     "type": "Scheme",
+     "english_name": "Atma Nirbhar Bharat Abhiyan"
+    },
+    {
+     "name": "Manufacturing Linked Solar Tender",
+     "type": "Scheme",
+     "english_name": "Manufacturing Linked Solar Tender"
+    },
+    {
+     "name": "Manufacturing linked Solar Scheme",
+     "type": "Scheme",
+     "english_name": "Manufacturing linked Solar Scheme"
+    },
+    {
+     "name": "SECI in pursuit of the cause of promoting renewable energy had recently worked under the auspices of GOI's \"Atma Nirbhar Bharat Abhiyan\" by auctioning Manufacturing Linked Solar Tender in Nov 2019.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Basis, the tendering, awards were placed between Dec 2019 to June 2020 by SECI, wherein 12 GW of ISTS Connected Solar Projects were awarded in 4 Tranches of 3 GW each.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Commercial Operation of Tranche-I Projects is expected by Sep'2023 and thereafter subsequent Tranche – II, III & IV in Sep'2024, Sep'2025 and Sep'2026, respectively.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The tender shall entail setting up of 3 GW pa capacity of manufacturing facilities in the Country.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Out of the above Solar project capacities, Tranche -I capacities have been offered to various utilities and they have shown their willingness to purchase the same and PSAs are expected to be finalised in due course.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "48310dca9af3deae1ac9e2460d4bed0f43e96ffb": {
+   "entities": [],
+   "relations": []
+  },
+  "9f438334356f37cacaefe43032fe541f145ffa86": {
+   "entities": [
+    {
+     "name": "HM&FW Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PPP Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tender Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "e-procurement platform",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Markapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Penugonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Palakollu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amalapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Narsipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bapatla",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Parvathipuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Allocation of Land for each project",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "development of 10 new medical colleges at Adoni, Madanapalli, Markapuram, Pulivendula, Penugonda, Palakollu, Amalapuram, Narsipatnam, Bapatla and Parvathipuram under PPP mode",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "development of four (4) medical colleges at Adoni, Markapur, Madanapalli, and Pulivendula under PPP mode under Phase-I",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "development of 10 new medical colleges at Adoni, Madanapalli, Markapuram, Pulivendula, Penugonda, Palakollu, Amalapuram, Narsipatnam, Bapatla and Parvathipuram under PPP mode",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Allocation of Land for each project",
+     "evidence": "The Committee have opined that the following issues requires approval of the Government before publishing the same in e-procurement platform: Allocation of Land for each project"
+    }
+   ]
+  }
+ }
+}

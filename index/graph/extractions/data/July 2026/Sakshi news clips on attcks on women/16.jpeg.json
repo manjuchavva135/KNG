@@ -1,0 +1,227 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f6b1cafbc1d0b01c7d61ed1bb3b004694a7d4d4b": {
+   "entities": [
+    {
+     "name": "చంద్రశేఖర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Chandrasekhar Reddy"
+    },
+    {
+     "name": "ఉషాశ్రీ చరణ్",
+     "type": "Person",
+     "english_name": "Usha Sree Charan"
+    },
+    {
+     "name": "సవిత",
+     "type": "Person",
+     "english_name": "Savith"
+    },
+    {
+     "name": "పం చాయతీ కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "Panchayat Secretary"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "రొద్దం",
+     "type": "Place",
+     "english_name": "Roddam"
+    },
+    {
+     "name": "పండుటాకుల పింఛన్లు",
+     "type": "Scheme",
+     "english_name": "Pandutakul pensions"
+    },
+    {
+     "name": "పింఛన్ల నిలిపివేత",
+     "type": "Issue",
+     "english_name": "Pension stoppage"
+    },
+    {
+     "name": "తక్షణమే వారందరికీ పింఛన్లు పంపిణీ చేయాలని ఆదేశించారు",
+     "type": "Claim",
+     "english_name": "Ordered immediate distribution of pensions to all"
+    },
+    {
+     "name": "మంత్రి సవిత ... పండుటాకుల పింఛన్లు నిలిపివేయడం దుర్మార్గ మైన చర్య అని మండిపడ్డారు",
+     "type": "Claim",
+     "english_name": "Minister Savith condemned stopping Pandutakul pensions as a wicked act"
+    },
+    {
+     "name": "మాజీ మంత్రి ఉషాశ్రీ చరణ్ ... మరికొంతమందికీ ఇలానే పింఛన్లు నిలిపివేశారని తెలిపారు",
+     "type": "Claim",
+     "english_name": "Former minister Usha Sree Charan said pensions were stopped for many others as well"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రశేఖర్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "తక్షణమే వారందరికీ పింఛన్లు పంపిణీ చేయాలని ఆదేశించారు",
+     "evidence": "తక్షణమే వారందరికీ పింఛన్లు పంపిణీ చేయాలని పం చాయతీ కార్యదర్శిని ఆదేశించారు."
+    },
+    {
+     "source": "సవిత",
+     "relation": "MAKES_CLAIM",
+     "target": "మంత్రి సవిత ... పండుటాకుల పింఛన్లు నిలిపివేయడం దుర్మార్గ మైన చర్య అని మండిపడ్డారు",
+     "evidence": "మంత్రి సవిత ఇలా కా లో పండుటాకుల పింఛన్లు నిలిపివేయడం దుర్మార్గ మైన చర్య అని మండిపడ్డారు."
+    },
+    {
+     "source": "ఉషాశ్రీ చరణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "మాజీ మంత్రి ఉషాశ్రీ చరణ్ ... మరికొంతమందికీ ఇలానే పింఛన్లు నిలిపివేశారని తెలిపారు",
+     "evidence": "మాజీ మంత్రి ఉషాశ్రీ చరణ్ ... మరికొంతమందికీ ఇలానే పింఛన్లు నిలిపివేశారని తెలిపారు."
+    },
+    {
+     "source": "మంత్రి సవిత ... పండుటాకుల పింఛన్లు నిలిపివేయడం దుర్మార్గ మైన చర్య అని మండిపడ్డారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పింఛన్ల నిలిపివేత",
+     "evidence": "మంత్రి సవిత ... పండుటాకుల పింఛన్లు నిలిపివేయడం దుర్మార్గ మైన చర్య అని మండిపడ్డారు."
+    },
+    {
+     "source": "మాజీ మంత్రి ఉషాశ్రీ చరణ్ ... మరికొంతమందికీ ఇలానే పింఛన్లు నిలిపివేశారని తెలిపారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పింఛన్ల నిలిపివేత",
+     "evidence": "మాజీ మంత్రి ఉషాశ్రీ చరణ్ ... మరికొంతమందికీ ఇలానే పింఛన్లు నిలిపివేశారని తెలిపారు."
+    }
+   ]
+  },
+  "212b8266619dbe356bd467796010bcdcf3b6206c": {
+   "entities": [
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Punganooru",
+     "type": "Place",
+     "english_name": "Punganooru"
+    },
+    {
+     "name": "Chittoor district",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Amramma",
+     "type": "Person",
+     "english_name": "Amramma"
+    },
+    {
+     "name": "Nagaraju",
+     "type": "Person",
+     "english_name": "Nagaraju"
+    },
+    {
+     "name": "Giri",
+     "type": "Person",
+     "english_name": "Giri"
+    },
+    {
+     "name": "Mala Mahanadu",
+     "type": "Organization",
+     "english_name": "Mala Mahanadu"
+    },
+    {
+     "name": "NR. Ashok",
+     "type": "Person",
+     "english_name": "NR. Ashok"
+    },
+    {
+     "name": "MPDO Venkammuni Reddy",
+     "type": "Person",
+     "english_name": "MPDO Venkammuni Reddy"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "Sathya Sai district",
+     "type": "Place",
+     "english_name": "Sathya Sai district"
+    },
+    {
+     "name": "Roddam mandal",
+     "type": "Place",
+     "english_name": "Roddam mandal"
+    },
+    {
+     "name": "Narannagapalli",
+     "type": "Place",
+     "english_name": "Narannagapalli"
+    },
+    {
+     "name": "AEV Chandrasekhar Reddy",
+     "type": "Person",
+     "english_name": "AEV Chandrasekhar Reddy"
+    },
+    {
+     "name": "Human rights commission",
+     "type": "Organization",
+     "english_name": "Human rights commission"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "Attack on women",
+     "type": "Issue",
+     "english_name": "Attack on women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Amramma",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "Amramma ... filed complaint with police"
+    },
+    {
+     "source": "NR. Ashok",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "Mala Mahanadu state secretary NR. Ashok expressed anger at the attack by TDP goons"
+    },
+    {
+     "source": "Punganooru",
+     "relation": "LOCATED_IN",
+     "target": "Chittoor district",
+     "evidence": "Punganooru (Chittoor district)"
+    },
+    {
+     "source": "Roddam mandal",
+     "relation": "LOCATED_IN",
+     "target": "Sathya Sai district",
+     "evidence": "Sathya Sai district, Roddam mandal"
+    },
+    {
+     "source": "Narannagapalli",
+     "relation": "LOCATED_IN",
+     "target": "Roddam mandal",
+     "evidence": "Narannagapalli"
+    }
+   ]
+  }
+ }
+}

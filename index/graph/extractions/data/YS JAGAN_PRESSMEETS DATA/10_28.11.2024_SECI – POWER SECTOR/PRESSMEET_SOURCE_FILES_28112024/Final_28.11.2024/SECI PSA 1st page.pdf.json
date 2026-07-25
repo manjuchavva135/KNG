@@ -1,0 +1,181 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1ac4fb98ee6315399d2094dc3b9309a70e570661": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "Government of National Capital Territory of Delhi",
+     "type": "Organization",
+     "english_name": "Government of National Capital Territory of Delhi"
+    },
+    {
+     "name": "Velagapudi, Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Velagapudi, Andhra Pradesh"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "APSPDCL",
+     "type": "Organization",
+     "english_name": "APSPDCL"
+    },
+    {
+     "name": "Power Trading & Commercial Department",
+     "type": "Organization",
+     "english_name": "Power Trading & Commercial Department"
+    },
+    {
+     "name": "Energy Corporation of India Ltd.",
+     "type": "Organization",
+     "english_name": "Energy Corporation of India Ltd."
+    },
+    {
+     "name": "Mohit Patel",
+     "type": "Person",
+     "english_name": "Mohit Patel"
+    },
+    {
+     "name": "Power Sale Agreement",
+     "type": "Scheme",
+     "english_name": "Power Sale Agreement"
+    },
+    {
+     "name": "Article 5 General Agreement",
+     "type": "Scheme",
+     "english_name": "Article 5 General Agreement"
+    }
+   ],
+   "relations": []
+  },
+  "dc6cfee3486a4999081b8c37bfd5a9cafc67f0c4": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "POWER SECTOR",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "VIJAYAWADA",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Energy Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Velagapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "A.P. Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Velagapudi",
+     "evidence": "A.P. Secretariat, Velagapudi, Amaravati"
+    },
+    {
+     "source": "Velagapudi",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "A.P. Secretariat, Velagapudi, Amaravati"
+    }
+   ]
+  },
+  "6e1226332836e0b5f2d16688cde0bd1145a598c1": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of National Capital Territory of Delhi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Power Trading & Commercial Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Energy Corp of India Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APSPDCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Velagapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "having its registered office at 6th Floor, Plate-B, NBCC Office Block Tower-2, East Kidwai Nagar, New Delhi-110023"
+    },
+    {
+     "source": "Energy Corp of India Ltd",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "6th Floor, Plate-8, NBCC Office Block Tower-2, East Kiowai Nagar, New Delhi-23"
+    }
+   ]
+  }
+ }
+}

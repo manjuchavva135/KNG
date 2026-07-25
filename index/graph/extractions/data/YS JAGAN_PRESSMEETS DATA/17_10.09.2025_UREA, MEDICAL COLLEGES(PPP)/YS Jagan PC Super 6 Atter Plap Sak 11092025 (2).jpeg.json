@@ -1,0 +1,379 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7711520b321a7c58c7326a58cf3d67248d123149": {
+   "entities": [
+    {
+     "name": "Y.S. Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Anantapuram",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "సూపర్ హిట్",
+     "type": "Scheme",
+     "english_name": "Super Hit"
+    },
+    {
+     "name": "మెడికల్ కాలేజీలు (PPP)",
+     "type": "Scheme",
+     "english_name": "Medical Colleges (PPP)"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "చంద్రబాబు చేసిన మోసాలు, చెప్పిన అబద్ధాలు, పొడిచిన వెన్నుపోట్లతో ప్రజల జీవితాలు తగలబడుతుంటే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్ హామీలను ఎగ్గాట్టడం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్ కాలేజీల ప్రైవేటీకరణ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీకి మంగళం పాడటం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా, ఇతర ఎరువులు దొరర్క రైతుల కష్టాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏ పంటకూ గిట్టుబాటు ధర లేక పోవడం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉచిత పంటల బీమాను ఎగ్గొట్టడం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Y.S. Jagan",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "చంద్రబాబు చేసిన మోసాలు, చెప్పిన అబద్ధాలు, పొడిచిన వెన్నుపోట్లతో ప్రజల జీవితాలు తగలబడుతుంటే.."
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్, సూపర్ సెవెన్ సూపర్ హిట్ అంటూ అనంతపురంలో బలవంతపు సంబరాలు చేసుకుంటున్నారని ఏకి పారేశారు."
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "ACCUSES",
+     "target": "Eenadu",
+     "evidence": "చంద్రబాబు, ఆయన ఎల్లో మీడియా నాణినికి ఒక వైపు మాత్రమే చెబుతోందని"
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చేసిన మోసాలు, చెప్పిన అబద్ధాలు, పొడిచిన వెన్నుపోట్లతో ప్రజల జీవితాలు తగలబడుతుంటే",
+     "evidence": "చంద్రబాబు చేసిన మోసాలు, చెప్పిన అబద్ధాలు, పొడిచిన వెన్నుపోట్లతో ప్రజల జీవితాలు తగలబడుతుంటే.."
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్ సిక్స్ హామీలను ఎగ్గాట్టడం",
+     "evidence": "సూపర్ సిక్స్ హామీలను ఎగ్గాట్టడం"
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "మెడికల్ కాలేజీల ప్రైవేటీకరణ",
+     "evidence": "మెడికల్ కాలేజీల ప్రైవేటీకరణ"
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆరోగ్యశ్రీకి మంగళం పాడటం",
+     "evidence": "ఆరోగ్యశ్రీకి మంగళం పాడటం"
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "యూరియా, ఇతర ఎరువులు దొరర్క రైతుల కష్టాలు",
+     "evidence": "యూరియా, ఇతర ఎరువులు దొరర్క రైతుల కష్టాలు"
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏ పంటకూ గిట్టుబాటు ధర లేక పోవడం",
+     "evidence": "ఏ పంటకూ గిట్టుబాటు ధర లేక పోవడం"
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉచిత పంటల బీమాను ఎగ్గొట్టడం",
+     "evidence": "ఉచిత పంటల బీమాను ఎగ్గొట్టడం"
+    },
+    {
+     "source": "Y.S. Jagan",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "వైఎస్ జగన్ మీడియాతో మాట్లాడారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్, సూపర్ సెవెన్ సూపర్ హిట్ అంటూ అనంతపురంలో బలవంతపు సంబరాలు చేసుకుంటున్నారని ఏకి పారేశారు."
+    }
+   ]
+  },
+  "3673298203b7f22a2ecfb87ed61c2a715f0ddb5e": {
+   "entities": [
+    {
+     "name": "టీడీపీ కూటమి",
+     "type": "Party",
+     "english_name": "TDP coalition"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "గత ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Previous government"
+    },
+    {
+     "name": "టీడీపీ కూటమి నేతలు",
+     "type": "Person",
+     "english_name": "TDP coalition leaders"
+    },
+    {
+     "name": "రియామ్",
+     "type": "Scheme",
+     "english_name": "Ryram"
+    },
+    {
+     "name": "అసూ",
+     "type": "Scheme",
+     "english_name": "Asu"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero interest"
+    },
+    {
+     "name": "కాపు వేస్తాం ఈబీసీ",
+     "type": "Scheme",
+     "english_name": "Kapu vestam EBC"
+    },
+    {
+     "name": "ఉచిత వంట బీమా",
+     "type": "Scheme",
+     "english_name": "Free cooking insurance"
+    },
+    {
+     "name": "విద్యా దిన",
+     "type": "Scheme",
+     "english_name": "Vidhya Dina"
+    },
+    {
+     "name": "మోసం",
+     "type": "Issue",
+     "english_name": "Fraud"
+    },
+    {
+     "name": "పథకాల రద్దు",
+     "type": "Issue",
+     "english_name": "Cancellation of schemes"
+    },
+    {
+     "name": "రూ.15 వేల ఇస్తానన్నారా, ఎలాంటి ఆంక్షలు లేకుండా ఏడాదికి రూ.15 వేల ఇస్తానన్నారా.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిగిలిన వారికి కేవలం రూ.18 వేలు మాత్రమే ఇస్తారన్నారా.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంకా చాలా మందికి రూ.8 వేల మాత్రమే ఇస్తారన్న మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గత ప్రభుత్వంలో అమలైన పథకాలు రద్దు చేయడం మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ కూటమి నేతలు ఏ ఇంటికి వెళ్లినా.. చిన్న పిల్లలు కన్పిస్తే నీకు రూ.15 వేలు, పెద్దమ్మటు, చిన్నమ్మలు కనపడితే నీకు రూ.18 వేలు, నీకు రూ.18 వేలు..",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ కూటమి నేతలు",
+     "relation": "ACCUSES",
+     "target": "గత ప్రభుత్వం",
+     "evidence": "గత ప్రభుత్వంలో అమలైన పథకాలు రద్దు చేయడం మోసం కాదా?"
+    },
+    {
+     "source": "టీడీపీ కూటమి నేతలు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.15 వేల ఇస్తానన్నారా, ఎలాంటి ఆంక్షలు లేకుండా ఏడాదికి రూ.15 వేల ఇస్తానన్నారా.",
+     "evidence": "కోసం రూ.15 వేల ఇస్తానన్నారా, ఎలాంటి ఆంక్షలు లేకుండా ఏడాదికి రూ.15 వేల ఇస్తానన్నారా."
+    },
+    {
+     "source": "టీడీపీ కూటమి నేతలు",
+     "relation": "MAKES_CLAIM",
+     "target": "మిగిలిన వారికి కేవలం రూ.18 వేలు మాత్రమే ఇస్తారన్నారా.",
+     "evidence": "మిగిలిన వారికి కేవలం రూ.18 వేలు మాత్రమే ఇస్తారన్నారా."
+    },
+    {
+     "source": "టీడీపీ కూటమి నేతలు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇంకా చాలా మందికి రూ.8 వేల మాత్రమే ఇస్తారన్న మోసం కాదా?",
+     "evidence": "ఇంకా చాలా మందికి రూ.8 వేల మాత్రమే ఇస్తారన్న మోసం కాదా?"
+    },
+    {
+     "source": "టీడీపీ కూటమి నేతలు",
+     "relation": "MAKES_CLAIM",
+     "target": "గత ప్రభుత్వంలో అమలైన పథకాలు రద్దు చేయడం మోసం కాదా?",
+     "evidence": "గత ప్రభుత్వంలో అమలైన పథకాలు రద్దు చేయడం మోసం కాదా?"
+    },
+    {
+     "source": "టీడీపీ కూటమి నేతలు",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ కూటమి నేతలు ఏ ఇంటికి వెళ్లినా.. చిన్న పిల్లలు కన్పిస్తే నీకు రూ.15 వేలు, పెద్దమ్మటు, చిన్నమ్మలు కనపడితే నీకు రూ.18 వేలు, నీకు రూ.18 వేలు..",
+     "evidence": "టీడీపీ కూటమి నేతలు ఏ ఇంటికి వెళ్లినా.. చిన్న పిల్లలు కన్పిస్తే నీకు రూ.15 వేలు, పెద్దమ్మటు, చిన్నమ్మలు కనపడితే నీకు రూ.18 వేలు, నీకు రూ.18 వేలు.."
+    }
+   ]
+  },
+  "4e6cb15d1210c565a2214b5efc0f8652918b7818": {
+   "entities": [
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కోత నాయుడు",
+     "type": "Person",
+     "english_name": "Kotha Naidu"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Thalliki Vandanam"
+    },
+    {
+     "name": "అన్నదాత సులీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sulibhavam"
+    },
+    {
+     "name": "యువ గళం",
+     "type": "Scheme",
+     "english_name": "Yuva Galam"
+    },
+    {
+     "name": "సూపర్నోట్",
+     "type": "Scheme",
+     "english_name": "SuperNote"
+    },
+    {
+     "name": "సుభవ",
+     "type": "Scheme",
+     "english_name": "Subhava"
+    },
+    {
+     "name": "50 ఏళ్ల పెన్షన్",
+     "type": "Scheme",
+     "english_name": "50 Years Pension"
+    },
+    {
+     "name": "పెన్షన్ కోత",
+     "type": "Issue",
+     "english_name": "Pension Cut"
+    },
+    {
+     "name": "ఉచిత బస్సు సేవ",
+     "type": "Issue",
+     "english_name": "Free Bus Service"
+    },
+    {
+     "name": "గ్యాస్ సిలిండర్ల పంపిణీ",
+     "type": "Issue",
+     "english_name": "Gas Cylinder Distribution"
+    }
+   ],
+   "relations": []
+  },
+  "954d35e4c46eeb998e1201ddc4fde037eac57f15": {
+   "entities": [],
+   "relations": []
+  }
+ }
+}

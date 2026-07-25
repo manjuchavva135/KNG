@@ -1,0 +1,138 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4eeb376e5dfafd564f81c8f7691316480b58273e": {
+   "entities": [
+    {
+     "name": "శాలిని",
+     "type": "Person",
+     "english_name": "Shalini"
+    },
+    {
+     "name": "గొల్ల లక్ష్మి",
+     "type": "Person",
+     "english_name": "Gollu Laxmi"
+    },
+    {
+     "name": "గొల్ల దొడ్డయ్య",
+     "type": "Person",
+     "english_name": "Gollu Doddayya"
+    },
+    {
+     "name": "గొల్ల బొమ్మయ్య",
+     "type": "Person",
+     "english_name": "Gollu Bommiya"
+    },
+    {
+     "name": "గొల్ల తిప్పేస్వామి",
+     "type": "Person",
+     "english_name": "Gollu Thippeswami"
+    },
+    {
+     "name": "గొల్ల చిక్కమ్మ",
+     "type": "Person",
+     "english_name": "Gollu Chickamma"
+    },
+    {
+     "name": "వెట్టి మారెప్ప",
+     "type": "Person",
+     "english_name": "Vetti Mareppa"
+    },
+    {
+     "name": "వెట్టి హనుమంతురాయుడు",
+     "type": "Person",
+     "english_name": "Vetti Hanumanthuraidu"
+    },
+    {
+     "name": "ఈరప్ప",
+     "type": "Person",
+     "english_name": "Eerappa"
+    },
+    {
+     "name": "జి.హనుమంతురాయుడు",
+     "type": "Person",
+     "english_name": "G. Hanumanthuraidu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "కుందుర్పి మండలం",
+     "type": "Place",
+     "english_name": "Kandurpi mandal"
+    },
+    {
+     "name": "జంబుగుంపల గ్రామం",
+     "type": "Place",
+     "english_name": "Jambugumpala village"
+    },
+    {
+     "name": "జిల్లా ఎస్పీ కార్యాలయం",
+     "type": "Place",
+     "english_name": "District SP office"
+    },
+    {
+     "name": "భూమి ఆక్రమణ",
+     "type": "Issue",
+     "english_name": "Land encroachment"
+    },
+    {
+     "name": "దాడి",
+     "type": "Issue",
+     "english_name": "Attack"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాలిని",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకుల దాష్టీకం ప్రదర్శించారు"
+    },
+    {
+     "source": "శాలిని",
+     "relation": "ACCUSES",
+     "target": "గొల్ల బొమ్మయ్య",
+     "evidence": "టీడీపీ నాయకులైన గొల్ల బొమ్మయ్య, కుమారుడు గొల్ల తిప్పేస్వామి, గొల్ల నరసింహప్ప భార్య గొల్ల చిక్కమ్మ కలిసి శాలిని తల్లిపై విచక్షణారహితంగా దాడి చేశారు."
+    },
+    {
+     "source": "శాలిని",
+     "relation": "ACCUSES",
+     "target": "గొల్ల తిప్పేస్వామి",
+     "evidence": "టీడీపీ నాయకులైన గొల్ల బొమ్మయ్య, కుమారుడు గొల్ల తిప్పేస్వామి, గొల్ల నరసింహప్ప భార్య గొల్ల చిక్కమ్మ కలిసి శాలిని తల్లిపై విచక్షణారహితంగా దాడి చేశారు."
+    },
+    {
+     "source": "శాలిని",
+     "relation": "ACCUSES",
+     "target": "గొల్ల చిక్కమ్మ",
+     "evidence": "టీడీపీ నాయకులైన గొల్ల బొమ్మయ్య, కుమారుడు గొల్ల తిప్పేస్వామి, గొల్ల నరసింహప్ప భార్య గొల్ల చిక్కమ్మ కలిసి శాలిని తల్లిపై విచక్షణారహితంగా దాడి చేశారు."
+    },
+    {
+     "source": "శాలిని",
+     "relation": "ACCUSES",
+     "target": "వెట్టి మారెప్ప",
+     "evidence": "టీడీపీ నాయకుడు వెట్టి మారెప్ప కుమారుడు వెట్టి హనుమంతురాయుడు, ఈరప్ప కుమారుడు జి.హనుమంతురాయుడు ఆమెను నిర్దాక్షిణ్యంగా పక్కకు లాగిపడేశారు."
+    },
+    {
+     "source": "శాలిని",
+     "relation": "ACCUSES",
+     "target": "వెట్టి హనుమంతురాయుడు",
+     "evidence": "టీడీపీ నాయకుడు వెట్టి మారెప్ప కుమారుడు వెట్టి హనుమంతురాయుడు, ఈరప్ప కుమారుడు జి.హనుమంతురాయుడు ఆమెను నిర్దాక్షిణ్యంగా పక్కకు లాగిపడేశారు."
+    },
+    {
+     "source": "శాలిని",
+     "relation": "ACCUSES",
+     "target": "జి.హనుమంతురాయుడు",
+     "evidence": "టీడీపీ నాయకుడు వెట్టి మారెప్ప కుమారుడు వెట్టి హనుమంతురాయుడు, ఈరప్ప కుమారుడు జి.హనుమంతురాయుడు ఆమెను నిర్దాక్షిణ్యంగా పక్కకు లాగిపడేశారు."
+    }
+   ]
+  }
+ }
+}

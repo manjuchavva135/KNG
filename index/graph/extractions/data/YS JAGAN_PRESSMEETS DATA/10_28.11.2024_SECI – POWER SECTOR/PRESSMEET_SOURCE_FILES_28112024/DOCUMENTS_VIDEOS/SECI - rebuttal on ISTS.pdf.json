@@ -1,0 +1,182 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3ac23ee6c65716bc1f4bb294002820845a8d669a": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS charges",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ISTS waiver",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ISTS charges",
+     "evidence": "the non-applicability of ISTS charges to the arrangement with SECI."
+    }
+   ]
+  },
+  "c4c2fe1ed69762395e428af145db778c988967bf": {
+   "entities": [
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS charges waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "PSA (Power Supply Agreement)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "distribution utilities of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power, Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Order No. 23/12/2016 – R&R",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar PV plants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SECI tender for manufacturing linked capacity scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RFS No. SECI/C&P/Rfs/2GW Manufacturing/P-3/R1/062019",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RPO",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6d8dded85c8fc4c27cd22730204de7e5a70f0c22": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CERC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Electricity Regulatory Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Manufacturing linked capacity scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RFS No. SECI/C&P/Rfs/2GW Manufacturing/P-3/R1/062019",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Central Electricity Regulatory Authority",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

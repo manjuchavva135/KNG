@@ -1,0 +1,128 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "48fa04b8025fb1017d297b07338938665eb698f8": {
+   "entities": [
+    {
+     "name": "BUYER-BUYING ENTITY PSA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Domani J. Pucelle Ad De Han Kwak",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS losses",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "transmission losses",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "there shall be no incidence of ISTS losses applicable for entire term of this agreement.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Domani J. Pucelle Ad De Han Kwak",
+     "relation": "MAKES_CLAIM",
+     "target": "there shall be no incidence of ISTS losses applicable for entire term of this agreement.",
+     "evidence": "there shall be no incidence of ISTS losses applicable for entire term of this agreement."
+    },
+    {
+     "source": "there shall be no incidence of ISTS losses applicable for entire term of this agreement.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ISTS losses",
+     "evidence": "there shall be no incidence of ISTS losses applicable for entire term of this agreement."
+    }
+   ]
+  },
+  "d1f93674990fe3eb5ad39ca920bcc5df8d5ee2a1": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PSA",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Buying Entity",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Appropriate Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "STU/SLDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SPD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CTU",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Payment Security Mechanism",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Open Access",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Inter-state transmission charges",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Buying Entity shall not be liable for any payments to be made for any ISTS charges",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Buyer shall neither be liable for obtaining the open access nor for any payments to be made for such open access to the concerned STU/CTU by Buying Entity.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

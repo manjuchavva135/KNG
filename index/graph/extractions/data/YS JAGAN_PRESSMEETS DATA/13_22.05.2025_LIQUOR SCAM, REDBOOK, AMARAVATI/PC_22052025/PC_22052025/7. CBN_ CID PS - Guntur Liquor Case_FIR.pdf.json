@@ -1,0 +1,809 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0138a9c151b577f408301423123fe61fec2524ee": {
+   "entities": [
+    {
+     "name": "Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "c9a6fed279106960b1c6ac1f178effb4d4dc3957": {
+   "entities": [
+    {
+     "name": "the earnings of the Government on account of the privilege fee between 2012-2015 is Rs.2984 Crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "the decision to delete the privilege fee did not form part of the excise policy deliberations forwarded to the cabinet.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Cabinet",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "the earnings of the Government on account of the privilege fee between 2012-2015 is Rs.2984 Crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": ""
+    },
+    {
+     "source": "the decision to delete the privilege fee did not form part of the excise policy deliberations forwarded to the cabinet.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": ""
+    }
+   ]
+  },
+  "e9c0bc303978ca424b712d17258298c1dac9e399": {
+   "entities": [
+    {
+     "name": "D. Vasudeva Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State Beverages Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "I.S. Sri Naresh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kollu Ravindra",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "N. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "D. Vasudeva Reddy",
+     "relation": "ACCUSES",
+     "target": "I.S. Sri Naresh",
+     "evidence": "1) I.S. Sri Naresh"
+    },
+    {
+     "source": "D. Vasudeva Reddy",
+     "relation": "ACCUSES",
+     "target": "Kollu Ravindra",
+     "evidence": "2) Kollu Ravindra"
+    },
+    {
+     "source": "D. Vasudeva Reddy",
+     "relation": "ACCUSES",
+     "target": "N. Chandrababu Naidu",
+     "evidence": "3) N.Chandrababu Naidu"
+    }
+   ]
+  },
+  "fde8df28eddc532c963a0aa5b1ce033585363376": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Principal Accountant General (Audit)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "licencees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A4 Shop Licencees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "privilege fee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "GO Ms. No. 391 dt. 16.6.2012",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "0931028f33fc74bfa87dcf1df4d189974ac5c3d9": {
+   "entities": [
+    {
+     "name": "CID, AP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AMARAVATHI",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MANGALAGIRI",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Velagapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Prohibition and Excise",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "CID, AP",
+     "relation": "LOCATED_IN",
+     "target": "AMARAVATHI",
+     "evidence": "P.S:CID PS, A.P., AMARAVATHI, MANGALAGIRI"
+    },
+    {
+     "source": "CID, AP",
+     "relation": "LOCATED_IN",
+     "target": "MANGALAGIRI",
+     "evidence": "P.S:CID PS, A.P., AMARAVATHI, MANGALAGIRI"
+    },
+    {
+     "source": "A.P. Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Velagapudi",
+     "evidence": "Place of Occurrence: A.P. Secretariat, Velagapudi, Amaravathi, A.P, Guntur District"
+    },
+    {
+     "source": "A.P. Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "AMARAVATHI",
+     "evidence": "Place of Occurrence: A.P. Secretariat, Velagapudi, Amaravathi, A.P, Guntur District"
+    },
+    {
+     "source": "A.P. Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Guntur District",
+     "evidence": "Place of Occurrence: A.P. Secretariat, Velagapudi, Amaravathi, A.P, Guntur District"
+    },
+    {
+     "source": "Commissioner of Prohibition and Excise",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "O/C of Commissioner of Prohibition and Excise, Survey No. 88-2B, Sai Vihar Apartments, Prasadampadu, Vijayawada-521108"
+    }
+   ]
+  },
+  "cf766a576908ecf3b997b14d4b0123c9f6208bd3": {
+   "entities": [
+    {
+     "name": "Excise Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Cabinet",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Association of AP State Wine Dealers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "then Honourable Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "then Honourable Minister for Excise",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bar Policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "privilege fee",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "then Honourable Chief Minister",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Bar Policy",
+     "evidence": "the then Honourable Chief Minister and then Honourable Minister for Excise the outline of the new Bar Policy for 2016 is shown to have been arrived."
+    },
+    {
+     "source": "then Honourable Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Bar Policy",
+     "evidence": "the then Honourable Chief Minister and then Honourable Minister for Excise the outline of the new Bar Policy for 2016 is shown to have been arrived."
+    }
+   ]
+  },
+  "8c065a4fbaa9c71581f19b5f2a839508018f5054": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. 8FY Agro Industries",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s SPY Agro Industries Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Honourable High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A4 shop owners",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Public servants",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Nandyal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "abuse of office by public servants, loss to the state exchequer, compromise to the public interest, and the corresponding unlawful pecuniary gain to the licencees.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "SPY is obligated to pay the enhanced licence fee amended in 2011.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "M/s SPY Agro Industries Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Nandyal",
+     "evidence": "SPY Agro Industries Ltd, Nandyal"
+    }
+   ]
+  },
+  "e91a1594696baeea80ac067788d0a65e5ac07b89": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CPE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "cabinet",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "privilege fee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "annual Licence Fee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rule 16(9) of the Licence Rules",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "A4 shops",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DO No CR No. 999/2015/CPE/E3 dt. 22.6.2015",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GO Ms. No. 391 dt. 18.6.2012",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GO Ms. No. 218 dt. 22.6.2015",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "excise years 2015-2017",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "licencees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "disguised sales",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "accounting manipulations",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "licencees",
+     "relation": "MAKES_CLAIM",
+     "target": "disguised sales",
+     "evidence": "licencees resorted to disguised sales"
+    },
+    {
+     "source": "licencees",
+     "relation": "MAKES_CLAIM",
+     "target": "accounting manipulations",
+     "evidence": "accounting manipulations regarding sale of stocks"
+    }
+   ]
+  },
+  "9e61f0c6b52c367d8adf49b465d564d08cd3b142": {
+   "entities": [
+    {
+     "name": "SPY",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sri SPY Reddy",
+     "type": "Person",
+     "english_name": "Sri SPY Reddy"
+    },
+    {
+     "name": "Nandyal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "AP Excise Act, 1968",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s P.M.K Distilleries",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s Visakha Distilleries",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GO Rt.No.993, Revenue (Excise-II) Department dt.12.11.2014",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: SPY cannot be allowed to take advantage of its own wrong and cause huge loss to the public exchequer.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: The financial loss caused to the Government and corresponding pecuniary gain to the SPY ... amounts approximately @18% is fifteen (15) crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: A detailed investigation is necessary, including into the possibility of quid pro quo having regard to the fact that the promoter Sri SPY Reddy, is a politician and MP from Nandyal at the relevant point in time.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Contrary to the recommendations of the committee ... permission was granted to establishment of Distilleries beyond the recommended capacity.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: In conspiracy and collusion with the stakeholders an element of exaggeration in creating a demand for certain products, without there being a market demand for the same.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ebec23941af9827403c6dba66c47b062ff134ded": {
+   "entities": [
+    {
+     "name": "Shri D.Vasudeva Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Distilleries & Breweries",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Managing Director",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State Beverages Corporation Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Prohibition and Excise",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Addl.DGP, CID, AP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Special Judge's Court for SPE & ACB Cases-Cum-Ill Addl. District Court, Vijayawada",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sri Ch. Ravi Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DSP, CID, Regional Office, Guntur",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sri S.B.V.Subhakar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SHO, CID PS, AP, Mangalagiri",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Complainant",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh State Beverages Corporation Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Survey No. 88-2B, Sai Vihar Apartments, Prasadampadu Vijayawada-521108"
+    },
+    {
+     "source": "Special Judge's Court for SPE & ACB Cases-Cum-Ill Addl. District Court, Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Special Judge's Court for SPE & ACB Cases-Cum-Ill Addl. District Court, Vijayawada"
+    },
+    {
+     "source": "DSP, CID, Regional Office, Guntur",
+     "relation": "LOCATED_IN",
+     "target": "Guntur",
+     "evidence": "Regional Office, Guntur"
+    }
+   ]
+  },
+  "3d9c0a034ac25e5b0ed812dd97985f8ef4d78a9b": {
+   "entities": [
+    {
+     "name": "Shri D. Vasudeva Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Distilleries & Breweries",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Managing Director",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State BeveragesCorporation Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "O/C Commissioner of Prohibition and Excise",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Survey No. 88-2B",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sai Vihar Apartments",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Prasadampadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada-52110",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of AP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "policy decisions reduced revenues and benefitted licencees",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "suppliers, in conspiracy and collusion with the licencees, exaggerated the demand for certain products, without there being a market demand for the same, thereby resulting in distorted projection being given to the Corporation",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Shri D. Vasudeva Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "policy decisions reduced revenues and benefitted licencees",
+     "evidence": "the following glaring policy decisions came to light, which had the effect of reducing the revenues for the State and benefitting the licencees."
+    },
+    {
+     "source": "suppliers, in conspiracy and collusion with the licencees, exaggerated the demand for certain products, without there being a market demand for the same, thereby resulting in distorted projection being given to the Corporation",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "suppliers, in conspiracy and collusion with the licencees, exaggerated the demand for certain products, without there being a market demand for the same, thereby resulting in distorted projection being given to the Corporation"
+    }
+   ]
+  }
+ }
+}

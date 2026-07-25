@@ -1,0 +1,2002 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "02f77be589ac7e46eb745ef2568753706c5a306a": {
+   "entities": [],
+   "relations": []
+  },
+  "43f2bd63d6c98b8e0564166e0864a6204688cd20": {
+   "entities": [],
+   "relations": []
+  },
+  "ab35518f47c84547721fd8f003bcbda79dd4fb9d": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "APMDC NCD issuance – Violation of Constitutional provisions",
+     "type": "Issue",
+     "english_name": "APMDC NCD issuance – Violation of Constitutional provisions"
+    }
+   ],
+   "relations": []
+  },
+  "873e27d9d46ad8fbf2fc9e567c16ffc53fa0386e": {
+   "entities": [
+    {
+     "name": "AP Govt",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Total borrowings availed and secured by AP Govt.",
+     "type": "Claim",
+     "english_name": "Total borrowings availed and secured by AP Govt."
+    },
+    {
+     "name": "increase is to be tune of Rs. 3,32,671 crores",
+     "type": "Claim",
+     "english_name": "increase is to be tune of Rs. 3,32,671 crores"
+    },
+    {
+     "name": "liabilities growth in the very first year of the TDP Government is Rs. 1,37,546 crores (41% of all borrowings made during the 5 – yr YSRCP Government)",
+     "type": "Claim",
+     "english_name": "liabilities growth in the very first year of the TDP Government is Rs. 1,37,546 crores (41% of all borrowings made during the 5 – yr YSRCP Government)"
+    }
+   ],
+   "relations": []
+  },
+  "15e81a0ba914e68b8c68b73dc27257791f7ce396": {
+   "entities": [],
+   "relations": []
+  },
+  "4c84c00c71e53d6e9b1f4fe2b52023e7dd35d449": {
+   "entities": [
+    {
+     "name": "Avaada Energy Private Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solarcraft Power India 8 Private Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gensol Engineering Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hero Solar Energy Private Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Reliance NU Suntech Private Limited (erstwhile Siyom Hydro Power Private Limited)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "3647d9b6de830729b7c18ece7581a76ea8d86156": {
+   "entities": [],
+   "relations": []
+  },
+  "f11f3eb7da1f37f0de48c51e302cd2b356c6a780": {
+   "entities": [],
+   "relations": []
+  },
+  "a8195e484dd04f4382be46b378575c8157c7efe6": {
+   "entities": [],
+   "relations": []
+  },
+  "12619c9982e0f886f4480ab8b43fddf988486aff": {
+   "entities": [],
+   "relations": []
+  },
+  "dcc78ef2c972458cd86d1461e0283372ec91775a": {
+   "entities": [],
+   "relations": []
+  },
+  "68caf1ed786b41d9c08f8e465677c5347de3f18f": {
+   "entities": [],
+   "relations": []
+  },
+  "a3fba4add4d0e92ebc0261c72513f8e300df40a7": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "సెకీ సీఎండీ",
+     "type": "Person",
+     "english_name": "SECI CMD"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "ANDHRA PRADESH",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": []
+  },
+  "659d44ce116948de08fddd9e8898e3c44d52a28e": {
+   "entities": [
+    {
+     "name": "K. Chandrasekhar Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "KCR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Dr. B.R. Ambedkar Telangana State Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BRKR Building",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "eb2af1fb37488a0614c91f9332364946a28d6815": {
+   "entities": [],
+   "relations": []
+  },
+  "7c559dc09b92cd9221cc8e869b22ef695b7a3543": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Ltd.",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Ltd."
+    },
+    {
+     "name": "BUYER-BUYING ENTITY PSA",
+     "type": "Organization",
+     "english_name": "BUYER-BUYING ENTITY PSA"
+    },
+    {
+     "name": "Buying Entity",
+     "type": "Organization",
+     "english_name": "Buying Entity"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "NTPC Renewable Energy Limited",
+     "type": "Organization",
+     "english_name": "NTPC Renewable Energy Limited"
+    },
+    {
+     "name": "ACME Solar Holdings Limited",
+     "type": "Organization",
+     "english_name": "ACME Solar Holdings Limited"
+    },
+    {
+     "name": "AMPIN Energy Utility Private Limited",
+     "type": "Organization",
+     "english_name": "AMPIN Energy Utility Private Limited"
+    },
+    {
+     "name": "Sembcorp Green Infra Private Limited",
+     "type": "Organization",
+     "english_name": "Sembcorp Green Infra Private Limited"
+    }
+   ],
+   "relations": []
+  },
+  "c993992ad9a6fc2450df6edc497e0fac164208fa": {
+   "entities": [
+    {
+     "name": "NH 167 AG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kondamodu - Perecherla",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "NH 167 A",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vodarevu - Chilakaluripeta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "NH 167 AG",
+     "relation": "LOCATED_IN",
+     "target": "Kondamodu - Perecherla",
+     "evidence": "NH 167 AG Kondamodu - Perecherla"
+    },
+    {
+     "source": "NH 167 A",
+     "relation": "LOCATED_IN",
+     "target": "Vodarevu - Chilakaluripeta",
+     "evidence": "NH 167 A Vodarevu - Chilakaluripeta"
+    }
+   ]
+  },
+  "abc3d20a1f52a3cff0742ac3c68dc0f7a9a26685": {
+   "entities": [],
+   "relations": []
+  },
+  "29a14c7cf5f59380c0e1f54ec817778b9bf3a948": {
+   "entities": [
+    {
+     "name": "बिजली क्षेत्र में ऊर्जा भार को बढ़ावा देना",
+     "type": "Claim",
+     "english_name": "Boosting energy load in the power sector"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "Rameshwar Prasad Gupta",
+     "type": "Person",
+     "english_name": "Rameshwar Prasad Gupta"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "Power Sale Agreement",
+     "type": "Scheme",
+     "english_name": "Power Sale Agreement"
+    }
+   ],
+   "relations": []
+  },
+  "2c98838190ca9a7e41c32bf394bef9c754076d0f": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Prime Minister Narendra Modi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "G.N. Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Palavagu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "The integrated Amaravati Government Complex would be constructed in an area of 4,85,000 sq.m.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The estimated cost is Rs. 4,668 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The GAD tower, the tallest in the south-west, will have B + G + 49 floors.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The four towers will have basement + ground + 39 floors.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Each floor will have 2,209 square meters, carpet or floor area 1,200 square meters.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The underground parking for each tower will be approximately 1,05,000 square meters.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The total site area is 32 acres.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The total built-up area of the towers will be approximately 4,85,000 square meters.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The buildings will have a total footprint of 900 meters in length and 139 meters in width, distributed evenly on both sides of Palavagu.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The locations of the towers and the footprint of the buildings are finalized with two towers on the north and three towers on the south of Palavagu.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a16835f56cc7ceac58912381a59eb1a4b40925ea": {
+   "entities": [
+    {
+     "name": "అరవంద్ పనగడియా",
+     "type": "Person",
+     "english_name": "Arvind Panagadi"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    }
+   ],
+   "relations": []
+  },
+  "af5ac62f4eef86108eae6581daec43057787bfc1": {
+   "entities": [
+    {
+     "name": "Sh. Chandra Babu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SPCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vijaywada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "CM residence",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sh. Chandra Babu Naidu discussed the general progress of the all the work/projects going on in SPCL at that time",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Sh. Chandra Babu Naidu asked me to meet his PS, Srinivas to follow his instructions",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sh. Chandra Babu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Sh. Chandra Babu Naidu discussed the general progress of the all the work/projects going on in SPCL at that time",
+     "evidence": "Sh. Chandra Babu Naidu personally discussed the general progress of the all the work/projects going on in SPCL at that time"
+    },
+    {
+     "source": "Sh. Chandra Babu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Sh. Chandra Babu Naidu asked me to meet his PS, Srinivas to follow his instructions",
+     "evidence": "asked me to meet his PS, Srinivas to follow his instructions"
+    }
+   ]
+  },
+  "d7bd7b36e799461538407b62a5cb228821dc64f6": {
+   "entities": [
+    {
+     "name": "అరవంద్ పనగడియా",
+     "type": "Person",
+     "english_name": "Arvind Panagadi"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    }
+   ],
+   "relations": []
+  },
+  "c96d78cc3897292b93a13b631e7608a600c71e29": {
+   "entities": [
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PSUs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "APPFC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Markfed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Civil Supplies Corp",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Debt and Other Liabilities",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Public Debt",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Government guaranteed debt",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Total State Government debt",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Non-guaranteed liability of State PSU (Power sector)",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Grand Total of liabilities",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Liabilities increase during periods of different regimes",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Borrowing during FY 2024-25 (provisional)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "SDL issuances in April 2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "SDL issuances in first week of May 2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Off-budget borrowings through APPFC",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Off-budget borrowings through AP Markfed",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Off-budget borrowings through Civil Supplies Corp",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Off-budget borrowings through planned APMDC Bonds",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Borrowings secured for Amaravathi",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "5938b8eb20fdfc0d63f881ec5fcc83006e9fcb77": {
+   "entities": [
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "52c4e4703014b7464baacc4fbe2023f854a3a0f3": {
+   "entities": [
+    {
+     "name": "GOVERNMENT OF INDIA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MINISTRY OF FINANCE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "INCOME TAX DEPARTMENT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "OFFICE OF THE PRINCIPAL COMMISSIONER OF INCOME TAX",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PCIT, Hyderabad-4",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ITO, Ward-13(3)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DC/ACIT, Central Circle-2(4)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "CHANDRA BABU NAIDU NARA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "N Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manoj Vasudev Pardasanny",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "INCOME TAX DEPARTMENT",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "India"
+    },
+    {
+     "source": "Hyderabad",
+     "relation": "LOCATED_IN",
+     "target": "Telangana",
+     "evidence": "Telangana"
+    },
+    {
+     "source": "PCIT, Hyderabad-4",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "PCIT, Hyderabad-4"
+    },
+    {
+     "source": "ITO, Ward-13(3)",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "ITO, Ward-13(3)"
+    },
+    {
+     "source": "DC/ACIT, Central Circle-2(4)",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "DC/ACIT, Central Circle-2(4)"
+    },
+    {
+     "source": "OFFICE OF THE PRINCIPAL COMMISSIONER OF INCOME TAX",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "Office of the Principal Commissioner of Income Tax"
+    }
+   ]
+  },
+  "770e3a2ee1bce7cfeb6acd9120be7b65222393ca": {
+   "entities": [
+    {
+     "name": "Integrated Amaravati Government Complex",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Administration Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The Hindu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SAMBASIVA RAO M.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Prime Minister Narendra Modi will relaunch the works on construction of the capital city",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Narendra Modi",
+     "relation": "MAKES_CLAIM",
+     "target": "Prime Minister Narendra Modi will relaunch the works on construction of the capital city",
+     "evidence": "Prime Minister Narendra Modi will relaunch the works on construction of the capital city"
+    },
+    {
+     "source": "General Administration Department",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "The towers will house the General Administration Department, the Andhra Pradesh State Secretariat, and HoD offices"
+    },
+    {
+     "source": "Andhra Pradesh State Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "The towers will house the General Administration Department, the Andhra Pradesh State Secretariat, and HoD offices"
+    },
+    {
+     "source": "Integrated Amaravati Government Complex",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Iconic Integrated Amaravati Government Complex with five towers to come up in 32 acres"
+    }
+   ]
+  },
+  "7369bb07af6864565172ddc5f0b3535500c51c9b": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "రామేశ్వర్ప్రసాద్ గుప్తా",
+     "type": "Person",
+     "english_name": "Rameshwar Prasad Gupta"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "అదానీ గ్రూపు",
+     "type": "Organization",
+     "english_name": "Adani Group"
+    },
+    {
+     "name": "అమెరికా దర్యాప్తు సంస్థ",
+     "type": "Organization",
+     "english_name": "US Department of Justice"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర డిస్క్ల",
+     "type": "Organization",
+     "english_name": "State discoms"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సెకీతో ఒప్పందం చరిత్రాత్మకం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అదానీ గ్రూపు రూ.1,750 కోట్ల లంచం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ నిర్వహించిన బిడ్డింగ్లో లంచం ముట్టజెప్పినట్లు యూఎస్ డిపార్ట్మెంట్ ఆఫ్ జస్టిస్ పేర్కొంది",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "సెకీతో ఒప్పందం చరిత్రాత్మకం",
+     "evidence": "సెకీతో మేం కుదుర్చుకున్న ఒప్పందం చరిత్రాత్మకం. అందుకు నాకు శాలువా కప్పి, గొప్పగా పొగడాల్సింది పోయి ఏంటీ ఈ మాటలు."
+    },
+    {
+     "source": "ఈనాడు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈనాడు - అమరావతి"
+    }
+   ]
+  },
+  "a6d17ddb1283281f345b1ac67fd18ecce4b3dafa": {
+   "entities": [
+    {
+     "name": "N Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ITO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ward-13(3)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "DC/ACIT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Circle-2(4)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MVP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. P. Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr Vicky",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr Vinay Nangalia",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP party",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Annai. Haigreeva",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shalakha",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APTIDCO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shapoorji Pallonji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Interim Secretariat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ex CM of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sh. Chandra Babu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Cash delivery of Rs 7.54 crores, Rs 33.36 crores, Rs 11.60 crores to TDP party",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "Cash delivery of Rs 7.54 crores, Rs 33.36 crores, Rs 11.60 crores to TDP party",
+     "evidence": "all the payments amounting to Rs 7.54 crores, Rs 33.36 crores and Rs 11.60 crores from the companies Annai. Haigreeva, Shalakha respectively had ultimately reached to Mr. P. Srinivas (PS to Chandra Babu Naidu) through the nominated persons ... cash delivery to the TDP party"
+    },
+    {
+     "source": "Cash delivery of Rs 7.54 crores, Rs 33.36 crores, Rs 11.60 crores to TDP party",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Press meet: 13_22.05.2025_LIQUOR SCAM"
+    },
+    {
+     "source": "Interim Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Amravati",
+     "evidence": "meetings held at Interim Secretariat for the ongoing process ... in the capital region of Amravati"
+    },
+    {
+     "source": "Amravati",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Ex CM of Andhra Pradesh"
+    }
+   ]
+  },
+  "cb89a8aa45cca57c82db1bb9b6e0a5224bae8a1e": {
+   "entities": [
+    {
+     "name": "Government of National Capital Territory of Delhi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Velagapudi, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Man I Puzek",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy Secretary to Government Energy Department, A.P. Secretariat, Velagapudi, Amaravati",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Cabinet (ACC)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shri Rameshwar Prasad Gupta, IAS (GJ:87) (Retd.)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Shri Bharat Lal, IFoS (GJ:88) (Retd.)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Shri Atal Dulloo, IAS (UT:89)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "National Human Rights Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Home Affairs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government Energy Department",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "Velagapudi, Andhra Pradesh",
+     "evidence": "This Power Sale Agreement is made on the 1st day of December of 2021at Velagapudi, Andhra Pradesh"
+    },
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "This Power Sale Agreement is made on the 1st day of December of 2021at Velagapudi, Amaravati"
+    }
+   ]
+  },
+  "180f47bd540ec9a7c422380005e5b9aff7ebf66e": {
+   "entities": [
+    {
+     "name": "Competition Commission of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "liquor policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "liquor scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Informants",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "OPs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Section 4 of the Competition Act, 2002",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Informants",
+     "relation": "ACCUSES",
+     "target": "OPs",
+     "evidence": "the allegations of abuse raised by the Informants are not found to be validated"
+    },
+    {
+     "source": "Section 4 of the Competition Act, 2002",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "liquor scam",
+     "evidence": "the liquor policy of AP Government does not contravene provisions as contained in section 4 of the Competition Act, 2002."
+    }
+   ]
+  },
+  "696bc034e3737a9c5f7cc14756c5ada122429a6b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Red book Governance",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "afbf4740db519fd0de68932340e20d487a3d4e33": {
+   "entities": [
+    {
+     "name": "Competition Commission of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Competition Act, 2002",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Section 4 of the Competition Act, 2002",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Abuse of dominant position",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "OPs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RCA",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Competition commission order dt. 19.09.2022",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Fair Competition",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Greater Good",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Amaravati",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati"
+    }
+   ]
+  },
+  "455ad211c38298bb6462d197c2ae0c687ad01416": {
+   "entities": [
+    {
+     "name": "APTIDCO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shapoorji Pullonji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sh. Chandra Babu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vickv Jain",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vijaywada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "CM residence",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "SPCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "IT Tower",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "AC Guards",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Masab Tank",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim1",
+     "evidence": "Srinivas had asked me for the party funds as the elections were approaching."
+    },
+    {
+     "source": "Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "He stated that he will send me the names of companies through one Vickv Jain to whom subcontracting work to be given."
+    },
+    {
+     "source": "Sh. Chandra Babu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim3",
+     "evidence": "Sh. Chandra Babu Naidu personally discussed the general progress of the all the work/projects going on in SPCL at that time"
+    }
+   ]
+  },
+  "3957d04d63cd534a6bae4878aa9a3bf37ce38a58": {
+   "entities": [
+    {
+     "name": "అరవింద్ పనగడియా",
+     "type": "Person",
+     "english_name": "Arvind Panagadiya"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "16వ ఆర్థిక సంఘం",
+     "type": "Organization",
+     "english_name": "16th Finance Commission"
+    },
+    {
+     "name": "Rs. 77,249 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs. 77,249 crores required for Amaravati capital city development"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పోలవరం - బనకచర్ల అనుసంధాన ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "Polavaram - Banakacharla link project"
+    },
+    {
+     "name": "ఉప ముఖ్యమంత్రి పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Deputy CM Pawan Kalyan"
+    },
+    {
+     "name": "మంత్రి నిమ్మల రామానాయుడు",
+     "type": "Person",
+     "english_name": "Minister Nimmala Ramanaidu"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "మద్యం కుంభకోణం",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 77,249 కోట్లు",
+     "evidence": "శ్రీ నాయుడు 16వ ఆర్థిక సంఘానికి అమరావతి రాజధాని నగర అభివృద్ధి కోసం 77,249 కోట్లు అవసరమని తెలిపారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పోలవరం - బనకచర్ల అనుసంధాన ప్రాజెక్టు",
+     "evidence": "ముఖ్యమంత్రి చంద్రబాబు ఆర్థిక సంఘం ఛైర్మన్ అరవింద్ పనగడియా బృందానికి పోలవరం - బనకచర్ల అనుసంధాన ప్రాజెక్టు గురించి వివరిస్తున్న"
+    }
+   ]
+  },
+  "252d433e87250881c31baa726cc131344afab77a": {
+   "entities": [
+    {
+     "name": "Sri Parchuri Ashok Babu, M.L.C",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Legislative Council",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Home (Services-I) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vacancy Reserve",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "IPS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commandant",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Addl.SP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DSP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DG Rank officer, PSR Anjaneyulu I.P.S",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sunil Kumar I.P.S",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ADG Rank officer, Sanjay I.P.S",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kanti Rana Tata I.P.S",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Raghuram Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ravi Shankar Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rishant Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vishal Guni I.P.S",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "P. Joshua",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ASP Vijay Paul",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Senior police officers undergoing harassment",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "DG Rank officer, PSR Anjaneyulu I.P.S was suspended and was wrongfully arrested",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "DG Rank officer, Sunil Kumar I.P.S. was suspended",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ADG Rank officer, Sanjay I.P.S. was suspended",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Senior officer, Kanti Rana Tata I.P.S. was suspended",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Officers Raghuram Reddy, Ravi Shankar Reddy, Rishant Reddy are being harassed",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Senior officer, Vishal Guni I.P.S. was suspended",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Senior officer, P. Joshua is being harassed and cases filed",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Retired ASP Vijay Paul was wrongfully arrested.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "DG Rank officer, PSR Anjaneyulu I.P.S was suspended and was wrongfully arrested",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "DG Rank officer, PSR Anjaneyulu I.P.S was suspended and was wrongfully arrested"
+    },
+    {
+     "source": "DG Rank officer, Sunil Kumar I.P.S. was suspended",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "DG Rank officer, Sunil Kumar I.P.S. was suspended"
+    },
+    {
+     "source": "ADG Rank officer, Sanjay I.P.S. was suspended",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "ADG Rank officer, Sanjay I.P.S. was suspended"
+    },
+    {
+     "source": "Senior officer, Kanti Rana Tata I.P.S. was suspended",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "Senior officer, Kanti Rana Tata I.P.S. was suspended"
+    },
+    {
+     "source": "Officers Raghuram Reddy, Ravi Shankar Reddy, Rishant Reddy are being harassed",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "Officers Raghuram Reddy, Ravi Shankar Reddy, Rishant Reddy are being harassed"
+    },
+    {
+     "source": "Senior officer, Vishal Guni I.P.S. was suspended",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "Senior officer, Vishal Guni I.P.S. was suspended"
+    },
+    {
+     "source": "Senior officer, P. Joshua is being harassed and cases filed",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "Senior officer, P. Joshua is being harassed and cases filed"
+    },
+    {
+     "source": "Retired ASP Vijay Paul was wrongfully arrested.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior police officers undergoing harassment",
+     "evidence": "Retired ASP Vijay Paul was wrongfully arrested."
+    }
+   ]
+  },
+  "2f6678388347ddcdf57e33fadc39e7b5f6c6ef2b": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Excise (Grant of licence of selling by shop and conditions of licence) Rules, 2012",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms.No.218",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue (Excise-II) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms. No.391",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms. No.357",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms. No.216",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms. No.217",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Prohibition & Excise, A.P., Hyderabad",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "D.O.Lr.In Cr.No.999/2015/CPE/E3",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Beverages Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Privilege Fee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Value Added Tax (VAT)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Indian Made Foreign Liquor",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Foreign Liquor",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rule 10(a)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rule 10(2)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "licence year",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "annual Licence Fee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "population",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "local authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hotel/Restaurant",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "consumption enclosure",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "KOLLU RAVINDA (MINISTER)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NARA CHANDRADABU NAIDU (CHIEF MINISTER)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Note #5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Note #6",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Page 2",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Digitally Signed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "13_22.05.2025_LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Executive order for withdrawing privilege fee",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh"
+    },
+    {
+     "source": "Hyderabad",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Hyderabad, A.P."
+    },
+    {
+     "source": "Andhra Pradesh Beverages Corporation Limited",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh Beverages Corporation Limited"
+    },
+    {
+     "source": "Revenue (Excise-II) Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Revenue (Excise-II) Department"
+    },
+    {
+     "source": "NARA CHANDRADABU NAIDU (CHIEF MINISTER)",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Privilege Fee",
+     "evidence": "Executive order for withdrawing privilege fee signed by then CM"
+    },
+    {
+     "source": "Rule 10(a)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "LIQUOR SCAM",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "Privilege Fee",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "LIQUOR SCAM",
+     "evidence": "Liquor Scam"
+    }
+   ]
+  }
+ }
+}

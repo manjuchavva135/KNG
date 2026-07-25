@@ -1,0 +1,313 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "afd2923e4c2653d2f5e9cff50863aed13d8aa883": {
+   "entities": [
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సీఆర్డీఏ",
+     "type": "Organization",
+     "english_name": "CRDA"
+    },
+    {
+     "name": "మార్క్ ఫెడ్",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "సివిల్ సప్లయిస్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Civil Supplies Corporation"
+    },
+    {
+     "name": "ఏపీఎం డీసీ",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "రూ.1.45 లక్షల కోట్ల పైమాటే. ఇదొక రికార్డు. దీన్ని ఎవరూ బద్దలు కొట్టలేరు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.1.45 లక్షల కోట్ల పైమాటే. ఇదొక రికార్డు. దీన్ని ఎవరూ బద్దలు కొట్టలేరు.",
+     "evidence": "రూ.1.45 లక్షల కోట్ల పైమాటే. ఇదొక రికార్డు. దీన్ని ఎవరూ బద్దలు కొట్టలేరు."
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    }
+   ]
+  },
+  "8e2d124bc396cbf8f13ebb053c99679275f69267": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "కాగ్ నివేదిక",
+     "type": "Issue",
+     "english_name": "CAG report"
+    },
+    {
+     "name": "మా హయాంలో కోవిడ్ లాంటి విపత్కర పరిస్థితుల్లోనూ మూల ధన వ్యయం కింద రూ.15,632 కోట్లు వెచ్చించాము.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సామాజిక సేవల కింద ఒకే ఒక్క సంవత్సరాన్ని చూపించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2018-19లో సోషల్ సర్వీస్ కింద ఆయన రూ.2,866.11 కోట్లు ఖర్చు చేస్తే.. 2022-23లో రూ.447.78 కోట్లు మాత్రమే వ్యయం చేశారని చెప్పకొచ్చారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2014-19 మధ్య ఐదేళ్లలో టీడీపీ ప్రభుత్వం రూ.2,437 కోట్లు ఖర్చు చేస్తే.. వైఎస్సార్సీపీ హయాంలో దానికి రెట్టింపు.. రూ.5,224 కోట్లు వ్యయం చేశాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మా హయాంలో కోవిడ్ లాంటి విపత్కర పరిస్థితుల్లోనూ మూల ధన వ్యయం కింద రూ.15,632 కోట్లు వెచ్చించాము.",
+     "evidence": "మా హయాంలో కోవిడ్ లాంటి విపత్కర పరిస్థితుల్లోనూ మూల ధన వ్యయం కింద రూ.15,632 కోట్లు వెచ్చించాము."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు సామాజిక సేవల కింద ఒకే ఒక్క సంవత్సరాన్ని చూపించారు.",
+     "evidence": "చంద్రబాబు సామాజిక సేవల కింద ఒకే ఒక్క సంవత్సరాన్ని చూపించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2018-19లో సోషల్ సర్వీస్ కింద ఆయన రూ.2,866.11 కోట్లు ఖర్చు చేస్తే.. 2022-23లో రూ.447.78 కోట్లు మాత్రమే వ్యయం చేశారని చెప్పకొచ్చారు.",
+     "evidence": "2018-19లో సోషల్ సర్వీస్ కింద ఆయన రూ.2,866.11 కోట్లు ఖర్చు చేస్తే.. 2022-23లో రూ.447.78 కోట్లు మాత్రమే వ్యయం చేశారని చెప్పకొచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2014-19 మధ్య ఐదేళ్లలో టీడీపీ ప్రభుత్వం రూ.2,437 కోట్లు ఖర్చు చేస్తే.. వైఎస్సార్సీపీ హయాంలో దానికి రెట్టింపు.. రూ.5,224 కోట్లు వ్యయం చేశాం.",
+     "evidence": "2014-19 మధ్య ఐదేళ్లలో టీడీపీ ప్రభుత్వం రూ.2,437 కోట్లు ఖర్చు చేస్తే.. వైఎస్సార్సీపీ హయాంలో దానికి రెట్టింపు.. రూ.5,224 కోట్లు వ్యయం చేశాం."
+    }
+   ]
+  },
+  "20e854a52a5d756435b4dd980672aae1cd4b2ea2": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Organization",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "కేంద్ర గణాంకాలు",
+     "type": "Organization",
+     "english_name": "Central Statistics"
+    },
+    {
+     "name": "కార్యక్రమాల అమలు శాఖ",
+     "type": "Organization",
+     "english_name": "Implementation Department"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "కేఎఫ్డబ్ల్యూ",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "3a73c2c4d9005aa8207f1e3b50a3d9483241cc02": {
+   "entities": [
+    {
+     "name": "మార్క్ ఫెడ్",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "సివిల్ సప్లయిస్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Civil Supplies Corporation"
+    },
+    {
+     "name": "ఏపీఎం డీసీ",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "నీతి ఆయోగ్",
+     "type": "Organization",
+     "english_name": "Neeti Aayog"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "కోవిడ్",
+     "type": "Issue",
+     "english_name": "Covid"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "చంద్రబాబు తన పాలనలో బెస్ట్ ఇయర్ (2018-19)లో వచ్చిన ఫలితాలను మన హయాంలో వరస్ట్ ఇయర్ (2022-23)తో పోల్చి చూపించారు.",
+     "type": "Claim",
+     "english_name": "Chandrababu compares best year vs worst year"
+    },
+    {
+     "name": "ఎవరి హయాంలో ఆర్థిక విధ్వంసం చేశారో మీరే చూడండి.",
+     "type": "Claim",
+     "english_name": "Chandrababu accuses YSRCP of economic destruction"
+    },
+    {
+     "name": "దేశ జీడీపీలో రాష్ట్ర వాటా చంద్రబాబు హయాంలో 2014-19లో కేవలం 4.47 శాతం కాగా వైఎస్సార్సీపీ హయాంలో 2019-24లో ఆ వాటా 4.80 శాతానికి పెరిగింది.",
+     "type": "Claim",
+     "english_name": "YSRCP claims increase in state's share of national GDP"
+    },
+    {
+     "name": "తలసరి ఆదాయంలో మన రాష్ట్రం 2018-19లో దేశంలో 18వ స్థానంలో ఉంది. అదే వైఎస్సార్సీపీ హయాంలో 2022-23లో మన రాష్ట్రం 15వ స్థానానికి ఎగబాకింది.",
+     "type": "Claim",
+     "english_name": "YSRCP claims rise in per‑capita income rank"
+    },
+    {
+     "name": "దేశ జీడీపీ 2019-24లో 9.34 శాతం కాగా రాష్ట్రం ఏకంగా 10.23 శాతంతో మెరుగైన పనితీరు కనబరిచింది.",
+     "type": "Claim",
+     "english_name": "YSRCP claims higher growth rate than national GDP"
+    },
+    {
+     "name": "పారిశ్రామిక రంగం జీవీఏ ర్యాంకింగ్ పరిశీలిస్తే చంద్రబాబు దిగిపోయేనాటికి మన రాష్ట్రం 11 స్థానంలో ఉంటే.. 2023-24లో మా ప్రభుత్వం వైదొలిగే నాటికి 9 స్థానానికి ఎగబాకాం.",
+     "type": "Claim",
+     "english_name": "YSRCP claims improvement in industrial GVA ranking"
+    },
+    {
+     "name": "మా హయాంలో రెండున్నరేళ్లు కోవిడ్ ఉంది.",
+     "type": "Claim",
+     "english_name": "YSRCP acknowledges Covid period during its tenure"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "ఎవరి హయాంలో ఆర్థిక విధ్వంసం చేశారో మీరే చూడండి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు తన పాలనలో బెస్ట్ ఇయర్ (2018-19)లో వచ్చిన ఫలితాలను మన హయాంలో వరస్ట్ ఇయర్ (2022-23)తో పోల్చి చూపించారు.",
+     "evidence": "చంద్రబాబు తన పాలనలో బెస్ట్ ఇయర్ (2018-19)లో వచ్చిన ఫలితాలను మన హయాంలో వరస్ట్ ఇయర్ (2022-23)తో"
+    }
+   ]
+  }
+ }
+}

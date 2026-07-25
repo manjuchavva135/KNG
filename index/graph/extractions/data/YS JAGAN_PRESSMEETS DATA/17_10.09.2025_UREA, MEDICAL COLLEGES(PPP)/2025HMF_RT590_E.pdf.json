@@ -1,0 +1,385 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "16f5486f690c33ddddb14a619f49c0d7c84b37c7": {
+   "entities": [
+    {
+     "name": "HM&FW Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NABARD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Markapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Penugonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Palakollu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amalapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Narsipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bapatla",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Parvathipuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vizianagaram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rajahmundry",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Eluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Machilipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nandyal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Paderu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Piduguralla",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nandayal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Penukonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Public-Private Partnership",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Government sector",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "CSS",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SASCI",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "NABARD funding",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Government had sanctioned 17 new medical colleges at an estimated cost of Rs.8480 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Proposal for development of (10) new medical colleges at Adoni, Madanapalli, Markapuram, Pulivendula, Penugonda, Palakollu, Amalapuram, Narsipatnam, Bapatla and Parvathipuram under Public-Private Partnership",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a7b231d0c564edd5b77d0d5a7e97a68df68c0758": {
+   "entities": [
+    {
+     "name": "KPMG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "KPMG Advisory Services Private Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Markapur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Annual Concession Fee model",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Medical Colleges",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Medical Colleges",
+     "relation": "LOCATED_IN",
+     "target": "Markapur",
+     "evidence": "four medical colleges at Markapur, Madanapalli, Pulivendula, and Adoni"
+    },
+    {
+     "source": "Medical Colleges",
+     "relation": "LOCATED_IN",
+     "target": "Madanapalli",
+     "evidence": "four medical colleges at Markapur, Madanapalli, Pulivendula, and Adoni"
+    },
+    {
+     "source": "Medical Colleges",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula",
+     "evidence": "four medical colleges at Markapur, Madanapalli, Pulivendula, and Adoni"
+    },
+    {
+     "source": "Medical Colleges",
+     "relation": "LOCATED_IN",
+     "target": "Adoni",
+     "evidence": "four medical colleges at Markapur, Madanapalli, Pulivendula, and Adoni"
+    }
+   ]
+  },
+  "e9bdce48d5ac8fb6412028c2406a7243165b2df3": {
+   "entities": [
+    {
+     "name": "Managing Director, APMSIDC",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Markapur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Penukonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Palakollu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amalapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Narsipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bapatla",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Parvathipuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri, Guntur District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (HM&FW) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M.T. KRISHNA BABU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SPECIAL CHIEF SECRETARY TO GOVERNMENT",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Health& Family Welfare, A.P., Mangalagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Managing Director, APMERC, A.P., Mangalagiri, Guntur District",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Medical Education, A.P., Vijayawada",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PS to Principal Secretary to the Hon’ble Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "OSD to the Hon’ble Minister (HFW&ME)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "P.S. to Spl.CS to Government, HM&FW Department",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (FMU-HM&FW) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Administration (Cabinet) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECTION OFFICER",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

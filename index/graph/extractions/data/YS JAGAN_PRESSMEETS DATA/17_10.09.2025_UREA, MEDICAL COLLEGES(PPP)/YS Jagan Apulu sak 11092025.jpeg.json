@@ -1,0 +1,52 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "229c451134e55da730542bf14705648e944ff0e0": {
+   "entities": [
+    {
+     "name": "State Bank of India (SBI)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Industrial Infrastructure Corporation (APICL)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Housing Board (APHB)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Main",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Appala Babu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "'Jebu'rdhan",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Appala Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "'Jebu'rdhan",
+     "evidence": "Appala Babu.. 'Jebu'rdhan"
+    }
+   ]
+  }
+ }
+}

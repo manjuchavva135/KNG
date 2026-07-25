@@ -1,0 +1,225 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f3c3128ea9613f1b83568fb126ccc95dde268ada": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh Central Power Distribution Corporation limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Eastern Power Distribution Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Southern Power Distribution Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Discoms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Rural Agriculture Power Supply Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE Scheme for Setting up of ISTS connected Solar Power Projects linked with Manufacturing",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Guidelines for Tariff Based Competitive Bidding Process for Procurement of Power from Grid Connected Solar Power Projects",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Power Purchase Agreements (PPAs)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Request for Selection (RfS)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tadepalli, Guntur district, Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Power Developers (SPDs)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy Secretary to Government (Energy)",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Central Power Distribution Corporation limited",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada, Andhra Pradesh",
+     "evidence": "having its registered office at Vijayawada, Andhra Pradesh"
+    },
+    {
+     "source": "Eastern Power Distribution Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam, Andhra Pradesh",
+     "evidence": "having its registered office at Visakhapatnam, Andhra Pradesh"
+    },
+    {
+     "source": "Andhra Pradesh Southern Power Distribution Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati, Andhra Pradesh",
+     "evidence": "having its registered office at Tirupati, Andhra Pradesh"
+    },
+    {
+     "source": "AP Rural Agriculture Power Supply Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tadepalli, Guntur district, Andhra Pradesh",
+     "evidence": "having its registered office at Tadepalli, Guntur district, Andhra Pradesh"
+    },
+    {
+     "source": "Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh represented through Deputy Secretary to Government (Energy)"
+    }
+   ]
+  },
+  "2671bc10c573be06429837183b4556e29c5902eb": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Discoms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Green Energy Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Rural Agriculture Power Supply Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Electricity Regulatory Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS charges waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "uninterrupted 9 hours day time power supply",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "7000 MW solar power",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Buyer-Buying Entity PSA",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "AP Rural Agriculture Power Supply Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "AP Rural Agriculture Power Supply Company Limitedas a distribution licensee, the presently envisaged supply and distribution of electricity to the farming community shall be taken over and the said company shall be thereafter be the Buying Entity for the purpose of this Agreement in place of AP Discoms;"
+    },
+    {
+     "source": "Andhra Pradesh Electricity Regulatory Commission",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The Andhra Pradesh Electricity Regulatory Commission vide order dated 11.11.2021 passed in pursunace of the Lr. No. CGM/Projects/VJA/F.SECI-9GW/D.No. 1005/21 dt: 08-11-2021 of Andhra Pradesh Discoms (AP Discoms)"
+    },
+    {
+     "source": "Government of India",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "Govt of India has granted ISTS charges waiver and thus no such charges would be applicable on GoAP alongside other features."
+    }
+   ]
+  }
+ }
+}

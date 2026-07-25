@@ -1,0 +1,570 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "11d111fea152f12d737117b25b6a565faec1fae8": {
+   "entities": [
+    {
+     "name": "మా పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఎరువుల బ్లాక్ మార్కెట్ కుంభకోణం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజాస్వామ్య ఖూనీ",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజాస్వామ్యయుతంగా గొంతు విప్పితే ఆ గొంతును నొక్కేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్ బుక్ రాజ్యాంగం అమలవుతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అభివృద్ధి, సంక్షేమం లేకుండా పోయింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రాన్ని ఆర్థికంగా తిరోగమనం పట్టించారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్య, వైద్యం, వ్యవసాయ రంగాలు ప్రైవేట్ వ్యక్తుల దోపిడీకి గురవుతున్నాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎరువులు బ్లాక్ మార్కెట్కు తరలి పోవడంతో కుంభకోణాలు కనిపిస్తున్నాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా పార్టీ రైతుల పక్షాన మంగళవారం 'అన్నదాత పోరు' చేపడితే కేసులు పెడతామంటూ బెదిరించి నోటీసులు ఇచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎరువులు బ్లాక్ మార్కెట్కు తరలి పోవడంతో కుంభకోణాలు కనిపిస్తున్నాయి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువుల బ్లాక్ మార్కెట్ కుంభకోణం",
+     "evidence": "ఎరువులు బ్లాక్ మార్కెట్కు తరలి పోవడంతో కుంభకోణాలు కనిపిస్తున్నాయి"
+    },
+    {
+     "source": "ప్రజాస్వామ్యయుతంగా గొంతు విప్పితే ఆ గొంతును నొక్కేస్తున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ప్రజాస్వామ్య ఖూనీ",
+     "evidence": "ప్రజాస్వామ్యయుతంగా గొంతు విప్పితే ఆ గొంతును నొక్కేస్తున్నారు"
+    }
+   ]
+  },
+  "d73746efea391c84ad64fb364811f811899bbf72": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "పీఏసీఎస్",
+     "type": "Organization",
+     "english_name": "PACS"
+    },
+    {
+     "name": "ఆర్బీకేలు",
+     "type": "Organization",
+     "english_name": "RBKs"
+    },
+    {
+     "name": "ఈ-క్రాప్",
+     "type": "Organization",
+     "english_name": "e-Crop"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "దృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "ఘంటశాల మండలం",
+     "type": "Place",
+     "english_name": "Gantasala mandal"
+    },
+    {
+     "name": "లంకపల్లి",
+     "type": "Place",
+     "english_name": "Lankapalli"
+    },
+    {
+     "name": "యూరియా సరఫరా",
+     "type": "Issue",
+     "english_name": "Urea supply"
+    },
+    {
+     "name": "ఎరువుల కుంభకోణం",
+     "type": "Issue",
+     "english_name": "Fertilizer scam"
+    },
+    {
+     "name": "సున్నా వడ్డీ పథకం",
+     "type": "Scheme",
+     "english_name": "Zero interest scheme"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free crop insurance"
+    },
+    {
+     "name": "ఇన్ పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input subsidy"
+    },
+    {
+     "name": "6.65 లక్షల టన్నుల యూరియా సరఫరా చేశామని",
+     "type": "Claim",
+     "english_name": "6.65 lakh tonnes urea supplied"
+    },
+    {
+     "name": "ఏ రైతూ రోడ్డెక్కడు కదా?",
+     "type": "Claim",
+     "english_name": "No farmer would protest if urea supplied"
+    },
+    {
+     "name": "అధికార పార్టీ నేతలు కుంభకోణాలకు పాల్పడుతున్నారు",
+     "type": "Claim",
+     "english_name": "Ruling party leaders involved in scams"
+    },
+    {
+     "name": "చంద్రబాబు కూడా భాగస్వామి",
+     "type": "Claim",
+     "english_name": "Chandrababu also a partner"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు నాయుడు",
+     "evidence": "చంద్రబాబు కూడా భాగస్వామి అని దునుమాడారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకులు దగ్గరుండి దారి మళ్లించి అధిక ధరలకు అమ్ముకుని సొమ్ము చేసుకుంటున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "6.65 లక్షల టన్నుల యూరియా సరఫరా చేశామని",
+     "evidence": "6.65 లక్షల టన్నుల యూరియా సరఫరా చేశామని"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏ రైతూ రోడ్డెక్కడు కదా?",
+     "evidence": "ప్రభుత్వం అవసరమైన మేరకు యూరియా, ఎరువులు అందించి ఉంటే ఏ రైతూ రోడ్డెక్కడు కదా?"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అధికార పార్టీ నేతలు కుంభకోణాలకు పాల్పడుతున్నారు",
+     "evidence": "అధికార పార్టీ నేతలు కుంభకోణాలకు పాల్పడుతున్నారు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు కూడా భాగస్వామి",
+     "evidence": "చంద్రబాబు కూడా భాగస్వామి అని దునుమాడారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు"
+    },
+    {
+     "source": "పీఏసీఎస్",
+     "relation": "LOCATED_IN",
+     "target": "లంకపల్లి",
+     "evidence": "లంకపల్లి పీఏసీఎస్ వద్ద"
+    }
+   ]
+  },
+  "716fd05a91ff2fd36456a2182be5f024e6efa45f": {
+   "entities": [
+    {
+     "name": "టీడీపీ నేతలు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఎరువుల బ్లాక్ మార్కెట్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ నేతలు దారి మళ్లించి అమ్ముకుంటున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలను",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ నేతలు",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ నేతలు దారి మళ్లించి అమ్ముకుంటున్నారు",
+     "evidence": "టీడీపీ నేతలు దారి మళ్లించి అమ్ముకుంటున్నారు."
+    },
+    {
+     "source": "టీడీపీ నేతలు",
+     "relation": "MAKES_CLAIM",
+     "target": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలను",
+     "evidence": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలను"
+    }
+   ]
+  },
+  "d9cc745899ac7c8012faaddc9e5a5296937a709c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఉల్లి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు పట్టించుకోరు. రైతులు ఆత్మహత్యలు చేసుకుంటున్నా పట్టించుకోరు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఆగస్టు 29న క్వింటా రూ.1200కు కొనుగోలు చేయాలని ఆదేశాలిచ్చినట్టు ఈనాడు రాసింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మళ్లీ సెప్టెంబర్ 7న అంటే 10 రోజుల తర్వాత ఇదే ఈనాడులోనే క్వింటా రూ.201, 300, 400, 600 ఇలా రకరకా గా వ్యాపారులు కొనుగోలు చేస్తున్నట్టు రాస్తుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మధ్యలో ఒడిదుడుకులు వస్తే రూ.9 వేల టన్నులు ప్రభుత్వం కొనుగోలు చేసింది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు పట్టించుకోరు. రైతులు ఆత్మహత్యలు చేసుకుంటున్నా పట్టించుకోరు.",
+     "evidence": "చంద్రబాబు పట్టించుకోరు. రైతులు ఆత్మహత్యలు చేసుకుంటున్నా పట్టించుకోరు."
+    }
+   ]
+  },
+  "3b386cb2b04d3542695897e6b7b358a12f3637ea": {
+   "entities": [],
+   "relations": []
+  },
+  "a7ab98ef4884351c7aa4a521339f0d4a4c4861cf": {
+   "entities": [],
+   "relations": []
+  },
+  "1719651b6018fe6f47a2abd0f455b694e2ee5e44": {
+   "entities": [
+    {
+     "name": "సాత్యకి",
+     "type": "Person",
+     "english_name": "Satyaki"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "యూరియా",
+     "type": "Issue",
+     "english_name": "Urea"
+    },
+    {
+     "name": "దాదేవల్లి",
+     "type": "Place",
+     "english_name": "Daddevalli"
+    }
+   ],
+   "relations": []
+  },
+  "f12443d6f526af4da67147b3cfeaec21e7063e53": {
+   "entities": [
+    {
+     "name": "ఎస్.ఎఫ్.ఎస్.సి",
+     "type": "Organization",
+     "english_name": "SFSC"
+    }
+   ],
+   "relations": []
+  },
+  "115288adf06721f95145e50643731adf7a29890d": {
+   "entities": [],
+   "relations": []
+  },
+  "8a5edeb27aebebf8719fb34a5aa1bae31238f528": {
+   "entities": [
+    {
+     "name": "చంద్ర",
+     "type": "Person",
+     "english_name": "Chandra"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పల్నాడు జిల్లా దాచేపల్లి",
+     "type": "Place",
+     "english_name": "Palnadu district Dachepalli"
+    },
+    {
+     "name": "నంద్యాల జిల్లా డోన్",
+     "type": "Place",
+     "english_name": "Nandyal district Don"
+    },
+    {
+     "name": "ఎరువుల బ్లాక్ మార్కెట్",
+     "type": "Issue",
+     "english_name": "Fertilizer black market"
+    },
+    {
+     "name": "టీడీపీ నేతలు ఎరువులను దారి మళ్లించి అమ్ముకుంటున్నారు",
+     "type": "Claim",
+     "english_name": "TDP leaders divert and sell fertilizers"
+    },
+    {
+     "name": "ప్రభుత్వం నుండి వెళ్లిన యూరియా, ఎరువులను టీడీపీ నేతలు దారి మళ్లించి అమ్ముకుంటున్నారు",
+     "type": "Claim",
+     "english_name": "TDP leaders divert and sell government urea and fertilizers"
+    },
+    {
+     "name": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలు, బస్తా యూరియా ధర రూ.267 ఉంటే దానికంటే రూ.200 నుంచి 250 అధికంగా అమ్ముకుంటున్నారు",
+     "type": "Claim",
+     "english_name": "Black market fertilizer sales, urea price Rs.267, sold at Rs.200-250 extra"
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ నేతలు ఎరువులను దారి మళ్లించి అమ్ముకుంటున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువుల బ్లాక్ మార్కెట్",
+     "evidence": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలు"
+    },
+    {
+     "source": "ప్రభుత్వం నుండి వెళ్లిన యూరియా, ఎరువులను టీడీపీ నేతలు దారి మళ్లించి అమ్ముకుంటున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువుల బ్లాక్ మార్కెట్",
+     "evidence": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలు"
+    },
+    {
+     "source": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలు, బస్తా యూరియా ధర రూ.267 ఉంటే దానికంటే రూ.200 నుంచి 250 అధికంగా అమ్ముకుంటున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువుల బ్లాక్ మార్కెట్",
+     "evidence": "బ్లాక్ మార్కెట్లో ఎరువుల అమ్మకాలు"
+    }
+   ]
+  },
+  "b0aba92fa2d06e1e835711d4d17ccf0eec681f39": {
+   "entities": [],
+   "relations": []
+  },
+  "237d1699c630e4bd1ddfabe37d270f21ea4c54de": {
+   "entities": [
+    {
+     "name": "అల్లమంచి తరిసిన్న",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా పట్టివేత",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దాదేవల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "1958 బస్తాల యూరియా, రెండు వాహనాలు స్వాధీనం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "అల్లమంచి తరిసిన్న",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "అల్లమంచి తరిసిన్న టీడీపీ నేతలు"
+    },
+    {
+     "source": "అల్లమంచి తరిసిన్న",
+     "relation": "MAKES_CLAIM",
+     "target": "1958 బస్తాల యూరియా, రెండు వాహనాలు స్వాధీనం",
+     "evidence": "1958 బస్తాల యూరియా, రెండు వాహనాలు స్వాధీనం"
+    }
+   ]
+  },
+  "1425b57c47bbf9e0e7f9e12a6afc28e2af405b9b": {
+   "entities": [
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Babbu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎస్.ఎఫ్.ఎస్.సి.",
+     "type": "Organization",
+     "english_name": "SFS C"
+    },
+    {
+     "name": "రాష్ట్ర పరిషత్",
+     "type": "Organization",
+     "english_name": "State Parishad"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "యూరియా",
+     "type": "Issue",
+     "english_name": "Urea"
+    },
+    {
+     "name": "బాబు ప్రోత్సహించడం, నేరుగా భాగస్వామి కావడం",
+     "type": "Claim",
+     "english_name": "Babbu encouraging and directly participating"
+    },
+    {
+     "name": "కుంభకోణాలు చేసి, కింది నుంచి పైదాక అందరూ పంచుకున్నారు.",
+     "type": "Claim",
+     "english_name": "Corruption done and shared from bottom to top"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బాబు ప్రోత్సహించడం, నేరుగా భాగస్వామి కావడం",
+     "evidence": "బాబు ప్రోత్సహించడం, నేరుగా భాగస్వామి కావడం"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కుంభకోణాలు చేసి, కింది నుంచి పైదాక అందరూ పంచుకున్నారు.",
+     "evidence": "కుంభకోణాలు చేసి, కింది నుంచి పైదాక అందరూ పంచుకున్నారు."
+    },
+    {
+     "source": "బాబు ప్రోత్సహించడం, నేరుగా భాగస్వామి కావడం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యూరియా",
+     "evidence": "కుప్పంలోనూ యూరియా కోసం రైతుల కష్టాలు"
+    }
+   ]
+  }
+ }
+}

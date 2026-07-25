@@ -1,0 +1,150 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0c935be68ae180c1602cf95ad97c748b429ab7d2": {
+   "entities": [
+    {
+     "name": "Konathala Ramana",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Panchadarla Suresh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "EO Trinatha Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Simhachalam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gopalpatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gopalpatnam police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "We have filed a complaint with Gopalpatnam police.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Police have seized the 111 notes amounting to ₹55,500.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "EO Trinatha Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "We have filed a complaint with Gopalpatnam police.",
+     "evidence": "We have filed a complaint with Gopalpatnam police."
+    },
+    {
+     "source": "Gopalpatnam police",
+     "relation": "LOCATED_IN",
+     "target": "Gopalpatnam",
+     "evidence": "Gopalpatnam police"
+    }
+   ]
+  },
+  "21941714a520b607f71c6d9d1ec8dac0c3081297": {
+   "entities": [
+    {
+     "name": "Vendra Trinatha Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Konathala Ramana",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Panchadarla Suresh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Varaha Lakshmi Narasimha Swamy Temple",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Simhachalam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gopalpatnam police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "theft of hundi collections",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "theft from hundi",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Vendra Trinatha Rao",
+     "relation": "ACCUSES",
+     "target": "Konathala Ramana",
+     "evidence": "Two employees employed for counting hundi collections at the Varaha Lakshmi Narasimha Swamy Temple in Simhachalam have been dismissed following allegations of theft."
+    },
+    {
+     "source": "Vendra Trinatha Rao",
+     "relation": "ACCUSES",
+     "target": "Panchadarla Suresh",
+     "evidence": "Two employees employed for counting hundi collections at the Varaha Lakshmi Narasimha Swamy Temple in Simhachalam have been dismissed following allegations of theft."
+    },
+    {
+     "source": "Vendra Trinatha Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "theft of hundi collections",
+     "evidence": "Two employees employed for counting hundi collections at the Varaha Lakshmi Narasimha Swamy Temple in Simhachalam have been dismissed following allegations of theft."
+    },
+    {
+     "source": "theft of hundi collections",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "theft from hundi",
+     "evidence": "theft of hundi collections"
+    },
+    {
+     "source": "Varaha Lakshmi Narasimha Swamy Temple",
+     "relation": "LOCATED_IN",
+     "target": "Simhachalam",
+     "evidence": "Varaha Lakshmi Narasimha Swamy Temple in Simhachalam"
+    },
+    {
+     "source": "Simhachalam",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam",
+     "evidence": "VISAKHAPATNAM: ... Simhachalam"
+    }
+   ]
+  }
+ }
+}

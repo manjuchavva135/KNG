@@ -1,0 +1,110 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8ea4da93257f601efe73ff657caa740db602e213": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PSUs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Markfed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Civil Supplies Corp",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMDC Bonds",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d6b8c0a94f189e24ea0cb60b12ce3b28f637adad": {
+   "entities": [
+    {
+     "name": "FPPCA",
+     "type": "Scheme",
+     "english_name": "Fuel and Power Purchase Cost Adjustment"
+    },
+    {
+     "name": "Power sector burden on consumers",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "649d0d3d033b938f43f5fe6d67ce43e628d25a6a": {
+   "entities": [
+    {
+     "name": "APADCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "AP Govt",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "During the period of the YSRCP Government, even if all forms of liabilities are taken into consideration, the increase is to be tune of Rs. 3,32,671 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "liabilities contracted to date by the TDP alliance Government is Rs. 1,75,112 crores (52.64% of all borrowings made during the 5 - yr YSRCP Government).",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

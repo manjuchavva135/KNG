@@ -1,0 +1,102 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d0b999ed4e61db8ce9b8af66aaa424543f4709fa": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "333652c5904a61420ccf542e611157b0804ecb62": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "REGS",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RHGS",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Hydro PSP ESS",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Battery ESS",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Solar PV generating station",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Manufacturing linked capacity scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Transmission charges waiver",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "RPO",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "REGS",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Transmission charges waiver",
+     "evidence": "REGS or RHGS based on wind or solar sources ... shall be considered for waiver of transmission charges."
+    },
+    {
+     "source": "RHGS",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Transmission charges waiver",
+     "evidence": "REGS or RHGS based on wind or solar sources ... shall be considered for waiver of transmission charges."
+    },
+    {
+     "source": "Hydro PSP ESS",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Transmission charges waiver",
+     "evidence": "Hydro PSP ESS ... shall be considered for waiver of transmission charges."
+    },
+    {
+     "source": "Battery ESS",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Transmission charges waiver",
+     "evidence": "Battery ESS ... shall be considered for waiver of transmission charges."
+    },
+    {
+     "source": "Solar PV generating station",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Transmission charges waiver",
+     "evidence": "Generation from Solar PV generating station under SECI manufacturing linked capacity scheme ... shall be considered for waiver of transmission charges."
+    },
+    {
+     "source": "Manufacturing linked capacity scheme",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Transmission charges waiver",
+     "evidence": "Generation from Solar PV generating station under SECI manufacturing linked capacity scheme ... shall be considered for waiver of transmission charges."
+    }
+   ]
+  }
+ }
+}

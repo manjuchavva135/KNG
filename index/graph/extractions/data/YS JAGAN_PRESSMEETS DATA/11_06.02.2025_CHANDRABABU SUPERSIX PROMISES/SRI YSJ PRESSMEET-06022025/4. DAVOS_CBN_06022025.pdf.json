@@ -1,0 +1,2106 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "27ef3c66887aa7eda165b3b99113aa17bc2dc4cb": {
+   "entities": [
+    {
+     "name": "Google Drive",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Microsoft OneDrive",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "55044f4e75a6f35f00c748a79b3f73fd44e7f093": {
+   "entities": [],
+   "relations": []
+  },
+  "ccce1910f826c7dc1633e7e809b7e233326ea635": {
+   "entities": [],
+   "relations": []
+  },
+  "f08b71a7f147a18670d48f26e783504705f24d04": {
+   "entities": [
+    {
+     "name": "అమృత్‌సర్",
+     "type": "Place",
+     "english_name": "Amritsar"
+    }
+   ],
+   "relations": []
+  },
+  "36b7f98e31a7d6cfc74472aad66ae65353cebac1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "ఎయిర్బస్ డిఫెన్స్",
+     "type": "Organization",
+     "english_name": "Airbus Defence"
+    },
+    {
+     "name": "టాటా గ్రూప్",
+     "type": "Organization",
+     "english_name": "Tata Group"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "సి-295 విమానాల ఉత్పత్తి కేంద్రం ఏర్పాటుకు సహకారం",
+     "type": "Claim",
+     "english_name": "Cooperation for C-295 aircraft production centre"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సి-295 విమానాల ఉత్పత్తి కేంద్రం ఏర్పాటుకు సహకారం",
+     "evidence": "ఆంధ్రప్రదేశ్లో సి-295 విమానాల ఉత్పత్తి కేంద్రం ఏర్పాటుకి ఎయిర్బస్ సంస్థకు పూర్తిస్థా యిలో సహకరిస్తామని, అన్ని అనుమతులూ వెంట వెంటనే ఇస్తామని ముఖ్యమంత్రి చంద్రబాబు పేర్కొన్నారు."
+    },
+    {
+     "source": "ఎయిర్బస్ డిఫెన్స్",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్లో సి-295 విమానాల ఉత్పత్తి కేంద్రం ఏర్పాటుకి ఎయిర్బస్ సంస్థకు పూర్తిస్థా యిలో సహకరిస్తామని"
+    },
+    {
+     "source": "ఎయిర్బస్ డిఫెన్స్",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్లో ఏర్పాటు చేయాలని ఏపీ కోరుతోంది."
+    }
+   ]
+  },
+  "30af597219e95d21324d420795e86b586a794b88": {
+   "entities": [
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "భూసమీకరణ పథకం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "రఘు రాం రాజన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఎయిర్ బస్ సీఈవో",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మేక్ ఏపీ యువర్ బిజినెస్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ భూసమీకరణ పథకం గురించి నేను చదివాను. ఇదొక వినూత్న విధానమ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రాన్ని కరువురహితం చేయాలని లక్ష్యంగా పెట్టుకున్నట్టు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "రఘు రాం రాజన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీ భూసమీకరణ పథకం గురించి నేను చదివాను. ఇదొక వినూత్న విధానమ",
+     "evidence": "ఏపీ భూసమీకరణ పథకం గురించి నేను చదివాను. ఇదొక వినూత్న విధానమ"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రాన్ని కరువురహితం చేయాలని లక్ష్యంగా పెట్టుకున్నట్టు",
+     "evidence": "రాష్ట్రాన్ని కరువురహితం చేయాలని లక్ష్యంగా పెట్టుకున్నట్టు సీఎం తెలిపారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "ఏపీ ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "హైదరాబాద్",
+     "evidence": "హైదరాబాద్, జనవరి 21(ఆంద్రజ్యోతి):"
+    }
+   ]
+  },
+  "b1889fd37a884a398190115271e67c2284a7debd": {
+   "entities": [
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "SUPERSIX",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "అమృత్‌సర్",
+     "type": "Place",
+     "english_name": "Amritsar"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    }
+   ]
+  },
+  "ecb6b532ae12fcd609f35a737211b528e89229a2": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "మెడ్టెక్ ఇన్నోవేషన్ సెంటర్",
+     "type": "Organization",
+     "english_name": "MedTech Innovation Center"
+    },
+    {
+     "name": "మెడ్టెక్",
+     "type": "Organization",
+     "english_name": "MedTech"
+    },
+    {
+     "name": "ఫెలిక్స్ గ్రెసార్డ్",
+     "type": "Person",
+     "english_name": "Felix Greissard"
+    },
+    {
+     "name": "హాన్స్ ఫ్లోరియన్",
+     "type": "Person",
+     "english_name": "Hans Florian"
+    },
+    {
+     "name": "క్రిస్టాఫ్ కౌష్",
+     "type": "Person",
+     "english_name": "Christoph Kaush"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "నవారి",
+     "type": "Place",
+     "english_name": "Nvarri"
+    },
+    {
+     "name": "విశాఖ పార్క్",
+     "type": "Place",
+     "english_name": "Visakhapatnam park"
+    },
+    {
+     "name": "ఆర్థికాభివృద్ధి సంస్థ (ఈడీబీ)",
+     "type": "Organization",
+     "english_name": "Economic Development Board (EDB)"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మెడ్టెక్ ఇన్నోవేషన్ సెంటర్",
+     "relation": "LOCATED_IN",
+     "target": "నవారి",
+     "evidence": "నవారిలో"
+    },
+    {
+     "source": "ఆర్థికాభివృద్ధి సంస్థ (ఈడీబీ)",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్ ఆర్ధికాభివృద్ధి సంస్థ (ఈడీబీ)"
+    },
+    {
+     "source": "మెడ్టెక్ ఇన్నోవేషన్ సెంటర్",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖ పార్క్",
+     "evidence": "విశాఖ పార్కులో భాగస్వామ్యం"
+    }
+   ]
+  },
+  "45c9fb7bcd859a0a29617f0f00d7da9748dc82e5": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సత్య నాదెళ్ల",
+     "type": "Person",
+     "english_name": "Satya Nadella"
+    },
+    {
+     "name": "మైక్రోసాఫ్ట్",
+     "type": "Organization",
+     "english_name": "Microsoft"
+    },
+    {
+     "name": "షైర్",
+     "type": "Organization",
+     "english_name": "Shire"
+    },
+    {
+     "name": "కాలిఫోర్నియా వర్సిటీ",
+     "type": "Organization",
+     "english_name": "California University"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "జ్యూరిచ్",
+     "type": "Place",
+     "english_name": "Zurich"
+    },
+    {
+     "name": "సింగపూర్",
+     "type": "Place",
+     "english_name": "Singapore"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "నవ్యాంధ్ర",
+     "type": "Place",
+     "english_name": "New Andhra"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "మైక్రోసాఫ్ట్ సీఈవో సత్య నాదెళ్ల ముందుకొచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హైబ్రిడ్ క్లౌడ్ టెక్నాలజీని అందించేందుకు మైక్రోసాఫ్ట్ సీఈవో సత్య నాదెళ్ల ముందుకొచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హైబ్రిడ్ క్లౌడ్ టెక్నాలజీలో పురోగతి సాధించాలని ఇరువురూ అభిప్రాయపడ్డారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సత్య నాదెళ్ల",
+     "relation": "MAKES_CLAIM",
+     "target": "మైక్రోసాఫ్ట్ సీఈవో సత్య నాదెళ్ల ముందుకొచ్చారు",
+     "evidence": "మైక్రోసాఫ్ట్ సీఈవో సత్య నాదెళ్ల ముందుకొచ్చారు"
+    },
+    {
+     "source": "సత్య నాదెళ్ల",
+     "relation": "MAKES_CLAIM",
+     "target": "హైబ్రిడ్ క్లౌడ్ టెక్నాలజీని అందించేందుకు మైక్రోసాఫ్ట్ సీఈవో సత్య నాదెళ్ల ముందుకొచ్చారు",
+     "evidence": "హైబ్రిడ్ క్లౌడ్ టెక్నాలజీని అందించేందుకు మైక్రోసాఫ్ట్ సీఈవో సత్య నాదెళ్ల ముందుకొచ్చారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "సూపర్ సిక్స్ ప్రామిసెస్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "హైబ్రిడ్ క్లౌడ్ టెక్నాలజీలో పురోగతి సాధించాలని ఇరువురూ అభిప్రాయపడ్డారు",
+     "evidence": "హైబ్రిడ్ క్లౌడ్ టెక్నాలజీలో పురోగతి సాధించాలని ఇరువురూ అభిప్రాయపడ్డారు"
+    }
+   ]
+  },
+  "8f1045fd8966488eb46bad8a841cbfdf53d6b5e2": {
+   "entities": [
+    {
+     "name": "దారు టి.విజయ కుమార్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పరకాల ప్రభాకర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నవ్యాంద్ర",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "భారత్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "దానికే ఒక ఆదర్శ రాష్ట్రంగా తీర్చిదిద్దాలన్నది నా విజన్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నవ్యాంద్రను మూడు నాలు గేళ్లలో భారత్కు ఆదర్శంగా రూపొందిస్తాం. రాష్ట్రాన్ని ప్రపంచానికే ఒక ఆదర్శ నమూనా నాగా తీర్చిదిద్దడం నా స్వప్నం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "దానికే ఒక ఆదర్శ రాష్ట్రంగా తీర్చిదిద్దాలన్నది నా విజన్",
+     "evidence": "దానికే ఒక ఆదర్శ రాష్ట్రంగా తీర్చిదిద్దాలన్నది నా విజన్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నవ్యాంద్రను మూడు నాలు గేళ్లలో భారత్కు ఆదర్శంగా రూపొందిస్తాం. రాష్ట్రాన్ని ప్రపంచానికే ఒక ఆదర్శ నమూనా నాగా తీర్చిదిద్దడం నా స్వప్నం",
+     "evidence": "నవ్యాంద్రను మూడు నాలు గేళ్లలో భారత్కు ఆదర్శంగా రూపొందిస్తాం. రాష్ట్రాన్ని ప్రపంచానికే ఒక ఆదర్శ నమూనా నాగా తీర్చిదిద్దడం నా స్వప్నం"
+    }
+   ]
+  },
+  "923571a49ebbdcdd9dfa6c0edd68c3a5f1f5083a": {
+   "entities": [
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కంట్రీ స్ట్రాటజీ డైలాగ్ ఆన్ ఇండియా",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "c3706768b06fc0a41f9d1abeccabc7ded7a7f98b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సంస్థ ప్రతినిధులు",
+     "type": "Person",
+     "english_name": "Organization Representatives"
+    },
+    {
+     "name": "సంస్థ",
+     "type": "Organization",
+     "english_name": "Organization"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ఏపీలోని రెండు నగరాల్లో మెట్రో రైలు వ్యవస్థలను త్వరలోనే ప్రారంభిస్తామని",
+     "type": "Claim",
+     "english_name": "Metro rail systems will be launched soon in two cities of AP"
+    },
+    {
+     "name": "ప్రపంచస్థాయి హైస్పీడ్ రైళ్లను ఇక్కడ అందుబాటులోకి తెస్తామని",
+     "type": "Claim",
+     "english_name": "World-class high-speed trains will be introduced"
+    },
+    {
+     "name": "ఏపీ భారత దేశానికే గుండెకాయలా ఉంచారు",
+     "type": "Claim",
+     "english_name": "AP is the heart of India"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు ఇచ్చిన ర్యాంకులలో వ్యాపార అనుకూలతలో నంబర్ వన్ రాష్ట్రంగా నిలిచింది",
+     "type": "Claim",
+     "english_name": "Ranked number one by World Bank for ease of doing business"
+    },
+    {
+     "name": "విశాఖలో ఉత్పత్తి కేంద్రం స్థాపిస్తే ఎగుమతులు, దిగుమతులకు అనుకూలంగా ఉంటుంది",
+     "type": "Claim",
+     "english_name": "Setting up a production centre in Visakhapatnam will be conducive to exports and imports"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీలోని రెండు నగరాల్లో మెట్రో రైలు వ్యవస్థలను త్వరలోనే ప్రారంభిస్తామని",
+     "evidence": "ఏపీలోని రెండు నగరాల్లో మెట్రో రైలు వ్యవస్థలను త్వరలోనే ప్రారంభిస్తామని"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రపంచస్థాయి హైస్పీడ్ రైళ్లను ఇక్కడ అందుబాటులోకి తెస్తామని",
+     "evidence": "ప్రపంచస్థాయి హైస్పీడ్ రైళ్లను ఇక్కడ అందుబాటులోకి తెస్తామని"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీ భారత దేశానికే గుండెకాయలా ఉంచారు",
+     "evidence": "ఏపీ భారత దేశానికే గుండెకాయలా ఉంచారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రపంచ బ్యాంకు ఇచ్చిన ర్యాంకులలో వ్యాపార అనుకూలతలో నంబర్ వన్ రాష్ట్రంగా నిలిచింది",
+     "evidence": "ప్రపంచ బ్యాంకు ఇచ్చిన ర్యాంకులలో వ్యాపార అనుకూలతలో నంబర్ వన్ రాష్ట్రంగా నిలిచింది"
+    },
+    {
+     "source": "సంస్థ ప్రతినిధులు",
+     "relation": "MAKES_CLAIM",
+     "target": "విశాఖలో ఉత్పత్తి కేంద్రం స్థాపిస్తే ఎగుమతులు, దిగుమతులకు అనుకూలంగా ఉంటుంది",
+     "evidence": "విశాఖలో ఉత్పత్తి కేంద్రం స్థాపిస్తే ఎగుమతులు, దిగుమతులకు అనుకూలంగా ఉంటుంది"
+    },
+    {
+     "source": "సంస్థ",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖ",
+     "evidence": "విశాఖలో ఉత్పత్తి కేంద్రం స్థాపిస్తే"
+    }
+   ]
+  },
+  "93ed806b252d4422bbefe9446e16f362e554f901": {
+   "entities": [
+    {
+     "name": "చంద్రబా",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అనిల్ అగర్వాల్",
+     "type": "Person",
+     "english_name": "Anil Agarwal"
+    },
+    {
+     "name": "వేదాంత",
+     "type": "Organization",
+     "english_name": "Vedanta"
+    },
+    {
+     "name": "బోస్టన్",
+     "type": "Place",
+     "english_name": "Boston"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఎథేరియం",
+     "type": "Organization",
+     "english_name": "Ethereum"
+    },
+    {
+     "name": "హెచ్పీ",
+     "type": "Organization",
+     "english_name": "HP"
+    },
+    {
+     "name": "స్టీఫెన్ నిగ్రో",
+     "type": "Person",
+     "english_name": "Stephen Nigro"
+    },
+    {
+     "name": "ఫ్రాన్హోఫర్",
+     "type": "Organization",
+     "english_name": "Fraunhofer"
+    },
+    {
+     "name": "తోబియాస్ డౌత్",
+     "type": "Person",
+     "english_name": "Tobias Dauth"
+    },
+    {
+     "name": "బీఎండబ్ల్యూ",
+     "type": "Organization",
+     "english_name": "BMW"
+    },
+    {
+     "name": "బాష్",
+     "type": "Organization",
+     "english_name": "Bosch"
+    },
+    {
+     "name": "నన్యాంగ్ టెక్నలాజికల్ యూనివర్సిటీ",
+     "type": "Organization",
+     "english_name": "Nanyang Technological University"
+    },
+    {
+     "name": "సుబ్రా సురేష్",
+     "type": "Person",
+     "english_name": "Subra Suresh"
+    },
+    {
+     "name": "సింగపూర్",
+     "type": "Place",
+     "english_name": "Singapore"
+    },
+    {
+     "name": "ఎయిర్బస్",
+     "type": "Organization",
+     "english_name": "Airbus"
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "బ్లాక్చైన్ టెక్నాలజీ కోర్సు",
+     "type": "Scheme",
+     "english_name": "Blockchain Technology Course"
+    },
+    {
+     "name": "త్రీడీ ముద్రణ కేంద్రాలు",
+     "type": "Scheme",
+     "english_name": "3D Printing Centres"
+    },
+    {
+     "name": "స్మార్ట్ క్యాంపస్",
+     "type": "Scheme",
+     "english_name": "Smart Campus"
+    },
+    {
+     "name": "స్మార్ట్ రాష్ట్రం",
+     "type": "Scheme",
+     "english_name": "Smart State"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబా",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబా",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బ్లాక్చైన్ టెక్నాలజీ కోర్సు",
+     "evidence": "బ్లాక్చైన్ టెక్నాలజీ కోర్సు ప్రారంభిం చాలని 'ఎథేరియం' సంస్థ వ్యవస్థాపకుడు జో లుబి ను చంద్రబాబు కోరారు."
+    },
+    {
+     "source": "చంద్రబా",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "త్రీడీ ముద్రణ కేంద్రాలు",
+     "evidence": "ఆంధ్రప్రదేశ్లో విరివిగా త్రీడీ ముద్రణ కేంద్రాలు ఏర్పాటు చేసి, ఈ పరిజ్ఞానంపై ప్రజలకు అవగా హన కల్పించాలని హెచ్పీ సంస్థను ముఖ్యమంత్రి కోరారు."
+    },
+    {
+     "source": "చంద్రబా",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్మార్ట్ క్యాంపస్",
+     "evidence": "నన్యాంగ్ టెక్నలాజికల్ యూనివర్సిటీ అధ్యక్షుడు సుబ్రా సురేష్... తమ యూనివర్సిటీ ప్రాంగణాన్ని స్మార్ట్ క్యాంపస్గా తీర్చిదిద్దుతున్నా మన్నారు."
+    },
+    {
+     "source": "వేదాంత",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్లో ఏర్పాటు చేయాలని, అన్ని విధాలా సహకరిస్తామని సీఎం విజ్ఞప్తి చేశారు."
+    },
+    {
+     "source": "ఎథేరియం",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్ ప్రభుత్వం, ఎథేరియం సంయుక్తంగా బ్లాక్చైన్ టెక్నాలజీ విభాగం ఏర్పాటు చేస్తే బాగుంటుందని ప్రతిపాదించారు."
+    },
+    {
+     "source": "హెచ్పీ",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్లో విరివిగా త్రీడీ ముద్రణ కేంద్రాలు ఏర్పాటు చేయాలని హెచ్పీ సంస్థను ముఖ్యమంత్రి కోరారు."
+    },
+    {
+     "source": "ఫ్రాన్హోఫర్",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఫ్రాన్హోఫర్తో ఆంధ్రప్రదేశ్ కలసి పనిచేయడం వల్ల పలు సంస్థలు రాష్ట్రానికి వచ్చే అవకాశం ఉందని భావిస్తున్నాయి."
+    },
+    {
+     "source": "నన్యాంగ్ టెక్నలాజికల్ యూనివర్సిటీ",
+     "relation": "LOCATED_IN",
+     "target": "సింగపూర్",
+     "evidence": "సింగపూర్లోని నన్యాంగ్ టెక్నలాజికల్ యూనివర్సిటీ అధ్యక్షుడు సుబ్రా సురేష్..."
+    }
+   ]
+  },
+  "1cf90aa7426202b30bee61b362edec623156cd36": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సైమన్ హూ",
+     "type": "Person",
+     "english_name": "Simon Hu"
+    },
+    {
+     "name": "కిన్యా నెటో",
+     "type": "Person",
+     "english_name": "Kinna Netto"
+    },
+    {
+     "name": "అలీబాబా",
+     "type": "Organization",
+     "english_name": "Alibaba"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "చైనా",
+     "type": "Place",
+     "english_name": "China"
+    },
+    {
+     "name": "షాంఘై",
+     "type": "Place",
+     "english_name": "Shanghai"
+    },
+    {
+     "name": "SUPERSIX",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "మేము భారత్లో మొదటి డేటా సెంటర్ ఏర్పాటు చేస్తున్నాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రెండో సెంటర్ ఆంధ్రప్రదే శ్లోనే ఏర్పాటు చేస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ఏడాది చివరి కల్లా ఏపీలో డేటా సెంటర్ పెడతాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "933f2e2907f0d69b8e66795ad50cb55b4554ead0": {
+   "entities": [
+    {
+     "name": "అనీల్ సార్దానా",
+     "type": "Person",
+     "english_name": "Anil Sardaana"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "సెహ్వాగ్",
+     "type": "Person",
+     "english_name": "Sehwag"
+    },
+    {
+     "name": "అదానీ కంపెనీ",
+     "type": "Organization",
+     "english_name": "Adani Company"
+    },
+    {
+     "name": "స్విస్ రీమా",
+     "type": "Organization",
+     "english_name": "Swiss Reima"
+    },
+    {
+     "name": "డెలాయిట్",
+     "type": "Organization",
+     "english_name": "Deloitte"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఆంద్ర జ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "మెడ్టెక్ జోన్",
+     "type": "Scheme",
+     "english_name": "MedTech Zone"
+    },
+    {
+     "name": "డేటా సెంటర్",
+     "type": "Scheme",
+     "english_name": "Data Center"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్లో భారీ డేటా సెంటర్ పెట్టాలని నిర్ణయించాక చాలా ఫోన్లు వచ్చాయి... 'ఆ రాష్ట్రాన్నే ఎందుకు ఎంచుకున్నారు? మా రాష్ట్రానికి రావొచ్చు కదా' అని కొందరు ముఖ్యమంత్రులు ఆహ్వానించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి నిర్మాణానికీ సాయం అందిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "త్వరలో డేటా సెంటర్‌కు భూమి పూజ జరుపుతాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ మెడ్టెక్ జోన్ నిలవబోతోంది... ఇది పేరొందడం ఖాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "స్లాబ్ పన్నుల పద్ధతి కోసం స్వరం వినిపించిన లోకేశ్",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "అనీల్ సార్దానా",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆంధ్రప్రదేశ్లో భారీ డేటా సెంటర్ పెట్టాలని నిర్ణయించాక చాలా ఫోన్లు వచ్చాయి... 'ఆ రాష్ట్రాన్నే ఎందుకు ఎంచుకున్నారు? మా రాష్ట్రానికి రావొచ్చు కదా' అని కొందరు ముఖ్యమంత్రులు ఆహ్వానించారు.",
+     "evidence": "ఆంధ్రప్రదేశ్లో భారీ డేటా సెంటర్ పెట్టాలని నిర్ణయించాక చాలా ఫోన్లు వచ్చాయి. 'ఆ రాష్ట్రాన్నే ఎందుకు ఎంచుకున్నారు? మా రాష్ట్రానికి రావొచ్చు కదా' అని కొందరు ముఖ్యమంత్రులు ఆహ్వానించారు."
+    },
+    {
+     "source": "అనీల్ సార్దానా",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతి నిర్మాణానికీ సాయం అందిస్తాం",
+     "evidence": "అమరావతి నిర్మాణానికీ సాయం అందిస్తాం"
+    },
+    {
+     "source": "అనీల్ సార్దానా",
+     "relation": "MAKES_CLAIM",
+     "target": "త్వరలో డేటా సెంటర్‌కు భూమి పూజ జరుపుతాం",
+     "evidence": "త్వరలో డేటా సెంటర్‌కు భూమి పూజ జరుపుతాం"
+    },
+    {
+     "source": "సెహ్వాగ్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీ మెడ్టెక్ జోన్ నిలవబోతోంది... ఇది పేరొందడం ఖాయం",
+     "evidence": "ఏపీ మెడ్టెక్ జోన్ నిలవబోతోంది... ఇది పేరొందడం ఖాయం"
+    },
+    {
+     "source": "లోకేశ్",
+     "relation": "MAKES_CLAIM",
+     "target": "స్లాబ్ పన్నుల పద్ధతి కోసం స్వరం వినిపించిన లోకేశ్",
+     "evidence": "స్లాబ్ పన్నుల పద్ధతి కోసం స్వరం వినిపించిన లోకేశ్"
+    }
+   ]
+  },
+  "4b0abf270bf77ea9c001a3f62d2162a784d2b9aa": {
+   "entities": [
+    {
+     "name": "చంద్ర బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సైమన్ హూ",
+     "type": "Person",
+     "english_name": "Simon Hu"
+    },
+    {
+     "name": "కిన్యా నెటో",
+     "type": "Person",
+     "english_name": "Kinya Neto"
+    },
+    {
+     "name": "ఆలీబాబా ఇ-కా మర్స్",
+     "type": "Organization",
+     "english_name": "Ali Baba e-commerce"
+    },
+    {
+     "name": "లిగ్జిల్ గ్రూప్",
+     "type": "Organization",
+     "english_name": "Ligzil Group"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "నవ్యాంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "New Andhra Pradesh"
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": "Super Six promises"
+    },
+    {
+     "name": "రాష్ట్ర విభజన",
+     "type": "Issue",
+     "english_name": "state bifurcation"
+    },
+    {
+     "name": "ఐటీ అభివృద్ధి",
+     "type": "Issue",
+     "english_name": "IT development"
+    },
+    {
+     "name": "ఐటీ నిపుణుల వాదన",
+     "type": "Claim",
+     "english_name": "IT experts claim"
+    },
+    {
+     "name": "స్మార్ట్ సిటీ వాగ్దానం",
+     "type": "Claim",
+     "english_name": "Smart city promise"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్ర బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఐటీ నిపుణుల వాదన",
+     "evidence": "ప్రతి పది మంది ఐటీ నిపుణుల్లో నలుగురు భారతీయులే. అందులో ఒకరు ఏపీకి చెందిన వారు కావడం మాకు గర్వకారణం"
+    },
+    {
+     "source": "చంద్ర బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "స్మార్ట్ సిటీ వాగ్దానం",
+     "evidence": "మీరు సహకరిస్తే రాజధాని అమరావతిని స్మార్ట్ టెక్నాలాజికల్ సిటీగా మారుస్తాం"
+    },
+    {
+     "source": "చంద్ర బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "హైదరాబాద్",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "హైదరాబాద్లో ఐటీ అభివృద్ధి"
+    },
+    {
+     "source": "అమరావతి",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "రాజధాని అమరావతిని"
+    }
+   ]
+  },
+  "bb289224d146d2222c21c6e587bf025a5ab74391": {
+   "entities": [
+    {
+     "name": "సీఈవో జాస్తి కృష్ణ",
+     "type": "Person",
+     "english_name": "Jasti Krishna"
+    },
+    {
+     "name": "కిశోర్",
+     "type": "Person",
+     "english_name": "Kishore"
+    },
+    {
+     "name": "సాల్మన్ ఆరోఖ్య రాజ్",
+     "type": "Person",
+     "english_name": "Salmon Arokhya Raj"
+    },
+    {
+     "name": "టి.విజయ కుమార్",
+     "type": "Person",
+     "english_name": "T. Vijay Kumar"
+    },
+    {
+     "name": "పరకాల ప్రభాకర్",
+     "type": "Person",
+     "english_name": "Parakala Prabhakar"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జ్యూరిక్",
+     "type": "Organization",
+     "english_name": "Swiss"
+    },
+    {
+     "name": "సౌదీ అరమ్కో",
+     "type": "Organization",
+     "english_name": "Saudi Aramco"
+    },
+    {
+     "name": "ఏజిల్ ఆపరేషన్స్",
+     "type": "Organization",
+     "english_name": "Agzil Operations"
+    },
+    {
+     "name": "స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా",
+     "type": "Organization",
+     "english_name": "State Bank of India"
+    },
+    {
+     "name": "హిటాచి",
+     "type": "Organization",
+     "english_name": "Hitachi"
+    },
+    {
+     "name": "మెడ్టెక్",
+     "type": "Organization",
+     "english_name": "MedTech"
+    },
+    {
+     "name": "పయనీర్",
+     "type": "Organization",
+     "english_name": "Pioneer"
+    },
+    {
+     "name": "వేదాంత",
+     "type": "Organization",
+     "english_name": "Vedanta"
+    },
+    {
+     "name": "టాటా - ఎయిర్ బస్ సంయుక్త భాగస్వామ్యం",
+     "type": "Organization",
+     "english_name": "Tata - Airbus joint venture"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ఎకరామిక్ డెవలప్మెంట్ బోర్డు",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Economic Development Board"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "కృష్ణపట్నం",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "SUPERSIX",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "నవ్యాంద్రను మూడు నాలుగేళ్లలో భారత్కు ఆదర్శంగా రూపొందిస్తాం. రాష్ట్రాన్ని ప్రపంచానికే ఒక ఆదర్శ నమూనా నాగా తీర్చిదిద్దడం నా స్వప్నం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నవ్యాంద్రను మూడు నాలుగేళ్లలో భారత్కు ఆదర్శంగా రూపొందిస్తాం. రాష్ట్రాన్ని ప్రపంచానికే ఒక ఆదర్శ నమూనా నాగా తీర్చిదిద్దడం నా స్వప్నం.",
+     "evidence": "నవ్యాంద్రను మూడు నాలుగేళ్లలో భారత్కు ఆదర్శంగా రూపొందిస్తాం. రాష్ట్రాన్ని ప్రపంచానికే ఒక ఆదర్శ నమూనా నాగా తీర్చిదిద్దడం నా స్వప్నం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    }
+   ]
+  },
+  "61eb93ffec63cb2d8cc3664e897b82245b8aab81": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ఆదానీ",
+     "type": "Organization",
+     "english_name": "Adani"
+    },
+    {
+     "name": "డేటా సెంటర్",
+     "type": "Scheme",
+     "english_name": "Data Centre"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఆదానీ సర్వీసెస్",
+     "type": "Organization",
+     "english_name": "Adani Services"
+    },
+    {
+     "name": "డెలాయిట్",
+     "type": "Organization",
+     "english_name": "Deloitte"
+    },
+    {
+     "name": "డేవిడ్ క్రూక్",
+     "type": "Person",
+     "english_name": "David Crook"
+    },
+    {
+     "name": "విప్రో",
+     "type": "Organization",
+     "english_name": "Wipro"
+    },
+    {
+     "name": "రిషద్ ప్రేమ్జీ",
+     "type": "Person",
+     "english_name": "Rishad Premji"
+    },
+    {
+     "name": "నాస్కామ్",
+     "type": "Organization",
+     "english_name": "Nascom"
+    },
+    {
+     "name": "మెడికల్ ఎలక్ట్రానిక్స్ సెంటర్ ఆఫ్ ఎక్సలెన్స్",
+     "type": "Scheme",
+     "english_name": "Medical Electronics Centre of Excellence"
+    },
+    {
+     "name": "స్విస్ రే",
+     "type": "Organization",
+     "english_name": "Swiss Re"
+    },
+    {
+     "name": "మెన్జింగ్గర్",
+     "type": "Person",
+     "english_name": "Menzinger"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్ వాగ్దానాలు"
+    },
+    {
+     "source": "ఆదానీ సర్వీసెస్",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి అభివృద్ధితో పాటు రాష్ట్ర ప్రభుత్వంతో కలిసి పనిచేయాలని నిర్ణయించాము."
+    }
+   ]
+  },
+  "debe280f2b9651e856a951693a4907c5ddc8afb2": {
+   "entities": [
+    {
+     "name": "ముఖ్యమంత్రి చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu"
+    },
+    {
+     "name": "బ్రూనో సాటర్",
+     "type": "Person",
+     "english_name": "Bruno Sattler"
+    },
+    {
+     "name": "సత్య నాదెళ్ల",
+     "type": "Person",
+     "english_name": "Satya Nadella"
+    },
+    {
+     "name": "కిమ్ స్ట్రాటన్",
+     "type": "Person",
+     "english_name": "Kim Stratton"
+    },
+    {
+     "name": "నికోలస్ డక్స్",
+     "type": "Person",
+     "english_name": "Nicholas Dux"
+    },
+    {
+     "name": "హిరోయుకి ఇషిగె",
+     "type": "Person",
+     "english_name": "Hirofumi Ishige"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జపాన్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "స్విట్జర్లాండ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జ్యూరిచ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పైర్ ఇంటర్నేషనల్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "యూనివర్సిటీ ఆఫ్ కాలిఫోర్నియా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "జెట్రో",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో నగదు రహిత లావాదేవీలకు ప్రాధాన్యత ఇస్తున్నామని... 30 శాతం ఉన్న డిజిటల్ లావాదేవీలను మార్చి నాటికి 70 శాతానికి పెంచాలని కృతనిశ్చయంతో ఉన్నామని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డిజిటల్ లావాదేవీల్లో ఎలాంటి సమస్యలూ రాలేదని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హిమోఫీలియా పరిశోధన, చికిత్స సామర్థ్యం పెంపు అంశాల్లో ప్రభుత్వ - ప్రైవేటు భాగస్వామ్యాల కోసం చూస్తున్నామని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతిని లెర్నింగ్, ఎడ్యుకేషన్ హబ్గా మార్చడానికి ప్రయత్నిస్తున్నామని",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో నగదు రహిత లావాదేవీలకు ప్రాధాన్యత ఇస్తున్నామని... 30 శాతం ఉన్న డిజిటల్ లావాదేవీలను మార్చి నాటికి 70 శాతానికి పెంచాలని కృతనిశ్చయంతో ఉన్నామని",
+     "evidence": "రాష్ట్రంలో నగదు రహిత లావాదేవీలకు ప్రాధాన్యత ఇస్తున్నామని... 30 శాతం ఉన్న డిజిటల్ లావాదేవీలను మార్చి నాటికి 70 శాతానికి పెంచాలని కృతనిశ్చయంతో ఉన్నామని"
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "సూపర్ సిక్స్ ప్రామిసెస్"
+    },
+    {
+     "source": "బ్రూనో సాటర్",
+     "relation": "MAKES_CLAIM",
+     "target": "డిజిటల్ లావాదేవీల్లో ఎలాంటి సమస్యలూ రాలేదని",
+     "evidence": "డిజిటల్ లావాదేవీల్లో ఎలాంటి సమస్యలూ రాలేదని"
+    },
+    {
+     "source": "కిమ్ స్ట్రాటన్",
+     "relation": "MAKES_CLAIM",
+     "target": "హిమోఫీలియా పరిశోధన, చికిత్స సామర్థ్యం పెంపు అంశాల్లో ప్రభుత్వ - ప్రైవేటు భాగస్వామ్యాల కోసం చూస్తున్నామని",
+     "evidence": "హిమోఫీలియా పరిశోధన, చికిత్స సామర్థ్యం పెంపు అంశాల్లో ప్రభుత్వ - ప్రైవేటు భాగస్వామ్యాల కోసం చూస్తున్నామని"
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతిని లెర్నింగ్, ఎడ్యుకేషన్ హబ్గా మార్చడానికి ప్రయత్నిస్తున్నామని",
+     "evidence": "అమరావతిని లెర్నింగ్, ఎడ్యుకేషన్ హబ్గా మార్చడానికి ప్రయత్నిస్తున్నామని"
+    },
+    {
+     "source": "పైర్ ఇంటర్నేషనల్",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతిని కేంద్రంగా చేసుకోవాలని ముఖ్యమంత్రి చంద్రబాబు పైర్ ఇంటర్నేషనల్ సంస్థను కోరారు."
+    }
+   ]
+  },
+  "37a3fafd603bb024e0b0a322f774ebb0cba00c2e": {
+   "entities": [
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "SUPERSIX",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ANDHRA PRADESH",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "LOCKHEED",
+     "type": "Organization",
+     "english_name": "Lockheed"
+    },
+    {
+     "name": "LOCKHEED MARTIN",
+     "type": "Organization",
+     "english_name": "Lockheed Martin"
+    },
+    {
+     "name": "MARLON HUGHES",
+     "type": "Person",
+     "english_name": "Marlon Hughes"
+    },
+    {
+     "name": "CII",
+     "type": "Organization",
+     "english_name": "Confederation of Indian Industry"
+    },
+    {
+     "name": "Infrastructure Development Office",
+     "type": "Organization",
+     "english_name": "Infrastructure Development Office"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "Andhra Jyothy",
+     "type": "Organization",
+     "english_name": "Andhra Jyothy"
+    },
+    {
+     "name": "DAVOS",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "Texas",
+     "type": "Place",
+     "english_name": "Texas"
+    },
+    {
+     "name": "Anant",
+     "type": "Place",
+     "english_name": "Anant"
+    },
+    {
+     "name": "I am a lifelong student: Babu in CII meet",
+     "type": "Claim",
+     "english_name": "I am a lifelong student: Babu in CII meet"
+    },
+    {
+     "name": "Chief Minister Chandrababu Naidu is trying to make Andhra Pradesh a destination for defence products and the airlines sector during his Davos tour.",
+     "type": "Claim",
+     "english_name": "Chief Minister Chandrababu Naidu is trying to make Andhra Pradesh a destination for defence products and the airlines sector during his Davos tour."
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "I am a lifelong student: Babu in CII meet",
+     "evidence": "నేను నిత్య విద్యార్థిని: సీఐఐ మీట్లో బాబు"
+    },
+    {
+     "source": "CHANDRABABU",
+     "relation": "MAKES_CLAIM",
+     "target": "Chief Minister Chandrababu Naidu is trying to make Andhra Pradesh a destination for defence products and the airlines sector during his Davos tour.",
+     "evidence": "Chief Minister Chandrababu Naidu is trying to make Andhra Pradesh a destination for defence products and the airlines sector during his Davos tour."
+    },
+    {
+     "source": "Infrastructure Development Office",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "Hyderabad, January 21 (Andhra Jyothy):"
+    },
+    {
+     "source": "LOCKHEED MARTIN",
+     "relation": "LOCATED_IN",
+     "target": "Texas",
+     "evidence": "Texas units"
+    },
+    {
+     "source": "LOCKHEED MARTIN",
+     "relation": "LOCATED_IN",
+     "target": "Anant",
+     "evidence": "Anant to be examined"
+    }
+   ]
+  },
+  "6d0af55e665f889b1994962420aeaea607bd04cd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సైమన్ హరా",
+     "type": "Person",
+     "english_name": "Simon Hara"
+    },
+    {
+     "name": "నక్క",
+     "type": "Person",
+     "english_name": "Nakkas"
+    },
+    {
+     "name": "అలీబాబా క్లౌడ్",
+     "type": "Organization",
+     "english_name": "Alibaba Cloud"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "అలీబాబా క్లౌడ్ తమ రెండో డేటా సెంటర్సు సవ్యాంద్రలో ఏర్పాటు చేస్తామని ప్రకటించింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ఏడాదిలోనే ఈ కేంద్రాన్ని ప్రారంభిస్తామని తెలిపింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబుకు సైమన్ హూ హామీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దళితులకు మేమే మేలు చేశాం మాకంటే ఎక్కువ చేసినవారు లేరు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ దళిత తేజం పార్టీని దళిత దేశం చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సైమన్ హరా",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబుకు సైమన్ హూ హామీ",
+     "evidence": "చంద్రబాబుకు సైమన్ హూ హామీ"
+    },
+    {
+     "source": "నక్క",
+     "relation": "MAKES_CLAIM",
+     "target": "దళితులకు మేమే మేలు చేశాం మాకంటే ఎక్కువ చేసినవారు లేరు",
+     "evidence": "దళితులకు మేమే మేలు చేశాం మాకంటే ఎక్కువ చేసినవారు లేరు"
+    },
+    {
+     "source": "నక్క",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ దళిత తేజం పార్టీని దళిత దేశం చేస్తాం",
+     "evidence": "టీడీపీ దళిత తేజం పార్టీని దళిత దేశం చేస్తాం"
+    },
+    {
+     "source": "అమరావతి",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": ""
+    }
+   ]
+  },
+  "9f7b870340b74fedac622952f0489627da10249a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సౌదీ ఆరాంకో",
+     "type": "Organization",
+     "english_name": "Saudi Aramco"
+    },
+    {
+     "name": "ఎంటీఐపీ",
+     "type": "Organization",
+     "english_name": "MITIP"
+    },
+    {
+     "name": "స్టాడ్లర్",
+     "type": "Organization",
+     "english_name": "Stadler"
+    },
+    {
+     "name": "అయోవా వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Iowa University"
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": "Sri Lanka"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "కాకినాడ",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "శ్రీసిటీ",
+     "type": "Place",
+     "english_name": "Sri City"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సౌదీ ఆరాంకో సంస్థ ట్రిలియన్ డాలర్ల కంపెనీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎంటీఐపీ కంపెనీ రాష్ట్రంలో సైన్స్ ఇన్నోవేషన్ కేంద్రం ఏర్పాటుకు ముందుకొచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అది ఏర్పాటైతే రాబోయే పదేళ్లలో లక్ష ఉద్యోగాల కల్పన జరుగుతుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "100 బిలియన్ డాలర్ల ఆదాయం కూడా వస్తుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "స్టాడ్లర్ సంస్థకు రైలు బోగీల తయారీలో 75 ఏళ్ల అనుభవం ఉంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అయోవా యూనివర్సిటీ కర్నూలులో పెట్టుబడులు పెట్టి ఆ ప్రాంతాన్ని భారత్కే విత్తన కేంద్రంగా చేయాలని ముందుకొచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సౌదీ ఆరాంకో సంస్థ తిరుపతి-శ్రీసిటీ మధ్యలో ఒక భారీ టౌన్ షిప్ను నిర్మించడానికి కూడా ఆసక్తి చూపిస్తోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తాను 13-14 ఏళ్ల నుండి దావోస్ సదస్సుకు వెళ్తున్నాను",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "భారత్ అంటే ఏవీనే అన్నట్లుగా అక్కడ పేరు వచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో అనుసరిస్తున్న సీఎమ్ డాష్బోర్డ్, రెయిన్గన్, నీటి నిర్వహణ పద్ధతులను అందరూ అభినందించారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సౌదీ ఆరాంకో సంస్థ ట్రిలియన్ డాలర్ల కంపెనీ",
+     "evidence": "సౌదీ ఆరాంకో సంస్థ ట్రిలియన్ డాలర్ల కంపెనీ అని"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎంటీఐపీ కంపెనీ రాష్ట్రంలో సైన్స్ ఇన్నోవేషన్ కేంద్రం ఏర్పాటుకు ముందుకొచ్చింది",
+     "evidence": "ఎంటీఐపీ కంపెనీ రాష్ట్రంలో సైన్స్ ఇన్నోవేషన్ కేంద్రం ఏర్పాటుకు ముందుకొచ్చింది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అది ఏర్పాటైతే రాబోయే పదేళ్లలో లక్ష ఉద్యోగాల కల్పన జరుగుతుంది",
+     "evidence": "అది ఏర్పాటైతే రాబోయే పదేళ్లలో లక్ష ఉద్యోగాల కల్పన జరుగుతుంది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "100 బిలియన్ డాలర్ల ఆదాయం కూడా వస్తుంది",
+     "evidence": "100 బిలియన్ డాలర్ల ఆదాయం కూడా వస్తుంది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "స్టాడ్లర్ సంస్థకు రైలు బోగీల తయారీలో 75 ఏళ్ల అనుభవం ఉంది",
+     "evidence": "స్టాడ్లర్ సంస్థకు రైలు బోగీల తయారీలో 75 ఏళ్ల అనుభవం ఉంది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అయోవా యూనివర్సిటీ కర్నూలులో పెట్టుబడులు పెట్టి ఆ ప్రాంతాన్ని భారత్కే విత్తన కేంద్రంగా చేయాలని ముందుకొచ్చింది",
+     "evidence": "అయోవా యూనివర్సిటీ కర్నూలులో పెట్టుబడులు పెట్టి ఆ ప్రాంతాన్ని భారత్కే విత్తన కేంద్రంగా"
+    }
+   ]
+  },
+  "2cf7164b4223271deb56e3750acbc44d77059c0a": {
+   "entities": [
+    {
+     "name": "చంద్ర బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సురేశ్ ప్రభు",
+     "type": "Person",
+     "english_name": "Suresh Prabhu"
+    },
+    {
+     "name": "పీటర్ జెనెల్సన్",
+     "type": "Person",
+     "english_name": "Peter Jenelsson"
+    },
+    {
+     "name": "స్టెపాన్ రుటిషాసర్",
+     "type": "Person",
+     "english_name": "Stepan Rutishaser"
+    },
+    {
+     "name": "థామస్ జీఫెల్",
+     "type": "Person",
+     "english_name": "Thomas Zehfel"
+    },
+    {
+     "name": "స్టాడ్లర్ రైల్",
+     "type": "Organization",
+     "english_name": "Stadler Rail"
+    },
+    {
+     "name": "భారత రైల్వే",
+     "type": "Organization",
+     "english_name": "Indian Railways"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "జ్యూరిచ్",
+     "type": "Place",
+     "english_name": "Zurich"
+    },
+    {
+     "name": "కాంచ్రాపాడ",
+     "type": "Place",
+     "english_name": "Kanchrapara"
+    },
+    {
+     "name": "పశ్చిమ బెంగాల్",
+     "type": "Place",
+     "english_name": "West Bengal"
+    },
+    {
+     "name": "స్టాడ్లర్ రైల్ సుముఖత వ్యక్తం చేసింది",
+     "type": "Claim",
+     "english_name": "Stadler Rail expressed willingness"
+    },
+    {
+     "name": "కర్మాగారం నెలకొల్పేందుకు సానుకూల వాతావరణం ఉంటుందని, అవసరమైన మౌలిక సదుపాయాలు తాము కల్పిస్తామని సీఎం స్పష్టం చేశారు.",
+     "type": "Claim",
+     "english_name": "CM said they will provide necessary infrastructure for factory"
+    },
+    {
+     "name": "ఇండియా కేంద్రంగా అగ్నేయాసియా దేశాలకు రైలు ఇంజన్లు, బోగీలు ఎగుమతి చేయాలన్న ప్రణాళిక ఉన్నట్లు వెల్లడించారు.",
+     "type": "Claim",
+     "english_name": "Peter Jenelsson revealed plan to export engines and coaches from India"
+    },
+    {
+     "name": "తమకు మెట్రో, ఇంటర్సిటీ రైళ్ల ఉత్పత్తిలో 75 సంవత్సరాల అనుభవం ఉందని, అత్యాధునిక సాంకేతిక పరిజ్ఞానంతో ప్రయాణికులకు సౌకర్యవంతంగా బోగీల డిజైన్ చేయడం తమ ప్రత్యేకతని కంపెనీ ప్రతినిధులు వివరించారు.",
+     "type": "Claim",
+     "english_name": "Company representatives said they have 75 years of experience and specialize in comfortable coach design"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్ర బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కర్మాగారం నెలకొల్పేందుకు సానుకూల వాతావరణం ఉంటుందని, అవసరమైన మౌలిక సదుపాయాలు తాము కల్పిస్తామని సీఎం స్పష్టం చేశారు.",
+     "evidence": "కర్మాగారం నెలకొల్పేందుకు సానుకూల వాతావరణం ఉంటుందని, అవసరమైన"
+    }
+   ]
+  },
+  "95e7541940779a57f16b7d05b4a85843c51816e6": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సైమన్ హూ",
+     "type": "Person",
+     "english_name": "Simon Hu"
+    },
+    {
+     "name": "ఆనంద్ మహీంద్ర",
+     "type": "Person",
+     "english_name": "Anand Mahindra"
+    },
+    {
+     "name": "అలీబాబా క్లౌడ్",
+     "type": "Organization",
+     "english_name": "Alibaba Cloud"
+    },
+    {
+     "name": "మహీంద్ర గ్రూప్",
+     "type": "Organization",
+     "english_name": "Mahindra Group"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "షాంఘై",
+     "type": "Place",
+     "english_name": "Shanghai"
+    },
+    {
+     "name": "చైనా",
+     "type": "Place",
+     "english_name": "China"
+    },
+    {
+     "name": "ప్యారిస్",
+     "type": "Place",
+     "english_name": "Paris"
+    },
+    {
+     "name": "SuperSix",
+     "type": "Scheme",
+     "english_name": "SuperSix"
+    },
+    {
+     "name": "త్వరలోనే ఏపీలో పర్యటించి.. ఏయే రంగాల్లో సహకరించవచ్చునో అధ్యయనం చేస్తామని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "షాంఘైలో తమ సంస్థ కార్యక లాపాలను పరిశీలించడానికి చైనా రావాలని ముఖ్య మంత్రిని ఆహ్వానించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మీరు ఇండియాలో ప్రభుత్వ రంగంలో సాంకేతికతకు ఆద్యులని, ఇ-గవర్నెన్స్కు ప్రధాన పోషకులని తెలియడంతో మీమీద గౌరవం రెట్టింపు అయ్యింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వ్యవసాయంలోనూ సహకరించండి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ ఇండస్ట్రియల్ సిటీ సెజ్ను మా రాష్ట్రంలోనే ఏర్పాటు చేయండి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహీంద్ర సంస్థ ప్యారిస్ లో మన కాఫీని మార్కెట్ చేస్తోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబా బు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "యుల్లీ జాన్సన్",
+     "type": "Person",
+     "english_name": "Ulli Johnson"
+    },
+    {
+     "name": "రవి రహేజా",
+     "type": "Person",
+     "english_name": "Ravi Raheja"
+    },
+    {
+     "name": "బెర్నార్డ్ చార్లెస్",
+     "type": "Person",
+     "english_name": "Bernard Charles"
+    },
+    {
+     "name": "జాస్తి కృష్ణ కిశోర్",
+     "type": "Person",
+     "english_name": "Jasti Krishna Kishore"
+    },
+    {
+     "name": "సాల్మన్ ఆరోఖ్య రాజ్",
+     "type": "Person",
+     "english_name": "Salmon Arokhya Raj"
+    },
+    {
+     "name": "జాన్సన్ ఇన్వెస్ట్మెంట్స్",
+     "type": "Organization",
+     "english_name": "Johnson Investments"
+    },
+    {
+     "name": "రహేజా మైండ్ స్పేస్",
+     "type": "Organization",
+     "english_name": "Raheja Mind Space"
+    },
+    {
+     "name": "డస్సాల్ట్ గ్రూప్",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సైమన్ హూ",
+     "relation": "MAKES_CLAIM",
+     "target": "త్వరలోనే ఏపీలో పర్యటించి.. ఏయే రంగాల్లో సహకరించవచ్చునో అధ్యయనం చేస్తామని",
+     "evidence": "త్వరలోనే ఏపీలో పర్యటించి.. ఏయే రంగాల్లో సహకరించవచ్చునో అధ్యయనం చేస్తామని సైమన్ హూ తెలిపారు."
+    },
+    {
+     "source": "సైమన్ హూ",
+     "relation": "MAKES_CLAIM",
+     "target": "షాంఘైలో తమ సంస్థ కార్యక లాపాలను పరిశీలించడానికి చైనా రావాలని ముఖ్య మంత్రిని ఆహ్వానించారు.",
+     "evidence": "షాంఘైలో తమ సంస్థ కార్యక లాపాలను పరిశీలించడానికి చైనా రావాలని ముఖ్య మంత్రిని ఆహ్వానించారు."
+    },
+    {
+     "source": "సైమన్ హూ",
+     "relation": "MAKES_CLAIM",
+     "target": "మీరు ఇండియాలో ప్రభుత్వ రంగంలో సాంకేతికతకు ఆద్యులని, ఇ-గవర్నెన్స్కు ప్రధాన పోషకులని తెలియడంతో మీమీద గౌరవం రెట్టింపు అయ్యింది",
+     "evidence": "మీరు ఇండియాలో ప్రభుత్వ రంగంలో సాంకేతికతకు ఆద్యులని, ఇ-గవర్నెన్స్కు ప్రధాన పోషకులని తెలియడంతో మీమీద గౌరవం రెట్టింపు అయ్యింది అని చంద్రబాబును అలీబాబా క్లౌడ్ అధ్యక్షుడు సైమన్ హూ ప్రశంసలతో ముంచెత్తారు."
+    },
+    {
+     "source": "ఆనంద్ మహీంద్ర",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ ఇండస్ట్రియల్ సిటీ సెజ్ను మా రాష్ట్రంలోనే ఏర్పాటు చేయండి.",
+     "evidence": "ఆ ఇండస్ట్రియల్ సిటీ సెజ్ను మా రాష్ట్రంలోనే ఏర్పాటు చేయండి. ఇందుకు అన్ని రకాలుగా సహకరిస్తాం. మా రాష్ట్రానికి రండి..."
+    },
+    {
+     "source": "ఆనంద్ మహీంద్ర",
+     "relation": "MAKES_CLAIM",
+     "target": "మహీంద్ర సంస్థ ప్యారిస్ లో మన కాఫీని మార్కెట్ చేస్తోంది.",
+     "evidence": "మహీంద్ర సంస్థ ప్యారిస్ లో మన కాఫీని మార్కెట్ చేస్తోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వ్యవసాయంలోనూ సహకరించండి",
+     "evidence": "వ్యవసాయంలోనూ సహకరించండి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SuperSix",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్ ప్రామిసెస్"
+    }
+   ]
+  },
+  "4c9bf459aabad98977313ca24ebe5fef2cf2e28a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మార్లిన్ హ్యసన్",
+     "type": "Person",
+     "english_name": "Marilyn Heyson"
+    },
+    {
+     "name": "లాక్హీడ్ మార్టిన్",
+     "type": "Organization",
+     "english_name": "Lockheed Martin"
+    },
+    {
+     "name": "CII",
+     "type": "Organization",
+     "english_name": "Confederation of Indian Industry"
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "దావోస్",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "టెక్సాస్",
+     "type": "Place",
+     "english_name": "Texas"
+    },
+    {
+     "name": "భారత్",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "రాజధాని భూ సమస్య",
+     "type": "Issue",
+     "english_name": "Capital land problem"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లాక్హీడ్ మార్టిన్",
+     "relation": "LOCATED_IN",
+     "target": "టెక్సాస్",
+     "evidence": "టెక్సాస్ లోని తమ ఉత్పత్తి యూనిట్లలో కొన్నింటిని భారత్కు తరలించే ఆలోచనలో ఉన్నామని తెలిపారు."
+    },
+    {
+     "source": "లాక్హీడ్ మార్టిన్",
+     "relation": "LOCATED_IN",
+     "target": "భారత్",
+     "evidence": "టెక్సాస్ లోని తమ ఉత్పత్తి యూనిట్లలో కొన్నింటిని భారత్కు తరలించే ఆలోచనలో ఉన్నామని తెలిపారు."
+    }
+   ]
+  }
+ }
+}

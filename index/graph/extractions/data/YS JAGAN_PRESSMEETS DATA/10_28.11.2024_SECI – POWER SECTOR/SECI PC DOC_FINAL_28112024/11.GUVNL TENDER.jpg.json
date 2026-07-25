@@ -1,0 +1,101 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "98cf03c009d0220caae96fde1365af9e85b35498": {
+   "entities": [
+    {
+     "name": "GUJARAT URIA WIKAS HIGA LTD.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GUVNL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Transmission Utility (CTU)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Power Grid Corporation of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Madhya Gujarat Vij Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dakshin Gujarat Vi Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Uhar Gujarati Vi Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Paschim Gujarati Vi Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RPS No. GUVI L 500 MW I Solar (Phase XII)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 1.99 tariff",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Solar (Phase XI)",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "GUVNL",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "tender was called for setting up plant in Gujarat"
+    },
+    {
+     "source": "Madhya Gujarat Vij Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Discom(s) mean one or more of the following distribution companies: a) Madhya Gujarat Vij Company Limited."
+    },
+    {
+     "source": "Dakshin Gujarat Vi Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Discom(s) mean one or more of the following distribution companies: b) Dakshin Gujarat Vi Company Limited."
+    },
+    {
+     "source": "Uhar Gujarati Vi Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Discom(s) mean one or more of the following distribution companies: c) Uhar Gujarati Vi Company Limited."
+    },
+    {
+     "source": "Paschim Gujarati Vi Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Discom(s) mean one or more of the following distribution companies: d) Paschim Gujarati Vi Company Limited."
+    }
+   ]
+  }
+ }
+}

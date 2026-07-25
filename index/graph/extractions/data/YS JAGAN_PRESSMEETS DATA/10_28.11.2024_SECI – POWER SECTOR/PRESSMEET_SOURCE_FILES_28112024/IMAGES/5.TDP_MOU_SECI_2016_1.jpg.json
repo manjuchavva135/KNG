@@ -1,0 +1,53 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5fd88a46f20bd29c155e4820593ea82c3d7de9d4": {
+   "entities": [
+    {
+     "name": "SOLAR ENERGY CORPORATION OF INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SOUTHERN POWER DISTRIBUTION COMPANY OF ANDHRA PRADESH LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of National Capital Territory of Delhi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "JAWHARLAL NEHRU SOLAR MISSION (JNNSM) PHASE-II, BATCH III",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "SOUTHERN POWER DISTRIBUTION COMPANY OF ANDHRA PRADESH LIMITED",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "SOUTHERN POWER DISTRIBUTION COMPANY OF ANDHRA PRADESH LIMITED"
+    },
+    {
+     "source": "Government of National Capital Territory of Delhi",
+     "relation": "LOCATED_IN",
+     "target": "Delhi",
+     "evidence": "Government of National Capital Territory of Delhi"
+    }
+   ]
+  }
+ }
+}

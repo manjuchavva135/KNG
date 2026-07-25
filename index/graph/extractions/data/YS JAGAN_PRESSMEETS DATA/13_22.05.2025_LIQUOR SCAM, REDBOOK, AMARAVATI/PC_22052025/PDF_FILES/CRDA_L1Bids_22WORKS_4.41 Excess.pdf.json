@@ -1,0 +1,1593 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a2b2880c749afa96c7f221b8751003e67e9556f0": {
+   "entities": [
+    {
+     "name": "Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NCC LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "HAPPY NEST",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "b020413d3295c3dba1df8a72b16e729b9c45eece": {
+   "entities": [
+    {
+     "name": "Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "the Authority do and hereby accept the lowest quoted tender of M/s. BSR INFRATECH INDIA LIMITED for Rs.4,19,07,27,370.95 i.e., @4.41% excess over ECV of Rs.401,37,22,221/-.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "5e1c0317b975b845ab6bba3e7cf0ba74a8e7c2e0": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble Ministers & Hon’ble Judges",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "AIS Principal Secretaries & Secretaries",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rayapudi Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "M/s KMV Projects Limited",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Amaravati Govt. Complex Village, Amaravati, Andhra Pradesh"
+    },
+    {
+     "source": "M/s BSR INFRATECH INDIA LIMITED",
+     "relation": "LOCATED_IN",
+     "target": "Bengaluru",
+     "evidence": "M/s BSR INFRATECH INDIA LIMITED, Bengaluru."
+    },
+    {
+     "source": "Rayapudi Village",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Rayapudi Village, Amaravati, Andhra Pradesh"
+    }
+   ]
+  },
+  "f046b6b89b3c6707a9e650c49c5f93bbdbe0e3f9": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development Program",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, APCRDA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ananthavaram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nekkallu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Thulluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-2A",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "29108df37af7f546f633dab43bc3c8f5c3b1dabc": {
+   "entities": [],
+   "relations": []
+  },
+  "742eab2db621e577333e63f36dda9d9889e02082": {
+   "entities": [
+    {
+     "name": "M/s BSR INFRA TECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Nekkallu (Part) and Sakhamuru (Part) in Zone-1B Area in Amaravati",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "bfe73cc70e2956727de7a49a54f77b53707ee516": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nekkallu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-1A",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-1B",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Amaravati",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "Zone-1A",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Zone-1A Area in Amaravati Capital City"
+    },
+    {
+     "source": "Nekkallu",
+     "relation": "LOCATED_IN",
+     "target": "Zone-1A",
+     "evidence": "Nekkallu (Part) in Zone-1A Area"
+    },
+    {
+     "source": "Zone-1B",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Zone-1B Area in Amaravati Capital City"
+    }
+   ]
+  },
+  "5cf6e6bf786d66a044a701e7c5c243ba9ce478f0": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "World Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nelapadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "NCC Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development Program",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Administrative sanction accorded for Rs.984.10 Cr",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Administrative Sanction Rs.524.70 Crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Approval of Lowest Bid",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati , Andhra Pradesh"
+    },
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Amaravati"
+    },
+    {
+     "source": "NCC Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "M/s. NCC LIMITED, Hyderabad."
+    }
+   ]
+  },
+  "bf00b762d613e852e67852739d19916420f53492": {
+   "entities": [
+    {
+     "name": "Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. KMV PROJECTS LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Completion of Balance Works of Design and Construction of Bungalows for AIS Principal Secretaries & AIS Secretaries",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, APCRDA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati capital city development programme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "M/s. KMV PROJECTS LTD",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "M/s. KMV Projects Ltd, Hyderabad."
+    }
+   ]
+  },
+  "b02f10c7ba56430ac8f9fa4551f0863d2891f622": {
+   "entities": [
+    {
+     "name": "the L1 Bid quoted M/s BSR INFRATECH INDIA LIMITED for Rs.780,57,38,461.71 i.e., 4.09% excess over ECV of Rs. 749,90,28,208/-",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "M/s BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6c061d7ac84d0acfdecbbaad30cdf33871e69624": {
+   "entities": [
+    {
+     "name": "BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development Program",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Ananthavaram, Nelapadu, Sakhamuru & Thulluru (Parts) in Zone-2B Area in Amaravati",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Ananthavaram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nelapadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sakhamuru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Thulluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-2B Area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, APCRDA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "L1 Bid approved for BSR INFRATECH INDIA LIMITED at Rs432,37,48,565.28",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Commissioner, APCRDA",
+     "relation": "MAKES_CLAIM",
+     "target": "L1 Bid approved for BSR INFRATECH INDIA LIMITED at Rs432,37,48,565.28",
+     "evidence": "the L1 Bid quoted M/s. BSR INFRATECH INDIA LIMITED for Rs432,37,48,565.28 i.e., 4.19% excess over ECV value of Rs. 4,14,98,69,052/- excluding taxes and duties ... is approved."
+    },
+    {
+     "source": "Amaravati Capital City Development Program",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "WORLD BANK & ADB financed Amaravati Capital City Development Program"
+    },
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Commissioner, APCRDA"
+    }
+   ]
+  },
+  "1ca412a5b8c21aa6fabb60bce7ef49ab8998cc26": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MEGHA ENGINEERING & INFRASTRUCTURES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, APCRDA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kondamarajupalem",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rayapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-6",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-Z",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development programme",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e4d6439ceff2a6302198669439f1d8d71999f817": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MEGH ENGINEERING & INFRASTRUCTURES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "L1 Bid quoted by M/s MEGH ENGINEERING & INFRASTRUCTURES LTD Rs.12,87,18,92,924.85",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "2d61b461b7b533d3fecbb25a43e0ab88962b1bd0": {
+   "entities": [
+    {
+     "name": "M/s BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK & ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Abbarajupalem(P), Thulluru (P) and Rayapudi (P) in Zone-5D Area in Amaravati",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "the L1 Bid quoted by M/s BSR INFRATECH INDIA LIMITED for Rs.470,41,50,552.24 i.e 4.12% excess over ECV value of Rs. 4,51,80,08,598/- excluding taxes and duties under WORLD BANK & ADB financed Amaravati Capital city development programme related to “Construction of infrastructure in Layouts for Land Pooling Schemes for Abbarajupalem(P), Thulluru (P) and Rayapudi (P) in Zone-5D Area in Amaravati“ is approved.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Amaravati Capital city development programme"
+    }
+   ]
+  },
+  "d33c8f0b24b321aa140c8b7fea1fcbdc52513b30": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NCC Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kuragallu (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nowluru (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nidamarru (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-12 Villages area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati Capital City",
+     "evidence": "in Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Amaravati Capital City, Andhra Pradesh"
+    }
+   ]
+  },
+  "39b2e18811d87feee34efc7eba9a3c11782d538f": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MEGHA ENGINEERING & INFRASTRUCTURES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "R V R PROJECTS PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, APCRDA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-3B Area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-4 Area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Land Pooling Schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Nelapadu, Shakamuru (Parts) in Zone-3B Area in Amaravati",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Pichukulapalem (P), Thulluru (P) and Ananthavaram (P) in Zone-4 Area in Amaravati",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "Zone-3B Area",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati Capital City",
+     "evidence": "Zone-3B Area in Amaravati Capital City"
+    },
+    {
+     "source": "Zone-4 Area",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati Capital City",
+     "evidence": "Zone-4 Area in Amaravati Capital City"
+    }
+   ]
+  },
+  "6d18a5dcf8ec4bac723d2a744324655306aab3c3": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development Programme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "MEGHAA ENGINEERING & INFRASTRUCTURES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "L1 Bid",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ECV value",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Nelapadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "318780d3f4c1fd161cdfbafca51f2976f865c477": {
+   "entities": [
+    {
+     "name": "LARSEN AND TOUBRO LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "kondamarajupalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Lingayapalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Uddandarayunipalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Velagapudi (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mandadam (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-7 Area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Land Pooling Schemes",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Amaravati Capital City",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "kondamarajupalem (P)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Zone-7 Area in Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "Lingayapalem (P)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Zone-7 Area in Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "Uddandarayunipalem (P)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Zone-7 Area in Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "Velagapudi (P)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Zone-7 Area in Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "Mandadam (P)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Zone-7 Area in Amaravati Capital City, Andhra Pradesh"
+    },
+    {
+     "source": "Zone-7 Area",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Amaravati Capital City, Andhra Pradesh"
+    }
+   ]
+  },
+  "bb9326ce112e06eead12964627494d82439851ee": {
+   "entities": [
+    {
+     "name": "BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Thulluru (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ananthavaram (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Abbarajupalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rayapudi (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-5C",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-5D",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Thulluru (P) and Ananthavaram (P) Villages in Zone-5C Area in Amaravati",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development programme",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati Capital City, Andhra Pradesh"
+    }
+   ]
+  },
+  "8cf35db3fd1d2bc6c0d537ed66941ef2119ae8cb": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "LARSEN AND TOUBRO LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MEGHA ENGINEERING & INFRASTRUCTURES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Lingayapalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Malkapuram (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mandadam (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Shakamuru (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Inavolu (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nelapadu (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kondamarajupalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Velagapudi (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-9",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Land Pooling Schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of Roads, Drains, Water Supply, Sewerage, utility Ducts for Power & ICT, Reuse waterline and Avenue Plantation",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "f5b1f5ec770e3c2797827f671a421452075901f7": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh Capital Region Development Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "S SURESH KUMAR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Capital Region Development Authority",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Commissioner, Andhra Pradesh Capital Region Development Authority, Vijayawada"
+    },
+    {
+     "source": "Andhra Pradesh Capital Region Development Authority",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh Capital Region Development Authority"
+    }
+   ]
+  },
+  "a93bbbc261e504b1b5af0578e3c22d13ebbd942f": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development programme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. R V R PROJECTS PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Nelapadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kondamarajupalem",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rayapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-3A Area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, APCRDA is hereby authorized to carry out all the necessary acts and deeds for implementing the decision of the Authority.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "permission is hereby accorded to Commissioner, APCRDA to issue LoA to M/s. R V R PROJECTS PRIVATE LIMITED at Rs.393,31,91,353.11/- excluding taxes and duties.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "issue LoA to M/s. BSR INFRATECH INDIA LIMITED at Rs.432,37,48,565.28 excluding taxes",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Zone-3A Area",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Zone-3A Area in Amaravati Capital City"
+    }
+   ]
+  },
+  "4a9f822df9eb59e7e4a30665bf77d6770c79ae9c": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s MEGHA ENGINEERING & INFRASTRUCTURES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s RVR PROJECTS PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-9A area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-10 Area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Uddandarayunipalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mandadam (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Krishnayapalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Venkatapalem (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Malkapuram (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Inavolu (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kuragallu (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nowluru (P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Land Pooling Schemes",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "1b523f62f5a9c6edd335c1df96ae8515dd1db5a3": {
+   "entities": [
+    {
+     "name": "MEGHA ENGINEERING & INFRASTRUCTURES LTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kuragallu(P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nidamarru(P)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-12A Villages area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Land Pooling Schemes",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6d9179816ddb36b3269263a380fc0724ea90ad13": {
+   "entities": [
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WORLD BANK",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. BSR INFRATECH INDIA LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. R V PROJECTS PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-5A",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-5B",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Abbarajupalem",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Borupalem",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Dondapadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rayapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Abbarajupalem, Borupalem, Dondapadu and Rayapudi in Zone-5A Area in Amaravati Capital City, Andhra Pradesh on Lump sum contract (% Percentage Tender) including DLP of 2 Years",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Construction of infrastructure in Layouts for Land Pooling Schemes for Abbarajupalem(P), Borupalem, Dondapadu (P) and Rayapudi (P) in Zone-5B Area in Amaravati Capital City, Andhra Pradesh on Lumpsum contract (% Percentage Tender) including DLP of 2 Years",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati Capital City",
+     "evidence": "Amaravati Capital City"
+    },
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh"
+    }
+   ]
+  },
+  "edf5bbc48ae55a6649a50740ce0bb7b39542406b": {
+   "entities": [
+    {
+     "name": "Municipal Administration & Urban Development (CRDA) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Capital Region Development Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Capital Region Development Authority",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Commissioner, Andhra Pradesh Capital Region Development Authority, Vijayawada"
+    },
+    {
+     "source": "Andhra Pradesh Capital Region Development Authority",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Construction of Amaravati “HAPPY NEST” Residential Housing Project"
+    }
+   ]
+  }
+ }
+}

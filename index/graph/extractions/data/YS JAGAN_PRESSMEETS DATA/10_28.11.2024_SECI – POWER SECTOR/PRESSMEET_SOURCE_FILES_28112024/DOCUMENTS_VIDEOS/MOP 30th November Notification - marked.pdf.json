@@ -1,0 +1,181 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a7c381d148daf9f8b30a6d46f4a1dae165256852": {
+   "entities": [
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shram Shakti Bhawan",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tariff Policy, 2016",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Waiver of inter-state transmission charges",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of New and Renewable Energy",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ministry of Power",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "Shram Shakti Bhawan, New Delhi"
+    },
+    {
+     "source": "Shram Shakti Bhawan",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "Shram Shakti Bhawan, New Delhi"
+    }
+   ]
+  },
+  "664cb7253dbfc41166991f3e8923375a5e4a669d": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ISTS",
+     "type": "Organization",
+     "english_name": "Inter-State Transmission System"
+    },
+    {
+     "name": "RPO",
+     "type": "Scheme",
+     "english_name": "Renewable Purchase Obligation"
+    },
+    {
+     "name": "Competent Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ghanshyam Prasad",
+     "type": "Person",
+     "english_name": "Ghanshyam Prasad"
+    },
+    {
+     "name": "Secretary, CERC",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, MNRE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chairperson, Central Electricity Authority",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary in charge, Power/Energy Dept., State Governments/UTs",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, State Electricity Regulatory Commissions/Joint Electricity Regulatory Commissions",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PS to Minister for Power and NRE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APS to MoSP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Joint Secretaries/Chief Engineer/Economic Adviser, Ministry of Power",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sr. PPS to Secretary (Power)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PPS to AS (SKGR)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PPS to AS (VKD)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sr. PPS to JS (R&R)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS charges waiver for Solar PV power plants",
+     "type": "Claim",
+     "english_name": "ISTS charges waiver for Solar PV power plants"
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Issue",
+     "english_name": "ISTS waiver"
+    },
+    {
+     "name": "Manufacturing linked capacity scheme",
+     "type": "Scheme",
+     "english_name": "Manufacturing linked capacity scheme"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ghanshyam Prasad",
+     "relation": "MAKES_CLAIM",
+     "target": "ISTS charges waiver for Solar PV power plants",
+     "evidence": "ISTS charges shall be waived for Solar PV power plants commissioned under SECI Tender for manufacturing linked capacity scheme (RFS No SECI/C&P/RfS/2GW Manufacturing/P-3/R1/062019 dated 25.06.2019) for sale to entities having RPO, irrespective of whether this power is within RPO or not."
+    },
+    {
+     "source": "ISTS charges waiver for Solar PV power plants",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ISTS waiver",
+     "evidence": "ISTS charges shall be waived for Solar PV power plants commissioned under SECI Tender for manufacturing linked capacity scheme ..."
+    }
+   ]
+  }
+ }
+}

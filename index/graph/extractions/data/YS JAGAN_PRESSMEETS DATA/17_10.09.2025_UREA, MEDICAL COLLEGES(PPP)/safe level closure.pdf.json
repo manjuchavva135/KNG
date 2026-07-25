@@ -1,0 +1,155 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a6a6daeb53baafd80e3217f06c108d6c2b717a77": {
+   "entities": [
+    {
+     "name": "M.T. Krishna Babu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Parvathipuram Medical College",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri, Guntur District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (FMU-HM&FW) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HM&FW Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government permits MD, APMSIDC to cancel the tenders of Parvathipuram Medical College.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "M.T. Krishna Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "Government permits MD, APMSIDC to cancel the tenders of Parvathipuram Medical College.",
+     "evidence": "Government also hereby permits the MD, APMSIDC to cancel the tenders of Parvathipuram Medical College."
+    },
+    {
+     "source": "APMSIDC",
+     "relation": "LOCATED_IN",
+     "target": "Mangalagiri, Guntur District",
+     "evidence": "The Managing Director, Andhra Pradesh Medical Services & Infrastructure Development Corporation, Mangalagiri, Guntur District"
+    }
+   ]
+  },
+  "a3dff4f7fc20026b33cf1b352f46a590caed4063": {
+   "entities": [
+    {
+     "name": "GOVERNMENT OF ANDHRA PRADESH",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Health, Medical & Family Welfare Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MD, APMSIDC",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Managing Director, APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Medical Education",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Engineer-in-Chief (R&B) Buildings",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Engineer-in-Chief (Irrigation Dept)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Engineer, (R&B) Electrical",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Engineer, APIIC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Engineer, APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PPP models",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "New Medical Colleges (Phase-II and Phase-III)",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Committee constituted for physical inspection",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "MD, APMSIDC",
+     "relation": "MAKES_CLAIM",
+     "target": "Committee constituted for physical inspection",
+     "evidence": "the Government after careful examination of the matter, hereby constitute a committee"
+    }
+   ]
+  }
+ }
+}

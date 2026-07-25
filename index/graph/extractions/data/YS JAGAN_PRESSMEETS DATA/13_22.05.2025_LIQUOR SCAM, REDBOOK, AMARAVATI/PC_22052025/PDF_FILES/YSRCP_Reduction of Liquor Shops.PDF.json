@@ -1,0 +1,406 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b482a4ebf41ce7c0eb94f10b1d903500dfd40008": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NDPL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "The Government has taken steps to control interstate illicit Distillation and NDPL trade.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e174a6b7d6e1add1fb42a4ce28d2b069c28e190a": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ARET",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "G.O. Ms No 422 Revenue (Excise.II) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O. Ms No 471 Revenue (Excise.II) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O. Ms No 491, Revenue (Excise.II) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O. MS No 128 Rev (Excise.II) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O. MS No. 129 Revenue (Excise.II) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "price of liquor was increased to act as a deterrent",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ca1138fc994021e63f1bcf352c8814a9305af8ba": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Prohibition & Excise",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Beverages Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Gazette",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Prohibition & Excise, A.P.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue (Excise.II) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Government has committed itself to reducing Alcohol consumption in the state.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Government removed 43000 Belt shops spread across various villages, throughout the state.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The maximum possession limit of Liquor and Beer has been reduced to 3 bottles of any size.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Business hours have been reduced from 10.00 am – 10.00 pm to 11.00 am – 8.00 pm.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Government reduced the number of shops from 4380 to 3500.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The A.P. State Beverages Corporation Limited was granted exclusive privilege to run these retail outlets in the State.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "AP State Beverages Corporation Limited",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in the State"
+    },
+    {
+     "source": "Prohibition & Excise",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "throughout the state"
+    },
+    {
+     "source": "Revenue (Excise.II) Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "throughout the state"
+    },
+    {
+     "source": "Commissioner of Prohibition & Excise, A.P.",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "A.P."
+    }
+   ]
+  },
+  "6480a3b703361fcd8ec5f77e8aa5d80b4d0fc661": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Madya Vimochana Prachara Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "A category villages",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mahila Rakshaks",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mahila Mitras",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Grama volunteers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ward volunteers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Government",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "all over the State"
+    },
+    {
+     "source": "Madya Vimochana Prachara Committee",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "all over the State"
+    },
+    {
+     "source": "A category villages",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "in which illicit Distillation of liquor is widespread"
+    },
+    {
+     "source": "Mahila Rakshaks",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "utilizing the services of Mahila Rakshaks ... all over the State"
+    },
+    {
+     "source": "Mahila Mitras",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "utilizing the services of Mahila Mitras ... all over the State"
+    },
+    {
+     "source": "Grama volunteers",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "utilizing the services of Grama volunteers ... all over the State"
+    },
+    {
+     "source": "Ward volunteers",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "utilizing the services of Ward volunteers ... all over the State"
+    },
+    {
+     "source": "Claim1",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "Claim2",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "Claim3",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    }
+   ]
+  },
+  "36b092216e04fcca7de8058730e66905ed412acd": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. State Beverages Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Prohibition & Excise",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Managing Director",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dr. RAJAT BHARGAVA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Special Chief Secretary TO GOVERNMENT",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner of Printing and Stationery and Stores Purchase, A.P., Vijayawada",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy Chief Minister (Excise & CT)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Secretary",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Special Chief Secretary to Govt. Revenue (CT, P&E, R&S)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. Secretariat, Velagapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "NAVARATNALU Programme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Commitment to reduce liquor shops to 33% by end of May 2020",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Dr. RAJAT BHARGAVA",
+     "relation": "MAKES_CLAIM",
+     "target": "Commitment to reduce liquor shops to 33% by end of May 2020",
+     "evidence": "Government is committed to further reduce the number of Shops ... to 33% ... by the end of May 2020."
+    },
+    {
+     "source": "A.P. State Beverages Corporation Limited",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Vijayawada"
+    },
+    {
+     "source": "Commissioner of Prohibition & Excise",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Vijayawada"
+    },
+    {
+     "source": "Commitment to reduce liquor shops to 33% by end of May 2020",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    }
+   ]
+  }
+ }
+}

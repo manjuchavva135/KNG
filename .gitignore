@@ -11,8 +11,11 @@ __pycache__/
 .ruff_cache/
 
 # generated artifacts / indexes (portable output lives here, not in git)
-index/
-extracted/
+# index/ and extracted/ ARE committed, so cloning the repo reproduces the whole
+# project without a separate artifact transfer. They are ~204 MB of mostly
+# binary LanceDB data: every re-index rewrites those files, so each re-run adds
+# another full copy to git history. If the repo gets unwieldy, ignore them again
+# and use `scripts/package_index.sh` instead.
 *.lancedb
 
 # node / web
@@ -21,7 +24,10 @@ web/.next/
 web/dist/
 
 # large source media — 584 MB corpus, not pushed to GitHub
-data/
+# Anchored with a leading slash: an unanchored `data/` also matches
+# `extracted/data/` and `index/chunks/data/`, which silently excluded most of the
+# committed index. Only the top-level source archive should be ignored.
+/data/
 
 # os
 .DS_Store

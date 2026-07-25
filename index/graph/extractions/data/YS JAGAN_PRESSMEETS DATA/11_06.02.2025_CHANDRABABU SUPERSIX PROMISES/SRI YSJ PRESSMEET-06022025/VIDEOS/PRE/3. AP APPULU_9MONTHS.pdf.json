@@ -1,0 +1,206 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "73cf40bb30f9a380c7568d91ac9b9b91e8517e40": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "హడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "కేఎఫ్ డబ్ల్యూ",
+     "type": "Organization",
+     "english_name": "KfW"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "సీఆర్డీయే",
+     "type": "Organization",
+     "english_name": "CRDA"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "అమరావతి కోసం కొత్తగా చేయబోతున్న అప్పు",
+     "type": "Issue",
+     "english_name": "Amaravati loans"
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Claim",
+     "english_name": "Super Six promises"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్ ప్రామిసెస్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "చంద్రబాబు సూపర్ సిక్స్ ప్రామిసెస్"
+    },
+    {
+     "source": "SUPERSIX PROMISES",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అమరావతి కోసం కొత్తగా చేయబోతున్న అప్పు",
+     "evidence": "అమరావతి కోసం కొత్తగా చేయబోతున్న అప్పు"
+    }
+   ]
+  },
+  "4426ef82413aec1c81db21e6b764932043b63ef3": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా",
+     "type": "Organization",
+     "english_name": "Reserve Bank of India"
+    },
+    {
+     "name": "హడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Alliance"
+    },
+    {
+     "name": "అప్పులవారం",
+     "type": "Issue",
+     "english_name": "Debt Week"
+    },
+    {
+     "name": "అప్పులు",
+     "type": "Issue",
+     "english_name": "Debt"
+    },
+    {
+     "name": "బడ్జెట్ అప్పులు రూ.80,827 కోట్లకు చేరాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి మంగళవారం అప్పుల వారంగా మారింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సర్కార్ రూ.6,000 కోట్ల అప్పు చేసేందుకు సిద్ధమైంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్, సూపర్ సెవెన్ హామీలు అమలు చేయకపోవడంతో రాష్ట్ర ప్రజలు తీవ్ర ఆగ్రహం వ్యక్తం చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ గ్యారెంటీతో తెచ్చిన అప్పులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్బీఐ సమీకరించి రాష్ట్ర ప్రభుత్వానికి ఇవ్వనుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గత డిసెంబర్ 31 నాటికి రూ.74,827 కోట్లు బడ్జెట్లో అప్పులు చేసిన చంద్రబాబు సర్కార్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తాజాగా తెచ్చే రూ.6,000 కోట్లతో కలిపి బడ్జెట్లో రూ.80,827 కోట్లకు చేరనున్న అప్ప",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బడ్జెట్ అప్పులు రూ.80,827 కోట్లకు చేరాయి",
+     "evidence": "బడ్జెట్ అప్పులు రూ.80,827 కోట్లకు చేరాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి మంగళవారం అప్పుల వారంగా మారింది",
+     "evidence": "ప్రతి మంగళవారం అప్పుల వారంగా మారింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు సర్కార్ రూ.6,000 కోట్ల అప్పు చేసేందుకు సిద్ధమైంది",
+     "evidence": "చంద్రబాబు సర్కార్ రూ.6,000 కోట్ల అప్పు చేసేందుకు సిద్ధమైంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్ సిక్స్, సూపర్ సెవెన్ హామీలు అమలు చేయకపోవడంతో రాష్ట్ర ప్రజలు తీవ్ర ఆగ్రహం వ్యక్తం చేస్తున్నారు",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్ హామీలు అమలు చేయకపోవడంతో రాష్ట్ర ప్రజలు తీవ్ర ఆగ్రహం వ్యక్తం చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ గ్యారెంటీతో తెచ్చిన అప్పులు",
+     "evidence": "ప్రభుత్వ గ్యారెంటీతో తెచ్చిన అప్పులు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆర్బీఐ సమీకరించి రాష్ట్ర ప్రభుత్వానికి ఇవ్వనుంది",
+     "evidence": ""
+    }
+   ]
+  }
+ }
+}

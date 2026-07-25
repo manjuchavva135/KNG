@@ -1,0 +1,132 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "22f616db6aff406f3414153f7ed178b86463fb17": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "PSA",
+     "type": "Scheme",
+     "english_name": "Power Purchase Agreement"
+    },
+    {
+     "name": "Buying Entity",
+     "type": "Organization",
+     "english_name": "Buying Entity"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Appropriate Commission",
+     "type": "Organization",
+     "english_name": "Appropriate Commission"
+    },
+    {
+     "name": "STU/SLDC",
+     "type": "Organization",
+     "english_name": "STU/SLDC"
+    },
+    {
+     "name": "SPD",
+     "type": "Organization",
+     "english_name": "SPD"
+    },
+    {
+     "name": "CTU",
+     "type": "Organization",
+     "english_name": "CTU"
+    },
+    {
+     "name": "RLDC/SLDC",
+     "type": "Organization",
+     "english_name": "RLDC/SLDC"
+    },
+    {
+     "name": "Jain J Psydeedr Dr - Kew",
+     "type": "Person",
+     "english_name": "Jain J Psydeedr Dr - Kew"
+    },
+    {
+     "name": "కుబేరి",
+     "type": "Person",
+     "english_name": "కుబేరి"
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Issue",
+     "english_name": "ISTS waiver"
+    },
+    {
+     "name": "Claim - Ensure off take of the available capacity from the Commercial Operation Date of the Project",
+     "type": "Claim",
+     "english_name": "Ensure off take of the available capacity from the Commercial Operation Date of the Project"
+    },
+    {
+     "name": "Claim - Ensure availability of the interconnection facility and evacuation of power from the CTU/STU interface of Buying Entity's state periphery from the Commercial Operation Date of the Project",
+     "type": "Claim",
+     "english_name": "Ensure availability of the interconnection facility and evacuation of power from the CTU/STU interface of Buying Entity's state periphery from the Commercial Operation Date of the Project"
+    },
+    {
+     "name": "Claim - be responsible for payment of the Andhra Pradesh state transmission related charges and applicable RLDC/SLDC Charges, limited to the charges applicable to the Contracted Capacity of Buying Entity under this Agreement, as determined by Appropriate Commission from time to time",
+     "type": "Claim",
+     "english_name": "be responsible for payment of the Andhra Pradesh state transmission related charges and applicable RLDC/SLDC Charges, limited to the charges applicable to the Contracted Capacity of Buying Entity under this Agreement, as determined by Appropriate Commission from time to time"
+    },
+    {
+     "name": "Claim - Make payment of the Monthly Bill/Supplementary Bill by the Due Date",
+     "type": "Claim",
+     "english_name": "Make payment of the Monthly Bill/Supplementary Bill by the Due Date"
+    },
+    {
+     "name": "Claim - Open and maintain Payment Security Mechanism as per Article 6.4 for the entire Term of the Agreement",
+     "type": "Claim",
+     "english_name": "Open and maintain Payment Security Mechanism as per Article 6.4 for the entire Term of the Agreement"
+    },
+    {
+     "name": "Claim - Arrange for required consent/NOC from STU/SLDC/concerned agencies in the State of Andhra Pradesh for availing open access/scheduling of the power, within 30 days of acceptance of such application from the SPD",
+     "type": "Claim",
+     "english_name": "Arrange for required consent/NOC from STU/SLDC/concerned agencies in the State of Andhra Pradesh for availing open access/scheduling of the power, within 30 days of acceptance of such application from the SPD"
+    },
+    {
+     "name": "Claim - Obtain necessary approval/adoption of PSA along with tariff, trading margin and contracted capacity",
+     "type": "Claim",
+     "english_name": "Obtain necessary approval/adoption of PSA along with tariff, trading margin and contracted capacity"
+    },
+    {
+     "name": "Claim - Fulfil all the obligations undertaken by Buying Entity under this Agreement",
+     "type": "Claim",
+     "english_name": "Fulfil all the obligations undertaken by Buying Entity under this Agreement"
+    },
+    {
+     "name": "Claim - Buying entity shall not be liable for any payments to be made for any ISTS charges, open access, CTU scheduling charges (if any) and any other charges from injection/delivery point to the receiving substation(s) of Buying Entity",
+     "type": "Claim",
+     "english_name": "Buying entity shall not be liable for any payments to be made for any ISTS charges, open access, CTU scheduling charges (if any) and any other charges from injection/delivery point to the receiving substation(s) of Buying Entity"
+    },
+    {
+     "name": "Claim - Buyer shall neither be liable for obtaining the open access nor for any payments to be made for such open access to the concerned STU/CTU by Buying Entity",
+     "type": "Claim",
+     "english_name": "Buyer shall neither be liable for obtaining the open access nor for any payments to be made for such open access to the concerned STU/CTU by Buying Entity"
+    },
+    {
+     "name": "Claim - This agreement is based on the waiver of the inter-state transmission charges for the conveyance of power namely Open Access Charges, CTU charges, scheduling charges",
+     "type": "Claim",
+     "english_name": "This agreement is based on the waiver of the inter-state transmission charges for the conveyance of power namely Open Access Charges, CTU charges, scheduling charges"
+    }
+   ],
+   "relations": [
+    {
+     "source": "PSA",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ISTS waiver",
+     "evidence": "Class 3.2 of PSA providing for ISTS waiver"
+    }
+   ]
+  }
+ }
+}

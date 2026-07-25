@@ -1,0 +1,1893 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "34804e96095993038ebec5f418a42f86a115dbb8": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అదానీ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గూగుల్‌ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం దందా",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "వ్యవస్థీకృతంగా కొనసాగుతున్న నకిలీ మద్యం దందా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నాడు తమ హయాంలో బీజం పడిన అదానీ డేటా సెంటర్‌ను ఇప్పుడు గూగుల్‌ డేటా సెంటర్‌గా చెబుతూ, విపరీతంగా ప్రచారం చేసుకుంటున్నారని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కూటమి ప్రభుత్వ నిర్వాకం వల్ల రాష్ట్రంలో అన్ని వ్యవస్థలూ నిర్వీర్యం అయ్యాయి.. ముఖ్యంగా విద్య, వైద్యం, వ్యవసాయ రంగాలు సర్వనాశనం అయ్యాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏ ఒక్క మేలు చేయకుండా, సీఎం చంద్రబాబు, ఉద్యోగులను దారుణంగా మోసం చేశారని",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "తెలుగుదేశం పార్టీ నాయకులు, ఎమ్మెల్యేలు, తెలుగుదేశం మనుషులు నడుపుతున్నారో చూస్తున్నాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "వ్యవస్థీకృతంగా కొనసాగుతున్న నకిలీ మద్యం దందా",
+     "evidence": "రాష్ట్రంలో వ్యవస్థీకృతంగా కొనసాగుతున్న నకిలీ మద్యం దందాతో ప్రజల ఆరోగ్యం, ఫణంగా పెట్టి మద్యం మాఫియా కోట్లు గడిస్తోందని"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "నాడు తమ హయాంలో బీజం పడిన అదానీ డేటా సెంటర్‌ను ఇప్పుడు గూగుల్‌ డేటా సెంటర్‌గా చెబుతూ, విపరీతంగా ప్రచారం చేసుకుంటున్నారని",
+     "evidence": "నాడు తమ హయాంలో బీజం పడిన అదానీ డేటా సెంటర్‌ను ఇప్పుడు గూగుల్‌ డేటా సెంటర్‌గా చెబుతూ, విపరీతంగా ప్రచారం చేసుకుంటున్నారని"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "కూటమి ప్రభుత్వ నిర్వాకం వల్ల రాష్ట్రంలో అన్ని వ్యవస్థలూ నిర్వీర్యం అయ్యాయి.. ముఖ్యంగా విద్య, వైద్యం, వ్యవసాయ రంగాలు సర్వనాశనం అయ్యాయి",
+     "evidence": "కూటమి ప్రభుత్వ నిర్వాకం వల్ల రాష్ట్రంలో అన్ని వ్యవస్థలూ నిర్వీర్యం అయ్యాయి.. ముఖ్యంగా విద్య, వైద్యం, వ్యవసాయ రంగాలు సర్వనాశనం అయ్యాయి"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏ ఒక్క మేలు చేయకుండా, సీఎం చంద్రబాబు, ఉద్యోగులను దారుణంగా మోసం చేశారని",
+     "evidence": "ఏ ఒక్క మేలు చేయకుండా, సీఎం చంద్రబాబు, ఉద్యోగులను దారుణంగా మోసం చేశారని"
+    },
+    {
+     "source": "అదానీ డేటా సెంటర్‌",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖ",
+     "evidence": ""
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఏ ఒక్క మేలు చేయకుండా, సీఎం చంద్రబాబు, ఉద్యోగులను దారుణంగా మోసం చేశారని"
+    },
+    {
+     "source": "వ్యవస్థీకృతంగా కొనసాగుతున్న నకిలీ మద్యం దందా",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ మద్యం దందా",
+     "evidence": ""
+    }
+   ]
+  },
+  "ac29fe2ad5ac8c25bce9fc9546bc0bb5f2149e15": {
+   "entities": [
+    {
+     "name": "Molakalacheruvu",
+     "type": "Place",
+     "english_name": "Molakalacheruvu"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Ibrahimpatnam",
+     "type": "Place",
+     "english_name": "Ibrahimpatnam"
+    },
+    {
+     "name": "Paravada",
+     "type": "Place",
+     "english_name": "Paravada"
+    },
+    {
+     "name": "Amalapuram",
+     "type": "Place",
+     "english_name": "Amalapuram"
+    },
+    {
+     "name": "Palakollu",
+     "type": "Place",
+     "english_name": "Palakollu"
+    },
+    {
+     "name": "Eluru",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "Repalle",
+     "type": "Place",
+     "english_name": "Repalle"
+    },
+    {
+     "name": "Nellore",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "Police Commissioner",
+     "type": "Person",
+     "english_name": "Police Commissioner"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "Special Investigation Team"
+    },
+    {
+     "name": "మా పార్టీ",
+     "type": "Party",
+     "english_name": "Our Party"
+    },
+    {
+     "name": "Fake liquor",
+     "type": "Issue",
+     "english_name": "Fake liquor"
+    },
+    {
+     "name": "Claim: 20,208 bottles of fake liquor found in Molakalacheruvu",
+     "type": "Claim",
+     "english_name": "20,208 bottles of fake liquor found in Molakalacheruvu"
+    },
+    {
+     "name": "Claim: 8,166 bottles also seized",
+     "type": "Claim",
+     "english_name": "8,166 bottles also seized"
+    },
+    {
+     "name": "Claim: 1050 liters of spirit found in 30 cans",
+     "type": "Claim",
+     "english_name": "1050 liters of spirit found in 30 cans"
+    },
+    {
+     "name": "Claim: Fake liquor factory found in Ibrahimpatnam",
+     "type": "Claim",
+     "english_name": "Fake liquor factory found in Ibrahimpatnam"
+    },
+    {
+     "name": "Claim: 27,224 bottles of fake liquor found in Ibrahimpatnam",
+     "type": "Claim",
+     "english_name": "27,224 bottles of fake liquor found in Ibrahimpatnam"
+    },
+    {
+     "name": "Claim: Fake liquor factories found in Paravada, Amalapuram, Palakollu, Eluru, Repalle, Nellore",
+     "type": "Claim",
+     "english_name": "Fake liquor factories found in Paravada, Amalapuram, Palakollu, Eluru, Repalle, Nellore"
+    },
+    {
+     "name": "Claim: They would manufacture several lakh bottles",
+     "type": "Claim",
+     "english_name": "They would manufacture several lakh bottles"
+    },
+    {
+     "name": "Claim: Distribution through private mafia shops, belt shops, illegal permit rooms",
+     "type": "Claim",
+     "english_name": "Distribution through private mafia shops, belt shops, illegal permit rooms"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Claim: 20,208 bottles of fake liquor found in Molakalacheruvu",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fake liquor",
+     "evidence": "ఒక్క మొలకలచెరువులోనే 20,208 బాటిళ్లలో నింపిన నకిలీ మద్యం దొరకగా"
+    },
+    {
+     "source": "Claim: 8,166 bottles also seized",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fake liquor",
+     "evidence": "మరో 8,166 బాటిళ్లకు సరిపడా మద్యం కూడా పట్టుబడింది"
+    },
+    {
+     "source": "Claim: 1050 liters of spirit found in 30 cans",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fake liquor",
+     "evidence": "ఇంకా 30 క్యాన్లలో సిద్ధం చేసిన 1050 లీటర్ల స్పిరిట్‌ కూడా అక్కడ లభ్యమైంది"
+    },
+    {
+     "source": "Claim: Fake liquor factory found in Ibrahimpatnam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fake liquor",
+     "evidence": "ఇబ్రహీంపట్నంలో మరో నకిలీ మద్యం ఫ్యాక్టరీ బయటపడింది"
+    },
+    {
+     "source": "Claim: 27,224 bottles of fake liquor found in Ibrahimpatnam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fake liquor",
+     "evidence": "ఇబ్రహీంపట్నంలో దొరికిన నకిలీ మద్యం దాదాపుగా 27,224 బాటిళ్లు"
+    },
+    {
+     "source": "Claim: Fake liquor factories found in Paravada, Amalapuram, Palakollu, Eluru, Repalle, Nellore",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fake liquor",
+     "evidence": "అనకాపల్లి జిల్లా పరవాడతో పాటు, అమలాపురం, పాలకొల్లు, ఏలూరు, రేపల్లె.. ఇంకా నెల్లూరులోనూ ఇదే మాదిరిగా మద్యం ఫ్యాక్టరీలు బయటపడ్డాయి"
+    }
+   ]
+  },
+  "85c7889cff5265a2eff36bb1162bb14cecd01ea9": {
+   "entities": [
+    {
+     "name": "అయ్యన్నపాత్రుడు",
+     "type": "Person",
+     "english_name": "Ayyannapadu"
+    },
+    {
+     "name": "రుత్తల రాము",
+     "type": "Person",
+     "english_name": "Ruthala Ramu"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "అనకాపల్లి జిల్లా పరవాడ",
+     "type": "Place",
+     "english_name": "Paravada, Anakapalli district"
+    },
+    {
+     "name": "అమలాపురం",
+     "type": "Place",
+     "english_name": "Amalapuram"
+    },
+    {
+     "name": "పాలకొల్లు",
+     "type": "Place",
+     "english_name": "Palakollu"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "రేపల్లె",
+     "type": "Place",
+     "english_name": "Repalle"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Issue",
+     "english_name": "Fake liquor"
+    },
+    {
+     "name": "చంద్రబాబునాయుడుకు, ఆయన కొడుక్కు మాత్రమే సొంతం",
+     "type": "Claim",
+     "english_name": "Only Chandrababu Naidu and his son own it"
+    },
+    {
+     "name": "చంద్రబాబే నేరాలు చేస్తాడు",
+     "type": "Claim",
+     "english_name": "Chandrababu commits crimes"
+    },
+    {
+     "name": "చంద్రబాబు చేస్తున్న కుట్రలు అన్నీ ఇన్ని కావు",
+     "type": "Claim",
+     "english_name": "Chandrababu's conspiracies are many"
+    },
+    {
+     "name": "ప్రతి నాలుగైదు బాటిళ్లకు ఒక బాటిల్‌ నకిలీ మద్యం",
+     "type": "Claim",
+     "english_name": "One in four or five bottles is fake liquor"
+    },
+    {
+     "name": "నకిలీ మద్యం తయారీ ఫ్యాక్టరీలు బయటపడ్డాయి",
+     "type": "Claim",
+     "english_name": "Fake liquor factories have been exposed"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "చంద్రబాబే నేరాలు చేస్తాడు."
+    },
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియా సిద్ధం అవుతుంది."
+    },
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "ACCUSES",
+     "target": "రుత్తల రాము",
+     "evidence": "పరవాడలో నకిలీ మద్యం తయారు చేస్తున్నది ఎవరంటే స్పీకర్‌ అయ్యన్నపాత్రుడు సన్నిహితుడు రుత్తల రాము."
+    },
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబునాయుడుకు, ఆయన కొడుక్కు మాత్రమే సొంతం",
+     "evidence": "చంద్రబాబునాయుడుకు, ఆయన కొడుక్కు మాత్రమే సొంతం."
+    },
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబే నేరాలు చేస్తాడు",
+     "evidence": "చంద్రబాబే నేరాలు చేస్తాడు."
+    },
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చేస్తున్న కుట్రలు అన్నీ ఇన్ని కావు",
+     "evidence": "చంద్రబాబు చేస్తున్న కుట్రలు అన్నీ ఇన్ని కావు."
+    },
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి నాలుగైదు బాటిళ్లకు ఒక బాటిల్‌ నకిలీ మద్యం",
+     "evidence": "ప్రతి నాలుగైదు బాటిళ్లకు ఒక బాటిల్‌ నకిలీ మద్యం."
+    },
+    {
+     "source": "అయ్యన్నపాత్రుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "నకిలీ మద్యం తయారీ ఫ్యాక్టరీలు బయటపడ్డాయి",
+     "evidence": "నకిలీ మద్యం తయారీ ఫ్యాక్టరీలు బయటపడ్డాయి."
+    },
+    {
+     "source": "చంద్రబాబునాయుడుకు, ఆయన కొడుక్కు మాత్రమే సొంతం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ మద్యం",
+     "evidence": "చంద్రబాబునాయుడుకు, ఆయన కొడుక్కు మాత్రమే సొంతం."
+    },
+    {
+     "source": "చంద్రబాబే నేరాలు చేస్తాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ మద్యం",
+     "evidence": "చంద్రబాబే నేరాలు చేస్తాడు."
+    },
+    {
+     "source": "ప్రతి నాలుగైదు బాటిళ్లకు ఒక బాటిల్‌ నకిలీ మద్యం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ మద్యం",
+     "evidence": "ప్రతి నాలుగైదు బాటిళ్లకు ఒక బాటిల్‌ నకిలీ మద్యం."
+    }
+   ]
+  },
+  "a692c127e3e75b88c7d541e7f5d822e32bc03862": {
+   "entities": [
+    {
+     "name": "జనార్దన్‌రావు",
+     "type": "Person",
+     "english_name": "Janardhan Rao"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జయచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Jayachandra Reddy"
+    },
+    {
+     "name": "పెద్దిరెడ్డి రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Peddireddy Ramachandra Reddy"
+    },
+    {
+     "name": "ద్వారకానాథ్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Dwarakanath Reddy"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Ee Nadu"
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "టీడీపీ సోషల్‌ మీడియా",
+     "type": "Organization",
+     "english_name": "TDP Social Media"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Vizag"
+    },
+    {
+     "name": "నకిలీ లిక్కర్‌ ఫ్యాక్టరీ",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "ఫోన్‌ పోయిందని చెప్పిన జనార్దన్‌రావు",
+     "type": "Claim",
+     "english_name": "Janardhan Rao claimed his phone was lost"
+    },
+    {
+     "name": "నకిలీ లిక్కర్‌ ఫ్యాక్టరీ అక్టోబర్‌ 3న బయట పడితే ఇవాళ్టికి 20 రోజులైంది",
+     "type": "Claim",
+     "english_name": "Fake liquor factory was exposed on Oct 3, 20 days ago"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జనార్దన్‌రావు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఫోన్‌ పోయిందని చెప్పిన జనార్దన్‌రావు",
+     "evidence": "తన ఫోన్‌ పోయిందని చెప్పిన జనార్దన్‌రావు ఇవన్నీ ఎలా చేశాడు?"
+    },
+    {
+     "source": "ఫోన్‌ పోయిందని చెప్పిన జనార్దన్‌రావు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ లిక్కర్‌ ఫ్యాక్టరీ",
+     "evidence": "ఆ వీడియోను ఎలా బయటకు పంపగలిగారు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జయచంద్రారెడ్డి",
+     "evidence": "చంద్రబాబును సూటిగా అడుగుతున్నా. ఇప్పటికి కూడా వారి కంటెస్టెడ్‌ క్యాండేట్‌ జయచంద్రారెడ్డిని ఇంత వరకు ఎందుకు అరెస్టు చేయలేదు?"
+    }
+   ]
+  },
+  "25b10440ad7e6db5a7a876a9ef108c4a1e6200ba": {
+   "entities": [
+    {
+     "name": "జోగి రమేశ్‌",
+     "type": "Person",
+     "english_name": "Jogi Ramesh"
+    },
+    {
+     "name": "జనార్దన్‌రావు",
+     "type": "Person",
+     "english_name": "Janardhan Rao"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Issue",
+     "english_name": "Fake liquor"
+    },
+    {
+     "name": "సీబీఐ విచారణ చేయాలని డిమాండ్‌",
+     "type": "Claim",
+     "english_name": "Demand for CBI inquiry"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జోగి రమేశ్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "సీబీఐ విచారణ చేయాలని డిమాండ్‌",
+     "evidence": "జోగి రమేశ్‌ సీబీఐ విచారణ చేయాలని డిమాండ్‌ చేశారు"
+    },
+    {
+     "source": "సీబీఐ విచారణ చేయాలని డిమాండ్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ మద్యం",
+     "evidence": "నకిలీ మద్యం టాపిక్‌ను డైవర్ట్‌ చేసేందుకు మా నాయకుడు జోగి రమేశ్‌ మీద ఆరోపణలు చేశారు"
+    }
+   ]
+  },
+  "3a3f5e27daf099de1792248e4900b5a76df04e9f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "క్యూఆర్ కోడ్ సిస్టం",
+     "type": "Scheme",
+     "english_name": "QR code system"
+    },
+    {
+     "name": "నకిలీ లిక్కర్",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "ఎంప్యానల్డ్‌ డిస్టిలరీల",
+     "type": "Organization",
+     "english_name": "Empanelled distilleries"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ కార్యకర్తలు"
+    },
+    {
+     "source": "క్యూఆర్ కోడ్ సిస్టం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ లిక్కర్",
+     "evidence": "క్యూఆర్ కోడ్‌ సిస్టం ప్రవేశపెట్టాం"
+    }
+   ]
+  },
+  "245e428b9bffc96e69d160cdaf02a46434cb2007": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అదానీ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Adani Data Center"
+    },
+    {
+     "name": "గూగుల్‌",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "సింగపూర్‌",
+     "type": "Place",
+     "english_name": "Singapore"
+    },
+    {
+     "name": "టైమ్స్‌ ఆఫ్‌ ఇండియా",
+     "type": "Organization",
+     "english_name": "Times of India"
+    },
+    {
+     "name": "1000 మెగావాట్ల కొత్త ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "1000 MW New Project"
+    },
+    {
+     "name": "300 మెగావాట్ల ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "300 MW Project"
+    },
+    {
+     "name": "ప్రజల్ని తప్పుదోవ పట్టించేందుకు చంద్రబాబు వ్యవహరించిన తీరు తన సంకుచిత బుద్ధిని చాటుతుంది",
+     "type": "Claim",
+     "english_name": "Claim about Chandrababu misleading people"
+    },
+    {
+     "name": "విశాఖ నగరాన్ని",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజల్ని తప్పుదోవ పట్టించేందుకు చంద్రబాబు వ్యవహరించిన తీరు తన సంకుచిత బుద్ధిని చాటుతుంది",
+     "evidence": "ప్రజల్ని తప్పుదోవ పట్టించేందుకు చంద్రబాబు వ్యవహరించిన తీరు తన సంకుచిత బుద్ధిని చాటుతుంది."
+    },
+    {
+     "source": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "1000 మెగావాట్ల కొత్త ప్రాజెక్టు",
+     "evidence": "అదానీ పెట్టే 1000 మెగావాట్ల కొత్త ప్రాజెక్టు."
+    },
+    {
+     "source": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "300 మెగావాట్ల ప్రాజెక్టు",
+     "evidence": "అదానీ పెట్టిన 300 మెగావాట్ల ప్రాజెక్టుకు విస్తరణే."
+    },
+    {
+     "source": "అదానీ డేటా సెంటర్‌",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖ నగరాన్ని",
+     "evidence": "విశాఖ నగరాన్ని ఇంటర్నేషనల్‌ టెక్నాలజీ హబ్‌గా తీర్చిదిద్దే కార్యక్రమంలో భాగంగా"
+    }
+   ]
+  },
+  "3562c2be17bb60ebd9ea7fdfaf77d3b51360b08e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "గూగుల్‌",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "అదానీ ఇన్‌ ఫ్రా",
+     "type": "Organization",
+     "english_name": "Adani Infra"
+    },
+    {
+     "name": "అలెగ్జాండర్‌ స్మిత్",
+     "type": "Person",
+     "english_name": "Alexander Smith"
+    },
+    {
+     "name": "ఐటీ సెక్రటరీ భాస్కర్‌",
+     "type": "Person",
+     "english_name": "Bhaskar"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "సంజయ్‌ బుటానీ",
+     "type": "Person",
+     "english_name": "Sanjay Butani"
+    },
+    {
+     "name": "అదానీ",
+     "type": "Organization",
+     "english_name": "Adani"
+    },
+    {
+     "name": "చంద్రబాబు దాచి పెట్టాలని ప్రయత్నం చేశాడో",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డియర్‌ మిస్టర్‌ భాస్కర్‌.. థ్యాంక్యు ఫర్‌ దిస్‌ డిటెయిల్డ్‌ డిస్కషన్‌ దిస్‌ వీక్‌. ఐ పర్టిక్యులర్లీ ఆప్రిషియేట్‌ ఆల్‌ యువర్‌ ఎఫర్ట్స్‌ వైల్‌ యూ హావ్‌ బీన్‌ ట్రావలింగ్‌ ఇంటర్నేషనన్లీ..ఇన్‌ ఆర్డర్‌ టూ ఎన్‌ ష్యూర్‌ క్లియర్‌ కో ఆర్డినేషన్‌ ఆన్‌ ఆల్‌ మేటర్స్‌. రిలేటెడ్‌ టూ ల్యాండ్‌ ప్రిపరేషన్‌ అండ్‌ ఆలాట్‌ మెంట్‌.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "గూగుల్‌",
+     "evidence": "చంద్రబాబు దాచి పెట్టాలని ప్రయత్నం చేశాడో"
+    },
+    {
+     "source": "గూగుల్‌",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖ",
+     "evidence": "విశాఖలో గూగుల్‌కు మొన్న జరిగింది"
+    },
+    {
+     "source": "అదానీ ఇన్‌ ఫ్రా",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖ",
+     "evidence": "ఇక్కడ కూడా వైజాగ్‌లో అదానీ ఇన్‌ ఫ్రాకు సంబంధించిన కంపెనీలే"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు దాచి పెట్టాలని ప్రయత్నం చేశాడో",
+     "evidence": "చంద్రబాబు దాచి పెట్టాలని ప్రయత్నం చేశాడో"
+    }
+   ]
+  },
+  "38c1216edaa2145440616460392b122d7ae1f81f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "గూగుల్‌ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Google data center"
+    },
+    {
+     "name": "సైబర్‌ టవర్స్‌",
+     "type": "Place",
+     "english_name": "Cyber Towers"
+    },
+    {
+     "name": "మాదాపూర్‌",
+     "type": "Place",
+     "english_name": "Madhapur"
+    },
+    {
+     "name": "హైటెక్‌ సిటీ",
+     "type": "Place",
+     "english_name": "High-tech city"
+    },
+    {
+     "name": "ఎన్‌.జనార్దన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "N. Janardhan Reddy"
+    },
+    {
+     "name": "ఎల్‌ అండ్‌ టీ",
+     "type": "Organization",
+     "english_name": "L&T"
+    },
+    {
+     "name": "హైదరాబాద్‌",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "రాజశేఖరరెడ్డి",
+     "type": "Person",
+     "english_name": "Rajasekhara Reddy"
+    },
+    {
+     "name": "కేసీఆర్‌",
+     "type": "Person",
+     "english_name": "KCR"
+    },
+    {
+     "name": "గూగుల్‌ డేటా సెంటర్‌ తన గొప్ప అన్నట్లుగా ప్రచారం చేసుకుంటున్నారు",
+     "type": "Claim",
+     "english_name": "Google data center is his achievement"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గూగుల్‌ డేటా సెంటర్‌ తన గొప్ప అన్నట్లుగా ప్రచారం చేసుకుంటున్నారు",
+     "evidence": "చంద్రబాబు ప్రచారం చేసుకుంటున్నారు"
+    }
+   ]
+  },
+  "b28c682e032411a855d2cd2e6777124d0e34d90d": {
+   "entities": [
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "గూగుల్‌",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "అదానీ",
+     "type": "Organization",
+     "english_name": "Adani"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "సింగపూర్‌ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Singapore Government"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Data Center"
+    },
+    {
+     "name": "వైజాగ్‌",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్‌",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "జగన్‌ ప్రభుత్వం"
+    },
+    {
+     "source": "డేటా సెంటర్‌",
+     "relation": "LOCATED_IN",
+     "target": "వైజాగ్‌",
+     "evidence": "సింగపూర్, విశాఖపట్నం మధ్య"
+    }
+   ]
+  },
+  "bb6e2ebd53f89257f9a5517901ae1ed4890fb8f2": {
+   "entities": [
+    {
+     "name": "మిస్టర్‌ సంజయ్‌ బుటానీ",
+     "type": "Person",
+     "english_name": "Sanjay Butani"
+    },
+    {
+     "name": "అదానీ",
+     "type": "Organization",
+     "english_name": "Adani"
+    },
+    {
+     "name": "గూగుల్‌",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "భాస్కర్‌",
+     "type": "Person",
+     "english_name": "Bhaskar"
+    },
+    {
+     "name": "అదానీ ఇన్‌ ఫ్రా",
+     "type": "Organization",
+     "english_name": "Adani Infra"
+    },
+    {
+     "name": "రాడెన్‌ ఇన్‌ ఫో టెక్ ప్రై.లిమిటెడ్‌.",
+     "type": "Organization",
+     "english_name": "Reden Infotech Private Limited"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "సింగపూర్‌ గవర్నమెంట్",
+     "type": "Organization",
+     "english_name": "Singapore Government"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ గత ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP previous government"
+    },
+    {
+     "name": "ఏపీ గవర్నమెంట్‌",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "అదానీ రూ.87 వేల కోట్లు పెట్టుబడి పెడుతున్నారు",
+     "type": "Claim",
+     "english_name": "Adani investing Rs 87,000 crore"
+    },
+    {
+     "name": "గూగుల్‌ క్లయింట్‌గా వాడుకుంటుంది",
+     "type": "Claim",
+     "english_name": "Google will use as client"
+    },
+    {
+     "name": "చంద్రబాబు ఒప్పుకోరు",
+     "type": "Claim",
+     "english_name": "Chandrababu doesn't say the name"
+    },
+    {
+     "name": "చంద్రబాబు కనీసం థ్యాంక్యూ అని చెప్పాడా",
+     "type": "Claim",
+     "english_name": "Chandrababu didn't say thank you"
+    },
+    {
+     "name": "ఎందుకు భయపడుతున్నాడు క్రెడిట్‌ ఇవ్వడానికి?",
+     "type": "Claim",
+     "english_name": "Why is he scared to give credit?"
+    },
+    {
+     "name": "గూగుల్‌ ను తీసుకువచ్చే కార్యక్రమం జరుగుతోంది",
+     "type": "Claim",
+     "english_name": "Program to bring Google is happening"
+    },
+    {
+     "name": "వరల్డ్ లార్జెస్ట్‌ డేటా సెంటర్‌",
+     "type": "Claim",
+     "english_name": "World's largest data centre"
+    }
+   ],
+   "relations": []
+  },
+  "4437dd4f3202574d01058e5fede598caa8c1069a": {
+   "entities": [
+    {
+     "name": "అదానీ",
+     "type": "Person",
+     "english_name": "Adani"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "సింగపూర్‌ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Singapore Government"
+    },
+    {
+     "name": "గూగుల్‌",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "మధురవాడ",
+     "type": "Place",
+     "english_name": "Madhurawada"
+    },
+    {
+     "name": "కాపులుప్పాడ",
+     "type": "Place",
+     "english_name": "Kapuluppada"
+    },
+    {
+     "name": "సింగపూర్‌",
+     "type": "Place",
+     "english_name": "Singapore"
+    },
+    {
+     "name": "ఐటీ పార్క్‌",
+     "type": "Organization",
+     "english_name": "IT Park"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "క్రెడిట్‌ చోర్‌",
+     "type": "Claim",
+     "english_name": "Credit thief"
+    },
+    {
+     "name": "25 వేల జాబులు",
+     "type": "Claim",
+     "english_name": "25 thousand jobs"
+    },
+    {
+     "name": "25 వేల ఉద్యోగాలు",
+     "type": "Claim",
+     "english_name": "25 thousand jobs"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "క్రెడిట్‌ చోర్‌",
+     "evidence": "చంద్రబాబు క్రెడిట్‌ చోర్‌:"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "25 వేల జాబులు",
+     "evidence": "ఆరోజు అదానీకి మేం చేసుకున్న అండర్‌ స్టాండింగ్‌ కాపీ మీరు చూస్తే 25 వేల జాబులు కూడా ఇవ్వాలన్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "25 వేల ఉద్యోగాలు",
+     "evidence": "ఐటీ పార్క్‌ పెట్టాలి. స్కిల్‌ కాలేజీ, రిక్రియేషన్‌ సెంటర్, స్కిల్‌ సెంటర్‌ ఇవన్నీ కూడా పెట్టాలని, వీటి ద్వారా 25 వేల ఉద్యోగాలు ఇవ్వాలని పార్ట్‌ ఆఫ్‌ ది అగ్రిమెంట్‌ చేశాం మేము అప్పట్లో."
+    }
+   ]
+  },
+  "2588d8f1c27303d76d2ef26ae7ee8b5ed63adac5": {
+   "entities": [
+    {
+     "name": "కేసీఆర్‌",
+     "type": "Person",
+     "english_name": "KCR"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "హైదరాబాద్‌",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "రాజశేఖరరెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Rajasekhara Reddy"
+    },
+    {
+     "name": "ఓఆర్‌ఆర్‌",
+     "type": "Organization",
+     "english_name": "Outer Ring Road"
+    },
+    {
+     "name": "పీవీ నరసింహారావు ఎక్స్‌ ప్రెస్‌ వే",
+     "type": "Place",
+     "english_name": "PV Narasimha Rao Express Way"
+    },
+    {
+     "name": "జీఎంఆర్‌ ఇంటర్నేషనల్‌ ఎయిర్‌ పోర్టు",
+     "type": "Organization",
+     "english_name": "GMR International Airport"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "ఆంధ్ర",
+     "type": "Place",
+     "english_name": "Andhra"
+    },
+    {
+     "name": "హైదరాబాద్‌ అంతా నేనే కట్టేశాను.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఐటీ ఎక్స్‌ పోర్ట్స్‌ తెలంగాణ నుంచి రూ.2 లక్షల కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "కేసీఆర్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు నాయుడు",
+     "evidence": "చంద్రబాబు నాయుడుకు హైదరాబాద్‌ కు ఎటువంటి సంబంధం లేదు."
+    },
+    {
+     "source": "కేసీఆర్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "హైదరాబాద్‌ అంతా నేనే కట్టేశాను.",
+     "evidence": "హైదరాబాద్‌ అంతా నేనే కట్టేశాను."
+    },
+    {
+     "source": "కేసీఆర్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "ఐటీ ఎక్స్‌ పోర్ట్స్‌ తెలంగాణ నుంచి రూ.2 లక్షల కోట్లు.",
+     "evidence": "ఐటీ ఎక్స్‌ పోర్ట్స్‌ తెలంగాణ నుంచి రూ.2 లక్షల కోట్లు."
+    },
+    {
+     "source": "ఓఆర్‌ఆర్‌",
+     "relation": "LOCATED_IN",
+     "target": "హైదరాబాద్‌",
+     "evidence": "ఓఆర్‌ఆర్‌ ఫేస్‌ 1. మొత్తం 126 కి.మీ."
+    },
+    {
+     "source": "పీవీ నరసింహారావు ఎక్స్‌ ప్రెస్‌ వే",
+     "relation": "LOCATED_IN",
+     "target": "హైదరాబాద్‌",
+     "evidence": "పీవీ నరసింహారావు ఎక్స్‌ ప్రెస్‌ వే."
+    },
+    {
+     "source": "జీఎంఆర్‌ ఇంటర్నేషనల్‌ ఎయిర్‌ పోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "హైదరాబాద్‌",
+     "evidence": "జీఎంఆర్‌ ఇంటర్నేషనల్‌ ఎయిర్‌ పోర్టు."
+    },
+    {
+     "source": "హైదరాబాద్‌",
+     "relation": "LOCATED_IN",
+     "target": "తెలంగాణ",
+     "evidence": "హైదరాబాద్‌ అంతా నేనే కట్టేశాను."
+    }
+   ]
+  },
+  "27af8c3ad16145b5b0b1ea67c9da460ff9b50054": {
+   "entities": [
+    {
+     "name": "కేసీఆర్‌ గారు",
+     "type": "Person",
+     "english_name": "K. Chandrashekar Rao"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "ఉత్తరాంధ్ర",
+     "type": "Place",
+     "english_name": "North Andhra"
+    },
+    {
+     "name": "హైదరాబాదు",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bangalore"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "భోగాపురం ఇంటర్నేషనల్‌ ఎయిర్‌ పోర్టు",
+     "type": "Scheme",
+     "english_name": "Bhogapuram International Airport"
+    },
+    {
+     "name": "మూలపేట కొత్త పోర్టు",
+     "type": "Scheme",
+     "english_name": "Moolapet Port"
+    },
+    {
+     "name": "విజయనగరంలో మెడికల్‌ కాలేజ్‌",
+     "type": "Scheme",
+     "english_name": "Medical College in Vijayanagara"
+    },
+    {
+     "name": "రూ.5,660 కోట్లు నువ్వు వదిలేసింది?",
+     "type": "Claim",
+     "english_name": "Rs 5,660 crores left by you?"
+    },
+    {
+     "name": "రూ.2 లక్షల కోట్లు.",
+     "type": "Claim",
+     "english_name": "Rs 2 lakh crores."
+    }
+   ],
+   "relations": []
+  },
+  "bc975a0cb1fb413e8340a13bf5b1e8d632c436b1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "డీఏ పెండింగ్",
+     "type": "Issue",
+     "english_name": "DA pending"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "చంద్రబాబు ప్రచారం నిజంగా ఎలా ఉంటుందంటే.. ఉద్యోగులకు ఇచ్చిన డీఏ చిన్న ఉదాహరణ.",
+     "type": "Claim",
+     "english_name": "Chandrababu's propaganda about DA"
+    },
+    {
+     "name": "చంద్రబాబు జీవో ఇచ్చాడు.",
+     "type": "Claim",
+     "english_name": "Chandrababu issued a GO"
+    },
+    {
+     "name": "వైఎస్సార్‌ సీపీ హయాంలో 11 డీఏలు ఇచ్చాం.",
+     "type": "Claim",
+     "english_name": "YSRCP gave 11 DAs"
+    },
+    {
+     "name": "ప్రభుత్వ సేవలు లంచాలు లేకుండా పొందగలమనే అభిప్రాయం ప్రజల్లో స్వచ్ఛందంగా నిరూపించగలిగాం.",
+     "type": "Claim",
+     "english_name": "Government services without bribes"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ప్రచారం నిజంగా ఎలా ఉంటుందంటే.. ఉద్యోగులకు ఇచ్చిన డీఏ చిన్న ఉదాహరణ.",
+     "evidence": "చంద్రబాబు ప్రచారం నిజంగా ఎలా ఉంటుందంటే.. ఉద్యోగులకు ఇచ్చిన డీఏ చిన్న ఉదాహరణ."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు జీవో ఇచ్చాడు.",
+     "evidence": "చంద్రబాబు జీవో ఇచ్చాడు."
+    },
+    {
+     "source": "చంద్రబాబు ప్రచారం నిజంగా ఎలా ఉంటుందంటే.. ఉద్యోగులకు ఇచ్చిన డీఏ చిన్న ఉదాహరణ.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డీఏ పెండింగ్",
+     "evidence": "చంద్రబాబు ప్రచారం నిజంగా ఎలా ఉంటుందంటే.. ఉద్యోగులకు ఇచ్చిన డీఏ చిన్న ఉదాహరణ."
+    },
+    {
+     "source": "చంద్రబాబు జీవో ఇచ్చాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డీఏ పెండింగ్",
+     "evidence": "చంద్రబాబు జీవో ఇచ్చాడు."
+    },
+    {
+     "source": "వైఎస్సార్‌ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నాడు–నేడు",
+     "evidence": "నాడు–నేడు అయితేనేమీ, డిజిటల్‌ క్లాస్‌ రూమ్స్, టోఫిల్‌ క్లాస్‌లు, 8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు, సీబీఎస్‌ఈ కాదు ఐబీ సిలబస్‌ తీసుకువచ్చే కార్యక్రమానికి శ్రీకారం చుట్టాం."
+    }
+   ]
+  },
+  "d242d06adc45451e62a6c1398cd0b2cab3b56049": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఐఆర్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "జీతాలు మీరు రెండు నెలలు వదిలేసుకోండి.. రాష్ట్రం కోసం కాంట్రిబ్యూట్‌ చేయండి అని పిలుపునిచ్చేవాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాలంటీర్లకు ఇచ్చే జీతం రూ.5 వేల నుంచి రూ.10 వేలకు పెంచుతానన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉన్న ఉద్యోగాలన్నీ పీకేశాడు. 2.66 లక్షల మందిని రోడ్డునపడేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేము అధికారంలోకి వచ్చిన వారం రోజుల్లోనే ఐఆర్‌ ఇచ్చి ఉద్యోగస్తుల జీతాలు పెంచాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "జీతాలు మీరు రెండు నెలలు వదిలేసుకోండి.. రాష్ట్రం కోసం కాంట్రిబ్యూట్‌ చేయండి అని పిలుపునిచ్చేవాడు",
+     "evidence": "జీతాలు మీరు రెండు నెలలు వదిలేసుకోండి.. రాష్ట్రం కోసం కాంట్రిబ్యూట్‌ చేయండి అని పిలుపునిచ్చేవాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వాలంటీర్లకు ఇచ్చే జీతం రూ.5 వేల నుంచి రూ.10 వేలకు పెంచుతానన్నాడు",
+     "evidence": "వాలంటీర్లకు ఇచ్చే జీతం రూ.5 వేల నుంచి రూ.10 వేలకు పెంచుతానన్నాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉన్న ఉద్యోగాలన్నీ పీకేశాడు. 2.66 లక్షల మందిని రోడ్డునపడేశాడు.",
+     "evidence": "ఉన్న ఉద్యోగాలన్నీ పీకేశాడు. 2.66 లక్షల మందిని రోడ్డునపడేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మేము అధికారంలోకి వచ్చిన వారం రోజుల్లోనే ఐఆర్‌ ఇచ్చి ఉద్యోగస్తుల జీతాలు పెంచాం.",
+     "evidence": "మేము అధికారంలోకి వచ్చిన వారం రోజుల్లోనే ఐఆర్‌ ఇచ్చి ఉద్యోగస్తుల జీతాలు పెంచాం."
+    }
+   ]
+  },
+  "77ea9b8f6269f3b36da2362539c97dad4f1eaa0c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "ఓపీఎస్‌",
+     "type": "Scheme",
+     "english_name": "Old Pension Scheme"
+    },
+    {
+     "name": "జీపీఎస్‌",
+     "type": "Scheme",
+     "english_name": "General Provident Scheme"
+    },
+    {
+     "name": "పీఆర్సీ",
+     "type": "Scheme",
+     "english_name": "Pay Revision Committee"
+    },
+    {
+     "name": "ఐఆర్‌",
+     "type": "Scheme",
+     "english_name": "Incremental Relief"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఉద్యోగుల జీతాలు",
+     "type": "Issue",
+     "english_name": "Employee Salary Issue"
+    },
+    {
+     "name": "పీఆర్సీ బకాయిలు",
+     "type": "Issue",
+     "english_name": "PRC Dues Issue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఓపీఎస్‌",
+     "evidence": "ఓపీఎస్‌ అంటూ ఎన్నికలకు ముందు నమ్మబలికాడు."
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీపీఎస్‌",
+     "evidence": "మేము తెచ్చిన జీపీఎస్‌ను కొనియాడుతూ కేంద్ర ప్రభుత్వం దగ్గర్నుంచి అనేక రాష్ట్రాలు దీన్ని స్వీకరిస్తూ ముందుకు పోతున్నాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "అందులో రూ.105 కోట్లు ఇప్పుడిస్తాడట (అదీ ఇవ్వలేదు), మిగిలిన రూ.105 కోట్లు జనవరిలో ఇస్తానని చెప్పాడు."
+    }
+   ]
+  },
+  "728b4988984c257a942fc8aec4011937aa3163ea": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "డీఏ",
+     "type": "Scheme",
+     "english_name": "DA"
+    },
+    {
+     "name": "డీఆర్",
+     "type": "Scheme",
+     "english_name": "DR"
+    },
+    {
+     "name": "సరెండర్‌ లీవ్స్‌",
+     "type": "Scheme",
+     "english_name": "Surrender Leaves"
+    },
+    {
+     "name": "నాలుగు పెండింగ్‌ ఉంటే ఒకటి ఇస్తానన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పెన్షనర్లకు డీఆర్ రెండేళ్ల తరువాత 2027–28లో ఇస్తానని ప్రకటించాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఇచ్చిన జీవోపై ప్రతి ఉద్యోగి తిట్టడం మొదలుపెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు జీవో సవరించాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీస్‌ సోదరులకు ఇచ్చే సరెండర్‌ లీవ్స్‌ 4 పెండింగ్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.105 కోట్లు ఇప్పుడిస్తాడట (అదీ ఇవ్వలేదు), మిగిలిన రూ.105 కోట్లు జనవరిలో ఇస్తానని చెప్పాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డీఏ సమస్య",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "డీఆర్ సమస్య",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సరెండర్‌ లీవ్స్‌ సమస్య",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "నాలుగు పెండింగ్‌ ఉంటే ఒకటి ఇస్తానన్నాడు",
+     "evidence": "ఇప్పుడు అధికారంలోకి వచ్చాక నాలుగు పెండింగ్‌ ఉంటే ఒకటి ఇస్తానన్నాడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పెన్షనర్లకు డీఆర్ రెండేళ్ల తరువాత 2027–28లో ఇస్తానని ప్రకటించాడు",
+     "evidence": "పెన్షనర్లకు డీఆర్ రెండేళ్ల తరువాత 2027–28లో ఇస్తానని ప్రకటించాడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఇచ్చిన జీవోపై ప్రతి ఉద్యోగి తిట్టడం మొదలుపెట్టారు",
+     "evidence": "చంద్రబాబు ఇచ్చిన జీవోపై ప్రతి ఉద్యోగి తిట్టడం మొదలుపెట్టారు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు జీవో సవరించాడు",
+     "evidence": "చంద్రబాబు జీవో సవరించాడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీస్‌ సోదరులకు ఇచ్చే సరెండర్‌ లీవ్స్‌ 4 పెండింగ్‌",
+     "evidence": "పోలీస్‌ సోదరులకు ఇచ్చే సరెండర్‌ లీవ్స్‌ 4 పెండింగ్‌"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.105 కోట్లు ఇప్పుడిస్తాడట (అదీ ఇవ్వలేదు), మిగిలిన రూ.105 కోట్లు జనవరిలో ఇస్తానని చెప్పాడు",
+     "evidence": "రూ.105 కోట్లు ఇప్పుడిస్తాడట (అదీ ఇవ్వలేదు), మిగిలిన రూ.105 కోట్లు జనవరిలో ఇస్తానని చెప్పాడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీఏ",
+     "evidence": "నాలుగు పెండింగ్‌ ఉంటే ఒకటి ఇస్తానన్నాడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీఆర్",
+     "evidence": "పెన్షనర్లకు డీఆర్ రెండేళ్ల తరువాత 2027–28లో ఇస్తానని ప్రకటించాడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సరెండర్‌ లీవ్స్‌",
+     "evidence": "పోలీస్‌ సోదరులకు ఇచ్చే సరెండర్‌ లీవ్స్‌ 4 పెండింగ్‌"
+    },
+    {
+     "source": "నాలుగు పెండింగ్‌ ఉంటే ఒకటి ఇస్తానన్నాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డీఏ సమస్య",
+     "evidence": "నాలుగు పెండింగ్‌ ఉంటే ఒకటి ఇస్తానన్నాడు"
+    },
+    {
+     "source": "పెన్షనర్లకు డీఆర్ రెండేళ్ల తరువాత 2027–28లో ఇస్తానని ప్రకటించాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డీఆర్ సమస్య",
+     "evidence": "పెన్షనర్లకు డీఆర్ రెండేళ్ల తరువాత 2027–28లో ఇస్తానని ప్రకటించాడు"
+    },
+    {
+     "source": "పోలీస్‌ సోదరులకు ఇచ్చే సరెండర్‌ లీవ్స్‌ 4 పెండింగ్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సరెండర్‌ లీవ్స్‌ సమస్య",
+     "evidence": "పోలీస్‌ సోదరులకు ఇచ్చే సరెండర్‌ లీవ్స్‌ 4 పెండింగ్‌"
+    }
+   ]
+  },
+  "bc94a234e6abf4e8fe56525d5dd86b37f9c58ff9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "భాస్కర్‌ నాయుడు",
+     "type": "Person",
+     "english_name": "Bhaskar Naidu"
+    },
+    {
+     "name": "నీరు",
+     "type": "Person",
+     "english_name": "Neeru"
+    },
+    {
+     "name": "ఆప్కాస్‌",
+     "type": "Organization",
+     "english_name": "APCOS"
+    },
+    {
+     "name": "RTC",
+     "type": "Organization",
+     "english_name": "RTC"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "Liquor issue",
+     "type": "Issue",
+     "english_name": "Liquor issue"
+    },
+    {
+     "name": "మేము అధికారంలోకి వచ్చిన వారం రోజుల్లోనే ఐఆర్‌ ఇచ్చి ఉద్యోగస్తుల జీతాలు పెంచాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు సచివాలయ ఉద్యోగుల వల్ల, ఆర్టీసీ ఉద్యోగుల వల్ల ఆప్కాస్‌ వల్ల జీతాలివ్వడం కష్టంగా ఉందని కథనాలు చెబుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు కన్ను పడింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "52 వేల మంది ఆర్టీసీ ఉద్యోగులను ప్రభుత్వంలో విలీనం చేశాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "10,117 మందిని గుర్తించాం. ఇందులో 3,400 మందిని రెగ్యులరైజ్‌ చేస్తూ ఆర్డర్స్‌ ఇచ్చాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కాంట్రాక్టు ఉద్యోగులకు జీతాలు టైమ్‌ స్కేల్‌ ఇచ్చి జీతాలు పెంచాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆప్కాస్‌ అనే ఔట్‌సోర్సింగ్‌ కార్పొరేషన్‌ క్రియేట్‌ చేసి లక్ష మంది ఉద్యోగులకు ఒకటో తారీఖునే జీతాలిచ్చేలా దళారీ వ్యవస్థను తీసేసి మేలు చేశాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేం అధికారంలోకి రాక ముందు ఏడాది వారి జీతాలకు అయ్యే ఖర్చు రూ.1100 కోట్లు ఉంటే మేం వచ్చిన వెంటనే రూ. 3300 కోట్లకు పెంచాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు సచివాలయ ఉద్యోగుల వల్ల, ఆర్టీసీ ఉద్యోగుల వల్ల ఆప్కాస్‌ వల్ల జీతాలివ్వడం కష్టంగా ఉందని కథనాలు చెబుతున్నాడు.",
+     "evidence": "చంద్రబాబు నాయుడు సచివాలయ ఉద్యోగుల వల్ల, ఆర్టీసీ ఉద్యోగుల వల్ల ఆప్కాస్‌ వల్ల జీతాలివ్వడం కష్టంగా ఉందని కథనాలు చెబుతున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు కన్ను పడింది.",
+     "evidence": "చంద్రబాబు కన్ను పడింది."
+    }
+   ]
+  },
+  "09efb37bc37705814b4718ca88b2a5f93cac7b6c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్య",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "వైద్యరంగం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "వ్యవసాయం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "గవర్నెన్స్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "లా అండ్‌ ఆర్డర్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ పథకం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నాడు –నేడు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని.",
+     "evidence": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్య",
+     "evidence": "విద్య, వైద్యం, వ్యవసాయం, గవర్నెన్స్, లా అండ్‌ ఆర్డర్‌.. మొత్తం అన్నీ తిరోగమనమే కనిపిస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "వైద్యరంగం",
+     "evidence": "వైద్యరంగం అధోగతి:"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "వ్యవసాయం",
+     "evidence": "విద్య, వైద్యం, వ్యవసాయం, గవర్నెన్స్, లా అండ్‌ ఆర్డర్‌.. మొత్తం అన్నీ తిరోగమనమే కనిపిస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "గవర్నెన్స్",
+     "evidence": "విద్య, వైద్యం, వ్యవసాయం, గవర్నెన్స్, లా అండ్‌ ఆర్డర్‌.. మొత్తం అన్నీ తిరోగమనమే కనిపిస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు కెన్‌ సే దీనివల్ల నేను మేలు చేయగలిగాను అని.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "లా అండ్‌ ఆర్డర్‌",
+     "evidence": "విద్య, వైద్యం, వ్యవసాయం, గవర్నెన్స్, లా అండ్‌ ఆర్డర్‌.. మొత్తం అన్నీ తిరోగమనమే కనిపిస్తుంది."
+    },
+    {
+     "source": "అమ్మ ఒడి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్య",
+     "evidence": "అమ్మ ఒడి అనేది అరకొరగా ఇచ్చారని నేను చెప్పాల్సిన పనిలేదు."
+    },
+    {
+     "source": "ఆరోగ్యశ్రీ పథకం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "వైద్యరంగం",
+     "evidence": "ఆరోగ్యశ్రీ పథకాన్ని నీరుగార్చేశారు."
+    },
+    {
+     "source": "నాడు –నేడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్య",
+     "evidence": "స్కూళ్లలో నాడు –నేడు పనులు ఆగిపోయాయి."
+    },
+    {
+     "source": "విద్యాదీవెన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్య",
+     "evidence": "విద్యాదీవెన... పూర్తిగా ఆగిపోయింది."
+    },
+    {
+     "source": "వసతి దీవెన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్య",
+     "evidence": "వసతి దీవెన... పూర్తిగా ఆగిపోయింది."
+    }
+   ]
+  },
+  "6abd2de3650ae4d6b4de1e217c1d38537291b81d": {
+   "entities": [
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్‌ బిల్లులు",
+     "type": "Claim",
+     "english_name": "Fee reimbursement bills"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vastu Deevena"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ పథకం",
+     "type": "Scheme",
+     "english_name": "Arogya Sri"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

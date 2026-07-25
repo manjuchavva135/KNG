@@ -1,0 +1,98 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "66215943a1b5754d6e1daa21fa58d0b915caadea": {
+   "entities": [
+    {
+     "name": "ALLIED BLENDERS AND DISTILLERS LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ANDHRA PRADESH",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MUMBAI",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "LAMINGTON ROAD",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "LAMINGTON CHAMBERS",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "THIMMASAMUDRAM (VIL)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MURUKAMBATTU (POST)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "CHITTORUM-517127",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "SRI KRISHNA ENTERPRISES",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ALLIED BLENDERS AND DISTILLERS LIMITED",
+     "relation": "LOCATED_IN",
+     "target": "MUMBAI",
+     "evidence": "REGD. OFF.: 394/C, LAMINGTON CHAMBERS, LAMINGTON ROAD, MUMBAI - 400004. MH."
+    },
+    {
+     "source": "ALLIED BLENDERS AND DISTILLERS LIMITED",
+     "relation": "LOCATED_IN",
+     "target": "LAMINGTON ROAD",
+     "evidence": "REGD. OFF.: 394/C, LAMINGTON CHAMBERS, LAMINGTON ROAD, MUMBAI - 400004. MH."
+    },
+    {
+     "source": "ALLIED BLENDERS AND DISTILLERS LIMITED",
+     "relation": "LOCATED_IN",
+     "target": "LAMINGTON CHAMBERS",
+     "evidence": "REGD. OFF.: 394/C, LAMINGTON CHAMBERS, LAMINGTON ROAD, MUMBAI - 400004. MH."
+    },
+    {
+     "source": "SRI KRISHNA ENTERPRISES",
+     "relation": "LOCATED_IN",
+     "target": "THIMMASAMUDRAM (VIL)",
+     "evidence": "AT SRI KRISHNA ENTERPRISES, THIMMASAMUDRAM (VIL), MURUKAMBATTU (POST), CHITTORUM-517127, ANDHRA PRADESH."
+    },
+    {
+     "source": "SRI KRISHNA ENTERPRISES",
+     "relation": "LOCATED_IN",
+     "target": "MURUKAMBATTU (POST)",
+     "evidence": "AT SRI KRISHNA ENTERPRISES, THIMMASAMUDRAM (VIL), MURUKAMBATTU (POST), CHITTORUM-517127, ANDHRA PRADESH."
+    },
+    {
+     "source": "SRI KRISHNA ENTERPRISES",
+     "relation": "LOCATED_IN",
+     "target": "CHITTORUM-517127",
+     "evidence": "AT SRI KRISHNA ENTERPRISES, THIMMASAMUDRAM (VIL), MURUKAMBATTU (POST), CHITTORUM-517127, ANDHRA PRADESH."
+    },
+    {
+     "source": "SRI KRISHNA ENTERPRISES",
+     "relation": "LOCATED_IN",
+     "target": "ANDHRA PRADESH",
+     "evidence": "AT SRI KRISHNA ENTERPRISES, THIMMASAMUDRAM (VIL), MURUKAMBATTU (POST), CHITTORUM-517127, ANDHRA PRADESH."
+    }
+   ]
+  }
+ }
+}

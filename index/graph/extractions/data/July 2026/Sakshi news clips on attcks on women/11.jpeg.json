@@ -1,0 +1,107 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6aa7bef2cac58d27c8d22569e5a09b011774678f": {
+   "entities": [],
+   "relations": []
+  },
+  "d715d8a1550dfe5512ba5a25eee5a680beb5f22f": {
+   "entities": [
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Janasena",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Upamaka",
+     "type": "Person",
+     "english_name": "Upamaka"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Raman",
+     "type": "Person",
+     "english_name": "Raman"
+    },
+    {
+     "name": "Payidiraju",
+     "type": "Person",
+     "english_name": "Payidiraju"
+    },
+    {
+     "name": "Harish",
+     "type": "Person",
+     "english_name": "Harish"
+    },
+    {
+     "name": "Kanakamma",
+     "type": "Person",
+     "english_name": "Kanakamma"
+    },
+    {
+     "name": "KG Hospital",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Visakhapatnam district",
+     "type": "Place",
+     "english_name": "Visakhapatnam district"
+    },
+    {
+     "name": "Pendurthi",
+     "type": "Place",
+     "english_name": "Pendurthi"
+    },
+    {
+     "name": "Chintagattla",
+     "type": "Place",
+     "english_name": "Chintagattla"
+    },
+    {
+     "name": "Jan senā leaders brutally beat former woman sarpanch",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Attack on women",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Land dispute",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jan senā leaders brutally beat former woman sarpanch",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attack on women",
+     "evidence": "జనసేన నేతల చేతి గాయపడి పొలంలో అపస్మారక స్థితిలో పడి ఉన్న చింతగట్ల మాజీ సర్పంచ్ ఉప్మాక"
+    },
+    {
+     "source": "Jan senā leaders brutally beat former woman sarpanch",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land dispute",
+     "evidence": "భూ వివాదంలో దారుణంగా"
+    }
+   ]
+  }
+ }
+}

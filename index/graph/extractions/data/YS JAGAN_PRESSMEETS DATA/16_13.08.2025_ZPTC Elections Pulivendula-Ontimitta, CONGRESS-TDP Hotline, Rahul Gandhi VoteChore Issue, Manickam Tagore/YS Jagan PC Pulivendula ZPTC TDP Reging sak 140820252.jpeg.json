@@ -1,0 +1,586 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "734f4e80b899c0742388cd90e156d93777076c89": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "మండిపల్లి రాంప్రసాద్రెడ్డి",
+     "type": "Person",
+     "english_name": "Mamidipalli Ramprasad Reddy"
+    },
+    {
+     "name": "కోయ ప్రవీణ్",
+     "type": "Person",
+     "english_name": "Koya Praveen"
+    },
+    {
+     "name": "డీఐజీ",
+     "type": "Person",
+     "english_name": "DIG"
+    },
+    {
+     "name": "డీఎస్పీ మురళి",
+     "type": "Person",
+     "english_name": "DSP Murali"
+    },
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Indian National Congress"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "జెడ్పీటీసీ",
+     "type": "Organization",
+     "english_name": "Zilla Parishad Territorial Constituency"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    }
+   ],
+   "relations": []
+  },
+  "6e31e1dec4ae1064752b0b31e451d09dec1a0804": {
+   "entities": [
+    {
+     "name": "Polling Officer",
+     "type": "Organization",
+     "english_name": "Polling Officer"
+    },
+    {
+     "name": "Polling Agent",
+     "type": "Organization",
+     "english_name": "Polling Agent"
+    },
+    {
+     "name": "Presiding Officer",
+     "type": "Organization",
+     "english_name": "Presiding Officer"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Organization",
+     "english_name": "CONGRESS-TDP Hotline"
+    },
+    {
+     "name": "ZPTC Elections Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": "ZPTC Elections Pulivendula-Ontimitta"
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": "Pulivendula-Ontimitta"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ZPTC Elections Pulivendula-Ontimitta",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula-Ontimitta",
+     "evidence": "ZPTC Elections Pulivendula-Ontimitta"
+    }
+   ]
+  },
+  "3159da8af94d95410fcd7b5eb369cd76d8d28765": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": "Pulivendula-Ontimitta"
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": "ZPTC Elections"
+    },
+    {
+     "name": "State Election Commission (SEC)",
+     "type": "Organization",
+     "english_name": "State Election Commission"
+    },
+    {
+     "name": "Collector",
+     "type": "Organization",
+     "english_name": "Collector"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "YSRCP నాయకులపై పోలీసుల ఏకపక్ష దాడులు",
+     "type": "Claim",
+     "english_name": "Police attacks on YSRCP leaders"
+    },
+    {
+     "name": "టీడీపీ నాయకులతో దొంగ ఓట్లు వేయించుకోవడం",
+     "type": "Claim",
+     "english_name": "Staging fake votes with TDP leaders"
+    },
+    {
+     "name": "రాష్ట్ర ఎన్నికల కమిషన్ పూర్తిగా విఫలమైన తీరు",
+     "type": "Claim",
+     "english_name": "State Election Commission completely failed"
+    },
+    {
+     "name": "పోలింగ్ బూత్లలో ప్రతిపక్ష పార్టీకి సంబం ధించిన ఏజెంట్లు లేకుండా ఎన్నికలు నిర్వహిం",
+     "type": "Claim",
+     "english_name": "Elections conducted without opposition agents"
+    },
+    {
+     "name": "టీడీపీ వారు, పోలీసులు ఫామ్-12లను లాక్కుని చింపేశారు",
+     "type": "Claim",
+     "english_name": "TDP and police snatched and tore Form-12"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP నాయకులపై పోలీసుల ఏకపక్ష దాడులు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections",
+     "evidence": "YSRCP నాయకులపై పోలీసుల ఏకపక్ష దాడులు"
+    },
+    {
+     "source": "టీడీపీ నాయకులతో దొంగ ఓట్లు వేయించుకోవడం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections",
+     "evidence": "టీడీపీ నాయకులతో దొంగ ఓట్లు వేయించుకోవడం"
+    },
+    {
+     "source": "రాష్ట్ర ఎన్నికల కమిషన్ పూర్తిగా విఫలమైన తీరు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections",
+     "evidence": "రాష్ట్ర ఎన్నికల కమిషన్ పూర్తిగా విఫలమైన తీరు"
+    },
+    {
+     "source": "పోలింగ్ బూత్లలో ప్రతిపక్ష పార్టీకి సంబం ధించిన ఏజెంట్లు లేకుండా ఎన్నికలు నిర్వహిం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections",
+     "evidence": "పోలింగ్ బూత్లలో ప్రతిపక్ష పార్టీకి సంబం ధించిన ఏజెంట్లు లేకుండా ఎన్నికలు నిర్వహిం"
+    },
+    {
+     "source": "టీడీపీ వారు, పోలీసులు ఫామ్-12లను లాక్కుని చింపేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections",
+     "evidence": "టీడీపీ వారు, పోలీసులు ఫామ్-12లను లాక్కుని చింపేశారు"
+    }
+   ]
+  },
+  "47031fbc8c729ecb87d655f9aee72d67a143fd3c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "DIG Koy Praveen",
+     "type": "Person",
+     "english_name": "DIG Koy Praveen"
+    },
+    {
+     "name": "Garikapati Rammohan Rao",
+     "type": "Person",
+     "english_name": "Garikapati Rammohan Rao"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": "Pulivendula-Ontimitta"
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "Erraballi",
+     "type": "Place",
+     "english_name": "Erraballi"
+    },
+    {
+     "name": "Nallapureddypalli",
+     "type": "Place",
+     "english_name": "Nallapureddypalli"
+    },
+    {
+     "name": "Nallagondavari palli",
+     "type": "Place",
+     "english_name": "Nallagondavari palli"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    },
+    {
+     "name": "ఎన్నికలు రద్దు చేయండి",
+     "type": "Claim",
+     "english_name": "Cancel the elections"
+    },
+    {
+     "name": "ఎర్రబల్లి నుంచి నల్లపురెడ్డిపల్లికి పోలింగ్ బూత్లు మార్చేశారు",
+     "type": "Claim",
+     "english_name": "Polling booths shifted from Erraballi to Nallapureddypalli"
+    },
+    {
+     "name": "పోలీసులు తరిమి తరిమి కొట్టారు",
+     "type": "Claim",
+     "english_name": "Police beat and chased away"
+    },
+    {
+     "name": "పోలీసులను ఏరికోరి నియమించారు",
+     "type": "Claim",
+     "english_name": "Police were selectively appointed"
+    },
+    {
+     "name": "యధేచ్ఛగా దోపిడీ, వాటాలు",
+     "type": "Claim",
+     "english_name": "Unchecked looting and sharing"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్నికలు రద్దు చేయండి",
+     "evidence": "ఎన్నికలు రద్దు చేయండి."
+    },
+    {
+     "source": "Garikapati Rammohan Rao",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ మాజీ ఎంపీ గరికపాటి రామ్మోహన్ రావు"
+    },
+    {
+     "source": "Pulivendula-Ontimitta",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula",
+     "evidence": "Pulivendula-Ontimitta"
+    },
+    {
+     "source": "Erraballi",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula",
+     "evidence": "Erraballi"
+    },
+    {
+     "source": "Nallapureddypalli",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula",
+     "evidence": "Nallapureddypalli"
+    },
+    {
+     "source": "Nallagondavari palli",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula",
+     "evidence": "Nallagond"
+    }
+   ]
+  },
+  "ede231fd9276c541d088df720f762cf877d22066": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎస్ఆర్ ఆంజనేయులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సునీల్కుమార్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సంజయ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "విశాల్ గున్నీలు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కాంతిరాణా టాటా",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు చేస్తున్న అవినీతిలో వీళ్లందరూ భాగస్వాములు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డీఐజీ ఆధ్వర్యంలో కలెక్షన్లు.. మాఫియా రింగ్ లీడర్ ఎవరంటే డీఐజీ.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఒకవేళ పోలీసు అధికారులు ఎవరైనా చంద్రబాబు మాట వినకపోతే.. డీజీ స్థాయిలో ఉన్న అధికారులు సైతం జైళ్ల పాలు కావాల్సిందే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎస్ఆర్ ఆంజనేయులు జైలుకెళ్లారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దళిత వర్గానికి చెందిన డీజీ స్థాయి అధికారి సునీల్కుమార్, అడిషనల్ డీజీ సంజయ్, విశాల్ గున్నీలపై అక్రమ కేసులు పెట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీ వర్గానికి చెందిన ఐజీ కాంతిరాణా టాటాపై కూడా అక్రమ కేసు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నలుగురు నాన్క్యాడర్ ఎస్పీలు, ఒక కమాండెం ట్ స్థాయి అధికారి, 22 మంది అడిషనల్ ఎస్పీలు, 55 మంది డీఎస్పీలకు పోస్టింగులు లేవు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మరో ఆరుగురు డీఎస్పీలు, ముగ్గురు అడిషనల్ కమాండెంట్లు, ఇద్దరు అసిస్టెంట్ కమాండెంట్లను హెడ్ క్వార్టర్స్లో రిపోర్టింగ్ చేయిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "8 మంది డీఎస్పీలను సస్పెండ్ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మరో 80 నుంచి 100 మంది ఇన్స్పెక్టర్లు, వందలాది మంది కానిస్టేబుళ్లు వీఆర్లో ఉన్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబునాయుడు చేస్తున్న అవినీతిలో వీళ్లందరూ భాగస్వాములు.",
+     "evidence": "చంద్రబాబునాయుడు చేస్తున్న అవినీతిలో వీళ్లందరూ భాగస్వాములు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "డీఐజీ ఆధ్వర్యంలో కలెక్షన్లు.. మాఫియా రింగ్ లీడర్ ఎవరంటే డీఐజీ.",
+     "evidence": "డీఐజీ ఆధ్వర్యంలో కలెక్షన్లు.. మాఫియా రింగ్ లీడర్ ఎవరంటే డీఐజీ."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఒకవేళ పోలీసు అధికారులు ఎవరైనా చంద్రబాబు మాట వినకపోతే.. డీజీ స్థాయిలో ఉన్న అధికారులు సైతం జైళ్ల పాలు కావాల్సిందే.",
+     "evidence": "ఒకవేళ పోలీసు అధికారులు ఎవరైనా చంద్రబాబు మాట వినకపోతే.. డీజీ స్థాయిలో ఉన్న అధికారులు సైతం జైళ్ల పాలు కావాల్సిందే."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పీఎస్ఆర్ ఆంజనేయులు జైలుకెళ్లారు.",
+     "evidence": "పీఎస్ఆర్ ఆంజనేయులు జైలుకెళ్లారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "దళిత వర్గానికి చెందిన డీజీ స్థాయి అధికారి సునీల్కుమార్, అడిషనల్ డీజీ సంజయ్, విశాల్ గున్నీలపై అక్రమ కేసులు పెట్టారు.",
+     "evidence": "దళిత వర్గానికి చెందిన డీజీ స్థాయి అధికారి సునీల్కుమార్, అడిషనల్ డీజీ సంజయ్, విశాల్ గున్నీలపై అక్రమ కేసులు పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "బీసీ వర్గానికి చెందిన ఐజీ కాంతిరాణా టాటాపై కూడా అక్రమ కేసు.",
+     "evidence": "బీసీ వర్గానికి చెందిన ఐజీ కాంతిరాణా టాటాపై కూడా అక్రమ కేసు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "నలుగురు నాన్క్యాడర్ ఎస్పీలు, ఒక కమాండెం ట్ స్థాయి అధికారి, 22 మంది అడిషనల్ ఎస్పీలు, 55 మంది డీఎస్పీలకు పోస్టింగులు లేవు.",
+     "evidence": "నలుగురు నాన్క్యాడర్ ఎస్పీలు, ఒక కమాండెం ట్ స్థాయి అధికారి, 22 మంది అడిషనల్ ఎస్పీలు, 55 మంది డీఎస్పీలకు పోస్టింగులు లేవు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "మరో ఆరుగురు డీఎస్పీలు, ముగ్గురు అడిషనల్ కమాండెంట్లు, ఇద్దరు అసిస్టెంట్ కమాండెంట్లను హెడ్ క్వార్టర్స్లో రిపోర్టింగ్ చేయిస్తున్నారు.",
+     "evidence": "మరో ఆరుగురు డీఎస్పీలు, ముగ్గురు అడిషనల్ కమాండెంట్లు, ఇద్దరు అసిస్టెంట్ కమాండెంట్లను హెడ్ క్వార్టర్స్లో రిపోర్టింగ్ చేయిస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "8 మంది డీఎస్పీలను సస్పెండ్ చేశారు.",
+     "evidence": "8 మంది డీఎస్పీలను సస్పెండ్ చేశారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "మరో 80 నుంచి 100 మంది ఇన్స్పెక్టర్లు, వందలాది మంది కానిస్టేబుళ్లు వీఆర్లో ఉన్నారు.",
+     "evidence": "మరో 80 నుంచి 100 మంది ఇన్స్పెక్టర్లు, వందలాది మంది కానిస్టేబుళ్లు వీఆర్లో ఉన్నారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "పీఎస్ఆర్ ఆంజనేయులు",
+     "evidence": "పీఎస్ఆర్ ఆంజనేయులు జైలుకెళ్లారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "సునీల్కుమార్",
+     "evidence": "దళిత వర్గానికి చెందిన డీజీ స్థాయి అధికారి సునీల్కుమార్, అడిషనల్ డీజీ సంజయ్, విశాల్ గున్నీలపై అక్రమ కేసులు పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "సంజయ్",
+     "evidence": "దళిత వర్గానికి చెందిన డీజీ స్థాయి అధికారి సునీల్కుమార్, అడిషనల్ డీజీ సంజయ్, విశాల్ గున్నీలపై అక్రమ కేసులు పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "విశాల్ గున్నీలు",
+     "evidence": "దళిత వర్గానికి చెందిన డీజీ స్థాయి అధికారి సునీల్కుమార్, అడిషనల్ డీజీ సంజయ్, విశాల్ గున్నీలపై అక్రమ కేసులు పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "కాంతిరాణా టాటా",
+     "evidence": "బీసీ వర్గానికి చెందిన ఐజీ కాంతిరాణా టాటాపై కూడా అక్రమ కేసు."
+    }
+   ]
+  }
+ }
+}

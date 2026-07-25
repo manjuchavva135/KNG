@@ -1,0 +1,261 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9d21b8ba9fa89ac2b470b4f06afd8868b0379527": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APSPDCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APEPDCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCPDCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DISCOMs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "FM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State power sector PSUs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector liabilities and losses",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "the FM alleged that the power sector suffered due to the policies of the YSRCP Government",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Accumulated losses of DISCOMs have risen to phenomenal levels during the period of the TDP Government",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "This resulted from under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant tariffs and so forth during the TDP regime",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "FM",
+     "relation": "ACCUSES",
+     "target": "YSRCP Government",
+     "evidence": "the FM alleged that the power sector suffered due to the policies of the YSRCP Government"
+    },
+    {
+     "source": "FM",
+     "relation": "ACCUSES",
+     "target": "TDP Government",
+     "evidence": "the FM alleged that the power sector suffered due to the policies of the YSRCP Government"
+    },
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "the FM alleged that the power sector suffered due to the policies of the YSRCP Government",
+     "evidence": "the FM alleged that the power sector suffered due to the policies of the YSRCP Government"
+    },
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "Accumulated losses of DISCOMs have risen to phenomenal levels during the period of the TDP Government",
+     "evidence": "Accumulated losses of DISCOMs have risen to phenomenal levels during the period of the TDP Government"
+    },
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "This resulted from under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant tariffs and so forth during the TDP regime",
+     "evidence": "This resulted from under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant tariffs and so forth during the TDP regime"
+    }
+   ]
+  },
+  "ad50e0e2ca9ea23666c7f0c33b813b8d86e05786": {
+   "entities": [
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    }
+   ],
+   "relations": []
+  },
+  "faa6971197c5db9657260dd79df471d25fcba134": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APSPDCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APEPDCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCPDCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DISCOMs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector liabilities and losses",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector suffered due to YSRCP policies",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Accumulated losses of DISCOMs have risen to phenomenal levels during TDP Government",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Is this a reflection of the TDP's efficiency?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Under-release of subsidy to DISCOMs",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Execution of PPAs at exorbitant rates",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "Power sector suffered due to YSRCP policies",
+     "evidence": "the FM alleged that the power sector suffered due to the policies of the YSRCP Government."
+    },
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "Accumulated losses of DISCOMs have risen to phenomenal levels during TDP Government",
+     "evidence": "Accumulated losses of DISCOMs have risen to phenomenal levels during the period of the TDP Government and the debt has also grown during the period of the TDP Government at disproportionately high level."
+    },
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "Is this a reflection of the TDP's efficiency?",
+     "evidence": "Is this a reflection of the TDP's efficiency?"
+    },
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "Under-release of subsidy to DISCOMs",
+     "evidence": "This resulted from under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant"
+    },
+    {
+     "source": "FM",
+     "relation": "MAKES_CLAIM",
+     "target": "Execution of PPAs at exorbitant rates",
+     "evidence": "This resulted from under-release of subsidy to the DISCOMs, execution of PPAs at exorbitant"
+    },
+    {
+     "source": "Power sector suffered due to YSRCP policies",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector liabilities and losses",
+     "evidence": ""
+    },
+    {
+     "source": "Accumulated losses of DISCOMs have risen to phenomenal levels during TDP Government",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector liabilities and losses",
+     "evidence": ""
+    },
+    {
+     "source": "Under-release of subsidy to DISCOMs",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector liabilities and losses",
+     "evidence": ""
+    },
+    {
+     "source": "Execution of PPAs at exorbitant rates",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector liabilities and losses",
+     "evidence": ""
+    }
+   ]
+  }
+ }
+}

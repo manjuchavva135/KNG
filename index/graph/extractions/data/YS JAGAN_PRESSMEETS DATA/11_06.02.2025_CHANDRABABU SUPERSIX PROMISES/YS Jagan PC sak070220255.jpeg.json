@@ -1,0 +1,330 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "89b0248b4220db4aa62b9853f183fce16378e99d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "Beverage Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Fiber Net",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Employment Guarantee Field Assistant",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Medical Health Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Village and Ward Secretariats",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వలంటీర్లకు నెలకు రూ.10 వేలు వేతనం ఇస్తామని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వలంటీర్లకు నెలకు రూ.10 వేలు వేతనం ఇస్తామని",
+     "evidence": "ఎన్నికల ముందు వలంటీర్లకు నెలకు రూ.10 వేలు వేతనం ఇస్తామని నమ్మబలికి అధికారంలోకి వచ్చాక 2.60 లక్షల వలంటీర్ ఉద్యోగాలను తీసేశారు."
+    }
+   ]
+  },
+  "6d97abccca6e70f7ef4d171cccd7953651499c44": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ఐఆర్",
+     "type": "Scheme",
+     "english_name": "IR"
+    },
+    {
+     "name": "పీఆర్పీ",
+     "type": "Scheme",
+     "english_name": "PRPC"
+    },
+    {
+     "name": "ఉద్యోగులు",
+     "type": "Person",
+     "english_name": "Employees"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Person",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "బెవరేజ్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Beverage Corporation"
+    },
+    {
+     "name": "ఫైబర్ నెట్",
+     "type": "Organization",
+     "english_name": "Fiber Net"
+    },
+    {
+     "name": "ఏపీఎండీసీ",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "ఉపాధి హామీ ఫీల్డ్ అసిస్టెంట్",
+     "type": "Organization",
+     "english_name": "Employment Guarantee Field Assistant"
+    },
+    {
+     "name": "వైద్య ఆరోగ్య శాఖ",
+     "type": "Organization",
+     "english_name": "Medical Health Department"
+    },
+    {
+     "name": "గ్రామ, వార్డు సచివాలయాలు",
+     "type": "Organization",
+     "english_name": "Grama and Ward Secretariat"
+    },
+    {
+     "name": "ప్రభుత్వ శాఖలు",
+     "type": "Organization",
+     "english_name": "Government Departments"
+    },
+    {
+     "name": "తమ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Their Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "SUPERSIX PROMISES"
+    }
+   ]
+  },
+  "88805e36b9c59c19bb9d7e34862f73ceb5d71485": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "టీవీ-5",
+     "type": "Organization",
+     "english_name": "TV-5"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Super Seven",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Issue",
+     "english_name": "Super Six promises"
+    },
+    {
+     "name": "మోసం గ్యారంటీ",
+     "type": "Claim",
+     "english_name": "Cheating guarantee"
+    },
+    {
+     "name": "హామీల అమలుపై నిలదీస్తుంటే",
+     "type": "Claim",
+     "english_name": "Questioning implementation of promises"
+    },
+    {
+     "name": "చీటింగ్లో పీహెచ్డీ తీసుకున్న వ్యక్తి ఒక్క చంద్రబాబే",
+     "type": "Claim",
+     "english_name": "Only Chandrababu has a PhD in cheating"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చీటింగ్లో పీహెచ్డీ తీసుకున్న వ్యక్తి ఒక్క చంద్రబాబే"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "హామీల అమలుపై నిలదీస్తుంటే"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "వీళ్లు ఇచ్చిన హామీలకు ఈనాడు, ఆంధ్రజ్యోతి, టీవీ-5 బాకా ఊదాయి."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "వీళ్లు ఇచ్చిన హామీలకు ఈనాడు, ఆంధ్రజ్యోతి, టీవీ-5 బాకా ఊదాయి."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీవీ-5",
+     "evidence": "వీళ్లు ఇచ్చిన హామీలకు ఈనాడు, ఆంధ్రజ్యోతి, టీవీ-5 బాకా ఊదాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "సూపర్ సిక్స్తోపాటు 143 హామీలతో మేనిఫెస్టోను విడుదల చేశారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Seven",
+     "evidence": "సూపర్ సిక్స్తోపాటు... సూపర్ సెవన్"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మోసం గ్యారంటీ",
+     "evidence": "మోసం గ్యారంటీ"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "హామీల అమలుపై నిలదీస్తుంటే",
+     "evidence": "హామీల అమలుపై నిలదీస్తుంటే"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు, ఆయన పార్టీ నేతలు"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి"
+    },
+    {
+     "source": "మోసం గ్యారంటీ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Super Six promises",
+     "evidence": "మోసం గ్యారంటీ"
+    },
+    {
+     "source": "హామీల అమలుపై నిలదీస్తుంటే",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Super Six promises",
+     "evidence": "హామీల అమలుపై నిలదీస్తుంటే"
+    }
+   ]
+  }
+ }
+}

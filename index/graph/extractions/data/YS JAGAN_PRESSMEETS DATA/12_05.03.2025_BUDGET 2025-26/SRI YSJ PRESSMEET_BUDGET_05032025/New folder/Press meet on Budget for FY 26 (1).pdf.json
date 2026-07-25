@@ -1,0 +1,1473 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9566ba3fdaa34d028ed4a854d41a26477fd9f36a": {
+   "entities": [],
+   "relations": []
+  },
+  "2827722d1069e3a58f43c9e9a3c81d624df2312b": {
+   "entities": [
+    {
+     "name": "గూగుల్",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "ఆర్సెలర్ మిట్టల్ స్టీల్ కంపెనీ",
+     "type": "Organization",
+     "english_name": "ArcelorMittal Steel Company"
+    },
+    {
+     "name": "టాటా పవర్",
+     "type": "Organization",
+     "english_name": "Tata Power"
+    },
+    {
+     "name": "గ్రీన్కో గ్రూప్",
+     "type": "Organization",
+     "english_name": "Greenko Group"
+    },
+    {
+     "name": "బిపిసిఎల్",
+     "type": "Organization",
+     "english_name": "BPCL"
+    },
+    {
+     "name": "టిసిఎస్",
+     "type": "Organization",
+     "english_name": "TCS"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "గవర్నర్",
+     "type": "Person",
+     "english_name": "Governor"
+    },
+    {
+     "name": "భారీ పెట్టుబడుల కోసం అంతర్జాతీయ దిగ్గజాలను ఆకర్షించడం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "గవర్నర్",
+     "relation": "MAKES_CLAIM",
+     "target": "భారీ పెట్టుబడుల కోసం అంతర్జాతీయ దిగ్గజాలను ఆకర్షించడం",
+     "evidence": "భారీ పెట్టుబడుల కోసం గూగుల్, ఆర్సెలర్ మిట్టల్ స్టీల్ కంపెనీ, టాటా పవర్, గ్రీన్కో గ్రూప్, బిపిసిఎల్, టిసిఎస్ వంటి అనేక అంతర్జాతీయ దిగ్గజాలను ఆకర్షిస్తున్నాం."
+    }
+   ]
+  },
+  "d8214a6c791b5f773a3407c960b3c83b23f5133f": {
+   "entities": [
+    {
+     "name": "MSME",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Industries Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "the last row ... introduced merely to show a huge increase in MSME employment during 2024-25.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government is taking credit for creation of employment of only 4,00,000 and that too of only potential.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MSME employment",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "the last row ... introduced merely to show a huge increase in MSME employment during 2024-25.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "MSME employment",
+     "evidence": "the last row ... introduced merely to show a huge increase in MSME employment during 2024-25."
+    },
+    {
+     "source": "Government is taking credit for creation of employment of only 4,00,000 and that too of only potential.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "MSME employment",
+     "evidence": "Government is taking credit for creation of employment of only 4,00,000 and that too of only potential."
+    }
+   ]
+  },
+  "c9b46a4b50da5e5f0da1e6056d70c1f41b6fe85b": {
+   "entities": [
+    {
+     "name": "AP State Minorities Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "UDISE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andaman & Nicobar Islands",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Thallikivandanam",
+     "evidence": "The promise of TDP alliance was that, the benefits under scheme Thallikivandanam, would be avaialabless to every child."
+    }
+   ]
+  },
+  "c301626c67eaca8cf1428c317948d2bef6a1f003": {
+   "entities": [],
+   "relations": []
+  },
+  "3a7e6afc610f94b4ef102d84733ec61372062dc7": {
+   "entities": [
+    {
+     "name": "Super Seven schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Aadabidda Nidhi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Thalliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Annadata Sukhibhava",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Free Bus Travel",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Pension age reduction to 50 years for SCs & BCs",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Nirudyoga Bhruthi",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a1954927184d5a2baea90a5355d8fdedaf36b9f2": {
+   "entities": [],
+   "relations": []
+  },
+  "d36d9c1f37ffdc9e23e66c7a011ccd12dab5b505": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Pensions",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Pensions disbursed during YSRCP regime 66,34,372",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Pensions being disbursed by the TDP Government 62,10,969",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "1e70764df38f071ecb55cd9c8b7aadcee4cf4324": {
+   "entities": [
+    {
+     "name": "Thalliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Thalliki Vandanam"
+    },
+    {
+     "name": "Unified District Information System for Education Plus",
+     "type": "Organization",
+     "english_name": "Unified District Information System for Education Plus"
+    },
+    {
+     "name": "UDISE+",
+     "type": "Organization",
+     "english_name": "UDISE+"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "Ministry of Education",
+     "type": "Organization",
+     "english_name": "Ministry of Education"
+    },
+    {
+     "name": "Department of School Education & Literacy",
+     "type": "Organization",
+     "english_name": "Department of School Education & Literacy"
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "No. of children entitled to Thalliki Vandanam",
+     "type": "Claim",
+     "english_name": "No. of children entitled to Thalliki Vandanam"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "Andaman & Nicobar Islands",
+     "type": "Place",
+     "english_name": "Andaman & Nicobar Islands"
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "type": "Place",
+     "english_name": "Arunachal Pradesh"
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": "Assam"
+    }
+   ],
+   "relations": []
+  },
+  "abea2901243aa7cba89e08c65eeb6682a056b200": {
+   "entities": [
+    {
+     "name": "Annadata Sukhibhava",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Government has cheated the people by treating the PM Kisan as part of the State Government Rythu Bharosa Programme",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: provide subsidy of Rs. 20,000 over and above PM Kisan amount",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Amount allocated for Annadata Sukhibhava is only Rs. 6,300 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Annadata Sukhibhava",
+     "evidence": "provide subsidy of Rs. 20,000 over and above PM Kisan amount."
+    }
+   ]
+  },
+  "80e0f453f52fb8511653529856f675b3cbd5c83d": {
+   "entities": [],
+   "relations": []
+  },
+  "64a3bb13d6a92fd76a1b4f5ae3bd998844a2d518": {
+   "entities": [],
+   "relations": []
+  },
+  "a6de1446714b920f3bfcf4b4b2d5fc772801fdab": {
+   "entities": [],
+   "relations": []
+  },
+  "f6f459134ea64a07b3b759544f21e6c51d61981b": {
+   "entities": [],
+   "relations": []
+  },
+  "4371e161f0f1a92857e0aec4462a25cbc0713ffd": {
+   "entities": [
+    {
+     "name": "101 (superannuation and retirement allowance)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "102 (commuted value of pension)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "103 (compassionate allowance)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "104 (Gratuity)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "105 (Family pensions)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "106 (Pensions with respect to High Court Judges)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "107 (Contributions to pensions and gratuities)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "109 (Pensions of State aided educational institutions)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "110 (Employees of local bodies)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "111 (Pensions to Legislators)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "115 (Leave encashment benefits)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "117 (Contribution to CPS)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "800 (Others)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "911 (Recoveries due to over-payments)",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "600446c8b2f45313ad9c3a3d154fcbc80ebd580e": {
+   "entities": [
+    {
+     "name": "AP Scheduled Castes Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Scheduled Tribes Co-op Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC A)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC B)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC D)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC E)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Reddy Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Kamma Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Kshatriya Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Vyshya Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Brahmin Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP EBC Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Kapu Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Christian Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Minorities Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Thallikivandanam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Thallikivandanam allocations"
+    }
+   ]
+  },
+  "52bf8108295780bbbaf966bd282ff7f742a94b04": {
+   "entities": [
+    {
+     "name": "Finance Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Covid-19 pandemic",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "State Government is unable to implement programmes due to greater share of salaries and pensions in own revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Salaries & Pensions as a % of Own Revenues was 84.71% in 2019-20",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Salaries & Pensions as a % of Own Revenues was 79.97% in 2024-25",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Finance Minister",
+     "relation": "ACCUSES",
+     "target": "YSRCP Government",
+     "evidence": "the Finance Minister tries to mislead the people into believing that this resulted from the policies of the previous YSRCP Government."
+    },
+    {
+     "source": "Finance Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "State Government is unable to implement programmes due to greater share of salaries and pensions in own revenues",
+     "evidence": "the Finance Minister suggests that given the greater share of salaries and pensions in the State’s own revenues, the State Government is unable to implement the programmes."
+    }
+   ]
+  },
+  "cd3bcb0a696aec07ba21de403c6502452ca8aa89": {
+   "entities": [
+    {
+     "name": "Rural Development Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Assistance to Society for Elimination of Rural Poverty (SERP)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Indira Gandhi National Disability Pension Scheme (IGNDPS)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "INDIRA GANDHI NATIONAL WIDOW PENSION SCHEME(IGNWPS)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Interest Free Loans to DWACRA Women (Vaddileni Runalu)",
+     "type": "Scheme",
+     "english_name": "Interest Free Loans to DWACRA Women"
+    },
+    {
+     "name": "National Family Benefit Scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Self Help Groups",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vaddileni Runalu",
+     "type": "Scheme",
+     "english_name": "Interest Free Loans to DWACRA Women"
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Demand XXXII",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Rural Development",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ae931577a2e4d360c2070af8662864624edf9de7": {
+   "entities": [
+    {
+     "name": "AP budget documents",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh budget documents"
+    },
+    {
+     "name": "CAG Accounts",
+     "type": "Organization",
+     "english_name": "Comptroller and Auditor General accounts"
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Government debt",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Guaranteed debt",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "608f4cb5638b655930f90aca2953b81cc5cecfd4": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "overestimation of around Rs. 8,000 crores in the revised estimates of this year itself",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "7e32657abec32c2a30ff7dcf0e6327ed16505ca8": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "budget estimates a growth of 25.63% in State’s own revenues in year FY 26",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "If this increase in revenues is not achieved, then to that extent, Government will have to borrow or cut down expenditure",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "State Government",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "State’s own revenues"
+    }
+   ]
+  },
+  "496b2c3708bbf7b67ce50855258ab6f58f61808a": {
+   "entities": [
+    {
+     "name": "Dipam scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "PM Ujwal Yojana",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PPAC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOPNG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PSU OMCs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IOCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BPCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HPCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "LPG cylinder price",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Subsidy under PMUY per cylinder",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount budgeted for three cylinders per household for 2025-26",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount of subsidy required for households covered by PMUY",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Remaining amount of subsidy",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "No. of households that can be covered with this subsidy",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Total No. of households covered with this subsidy along those covered under PMUY",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Estimated no. of households not provided gas cylinder at subsidized rates",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount of subsidy required under Dipam scheme for providing 3 free gas cylinders",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Allocation under the budget for FY 26",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Under-allocation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Dipam scheme",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Under-allocation",
+     "evidence": "Owing to this under-allocation, nearly 54 lakh households will be left out of Dipam scheme"
+    },
+    {
+     "source": "PM Ujwal Yojana",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Under-allocation",
+     "evidence": "Considering the prevailing LPG price and number of beneficiaries under PM Ujwal Yojana, The amount of subsidy required under Dipam scheme for providing 3 free gas cylinders is Rs. 3,990.76 cores."
+    }
+   ]
+  },
+  "c4af3addd451bad5be6c0db2ff067ea0f5bc2cde": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "current dispensation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "the current dispensation deceives the people.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "own revenues shrunk by 0.01%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "capital expenditure reduced by a huge 48.17%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government projects that in FY 2024-25 as per revised estimates, own revenues grow at 9.56%, capital expenditure grows at 3.18% and that the GSDP grows at 12.94%.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "estimates of the Government are far from reality.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government projects significant growth in FY 2025-26, leading to unjustifiable budget estimates",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ff0fa960077003d296748a8f4263763a7e3ee415": {
+   "entities": [
+    {
+     "name": "Some of the tax revenue categories are estimating to show a growth of more than 20% in FY 2025-26, such as Stamps and Registrations, State Excise, Taxes and vehicles.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Is the Government expecting to make taxes very burdensome as it is unable to generate wealth?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "With respect to Land revenue a huge amount of Rs. 1,341 crores is shown this year as a revised estimate.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The revenues under this head during the first 10 months is only Rs. 196 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "What huge burden would the Government levy on the people in this March month?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "An amount of Rs. 1,321 crores is shown as ‘Other Receipts’ under land revenue",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Tax revenue growth",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Tax burden",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Land revenue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Burden on people",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Some of the tax revenue categories are estimating to show a growth of more than 20% in FY 2025-26, such as Stamps and Registrations, State Excise, Taxes and vehicles.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tax revenue growth",
+     "evidence": "Some of the tax revenue categories are estimating to show a growth of more than 20% in FY 2025-26, such as Stamps and Registrations, State Excise, Taxes and vehicles."
+    },
+    {
+     "source": "Is the Government expecting to make taxes very burdensome as it is unable to generate wealth?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tax burden",
+     "evidence": "Is the Government expecting to make taxes very burdensome as it is unable to generate wealth?"
+    },
+    {
+     "source": "With respect to Land revenue a huge amount of Rs. 1,341 crores is shown this year as a revised estimate.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land revenue",
+     "evidence": "With respect to Land revenue a huge amount of Rs. 1,341 crores is shown this year as a revised estimate."
+    },
+    {
+     "source": "The revenues under this head during the first 10 months is only Rs. 196 crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land revenue",
+     "evidence": "The revenues under this head during the first 10 months is only Rs. 196 crores."
+    },
+    {
+     "source": "What huge burden would the Government levy on the people in this March month?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Burden on people",
+     "evidence": "What huge burden would the Government levy on the people in this March month?"
+    },
+    {
+     "source": "An amount of Rs. 1,321 crores is shown as ‘Other Receipts’ under land revenue",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Land revenue",
+     "evidence": "An amount of Rs. 1,321 crores is shown as ‘Other Receipts’ under land revenue"
+    }
+   ]
+  },
+  "a9b1fbd92c5bd6d4e94ae33fed8523003bb5ab75": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume V",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume II",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume III/5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume IV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Volume VI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Public Debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Public Account",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Total Government debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Guaranteed debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Total direct and contingent debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government debt",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ba16157ffbfe5fbf3d0a82d65d351d19ebfe0574": {
+   "entities": [
+    {
+     "name": "TDP Govt",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Consumer affairs food & civil supplies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transport Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Women & Child Welfare Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Handlooms & Textiles",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Agriculture Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Seed Development Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Horticulture Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Animal Husbandry Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Fisheries Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Industries and Commerce (Sugar) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dairy Development",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "School Education (Mid-day meals)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Roads and Buildings",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "All Welfare Departments (RTF and MTF)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Health (Aarogyasri)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Health (EHS)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Social Welfare Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner Panchayat Raj (Electricity Charges)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner Panchayat Raj (Engineering)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner Rural Development (MGNERGS)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RWS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tribal Welfare",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Water resources department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pending payments by previous TDP Govt. 2014-19",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Pending bills are to the tune of Rs. 63,724 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Pending payments by previous TDP Govt.",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Pending payments by previous TDP Govt. 2014-19",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Pending payments by previous TDP Govt.",
+     "evidence": "Pending payments by previous TDP Govt. 2014-19"
+    },
+    {
+     "source": "Pending bills are to the tune of Rs. 63,724 crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Pending payments by previous TDP Govt.",
+     "evidence": "Pending bills are to the tune of Rs. 63,724 crores."
+    }
+   ]
+  },
+  "911ade4b98bca74690917eaaa32c3644a3553c35": {
+   "entities": [
+    {
+     "name": "Stamps and Registrations",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State Excise",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Taxes and vehicles",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Land revenue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Other Receipts",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Miscellaneous General Services",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Some of the tax revenue categories are estimating to show a growth of more than 20% in FY 2025-26, such as Stamps and Registrations, State Excise, Taxes and vehicles.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "With respect to Land revenue a huge amount of Rs. 1,341 crores is shown this year as a revised estimate.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The revenues under this head during the first 10 months is only Rs. 196 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "An amount of Rs. 1,321 crores is shown as ‘Other Receipts’ under land revenue",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "In Non-tax revenues, the receipts under the head ‘Miscellaneous General Services’ has historically been very low at around Rs. 200 to Rs. 300 crores.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "However, the amount budgeted to be received under this head during FY 2025-26 is Rs. 7,916 crores.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "2bfc3229c7320929a9a45df107682f37437c87df": {
+   "entities": [
+    {
+     "name": "Rs. 6,000 crores was shown as an allocation for Amaravati Capital City Development.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The budget speech of the finance minister describes the project as a self sustaining one.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The budget allocation for a self sustaining project was subsequently viewed by the Government as a logic defying proposition and to address this, they had once again tried to blatantly mislead the public by conveying that this Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Legislative Assembly",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Municipal Administration and Urban Development",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Constitution of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "finance minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati Capital City Development",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Land Pooling for New State Capital",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "State Development Schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Self sustaining project",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "finance minister",
+     "relation": "MAKES_CLAIM",
+     "target": "The budget speech of the finance minister describes the project as a self sustaining one.",
+     "evidence": "The budget speech of the finance minister describes the project as a self sustaining one."
+    },
+    {
+     "source": "Rs. 6,000 crores was shown as an allocation for Amaravati Capital City Development.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati Capital City Development",
+     "evidence": "Rs. 6,000 crores was shown as an allocation for Amaravati Capital City Development."
+    },
+    {
+     "source": "The budget allocation for a self sustaining project was subsequently viewed by the Government as a logic defying proposition and to address this, they had once again tried to blatantly mislead the public by conveying that this Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati Capital City Development",
+     "evidence": "The budget allocation for a self sustaining project was subsequently viewed by the Government as a logic defying proposition and to address this, they had once again tried to blatantly mislead the public by conveying that this Rs. 6,000 crores is not for capital city development but for yearly pensions to land owners."
+    },
+    {
+     "source": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati Capital City Development",
+     "evidence": "Rs. 6,000 crores has been allocated under the head 4215-01-051-03-80-530-531."
+    },
+    {
+     "source": "The amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati Capital City Development",
+     "evidence": "The amount to land owners as annuity is Rs. 297.82 crores and the same has been allocated under the head 4215-01-050-11-05-530-532."
+    }
+   ]
+  }
+ }
+}

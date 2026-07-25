@@ -1,0 +1,107 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cd2d5e055137fceae0cb7ba888cd2186e41edaa9": {
+   "entities": [
+    {
+     "name": "Madhira Sahana",
+     "type": "Person",
+     "english_name": "Madhira Sahana"
+    },
+    {
+     "name": "Raghu Naveen",
+     "type": "Person",
+     "english_name": "Raghu Naveen"
+    },
+    {
+     "name": "Union Minister Pemmasani Chandra Sekhar",
+     "type": "Person",
+     "english_name": "Pemmasani Chandra Sekhar"
+    },
+    {
+     "name": "DSP Janardhan Rao",
+     "type": "Person",
+     "english_name": "Janardhan Rao"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Guntur Government Hospital",
+     "type": "Organization",
+     "english_name": "Guntur Government Hospital"
+    },
+    {
+     "name": "Tenali",
+     "type": "Place",
+     "english_name": "Tenali"
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "attack on women",
+     "type": "Issue",
+     "english_name": "attack on women"
+    },
+    {
+     "name": "Naveen attacked Sahana because she asked for loan repayment",
+     "type": "Claim",
+     "english_name": "Naveen attacked Sahana because she asked for loan repayment"
+    },
+    {
+     "name": "Naveen took Rs 3 lakh loan, returned Rs 1.5 lakh",
+     "type": "Claim",
+     "english_name": "Naveen took Rs 3 lakh loan, returned Rs 1.5 lakh"
+    },
+    {
+     "name": "Sahana died due to brain hemorrhage after being hit on car dashboard",
+     "type": "Claim",
+     "english_name": "Sahana died due to brain hemorrhage after being hit on car dashboard"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Guntur Government Hospital",
+     "relation": "LOCATED_IN",
+     "target": "Guntur",
+     "evidence": "గుంటూరు ప్రభుత్వ ఆసుపత్రిలో"
+    },
+    {
+     "source": "DSP Janardhan Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Naveen attacked Sahana because she asked for loan repayment",
+     "evidence": "అప్పుగా తీసుకున్న నగదును తిరిగి ఇవ్వమని అడిగినందుకే సహానాపై రౌడీషీటర్ నవీన్ దాడి చేసినట్లు తెనాలి డీఎస్పీ జనార్ధనరావు చెప్పారు."
+    },
+    {
+     "source": "DSP Janardhan Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Naveen took Rs 3 lakh loan, returned Rs 1.5 lakh",
+     "evidence": "సహానా వద్ద నవీన్ రూ. 3 లక్షలు తీసుకున్నాడని, అందులో రూ. 1.50 లక్షలు తిరిగి చెల్లించాడని తెలిపారు."
+    },
+    {
+     "source": "DSP Janardhan Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Sahana died due to brain hemorrhage after being hit on car dashboard",
+     "evidence": "ఆమెను కారు డ్యాష్ బోర్డుకేసి విచక్షణారహితంగా పలుమార్లు బాదాడని చెప్పారు. దీనివల్ల మెదడులో రక్తస్రావమై ఆమె కోమాలోకి వెళ్లిపోయింది."
+    },
+    {
+     "source": "Naveen attacked Sahana because she asked for loan repayment",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attack on women",
+     "evidence": "రాగి నవీన్ దాడి చేసిన తెనాలి యువతి మధిర సహానా"
+    },
+    {
+     "source": "Sahana died due to brain hemorrhage after being hit on car dashboard",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attack on women",
+     "evidence": "ఆమెను కారు డ్యాష్ బోర్డుకేసి విచక్షణారహితంగా పలుమార్లు బాదాడని చెప్పారు."
+    }
+   ]
+  }
+ }
+}

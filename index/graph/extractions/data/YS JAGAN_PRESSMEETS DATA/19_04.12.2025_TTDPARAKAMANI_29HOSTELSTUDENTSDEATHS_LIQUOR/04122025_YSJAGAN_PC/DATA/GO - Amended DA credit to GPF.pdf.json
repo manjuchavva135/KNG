@@ -1,0 +1,275 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1fd1942b3b40c1261c67fea9577bbae66129a70f": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (HR.VI-PC&TA) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "OPS employees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CPS employees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PTD employees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "EPS-95 employees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "General Provident Fund (GPF)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PRAN accounts",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e7691cfcca52c6c03fc56c6fe2f54c88500b2c22": {
+   "entities": [
+    {
+     "name": "PEEYUSH KUMAR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PRINCIPAL SECRETARY TO GOVERNMENT",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vidyuth Soudha",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gunadala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "A.G (A&E)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Treasuries & Accounts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of State Audit",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pay & Accounts Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Works Accounts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Heads of Departments",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Collectors",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Superintendents of Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Judges",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Registrar, High Court of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, A.P. TRANSCO, A.P. GENCO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, A.P. Public Service Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Joint Directors of Works Projects",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Treasury Officers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Executive Officers of all Zilla Parishads",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Secretaries to Agricultural Market Committees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioners/Special Officers of Municipalities/ Corporations",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Recognized Service Associations",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Registrar of all the Universities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Administration (Cabinet) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "For the CPS employees including PTD employees who have opted CPS and governed by the CPS, the amount will be paid in cash.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "For EPS-95 employees, the arrears of DA shall be calculated as per the rules governed by the EPS-95 and paid accordingly.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government hereby orders to amend the orders issued in Para 11 of reference 8th read above.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "PEEYUSH KUMAR",
+     "relation": "MAKES_CLAIM",
+     "target": "For the CPS employees including PTD employees who have opted CPS and governed by the CPS, the amount will be paid in cash.",
+     "evidence": "For the CPS employees including PTD employees who have opted CPS and governed by the CPS, the amount will be paid in cash."
+    },
+    {
+     "source": "PEEYUSH KUMAR",
+     "relation": "MAKES_CLAIM",
+     "target": "For EPS-95 employees, the arrears of DA shall be calculated as per the rules governed by the EPS-95 and paid accordingly.",
+     "evidence": "For EPS-95 employees, the arrears of DA shall be calculated as per the rules governed by the EPS-95 and paid accordingly."
+    },
+    {
+     "source": "Government",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "GOVERNOR OF ANDHRA PRADESH"
+    },
+    {
+     "source": "Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada"
+    },
+    {
+     "source": "Mangalagiri",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Mangalagiri"
+    },
+    {
+     "source": "Amaravati",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati"
+    },
+    {
+     "source": "Vidyuth Soudha",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vidyuth Soudha"
+    },
+    {
+     "source": "Gunadala",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Gunadala"
+    },
+    {
+     "source": "A.G (A&E)",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "A.P., Vijayawada"
+    }
+   ]
+  }
+ }
+}

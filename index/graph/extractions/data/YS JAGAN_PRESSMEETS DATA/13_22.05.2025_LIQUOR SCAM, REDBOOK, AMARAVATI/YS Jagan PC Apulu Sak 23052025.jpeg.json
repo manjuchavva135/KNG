@@ -1,0 +1,850 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "54f90efc5829f86f7d7ab0ddc319fb3f09b727e9": {
+   "entities": [
+    {
+     "name": "హామీలన్నీ ఎగరగొట్టారు.",
+     "type": "Claim",
+     "english_name": "All promises have been taken away."
+    },
+    {
+     "name": "ప్రభుత్వ పనితీరు దారుణంగా ఉంది.",
+     "type": "Claim",
+     "english_name": "Government performance is terrible."
+    },
+    {
+     "name": "కేవలం 3.08 శాతం మాత్రమే గ్రోత్రేట్ కనిపిస్తోంది.",
+     "type": "Claim",
+     "english_name": "Only 3.08 percent growth rate is visible."
+    },
+    {
+     "name": "ప్రజల కొనుగోలు శక్తి, పెట్టుబడులు తగ్గాయి.",
+     "type": "Claim",
+     "english_name": "People's purchasing power and investments have decreased."
+    }
+   ],
+   "relations": []
+  },
+  "5b8eaa5354bd2c96577fc8a7aaf21b1c3f647731": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "టాడేపల్లిలోని వైఎస్సార్సీపీ కేంద్ర కార్యాలయం",
+     "type": "Place",
+     "english_name": "YSRCP central office in Tadepalli"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": "Sri Lanka"
+    },
+    {
+     "name": "విజయవాడ-గుంటూరు",
+     "type": "Place",
+     "english_name": "Vijayawada-Guntur"
+    },
+    {
+     "name": "నాగార్జున యూనివర్సిటీ",
+     "type": "Place",
+     "english_name": "Nagarjuna University"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, ఆయన గజ దొంగల ముఠా దోపిడీతో రాష్ట్రం అతలాకుతలమైపోతోందని"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ప్రభుత్వానికి తగ్గిన ఆదాయం చంద్రబాబు గజ దొంగల ముఠా జేబుల్లోకి వెళ్తోందని ఆగ్రహం వ్యక్తం చేశారు."
+    }
+   ]
+  },
+  "3332ee45fe3151dcc4b1eb1a929bad54991b1bcd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీ",
+     "type": "Organization",
+     "english_name": "Access Energy Venture India Company"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఎన్టీపీసీ",
+     "type": "Organization",
+     "english_name": "NTPC"
+    },
+    {
+     "name": "రిలయెన్స్",
+     "type": "Organization",
+     "english_name": "Reliance"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bangalore"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Electricity purchase scam",
+     "type": "Issue",
+     "english_name": "Electricity purchase scam"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీతో ఒప్పందం... ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్.",
+     "type": "Claim",
+     "english_name": "చంద్రబాబు ప్రభుత్వం యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీతో ఒప్పందం... ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్."
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం లో అదనంగా రూ.2.11 చెల్లిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": "చంద్రబాబు ప్రభుత్వం లో అదనంగా రూ.2.11 చెల్లిస్తున్నారు."
+    },
+    {
+     "name": "చంద్రబాబు తెలివిగా బీబీబీ (బండ్లింగ్, బ్యాంకింగ్. బ్యాలెన్సింగ్) అన్న ప్రస్తావన తెచ్చారు.",
+     "type": "Claim",
+     "english_name": "చంద్రబాబు తెలివిగా బీబీబీ (బండ్లింగ్, బ్యాంకింగ్. బ్యాలెన్సింగ్) అన్న ప్రస్తావన తెచ్చారు."
+    },
+    {
+     "name": "చంద్రబాబు స్కామ్లు చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": "చంద్రబాబు స్కామ్లు చేస్తున్నారు."
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీ",
+     "evidence": "చంద్రబాబు ప్రభుత్వం యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీతో ఒప్పందం... ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ప్రభుత్వం యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీతో ఒప్పందం... ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్.",
+     "evidence": "చంద్రబాబు ప్రభుత్వం యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీతో ఒప్పందం... ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ప్రభుత్వం లో అదనంగా రూ.2.11 చెల్లిస్తున్నారు.",
+     "evidence": "చంద్రబాబు ప్రభుత్వం లో అదనంగా రూ.2.11 చెల్లిస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు తెలివిగా బీబీబీ (బండ్లింగ్, బ్యాంకింగ్. బ్యాలెన్సింగ్) అన్న ప్రస్తావన తెచ్చారు.",
+     "evidence": "చంద్రబాబు తెలివిగా బీబీబీ (బండ్లింగ్, బ్యాంకింగ్. బ్యాలెన్సింగ్) అన్న ప్రస్తావన తెచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు స్కామ్లు చేస్తున్నారు.",
+     "evidence": "చంద్రబాబు స్కామ్లు చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు ప్రభుత్వం యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీతో ఒప్పందం... ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Electricity purchase scam",
+     "evidence": "చంద్రబాబు ప్రభుత్వం యాక్సెస్ ఎనర్జీ వెంచర్ ఇండియా కంపెనీతో ఒప్పందం... ఇది ఏకంగా రూ.11 వేల కోట్ల స్కామ్."
+    }
+   ]
+  },
+  "7b57e1af278fd5053d5877f2185f6359fdb64303": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఎన్టీపీసీ",
+     "type": "Organization",
+     "english_name": "NTPC"
+    },
+    {
+     "name": "రిలయెన్స్",
+     "type": "Organization",
+     "english_name": "Reliance"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "ఏడీబీ",
+     "type": "Organization",
+     "english_name": "ADB"
+    },
+    {
+     "name": "హడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "కేఎఫ్డబ్ల్యూ",
+     "type": "Organization",
+     "english_name": "KFW"
+    },
+    {
+     "name": "సీఆర్డీఏ",
+     "type": "Organization",
+     "english_name": "CRDA"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు స్కామ్లు చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati construction scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు స్కామ్లు చేస్తున్నారు",
+     "evidence": "ఆ విధంగా చంద్రబాబు స్కామ్లు చేస్తున్నారు."
+    },
+    {
+     "source": "సీఆర్డీఏ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి నిర్మాణం స్కామ్లలో పరాకాష్ట..."
+    }
+   ]
+  },
+  "52aa7958491a7e8e58389190b4dcc740fe8e1c01": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎండీసీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు అప్పుల కోసం రాజ్యాంగాన్ని ఉల్లంఘిస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎండీసీని ప్రైవేటువరం చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎండీసీ భవిష్యత్తును చంద్రబాబు అందకారమయం చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎండీసీని తాకట్టుపెట్టి అప్పులు తీసుకుని వచ్చి ఆ అప్పుల్ని డైవర్ట్ చేసుకుంటూ ఏపీఎం డీసీని శాశ్వతంగా అప్పుల ఊబిలోకి నెట్టే కార్యక్రమం దగ్గరుండి చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు అప్పుల కోసం రాజ్యాంగాన్ని ఉల్లంఘిస్తున్నాడు.",
+     "evidence": "చంద్రబాబు అప్పుల కోసం రాజ్యాంగాన్ని ఉల్లంఘిస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీఎండీసీని ప్రైవేటువరం చేస్తున్నారు.",
+     "evidence": "ఏపీఎండీసీని ప్రైవేటువరం చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీఎండీసీ భవిష్యత్తును చంద్రబాబు అందకారమయం చేస్తున్నాడు.",
+     "evidence": "ఏపీఎండీసీ భవిష్యత్తును చంద్రబాబు అందకారమయం చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీఎండీసీని తాకట్టుపెట్టి అప్పులు తీసుకుని వచ్చి ఆ అప్పుల్ని డైవర్ట్ చేసుకుంటూ ఏపీఎం డీసీని శాశ్వతంగా అప్పుల ఊబిలోకి నెట్టే కార్యక్రమం దగ్గరుండి చేస్తున్నాడు.",
+     "evidence": "ఏపీఎండీసీని తాకట్టుపెట్టి అప్పులు తీసుకుని వచ్చి ఆ అప్పుల్ని డైవర్ట్ చేసుకుంటూ ఏపీఎం డీసీని శాశ్వతంగా అప్పుల ఊబిలోకి నెట్టే కార్యక్రమం దగ్గరుండి చేస్తున్నాడు."
+    },
+    {
+     "source": "ఏపీ ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి నిర్మాణం కోసం చేసిన అప్ప రూ.31 వేల కోట్లు."
+    }
+   ]
+  },
+  "c2d02039d06c6f5f802ce9f37438e376c5e0634e": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు అందకారమయం చేస్తున్నాడు. ఏకంగా ఏపీఎండీసీని తాకట్టుపెట్టి అప్పులు తీసుకుని వచ్చి ఆ అప్పుల్ని డైవర్ట్ చేసుకుంటూ ఏపీఎం డీసీని శాశ్వతంగా అప్పుల ఊబిలోకి నెట్టే కార్యక్రమం దగ్గరుండి చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంకా చెప్పాలంటే ఏపీఎండీసీని ప్రైవేటువరం చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు అందకారమయం చేస్తున్నాడు. ఏకంగా ఏపీఎండీసీని తాకట్టుపెట్టి అప్పులు తీసుకుని వచ్చి ఆ అప్పుల్ని డైవర్ట్ చేసుకుంటూ ఏపీఎం డీసీని శాశ్వతంగా అప్పుల ఊబిలోకి నెట్టే కార్యక్రమం దగ్గరుండి చేస్తున్నాడు.",
+     "evidence": "చంద్రబాబు అందకారమయం చేస్తున్నాడు. ఏకంగా ఏపీఎండీసీని తాకట్టుపెట్టి అప్పులు తీసుకుని వచ్చి ఆ అప్పుల్ని డైవర్ట్ చేసుకుంటూ ఏపీఎం డీసీని శాశ్వతంగా అప్పుల ఊబిలోకి నెట్టే కార్యక్రమం దగ్గరుండి చేస్తున్నాడు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇంకా చెప్పాలంటే ఏపీఎండీసీని ప్రైవేటువరం చేస్తున్నారు.",
+     "evidence": "ఇంకా చెప్పాలంటే ఏపీఎండీసీని ప్రైవేటువరం చేస్తున్నారు."
+    }
+   ]
+  },
+  "2bf8267cc560e70c9f4958630dc286f78d6cc895": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "YSRCP debt claim",
+     "type": "Claim",
+     "english_name": "YSRCP debt claim"
+    },
+    {
+     "name": "Chandrababu debt record claim",
+     "type": "Claim",
+     "english_name": "Chandrababu debt record claim"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "Chandrababu debt record claim",
+     "evidence": "చంద్రబాబు 2024లో అధికారంలోకి వచ్చిన తర్వాత ఏడాదిలోనే ఏకంగా రూ.1,37,546 కోట్లు అప్పులతో రికార్డు సృష్టించారు."
+    }
+   ]
+  },
+  "4642982483c52021f21d409be1cbb6626a63edf7": {
+   "entities": [
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Machilipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నాగార్జున యూనివర్సిటీ",
+     "type": "Place",
+     "english_name": "Nagarjuna University"
+    },
+    {
+     "name": "ఇప్పటికే నువ్వు చేసిన పనికి విజయవాడ, గుంటూరుల్లో రియల్ ఎస్టేట్ ఢమాలైంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా హయాంలో విజయవాడ నుంచి మచిలీపట్నం దాకా రియల్ ఎస్టేట్ వ్యాపారం పెరిగింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మచిలీపట్నంలో పోర్టు కట్టాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్ కాలేజీ నిర్మించాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విజయవాడ-గుంటూరు మధ్య రాజధాని కడితే రేట్లు పెరుగుతాయి.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇప్పటికే నువ్వు చేసిన పనికి విజయవాడ, గుంటూరుల్లో రియల్ ఎస్టేట్ ఢమాలైంది.",
+     "evidence": "ఇప్పటికే నువ్వు చేసిన పనికి విజయవాడ, గుంటూరుల్లో రియల్ ఎస్టేట్ ఢమాలైంది."
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "విజయవాడ-గుంటూరు మధ్య రాజధాని కడితే రేట్లు పెరుగుతాయి.",
+     "evidence": "విజయవాడ-గుంటూరు మధ్య రాజధాని కడితే రేట్లు పెరుగుతాయి."
+    },
+    {
+     "source": "ఇప్పటికే నువ్వు చేసిన పనికి విజయవాడ, గుంటూరుల్లో రియల్ ఎస్టేట్ ఢమాలైంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఇన్నిన్ని స్కాములు చేసే"
+    }
+   ]
+  },
+  "af7a32b427891469e9a654f5483f3a6c1113f3e5": {
+   "entities": [
+    {
+     "name": "ఏపీఎండీసీ బాండ్స్",
+     "type": "Organization",
+     "english_name": "AP MDCC bonds"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "state government debt",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "state split",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఐదేళ్లలో వైఎస్సార్ సీపీ ప్రభుత్వం మొత్తం రూ.3,32,671 కోట్లు అప్పులు చేస్తే..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు 2024లో అధికారంలోకి వచ్చిన తర్వాత ఏడాదిలోనే ఏకంగా రూ.1,37,546 కోట్లు అప్పులతో రికార్డు సృష్టించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అంటే వైఎస్సార్ సీపీ హయాంలో చేసిన మొత్తం అప్పుల్లో.. ఒక్క ఏడాదిలోనే చంద్రబాబు 41 శాతం అప్పులు చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు 2024లో అధికారంలోకి వచ్చిన తర్వాత ఏడాదిలోనే ఏకంగా రూ.1,37,546 కోట్లు అప్పులతో రికార్డు సృష్టించారు.",
+     "evidence": "చంద్రబాబు 2024లో అధికారంలోకి వచ్చిన తర్వాత ఏడాదిలోనే ఏకంగా రూ.1,37,546 కోట్లు అప్పులతో రికార్డు సృష్టించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అంటే వైఎస్సార్ సీపీ హయాంలో చేసిన మొత్తం అప్పుల్లో.. ఒక్క ఏడాదిలోనే చంద్రబాబు 41 శాతం అప్పులు చేశారు.",
+     "evidence": "అంటే వైఎస్సార్ సీపీ హయాంలో చేసిన మొత్తం అప్పుల్లో.. ఒక్క ఏడాదిలోనే చంద్రబాబు 41 శాతం అప్పులు చేశారు."
+    }
+   ]
+  },
+  "9219a9e2bc716c76e397662c7138a72f4eb7c03d": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rameshwar Prasad Gupta",
+     "type": "Person",
+     "english_name": "Rameshwar Prasad Gupta"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP's contract with SECI led to removal of Rameshwar Prasad Gupta from MD post",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e89e28758bcfe07c6cea8c7e163c020c9e73b71f": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రామేశ్వర్ ప్రసాద్ గుప్తా",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అప్పల సామ్రాట్ చంద్రబాబు",
+     "type": "Claim",
+     "english_name": "Appala Samrat Chandrababu"
+    },
+    {
+     "name": "మా ప్రభుత్వ హయాంలో చివరి ఏడాది రూ.67,720 కోట్ల అప్పులు చేస్తే..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు రాష్ట్రాన్ని ఆతలాకుతలం చేస్తున్న పరిస్థితిని స్పష్టం చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు తన హయాంలో రూ.2,49,350 కోట్ల అప్పులు చేసి, 'అప్పుల సామ్రాట్' గా పేరు తెచ్చుకున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా హయాంలో అప్పుల పెరుగుదల (కాంపౌండ్ యాన్యువల్ గ్రోత్ రేట్- సీఏజీఆర్) 13.57 శాతం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఒక్క ఏడాదిలోనే చేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆఫ్ బడ్జెట్ బారోయింగ్స్ ఏపీపీఎఫ్సీ: రూ.710 కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "9c20ff183eb053c9914c1956ec3016ecad586f5f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఆదాయపు పన్ను శాఖ",
+     "type": "Organization",
+     "english_name": "Income Tax Department"
+    },
+    {
+     "name": "పెండ్కాల శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "Pendikala Srinivasa Rao"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "చంద్రబాబు లంచాలు తీసుకున్నాడు",
+     "type": "Claim",
+     "english_name": "Chandrababu took bribes"
+    },
+    {
+     "name": "మద్యం కుంభకోణం",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "రెడ్‌బుక్",
+     "type": "Issue",
+     "english_name": "Redbook"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అయినా ఏమాత్రం జంకు లేకుండా మళ్లీ యథేచ్ఛగా దోపిడీ చేస్తున్నాడు. - వైఎస్ జగన్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు లంచాలు తీసుకున్నాడు",
+     "evidence": "చంద్రబాబు గతంలో అమరావతిలో నిర్మాణాలు చేసి, లంచాలు తీసుకుని దొరికిన సందర్భం ఉంది."
+    },
+    {
+     "source": "సచివాలయం",
+     "relation": "LOCATED_IN",
+     "target": "హైదరాబాద్",
+     "evidence": "హైదరాబాద్లో ఇటీవల కొత్త సచివాలయం 8.58 లక్షల చదరపు అడుగుల్లో రూ.600 కోట్లతో కట్టారు."
+    }
+   ]
+  }
+ }
+}

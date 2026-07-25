@@ -1,0 +1,169 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "78fadadba096c92ff61cdd732d1f3b1ff1536d19": {
+   "entities": [],
+   "relations": []
+  },
+  "2ed9f978d4446c7de48148c8ff7bfed7cf34ad4f": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "Power Trading & Commercial Department",
+     "type": "Organization",
+     "english_name": "Power Trading & Commercial Department"
+    },
+    {
+     "name": "श्री गौरव",
+     "type": "Person",
+     "english_name": "Shri Gaurav"
+    },
+    {
+     "name": "NBCC Office Block Tower-2",
+     "type": "Place",
+     "english_name": "NBCC Office Block Tower-2"
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": "New Delhi"
+    },
+    {
+     "name": "National Capital Territory of Delhi",
+     "type": "Place",
+     "english_name": "National Capital Territory of Delhi"
+    },
+    {
+     "name": "Velagapudi",
+     "type": "Place",
+     "english_name": "Velagapudi"
+    },
+    {
+     "name": "Andhra",
+     "type": "Place",
+     "english_name": "Andhra"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "having its registered office at 6th Floor, Plate-B, NBCC Office Block Tower-2, East Kidwai Nagar, New Delhi-110023"
+    },
+    {
+     "source": "Power Trading & Commercial Department",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "Power Trading & Commercial Department, सोलर एनर्जी कॉर्पोरेशन ऑफ इंडिया लि. (Sora Energy Corp. of India Ltd.) ... New Delhi-23"
+    },
+    {
+     "source": "NBCC Office Block Tower-2",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "6th Floor, Plate-B, NBCC Office Block Tower-2, East Kidwai Nagar, New Delhi-110023"
+    },
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "National Capital Territory of Delhi",
+     "evidence": "Government of National Capital Territory of Delhi"
+    },
+    {
+     "source": "Velagapudi",
+     "relation": "LOCATED_IN",
+     "target": "Andhra",
+     "evidence": "Velagapudi, Andhra-"
+    }
+   ]
+  },
+  "98ccbd416c7857025d2c5c358f75976d6feaa68c": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Bank of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APSPDCL :: TIRUPATI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Aditya Power Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy Secretary to Government",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Energy Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Velagapudi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ENERGYCORPORATIONOFINDIALIMITED",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Aditya Power Limited",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Aditya Power Limited Vijayawada"
+    },
+    {
+     "source": "A.P. Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Velagapudi",
+     "evidence": "A.P. Secretariat, Velagapudi"
+    },
+    {
+     "source": "A.P. Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "A.P. Secretariat, Velagapudi, Amaravati"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,5228 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "036c4038c3e7bba57425fa3231b061e7280478f0": {
+   "entities": [],
+   "relations": []
+  },
+  "5f7e142a50f77b0ccd1289b1b9746bf9707fda83": {
+   "entities": [],
+   "relations": []
+  },
+  "666f7cdeea32a4ae364e9dad6a409d8912246227": {
+   "entities": [],
+   "relations": []
+  },
+  "da2297af77b4797b9ffa86607a4e2ba9a80a72a5": {
+   "entities": [],
+   "relations": []
+  },
+  "814510df34570b31fb9990635a3ccf5491d03ed7": {
+   "entities": [],
+   "relations": []
+  },
+  "5d7cdbbbe4abc2a0900d736fdabee1f45ca10a93": {
+   "entities": [],
+   "relations": []
+  },
+  "22d4446051cf87891e0339d36448080813379926": {
+   "entities": [],
+   "relations": []
+  },
+  "388795bdd55c976e61dde48e939e5d663ab556c1": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "In a democracy, criticism is not a crime; it is a constitutional right.",
+     "type": "Claim",
+     "english_name": "In a democracy, criticism is not a crime; it is a constitutional right."
+    },
+    {
+     "name": "CRITICISM IS NOT A CRIME. DEMOCRACY IS NOT A THREAT.",
+     "type": "Claim",
+     "english_name": "CRITICISM IS NOT A CRIME. DEMOCRACY IS NOT A THREAT."
+    },
+    {
+     "name": "Andhra Pradesh has witnessed a growing pattern of criminal cases, police action, social media takedown requests, censorship, and legal intimidation directed at critics of the government.",
+     "type": "Claim",
+     "english_name": "Andhra Pradesh has witnessed a growing pattern of criminal cases, police action, social media takedown requests, censorship, and legal intimidation directed at critics of the government."
+    },
+    {
+     "name": "Censorship of Freedom of Speech & Silencing Dissent in Andhra Pradesh",
+     "type": "Issue",
+     "english_name": "Censorship of Freedom of Speech & Silencing Dissent in Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh has witnessed a growing pattern of criminal cases, police action, social media takedown requests, censorship, and legal intimidation directed at critics of the government.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Censorship of Freedom of Speech & Silencing Dissent in Andhra Pradesh",
+     "evidence": "Andhra Pradesh has witnessed a growing pattern of criminal cases, police action, social media takedown requests, censorship, and legal intimidation directed at critics of the government."
+    },
+    {
+     "source": "CRITICISM IS NOT A CRIME. DEMOCRACY IS NOT A THREAT.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Censorship of Freedom of Speech & Silencing Dissent in Andhra Pradesh",
+     "evidence": "CRITICISM IS NOT A CRIME. DEMOCRACY IS NOT A THREAT."
+    },
+    {
+     "source": "Police",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh has witnessed a growing pattern of criminal cases, police action, social media takedown requests, censorship, and legal intimidation directed at critics of the government."
+    },
+    {
+     "source": "government",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh has witnessed a growing pattern of criminal cases, police action, social media takedown requests, censorship, and legal intimidation directed at critics of the government."
+    }
+   ]
+  },
+  "d0ef0bcdfb01875c3549ffe5506e0035aeeab7cb": {
+   "entities": [
+    {
+     "name": "police",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "8ac446a0115354fd1a8b05cf1cca74d27dc272f2": {
+   "entities": [
+    {
+     "name": "fabrication and misuse of false and misleading political information",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "circulation of statements causing public disturbance, hostility, and collective coordination in dissemination of such content with intent to create public mischief and breach of peace",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "circulation of statements causing public disturbance, hostility, and collective coordination in dissemination of such content with intent to create public mischief and breach of peace",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "fabrication and misuse of false and misleading political information",
+     "evidence": "circulation of statements causing public disturbance, hostility, and collective coordination in dissemination of such content with intent to create public mischief and breach of peace"
+    }
+   ]
+  },
+  "509c7ac25b9314bff141a8b6b12fb3a4a026fbcc": {
+   "entities": [],
+   "relations": []
+  },
+  "fa4912e211b7d8d8934a334b565cbd0870917935": {
+   "entities": [],
+   "relations": []
+  },
+  "05ff43fba94ae9877348768a2ac72fd25f7407bd": {
+   "entities": [
+    {
+     "name": "Prof. K.Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "JanaSena",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy Chief Minister Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "dissent or criticism wont be tolerated",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "major political controversy",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Police",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "travelled to Hyderabad"
+    },
+    {
+     "source": "Deputy Chief Minister Pawan Kalyan",
+     "relation": "MAKES_CLAIM",
+     "target": "dissent or criticism wont be tolerated",
+     "evidence": "he had intervened and ensured that the police team returned without arresting him, just to give a clear communication that dissent or criticism wont be tolerated."
+    }
+   ]
+  },
+  "94d6ca44fec7809a1d7e11d0d8e3cf6ae8676f9a": {
+   "entities": [],
+   "relations": []
+  },
+  "9c370d8bf1c759cb86bc8259f4787826b5c6b714": {
+   "entities": [],
+   "relations": []
+  },
+  "9cfa6c535f4b794d0c0af74292ec4ed21cae7b89": {
+   "entities": [
+    {
+     "name": "Nageshwar",
+     "type": "Person",
+     "english_name": "Nageshwar"
+    },
+    {
+     "name": "The NEWS Minute",
+     "type": "Organization",
+     "english_name": "The NEWS Minute"
+    },
+    {
+     "name": "Andhra Pradesh police",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh police"
+    },
+    {
+     "name": "Janasena leaders",
+     "type": "Party",
+     "english_name": "Janasena leaders"
+    },
+    {
+     "name": "99TV",
+     "type": "Organization",
+     "english_name": "99TV"
+    },
+    {
+     "name": "Deputy Chief Minister Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Union Home Minister Amit Shah",
+     "type": "Person",
+     "english_name": "Amit Shah"
+    },
+    {
+     "name": "former Chief Minister Y.S. Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Kakinada",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": "Emergency 2.0"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh police",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh police and Janasena leaders filed FIRs against Nageshwar on Sunday, May 21 in Kakinada."
+    },
+    {
+     "source": "Kakinada",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh police and Janasena leaders filed FIRs against Nageshwar on Sunday, May 21 in Kakinada."
+    },
+    {
+     "source": "Deputy Chief Minister Pawan Kalyan",
+     "relation": "MEMBER_OF",
+     "target": "Janasena leaders",
+     "evidence": "Deputy Chief Minister Pawan Kalyan, who reportedly approached Union Home Minister Amit Shah..."
+    }
+   ]
+  },
+  "96704bf2c1de3890c58cb1b2621bca3d64b01f9a": {
+   "entities": [
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Sarat Uday",
+     "type": "Person",
+     "english_name": "Sarat Uday"
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "@ncnb",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "@naralokesh",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "Super6",
+     "type": "Scheme",
+     "english_name": "Super6"
+    },
+    {
+     "name": "@Akshita_N",
+     "type": "Person",
+     "english_name": "Akshita N"
+    },
+    {
+     "name": "ThePrintFeature",
+     "type": "Organization",
+     "english_name": "ThePrintFeature"
+    },
+    {
+     "name": "IndiaToday",
+     "type": "Organization",
+     "english_name": "India Today"
+    },
+    {
+     "name": "National media",
+     "type": "Organization",
+     "english_name": "National media"
+    },
+    {
+     "name": "TheNewsMinute",
+     "type": "Organization",
+     "english_name": "The News Minute"
+    },
+    {
+     "name": "YouTube",
+     "type": "Organization",
+     "english_name": "YouTube"
+    }
+   ],
+   "relations": []
+  },
+  "ff6c992a21d5da7d064a651493bf729dca0382e9": {
+   "entities": [],
+   "relations": []
+  },
+  "51b4fbbfb3fae5705050a90899ed97217e8d4216": {
+   "entities": [
+    {
+     "name": "Koramangala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Surat Uday",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ThePrintIndia",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dhanya Rajendran",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Yunus Lasania",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Lokesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Surat Uday should apologize for his joke",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Koramangala",
+     "relation": "LOCATED_IN",
+     "target": "Bengaluru",
+     "evidence": "The incident took place in Koramangala at 7 pm."
+    }
+   ]
+  },
+  "5c3fcca46b0a3c5df4503e6b4bc2647937b47f89": {
+   "entities": [
+    {
+     "name": "Telugu Desam Party (TDP)",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Sarat Uday",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Chief Minister N Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nara Lokesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Koramangala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Siasat Daily",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TimesNow",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Zoom",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "I had already apologised for those jokes",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Attacks on stand-up comedians",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Bengaluru",
+     "relation": "LOCATED_IN",
+     "target": "Koramangala",
+     "evidence": "The incident took place at Koramangala in Bengaluru"
+    },
+    {
+     "source": "Sarat Uday",
+     "relation": "MAKES_CLAIM",
+     "target": "I had already apologised for those jokes",
+     "evidence": "Sarat told them that he had already apologised for those jokes."
+    },
+    {
+     "source": "Nara Lokesh",
+     "relation": "MEMBER_OF",
+     "target": "Telugu Desam Party (TDP)",
+     "evidence": "Nara Lokesh, who is the minister for human resources development."
+    },
+    {
+     "source": "I had already apologised for those jokes",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attacks on stand-up comedians",
+     "evidence": "The attacks on stand-up comedians have become the new normal in India."
+    }
+   ]
+  },
+  "8c6814a7d2787e69924709c1babf94998f1c4d40": {
+   "entities": [
+    {
+     "name": "The Indian Express",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The New Indian Express",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The News Minute",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Anudeep",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tollywood actors",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rafiq",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nikhila Henry",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kiran Parashar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jahnavi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Balakrishna Ganeshan",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ebb7a810f3aed5b8a37e056a20a926ca8dbdfd27": {
+   "entities": [
+    {
+     "name": "Crackdown and legal action against stand-up comedians for old comedy content.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Satire treated as crime",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Telugu Desam Party (TDP)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sarat Uday",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "N Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Anudeep Kakitala",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Rafiq",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Secunderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "City Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Crackdown and legal action against stand-up comedians for old comedy content.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Satire treated as crime",
+     "evidence": "Crackdown and legal action against stand-up comedians for old comedy content."
+    }
+   ]
+  },
+  "9b2e8153728b6b114702f5c380c42ed6642d525d": {
+   "entities": [
+    {
+     "name": "Sri Sirangu Srinivasarao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. K. Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "the journalist",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "99 TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "false, unverified, and politically sensitive statements relating to high-level political meetings involving constitutional functionaries and leaders of the State.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "public mischief and hostility",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kakinada Rural Mandal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ganganapalli Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Maruthi Nagar",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Airtel Tower Veedhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "D.No. 2-214/5",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sri Sirangu Srinivasarao",
+     "relation": "ACCUSES",
+     "target": "Prof. K. Nageshwar",
+     "evidence": "Prof. K. Nageshwar ... made false, unverified, and politically sensitive statements"
+    },
+    {
+     "source": "Sri Sirangu Srinivasarao",
+     "relation": "ACCUSES",
+     "target": "the journalist",
+     "evidence": "Accused No.2, the journalist"
+    },
+    {
+     "source": "Sri Sirangu Srinivasarao",
+     "relation": "ACCUSES",
+     "target": "99 TV",
+     "evidence": "media channel operated by Accused No.3 and others responsible for editorial control of 99 TV"
+    },
+    {
+     "source": "Prof. K. Nageshwar",
+     "relation": "MAKES_CLAIM",
+     "target": "false, unverified, and politically sensitive statements relating to high-level political meetings involving constitutional functionaries and leaders of the State.",
+     "evidence": "made false, unverified, and politically sensitive statements allegedly based on unnamed sources relating to high-level political meetings involving constitutional functionaries and leaders of the State."
+    },
+    {
+     "source": "false, unverified, and politically sensitive statements relating to high-level political meetings involving constitutional functionaries and leaders of the State.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "public mischief and hostility",
+     "evidence": "publication of statements likely to cause public mischief and hostility"
+    },
+    {
+     "source": "99 TV",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "State of Andhra Pradesh"
+    }
+   ]
+  },
+  "0ca006aa23a12542b648b2ae6325a5ffc129fc7a": {
+   "entities": [
+    {
+     "name": "Bharatiya Nyaya Sanhita, 2023",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "99TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi Media",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jana Sena Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Bharatiya Janata Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Telugu Desam Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Nallam Sreeramulu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. K.Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kommineni Srinivasa Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amit Shah",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Konidela Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nadendla Manohar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Y.S.Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kakinada Urban",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jayendra Nagar",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "D-Mart",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "False political statements on social media",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. K.Nageshwar made statements based on unnamed sources regarding an alleged meeting involving Amit Shah, Konidela Pawan Kalyan and Nadendla Manohar, suggesting differences within the ruling alliance between the Bharatiya Janata Party, Telugu Desam Party and Jana Sena Party.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Kommineni Srinivasa Rao on Sakshi Media concerning political relations involving Y.S.Jagan Mohan Reddy and the ruling alliance leaders.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The statements were made without any verifiable source of authentic material and that their publication and dissemination among the public and party cadres created political tension, misunderstanding, mistrust and apprehension capable of disturbing public peace and harmony.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Nallam Sreeramulu",
+     "relation": "ACCUSES",
+     "target": "Prof. K.Nageshwar",
+     "evidence": "the complainant reported for taking action against the accused against the accused Prof. K. Nageshwar"
+    },
+    {
+     "source": "Nallam Sreeramulu",
+     "relation": "ACCUSES",
+     "target": "Kommineni Srinivasa Rao",
+     "evidence": "the complainant reported for taking action against the accused ... Journalist Kommineni Srinivasa Rao"
+    },
+    {
+     "source": "Nallam Sreeramulu",
+     "relation": "ACCUSES",
+     "target": "99TV",
+     "evidence": "Journalist 99TV"
+    },
+    {
+     "source": "Nallam Sreeramulu",
+     "relation": "ACCUSES",
+     "target": "Sakshi TV",
+     "evidence": "Managements of Sakshi TV"
+    },
+    {
+     "source": "Nallam Sreeramulu",
+     "relation": "MEMBER_OF",
+     "target": "Jana Sena Party",
+     "evidence": "he is a General Secretary of Jana Sena Party."
+    },
+    {
+     "source": "Prof. K.Nageshwar",
+     "relation": "MAKES_CLAIM",
+     "target": "Prof. K.Nageshwar made statements based on unnamed sources regarding an alleged meeting involving Amit Shah, Konidela Pawan Kalyan and Nadendla Manohar, suggesting differences within the ruling alliance between the Bharatiya Janata Party, Telugu Desam Party and Jana Sena Party.",
+     "evidence": "Prof. K.Nageshwar made statements based on unnamed sources regarding an alleged meeting involving Amit Shah, Konidela Pawan Kalyan and Nadendla Manohar, suggesting differences within the ruling alliance between the Bharatiya Janata Party, Telugu Desam Party and Jana Sena Party."
+    },
+    {
+     "source": "Kommineni Srinivasa Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Kommineni Srinivasa Rao on Sakshi Media concerning political relations involving Y.S.Jagan Mohan Reddy and the ruling alliance leaders.",
+     "evidence": "similar discussions and insinuations were subsequently amplified through programs conducted by Kommineni Srinivasa Rao on Sakshi Media concerning political relations involving Y.S.Jagan Mohan Reddy and the ruling alliance leaders."
+    },
+    {
+     "source": "Prof. K.Nageshwar made statements based on unnamed sources regarding an alleged meeting involving Amit Shah, Konidela Pawan Kalyan and Nadendla Manohar, suggesting differences within the ruling alliance between the Bharatiya Janata Party, Telugu Desam Party and Jana Sena Party.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False political statements on social media",
+     "evidence": "the statements were made without any verifiable source of authentic material and that their publication and dissemination among the public and party cadres created political tension, misunderstanding, mistrust and apprehension capable of disturbing public peace and harmony."
+    },
+    {
+     "source": "Kommineni Srinivasa Rao on Sakshi Media concerning political relations involving Y.S.Jagan Mohan Reddy and the ruling alliance leaders.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False political statements on social media",
+     "evidence": "the statements were made without any verifiable source of authentic material and that their publication and dissemination among the public and party cadres created political tension, misunderstanding, mistrust and apprehension capable of disturbing public peace and harmony."
+    }
+   ]
+  },
+  "4448db6b9427a24bfda45c937c9dffc89d0e5662": {
+   "entities": [
+    {
+     "name": "Prof Vinayak Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Meta",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Technical Education University",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "28e1402590a0958a2b48747b4587623ae994e27c": {
+   "entities": [
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Prof Nageshwar Rao",
+     "type": "Person",
+     "english_name": "Prof. Nageshwar Rao"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Jyoti",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "removes supportive social media posts without prior notice",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "9b395d1d23897807f801384d299f0802b5de53ec": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "బ్రహ్మలింగం పద్మనాభం",
+     "type": "Person",
+     "english_name": "Brahma Lingam Padmanabham"
+    },
+    {
+     "name": "Bakka Jadson",
+     "type": "Person",
+     "english_name": "Bakka Jadson"
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kaloji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Bakka Jadson Controversy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీలో రాజకీయం చేసుకున్న చంద్రబాబు, పవన్ కళ్యాణ్ కు మా తెలంగాణలో మీకు పని ఏంటి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి శనివారం, ఆదివారం మా తెలంగాణకు ఎందుకు వస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అరేయ్ చెక్కగా పవన్ కళ్యాణ్ తోక్కుతా నా కొడకా..",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీలో రాజకీయం చేసుకున్న చంద్రబాబు, పవన్ కళ్యాణ్ కు మా తెలంగాణలో మీకు పని ఏంటి.",
+     "evidence": "ఏపీలో రాజకీయం చేసుకున్న చంద్రబాబు, పవన్ కళ్యాణ్ కు మా తెలంగాణలో మీకు పని ఏంటి."
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీలో రాజకీయం చేసుకున్న చంద్రబాబు, పవన్ కళ్యాణ్ కు మా తెలంగాణలో మీకు పని ఏంటి.",
+     "evidence": "ఏపీలో రాజకీయం చేసుకున్న చంద్రబాబు, పవన్ కళ్యాణ్ కు మా తెలంగాణలో మీకు పని ఏంటి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి శనివారం, ఆదివారం మా తెలంగాణకు ఎందుకు వస్తున్నారు.",
+     "evidence": "ప్రతి శనివారం, ఆదివారం మా తెలంగాణకు ఎందుకు వస్తున్నారు."
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి శనివారం, ఆదివారం మా తెలంగాణకు ఎందుకు వస్తున్నారు.",
+     "evidence": "ప్రతి శనివారం, ఆదివారం మా తెలంగాణకు ఎందుకు వస్తున్నారు."
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "అరేయ్ చెక్కగా పవన్ కళ్యాణ్ తోక్కుతా నా కొడకా..",
+     "evidence": "అరేయ్ చెక్కగా పవన్ కళ్యాణ్ తోక్కుతా నా కొడకా.."
+    },
+    {
+     "source": "అరేయ్ చెక్కగా పవన్ కళ్యాణ్ తోక్కుతా నా కొడకా..",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Bakka Jadson Controversy",
+     "evidence": "Bakka Jadson Controversy"
+    },
+    {
+     "source": "Kaloji TV",
+     "relation": "LOCATED_IN",
+     "target": "తెలంగాణ",
+     "evidence": "Kaloji TV"
+    },
+    {
+     "source": "Kaloji TV",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "Kaloji TV"
+    }
+   ]
+  },
+  "af0c061d35f3ef1723f9ac4900d3dcdb9396a1a5": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pasham Yadagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Meta",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan ను ఉప ముఖ్యమంత్రి చేయడమే తప్పు..",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Pasham Yadagiri",
+     "relation": "MAKES_CLAIM",
+     "target": "Pawan Kalyan ను ఉప ముఖ్యమంత్రి చేయడమే తప్పు..",
+     "evidence": "Pawan Kalyan ను ఉప ముఖ్యమంత్రి చేయడమే తప్పు.."
+    }
+   ]
+  },
+  "58561e3fb8acb622e821448178efae5814474f8e": {
+   "entities": [
+    {
+     "name": "AP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy CM Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Janasena",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "BRS",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "99TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The News Minute",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The Siasat Daily",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gulte.com",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Middle East",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "BNS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: AP Government sent police to Hyderabad to arrest Prof. Nageshwar",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Deputy CM Pawan Kalyan claimed the police returned after his intervention",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Three separate FIRs were registered against Prof. Nageshwar under provisions of the BNS relating to public mischief, promotion of hostility, criminal conspiracy, and other serious offences",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: The complaints were filed by Janasena functionaries",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Senior leaders including Pawan Kalyan and from both the TDP and Jana Sena publicly attacked Prof. Nageshwar",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Coordinated social media campaigns subjected him to personal abuse and vilification",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: FIRs against Prof K Nageshwar",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: Freedom of expression in Andhra Pradesh and Telangana",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Deputy CM Pawan Kalyan",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: Deputy CM Pawan Kalyan claimed the police returned after his intervention",
+     "evidence": "Deputy CM Pawan Kalyan claimed the police returned after his intervention."
+    },
+    {
+     "source": "Deputy CM Pawan Kalyan",
+     "relation": "MEMBER_OF",
+     "target": "Janasena",
+     "evidence": "Senior leaders including Pawan Kalyan and from both the TDP and Jana Sena publicly attacked Prof. Nageshwar."
+    },
+    {
+     "source": "AP Government",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "AP Government"
+    }
+   ]
+  },
+  "1de222678c51813bd99c694d29a036aa3c5883f3": {
+   "entities": [
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "KTR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Lokesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ABN RK",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. Nageshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "journalists",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "civil liberties advocates",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "political observers",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Issue1",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prof. Nageshwar",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "The larger concern raised by journalists, civil liberties advocates, and political observers was not whether Prof. Nageshwar's comments were correct or incorrect. The question was whether a political analysis based on claimed sources should trigger multiple criminal cases, interstate police action, and threats of arrest."
+    },
+    {
+     "source": "journalists",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "The larger concern raised by journalists, civil liberties advocates, and political observers was not whether Prof. Nageshwar's comments were correct or incorrect. The question was whether a political analysis based on claimed sources should trigger multiple criminal cases, interstate police action, and threats of arrest."
+    },
+    {
+     "source": "civil liberties advocates",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "The larger concern raised by journalists, civil liberties advocates, and political observers was not whether Prof. Nageshwar's comments were correct or incorrect. The question was whether a political analysis based on claimed sources should trigger multiple criminal cases, interstate police action, and threats of arrest."
+    },
+    {
+     "source": "political observers",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim2",
+     "evidence": "The larger concern raised by journalists, civil liberties advocates, and political observers was not whether Prof. Nageshwar's comments were correct or incorrect. The question was whether a political analysis based on claimed sources should trigger multiple criminal cases, interstate police action, and threats of arrest."
+    },
+    {
+     "source": "Claim2",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Issue1",
+     "evidence": "The episode came to symbolize a broader trend in Andhra Pradesh: criticism of powerful political figures increasingly moving beyond political debate into the realm of criminal prosecution."
+    }
+   ]
+  },
+  "1e877b12612333b56b928f66fc61dc249925199c": {
+   "entities": [
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Prof Nageshwar Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Technical University",
+     "type": "Organization",
+     "english_name": "Technical University"
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Social media censorship",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prof Nageshwar Rao",
+     "relation": "ACCUSES",
+     "target": "Pawan Kalyan",
+     "evidence": "నీకు దమ్ముంటే అరెస్ట్ చేస్కో.."
+    }
+   ]
+  },
+  "f3edbbb031797e85bd76133b6a752679612c85af": {
+   "entities": [
+    {
+     "name": "SM Nizamhuddin",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "@WarriorYsJagan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SI D. Ramesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "State Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APFM",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kothapet",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "he is borrowing 2 lakh crore for amaravathi. He did not spend even 5,000 crore for the education and medical needs of the poor.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "@WarriorYsJagan",
+     "relation": "ACCUSES",
+     "target": "State Government of Andhra Pradesh",
+     "evidence": "he is borrowing 2 lakh crore for amaravathi. He did not spend even 5,000 crore for the education and medical needs of the poor."
+    },
+    {
+     "source": "@WarriorYsJagan",
+     "relation": "MAKES_CLAIM",
+     "target": "he is borrowing 2 lakh crore for amaravathi. He did not spend even 5,000 crore for the education and medical needs of the poor.",
+     "evidence": "he is borrowing 2 lakh crore for amaravathi. He did not spend even 5,000 crore for the education and medical needs of the poor."
+    }
+   ]
+  },
+  "0b68ea8ac24f364aa41205563b97f477c481efaf": {
+   "entities": [
+    {
+     "name": "Nageshwar Rao",
+     "type": "Person",
+     "english_name": "Nageshwar Rao"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Naveen YSJ",
+     "type": "Person",
+     "english_name": "Naveen YSJ"
+    },
+    {
+     "name": "YSJ2024",
+     "type": "Person",
+     "english_name": "YSJ2024"
+    },
+    {
+     "name": "Nageshwar Rao",
+     "type": "Person",
+     "english_name": "Nageshwar Rao"
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": "Kaloji TV"
+    },
+    {
+     "name": "Mandula Shyamuel",
+     "type": "Person",
+     "english_name": "Mandula Shyamuel"
+    },
+    {
+     "name": "Pasham Yadagiri",
+     "type": "Person",
+     "english_name": "Pasham Yadagiri"
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": "Vahini Tv"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": "Law Enforcement"
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Organization",
+     "english_name": "Information Technology Act, 2000"
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": "Transparency Centre"
+    },
+    {
+     "name": "Meta",
+     "type": "Organization",
+     "english_name": "Meta"
+    },
+    {
+     "name": "Claim: పవన్ కళ్యాణ్ మాదిరిగా మేము ఊసరవల్లి నా రంగులు మార్చము.",
+     "type": "Claim",
+     "english_name": "We will not change colors like Pawan Kalyan"
+    },
+    {
+     "name": "Claim: పవన్ కళ్యాణ్, చంద్రబాబు హైదరాబాదు రోడ్డుపై ఎలా తిరుగుతారో చూస్తాం.",
+     "type": "Claim",
+     "english_name": "We will see how Pawan Kalyan and Chandrababu roam on Hyderabad road"
+    },
+    {
+     "name": "Claim: నాగేశ్వరరావు పై FIR వాపస్ తీసుకోపోతే.",
+     "type": "Claim",
+     "english_name": "If FIR against Nageshwar Rao is not withdrawn"
+    },
+    {
+     "name": "Claim: పవన్ నీకు సిగ్గుందా..",
+     "type": "Claim",
+     "english_name": "Shame on you, Pawan"
+    },
+    {
+     "name": "Claim: Strong Warning to Pawan Kalyan",
+     "type": "Claim",
+     "english_name": "Strong Warning to Pawan Kalyan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Nageshwar Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: పవన్ కళ్యాణ్ మాదిరిగా మేము ఊసరవల్లి నా రంగులు మార్చము.",
+     "evidence": "పవన్ కళ్యాణ్ మాదిరిగా మేము ఊసరవల్లి నా రంగులు మార్చము."
+    },
+    {
+     "source": "Nageshwar Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: పవన్ కళ్యాణ్, చంద్రబాబు హైదరాబాదు రోడ్డుపై ఎలా తిరుగుతారో చూస్తాం.",
+     "evidence": "పవన్ కళ్యాణ్, చంద్రబాబు హైదరాబాదు రోడ్డుపై ఎలా తిరుగుతారో చూస్తాం."
+    },
+    {
+     "source": "Nageshwar Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: నాగేశ్వరరావు పై FIR వాపస్ తీసుకోపోతే.",
+     "evidence": "నాగేశ్వరరావు పై FIR వాపస్ తీసుకోపోతే."
+    },
+    {
+     "source": "Pasham Yadagiri",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: పవన్ నీకు సిగ్గుందా..",
+     "evidence": "పవన్ నీకు సిగ్గుందా.."
+    },
+    {
+     "source": "Mandula Shyamuel",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: Strong Warning to Pawan Kalyan",
+     "evidence": "Strong Warning to Pawan Kalyan"
+    }
+   ]
+  },
+  "f653475a867883332e65f1a02adfb4285f6371ad": {
+   "entities": [
+    {
+     "name": "police authorities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Circle Inspector",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kothapeta Police Station",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur district",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "social media companies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "global technology platforms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Content creators",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Platforms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "questions about governance increasingly become subjects of content moderation initiated through police intervention",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "content moderation",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "police authorities",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "police authorities from Andhra Pradesh"
+    },
+    {
+     "source": "Kothapeta Police Station",
+     "relation": "LOCATED_IN",
+     "target": "Guntur district",
+     "evidence": "in Guntur district"
+    },
+    {
+     "source": "Circle Inspector",
+     "relation": "MAKES_CLAIM",
+     "target": "questions about governance increasingly become subjects of content moderation initiated through police intervention",
+     "evidence": "questions about governance increasingly become subjects of content moderation initiated through police intervention."
+    }
+   ]
+  },
+  "72a8c751e800064c44177f0f4002648f82518066": {
+   "entities": [
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": "The Government of India"
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": "Law Enforcement"
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": "Transparency Centre"
+    },
+    {
+     "name": "GB News",
+     "type": "Organization",
+     "english_name": "GB News"
+    },
+    {
+     "name": "G8 News",
+     "type": "Organization",
+     "english_name": "G8 News"
+    },
+    {
+     "name": "Journalist Rana Prathap",
+     "type": "Person",
+     "english_name": "Rana Prathap"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Genz",
+     "type": "Organization",
+     "english_name": "Genz"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "TDP Official Twitter Page",
+     "type": "Organization",
+     "english_name": "TDP Official Twitter Page"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Tulasi Chandu",
+     "type": "Person",
+     "english_name": "Tulasi Chandu"
+    },
+    {
+     "name": "Professor Nageshwara Rao",
+     "type": "Person",
+     "english_name": "Professor Nageshwara Rao"
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": "Kaloji TV"
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": "Vahini Tv"
+    },
+    {
+     "name": "Prithviraj Yadav",
+     "type": "Person",
+     "english_name": "Prithviraj Yadav"
+    },
+    {
+     "name": "KalojiTV",
+     "type": "Organization",
+     "english_name": "KalojiTV"
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": "Emergency 2.0"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Tulasi Chandu",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "TDP Official Twitter Page - Troll Page స్థాయికి పడిపోయింది."
+    },
+    {
+     "source": "Prithviraj Yadav",
+     "relation": "ACCUSES",
+     "target": "Pawan Kalyan",
+     "evidence": "Prithviraj Yadav Fires On Pawan Kalyan.."
+    },
+    {
+     "source": "Journalist Rana Prathap",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "Journalist Rana Prathap Sensational Comments On Chandrababu"
+    },
+    {
+     "source": "Journalist Rana Prathap",
+     "relation": "ACCUSES",
+     "target": "Pawan Kalyan",
+     "evidence": "Journalist Rana Prathap Sensational Comments On Chandrababu"
+    }
+   ]
+  },
+  "1f07ca507c915cc688d703c7dfdae95f2026f0e0": {
+   "entities": [
+    {
+     "name": "Professor Nageshwar Rao",
+     "type": "Person",
+     "english_name": "Professor Nageshwar Rao"
+    },
+    {
+     "name": "ఇనుప బూట్లు",
+     "type": "Scheme",
+     "english_name": "Iron Shoes"
+    },
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Meta",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Naveen YSJ Vizag",
+     "type": "Person",
+     "english_name": "Naveen YSJ Vizag"
+    },
+    {
+     "name": "YSJ2024",
+     "type": "Party",
+     "english_name": "YSJ2024"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "Vizag",
+     "type": "Place",
+     "english_name": "Vizag"
+    },
+    {
+     "name": "Navaasani Patrika",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": "Emergency 2.0"
+    },
+    {
+     "name": "FIR",
+     "type": "Issue",
+     "english_name": "FIR"
+    },
+    {
+     "name": "కావాలంటే టైమ్, ప్లేస్ చెప్పండి నేనే వస్తా అరెస్ట్",
+     "type": "Claim",
+     "english_name": "If you want, tell me the time and place, I will come and get arrested"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్ మాదిరిగా మేము ఊసరవల్లి నా రంగులు మార్చము.",
+     "type": "Claim",
+     "english_name": "We will not change colors like Pawan Kalyan"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్ మాదిరిగా మేము చెక్క గాళ్ళం కాదు.",
+     "type": "Claim",
+     "english_name": "We are not wooden legs like Pawan Kalyan"
+    },
+    {
+     "name": "నాగేశ్వరరావు పై FIR వాపస్ తీసుకోపోతే.",
+     "type": "Claim",
+     "english_name": "If the FIR against Nageshwar Rao is not withdrawn"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్, చంద్రబాబు హైదరాబాదు రోడ్డుపై ఎలా తిరుగుతారో చూస్తాం.",
+     "type": "Claim",
+     "english_name": "We will see how Pawan Kalyan and Chandrababu roam the Hyderabad road"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Professor Nageshwar Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "కావాలంటే టైమ్, ప్లేస్ చెప్పండి నేనే వస్తా అరెస్ట్",
+     "evidence": "కావాలంటే టైమ్, ప్లేస్ చెప్పండి నేనే వస్తా అరెస్ట్"
+    },
+    {
+     "source": "Naveen YSJ Vizag",
+     "relation": "MAKES_CLAIM",
+     "target": "పవన్ కళ్యాణ్ మాదిరిగా మేము ఊసరవల్లి నా రంగులు మార్చము.",
+     "evidence": "పవన్ కళ్యాణ్ మాదిరిగా మేము ఊసరవల్లి నా రంగులు మార్చము."
+    },
+    {
+     "source": "Naveen YSJ Vizag",
+     "relation": "MAKES_CLAIM",
+     "target": "పవన్ కళ్యాణ్ మాదిరిగా మేము చెక్క గాళ్ళం కాదు.",
+     "evidence": "పవన్ కళ్యాణ్ మాదిరిగా మేము చెక్క గాళ్ళం కాదు."
+    },
+    {
+     "source": "Naveen YSJ Vizag",
+     "relation": "MAKES_CLAIM",
+     "target": "నాగేశ్వరరావు పై FIR వాపస్ తీసుకోపోతే.",
+     "evidence": "నాగేశ్వరరావు పై FIR వాపస్ తీసుకోపోతే."
+    },
+    {
+     "source": "Naveen YSJ Vizag",
+     "relation": "MAKES_CLAIM",
+     "target": "పవన్ కళ్యాణ్, చంద్రబాబు హైదరాబాదు రోడ్డుపై ఎలా తిరుగుతారో చూస్తాం.",
+     "evidence": "పవన్ కళ్యాణ్, చంద్రబాబు హైదరాబాదు రోడ్డుపై ఎలా తిరుగుతారో చూస్తాం."
+    }
+   ]
+  },
+  "a8e68c624a9143bc063774df43fce06def15e88c": {
+   "entities": [
+    {
+     "name": "YSRCP Official",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Official asked to remove Amaravati corruption videos.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP Official",
+     "relation": "MAKES_CLAIM",
+     "target": "YSRCP Official asked to remove Amaravati corruption videos.",
+     "evidence": "YSRCP Official asked to remove Amaravati corruption videos."
+    }
+   ]
+  },
+  "23bb201cecbb6267b0ca27c01390718674b00fd0": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ పోలీస్ శాఖ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Police"
+    },
+    {
+     "name": "శ్రీ కలాహస్తి I టౌన్ PS",
+     "type": "Organization",
+     "english_name": "Sri Kalahasti I Town PS"
+    },
+    {
+     "name": "తిరుపతి డిస్ట్రిక్ట్",
+     "type": "Place",
+     "english_name": "Tirupati District"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ కలాహస్తి I టౌన్ PS",
+     "relation": "LOCATED_IN",
+     "target": "తిరుపతి డిస్ట్రిక్ట్",
+     "evidence": "శ్రీ కలాహస్తి I టౌన్ PS, తిరుపతి డిస్ట్రిక్ట్"
+    },
+    {
+     "source": "తిరుపతి డిస్ట్రిక్ట్",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "తిరుపతి, ఆంధ్రప్రదేశ్ రాష్ట్రంలోని"
+    },
+    {
+     "source": "ఆంధ్రప్రదేశ్ పోలీస్ శాఖ",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్ పోలీస్ శాఖ నుండి వచ్చిన అధికారిక నోటీసు"
+    }
+   ]
+  },
+  "fe4567bdb0a5f63ff5f65c51f091dee1234817c5": {
+   "entities": [
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSR Congress Party - YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Krish Sharma",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Videos questioning Chandrababu Naidu’s alleged Amaravati corruption and irregularities were targeted for removal.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu's family members all live in Hyderabad.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "495d67cafda7e63049cae13f62d9299f0aed7d46": {
+   "entities": [
+    {
+     "name": "Ruling state government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble Sri Nara Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur Kothapeta Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X headquarters in San Francisco",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati corruption",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Circle Inspector from Kothapeta Police Station, Guntur",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "global technology platforms",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "censorship regime",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati project",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "decentralisation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "three-capitals model",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "police officer",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ruling establishment",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YouTube, Facebook, Instagram, Meta, and X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "YouTube, Facebook, Instagram, Meta, and X",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "deployed against dissenting voices in Andhra Pradesh."
+    }
+   ]
+  },
+  "ed5743f805aa08857f9007d6b82349299492cdb4": {
+   "entities": [
+    {
+     "name": "District Tirupathi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Srikalahasti Temple",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ravi T",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "T Subramanyam",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Unknown Accused",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Srikalahasti Temple",
+     "relation": "LOCATED_IN",
+     "target": "District Tirupathi",
+     "evidence": "City/District Tirupathi ...................................................................................."
+    },
+    {
+     "source": "District Tirupathi",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "State Andhra Pradesh ...................................................................................."
+    }
+   ]
+  },
+  "0927910727933385f55a315638758fb7a0b9ac99": {
+   "entities": [],
+   "relations": []
+  },
+  "f74befb0e047dbf7973798d3c99c514719b9ece5": {
+   "entities": [
+    {
+     "name": "The Government of India V Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Meta",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSR Congress Party - YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Heritage",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Indapur",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CV Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Indapur–Heritage connection",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Heritage is a business affiliate of Indapur.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "If Indapur has no relation with Heritage, why did Indapur participate in TTD ghee supply during TDP rule, banned from Indapur...",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a4cca2654969487710519ff4edaaf59dbdf402c0": {
+   "entities": [
+    {
+     "name": "YSR Congress Party - YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బేసిక్ క్యాపిటల్",
+     "type": "Scheme",
+     "english_name": "Basic capital"
+    },
+    {
+     "name": "Basic capital will cost Rs 51,000 crores",
+     "type": "Claim",
+     "english_name": "Basic capital cost claim"
+    },
+    {
+     "name": "మండలాలు అమరావతికి వెళ్లక పో కథలు",
+     "type": "Claim",
+     "english_name": "Mandalas not going to Amaravati claim"
+    },
+    {
+     "name": "జగన్మోహనరావు",
+     "type": "Person",
+     "english_name": "Jagan Mohan Rao"
+    },
+    {
+     "name": "జగన్నాధరథవల్లి",
+     "type": "Person",
+     "english_name": "Jagannadhara Valluri"
+    },
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Organization",
+     "english_name": "Information Technology Act, 2000"
+    },
+    {
+     "name": "Section 79(3)(b)",
+     "type": "Organization",
+     "english_name": "Section 79(3)(b)"
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": "Transparency Centre"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Basic capital will cost Rs 51,000 crores",
+     "evidence": "బేసిక్ క్యాపిటల్ కే రూ.51,000 కోట్లు ఖర్చు అవుతుందని చంద్రబాబు చెబుతున్నారు."
+    }
+   ]
+  },
+  "96c20d67df7ded47b744ba0c12d457cf43bbcea4": {
+   "entities": [],
+   "relations": []
+  },
+  "08e1907696a37e2200ba64989491dc0966660032": {
+   "entities": [
+    {
+     "name": "శ్రీకలాహస్తి I టౌన్ PS",
+     "type": "Place",
+     "english_name": "Sri Kalahasti I Town PS"
+    },
+    {
+     "name": "తిరుపతి డిస్ట్రిక్ట్",
+     "type": "Place",
+     "english_name": "Tirupati district"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ రాష్ట్రం",
+     "type": "Place",
+     "english_name": "Andhra Pradesh state"
+    }
+   ],
+   "relations": []
+  },
+  "f8290fe73f6da501b1c0035f332d096f62616420": {
+   "entities": [],
+   "relations": []
+  },
+  "25ced81ac648ce14885c029674eb12f9f2109043": {
+   "entities": [
+    {
+     "name": "కర్నూలు పోలీసు శాఖ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నూలు గ్రామీణ పోలీసు స్టేషన్ (PS)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ట్విట్టర్ ఖాతా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "కర్నూలు గ్రామీణ పోలీసు స్టేషన్ (PS)",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు",
+     "evidence": "కర్నూలు గ్రామీణ పోలీసు స్టేషన్ (PS)"
+    }
+   ]
+  },
+  "677e30271be281ec19bdd237a9eb66a8f73417ae": {
+   "entities": [
+    {
+     "name": "The Government of India 'V' Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CV Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tirumala Laddu",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కారుమూరు వెంకట రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మంత్రి కేటీఆర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "KSR LIVE SHOW",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Anchor Eshwar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Facebook",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YS-J2.0",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Y8J2.0",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Center",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Meta",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Anchor Eshwar",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "Chandrababu Lies ..."
+    }
+   ]
+  },
+  "a3d5ea967f31641832e5920778307c890a787942": {
+   "entities": [
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "K.Nagalapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Police Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh-Police Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jakkapogu Suresh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pedda Prasad",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sridhar Reddy",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "K.Nagalapuram",
+     "relation": "LOCATED_IN",
+     "target": "Kurnool",
+     "evidence": "District Kurnool P.S. K.Nagalapuram"
+    },
+    {
+     "source": "Kurnool",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "State Andhra Pradesh"
+    },
+    {
+     "source": "Police Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh-Police Department"
+    }
+   ]
+  },
+  "afc39dbcb06f33b2ea3064061191300f16581212": {
+   "entities": [
+    {
+     "name": "Perapogu Venumutayya",
+     "type": "Person",
+     "english_name": "Perapogu Venumutayya"
+    },
+    {
+     "name": "P Linganna",
+     "type": "Person",
+     "english_name": "P Linganna"
+    },
+    {
+     "name": "Indian",
+     "type": "Person",
+     "english_name": "Indian"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "Kumool S C Colony",
+     "type": "Place",
+     "english_name": "Kumool S C Colony"
+    },
+    {
+     "name": "B.Thandrapadu Village",
+     "type": "Place",
+     "english_name": "B.Thandrapadu Village"
+    }
+   ],
+   "relations": []
+  },
+  "c84e6d724dcde810ca705435f41c68ae41858d53": {
+   "entities": [
+    {
+     "name": "P2,మయూలద్యా",
+     "type": "Person",
+     "english_name": "P2 Mayuladya"
+    },
+    {
+     "name": "S.Green",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kurmoal Taluka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Defamatory and politically motivated posts",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "P2,మయూలద్యా",
+     "relation": "MAKES_CLAIM",
+     "target": "Defamatory and politically motivated posts",
+     "evidence": "Defamatory and politically motivated posts ..."
+    }
+   ]
+  },
+  "46a0e3d1c0740561351e27f203ee376dcf11b514": {
+   "entities": [],
+   "relations": []
+  },
+  "a326b82fa5803d7da101dafe735740021a8a6a39": {
+   "entities": [],
+   "relations": []
+  },
+  "a36329c5933744ef37ce4903e8e602a4e70e0f03": {
+   "entities": [],
+   "relations": []
+  },
+  "e61911fc574c2dde0988daa71836d824f667bb39": {
+   "entities": [],
+   "relations": []
+  },
+  "3a7a024e186c4d6556c6a46f3317eefbad2116e1": {
+   "entities": [
+    {
+     "name": "Avuthu Sridhar Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Unknown",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jakkapogu Suresh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "J. Pedda Prasad",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Telugu Desam Party",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "K. Nagalapuram Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gudur Mandal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Twitter",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: posting offensive posts/hatred posts criticizing government of Andhra Pradesh",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: the Andhra Pradesh government is responsible for the deaths in the Kurnool bus accident",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: 19 people died in the accident",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: Kurnool bus accident",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: liquor shops selling adulterated liquor",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: driving under the influence (DUI) at night",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: media failing to report the incident",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jakkapogu Suresh",
+     "relation": "ACCUSES",
+     "target": "Avuthu Sridhar Reddy",
+     "evidence": "the complainant Jakkapogu Suresh ... preferred the complainant , hence the FIR is filed"
+    },
+    {
+     "source": "Telugu Desam Party",
+     "relation": "LOCATED_IN",
+     "target": "Gudur Mandal",
+     "evidence": "Convener, Telugu Desam Party, Gudur Mandal"
+    }
+   ]
+  },
+  "94e46c27e339cd4f46b30f6b8b763e706dfb3e6a": {
+   "entities": [],
+   "relations": []
+  },
+  "1daf7c1045a6980d62b5537704a1d22143766e28": {
+   "entities": [
+    {
+     "name": "S Tejamurthy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Police Station",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool bus accident",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "19 మంది చనిపోయారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బస్సు యజమానిని ఎఫ్ఐఆర్ లో చేర్చలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం ట్రావెల్స్ యజమానిని తప్పించే ప్రయత్నం చేస్తుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Notices issued to social media users posting about the Kurnool bus accident.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ca10e5e304cc690913a2e68d930369d24f6e7f22": {
+   "entities": [],
+   "relations": []
+  },
+  "0bff5df4aa9095a2252d0e10789e05e145413a54": {
+   "entities": [
+    {
+     "name": "జగన్నాథరథచక్రం",
+     "type": "Person",
+     "english_name": "Jagannath Rathachakra"
+    },
+    {
+     "name": "@Radhachekram",
+     "type": "Person",
+     "english_name": "Radhachekram"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి రాధాకృష్ణ",
+     "type": "Person",
+     "english_name": "Andhra Jyoti Radhakrishna"
+    },
+    {
+     "name": "నీరుకొండ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సీఆర్డీఏ",
+     "type": "Organization",
+     "english_name": "CRDA"
+    },
+    {
+     "name": "వెస్ట్ బైపాస్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఎస్ఆర్ఎం వర్సిటీ",
+     "type": "Organization",
+     "english_name": "SRM University"
+    },
+    {
+     "name": "కూడలి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బెజవాడ రమేష్ ధనేకుల సుబ్బారావు",
+     "type": "Person",
+     "english_name": "Bezawada Ramesh Dhanekula Subbarao"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ప్లాట్ల కేటాయింపు లాటరీ",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రైతుల ఆగ్రహం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సోషల్ మీడియా యాక్టివిస్ట్",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "@Radhachekram",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "సోషల్ మీడియా యాక్టివిస్ట్ ... ప్రశ్నిస్తున్న ... అమరావతి ల్యాండ్ స్కాంస్"
+    },
+    {
+     "source": "@Radhachekram",
+     "relation": "ACCUSES",
+     "target": "సీఆర్డీఏ",
+     "evidence": "సోషల్ మీడియా యాక్టివిస్ట్ ... ప్రశ్నిస్తున్న ... అమరావతి ల్యాండ్ స్కాంస్"
+    },
+    {
+     "source": "సీఆర్డీఏ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సీఆర్డీఏకు అప్పగింత"
+    },
+    {
+     "source": "ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ప్రభుత్వం, సీఆర్డీఏపై రైతుల ఆగ్రహం"
+    },
+    {
+     "source": "రైతుల ఆగ్రహం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ప్లాట్ల కేటాయింపు లాటరీ",
+     "evidence": "లాటరీ ద్వారా ప్లాట్ల కేటాయింపు తీరును ప్రశ్నిస్తున్న రాజధాని రైతులు"
+    },
+    {
+     "source": "సోషల్ మీడియా యాక్టివిస్ట్",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతుల ఆగ్రహం",
+     "evidence": "సోషల్ మీడియా యాక్టివిస్ట్ ... ప్రశ్నిస్తున్న ... అమరావతి ల్యాండ్ స్కాంస్"
+    }
+   ]
+  },
+  "f46d9576c40700365710489fd109669a7039f472": {
+   "entities": [],
+   "relations": []
+  },
+  "2b6bf108c5dcf88bde099f8a960f6d63ea09ebd3": {
+   "entities": [],
+   "relations": []
+  },
+  "49c7e4e291bb9ed5710c00aa83296716d61e7aa6": {
+   "entities": [],
+   "relations": []
+  },
+  "02f2a785fd73d8b177bab1e50c0bba5ea5d4d527": {
+   "entities": [],
+   "relations": []
+  },
+  "dae6a5819042c40eafb42da9159eda643b52867a": {
+   "entities": [],
+   "relations": []
+  },
+  "dab69120bfac5ccb8cffc65e949cfb6243ea3980": {
+   "entities": [
+    {
+     "name": "YSR CONGRESS PARTY",
+     "type": "Party",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "ca0942ab04d343f7562508c555a7f775b6171fd3": {
+   "entities": [
+    {
+     "name": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "type": "Person",
+     "english_name": "Peradugu Vonumulya S/o P. Linganna"
+    },
+    {
+     "name": "Inspector Of Police",
+     "type": "Organization",
+     "english_name": "Inspector of Police"
+    },
+    {
+     "name": "Kurnool Taluka UPS",
+     "type": "Organization",
+     "english_name": "Kurnool Taluka UPS"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "కర్నూలు బస్సు ప్రమాదం",
+     "type": "Issue",
+     "english_name": "Kurnool Bus Accident"
+    },
+    {
+     "name": "సోషల్ మీడియా వేదికలలో తప్పుడు ఆరోపణలు",
+     "type": "Issue",
+     "english_name": "False allegations on social media platforms"
+    },
+    {
+     "name": "సోషల్ మీడియా వేదికలలో తప్పుడు, అపకీర్తికర మరియు రాజకీయ ప్రేరణతో కూడిన పోస్టులు ప్రచారం జరుగుతున్నట్లు",
+     "type": "Claim",
+     "english_name": "False, defamatory and politically motivated posts are being circulated on social media platforms"
+    },
+    {
+     "name": "S.C కాలనీ",
+     "type": "Place",
+     "english_name": "S.C Colony"
+    },
+    {
+     "name": "B. తాండ్రపాడు గ్రామం",
+     "type": "Place",
+     "english_name": "B. Tandrapadu Village"
+    },
+    {
+     "name": "కుర్నూల్ జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool District"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "MAKES_CLAIM",
+     "target": "సోషల్ మీడియా వేదికలలో తప్పుడు, అపకీర్తికర మరియు రాజకీయ ప్రేరణతో కూడిన పోస్టులు ప్రచారం జరుగుతున్నట్లు",
+     "evidence": "సోషల్ మీడియా వేదికలలో తప్పుడు, అపకీర్తికర (Defamatory) మరియు రాజకీయ ప్రేరణతో కూడిన పోస్టులు ప్రచారం జరుగుతున్నట్లు"
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ప్రభుత్వం మరియు సంబంధిత శాఖలపై సోషల్ మీడియా వేదికలలో తప్పుడు, అపకీర్తికర (Defamatory) మరియు రాజకీయ ప్రేరణతో కూడిన పోస్టులు ప్రచారం జరుగుతున్నట్లు"
+    },
+    {
+     "source": "Kurnool Taluka UPS",
+     "relation": "LOCATED_IN",
+     "target": "Kurnool",
+     "evidence": "Kurnool Taluka UPS. Kurnool"
+    }
+   ]
+  },
+  "40d61136f3a2e7bb6f03602962923e47ecddd0f6": {
+   "entities": [
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ETV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "governments worldwide",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X sought removal of an ETV video and content questioning Amaravati corruption.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati corruption",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "X sought removal of an ETV video and content questioning Amaravati corruption.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati corruption",
+     "evidence": "questioning Amaravati corruption"
+    }
+   ]
+  },
+  "6f9e009944f645105579f8a1c8f794350b49e8a6": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X (formerly Twitter)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSR Kutumbam",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "b32b42ab30a91fd29afe753cceb83714861060cd": {
+   "entities": [
+    {
+     "name": "Inspector of Police, Madanapalle II Town PS, Madanapalle – A.P., India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X Corp.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "venkatesh Tenali @venkateshT51708",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalle",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Annamayya district",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Singapore",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Just think about it—what is there near Amaravati that is not in Vijayawada, Guntur, or Visakhapatnam? So far, ₹48,000 crores has been borrowed for Amaravati. My simple question is: have even at least 5% of the Singapore-style projects you showed been completed in Amaravati?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati borrowing controversy",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Inspector of Police, Madanapalle II Town PS, Madanapalle – A.P., India",
+     "relation": "LOCATED_IN",
+     "target": "Madanapalle",
+     "evidence": "నోటీసు పత్రం 'నుండి' విభాగంలో 'O/o ఇన్స్పెక్టర్ ఆఫ్ పోలీస్, మడనాపల్లి II టౌన్ PS, మడనాపల్లి – A.P., ఇండియా' అని ఉంది."
+    },
+    {
+     "source": "Annamayya district",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "అదే వాక్యంలో 'అనంమయ్యా జిల్లా, ఆంధ్రప్రదేశ్' అని ఉంది."
+    },
+    {
+     "source": "venkatesh Tenali @venkateshT51708",
+     "relation": "MAKES_CLAIM",
+     "target": "Just think about it—what is there near Amaravati that is not in Vijayawada, Guntur, or Visakhapatnam? So far, ₹48,000 crores has been borrowed for Amaravati. My simple question is: have even at least 5% of the Singapore-style projects you showed been completed in Amaravati?",
+     "evidence": "ఖాతా 'అప్రతిహతమైన, అవమానకరమైన మరియు అవమానకరమైన కంటెంట్‌ను కలిగి ఉంది, ఇందులో \"జస్ట్ థింక్ అబౌట్ ఇట్—వాట్ ఈజ్ దేర్ నియర్ అమరావతి దట్ ఈజ్ నాట్ ఇన్ విజయవాడా, గుంటూరు, ఆర్ విశాఖపట్నం? సో ఫార్, ₹48,000 క్రోరే హాస్ బీన్ బారోడ్ ఫర్ అమరావతి. మై సింపుల్ క్వశ్చన్ ఈజ్: హేవ్ ఈవెన్ ఎట్ లీస్ట్ 5% ఆఫ్ ది సింగపూర్-స్టైల్ ప్రాజెక్ట్స్ యు షోడ్ బీన్ కంప్లీటెడ్ ఇన్ అమరావతి?\" అని ఉంది."
+    },
+    {
+     "source": "Just think about it—what is there near Amaravati that is not in Vijayawada, Guntur, or Visakhapatnam? So far, ₹48,000 crores has been borrowed for Amaravati. My simple question is: have even at least 5% of the Singapore-style projects you showed been completed in Amaravati?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati borrowing controversy",
+     "evidence": "ఖాతా కంటెంట్‌లో అమరావతి కోసం ₹48,000 కోట్లు అప్పుగా తీసుకున్నట్లు మరియు సింగపూర్ తరహా ప్రాజెక్టుల పురోగతి గురించి ప్రశ్నించబడింది, ఇది అమరావతి అప్పుల వివాదాన్ని సూచిస్తుంది."
+    }
+   ]
+  },
+  "97eaa4162fa31cab03ac3f0c6d60473d105194b8": {
+   "entities": [
+    {
+     "name": "Perapogu Venumulayya",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "S.Green",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "A1 to A27",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NDA Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool Bus Accident",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Defamation of NDA Government",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "False social media posts",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool Mandal and District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "B.Thandrapadu Village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "S.C. Colony",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurmoal Taluka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Facebook",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X(Twitter)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Instagram",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YouTube",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "several social media users and media pages have circulated false, defamatory (Defamatory) and politically motivated posts regarding the Kurnool Bus Accident and Belt Shops on platforms such as Facebook, X (Twitter), Instagram, and YouTube and also the above posts were intentionally spread with a political motive to defame the NDA Government, damage its reputation, mislead the public, and create unrest. The posts were allegedly aimed to incite hatred and enmity between different political and social groups, thereby disturbing public peace and order.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Perapogu Venumulayya",
+     "relation": "MAKES_CLAIM",
+     "target": "several social media users and media pages have circulated false, defamatory (Defamatory) and politically motivated posts regarding the Kurnool Bus Accident and Belt Shops on platforms such as Facebook, X (Twitter), Instagram, and YouTube and also the above posts were intentionally spread with a political motive to defame the NDA Government, damage its reputation, mislead the public, and create unrest. The posts were allegedly aimed to incite hatred and enmity between different political and social groups, thereby disturbing public peace and order.",
+     "evidence": "several social media users and media pages have circulated false, defamatory (Defamatory) and politically motivated posts regarding the Kurnool Bus Accident and Belt Shops on platforms such as Facebook, X (Twitter), Instagram, and YouTube and also the above posts were intentionally spread with a political motive to defame the NDA Government, damage its reputation, mislead the public, and create un"
+    },
+    {
+     "source": "Perapogu Venumulayya",
+     "relation": "ACCUSES",
+     "target": "A1 to A27",
+     "evidence": "accused A1 to A27 individuals with an intention continued spreading false and provocative content."
+    },
+    {
+     "source": "several social media users and media pages have circulated false, defamatory (Defamatory) and politically motivated posts regarding the Kurnool Bus Accident and Belt Shops on platforms such as Facebook, X (Twitter), Instagram, and YouTube and also the above posts were intentionally spread with a political motive to defame the NDA Government, damage its reputation, mislead the public, and create unrest. The posts were allegedly aimed to incite hatred and enmity between different political and social groups, thereby disturbing public peace and order.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Kurnool Bus Accident",
+     "evidence": "regarding the Kurnool Bus Accident"
+    },
+    {
+     "source": "several social media users and media pages have circulated false, defamatory (Defamatory) and politically motivated posts regarding the Kurnool Bus Accident and Belt Shops on platforms such as Facebook, X (Twitter), Instagram, and YouTube and also the above posts were intentionally spread with a political motive to defame the NDA Government, damage its reputation, mislead the public, and create unrest. The posts were allegedly aimed to incite hatred and enmity between different political and social groups, thereby disturbing public peace and order.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Defamation of NDA Government",
+     "evidence": "to defame the NDA Government"
+    },
+    {
+     "source": "several social media users and media pages have circulated false, defamatory (Defamatory) and politically motivated posts regarding the Kurnool Bus Accident and Belt Shops on platforms such as Facebook, X (Twitter), Instagram, and YouTube and also the above posts were intentionally spread with a political motive to defame the NDA Government, damage its reputation, mislead the public, and create unrest. The posts were allegedly aimed to incite hatred and enmity between different political and social groups, thereby disturbing public peace and order.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False social media posts",
+     "evidence": "false, defamatory and politically motivated posts"
+    }
+   ]
+  },
+  "15285cc4eec836006f61fd63bf55e0ec9af2a342": {
+   "entities": [
+    {
+     "name": "Venkatesh Tenali",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Station House Officer, Madanapalli II Town PS, Annamayya District-Madanapalli, Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Annamayya District-Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "corruption in Amaravati",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "questioning corruption in Amaravati",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Venkatesh Tenali",
+     "relation": "MAKES_CLAIM",
+     "target": "questioning corruption in Amaravati",
+     "evidence": "questioning corruption in Amaravati"
+    },
+    {
+     "source": "questioning corruption in Amaravati",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "corruption in Amaravati",
+     "evidence": "questioning corruption in Amaravati"
+    },
+    {
+     "source": "Station House Officer, Madanapalli II Town PS, Annamayya District-Madanapalli, Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh"
+    },
+    {
+     "source": "Station House Officer, Madanapalli II Town PS, Annamayya District-Madanapalli, Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Annamayya District-Madanapalli",
+     "evidence": "Annamayya District-Madanapalli"
+    }
+   ]
+  },
+  "90766e85f4a91d9280043097629ad5ecc7d38d21": {
+   "entities": [
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kaskoqwvpf",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతిలో అత్యున్నత సాంకేతికతతో ఐకానిక్ టవర్స్ నిర్మాణం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Kaskoqwvpf",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతిలో అత్యున్నత సాంకేతికతతో ఐకానిక్ టవర్స్ నిర్మాణం",
+     "evidence": "అమరావతిలో అత్యున్నత సాంకేతికతతో ఐకానిక్ టవర్స్ నిర్మాణం"
+    }
+   ]
+  },
+  "65a9e9c1a54aa693d0f0383d8f1ee635dc02f08a": {
+   "entities": [
+    {
+     "name": "X",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSJ2024",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Purushotham Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ROPATI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: X sent a takedown request to YSJ2024 over videos questioning Amaravati corruption, including content featuring Purushotham Reddy.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: Amaravati corruption",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "X",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: X sent a takedown request to YSJ2024 over videos questioning Amaravati corruption, including content featuring Purushotham Reddy.",
+     "evidence": "X sent a takedown request to YSJ2024 over videos questioning Amaravati corruption, including content featuring Purushotham Reddy."
+    },
+    {
+     "source": "Claim: X sent a takedown request to YSJ2024 over videos questioning Amaravati corruption, including content featuring Purushotham Reddy.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Issue: Amaravati corruption",
+     "evidence": "X sent a takedown request to YSJ2024 over videos questioning Amaravati corruption, including content featuring Purushotham Reddy."
+    }
+   ]
+  },
+  "7e413b7086814ead6ab42ca2d449e6780d0d66e2": {
+   "entities": [
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Center",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్నాధరథచక్రం",
+     "type": "Person",
+     "english_name": "Jagannadhara Thachakram"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ThuglaqCBN",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a0c4ecc2bdac39f01e178b925ec58f1ee6d767af": {
+   "entities": [
+    {
+     "name": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "type": "Person",
+     "english_name": "Peradugu Vounumulya S/o P. Linganna"
+    },
+    {
+     "name": "S.C కాలనీ",
+     "type": "Place",
+     "english_name": "S.C Colony"
+    },
+    {
+     "name": "B. తాండ్రపాడు గ్రామం",
+     "type": "Place",
+     "english_name": "B. Tandrapadu Village"
+    },
+    {
+     "name": "కుర్నూల్ జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool District"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "CV Reddy",
+     "type": "Person",
+     "english_name": "CV Reddy"
+    },
+    {
+     "name": "Kanduri Gopikrishna",
+     "type": "Person",
+     "english_name": "Kanduri Gopikrishna"
+    },
+    {
+     "name": "Are Syamala",
+     "type": "Person",
+     "english_name": "Are Syamala"
+    },
+    {
+     "name": "YSRCP Official Page",
+     "type": "Organization",
+     "english_name": "YSRCP Official Page"
+    },
+    {
+     "name": "Naveen YSj Vizag",
+     "type": "Person",
+     "english_name": "Naveen YSj Vizag"
+    },
+    {
+     "name": "Venky Venky",
+     "type": "Person",
+     "english_name": "Venky Venky"
+    },
+    {
+     "name": "Media Channel iNews Telugu",
+     "type": "Organization",
+     "english_name": "iNews Telugu"
+    },
+    {
+     "name": "Kurnool bus accident",
+     "type": "Issue",
+     "english_name": "Kurnool bus accident"
+    },
+    {
+     "name": "These posts are completely baseless, deliberately propagated with the intention of tarnishing the reputation of the coalition government-evaru, creating discontent among the people, and misrepresenting government policies.",
+     "type": "Claim",
+     "english_name": "These posts are completely baseless, deliberately propagated with the intention of tarnishing the reputation of the coalition government-evaru, creating discontent among the people, and misrepresenting government policies."
+    }
+   ],
+   "relations": [
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "CV Reddy",
+     "evidence": "I bring to your notice that false, defamatory and politically motivated posts are being circulated on social media platforms regarding the recent Kurnool bus accident."
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "Kanduri Gopikrishna",
+     "evidence": "I bring to your notice that false, defamatory and politically motivated posts are being circulated on social media platforms regarding the recent Kurnool bus accident."
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "Are Syamala",
+     "evidence": "I bring to your notice that false, defamatory and politically motivated posts are being circulated on social media platforms regarding the recent Kurnool bus accident."
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "YSRCP Official Page",
+     "evidence": "I bring to your notice that false, defamatory and politically motivated posts are being circulated on social media platforms regarding the recent Kurnool bus accident."
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "Naveen YSj Vizag",
+     "evidence": "I bring to your notice that false, defamatory and politically motivated posts are being circulated on social media platforms regarding the recent Kurnool bus accident."
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "Venky Venky",
+     "evidence": "I bring to your notice that false, defamatory and politically motivated posts are being circulated on social media platforms regarding the recent Kurnool bus accident."
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "ACCUSES",
+     "target": "Media Channel iNews Telugu",
+     "evidence": "I bring to your notice that false, defamatory and politically motivated posts are being circulated on social media platforms regarding the recent Kurnool bus accident."
+    },
+    {
+     "source": "పెరడుగు వొనుములయ్యా S/o P. లింగన్న",
+     "relation": "MAKES_CLAIM",
+     "target": "These posts are completely baseless, deliberately propagated with the intention of tarnishing the reputation of the coalition government-evaru, creating discontent among the people, and misrepresenting government policies.",
+     "evidence": "These posts are completely baseless, deliberately propagated with the intention of tarnishing the reputation of the coalition government-evaru, creating discontent among the people, and misrepresenting government policies."
+    },
+    {
+     "source": "These posts are completely baseless, deliberately propagated with the intention of tarnishing the reputation of the coalition government-evaru, creating discontent among the people, and misrepresenting government policies.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Kurnool bus accident",
+     "evidence": "These posts are completely baseless, deliberately propagated with the intention of tarnishing the reputation of the coalition government-evaru, creating discontent among the people, and misrepresenting government policies."
+    }
+   ]
+  },
+  "818ec3c826d2a905f641cce8cad2805717330e8d": {
+   "entities": [
+    {
+     "name": "YSJ2.O",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ap_sadist_govt",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nagireddy Mule",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Tirumala Laddu Ghee",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati Laddu",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "YSJ 2.0 Facebook page",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Your video is unavailable in India",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Nagireddy Mule",
+     "relation": "MAKES_CLAIM",
+     "target": "Your video is unavailable in India",
+     "evidence": "తిరుపతి లడ్డు పాపం.."
+    },
+    {
+     "source": "Your video is unavailable in India",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tirumala Laddu Ghee",
+     "evidence": "Because of a legal request, we have to restrict access to your video."
+    }
+   ]
+  },
+  "f865d610dcb3ac68e51a940b93a92210f3985a2f": {
+   "entities": [
+    {
+     "name": "అమరావతిలో ఒక బిల్డింగ్కి అద్దాలు పెట్టడానికి రూ.2500 కోట్లా అని అడిగితే కేసులు పెడతారా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "YSR CONGRESS PARTY",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "V-YSRCP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati corruption",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "అమరావతిలో ఒక బిల్డింగ్కి అద్దాలు పెట్టడానికి రూ.2500 కోట్లా అని అడిగితే కేసులు పెడతారా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Amaravati corruption",
+     "evidence": "అమరావతిలో ఒక బిల్డింగ్కి అద్దాలు పెట్టడానికి రూ.2500 కోట్లా అని అడిగితే కేసులు పెడతారా?"
+    }
+   ]
+  },
+  "eb532c4aa980d39a352024fe20a59c21382a3795": {
+   "entities": [
+    {
+     "name": "Journalist Rakesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "KVR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Prithviraj",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YOYO TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Red Book excesses",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "KVR will be arrested",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Prithviraj fire on Andhra Pradesh police",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Journalist Rakesh",
+     "relation": "MAKES_CLAIM",
+     "target": "KVR will be arrested",
+     "evidence": "KVR will be arrested"
+    },
+    {
+     "source": "Prithviraj",
+     "relation": "MAKES_CLAIM",
+     "target": "Prithviraj fire on Andhra Pradesh police",
+     "evidence": "Telangana Prithviraj fire on Andhra Pradesh police"
+    }
+   ]
+  },
+  "685ed66dc44fa90ee99500b80fc0e77c3dc2ddbf": {
+   "entities": [
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "UTurnBabu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "U-TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Indapur–Heritage link",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "electricity tariff burdens",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Kalthe neyyi laddhu",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Legislative Council",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Center",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "c7b2c721fa42c3db28ef39045d0913512e5f12e0": {
+   "entities": [
+    {
+     "name": "Perapogu Venumutayya",
+     "type": "Person",
+     "english_name": "Perapogu Venumutayya"
+    },
+    {
+     "name": "P Linganna",
+     "type": "Person",
+     "english_name": "P Linganna"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "B.Thandrapadu Village",
+     "type": "Place",
+     "english_name": "B.Thandrapadu Village"
+    },
+    {
+     "name": "Kumool S C Colony",
+     "type": "Place",
+     "english_name": "Kumool S C Colony"
+    },
+    {
+     "name": "YUVA TV",
+     "type": "Organization",
+     "english_name": "YUVA TV"
+    },
+    {
+     "name": "Kumar Reddy,Avula",
+     "type": "Person",
+     "english_name": "Kumar Reddy, Avula"
+    },
+    {
+     "name": "Dr. Chiranjeevi",
+     "type": "Person",
+     "english_name": "Dr. Chiranjeevi"
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Organization",
+     "english_name": "Jagananna Connects"
+    },
+    {
+     "name": "Rahul",
+     "type": "Person",
+     "english_name": "Rahul"
+    },
+    {
+     "name": "Darshan",
+     "type": "Person",
+     "english_name": "Darshan"
+    },
+    {
+     "name": "Ram",
+     "type": "Person",
+     "english_name": "Ram"
+    },
+    {
+     "name": "Sridhar Reddy Avuthu",
+     "type": "Person",
+     "english_name": "Sridhar Reddy Avuthu"
+    },
+    {
+     "name": "Bilal Ysrcp",
+     "type": "Person",
+     "english_name": "Bilal Ysrcp"
+    },
+    {
+     "name": "Thippireddy Nagarjuna Reddy",
+     "type": "Person",
+     "english_name": "Thippireddy Nagarjuna Reddy"
+    },
+    {
+     "name": "Karumuri Venkata Reddy",
+     "type": "Person",
+     "english_name": "Karumuri Venkata Reddy"
+    },
+    {
+     "name": "Narayana Pothula",
+     "type": "Person",
+     "english_name": "Narayana Pothula"
+    },
+    {
+     "name": "Warrior Vs Jagan",
+     "type": "Organization",
+     "english_name": "Warrior Vs Jagan"
+    },
+    {
+     "name": "Suman TV",
+     "type": "Organization",
+     "english_name": "Suman TV"
+    },
+    {
+     "name": "TeluguNRIBulletinBoard",
+     "type": "Organization",
+     "english_name": "TeluguNRIBulletinBoard"
+    },
+    {
+     "name": "Dharani",
+     "type": "Person",
+     "english_name": "Dharani"
+    },
+    {
+     "name": "మకింద",
+     "type": "Person",
+     "english_name": "Makin da"
+    },
+    {
+     "name": "కాటసాని అభిమాని రామపెండర రెడ్డి",
+     "type": "Person",
+     "english_name": "Katasan i Abhimani Ramapendara Reddy"
+    },
+    {
+     "name": "SATTIBABU.YSRCP",
+     "type": "Person",
+     "english_name": "SATTIBABU.YSRCP"
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Scheme",
+     "english_name": "Emergency 2.0"
+    },
+    {
+     "name": "పైన పేర్కొన్న వ్యక్తులు సోషల్ మీడియా వేదికలలో కుట్రపూరితంగా తప్పుడు, అపకీర్తికరమైన (Defamatory) మరియు రాజకీయ ప్రేరణతో కూడిన పోస్టులు ప్రచారం చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": "The above-mentioned persons are spreading false, defamatory and politically motivated posts on social media platforms."
+    },
+    {
+     "name": "Defamatory social media posts",
+     "type": "Issue",
+     "english_name": "Defamatory social media posts"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Perapogu Venumutayya",
+     "relation": "MAKES_CLAIM",
+     "target": "పైన పేర్కొన్న వ్యక్తులు సోషల్ మీడియా వేదికలలో కుట్రపూరితంగా తప్పుడు, అపకీర్తికరమైన (Defamatory) మరియు రాజకీయ ప్రేరణతో కూడిన పోస్టులు ప్రచారం చేస్తున్నారు.",
+     "evidence": "పైన పేర్కొన్న వ్యక్తులు సోషల్ మీడియా వేదికలలో కుట్రపూరితంగా తప్పుడు, అపకీర్తికరమైన (Defamatory) మరియు రాజకీయ ప్రేరణతో కూడిన పోస్టులు ప్రచారం చేస్తున్నారు."
+    }
+   ]
+  },
+  "8eba6ecd9ddc99879cc8fb7c981d38d6b1c5988c": {
+   "entities": [
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Center",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ThuglaqCBN",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "లక్షల మంది నిరుద్యోగుల కడుపు మీద కొట్టిన చంద్రబాబు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "లక్షల ఇరువంద్వైదుగుల ను ముంచిన బాటు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్నాధరథచక్రం",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandra Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "లక్షల మంది నిరుద్యోగుల కడుపు మీద కొట్టిన చంద్రబాబు",
+     "evidence": "లక్షల మంది నిరుద్యోగుల కడుపు మీద కొట్టిన చంద్రబాబు"
+    },
+    {
+     "source": "Chandra Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "లక్షల ఇరువంద్వైదుగుల ను ముంచిన బాటు",
+     "evidence": "లక్షల ఇరువంద్వైదుగుల ను ముంచిన బాటు"
+    }
+   ]
+  },
+  "5abfc58a99a48aed22f018280718d54d1524fffc": {
+   "entities": [
+    {
+     "name": "The Government of India / Law Enforcement",
+     "type": "Organization",
+     "english_name": "Government of India / Law Enforcement"
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Organization",
+     "english_name": "Information Technology Act, 2000"
+    },
+    {
+     "name": "Transparency Center",
+     "type": "Organization",
+     "english_name": "Transparency Center"
+    },
+    {
+     "name": "AndhraPunch",
+     "type": "Organization",
+     "english_name": "AndhraPunch"
+    },
+    {
+     "name": "Jagannadhara Chakra",
+     "type": "Organization",
+     "english_name": "Jagannadhara Chakra"
+    },
+    {
+     "name": "Kumari Tammaneni",
+     "type": "Person",
+     "english_name": "Kumari Tammaneni"
+    },
+    {
+     "name": "ThuglaqCBN",
+     "type": "Person",
+     "english_name": "ThuglaqCBN"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Durga",
+     "type": "Person",
+     "english_name": "Durga"
+    },
+    {
+     "name": "ఆకాశమే హద్దుగా అమరావతి బిల్డింగ్స్ పేరుతో దోపిడీ.. బూర్జ్ ఖలీఫా ను మించి ఖర్చు ...",
+     "type": "Claim",
+     "english_name": "ఆకాశమే హద్దుగా అమరావతి బిల్డింగ్స్ పేరుతో దోపిడీ.. బూర్జ్ ఖలీఫా ను మించి ఖర్చు ..."
+    },
+    {
+     "name": "We restricted access to your content in India pursuant to a notice from The Government of India / Law Enforcement under Section 79(3)(b) of the Information Technology Act, 2000.",
+     "type": "Claim",
+     "english_name": "We restricted access to your content in India pursuant to a notice from The Government of India / Law Enforcement under Section 79(3)(b) of the Information Technology Act, 2000."
+    }
+   ],
+   "relations": []
+  },
+  "cfd4883e3a55a4a82f020bbe1e515b72eca12f4f": {
+   "entities": [
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G8 News",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G8",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rana Prathap",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Pasham Yadagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nareen TSJ Viazg 6",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSJ2024",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "c312d1008e4a1bfbf10203821d6aad36f12d956f": {
+   "entities": [
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కడప జిల్లా",
+     "type": "Place",
+     "english_name": "Kadapa district"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "NDA",
+     "type": "Party",
+     "english_name": "National Democratic Alliance"
+    },
+    {
+     "name": "రేవంత్",
+     "type": "Person",
+     "english_name": "Revanth Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రేవంత్",
+     "relation": "MEMBER_OF",
+     "target": "NDA",
+     "evidence": "ఎన్టీయే విందులో రేవంత్"
+    }
+   ]
+  },
+  "8272db18b781402d371fdd1785357483ba715c27": {
+   "entities": [
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": "The Government of India"
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": "Law Enforcement"
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": "Transparency Centre"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": "Vahini Tv"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Prithviraj Yadav",
+     "type": "Person",
+     "english_name": "Prithviraj Yadav"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "తిరుపతి లడ్డు",
+     "type": "Issue",
+     "english_name": "Tirupati laddu"
+    },
+    {
+     "name": "తెలంగాణ జర్నలిస్ట్",
+     "type": "Person",
+     "english_name": "Telangana Journalist"
+    },
+    {
+     "name": "Kaloji TV",
+     "type": "Organization",
+     "english_name": "Kaloji TV"
+    },
+    {
+     "name": "Raghu",
+     "type": "Person",
+     "english_name": "Raghu"
+    },
+    {
+     "name": "Nageshwar",
+     "type": "Person",
+     "english_name": "Nageshwar"
+    },
+    {
+     "name": "JANA SAINKS",
+     "type": "Organization",
+     "english_name": "JANA SAINKS"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prithviraj Yadav",
+     "relation": "ACCUSES",
+     "target": "Pawan Kalyan",
+     "evidence": "Prithviraj Yadav Fires On Pawan Kalyan"
+    },
+    {
+     "source": "The Government of India",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "restricted access to your content in India pursuant to a notice from The Government of India"
+    }
+   ]
+  },
+  "ebc148d3c69a5495e459710fb9698a15edddb512": {
+   "entities": [
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Vahini Tv",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GB NEWS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Meta",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నావాసని పత్రిక",
+     "type": "Organization",
+     "english_name": "Navasani Patrika"
+    },
+    {
+     "name": "Judson",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bakka",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bakka Judson",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Bakka Judson",
+     "relation": "ACCUSES",
+     "target": "Pawan Kalyan",
+     "evidence": "Bakka Judson Mass Warning To Pawan Kalyan"
+    }
+   ]
+  },
+  "47ba6ba2a9393e0636554d8ec8c4aa2361a7f2c2": {
+   "entities": [
+    {
+     "name": "SM Nizamhuddin",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": "X (formerly Twitter)"
+    },
+    {
+     "name": "Twitter",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSJ2024",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCParty",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Venkat Karmuru",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Warrior Ys Jagan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Uttarandhra Now",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati capital project",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kothapet Police Station",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Inspector of Police",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "San Francisco",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "YSJ2024",
+     "evidence": "Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "YSRCParty",
+     "evidence": "Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "Venkat Karmuru",
+     "evidence": "Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "Warrior Ys Jagan",
+     "evidence": "Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "Uttarandhra Now",
+     "evidence": "Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "Jagananna Connects",
+     "evidence": "Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "X",
+     "evidence": "He is stating he has browsing the social media platform ¿X¿ noticed that Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "Twitter",
+     "evidence": "He is stating he has browsing the social media platform ¿X¿ noticed that Several X (Twitter) accounts including YSJ2024, YSRCParty, Venkat Karmuru, Warrior Ys Jagan, Uttarandhra Now, Jagananna Connects and other affiliated handles are continuously spreading narratives against the Amaravati capital project"
+    },
+    {
+     "source": "SM Nizamhuddin",
+     "relation": "ACCUSES",
+     "target": "Andhra Pradesh government",
+     "evidence": "criticism targeting the Andhra Pradesh government’s capital development policies"
+    },
+    {
+     "source": "Kothapet Police Station",
+     "relation": "LOCATED_IN",
+     "target": "Guntur",
+     "evidence": "Kothapet Police Station, Guntur Dist."
+    }
+   ]
+  },
+  "888f439e18dff0204cc80b470ddc0c4380f3ee42": {
+   "entities": [],
+   "relations": []
+  },
+  "461ffb01fc4b90053f45a1419f54dfba3ea54c13": {
+   "entities": [
+    {
+     "name": "YAGANANNA",
+     "type": "Person",
+     "english_name": "Yagananna"
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "@JaganannaCNCTS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "@ncbn",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSR Congress Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Perni Venkatramaiah",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతిలో ఏ స్థాయిలో దోపిడీ జరిగిందో చెప్పడానికి @ncbn గారు కొనుగోలు చేసిన ప్లాటే సాక్ష్యం!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "questioning injustice to Amaravati farmers",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Perni Venkatramaiah",
+     "relation": "MAKES_CLAIM",
+     "target": "questioning injustice to Amaravati farmers",
+     "evidence": "questioning injustice to Amaravati farmers"
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "MEMBER_OF",
+     "target": "YSR Congress Party",
+     "evidence": "YSR Congress Party banners behind him"
+    }
+   ]
+  },
+  "ef88c0db7e593c6ee77b6e4bda4892e57b70487b": {
+   "entities": [
+    {
+     "name": "శ్రీకాళహస్తి",
+     "type": "Place",
+     "english_name": "Srikalahasti"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jagananna Connects",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "NCBN",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "భక్తురాలు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకాళహస్తి పుణ్యక్షేత్రంలో అడుగడుగునా అవినీతి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Temple corruption",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "భక్తురాలు",
+     "relation": "MAKES_CLAIM",
+     "target": "శ్రీకాళహస్తి పుణ్యక్షేత్రంలో అడుగడుగునా అవినీతి.",
+     "evidence": "శ్రీకాళహస్తి పుణ్యక్షేత్రంలో అడుగడుగునా అవినీతి."
+    },
+    {
+     "source": "భక్తురాలు",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "#SaveTemplesFromTDP #TDPScams"
+    },
+    {
+     "source": "భక్తురాలు",
+     "relation": "ACCUSES",
+     "target": "NCBN",
+     "evidence": "చివరికి గుడిలోనూ అవినీతేనా @ncbn?"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "#SadistChandrababu"
+    },
+    {
+     "source": "Jagananna Connects",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Temple corruption",
+     "evidence": "#JaganannaConnects"
+    }
+   ]
+  },
+  "31aefffe5e91e51a85ef432f31bc2174dc392314": {
+   "entities": [],
+   "relations": []
+  },
+  "9e2df8ab1c27435a7a9438f9d82cff94e687a25f": {
+   "entities": [
+    {
+     "name": "Naveen YSJ Vizag (@YSJ2024)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TTD వైద్యన్ BR (TTD Chairman BR)",
+     "type": "Person",
+     "english_name": "TTD Chairman BR"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "B.R. Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSR Congress Party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law Enforcement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transparency Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Your account, @YSJ2024 was reported and has been locked for violating the X Rules.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "TTD Chairman BR warning about not posting private media.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Allegations involving B.R. Naidu.",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో ఏ ప్రాంతానికీ వైయస్ఆర్ కాంగ్రెస్ పార్టీ ఎప్పుడూ వ్యతిరేకం కాదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "We have restricted access to your content in India pursuant to a notice from The Government of India / Law Enforcement.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Naveen YSJ Vizag (@YSJ2024)",
+     "relation": "MAKES_CLAIM",
+     "target": "Your account, @YSJ2024 was reported and has been locked for violating the X Rules.",
+     "evidence": "Your account, @YSJ2024 was reported and has been locked for violating the X Rules."
+    },
+    {
+     "source": "TTD వైద్యన్ BR (TTD Chairman BR)",
+     "relation": "MAKES_CLAIM",
+     "target": "TTD Chairman BR warning about not posting private media.",
+     "evidence": "TTD వైద్యన్ BR ... warning about not posting private media."
+    }
+   ]
+  },
+  "3bc4a8fce852e85470854aa7291a602f385fc17f": {
+   "entities": [
+    {
+     "name": "Jana Sena",
+     "type": "Party",
+     "english_name": "Jana Sena"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Prof. Nageshwar",
+     "type": "Person",
+     "english_name": "Prof. Nageshwar"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "YSR Congress",
+     "type": "Party",
+     "english_name": "YSR Congress"
+    },
+    {
+     "name": "NDA",
+     "type": "Party",
+     "english_name": "National Democratic Alliance"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Jagan Reddy",
+     "type": "Person",
+     "english_name": "Jagan Reddy"
+    },
+    {
+     "name": "Uppada Protection Wall",
+     "type": "Scheme",
+     "english_name": "Uppada Protection Wall"
+    },
+    {
+     "name": "central home minister",
+     "type": "Organization",
+     "english_name": "Central Home Minister"
+    },
+    {
+     "name": "JanaSena Shatagni @JSPShatagniTeam",
+     "type": "Organization",
+     "english_name": "JanaSena Shatagni"
+    },
+    {
+     "name": "Jagan Reddy's sister",
+     "type": "Person",
+     "english_name": "Jagan Reddy's sister"
+    },
+    {
+     "name": "Reduce anger towards NDA and love for Jagan",
+     "type": "Claim",
+     "english_name": "Reduce anger towards NDA and love for Jagan"
+    },
+    {
+     "name": "Coordinated social media campaigns subjected him to personal abuse and vilification",
+     "type": "Claim",
+     "english_name": "Coordinated social media campaigns subjected him to personal abuse and vilification"
+    },
+    {
+     "name": "Jagan Reddy is a criminal",
+     "type": "Claim",
+     "english_name": "Jagan Reddy is a criminal"
+    },
+    {
+     "name": "Jagan Reddy should be arrested",
+     "type": "Claim",
+     "english_name": "Jagan Reddy should be arrested"
+    },
+    {
+     "name": "CBI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీ వవన్ కళ్యాణ్ గారు",
+     "type": "Person",
+     "english_name": "Sri Vavan Kalyan"
+    },
+    {
+     "name": "NDA కూటమి",
+     "type": "Party",
+     "english_name": "NDA"
+    },
+    {
+     "name": "YSR కాంగ్రెస్",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రొఫెసర్ గౌరు",
+     "type": "Person",
+     "english_name": "Prof. Nageshwar"
+    },
+    {
+     "name": "Offensive posts targeting Prof. Nageshwar",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Prof. Nageshwar made false allegations to show love for Jagan Reddy and difference with NDA coalition",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Pawan Kalyan",
+     "relation": "ACCUSES",
+     "target": "Prof. Nageshwar",
+     "evidence": "publicly attacked Prof. Nageshwar"
+    },
+    {
+     "source": "Pawan Kalyan",
+     "relation": "MEMBER_OF",
+     "target": "Jana Sena",
+     "evidence": "జనసేన పార్టీ అధ్యక్షులు, గౌరవ ఉప ముఖ్యమంత్రి శ్రీ @PawanKalyan గారు"
+    },
+    {
+     "source": "Prof. Nageshwar",
+     "relation": "MAKES_CLAIM",
+     "target": "Reduce anger towards NDA and love for Jagan",
+     "evidence": "NDA మీద అక్కసు, జగన్ మీద ప్రేమ తగ్గించుకుంటే మంచిది నాగేశ్వర్ గారు."
+    },
+    {
+     "source": "Jagan Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "Jagan Reddy is a criminal",
+     "evidence": "జగన్ రెడ్డి లాంటి క్రిమినల్స్"
+    },
+    {
+     "source": "Jagan Reddy's sister",
+     "relation": "MAKES_CLAIM",
+     "target": "Jagan Reddy should be arrested",
+     "evidence": "జగన్ రెడ్డి అరెస్ట్ చేయమని సొంత చెల్లెలు"
+    },
+    {
+     "source": "ప్రొఫెసర్ గౌరు",
+     "relation": "MAKES_CLAIM",
+     "target": "Prof. Nageshwar made false allegations to show love for Jagan Reddy and difference with NDA coalition",
+     "evidence": "తప్పుడు కేథనోలు ప్రచారం చేసి గౌరవం కోలాశీకిండి ప్రొఫెసర్ గౌరు."
+    }
+   ]
+  },
+  "fabf83a5696a2628ba79ed8c917e3aefab7e6a39": {
+   "entities": [
+    {
+     "name": "X",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Cyber Crime Cell Annamayya District",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSJ2024",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "జగిత్యాల",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తెలంగాణ రాష్ట్రం",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "Emergency 2.0",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పవన్ కళ్యాణ్ మీ అన్నను జగిత్యాల లో కోడిగుడ్లతో ఎందుకు కొట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తెలంగాణ రాష్ట్రం వచ్చినప్పుడు 11 రోజులు అన్నం తినడం మానేశాను అన్నావు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSJ2024",
+     "relation": "ACCUSES",
+     "target": "పవన్ కళ్యాణ్",
+     "evidence": "పవన్ కళ్యాణ్ మీ అన్నను జగిత్యాల లో కోడిగుడ్లతో ఎందుకు కొట్టారు."
+    },
+    {
+     "source": "YSJ2024",
+     "relation": "MAKES_CLAIM",
+     "target": "పవన్ కళ్యాణ్ మీ అన్నను జగిత్యాల లో కోడిగుడ్లతో ఎందుకు కొట్టారు.",
+     "evidence": "పవన్ కళ్యాణ్ మీ అన్నను జగిత్యాల లో కోడిగుడ్లతో ఎందుకు కొట్టారు."
+    },
+    {
+     "source": "YSJ2024",
+     "relation": "MAKES_CLAIM",
+     "target": "తెలంగాణ రాష్ట్రం వచ్చినప్పుడు 11 రోజులు అన్నం తినడం మానేశాను అన్నావు.",
+     "evidence": "తెలంగాణ రాష్ట్రం వచ్చినప్పుడు 11 రోజులు అన్నం తినడం మానేశాను అన్నావు."
+    }
+   ]
+  }
+ }
+}

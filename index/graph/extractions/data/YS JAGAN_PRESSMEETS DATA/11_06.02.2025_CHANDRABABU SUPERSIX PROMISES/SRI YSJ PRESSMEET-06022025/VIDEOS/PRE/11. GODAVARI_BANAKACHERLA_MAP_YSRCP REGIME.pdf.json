@@ -1,0 +1,148 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cef7f1e65fa25ca7dc3663cbf15608ac0d0ed9f8": {
+   "entities": [],
+   "relations": []
+  },
+  "cf0c2d09324b824368156d7ff77c53daf25a818f": {
+   "entities": [
+    {
+     "name": "Krishna River",
+     "type": "Place",
+     "english_name": "Krishna River"
+    },
+    {
+     "name": "Bollapalli Reservoir",
+     "type": "Place",
+     "english_name": "Bollapalli Reservoir"
+    },
+    {
+     "name": "Gurajala",
+     "type": "Place",
+     "english_name": "Gurajala"
+    },
+    {
+     "name": "Bellamkonda",
+     "type": "Place",
+     "english_name": "Bellamkonda"
+    },
+    {
+     "name": "Gorantla",
+     "type": "Place",
+     "english_name": "Gorantla"
+    },
+    {
+     "name": "Sattenapalle",
+     "type": "Place",
+     "english_name": "Sattenapalle"
+    },
+    {
+     "name": "Rudravaram",
+     "type": "Place",
+     "english_name": "Rudravaram"
+    },
+    {
+     "name": "Piduguralla",
+     "type": "Place",
+     "english_name": "Piduguralla"
+    },
+    {
+     "name": "NSJC",
+     "type": "Organization",
+     "english_name": "NSJC"
+    },
+    {
+     "name": "Google Earth",
+     "type": "Organization",
+     "english_name": "Google Earth"
+    }
+   ],
+   "relations": []
+  },
+  "a5db0fe24b69ee8cc221284cb7e58e68cba9fdd0": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ramapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nandyal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bollapalli Reservoir",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Banakacherla Cross Regulator",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sircilla dam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pothireddypadu regulator",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Banakeswara complex",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Veligonda reservoir",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tunnel - 18.5 km",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Lifts @ 246m to 264m",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ramapuram",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Ramapuram, Kurnool, and Nandyal in Andhra Pradesh"
+    },
+    {
+     "source": "Kurnool",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Ramapuram, Kurnool, and Nandyal in Andhra Pradesh"
+    },
+    {
+     "source": "Nandyal",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Ramapuram, Kurnool, and Nandyal in Andhra Pradesh"
+    }
+   ]
+  }
+ }
+}

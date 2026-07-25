@@ -1,0 +1,99 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1470b50c891ccf89919be23b1c55736c524740b8": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenaadu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "సోలార్ ఎనర్జీ కార్పొరేషన్ ఆఫ్ ఇండియా",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "అమెరికా దర్యాప్తు సంస్థ",
+     "type": "Organization",
+     "english_name": "US Department of Justice"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "అదానీ గ్రూపు",
+     "type": "Organization",
+     "english_name": "Adani Group"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "రామేశ్వర్ ప్రసాద్ గుప్తా",
+     "type": "Person",
+     "english_name": "Rameshwar Prasad Gupta"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "నాకు శాలువా కప్పి, గొప్పగా పొగడాల్సింది పోయి ఏంటీ ఈ మాటలు. ఇంకా అవార్డు.. రివార్డు ఉంటే నాకు ఇవ్వా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అదానీ గ్రూపు రూ.1,750 కోట్ల లంచం ఇచ్చి నట్లు 2024 నవంబరులో వచ్చిన ఆరోపణ",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "గత ఏడాది నవంబరులో నిర్వహించిన విలేకరుల సమావేశంలో మా..."
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నాకు శాలువా కప్పి, గొప్పగా పొగడాల్సింది పోయి ఏంటీ ఈ మాటలు. ఇంకా అవార్డు.. రివార్డు ఉంటే నాకు ఇవ్వా",
+     "evidence": "నాకు శాలువా కప్పి, గొప్పగా పొగడాల్సింది పోయి ఏంటీ ఈ మాటలు. ఇంకా అవార్డు.. రివార్డు ఉంటే నాకు ఇవ్వా"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైకాపా",
+     "evidence": "జగన్ రాజకీయ ప్రస్థానం"
+    }
+   ]
+  }
+ }
+}

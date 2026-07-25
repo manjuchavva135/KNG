@@ -1,0 +1,149 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d58bf7c11907669b7eb0c5fa518f0f477f108b37": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anita"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కోటవురట్లలో",
+     "type": "Place",
+     "english_name": "Kotavurallu"
+    },
+    {
+     "name": "మడెం వరలక్ష్మి",
+     "type": "Person",
+     "english_name": "Madem Varalaxmi"
+    },
+    {
+     "name": "జవ్వాది ఈశ్వరరావు",
+     "type": "Person",
+     "english_name": "Javvadi Easwararao"
+    },
+    {
+     "name": "జవ్వాది కిష్టమ్మ",
+     "type": "Person",
+     "english_name": "Javvadi Kishtamma"
+    },
+    {
+     "name": "జవ్వాది కుమారి",
+     "type": "Person",
+     "english_name": "Javvadi Kumari"
+    },
+    {
+     "name": "పబ్బు మహలక్ష్మి",
+     "type": "Person",
+     "english_name": "Pabbhu Mahalakshmi"
+    },
+    {
+     "name": "జవ్వాది రమేష్",
+     "type": "Person",
+     "english_name": "Javvadi Ramesh"
+    },
+    {
+     "name": "బత్తుల అప్పారావు",
+     "type": "Person",
+     "english_name": "Bathula Apparao"
+    },
+    {
+     "name": "బత్తుల నరసింహమూర్తి",
+     "type": "Person",
+     "english_name": "Bathula Narasimhamurthy"
+    },
+    {
+     "name": "పబ్బు తుర్రయ్య",
+     "type": "Person",
+     "english_name": "Pabbhu Turrayya"
+    },
+    {
+     "name": "ఎస్ఐ రమణయ్య",
+     "type": "Person",
+     "english_name": "SI Ramanayya"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "బీసీ కాలనీ",
+     "type": "Place",
+     "english_name": "BC Colony"
+    },
+    {
+     "name": "మర్రిచెట్టు ప్రాంతం",
+     "type": "Place",
+     "english_name": "Marrichettu area"
+    },
+    {
+     "name": "సాక్షి, అనకాపల్లి",
+     "type": "Place",
+     "english_name": "Anakapalli"
+    },
+    {
+     "name": "మహిళలపై దాడి",
+     "type": "Issue",
+     "english_name": "Attack on women"
+    },
+    {
+     "name": "స్థల కబ్జా",
+     "type": "Issue",
+     "english_name": "Land encroachment"
+    },
+    {
+     "name": "టీడీపీ నాయకులు ఇద్దరు మహిళలపై దాడి చేశారు",
+     "type": "Claim",
+     "english_name": "TDP leaders attacked two women"
+    },
+    {
+     "name": "టీడీపీ నాయకులు ఆక్రమణలకు తెరలేపారు",
+     "type": "Claim",
+     "english_name": "TDP leaders started encroachments"
+    },
+    {
+     "name": "మడెం వరలక్ష్మి ఫిర్యాదు చేసింది",
+     "type": "Claim",
+     "english_name": "Madem Varalaxmi filed a complaint"
+    },
+    {
+     "name": "ఎస్ఐ రమణయ్య కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నట్టు తెలిపారు",
+     "type": "Claim",
+     "english_name": "SI Ramanayya said case registered and investigation underway"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మడెం వరలక్ష్మి",
+     "relation": "MAKES_CLAIM",
+     "target": "మడెం వరలక్ష్మి ఫిర్యాదు చేసింది",
+     "evidence": "మడెం వరలక్ష్మి ఫిర్యాదు చేసింది"
+    },
+    {
+     "source": "ఎస్ఐ రమణయ్య",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎస్ఐ రమణయ్య కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నట్టు తెలిపారు",
+     "evidence": "ఎస్ఐ రమణయ్య కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నట్టు తెలిపారు"
+    },
+    {
+     "source": "కోటవురట్లలో",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "కోటవురట్లలో ... ఆంధ్రప్రదేశ్"
+    }
+   ]
+  }
+ }
+}

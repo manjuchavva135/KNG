@@ -1,0 +1,1927 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "265ed4c3f371d49793369079d01a0f933070e565": {
+   "entities": [],
+   "relations": []
+  },
+  "f78d744b659e263ce19d0b446385369c9879f27c": {
+   "entities": [],
+   "relations": []
+  },
+  "912ae12c78cc2787db25acf2ee4995ca7d2a35e7": {
+   "entities": [],
+   "relations": []
+  },
+  "8e84dbc31b8897206463f848a89895c2ae65239d": {
+   "entities": [
+    {
+     "name": "Deepam Scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "LPG cylinder price",
+     "type": "Claim",
+     "english_name": "LPG cylinder price"
+    },
+    {
+     "name": "PMUY",
+     "type": "Scheme",
+     "english_name": "PMUY"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Petroleum Planning & Analysis Cell",
+     "type": "Organization",
+     "english_name": "Petroleum Planning & Analysis Cell"
+    },
+    {
+     "name": "PPAC",
+     "type": "Organization",
+     "english_name": "PPAC"
+    },
+    {
+     "name": "MOPNG",
+     "type": "Organization",
+     "english_name": "MOPNG"
+    },
+    {
+     "name": "PSU OMCs",
+     "type": "Organization",
+     "english_name": "PSU OMCs"
+    },
+    {
+     "name": "IOCL",
+     "type": "Organization",
+     "english_name": "IOCL"
+    },
+    {
+     "name": "BPCL",
+     "type": "Organization",
+     "english_name": "BPCL"
+    },
+    {
+     "name": "HPCL",
+     "type": "Organization",
+     "english_name": "HPCL"
+    },
+    {
+     "name": "Budget",
+     "type": "Organization",
+     "english_name": "Budget"
+    }
+   ],
+   "relations": []
+  },
+  "31395817d8cefdcfa3abaf63c47f7a594ebaa9c9": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jharkhand",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Maharashtra",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bihar",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "West Bengal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chandigarh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madhya Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "DNH & DD",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Meghalaya",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Punjab",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Goa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nagaland",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tripura",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Uttarakhand",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Manipur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chattisgarh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mizoram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Haryana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "A & N Islands",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Lakshadweep",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Himachal Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ladakh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sikkim",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a4c3d80750261c6821f1dbf1c5030e301c9000d7": {
+   "entities": [
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue Deficit",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "The average revenue deficit to GSDP ratio was 2.65% during the period of the YSRCP Government and the same during the first year of the TDP alliance Government has increased to 3.61%.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "This very clearly demonstrates that, during the first year of the TDP alliance, there was an increased dependence on borrowings for revenue expenditure.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "The average revenue deficit to GSDP ratio was 2.65% during the period of the YSRCP Government and the same during the first year of the TDP alliance Government has increased to 3.61%.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Revenue Deficit",
+     "evidence": "Revenue Deficit to GSDP %"
+    },
+    {
+     "source": "This very clearly demonstrates that, during the first year of the TDP alliance, there was an increased dependence on borrowings for revenue expenditure.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Revenue Deficit",
+     "evidence": "increased dependence on borrowings for revenue expenditure"
+    }
+   ]
+  },
+  "13a41dc390ae85e2f67538de529a0325c52928f4": {
+   "entities": [
+    {
+     "name": "Fiscal Deficit to GSDP ratio",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "The average fiscal deficit to GSDP ratio was 4.08% during the period of the YSRCP Government and the same during the first year of the TDP alliance Government has increased to 5.12%.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "During the YSRCP Government, the huge fiscal deficit to GSDP ratio is owing to the economic disruptions caused by the outbreak of the Covid-19 pandemic that necessitated higher borrowings owing to lower Government revenues and the need for higher expenditure in crucial sectors.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Fiscal Deficit to GSDP ratio in FY 2024-25 is higher that during any previous financial year with an exception of FY 2020-21, the year of the outbreak of the Covid-19 pandemic, during which there were severe economic disruptions.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "587967dabdd6764ebaa8dfc070ca0b7cb04d3bc4": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం నిర్ణయించింది... శిక్షణనివ్వాలని... ఇళ్ల నుంచే పని చేసుకునేలా... వివిధ సంస్థల్లో ఉద్యోగ, ఉపాధి అవకాశాలను కల్పించాలని యోచిస్తోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉపాధి లేనివారు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సచివాలయాల ఉద్యోగులు",
+     "type": "Organization",
+     "english_name": "Secretariat employees"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "ప్రకాశం",
+     "type": "Place",
+     "english_name": "Prakasam"
+    },
+    {
+     "name": "అనకాపల్లి",
+     "type": "Place",
+     "english_name": "Anakapalli"
+    },
+    {
+     "name": "అన్నమయ్య",
+     "type": "Place",
+     "english_name": "Annamayya"
+    },
+    {
+     "name": "బాపట్ల",
+     "type": "Place",
+     "english_name": "Bapatla"
+    },
+    {
+     "name": "చిత్తూరు",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "అంబేడ్కర్ కోనసీమ",
+     "type": "Place",
+     "english_name": "Ambedkar Konaseema"
+    },
+    {
+     "name": "తూర్పుగోదావరి",
+     "type": "Place",
+     "english_name": "East Godavari"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "కాకినాడ",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "సంద్యాల",
+     "type": "Place",
+     "english_name": "Sandalur"
+    },
+    {
+     "name": "ఎన్టీఆర్",
+     "type": "Place",
+     "english_name": "NTR"
+    },
+    {
+     "name": "వల్నాడు",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ప్రభుత్వం నిర్ణయించింది... శిక్షణనివ్వాలని... ఇళ్ల నుంచే పని చేసుకునేలా... వివిధ సంస్థల్లో ఉద్యోగ, ఉపాధి అవకాశాలను కల్పించాలని యోచిస్తోంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉపాధి లేనివారు",
+     "evidence": "ప్రభుత్వం నిర్ణయించింది... శిక్షణనివ్వాలని... ఇళ్ల నుంచే పని చేసుకునేలా... వివిధ సంస్థల్లో ఉద్యోగ, ఉపాధి అవకాశాలను కల్పించాలని యోచిస్తోంది."
+    }
+   ]
+  },
+  "468d40221b645079c7e474584a08598061c9dcc3": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Public sector corporations",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APPFC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Markfed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Civil Supplies Corp",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMDC Bonds",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "b41282fe095e30591aa0c3a856e3a9457e941e17": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "సంద్యాల",
+     "type": "Place",
+     "english_name": "Sandalur"
+    },
+    {
+     "name": "ఎన్టీఆర్",
+     "type": "Place",
+     "english_name": "NTR"
+    },
+    {
+     "name": "వల్నాడు",
+     "type": "Place",
+     "english_name": "Vellore"
+    },
+    {
+     "name": "పార్వతీపురం మన్యం",
+     "type": "Place",
+     "english_name": "Parvathipuram Manyam"
+    },
+    {
+     "name": "ప్రకాశం",
+     "type": "Place",
+     "english_name": "Prakasam"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "సత్యసాయి",
+     "type": "Place",
+     "english_name": "Satyasai"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": "Vijayanagaram"
+    },
+    {
+     "name": "పశ్చిమగోదావరి",
+     "type": "Place",
+     "english_name": "West Godavari"
+    },
+    {
+     "name": "వైఎస్సార్",
+     "type": "Place",
+     "english_name": "YSR"
+    },
+    {
+     "name": "అల్లూరి",
+     "type": "Place",
+     "english_name": "Alluri"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Unemployment",
+     "type": "Issue",
+     "english_name": "Unemployment"
+    },
+    {
+     "name": "52.74 లక్షల మంది వివిధ రంగాల్లో నైపుణ్యాలు పెంచుకుని ఇళ్ల నుంచి పని చేసేందుకు ఆసక్తి చూపుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలే అధికం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "people between the ages 18 and 50 and are unemployed are 1.56 crores.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "52.74 లక్షల మంది వివిధ రంగాల్లో నైపుణ్యాలు పెంచుకుని ఇళ్ల నుంచి పని చేసేందుకు ఆసక్తి చూపుతున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Unemployment",
+     "evidence": "ఏ పనీ లేని వారిలో 52.74 లక్షల మంది వివిధ రంగాల్లో నైపుణ్యాలు పెంచుకుని ఇళ్ల నుంచి పని చేసేందుకు ఆసక్తి చూపుతున్నారు."
+    },
+    {
+     "source": "మహిళలే అధికం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Unemployment",
+     "evidence": "ఇళ్ల నుంచి పనిచేస్తున్న వారిలో మహిళలే అధికం"
+    },
+    {
+     "source": "people between the ages 18 and 50 and are unemployed are 1.56 crores.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Unemployment",
+     "evidence": "As per this article, people between the ages 18 and 50 and are unemployed are 1.56 crores."
+    },
+    {
+     "source": "కర్నూలు",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "కర్నూలు"
+    },
+    {
+     "source": "సంద్యాల",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "సంద్యాల"
+    },
+    {
+     "source": "ఎన్టీఆర్",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "ఎన్టీఆర్"
+    },
+    {
+     "source": "వల్నాడు",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "వల్నాడు"
+    },
+    {
+     "source": "పార్వతీపురం మన్యం",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "పార్వతీపురం మన్యం"
+    },
+    {
+     "source": "ప్రకాశం",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "ప్రకాశం"
+    },
+    {
+     "source": "నెల్లూరు",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "నెల్లూరు"
+    },
+    {
+     "source": "సత్యసాయి",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "సత్యసాయి"
+    },
+    {
+     "source": "శ్రీకాకుళం",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "శ్రీకాకుళం"
+    },
+    {
+     "source": "తిరుపతి",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "తిరుపతి"
+    },
+    {
+     "source": "విశాఖపట్నం",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "విశాఖపట్నం"
+    },
+    {
+     "source": "విజయనగరం",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "విజయనగరం"
+    },
+    {
+     "source": "పశ్చిమగోదావరి",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "పశ్చిమగోదావరి"
+    },
+    {
+     "source": "వైఎస్సార్",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "వైఎస్సార్"
+    },
+    {
+     "source": "అల్లూరి",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "అల్లూరి"
+    }
+   ]
+  },
+  "2ff66a6a90f783c2558cf849f4421052ae99d8ea": {
+   "entities": [
+    {
+     "name": "AP Govt",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Total borrowings",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Increase in liabilities under YSRCP Government is Rs. 3,32,671 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liabilities under TDP alliance Government is Rs. 1,61,301 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Increase in liabilities under YSRCP Government is Rs. 3,32,671 crores",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Total borrowings",
+     "evidence": "During the period of the YSRCP Government, even if all forms of liabilities are taken into consideration, the increase is to be tune of Rs. 3,32,671 crores."
+    },
+    {
+     "source": "Liabilities under TDP alliance Government is Rs. 1,61,301 crores",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Total borrowings",
+     "evidence": "As against that, the liabilities contracted to date by the TDP alliance Government is Rs. 1,61,301 crores (48.5% of all borrowings made during the 5 - yr YSRCP Government)"
+    }
+   ]
+  },
+  "d329a565a5ce302dfa9c55dd7356cbde80ada9c9": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "economic sluggishness",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State GST revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "State’s own revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue Receipts",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "State GST revenues",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "economic sluggishness",
+     "evidence": "State GST revenues for the first two months of this financial year has demonstrated a year-on-year contraction to the tune of 9.89%"
+    },
+    {
+     "source": "State’s own revenues",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "economic sluggishness",
+     "evidence": "the fall during April and May 2025 when compared with April and May 2024 is 0.44%"
+    },
+    {
+     "source": "Revenue Receipts",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "economic sluggishness",
+     "evidence": "Revenue Receipts ... -1.83%"
+    }
+   ]
+  },
+  "49ff11196ba013a453217dc14d1e7a15fc7984b2": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government was irresponsibly borrowing and not utilizing the borrowing for productive expenditure.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Only 23.49% of the borrowings were utilized for capital expenditure.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Capital Expenditure Utilization",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP Government was irresponsibly borrowing and not utilizing the borrowing for productive expenditure.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital Expenditure Utilization",
+     "evidence": "we were criticized by the then opposition TDP party saying that the YSRCP Government was irresponsibly borrowing and not utilizing the borrowing for productive expenditure."
+    }
+   ]
+  },
+  "fe2279cd891bf46502ac2b08b4b29c9ad55edbf5": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Industries & Commerce (M.III) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Recognized Qualified Persons (RQP)s",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Debenture trustee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Bonds",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APMDC",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "APMDC – Andhra Pradesh Mineral Development Corp."
+    },
+    {
+     "source": "Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "GOVERNMENT OF ANDHRA PRADESH"
+    },
+    {
+     "source": "Industries & Commerce (M.III) Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "INDUSTRIES & COMMERCE (M.III) DEPARTMENT"
+    }
+   ]
+  },
+  "5edba852c29231a40338cad348a3b30c9e6cb703": {
+   "entities": [
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "liquor policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Union Government Accounts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State’s own revenues registering a year on year growth of only 3.08%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "year-on-year growth of State’s own revenues during FY 25 turns out to be only 1.15%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "revenue receipts on account of license fee under the new liquor policy is around 1,800 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "b5b746940c493a69fc0e0803f29ae7a588adf1ed": {
+   "entities": [
+    {
+     "name": "Aadabidda Nidhi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Addabudha Nnam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Dipam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Thalliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Free Bus Travel",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Annadata Sukhibhava",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Anhadata Sukhnbhava",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Pension age reduction to 50 years for SCs, BCs & Minorities",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Aadabidda Nidhi",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Addabudha Nnam",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Dipam",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Thalliki Vandanam",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Free Bus Travel",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Annadata Sukhibhava",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Anhadata Sukhnbhava",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Pension age reduction to 50 years for SCs, BCs & Minorities",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Seven schemes",
+     "evidence": "RECALLING CHANDRABABU’S MANIFESTO"
+    }
+   ]
+  },
+  "d6125b14073305151a826f5d022f45c24b0edd97": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "Companies Act, 1956",
+     "type": "Organization",
+     "english_name": "Companies Act, 1956"
+    },
+    {
+     "name": "Key Information Document",
+     "type": "Claim",
+     "english_name": "Key Information Document"
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": "GoAP"
+    },
+    {
+     "name": "RBI",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "Bond Servicing Account",
+     "type": "Organization",
+     "english_name": "Bond Servicing Account"
+    },
+    {
+     "name": "DSRA",
+     "type": "Organization",
+     "english_name": "DSRA"
+    },
+    {
+     "name": "CRA Account",
+     "type": "Organization",
+     "english_name": "CRA Account"
+    },
+    {
+     "name": "Revenue Collection Account",
+     "type": "Organization",
+     "english_name": "Revenue Collection Account"
+    },
+    {
+     "name": "quarry leasehold rights",
+     "type": "Organization",
+     "english_name": "quarry leasehold rights"
+    },
+    {
+     "name": "mining rights",
+     "type": "Organization",
+     "english_name": "mining rights"
+    },
+    {
+     "name": "436 identified mines",
+     "type": "Organization",
+     "english_name": "436 identified mines"
+    },
+    {
+     "name": "unconstitutional security over mining revenues",
+     "type": "Issue",
+     "english_name": "unconstitutional security over mining revenues"
+    }
+   ],
+   "relations": [
+    {
+     "source": "APMDC",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Principal Place of Business: Vijayawada, Andhra Pradesh"
+    },
+    {
+     "source": "APMDC",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Principal Place of Business: Vijayawada, Andhra Pradesh"
+    },
+    {
+     "source": "APMDC",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "Date and Place of Incorporation: 24.02.1961, Hyderabad, Andhra Pradesh"
+    },
+    {
+     "source": "APMDC",
+     "relation": "LOCATED_IN",
+     "target": "Telangana",
+     "evidence": "Registered Office: ... Hyderabad, Telangana, India"
+    },
+    {
+     "source": "APMDC",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "Registered Office: ... Hyderabad, Telangana, India"
+    },
+    {
+     "source": "Key Information Document",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "unconstitutional security over mining revenues",
+     "evidence": "Key Information Document ... which is unconstitutional"
+    }
+   ]
+  },
+  "bfc6c26afb21cfe3909380a6e30fa323667166a6": {
+   "entities": [
+    {
+     "name": "Nirudyoga Bhruthi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "CHANDRABABU’S MANIFESTO",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Total financial implication is Rs. 7,200 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Total amount required for implementation of schemes – Rs. 79,867 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount allocated in the budget for FY 26 – Rs. 17,179 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e9d09d6ac772324533a121d0ff98e968fe000a33": {
+   "entities": [
+    {
+     "name": "బీసీల రక్షణ కోసం ప్రత్యేక చట్టం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "BC Sub Plan ద్వారా ఐదేళ్లలో రూ.లక్షన్నర కోట్లు ఖర్చు చేస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "స్థానిక సంస్థలు, నామినేటెడ్ పదవుల్లో 34% రిజర్వేషన్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చట్ట సభల్లో బీసీలకు 33శాతం రిజర్వేషన్ కోసం తీర్మానం చేసి కేంద్రానికి పంపిస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తక్కువ జనాభాతో, ఎన్నికల్లో పోటీ చేయలేని వర్గాలకు నామినేషన్ల ద్వారా రాజకీయ భాగస్వామ్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీల ఆర్థికాభివృద్ధి, ఉపాధికి ప్రోత్సాహకాలు పునరుద్ధరిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దామాషా ప్రకారం కార్పొరేషన్లకు నిధులు చేస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.5000 కోట్లతో 'ఆదరణ' పథకం పునరుద్ధరిస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "శాశ్వత కుల ధ్రువీకరణ పత్రాలు అందజేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అత్యాధునిక ప్రమాణాలతో గొర్రెల పెంపకం యూనిట్ల స్థాపనకు రాయితీలు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గొర్రెలు, మేకల పెంపకం యూనిట్లకు బీమా సౌకర్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చేనేత ఉత్పత్తులపై జీయస్టీ రీయింబర్స్ చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పవర్‌లూమ్‌లకు 500 యూనిట్లు, హ్యాండ్యూమ్‌లకు 200 యూనిట్లు ఉచిత విద్యుత్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దేవాలయాల్లో పనిచేసే నాయీబ్రాహ్మణులకు రూ.25 వేలు గౌరవ వేతనం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "షాపులకు 200 యూనిట్లు ఉచిత విద్యుత్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆదరణ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": []
+  },
+  "b94adabe660c6d2eb1a690aba975135270c542a5": {
+   "entities": [
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": "TDP alliance"
+    },
+    {
+     "name": "SC, BC and Minority communities",
+     "type": "Issue",
+     "english_name": "SC, BC and Minority communities"
+    },
+    {
+     "name": "Pension for SC, BC, Minority from age 50",
+     "type": "Scheme",
+     "english_name": "Pension for SC, BC, Minority from age 50"
+    },
+    {
+     "name": "Noor Basha Corporation",
+     "type": "Organization",
+     "english_name": "Noor Basha Corporation"
+    },
+    {
+     "name": "Minority Finance Corporation",
+     "type": "Organization",
+     "english_name": "Minority Finance Corporation"
+    },
+    {
+     "name": "Imams",
+     "type": "Person",
+     "english_name": "Imams"
+    },
+    {
+     "name": "Mouzans",
+     "type": "Person",
+     "english_name": "Mouzans"
+    },
+    {
+     "name": "Government Qazis",
+     "type": "Person",
+     "english_name": "Government Qazis"
+    },
+    {
+     "name": "Mosque maintenance assistance",
+     "type": "Scheme",
+     "english_name": "Mosque maintenance assistance"
+    },
+    {
+     "name": "Hajj Yatra assistance",
+     "type": "Scheme",
+     "english_name": "Hajj Yatra assistance"
+    },
+    {
+     "name": "SC/ST welfare schemes",
+     "type": "Scheme",
+     "english_name": "SC/ST welfare schemes"
+    },
+    {
+     "name": "Subplan funds",
+     "type": "Scheme",
+     "english_name": "Subplan funds"
+    },
+    {
+     "name": "Agency",
+     "type": "Place",
+     "english_name": "Agency"
+    },
+    {
+     "name": "Dr. Sudhakar",
+     "type": "Person",
+     "english_name": "Dr. Sudhakar"
+    },
+    {
+     "name": "Drevur Subramanyam",
+     "type": "Person",
+     "english_name": "Drevur Subramanyam"
+    },
+    {
+     "name": "Mantruboy",
+     "type": "Person",
+     "english_name": "Mantruboy"
+    },
+    {
+     "name": "Dr. Achanna",
+     "type": "Person",
+     "english_name": "Dr. Achanna"
+    },
+    {
+     "name": "BC Sub Plan",
+     "type": "Scheme",
+     "english_name": "BC Sub Plan"
+    },
+    {
+     "name": "BC protection law",
+     "type": "Scheme",
+     "english_name": "BC protection law"
+    },
+    {
+     "name": "Restoration of GO 3",
+     "type": "Scheme",
+     "english_name": "Restoration of GO 3"
+    },
+    {
+     "name": "SC/ST backlog posts filling",
+     "type": "Scheme",
+     "english_name": "SC/ST backlog posts filling"
+    },
+    {
+     "name": "Agency teacher recruitment",
+     "type": "Scheme",
+     "english_name": "Agency teacher recruitment"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Pension for SC, BC, Minority from age 50",
+     "evidence": "ముస్లిం మైనారిటీలకు 50 ఏళ్ళకే పెన్షన్"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Mosque maintenance assistance",
+     "evidence": "మసీదుల నిర్వహణకు ప్రతి నెలా రూ.5 వేలు ఆర్థిక సాయం"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Hajj Yatra assistance",
+     "evidence": "హజ్ యాత్రకు వెళ్లే ఒక్కో ముస్లింకు రూ.1 లక్ష సాయం."
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SC/ST welfare schemes",
+     "evidence": "ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునరుద్ధరణ"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Subplan funds",
+     "evidence": "సబ్ప్లాన్ నిధులు వారి అభివృద్ధికి ఖర్చు చేస్తాం."
+    }
+   ]
+  },
+  "4e2181638052bc019e8eb061414820fa5a3d4b3a": {
+   "entities": [
+    {
+     "name": "సుధాకర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సుబ్రహ్మణ్యం",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మంత్రుబాయ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అచ్చెన్న",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సుధాకర్",
+     "relation": "MAKES_CLAIM",
+     "target": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు",
+     "evidence": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు"
+    },
+    {
+     "source": "సుబ్రహ్మణ్యం",
+     "relation": "MAKES_CLAIM",
+     "target": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు",
+     "evidence": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు"
+    },
+    {
+     "source": "మంత్రుబాయ్",
+     "relation": "MAKES_CLAIM",
+     "target": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు",
+     "evidence": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు"
+    },
+    {
+     "source": "అచ్చెన్న",
+     "relation": "MAKES_CLAIM",
+     "target": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు",
+     "evidence": "హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు"
+    }
+   ]
+  },
+  "043889786c785de66916aa7990a747fa6ebb0b80": {
+   "entities": [
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": "TDP alliance"
+    },
+    {
+     "name": "Alluri Seetharama Raju",
+     "type": "Person",
+     "english_name": "Alluri Seetharama Raju"
+    },
+    {
+     "name": "Bhogapuram airport",
+     "type": "Place",
+     "english_name": "Bhogapuram airport"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Noor Basha Corporation",
+     "type": "Organization",
+     "english_name": "Noor Basha Corporation"
+    },
+    {
+     "name": "Minority Finance Corporation",
+     "type": "Organization",
+     "english_name": "Minority Finance Corporation"
+    },
+    {
+     "name": "Kamma Reddy corporation",
+     "type": "Organization",
+     "english_name": "Kamma Reddy corporation"
+    },
+    {
+     "name": "Velama corporation",
+     "type": "Organization",
+     "english_name": "Velama corporation"
+    },
+    {
+     "name": "Ex-servicemen corporation",
+     "type": "Organization",
+     "english_name": "Ex-servicemen corporation"
+    },
+    {
+     "name": "Pension for Muslim minorities at age 50",
+     "type": "Scheme",
+     "english_name": "Pension for Muslim minorities at age 50"
+    },
+    {
+     "name": "Allotment of land for Eidgahs and Qabristans",
+     "type": "Scheme",
+     "english_name": "Allotment of land for Eidgahs and Qabristans"
+    },
+    {
+     "name": "Construction of Haj House near Vijayawada",
+     "type": "Scheme",
+     "english_name": "Construction of Haj House near Vijayawada"
+    },
+    {
+     "name": "Interest-free loans up to Rs.5 lakhs",
+     "type": "Scheme",
+     "english_name": "Interest-free loans up to Rs.5 lakhs"
+    },
+    {
+     "name": "Monthly honorarium for Imams and Moujans",
+     "type": "Scheme",
+     "english_name": "Monthly honorarium for Imams and Moujans"
+    },
+    {
+     "name": "Appointment of eligible Imams as government Qazis",
+     "type": "Scheme",
+     "english_name": "Appointment of eligible Imams as government Qazis"
+    },
+    {
+     "name": "Financial assistance for mosque maintenance",
+     "type": "Scheme",
+     "english_name": "Financial assistance for mosque maintenance"
+    },
+    {
+     "name": "Financial assistance for Haj pilgrimage",
+     "type": "Scheme",
+     "english_name": "Financial assistance for Haj pilgrimage"
+    },
+    {
+     "name": "Allocation of land for Alluri Seetharama Raju Smrithivanam",
+     "type": "Scheme",
+     "english_name": "Allocation of land for Alluri Seetharama Raju Smrithivanam"
+    },
+    {
+     "name": "Naming of Bhogapuram airport as Alluri Seetharama Raju airport",
+     "type": "Scheme",
+     "english_name": "Naming of Bhogapuram airport as Alluri Seetharama Raju airport"
+    },
+    {
+     "name": "Formation of special corporation for ex-servicemen",
+     "type": "Scheme",
+     "english_name": "Formation of special corporation for ex-servicemen"
+    },
+    {
+     "name": "Allocation of funds for Kamma Reddy, Velama and other forward caste corporations",
+     "type": "Scheme",
+     "english_name": "Allocation of funds for Kamma Reddy, Velama and other forward caste corporations"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Pension for Muslim minorities at age 50",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Allotment of land for Eidgahs and Qabristans",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Construction of Haj House near Vijayawada",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Interest-free loans up to Rs.5 lakhs",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Monthly honorarium for Imams and Moujans",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Appointment of eligible Imams as government Qazis",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Financial assistance for mosque maintenance",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Financial assistance for Haj pilgrimage",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Allocation of land for Alluri Seetharama Raju Smrithivanam",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Naming of Bhogapuram airport as Alluri Seetharama Raju airport",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Formation of special corporation for ex-servicemen",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    },
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Allocation of funds for Kamma Reddy, Velama and other forward caste corporations",
+     "evidence": "Extracts from TDP alliance Manifesto – regarding commitment pertaining to housing"
+    }
+   ]
+  },
+  "7048051304d144d11d63037dbc7958394e82e1db": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "డా॥ సుధాకర్",
+     "type": "Person",
+     "english_name": "Dr. Sudhakar"
+    },
+    {
+     "name": "డ్రైవర్ సుబ్రహ్మణ్యం",
+     "type": "Person",
+     "english_name": "Subrahmanyam"
+    },
+    {
+     "name": "మంత్రుబాయ్",
+     "type": "Person",
+     "english_name": "Mantri Boy"
+    },
+    {
+     "name": "డా॥ అచ్చెన్న",
+     "type": "Person",
+     "english_name": "Dr. Achchenna"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "court"
+    },
+    {
+     "name": "గృహ",
+     "type": "Scheme",
+     "english_name": "Housing"
+    },
+    {
+     "name": "గ్రామీణ ప్రాంతాల్లో ఉపాధి అవకాశాలు కల్పిస్తాం.",
+     "type": "Claim",
+     "english_name": "We will provide employment opportunities in rural areas."
+    },
+    {
+     "name": "డా॥ సుధాకర్, డ్రైవర్ సుబ్రహ్మణ్యం, మంత్రుబాయ్, డా॥ అచ్చెన్న తదితరుల హత్యలకు కారకులను కోర్టుల్లో శిక్షపడే విధంగా చర్యలు",
+     "type": "Claim",
+     "english_name": "Actions against culprits of murders of Dr. Sudhakar, driver Subrahmanyam, Mantri Boy, Dr. Achchenna etc. to be punished in courts."
+    },
+    {
+     "name": "పట్టణాల్లో 2 సెంట్లు, గ్రామాల్లో 3 సెంట్ల స్థలం మంజూరు చేస్తాం",
+     "type": "Claim",
+     "english_name": "Grant 2 cents in towns, 3 cents in villages for housing construction."
+    },
+    {
+     "name": "ఇప్పటివరకు మంజూరై పట్టాలు పొందిన వారికి ప్రభుత్వం నుండి పక్కా ఇళ్ల నిర్మాణాలు పూర్తి చేస్తాం",
+     "type": "Claim",
+     "english_name": "Complete construction of pakka houses for those who have already got approved plots from the government."
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "గ్రామీణ ప్రాంతాల్లో ఉపాధి అవకాశాలు కల్పిస్తాం.",
+     "evidence": "తద్వారా గ్రామీణ ప్రాంతాల్లో ఉపాధి అవకాశాలు కల్పిస్తాం."
+    }
+   ]
+  },
+  "89862c64f3b6189946e24e24c0804ac27c0421af": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Christian Missionaries Provident Board",
+     "type": "Organization",
+     "english_name": "Christian Missionaries Provident Board"
+    },
+    {
+     "name": "ప్రత్యేక కార్పొరేషన్ ఏర్పాటు చేసి ఎక్స్‌సర్వీస్‌మెన్ సంక్షేమానికి కృషిచేస్తాం",
+     "type": "Organization",
+     "english_name": "Ex‑servicemen welfare corporation"
+    },
+    {
+     "name": "ఎక్స్‌సర్వీస్‌మెన్ సంక్షేమానికి ప్రత్యేక చొరవ",
+     "type": "Scheme",
+     "english_name": "Special initiative for ex‑servicemen welfare"
+    },
+    {
+     "name": "మసీదుల నిర్వహణకు ప్రతి నెలా రూ.5 వేలు ఆర్థిక సాయం",
+     "type": "Scheme",
+     "english_name": "Monthly Rs 5,000 assistance for mosque maintenance"
+    },
+    {
+     "name": "హజ్ యాత్రకు వెళ్లే ఒక్కో ముస్లింకు రూ.1 లక్ష సాయం",
+     "type": "Scheme",
+     "english_name": "Rs 1 lakh assistance for Hajj pilgrimage"
+    },
+    {
+     "name": "సామాజిక భద్రత పింఛన్లు పెంపు",
+     "type": "Scheme",
+     "english_name": "Increase of social security pensions"
+    },
+    {
+     "name": "రూ.3 వేల నుంచి రూ.4 వేలకు పెంపు - ఏప్రిల్ 2024 నుంచి అమలు",
+     "type": "Scheme",
+     "english_name": "Raise pension from Rs 3,000 to Rs 4,000 from April 2024"
+    },
+    {
+     "name": "దివ్యాంగుల పెంఛన్ రూ.6,000 పెంచుతాం. పూర్తిస్థాయిలో వైకల్యానికి గురైన వారికి నెలకు రూ.15 వేలు పెంఛన్",
+     "type": "Scheme",
+     "english_name": "Increase disabled pension by Rs 6,000; full disability pension Rs 15,000 per month"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

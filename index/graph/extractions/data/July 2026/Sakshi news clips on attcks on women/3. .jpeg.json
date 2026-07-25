@@ -1,0 +1,83 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e9be4a6b1683055d05981280ecbc05d27a9db3aa": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తిమ్మరాయప్ప",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మునికన్నప్ప",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నారాయణపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళను నడిరోడ్డుపై ఈడ్చుకెళ్లి చెట్టుకు కట్టేసిన ఘటన",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శిరీష",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళను నడిరోడ్డుపై ఈడ్చుకెళ్లి చెట్టుకు కట్టేసిన ఘటన",
+     "evidence": "మునికన్నప్ప రోడ్డుపై ఈడ్చుకెళ్లి చెట్టుకు కట్టేసి చిత్రహింసలకు గురి చేశాడు."
+    },
+    {
+     "source": "మహిళను నడిరోడ్డుపై ఈడ్చుకెళ్లి చెట్టుకు కట్టేసిన ఘటన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళను నడిరోడ్డుపై ఈడ్చుకెళ్లి చెట్టుకు కట్టేసిన ఘటన"
+    }
+   ]
+  }
+ }
+}

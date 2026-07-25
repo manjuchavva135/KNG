@@ -1,0 +1,105 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2994e1952da8df5921ddd3ced715b48650512a5c": {
+   "entities": [
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CERC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Electricity Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Governments/UTs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Electricity Regulatory Commissions/Joint Electricity Regulatory Commissions",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE's Central Public Sector Undertaking (CPSU) Scheme Phase-II (Government Producer Scheme)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SECI Tender for manufacturing linked capacity scheme (RFS No SECI/C&P/RfS/2GW Manufacturing/P-3/R1/062019dated 25.06.2019)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Debranjan Chattopadhyay",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Minister of State (I/C) for Power and NRE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS waiver for solar PV power plants commissioned under MNRE's CPSU Scheme Phase-II and SECI Tender for manufacturing linked capacity scheme",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ministry of Power",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "To Secretary, CERC, New Delhi."
+    },
+    {
+     "source": "CERC",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "To Secretary, CERC, New Delhi."
+    },
+    {
+     "source": "MNRE",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "Secretary, MNRE, New Delhi."
+    },
+    {
+     "source": "Central Electricity Authority",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "Chairperson, Central Electricity Authority, New Delhi."
+    }
+   ]
+  }
+ }
+}

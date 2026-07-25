@@ -1,0 +1,199 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0ca3bc46f4aca882aac035021c928a030ce5ebbe": {
+   "entities": [
+    {
+     "name": "BPCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Indosol",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APIIC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Maritime Board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Special Deputy Collectors",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Singarayakonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kaval",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kumaragalam Birla",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "UltraTech Cement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Janardhan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Dalmia Cement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jindal",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Aurobindo",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "YSRCP Leaders",
+     "type": "Person",
+     "english_name": "YSRCP Leaders"
+    }
+   ],
+   "relations": []
+  },
+  "c8ad9aa36985abb97ce86b7e34392f639f538057": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": "Krishna Zilla Parishad"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "Indusol",
+     "type": "Organization",
+     "english_name": "Indusol"
+    },
+    {
+     "name": "BPCL",
+     "type": "Organization",
+     "english_name": "Bharat Petroleum Corporation Limited"
+    },
+    {
+     "name": "Eenadu Ramojirao",
+     "type": "Person",
+     "english_name": "Ramojirao (Eenadu)"
+    },
+    {
+     "name": "APIC",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Industrial Infrastructure Corporation"
+    },
+    {
+     "name": "Maritime board",
+     "type": "Organization",
+     "english_name": "Maritime Board"
+    },
+    {
+     "name": "Krishna district",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "Prakasam district",
+     "type": "Place",
+     "english_name": "Prakasam district"
+    },
+    {
+     "name": "Singarayakonda",
+     "type": "Place",
+     "english_name": "Singarayakonda"
+    },
+    {
+     "name": "Kavali",
+     "type": "Place",
+     "english_name": "Kavali"
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "Special Deputy Collectors",
+     "type": "Organization",
+     "english_name": "Special Deputy Collectors"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Krishna ZP",
+     "relation": "LOCATED_IN",
+     "target": "Krishna district",
+     "evidence": "కృష్ణపట్నంలోనే"
+    },
+    {
+     "source": "Government",
+     "relation": "LOCATED_IN",
+     "target": "Prakasam district",
+     "evidence": "ప్రకాశం జిల్లాలో ప్రభుత్వానికి వేల ఎకరాలున్నాయి."
+    },
+    {
+     "source": "Singarayakonda",
+     "relation": "LOCATED_IN",
+     "target": "Kavali",
+     "evidence": "సింగరాయకొండ నుంచి కావలి వరకు"
+    }
+   ]
+  }
+ }
+}

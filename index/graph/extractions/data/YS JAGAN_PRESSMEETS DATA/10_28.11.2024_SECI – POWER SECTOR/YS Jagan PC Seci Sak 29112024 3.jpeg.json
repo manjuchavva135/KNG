@@ -1,0 +1,831 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "48d82771b7a1c1a3124dc46cdd2c324092a9b0dd": {
+   "entities": [
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Vidyadeevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathideevena"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "అదానీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "క్షమాపణ చెప్పాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పరువు నష్టం దావా వేస్తా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమెరికాలో వచ్చిన ఆరోపణల్లో ఎక్కడా నా పేరు లేదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి పత్రికల యాజమాన్యాలపై వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్రెడ్డి ఆగ్రహం వ్యక్తం చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి పత్రికల యాజమాన్యాలపై వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్రెడ్డి ఆగ్రహం వ్యక్తం చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "క్షమాపణ చెప్పాలి",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతిలకు వైఎస్ జగన్ అల్టిమేటం 48 గంటల్లోగా క్షమాపణ చెప్పాలి"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "పరువు నష్టం దావా వేస్తా",
+     "evidence": "లేదంటే రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "అమెరికాలో వచ్చిన ఆరోపణల్లో ఎక్కడా నా పేరు లేదు",
+     "evidence": "అమెరికాలో వచ్చిన ఆరోపణల్లో ఎక్కడా నా పేరు లేదు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు"
+    }
+   ]
+  },
+  "c1b4780a8f4400d12a48772b7c4364866cdc2d2d": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y S Jagan"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "SECI – POWER SECTOR",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "DBT (ప్రత్యక్ష నగదు బదిలీ)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ బడులతో ప్రైవేటు బడులు పోటీ పడే పరిస్థితులు గత వైఎస్సార్సీపీ ప్రభుత్వంలోనే చూశాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "మళ్లీ టీడీపీ నాయకుల చుట్టూ తిరగడాలు.. ఉన్నవన్నీ కటింగులు.."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అమ్మ ఒడి",
+     "evidence": "అమ్మ ఒడి ఇవ్వడం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నాడు-నేడు",
+     "evidence": "నాడు-నేడుతో స్కూళ్లను బాగు చేయడం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "DBT (ప్రత్యక్ష నగదు బదిలీ)",
+     "evidence": "రూ.2.73 లక్షల కోట్లను డీబీటీ (ప్రత్యక్ష నగదు బదిలీ) ద్వారా లబ్ధిదారుల ఖాతాల్లో నేరుగా జమ చేశాం."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ బడులతో ప్రైవేటు బడులు పోటీ పడే పరిస్థితులు గత వైఎస్సార్సీపీ ప్రభుత్వంలోనే చూశాం.",
+     "evidence": "గత వైఎస్సార్సీపీ ప్రభుత్వంలోనే చూశాం."
+    },
+    {
+     "source": "SECI – POWER SECTOR",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam",
+     "evidence": "VISAKHAPATNAM GUNTUR"
+    },
+    {
+     "source": "SECI – POWER SECTOR",
+     "relation": "LOCATED_IN",
+     "target": "Guntur",
+     "evidence": "VISAKHAPATNAM GUNTUR"
+    }
+   ]
+  },
+  "b3d5655cbd1a3d2f83a8d61dec6205828b74e800": {
+   "entities": [
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మేము సానుకూలంగా స్పందించాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేము కాదనలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "మేము సానుకూలంగా స్పందించాం.",
+     "evidence": "మేము సానుకూలంగా స్పందించాం."
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "మేము కాదనలేదు.",
+     "evidence": "మేము కాదనలేదు."
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల.",
+     "evidence": "చౌక విద్యుత్తును అందించాలనేది ప్రతి రాష్ట్రం కల."
+    }
+   ]
+  },
+  "7fc0bba1178ef6c6347e34ca6380e191daadcd80": {
+   "entities": [
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "ఇసుక స్కామ్",
+     "type": "Issue",
+     "english_name": "Sand scam"
+    },
+    {
+     "name": "పేకాట క్లబ్లు",
+     "type": "Issue",
+     "english_name": "Gambling clubs"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Kootami government"
+    }
+   ],
+   "relations": []
+  },
+  "64f272914258a9ee46fa7e9dce65c987e839daf8": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Vidyadeevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "గ్రామ సచివాలయం",
+     "type": "Organization",
+     "english_name": "Grama Secretariat"
+    },
+    {
+     "name": "వార్డు సచివాలయం",
+     "type": "Organization",
+     "english_name": "Ward Secretariat"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఆదానీ",
+     "type": "Organization",
+     "english_name": "Adani"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి పత్రికల యాజమాన్యాలపై వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్రెడ్డి ఆగ్రహం వ్యక్తం చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి పత్రికల యాజమాన్యాలపై వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్రెడ్డి ఆగ్రహం వ్యక్తం చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబుతో కలిసి కుట్ర పూరితంగా తన పరువుకు భంగం కలిగించేలా దుష్ప్రచారం చేస్తున్నాయని మండిపడ్డారు."
+    }
+   ]
+  },
+  "b75bf481cd367b5281893e734aa5dcbbc02aaadc": {
+   "entities": [
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "పూర్తి ఫీజు రీయింబర్స్మెంట్",
+     "type": "Scheme",
+     "english_name": "Full fee reimbursement"
+    },
+    {
+     "name": "సర్జిఫైడ్ ଅନଲାଇన్ వర్టికల్స్",
+     "type": "Scheme",
+     "english_name": "Certified online verticals"
+    },
+    {
+     "name": "మాండెటరీ ఇంటర్షిప్",
+     "type": "Scheme",
+     "english_name": "Mandatory internship"
+    },
+    {
+     "name": "ఫ్యామిలీ డాక్టర్ కాన్సెప్ట్",
+     "type": "Scheme",
+     "english_name": "Family doctor concept"
+    },
+    {
+     "name": "విలేజ్ క్లినిక్లు",
+     "type": "Scheme",
+     "english_name": "Village clinics"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "జీరో వెకెన్సీ పాలసీ",
+     "type": "Claim",
+     "english_name": "Zero vacancy policy"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Ayushman Sri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Health Asara"
+    },
+    {
+     "name": "ఆర్బీకే వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "RBK system"
+    },
+    {
+     "name": "ఈ-క్రావ్",
+     "type": "Scheme",
+     "english_name": "e-Crop"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "Malla Reddy University",
+     "type": "Organization",
+     "english_name": "Malla Reddy University"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "Fortune Inn Sree Kanya",
+     "type": "Place",
+     "english_name": "Fortune Inn Sree Kanya"
+    },
+    {
+     "name": "Welcomhotel By ITC Hotels",
+     "type": "Place",
+     "english_name": "Welcomhotel By ITC Hotels"
+    },
+    {
+     "name": "Registrar",
+     "type": "Person",
+     "english_name": "Registrar"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అమ్మ ఒడి",
+     "evidence": "అమ్మ ఒడి అందించాం."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పూర్తి ఫీజు రీయింబర్స్మెంట్",
+     "evidence": "పూర్తి ఫీజు రీయింబర్స్మెంట్తో పిల్లలకు అండగా నిలిచాం."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మాండెటరీ ఇంటర్షిప్",
+     "evidence": "మాండెటరీ ఇంటర్షిప్ తెచ్చాం."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఫ్యామిలీ డాక్టర్ కాన్సెప్ట్",
+     "evidence": "గ్రామంలోనే ఫ్యామిలీ డాక్టర్ కాన్సెప్ట్తో ఇంటి వద్దకే వైద్యం అందించాం."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "విలేజ్ క్లినిక్లు",
+     "evidence": "విలేజ్ క్లినిక్లు ఏర్పాటు చేశాం."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నాడు-నేడు",
+     "evidence": "నాడు-నేడుతో పీహెచ్సీలు, సీహెచ్సీలు, జిల్లా అసుపత్రులు, టీచింగ్ ఆసుపత్రులు బాగు చేశాం."
+    }
+   ]
+  },
+  "8660ad18070f509a4e3d575e4162543a6d9d2fda": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సెవన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "RBK వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Zero vacancy policy",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "52 వేల పోస్టులు భర్తీ",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "c2ee0369805159ae80d2d0e20d0413aa170e61e0": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ కేంద్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "YSRCP central office"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ఐదేళ్ల పాలనలో అన్ని రంగాల్లో విప్లవాత్మక మార్పులు తీసుకురాగలిగామన్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సదివాలయ వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "Village Secretariat system"
+    },
+    {
+     "name": "వాలంటీర్ వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "Volunteer system"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "వైఎస్సార్సీపీ ఐదేళ్ల పాలనలో అన్ని రంగాల్లో విప్లవాత్మక మార్పులు తీసుకురాగలిగామన్నారు.",
+     "evidence": "వైఎస్సార్సీపీ ఐదేళ్ల పాలనలో అన్ని రంగాల్లో విప్లవాత్మక మార్పులు తీసుకురాగలిగామన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు నేతృత్వంలోని కూటమి ప్రభుత్వ తీరును ఏకిపారేశారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సదివాలయ వ్యవస్థ",
+     "evidence": "ప్రతి గ్రామంలో సదివాలయ వ్యవస్థ"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వాలంటీర్ వ్యవస్థ",
+     "evidence": "ప్రతి 50 నుంచి 60 ఇళ్లకు ఒక వాలంటీర్ చొప్పున సరికొత్త వ్యవస్థ"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ కేంద్ర కార్యాలయం",
+     "relation": "LOCATED_IN",
+     "target": "తాడేపల్లి",
+     "evidence": "తాడేపల్లిలోని వైఎస్సార్సీపీ కేంద్ర కార్యాలయంలో"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ]
+  },
+  "7301be331657791aab92710373806680a3066041": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "మారిటైమ్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Maritime Corporation"
+    },
+    {
+     "name": "శ్రీశ్రీలం ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "Sri Srisailam project"
+    },
+    {
+     "name": "మెడికల్ కాలేజీలు",
+     "type": "Scheme",
+     "english_name": "Medical colleges"
+    },
+    {
+     "name": "మెడికల్ కౌన్సిల్",
+     "type": "Organization",
+     "english_name": "Medical Council"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": "DBT"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": []
+  },
+  "24406c2aa0441ffd1cfdbd36baf1b0c8c794cc54": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు అసెంబ్లీలో బలం ఉందని చట్టాన్ని బుల్జోజ్ చేశారు. ఇది ప్రజాస్వామ్యం మనుగడకు ప్రమాదం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు బయటకొచ్చి, రాష్ట్రానికి రూ.10 లక్షల కోట్లు, రూ.11 లక్షల కోట్ల, రూ.14 లక్షల కోట్లు అప్పు అంటూ మాట్లాడతాడు' అన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు అసెంబ్లీలో బలం ఉందని చట్టాన్ని బుల్జోజ్ చేశారు. ఇది ప్రజాస్వామ్యం మనుగడకు ప్రమాదం",
+     "evidence": "చంద్రబాబు అసెంబ్లీలో బలం ఉందని చట్టాన్ని బుల్జోజ్ చేశారు. ఇది ప్రజాస్వామ్యం మనుగడకు ప్రమాదం"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ffe97d30121884548ae333ae96d24197c0e2fb61": {
+   "entities": [
+    {
+     "name": "లంక త్రిలోక్ కుమార్",
+     "type": "Person",
+     "english_name": "Lankha Trilok Kumar"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నిమ్మకాయల చినరాజప్ప",
+     "type": "Person",
+     "english_name": "Nimmakayala Chinnaraju"
+    },
+    {
+     "name": "అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "Achchennaidu"
+    },
+    {
+     "name": "పల్లె రఘునాథరెడ్డి",
+     "type": "Person",
+     "english_name": "Pallé Raghunath Reddy"
+    },
+    {
+     "name": "SECI – POWER SECTOR",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sunrise Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "అనకాపల్లి",
+     "type": "Place",
+     "english_name": "Anakapalli"
+    },
+    {
+     "name": "కశింకోట మండలం",
+     "type": "Place",
+     "english_name": "Kasimkota mandal"
+    },
+    {
+     "name": "నర్సింగబిల్లి గ్రామం",
+     "type": "Place",
+     "english_name": "Narsingabilli village"
+    },
+    {
+     "name": "గాంధీనగరం",
+     "type": "Place",
+     "english_name": "Gandhinagar"
+    },
+    {
+     "name": "త్రిలోక్ కుమార్ రాష్ట్ర ప్రభుత్వంతో రూ.6 కోట్ల పెట్టుబడులకు ఎంఓయూ కుదుర్చుకున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "లంక త్రిలోక్ కుమార్",
+     "relation": "MAKES_CLAIM",
+     "target": "త్రిలోక్ కుమార్ రాష్ట్ర ప్రభుత్వంతో రూ.6 కోట్ల పెట్టుబడులకు ఎంఓయూ కుదుర్చుకున్నాడు",
+     "evidence": "రాష్ట్ర ప్రభుత్వంతో అవగాహన ఒప్పందం(ఎంఓయూ) కుదుర్చుకునాడు. సాక్షాత్తూ ముఖ్యమంత్రి చంద్ర బాబు చేతుల మీదుగా ఒప్పంద పత్రాలు మార్చుకున్నాడు."
+    }
+   ]
+  },
+  "955a24ca5a7c89dd71e08fed5d277372833c2c77": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లంక త్రిలోక్ కుమార్",
+     "type": "Person",
+     "english_name": "Lankatiloka Kumar"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఎంఓయూ పత్రాలు మార్పు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "లంక త్రిలోక్ కుమార్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎంఓయూ పత్రాలు మార్పు",
+     "evidence": "ఎంఓయూ పత్రాలు మార్పు"
+    }
+   ]
+  },
+  "49db44268f43a5394e08f79956f1a75abcc54e57": {
+   "entities": [
+    {
+     "name": "లంక త్రిలోక్ కుమార్",
+     "type": "Person",
+     "english_name": "Lankha Trilok Kumar"
+    },
+    {
+     "name": "గంధం నందగోపాల్",
+     "type": "Person",
+     "english_name": "Gantam Nandagopal"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నిమ్మకాయల చినరాజప్ప",
+     "type": "Person",
+     "english_name": "Nimmala Chinnarajappa"
+    },
+    {
+     "name": "అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "Achchennaidu"
+    },
+    {
+     "name": "పల్లె రఘునాథరెడ్డి",
+     "type": "Person",
+     "english_name": "Pallé Raghunath Reddy"
+    },
+    {
+     "name": "Sunrise Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sunrise Andhra Pradesh"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "Good Health Products",
+     "type": "Organization",
+     "english_name": "Good Health Products"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "అనకాపల్లి",
+     "type": "Place",
+     "english_name": "Anakapalli"
+    },
+    {
+     "name": "నర్సింగబిల్లి",
+     "type": "Place",
+     "english_name": "Narsingabilli"
+    },
+    {
+     "name": "గాంధీనగర్",
+     "type": "Place",
+     "english_name": "Gandhi Nagar"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sunrise Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "బ్యానర్‌పై 'Sunrise Andhra Pradesh' అని వ్రాయబడింది."
+    }
+   ]
+  }
+ }
+}

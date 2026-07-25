@@ -1,0 +1,303 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ab7864b2aa4cb1a258ea4fd5a4fcd081683efa62": {
+   "entities": [],
+   "relations": []
+  },
+  "8eab914e4938d2a6c29237a5113eb940797005ea": {
+   "entities": [
+    {
+     "name": "APSRTC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State Road Transport Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP-led coalition government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "The Hindu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "P. SUJATHA VARMA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "VIJAYAWADA",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Free bus ride for women in A.P.",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Free bus ride for women in A.P.",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "The government will need to compensate the APSRTC for the lost revenue due to free travel for women",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP-led coalition government",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Free bus ride for women in A.P.",
+     "evidence": "The TDP-led coalition government’s plan to implement free bus travel for women in Andhra Pradesh State Road Transport Corporation (APSRTC) buses is a commendable"
+    },
+    {
+     "source": "Andhra Pradesh State Road Transport Corporation",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh State Road Transport Corporation (APSRTC)"
+    }
+   ]
+  },
+  "d27b1e2302c46f503cbe49c2fa8f0f1e4944eecf": {
+   "entities": [
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "The Hindu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "free bus travel programme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "free bus ride for women",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "unlikely as bus fares are slightly on the higher side compared to Karnataka",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "free bus travel scheme for women",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "government",
+     "relation": "LOCATED_IN",
+     "target": "A.P.",
+     "evidence": "government ... in the State"
+    },
+    {
+     "source": "free bus travel programme",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "free bus travel scheme for women",
+     "evidence": "The free bus travel scheme for women presents a double-edged challenge"
+    }
+   ]
+  },
+  "bd4d8c5c785e7be740577342f914933803692fc5": {
+   "entities": [
+    {
+     "name": "Free bus ride for women in A.P.: government will have to walk a tightrope",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The government will need to compensate the APSRTC for the lost revenue due to free travel for women.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The TDP government intends to provide women of Andhra Pradesh domicile the facility to travel for free within the State on all non-premium buses operated by the APSRTC.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The AP officials estimate that around 25 lakh women will benefit daily from the new scheme, which is expected to impose an additional monthly expenditure of ₹277 crore on the government.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Karnataka government has announced a 15 % hike in bus fares to offset the revenue losses incurred by the KSRTC on account of the ‘Shakti’",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Free bus ride for women",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "APSRTC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "KSRTC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Congress government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The Hindu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "M. Ramprasad Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "V. Anitha",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "G. Sandhya",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ronald Ross",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kantilal Dande",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "'Shakti' scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Free bus ride for women",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APSRTC",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "APSRTC is the State transport corporation of Andhra Pradesh."
+    },
+    {
+     "source": "KSRTC",
+     "relation": "LOCATED_IN",
+     "target": "Karnataka",
+     "evidence": "KSRTC buses operate in Karnataka."
+    },
+    {
+     "source": "Free bus ride for women in A.P.: government will have to walk a tightrope",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Free bus ride for women",
+     "evidence": "Free bus ride for women in A.P.: government will have to walk a tightrope"
+    },
+    {
+     "source": "The government will need to compensate the APSRTC for the lost revenue due to free travel for women.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Free bus ride for women",
+     "evidence": "The government will need to compensate the APSRTC for the lost revenue due to free travel for women."
+    },
+    {
+     "source": "The TDP government intends to provide women of Andhra Pradesh domicile the facility to travel for free within the State on all non-premium buses operated by the APSRTC.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Free bus ride for women",
+     "evidence": "The TDP government intends to provide women of Andhra Pradesh domicile the facility to travel for free within the State on all non-premium buses operated by the APSRTC."
+    },
+    {
+     "source": "The AP officials estimate that around 25 lakh women will benefit daily from the new scheme, which is expected to impose an additional monthly expenditure of ₹277 crore on the government.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Free bus ride for women",
+     "evidence": "The AP officials estimate that around 25 lakh women will benefit daily from the new scheme, which is expected to impose an additional monthly expenditure of ₹277 crore on the government."
+    },
+    {
+     "source": "The Karnataka government has announced a 15 % hike in bus fares to offset the revenue losses incurred by the KSRTC on account of the ‘Shakti’",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Free bus ride for women",
+     "evidence": "The Karnataka government has announced a 15 % hike in bus fares to offset the revenue losses incurred by the KSRTC on account of the ‘Shakti’"
+    }
+   ]
+  }
+ }
+}

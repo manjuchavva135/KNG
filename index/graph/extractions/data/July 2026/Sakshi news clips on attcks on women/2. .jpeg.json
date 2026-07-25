@@ -1,0 +1,569 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d54578cb74a495c87e02767145d778dbab83e280": {
+   "entities": [
+    {
+     "name": "గౌతమి",
+     "type": "Person",
+     "english_name": "Gautami"
+    },
+    {
+     "name": "మురళి",
+     "type": "Person",
+     "english_name": "Murli"
+    },
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": "Ganesh"
+    },
+    {
+     "name": "దాసరి జనార్దన్",
+     "type": "Person",
+     "english_name": "Dasari Janardhan"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "గుర్రంకొండ",
+     "type": "Place",
+     "english_name": "Gurramkonda"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "పీలేరు",
+     "type": "Place",
+     "english_name": "Peeleru"
+    },
+    {
+     "name": "ప్యారంపల్లె",
+     "type": "Place",
+     "english_name": "Parampalle"
+    },
+    {
+     "name": "అమ్మచెరువు మిట్ట",
+     "type": "Place",
+     "english_name": "Amma cheruvu mitta"
+    },
+    {
+     "name": "యాసిడ్ దాడి మరియు కత్తిపోటు",
+     "type": "Issue",
+     "english_name": "Acid attack and knife attack"
+    },
+    {
+     "name": "గౌతమిపై యాసిడ్ దాడి మరియు కత్తిపోటు",
+     "type": "Claim",
+     "english_name": "Acid attack and knife stabbing on Gautami"
+    },
+    {
+     "name": "టీడీపీ ఎమ్మెల్యేల సన్నిహితుడి కుమారుడు యువతిపై దాడి",
+     "type": "Claim",
+     "english_name": "TDP leader's son attacked a woman"
+    },
+    {
+     "name": "దుశ్చర్యను ఖండించిన వైఎస్ జగన్",
+     "type": "Claim",
+     "english_name": "Jagan condemned the act"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మురళి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీలో క్రియాశీల సభ్యత్వం కూడా ఉంది"
+    },
+    {
+     "source": "గుర్రంకొండ",
+     "relation": "LOCATED_IN",
+     "target": "అన్నమయ్య జిల్లా",
+     "evidence": "అన్నమయ్య జిల్లాలో"
+    },
+    {
+     "source": "మదనపల్లె",
+     "relation": "LOCATED_IN",
+     "target": "అన్నమయ్య జిల్లా",
+     "evidence": "అన్నమయ్య జిల్లాలో"
+    },
+    {
+     "source": "పీలేరు",
+     "relation": "LOCATED_IN",
+     "target": "అన్నమయ్య జిల్లా",
+     "evidence": "అన్నమయ్య జిల్లాలో"
+    },
+    {
+     "source": "ప్యారంపల్లె",
+     "relation": "LOCATED_IN",
+     "target": "అన్నమయ్య జిల్లా",
+     "evidence": "అన్నమయ్య జిల్లాలో"
+    },
+    {
+     "source": "అమ్మచెరువు మిట్ట",
+     "relation": "LOCATED_IN",
+     "target": "మదనపల్లె",
+     "evidence": "మదనపల్లెలోని ఓ బ్యూటీ పార్లర్"
+    },
+    {
+     "source": "గౌతమిపై యాసిడ్ దాడి మరియు కత్తిపోటు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యాసిడ్ దాడి మరియు కత్తిపోటు",
+     "evidence": "యాసిడ్తో దాడి చేసి కత్తితో విచక్షణారహితంగా పొడిచాడు"
+    },
+    {
+     "source": "టీడీపీ ఎమ్మెల్యేల సన్నిహితుడి కుమారుడు యువతిపై దాడి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యాసిడ్ దాడి మరియు కత్తిపోటు",
+     "evidence": "టీడీపీ ఎమ్మెల్యేలకు సన్నిహితుడి కుమారుడు... దాడి"
+    }
+   ]
+  },
+  "7603737429566c3ffdd3ffbfd1abe0ae54fbbb5d": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకాంత్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్బుక్ పాలన",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళల భద్రత",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "శాంతి భద్రతలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాధిత యువతికి మెరుగైన వైద్యం అందించి ఆ కుటుంబానికి ప్రభుత్వం అన్ని విధాలా అండగా ఉం డాలని సూచించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో దిగజారిన శాంతి భద్రతలకు ఇదొక నిదర్శనమని, రెడ్బుక్ పాలనకు పరాకాష్ట అని పేర్కొన్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో మహిళల భద్రత విషయంలో ప్రభుత్వ నిర్లక్ష్యం, వైఫల్యం వల్లే ఇలాంటి ఘటనలు చోటు చేసుకుంటున్నాయని, ఇకనైనా వారి భద్రతపై దృష్టి సారించాలని డిమాండ్ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "-సాక్షి, అమరావతి"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ప్రభుత్వ నిర్లక్ష్యం, వైఫల్యం వల్లే ఇలాంటి ఘటనలు చోటు చేసుకుంటున్నాయని"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు.",
+     "evidence": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "బాధిత యువతికి మెరుగైన వైద్యం అందించి ఆ కుటుంబానికి ప్రభుత్వం అన్ని విధాలా అండగా ఉం డాలని సూచించారు.",
+     "evidence": "బాధిత యువతికి మెరుగైన వైద్యం అందించి ఆ కుటుంబానికి ప్రభుత్వం అన్ని విధాలా అండగా ఉం డాలని సూచించారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో దిగజారిన శాంతి భద్రతలకు ఇదొక నిదర్శనమని, రెడ్బుక్ పాలనకు పరాకాష్ట అని పేర్కొన్నారు.",
+     "evidence": "రాష్ట్రంలో దిగజారిన శాంతి భద్రతలకు ఇదొక నిదర్శనమని, రెడ్బుక్ పాలనకు పరాకాష్ట అని పేర్కొన్నారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో మహిళల భద్రత విషయంలో ప్రభుత్వ నిర్లక్ష్యం, వైఫల్యం వల్లే ఇలాంటి ఘటనలు చోటు చేసుకుంటున్నాయని, ఇకనైనా వారి భద్రతపై దృష్టి సారించాలని డిమాండ్ చేశారు.",
+     "evidence": "రాష్ట్రంలో మహిళల భద్రత విషయంలో ప్రభుత్వ నిర్లక్ష్యం, వైఫల్యం వల్లే ఇలాంటి ఘటనలు చోటు చేసుకుంటున్నాయని, ఇకనైనా వారి భద్రతపై దృష్టి సారించాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని ప్రభుత్వాన్ని డిమాండ్ చేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళల భద్రత",
+     "evidence": "మహిళల భద్రత విషయంలో"
+    }
+   ]
+  },
+  "ca1647ebfa309a58b008d3e3fe7b58817fe0f63e": {
+   "entities": [
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": "Ganesh"
+    },
+    {
+     "name": "బాధితురాలి",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "తల్లిదండ్రులు",
+     "type": "Person",
+     "english_name": "Parents"
+    },
+    {
+     "name": "స్థానిక న్యాయమూర్తి",
+     "type": "Person",
+     "english_name": "Local judge"
+    },
+    {
+     "name": "గుర్రంకొండ ప్రభుత్వాస్పత్రి",
+     "type": "Organization",
+     "english_name": "Gurunampalle Government Hospital"
+    },
+    {
+     "name": "మదనపల్లె ప్రభుత్వాస్పత్రి",
+     "type": "Organization",
+     "english_name": "Madanapalle Government Hospital"
+    },
+    {
+     "name": "బెంగళూరులోని ఆస్పత్రి",
+     "type": "Organization",
+     "english_name": "Hospital in Bengaluru"
+    },
+    {
+     "name": "ప్యారం పల్లె",
+     "type": "Place",
+     "english_name": "Peyram Palle"
+    },
+    {
+     "name": "గ్రామం",
+     "type": "Place",
+     "english_name": "Village"
+    },
+    {
+     "name": "గుర్రంకొండ",
+     "type": "Place",
+     "english_name": "Gurunampalle"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "attacks on women",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "గణేష్ ఆమెను అంతమొందిం చేందుకు 15 రోజుల కింద ప్యారం పల్లెకు వెళ్లి రెక్కీ నిర్వహించాడు.",
+     "type": "Claim",
+     "english_name": "Ganesh did reconnaissance to murder the victim"
+    },
+    {
+     "name": "తనతోపాటు తెచ్చుకున్న యాసిడ్ బాటిల్తో ఆమెపై దాడి చేసి బలవంతంగా తాగించాడు.",
+     "type": "Claim",
+     "english_name": "He attacked her with an acid bottle and forced her to drink it"
+    },
+    {
+     "name": "తలపై కూడా పోశాడు.",
+     "type": "Claim",
+     "english_name": "He poured acid on her head"
+    },
+    {
+     "name": "పథకం ప్రకారం తన వెంట తెచ్చుకొన్న కత్తితో ఆమెపై దాడి చేసి పలుచోట్ల కత్తితో పొడిచాడు.",
+     "type": "Claim",
+     "english_name": "He stabbed her multiple times with a knife"
+    },
+    {
+     "name": "ఆమె వద్ద నుంచి సెల్ఫోన్ లాక్కుని పరారయ్యాడు.",
+     "type": "Claim",
+     "english_name": "He snatched her phone and fled"
+    },
+    {
+     "name": "తల్లిదండ్రులు పొలం నుండి పరుగులు తీస్తూ ఇంటికి చేరుకున్న తల్లిదండ్రులు అపస్మారక స్థితిలో ఉన్న తమ కుమార్తెను చూసి కుప్పకూలిపోయారు.",
+     "type": "Claim",
+     "english_name": "Parents found their daughter unconscious"
+    },
+    {
+     "name": "స్థానిక న్యాయమూర్తి బాధితురాలి నుంచి వాంగ్మూలం సేకరించారు.",
+     "type": "Claim",
+     "english_name": "Local judge recorded the victim's statement"
+    }
+   ],
+   "relations": [
+    {
+     "source": "గుర్రంకొండ ప్రభుత్వాస్పత్రి",
+     "relation": "LOCATED_IN",
+     "target": "గుర్రంకొండ",
+     "evidence": "గుర్రంకొండ ప్రభుత్వాస్పత్రి"
+    },
+    {
+     "source": "మదనపల్లె ప్రభుత్వాస్పత్రి",
+     "relation": "LOCATED_IN",
+     "target": "మదనపల్లె",
+     "evidence": "మదనపల్లె ప్రభుత్వాస్పత్రి"
+    },
+    {
+     "source": "బెంగళూరులోని ఆస్పత్రి",
+     "relation": "LOCATED_IN",
+     "target": "బెంగళూరు",
+     "evidence": "బెంగళూరులోని ఆస్పత్రి"
+    },
+    {
+     "source": "గణేష్ ఆమెను అంతమొందిం చేందుకు 15 రోజుల కింద ప్యారం పల్లెకు వెళ్లి రెక్కీ నిర్వహించాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attacks on women",
+     "evidence": "గణేష్ ఆమెను అంతమొందిం చేందుకు 15 రోజుల కింద ప్యారం పల్లెకు వెళ్లి రెక్కీ నిర్వహించాడు."
+    },
+    {
+     "source": "తనతోపాటు తెచ్చుకున్న యాసిడ్ బాటిల్తో ఆమెపై దాడి చేసి బలవంతంగా తాగించాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attacks on women",
+     "evidence": "తనతోపాటు తెచ్చుకున్న యాసిడ్ బాటిల్తో ఆమెపై దాడి చేసి బలవంతంగా తాగించాడు."
+    },
+    {
+     "source": "తలపై కూడా పోశాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attacks on women",
+     "evidence": "తలపై కూడా పోశాడు."
+    },
+    {
+     "source": "పథకం ప్రకారం తన వెంట తెచ్చుకొన్న కత్తితో ఆమెపై దాడి చేసి పలుచోట్ల కత్తితో పొడిచాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attacks on women",
+     "evidence": "పథకం ప్రకారం తన వెంట తెచ్చుకొన్న కత్తితో ఆమెపై దాడి చేసి పలుచోట్ల కత్తితో పొడిచాడు."
+    },
+    {
+     "source": "ఆమె వద్ద నుంచి సెల్ఫోన్ లాక్కుని పరారయ్యాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attacks on women",
+     "evidence": "ఆమె వద్ద నుంచి సెల్ఫోన్ లాక్కుని పరారయ్యాడు."
+    },
+    {
+     "source": "తల్లిదండ్రులు పొలం నుండి పరుగులు తీస్తూ ఇంటికి చేరుకున్న తల్లిదండ్రులు అపస్మారక స్థితిలో ఉన్న తమ కుమార్తెను చూసి కుప్పకూలిపోయారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attacks on women",
+     "evidence": "తల్లిదండ్రులు పొలం నుండి పరుగులు తీస్తూ ఇంటికి చేరుకున్న తల్లిదండ్రులు అపస్మారక స్థితిలో ఉన్న తమ కుమార్తెను చూసి కుప్పకూలిపోయారు."
+    },
+    {
+     "source": "స్థానిక న్యాయమూర్తి బాధితురాలి నుంచి వాంగ్మూలం సేకరించారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "attacks on women",
+     "evidence": "స్థానిక న్యాయమూర్తి బాధితురాలి నుంచి వాంగ్మూలం సేకరించారు."
+    }
+   ]
+  },
+  "dc9c73b85b09b95c026e8c9cafcbef0066c5bcf4": {
+   "entities": [
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "చింతల రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Chintala Ramachandra Reddy"
+    },
+    {
+     "name": "వరుదు కల్యాణి",
+     "type": "Person",
+     "english_name": "Varudu Kalyani"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anita"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "రాంప్రసాద్",
+     "type": "Person",
+     "english_name": "Ramprasad"
+    },
+    {
+     "name": "షాజహాన్బాషా",
+     "type": "Person",
+     "english_name": "Shajahanbasha"
+    },
+    {
+     "name": "విద్యాసాగర్ నాయుడు",
+     "type": "Person",
+     "english_name": "Vidyasagar Naidu"
+    },
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": "Ganesh"
+    },
+    {
+     "name": "గౌతమి",
+     "type": "Person",
+     "english_name": "Gautami"
+    },
+    {
+     "name": "మురళి",
+     "type": "Person",
+     "english_name": "Murali"
+    },
+    {
+     "name": "కందికుంట వెంకట ప్రసాద్",
+     "type": "Person",
+     "english_name": "Kandikunta Venkata Prasad"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "కోళ్ళబైలు",
+     "type": "Place",
+     "english_name": "Kollabai"
+    },
+    {
+     "name": "కదిరి",
+     "type": "Place",
+     "english_name": "Kadir"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చింతల రామచంద్రారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "గణేష్",
+     "evidence": "నిందితుడిని కఠినంగా శిక్షించాలని మాజీ ఎమ్మెల్యే చింతల రామచంద్రారెడ్డి డిమాండ్ చేశారు."
+    },
+    {
+     "source": "మురళి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "సంకారపు మురళి టీడీపీ సభ్యత్వకార్డు"
+    },
+    {
+     "source": "కందికుంట వెంకట ప్రసాద్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "కదిరి టీడీపీ ఎమ్మెల్యే కందికుంట వెంకట ప్రసాద్"
+    },
+    {
+     "source": "షాజహాన్బాషా",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ ఎమ్మెల్యే షాజహాన్బాషా"
+    }
+   ]
+  }
+ }
+}

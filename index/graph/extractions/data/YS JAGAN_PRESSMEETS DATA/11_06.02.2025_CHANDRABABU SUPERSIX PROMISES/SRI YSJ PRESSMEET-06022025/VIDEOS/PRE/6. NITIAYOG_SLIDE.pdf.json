@@ -1,0 +1,53 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c6569507c66ae92a76c878e1abbee2337a870f32": {
+   "entities": [
+    {
+     "name": "Mr. Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Debt sustainability",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Debt sustainability is eroded if interest payments growth exceeds GSDP growth",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Debt sustainability is eroded if interest payments growth exceeds GSDP growth",
+     "evidence": "Mr. Naidu said that if the growth rate of interest rate payments exceeds the growth rate of State GSDP, then debt sustainability is eroded."
+    },
+    {
+     "source": "Debt sustainability is eroded if interest payments growth exceeds GSDP growth",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Debt sustainability",
+     "evidence": "Debt sustainability is eroded if interest payments growth exceeds GSDP growth"
+    }
+   ]
+  }
+ }
+}

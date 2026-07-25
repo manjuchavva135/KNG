@@ -1,0 +1,415 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d29fcaa8080ef91275147cd46754dbbfc5ca47b2": {
+   "entities": [
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Prati Rythu Ekaadiki Rs.20,000",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "E-Pancham",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "E-Aadhaar",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "NDAA coalition parties",
+     "type": "Party",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "NDAA coalition parties",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "సూపర్ సిక్స్ పథకాలను దిగ్విజయంగా అమలు చేస్తూ"
+    },
+    {
+     "source": "NDAA coalition parties",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Prati Rythu Ekaadiki Rs.20,000",
+     "evidence": "Prati Rythu Ekaadiki Rs.20,000"
+    },
+    {
+     "source": "NDAA coalition parties",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "E-Pancham",
+     "evidence": "E-Pancham"
+    },
+    {
+     "source": "NDAA coalition parties",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "E-Aadhaar",
+     "evidence": "E-Aadhaar"
+    }
+   ]
+  },
+  "9a648514988a17f57b6bb0b5db2b1dc7b10f9a44": {
+   "entities": [
+    {
+     "name": "MEHARAJ BEGAM SHAIK",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "భవిషత్తుకి గ్యారంటీ Enrol OTP",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "MEHARAJ BEGAM SHAIK",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "MEHARAJ BEGAM SHAIK, బాబు"
+    }
+   ]
+  },
+  "ce8b6ad5b7bb227bb37aa46342001d0f88d00bba": {
+   "entities": [
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Babulu scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Youth to 20 lakh scholarships or Rs.3,000 per month",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "School fees for every student to Rs.15,000",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Babu Super",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Every farmer Rs.20,000 financial aid",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Every household Rs.1,500",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Every woman gets free bus travel",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Every woman gets free travel",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Pimchan",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "BBS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ESIC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ESI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP-Janasena-BJP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Hit",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Y.S. Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Y.S. Rajasekhara Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Endeepu Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP-Janasena-BJP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Babulu scheme",
+     "evidence": "We will revive the Babulu scheme for the welfare of all"
+    },
+    {
+     "source": "Super Hit",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "Super Six - Super Hit"
+    }
+   ]
+  },
+  "3570362f9579f8607b16e3d076390232b8d57acb": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "భవిష్యత్తుకు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": "Bhavshyatuku Guarantee"
+    },
+    {
+     "name": "Bhavshyatuku Guarantee Card",
+     "type": "Scheme",
+     "english_name": "Bhavshyatuku Guarantee Card"
+    },
+    {
+     "name": "2024లో టీడీపీ అధికారంలోకి వచ్చాక 'భవిష్యత్తుకు గ్యారెంటీ'లోని వాగ్దానాలను ఎటువంటి వివక్ష లేకుండా, నిబంధనలు విధించకుండా అమలు చేయడంతో పాటు మన రాష్ట్ర అభివృద్ధికి పునరంకితమవుతానని ప్రతిజ్ఞ చేస్తున్నాను.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ 330000 మొత్తం పొందేందుకు మీ కుటుంబం అర్హత సాధించింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2024 జూన్ 5 నుంచి ఈ నెలలో మీ అకౌంట్ లో జమ చేయడం ప్రారంభమవుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2024 జూన్ నుంచి ఈ మొత్తం మీ అకౌంట్ లో జమ చేయడం ప్రారంభమవుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు నాయుడు అనే నేను... తెలుగు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "2024లో టీడీపీ అధికారంలోకి వచ్చాక 'భవిష్యత్తుకు గ్యారెంటీ'లోని వాగ్దానాలను ఎటువంటి వివక్ష లేకుండా, నిబంధనలు విధించకుండా అమలు చేయడంతో పాటు మన రాష్ట్ర అభివృద్ధికి పునరంకితమవుతానని ప్రతిజ్ఞ చేస్తున్నాను.",
+     "evidence": "2024లో టీడీపీ అధికారంలోకి వచ్చాక 'భవిష్యత్తుకు గ్యారెంటీ'లోని వాగ్దానాలను ఎటువంటి వివక్ష లేకుండా, నిబంధనలు విధించకుండా అమలు చేయడంతో పాటు మన రాష్ట్ర అభివృద్ధికి పునరంకితమవుతానని ప్రతిజ్ఞ చేస్తున్నాను."
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తుకు గ్యారెంటీ",
+     "evidence": "2024లో టీడీపీ అధికారంలోకి వచ్చాక 'భవిష్యత్తుకు గ్యారెంటీ'లోని వాగ్దానాలను ఎటువంటి వివక్ష లేకుండా, నిబంధనలు విధించకుండా అమలు చేయడంతో పాటు మన రాష్ట్ర అభివృద్ధికి పునరంకితమవుతానని ప్రతిజ్ఞ చేస్తున్నాను."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ 330000 మొత్తం పొందేందుకు మీ కుటుంబం అర్హత సాధించింది.",
+     "evidence": "రూ 330000 మొత్తం పొందేందుకు మీ కుటుంబం అర్హత సాధించింది."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "2024 జూన్ 5 నుంచి ఈ నెలలో మీ అకౌంట్ లో జమ చేయడం ప్రారంభమవుతుంది.",
+     "evidence": "2024 జూన్ 5 నుంచి ఈ నెలలో మీ అకౌంట్ లో జమ చేయడం ప్రారంభమవుతుంది."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "2024 జూన్ నుంచి ఈ మొత్తం మీ అకౌంట్ లో జమ చేయడం ప్రారంభమవుతుంది.",
+     "evidence": "2024 జూన్ నుంచి ఈ మొత్తం మీ అకౌంట్ లో జమ చేయడం ప్రారంభమవుతుంది."
+    }
+   ]
+  },
+  "4cac66175b6ae15feca132b08f76cce03d4bc8d2": {
+   "entities": [],
+   "relations": []
+  },
+  "676181e16486f6c2c2674257481f3c27cb1b3211": {
+   "entities": [],
+   "relations": []
+  },
+  "42c0e4b86f6999c6f0a551615be4da464b05d826": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "type": "Party",
+     "english_name": "TDP-Janasena Alliance"
+    },
+    {
+     "name": "భవిష్యత్తు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": "Future Guarantee"
+    },
+    {
+     "name": "నీటి కుళాయి",
+     "type": "Scheme",
+     "english_name": "Water Tap"
+    },
+    {
+     "name": "స్త్రీలకు ఉచిత బస్సు ప్రయాణం",
+     "type": "Scheme",
+     "english_name": "Free Bus Travel for Women"
+    },
+    {
+     "name": "కోయంబత్తూరు",
+     "type": "Place",
+     "english_name": "Coimbatore"
+    },
+    {
+     "name": "UREA, MEDICAL COLLEGES(PPP)",
+     "type": "Scheme",
+     "english_name": "UREA, Medical Colleges PPP"
+    },
+    {
+     "name": "చంద్రబాబు రాసిచ్చిన బాండు ఇదే..",
+     "type": "Claim",
+     "english_name": "Bond written by Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "evidence": "చంద్రబాబు నాయుడు, పవన్ క్యూఆర్ అనే మేము."
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "evidence": "చంద్రబాబు నాయుడు, పవన్ క్యూఆర్ అనే మేము."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "చంద్రబాబు రాసిచ్చిన బాండు ఇదే.."
+    },
+    {
+     "source": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "2024లో టీడీపీ-జనసేనల సంయుక్త పార్టీ అధికారంలోకి వచ్చి ... వాగ్దానాలను అమలుచేయడంతో పాటు ... కృషి చేస్తామని ప్రతిజ్ఞ చేస్తున్నాం."
+    },
+    {
+     "source": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నీటి కుళాయి",
+     "evidence": "నీటి కుళాయి"
+    },
+    {
+     "source": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్త్రీలకు ఉచిత బస్సు ప్రయాణం",
+     "evidence": "స్త్రీలకు ఉచిత బస్సు ప్రయాణం"
+    },
+    {
+     "source": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "UREA, MEDICAL COLLEGES(PPP)",
+     "evidence": "Press meet: 17_10.09.2025_UREA, MEDICAL COLLEGES(PPP)"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు రాసిచ్చిన బాండు ఇదే..",
+     "evidence": "చంద్రబాబు రాసిచ్చిన బాండు ఇదే.."
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు రాసిచ్చిన బాండు ఇదే..",
+     "evidence": "చంద్రబాబు రాసిచ్చిన బాండు ఇదే.."
+    }
+   ]
+  }
+ }
+}

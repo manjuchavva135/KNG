@@ -1,0 +1,144 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fda89d4e05a9a93c23879c3eab9da16436df2936": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "SuperSix",
+     "type": "Scheme",
+     "english_name": "SuperSix"
+    },
+    {
+     "name": "కార్యకర్తలకు భరోసాగా ఉంటుందని కచ్చితం గా చెప్పగలుగుతాను.",
+     "type": "Claim",
+     "english_name": "I can assure that it will be a relief for the workers."
+    },
+    {
+     "name": "మోసాలు",
+     "type": "Issue",
+     "english_name": "scams"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SuperSix",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "కార్యకర్తలకు భరోసాగా ఉంటుందని కచ్చితం గా చెప్పగలుగుతాను.",
+     "evidence": "కార్యకర్తలకు భరోసాగా ఉంటుందని కచ్చితం గా చెప్పగలుగుతాను."
+    }
+   ]
+  },
+  "16893d3fa8f9e231f0317aa0bcad1807ef24a326": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Y.S. Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "Mithun Reddy",
+     "type": "Person",
+     "english_name": "Mithun Reddy"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Organization",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tadepalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Davos",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Super Seven",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "బటన్ నొక్కితే ఏమీ రాదు కాబట్టి.. కమీషన్లు అందవు కాబట్టి.. అందుకే ఆయన బటన్ నొక్కలేకపోతున్నాడు"
+    },
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "చంద్రబాబు ఏదో రకంగా కేసులో ఇరికించాలని చూస్తున్నారని మండిపడ్డారు."
+    },
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "చంద్రబాబుకు కమీషన్లు ఇచ్చారని ఈనాడు రాస్తుందా?"
+    },
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "రాష్ట్రంలో లేని పరిస్థితులు ఉన్నట్టుగా దుష్ప్రచారం చేస్తున్నారు."
+    },
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "జిందాల్ వంటి సంస్థలు వస్తుంటే వాళ్లపై కేసులు పెట్టి భయబ్రాంతులకు గురిచేసి పంపించేశాడు."
+    }
+   ]
+  }
+ }
+}

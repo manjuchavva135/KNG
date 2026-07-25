@@ -1,0 +1,475 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "860853d3ca4ce597b6ddcfc664872da942642404": {
+   "entities": [
+    {
+     "name": "Alexander Smith",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bhaskar Katamneni IAS",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sanjay Bhutani",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Google",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Adani",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Raiden Infotech India Pte Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Government",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh Government"
+    }
+   ]
+  },
+  "46115ed6eb94061e469b48358e564caa4af28f04": {
+   "entities": [
+    {
+     "name": "Gautam Adani",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Google",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "AI data centre campus",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "A monumental day for India!",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Gautam Adani",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "AI data centre campus",
+     "evidence": "Adani is proud to partner with @Google to build India’s largest AI data centre campus - in Visakhapatnam"
+    },
+    {
+     "source": "Gautam Adani",
+     "relation": "MAKES_CLAIM",
+     "target": "A monumental day for India!",
+     "evidence": "A monumental day for India!"
+    }
+   ]
+  },
+  "564ea44a4b9dd5df630e2573f2a95c4018a44b16": {
+   "entities": [
+    {
+     "name": "Google",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Adani Enterprises",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Raiden Infotech",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CRE Matrix",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "D C Development Noida Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "EdgeConneX",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AdaniConnex Pvt Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Noida Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Times of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Noida",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sector-62",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chennai",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Navi Mumbai",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vizag",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "D C Development Noida Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Noida",
+     "evidence": "D C Development Noida Ltd, which is part of Adani Enterprises Ltd, has leased 4,64,460 square feet of space at Adani data centre in Sector-62, Noida"
+    },
+    {
+     "source": "Noida Authority",
+     "relation": "LOCATED_IN",
+     "target": "Sector-62",
+     "evidence": "Noida Authority had allotted 34,275 square metres land at Sector 62 to Adani Enterprises for setting up a data centre"
+    }
+   ]
+  },
+  "d27964544a04aa6d8d4e072e55cae9174276e7ff": {
+   "entities": [],
+   "relations": []
+  },
+  "ac887e79b7a95fa850394084f2d96a78d131f64b": {
+   "entities": [
+    {
+     "name": "Adani Data Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vizag Tech Park Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APIIC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Integrated Data Center Park and Technology/ Business Park",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Skill university",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Recreation centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Direct employment commitment by Adani",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e663ab42a95dc1d3764897cfb07e56b6e36f5599": {
+   "entities": [
+    {
+     "name": "M/s Adani Enterprises Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Integrated Data Center and Technology Park",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "G. JAYA LAKSHMI, IAS",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Singapore",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Singapore",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Indian High Commissioner to Singapore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ITE&C Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Govt. of AP",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "M/s Adani Enterprises Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam",
+     "evidence": "in Visakhapatnam"
+    },
+    {
+     "source": "Visakhapatnam",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Visakhapatnam being the IT capital of AP"
+    }
+   ]
+  },
+  "108726a16a96dfb7ec40444b1079b1d0571d8585": {
+   "entities": [
+    {
+     "name": "G. JAYA LAKSHMI, IAS",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Sopnendu Mohanty",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Monetary Authority of Singapore",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Singapore",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "State of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hon'ble Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "World Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HCL Technologies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Conduent",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WNS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Patra",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HSBC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Federal Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam-Singapore Data Corridor",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "GOAP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Singapore Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Monetary Authority of Singapore",
+     "relation": "LOCATED_IN",
+     "target": "Singapore",
+     "evidence": "10 Shenton way, MAS Building, Singapore 079117"
+    },
+    {
+     "source": "Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "Andhra Pradesh is located in the southern part of India"
+    },
+    {
+     "source": "Hon'ble Chief Minister",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Visakhapatnam-Singapore Data Corridor",
+     "evidence": "The Hon'ble Chief Minister has the vision of making the State a fully digital Government"
+    },
+    {
+     "source": "HCL Technologies",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The State has attracted several domestic and international investments in the IT sector including HCL Technologies"
+    },
+    {
+     "source": "Conduent",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The State has attracted several domestic and international investments in the IT sector including HCL Technologies, Conduent"
+    },
+    {
+     "source": "WNS",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The State has attracted several domestic and international investments in the IT sector including HCL Technologies, Conduent, WNS"
+    },
+    {
+     "source": "Patra",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The State has attracted several domestic and international investments in the IT sector including HCL Technologies, Conduent, WNS, and Patra"
+    },
+    {
+     "source": "HSBC",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The State has attracted several domestic and international investments in the IT sector including HCL Technologies, Conduent, WNS, and Patra along with banking operations of major banks such as HSBC"
+    },
+    {
+     "source": "Federal Bank",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The State has attracted several domestic and international investments in the IT sector including HCL Technologies, Conduent, WNS, and Patra along with banking operations of major banks such as HSBC and Federal Bank"
+    }
+   ]
+  }
+ }
+}

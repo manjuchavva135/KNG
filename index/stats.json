@@ -1,0 +1,111 @@
+{
+  "extract": {
+    "total": 635,
+    "processed": 635,
+    "skipped": 0,
+    "errors": 1,
+    "segments": 2323,
+    "by_type": {
+      "source_doc": 188,
+      "news_clip": 343,
+      "press_release": 63,
+      "video": 25,
+      "slide": 13,
+      "table": 3
+    },
+    "sarvam_calls": {
+      "ocr": 626,
+      "asr": 25
+    }
+  },
+  "chunk": {
+    "total": 635,
+    "processed": 0,
+    "skipped": 635,
+    "errors": 0,
+    "segments": 0,
+    "chunks": 0,
+    "by_type": {},
+    "max_tokens": 0
+  },
+  "embed": {
+    "total": 635,
+    "processed": 0,
+    "skipped": 635,
+    "errors": 0,
+    "chunks": 0,
+    "by_type": {},
+    "dim": 0,
+    "rows": 4267,
+    "indexed_by_type": {
+      "source_doc": 2995,
+      "news_clip": 567,
+      "press_release": 507,
+      "video": 25,
+      "slide": 167,
+      "table": 6
+    }
+  },
+  "graph": {
+    "total": 62,
+    "processed": 62,
+    "skipped": 33,
+    "errors": 0,
+    "chunks": 111,
+    "sarvam_calls": {
+      "graph": 31,
+      "extract_failed": 14,
+      "invalid_triple": 87,
+      "unresolved_endpoint": 19,
+      "bad_entity": 2
+    },
+    "press_meets": 1,
+    "sources": 62,
+    "publications": 1,
+    "dates": 1,
+    "undated_meets": [],
+    "chunks_selected": 78,
+    "chunks_skipped": {
+      "duplicate": 12,
+      "markup": 21
+    },
+    "llm_calls": 45,
+    "extractions_cached": 64,
+    "last_error": "empty message (finish_reason=length) — the model consumed max_tokens=4000 without emitting output",
+    "entity_observations": 806,
+    "resolved_names": 598,
+    "entity_mentions": 806,
+    "entities_dropped": 0,
+    "relations_asserted": 887,
+    "community_count": 88,
+    "nodes": 527,
+    "edges": 592,
+    "by_node_type": {
+      "Claim": 113,
+      "Date": 1,
+      "Issue": 27,
+      "Organization": 116,
+      "Party": 4,
+      "Person": 55,
+      "Place": 43,
+      "PressMeet": 1,
+      "Publication": 1,
+      "Scheme": 104,
+      "Source": 62
+    },
+    "by_relation": {
+      "ABOUT_ISSUE": 27,
+      "ACCUSES": 10,
+      "ANNOUNCED_SCHEME": 4,
+      "CITES_SOURCE": 62,
+      "COVERED_BY": 1,
+      "HELD_ON": 1,
+      "LOCATED_IN": 33,
+      "MAKES_CLAIM": 38,
+      "MEMBER_OF": 2,
+      "MENTIONS": 349,
+      "RELATED_TO_ISSUE": 65
+    },
+    "communities": 88
+  }
+}

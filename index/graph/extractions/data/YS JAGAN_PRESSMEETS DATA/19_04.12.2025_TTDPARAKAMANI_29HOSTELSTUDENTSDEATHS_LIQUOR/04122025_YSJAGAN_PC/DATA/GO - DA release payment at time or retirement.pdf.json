@@ -1,0 +1,426 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "54fa7ec35d5eb3cf05a71d17e18b490b8744bf81": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (HR.VI-PC&TA) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance enhancement of 3.64% due from 01-01-2024",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh"
+    }
+   ]
+  },
+  "dd61771512b4cf2883fbf06c26b5036b33f61e1a": {
+   "entities": [
+    {
+     "name": "Zilla Grandhalaya Samsthas",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Aided Institutions",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Aided Polytechnics",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Universities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Acharya N G Ranga Agricultural University",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jawaharlal Nehru Technological University",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dr. YSR Horticultural University",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P. Agricultural University",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Govt. Polytechnics",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Government employees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Teaching & Non-Teaching staff",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Teaching staff",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Revised Pay Scales, 2022",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Revised UGC Pay Scales, 2006",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Revised UGC/AICTE Pay Scales, 2006",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Revised UGC Pay Scales, 2016",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Revised UGC/AICTE Pay Scales, 2016",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Dearness Allowance",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Basic Pay",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Arrears",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "66a234723514a8124465e10dc027bc2a614e6e1e": {
+   "entities": [
+    {
+     "name": "Commissioner and Director of Agricultural Marketing, A.P.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Zilla Grandhalaya Samsthas",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Public Libraries, A.P. Mangalagiri",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Municipalities/ Corporations",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Recognized Service Associations",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Universities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Administration (Cabinet) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECTION OFFICER",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Commissioner and Director of Agricultural Marketing, A.P.",
+     "relation": "LOCATED_IN",
+     "target": "A.P.",
+     "evidence": "A.P."
+    },
+    {
+     "source": "Director of Public Libraries, A.P. Mangalagiri",
+     "relation": "LOCATED_IN",
+     "target": "Mangalagiri",
+     "evidence": "Mangalagiri"
+    },
+    {
+     "source": "Director of Public Libraries, A.P. Mangalagiri",
+     "relation": "LOCATED_IN",
+     "target": "A.P.",
+     "evidence": "A.P."
+    }
+   ]
+  },
+  "47d3302ce27a3c0ef80ec3e7561e5a0edbf07d78": {
+   "entities": [
+    {
+     "name": "Dearness allowance",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Agricultural Market Committees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Heads of the Departments",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Secretariat",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Drawing and Disbursing Officers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Treasuries and Accounts",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Director of State Audit",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pay & Accounts Officer",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Works and Accounts",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CEO, APCFSS",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PEEYUSH KUMAR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Principal Secretary to Government",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Special Chief Secretaries / Principal Secretaries / Secretaries to Government",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Principal Secretary to Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Private Secretaries to all Ministers",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "A.G (A&E) / Prl. A.G. (G&SSA) / A.G.(E&RSA)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Treasuries & Accounts, AP, Mangalagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Director of State Audit, A.P., Mangalagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pay & Accounts Officer, A.P., Mangalagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Works Accounts, A.P., Mangalagiri",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Collectors",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Superintendents of Police",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "District Judges",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Registrar, High Court of Andhra Pradesh, Amaravati",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, A.P. TRANSCO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, A.P. GENCO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary, A.P. Public Service Commission",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Joint Directors of Works Projects",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "District Treasury Officers",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Executive Officers of all Zilla Parishads",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretaries to Agricultural Market Committees",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gunadala",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

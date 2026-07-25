@@ -1,0 +1,1965 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f93ea199da0ac9c048c78e39ffadf3707226dd9c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "143 హామీలను మ్యానిఫెస్టోలో చేర్చాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు",
+     "type": "Issue",
+     "english_name": "State debt"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు ఈ 9 నెలల్లోనే రికార్డులు బద్ధలు కొట్టాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెటరీ అప్పులు రూ.80,827 కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి పేరు చెప్పి ఇప్పటికే తెచ్చిన అప్పులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తేబోతున్న అప్పులు మరో రూ.52 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌ అన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌ అన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "143 హామీలను మ్యానిఫెస్టోలో చేర్చాడు",
+     "evidence": "143 హామీలను మ్యానిఫెస్టోలో చేర్చాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్‌ సిక్స్‌ అన్నాడు",
+     "evidence": "సూపర్‌ సిక్స్‌ అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్‌ సెవెన్‌ అన్నాడు",
+     "evidence": "సూపర్‌ సెవెన్‌ అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియాలో ఊదరగొట్టారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పులు ఈ 9 నెలల్లోనే రికార్డులు బద్ధలు కొట్టాయి",
+     "evidence": "రాష్ట్ర అప్పులు ఈ 9 నెలల్లోనే రికార్డులు బద్ధలు కొట్టాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బడ్జెటరీ అప్పులు రూ.80,827 కోట్లు",
+     "evidence": "బడ్జెటరీ అప్పులు రూ.80,827 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతి పేరు చెప్పి ఇప్పటికే తెచ్చిన అప్పులు",
+     "evidence": "అమరావతి పేరు చెప్పి ఇప్పటికే తెచ్చిన అప్పులు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "తేబోతున్న అప్పులు మరో రూ.52 వేల కోట్లు",
+     "evidence": "తేబోతున్న అప్పులు మరో రూ.52 వేల కోట్లు."
+    }
+   ]
+  },
+  "10c35d3d0c2831f8249540dbf950d2d85d46af20": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "FRBM",
+     "type": "Organization",
+     "english_name": "FRBM"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "రాష్ట్ర అప్పు రూ.6,46,531 కోట్లు",
+     "type": "Claim",
+     "english_name": "State debt only Rs 6,46,531 crore"
+    },
+    {
+     "name": "పరిమితికి మించి అప్పు రూ.31,082 కోట్లు",
+     "type": "Claim",
+     "english_name": "Over-borrowed Rs 31,082 crore beyond limit"
+    },
+    {
+     "name": "ప్రభుత్వ సొంత ఆదాయం తగ్గింది",
+     "type": "Claim",
+     "english_name": "Government own revenue reduced"
+    },
+    {
+     "name": "రాష్ట్ర అప్పు వివాదం",
+     "type": "Issue",
+     "english_name": "State debt controversy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "చంద్రబాబు ఆ పని చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పు రూ.6,46,531 కోట్లు",
+     "evidence": "రాష్ట్ర అప్పు కేవలం రూ.6,46,531 కోట్లు అని ప్రకటించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పరిమితికి మించి అప్పు రూ.31,082 కోట్లు",
+     "evidence": "చంద్రబాబు పాలనలో పరిమితికి మించి అప్పు చేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ సొంత ఆదాయం తగ్గింది",
+     "evidence": "ప్రభుత్వ సొంత ఆదాయం కూడా తగ్గింది."
+    }
+   ]
+  },
+  "0626f7a818a78efda85e3cb41c2fab0a65c91492": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Debt sustainability",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చెప్పిన థియరీ ప్రకారం ఆయన దిగిపోయే నాటికే ఆర్థిక పరిస్థితి దారుణం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చెప్పేవన్నీ అబద్ధాలు. చేసేవన్నీ మోసాలు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "కేవలం ఒకే ఒక్కటి చూపించి, వైయస్సార్‌సీపీ ప్రభుత్వాన్ని నిందించడం ఎంత వరకు సబబు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చెప్పిన థియరీ ప్రకారం ఆయన దిగిపోయే నాటికే ఆర్థిక పరిస్థితి దారుణం.",
+     "evidence": "చంద్రబాబు చెప్పిన థియరీ ప్రకారం.. ఆయన దిగిపోయే నాటికే ఆర్థిక పరిస్థితి దారుణం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చెప్పేవన్నీ అబద్ధాలు. చేసేవన్నీ మోసాలు.",
+     "evidence": "చంద్రబాబు చెప్పేవన్నీ అబద్ధాలు. చేసేవన్నీ మోసాలు."
+    },
+    {
+     "source": "చంద్రబాబు చెప్పిన థియరీ ప్రకారం ఆయన దిగిపోయే నాటికే ఆర్థిక పరిస్థితి దారుణం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Debt sustainability",
+     "evidence": "ఆయన ఇటీవల డెట్‌ సస్టెయినబిలిటీ గురించి వక్రీకరించి చెప్పాడు."
+    },
+    {
+     "source": "చంద్రబాబు చెప్పేవన్నీ అబద్ధాలు. చేసేవన్నీ మోసాలు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Debt sustainability",
+     "evidence": "రాష్ట్ర అప్పులపై దుష్ప్రచారాలు:"
+    }
+   ]
+  },
+  "d2fdc0abdf047922f2b502883aedbdfcb1c67bb9": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "IR",
+     "type": "Scheme",
+     "english_name": "Interim Relief"
+    },
+    {
+     "name": "PRPC",
+     "type": "Organization",
+     "english_name": "Pay Revision Pay Committee"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Port-based industrialisation",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మూలపేట",
+     "type": "Place",
+     "english_name": "Mudivarthur"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "రామాయపట్నం",
+     "type": "Place",
+     "english_name": "Ramayapatnam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "YSRCP",
+     "evidence": "నాడు వైయస్సార్‌సీపీ ప్రభుత్వ హయాంలో"
+    }
+   ]
+  },
+  "f7d80bcbee6d862e63a46ef770e78342f638a820": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": "Super Six Promises"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "మాస్పి",
+     "type": "Organization",
+     "english_name": "MASPI"
+    },
+    {
+     "name": "డెట్‌ సస్టెయినబిలిటీ",
+     "type": "Issue",
+     "english_name": "Debt sustainability"
+    },
+    {
+     "name": "కోవిడ్‌",
+     "type": "Issue",
+     "english_name": "COVID"
+    },
+    {
+     "name": "చంద్రబాబు ప్రతి అడుగు అబద్ధం. మోసం. వక్రీకరణ.",
+     "type": "Claim",
+     "english_name": "Chandrababu every step is false. Deception. Distortion."
+    },
+    {
+     "name": "మా ప్రభుత్వ హయాంలో దేశ జీడీపీ పురోగతి 9.34 శాతం అయితే, రాష్ట్ర జీడీపీ 10.23 శాతం చొప్పున పెరిగింది.",
+     "type": "Claim",
+     "english_name": "During our government, national GDP growth was 9.34% while state GDP grew by 10.23%."
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ప్రతి అడుగు అబద్ధం. మోసం. వక్రీకరణ.",
+     "evidence": "చంద్రబాబు ప్రతి అడుగు అబద్ధం. మోసం. వక్రీకరణ."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మా ప్రభుత్వ హయాంలో దేశ జీడీపీ పురోగతి 9.34 శాతం అయితే, రాష్ట్ర జీడీపీ 10.23 శాతం చొప్పున పెరిగింది.",
+     "evidence": "మా ప్రభుత్వ హయాంలో దేశ జీడీపీ పురోగతి 9.34 శాతం అయితే, రాష్ట్ర జీడీపీ 10.23 శాతం చొప్పున పెరిగింది."
+    }
+   ]
+  },
+  "e04626e90b7c69edd8dc55deece2a34bed456895": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "దావోస్‌",
+     "type": "Place",
+     "english_name": "Davos"
+    },
+    {
+     "name": "జిందాల్‌",
+     "type": "Organization",
+     "english_name": "Jindal"
+    },
+    {
+     "name": "ప్రధాని మోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Modi"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "SUPERSIX PROMISES"
+    }
+   ]
+  },
+  "e43cdba6d8eec8a8ddcd2334a69e250cf42aaabe": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "World Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "KFW",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HUDCO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Markfed",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Civil Supplies Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP MD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Beverages Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FiberNet",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amma Odi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Vasathi Deevena",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Vidya Deevena",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Cheyutha",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Asara",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Zero interest",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Arogyasri",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Vaahanamitra",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Netanna Nestham",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Matsyakara Bharosa",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Kapu Nestham",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "EBC Nestham",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Chadodu",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Todu",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "La Nestham",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tab scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Debt record",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Job cuts",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అప్పుల్లో రికార్డ్ బ్రేక్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్, సూపర్ సెవెన్ ఇచ్చారా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యోగాలు ఊడగొడుతున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.1.45 లక్షల కోట్ల అప్పులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పథకాలన్నీ పాయే",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "World Bank",
+     "evidence": "ప్రపంచ బ్యాంక్‌ నుంచి రూ.15 వేల కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "KFW",
+     "evidence": "జర్మనీ కెఎఫ్‌డబ్ల్యూ నుంచి రూ.5 వేల కోట్లు."
+    }
+   ]
+  },
+  "9ae7d82f8962c8aa41086b8686130364e1197466": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌ పథకాలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీకి ఓటమి తప్పదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌ పథకాలు నీ ఇంటికైనా అందుతున్నాయా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చెప్పేవన్నీ అబద్ధాలు, చేసేవన్నీ మోసాలు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీకి ఓటమి తప్పదు",
+     "evidence": "టీడీపీకి ఓటమి తప్పదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్‌ సిక్స్‌ పథకాలు నీ ఇంటికైనా అందుతున్నాయా?",
+     "evidence": "సూపర్‌ సిక్స్‌ పథకాలు నీ ఇంటికైనా అందుతున్నాయా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చెప్పేవన్నీ అబద్ధాలు, చేసేవన్నీ మోసాలు",
+     "evidence": "చెప్పేవన్నీ అబద్ధాలు, చేసేవన్నీ మోసాలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అసెంబ్లీ",
+     "evidence": "అసెంబ్లీ ద్వారా ప్రజలకు వాస్తవాలు చెప్పడం వారికి ఇష్టం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీకి ఓటమి తప్పదు."
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌",
+     "evidence": "సూపర్‌ సిక్స్‌ పథకాలు నీ ఇంటికైనా అందుతున్నాయా?"
+    },
+    {
+     "source": "టీడీపీకి ఓటమి తప్పదు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సూపర్‌ సిక్స్‌ పథకాలు",
+     "evidence": "టీడీపీకి ఓటమి తప్పదు."
+    },
+    {
+     "source": "సూపర్‌ సిక్స్‌ పథకాలు నీ ఇంటికైనా అందుతున్నాయా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సూపర్‌ సిక్స్‌ పథకాలు",
+     "evidence": "సూపర్‌ సిక్స్‌ పథకాలు నీ ఇంటికైనా అందుతున్నాయా?"
+    },
+    {
+     "source": "చెప్పేవన్నీ అబద్ధాలు, చేసేవన్నీ మోసాలు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సూపర్‌ సిక్స్‌ పథకాలు",
+     "evidence": "చెప్పేవన్నీ అబద్ధాలు, చేసేవన్నీ మోసాలు."
+    }
+   ]
+  },
+  "242bded1f19ae6c6462551d102385f32e73f1e11": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అధికార కూటమి",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "వారికి మనస్సాక్షి లేదు: వాళ్లకు (అధికార కూటమి) హామీలు అమలు చేయాలనే ఉద్దేశం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజలకు తోడుగా ఉండే కార్యక్రమాలు ప్రతిపక్ష పార్టీగా మేం చేస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "అధికార కూటమి",
+     "evidence": "వారికి మనస్సాక్షి లేదు: వాళ్లకు (అధికార కూటమి) హామీలు అమలు చేయాలనే ఉద్దేశం లేదు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "వారికి మనస్సాక్షి లేదు: వాళ్లకు (అధికార కూటమి) హామీలు అమలు చేయాలనే ఉద్దేశం లేదు.",
+     "evidence": "వారికి మనస్సాక్షి లేదు: వాళ్లకు (అధికార కూటమి) హామీలు అమలు చేయాలనే ఉద్దేశం లేదు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలకు తోడుగా ఉండే కార్యక్రమాలు ప్రతిపక్ష పార్టీగా మేం చేస్తాం.",
+     "evidence": "ప్రజలకు తోడుగా ఉండే కార్యక్రమాలు ప్రతిపక్ష పార్టీగా మేం చేస్తాం."
+    }
+   ]
+  },
+  "5486402b74e98e91ea8c4814ca62a05154414cc7": {
+   "entities": [
+    {
+     "name": "CHANDRABABU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "స్పీకర్",
+     "type": "Person",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "Media"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CHANDRABABU",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUPERSIX PROMISES",
+     "evidence": "SUPERSIX PROMISES"
+    }
+   ]
+  },
+  "b932052b5f221a7566edc216abc6727b249c3694": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "మాఫియా",
+     "type": "Issue",
+     "english_name": "Mafia"
+    },
+    {
+     "name": "పెదబాబు",
+     "type": "Person",
+     "english_name": "Pedda Babu"
+    },
+    {
+     "name": "చినబాబు",
+     "type": "Person",
+     "english_name": "Chinna Babu"
+    },
+    {
+     "name": "దత్తపుత్రుడు",
+     "type": "Person",
+     "english_name": "Dattaputra"
+    },
+    {
+     "name": "ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "MLA"
+    },
+    {
+     "name": "రాయచోటి",
+     "type": "Place",
+     "english_name": "Rayachoti"
+    },
+    {
+     "name": "ఎన్టీఆర్‌",
+     "type": "Person",
+     "english_name": "NTR"
+    },
+    {
+     "name": "మొబిలైజేషన్‌",
+     "type": "Scheme",
+     "english_name": "Mobilisation"
+    },
+    {
+     "name": "జ్యుడీషియల్‌ ప్రివ్యూ",
+     "type": "Scheme",
+     "english_name": "Judicial Preview"
+    },
+    {
+     "name": "రెడ్‌బుక్‌ రాజ్యాంగం",
+     "type": "Organization",
+     "english_name": "Red Book Constitution"
+    },
+    {
+     "name": "చంద్రబాబు సంపద సృష్టించిన తర్వాత ఇస్తాను అంటున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చీటింగ్‌లో పీహెచ్‌డీ తీసుకున్న వ్యక్తి చంద్రబాబు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "CHANDRABABU SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పెదబాబు",
+     "evidence": "అన్నీ పెదబాబు, చినబాబు నడుపుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చినబాబు",
+     "evidence": "అన్నీ పెదబాబు, చినబాబు నడుపుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దత్తపుత్రుడు",
+     "evidence": "ఆ ఎమ్మెల్యే పెదబాబుకు, చినబాబుకు, దత్తపుత్రుడికి ఇంత అని సర్దితేనే.."
+    }
+   ]
+  },
+  "ff7a1f97078b13dfebcd82a142ae99b67d1386c5": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Aarogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero interest"
+    },
+    {
+     "name": "ఉచిత క్రాప్‌ ఇన్సూరెన్స్‌",
+     "type": "Scheme",
+     "english_name": "Free crop insurance"
+    },
+    {
+     "name": "ఆర్బీకే వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "RBK system"
+    },
+    {
+     "name": "ఈ-క్రాప్‌ విధానం",
+     "type": "Scheme",
+     "english_name": "e-Crop policy"
+    },
+    {
+     "name": "చేదోడు",
+     "type": "Scheme",
+     "english_name": "Chadodu"
+    },
+    {
+     "name": "తోడు",
+     "type": "Scheme",
+     "english_name": "Toedu"
+    },
+    {
+     "name": "మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": "Matsya Karar Bharosa"
+    },
+    {
+     "name": "వాహనమిత్ర",
+     "type": "Scheme",
+     "english_name": "Vaahanamitra"
+    },
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Netanna Nestham"
+    },
+    {
+     "name": "కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "Kaapu Nestham"
+    },
+    {
+     "name": "ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "EBC Nestham"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Aasara"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "చంద్రబాబు ఇవ్వాల్సిన పథకాలు ఇవ్వకపోగా, ఉన్న పథకాలు ఎత్తేసి, ప్రజల జీవితాలతో ఆడుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ ఊపిరి తీసేశారు. ఆరోగ్య ఆసరా కనబడకుండా చేశారు. పేదలు అప్పులపాలు కాకుండా వైద్యం చేయించుకోలేని పరిస్థితి తెచ్చారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతు భరోసా నిలిపేసి, వారితో ఆడుకోవడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సున్నా వడ్డీ తీసేయడం, ఉచిత క్రాప్‌ ఇన్సూరెన్స్‌ పథకం రద్దు చేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్బీకే వ్యవస్థను నిర్వీర్యం చేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ-క్రాప్‌ విధానాన్ని రద్దు చేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మత్స్యకార భరోసా, వాహనమిత్ర, నేతన్న నేస్తం, చేదోడు, తోడు ఇవన్నీ కూడా నిలిపివేసి, బలహీనవర్గాలకు తీరని ద్రోహం చేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఒక్క ఉద్యోగం కూడా ఇవ్వకపోగా, ఉన్న ఉద్యోగాలు ఊడబీకడం, వాలంటీర్లను మోసం చేయడం, ప్రభుత్వ ఉద్యోగులకూ అన్యాయం చేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రానికి సంబంధించిన వనరులు రాకుండా చేయడం, రాష్ట్రం ఆదాయం పెంచకుండా తన సొంత జేబు ఆదాయం పెంచుకునేందుకు ఇసుక, మద్యం, మట్టి, క్వారŠడ్జ్‌ దోచేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అధికారంలోకి రాగానే ప్రశ్నించే స్వరం ఉండకూడదని, రెడ్‌బుక్‌ రాజ్యాంగం అమలు చేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మున్సిపల్‌ ఉప ఎన్నికల్లో అత్యంత హేయం: నిన్న తిరుపతి సంఘటన చూస్తే ఇది అన్నింటి కంటే విధ్వంసం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డిప్యూటీ మేయర్‌ ఉప ఎన్నికలో వైయస్‌ఆర్‌సీపీ కార్పొరేటర్లను బెదిరించి, ప్రలోభపెట్టి, పోలీసుల ఎదుటే కిడ్నాప్‌ చేసి ఓటు హక్కు ఉన్న ఎమ్మెల్సీని సైతం కిడ్నాప్‌ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a02bb97f951115d38a52198e42844dbe783d0403": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram project"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "బీహార్",
+     "type": "Place",
+     "english_name": "Bihar"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Centre"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "CBSE",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "IB",
+     "type": "Organization",
+     "english_name": "IB"
+    },
+    {
+     "name": "TOEFL",
+     "type": "Organization",
+     "english_name": "TOEFL"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "కేంద్ర బడ్జెట్‌లో కేవలం 12 మంది ఎంపీలున్న బీహార్, తమ రాష్ట్రానికి ఎన్నో సాధించుకుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "కేంద్ర బడ్జెట్‌లో... ని«ధులు తగ్గించారు. కేవలం రూ.12,157 కోట్లు మాత్రమే ఇస్తామని, ప్రాజెక్టు ఎత్తు కూడా 41.15 మీటర్లకే అనుమతి ఇస్తామని స్పష్టంగా చెప్పినా, ఒక్క మాట మాట్లాడలేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "పోలవరం ప్రాజెక్టు ఎత్తును కేవలం 41.15 మీటర్లకే పరిమితం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "SUPERSIX PROMISES"
+    }
+   ]
+  },
+  "ec77f6ad8c5744ede3623ffd7d362954615273b6": {
+   "entities": [
+    {
+     "name": "ఏలూరు కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Eluru Corporation"
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "హిందూపురం మున్సిపాలిటీ",
+     "type": "Organization",
+     "english_name": "Hindupur Municipality"
+    },
+    {
+     "name": "చంద్రబాబు బావమరిది ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Chandra Babu's brother‑in‑law MLA"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "నందిగామ",
+     "type": "Place",
+     "english_name": "Nandigama"
+    },
+    {
+     "name": "తాడిపత్రి",
+     "type": "Place",
+     "english_name": "Tadipatri"
+    }
+   ],
+   "relations": []
+  },
+  "a9051b3ab59701aa2ecff185d4590c5448b117d2": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "స్కామ్‌లమయం",
+     "type": "Issue",
+     "english_name": "Scams"
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": "Super Six Promises"
+    },
+    {
+     "name": "చంద్రబాబు దృష్టిలో సంపద సృష్టి అంటే, దానర్థం.. తన ఆస్తులు పెంచుకోవడం. తన వారి ఆస్తులు మాత్రం పెంచుకోవడం.",
+     "type": "Claim",
+     "english_name": "Chandrababu's view on wealth creation"
+    },
+    {
+     "name": "ఈరోజు రాష్ట్రంలో జరగని స్కామ్‌ లేదు.",
+     "type": "Claim",
+     "english_name": "No scam is happening in the state today."
+    },
+    {
+     "name": "ఇసుక స్కామ్‌.",
+     "type": "Claim",
+     "english_name": "Sand scam."
+    },
+    {
+     "name": "మద్యం షాప్‌లు ప్రభుత్వం నడిపితే, వాటిని ప్రైవేటువారికి అప్పగించారు.",
+     "type": "Claim",
+     "english_name": "Liquor shops were handed over to private parties."
+    },
+    {
+     "name": "పోలీసులు వాళ్లకు సహకారం అందిస్తారు.",
+     "type": "Claim",
+     "english_name": "Police provide cooperation."
+    },
+    {
+     "name": "బెల్టుషాపులో అధిక ధరలకు మద్యం అమ్ముతున్నారు.",
+     "type": "Claim",
+     "english_name": "Liquor is sold at high prices in belt shops."
+    },
+    {
+     "name": "అవి ప్రభుత్వమే నడిపితే, ఆ ఆదాయం ప్రభుత్వానికి వచ్చేది.",
+     "type": "Claim",
+     "english_name": "If the government ran them, the revenue would go to the government."
+    },
+    {
+     "name": "అదంతా చంద్రబాబు ఆదాయం పెరుగుతోంది.",
+     "type": "Claim",
+     "english_name": "All that is increasing Chandrababu's income."
+    },
+    {
+     "name": "ఇవన్నీ కళ్ల ఎదుటే కనిపిస్తున్న స్కామ్‌లు. మాఫియా.",
+     "type": "Claim",
+     "english_name": "All these are visible scams. Mafia."
+    },
+    {
+     "name": "సిలికా, క్వార్ట్‌›్జ, ఫ్లైయాష్‌.. అన్నీ మాఫియాలే.",
+     "type": "Claim",
+     "english_name": "Silica, quartz, fly ash... all are mafia."
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు దృష్టిలో సంపద సృష్టి అంటే, దానర్థం.. తన ఆస్తులు పెంచుకోవడం. తన వారి ఆస్తులు మాత్రం పెంచుకోవడం.",
+     "evidence": "చంద్రబాబు దృష్టిలో సంపద సృష్టి అంటే, దానర్థం.. తన ఆస్తులు పెంచుకోవడం. తన వారి ఆస్తులు మాత్రం పెంచుకోవడం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈరోజు రాష్ట్రంలో జరగని స్కామ్‌ లేదు.",
+     "evidence": "ఈరోజు రాష్ట్రంలో జరగని స్కామ్‌ లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇసుక స్కామ్‌.",
+     "evidence": "ఇసుక స్కామ్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మద్యం షాప్‌లు ప్రభుత్వం నడిపితే, వాటిని ప్రైవేటువారికి అప్పగించారు.",
+     "evidence": "మద్యం షాప్‌లు ప్రభుత్వం నడిపితే, వాటిని ప్రైవేటువారికి అప్పగించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీసులు వాళ్లకు సహకారం అందిస్తారు.",
+     "evidence": "పోలీసులు వాళ్లకు సహకారం అందిస్తారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బెల్టుషాపులో అధిక ధరలకు మద్యం అమ్ముతున్నారు.",
+     "evidence": "బెల్టుషాపులో అధిక ధరలకు మద్యం అమ్ముతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అవి ప్రభుత్వమే నడిపితే, ఆ ఆదాయం ప్రభుత్వానికి వచ్చేది.",
+     "evidence": "అవి ప్రభుత్వమే నడిపితే, ఆ ఆదాయం ప్రభుత్వానికి వచ్చేది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అదంతా చంద్రబాబు ఆదాయం పెరుగుతోంది.",
+     "evidence": "అదంతా చంద్రబాబు ఆదాయం పెరుగుతోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇవన్నీ కళ్ల ఎదుటే కనిపిస్తున్న స్కామ్‌లు. మాఫియా.",
+     "evidence": "ఇవన్నీ కళ్ల ఎదుటే కనిపిస్తున్న స్కామ్‌లు. మాఫియా."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సిలికా, క్వార్ట్‌›్జ, ఫ్లైయాష్‌.. అన్నీ మాఫియాలే.",
+     "evidence": "సిలికా, క్వార్ట్‌›్జ, ఫ్లైయాష్‌.. అన్నీ మాఫియాలే."
+    }
+   ]
+  },
+  "1df14d4c45f20351ba3464a680029651d3a98ea5": {
+   "entities": [
+    {
+     "name": "నీతి ఆయోగ్‌",
+     "type": "Organization",
+     "english_name": "Niti Aayog"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "మినిస్ట్రీ ఆఫ్‌ స్టాటిస్టిక్స్‌ అండ్‌ ప్రోగ్రామ్‌ ఇంప్లిమెంటేషన్‌",
+     "type": "Organization",
+     "english_name": "Ministry of Statistics and Programme Implementation"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "మా హయాంలో రాష్ట్రాన్ని అన్ని విధాలుగా ముందుంచాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నీతి ఆయోగ్‌",
+     "evidence": "నీతి ఆయోగ్‌ రిపోర్ట్‌ పేరుతో డ్రామా"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "మా ప్రభుత్వంపై నిందలు వేశారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "DEFENDS",
+     "target": "టీడీపీ",
+     "evidence": "మా హయాంలో రాష్ట్రాన్ని అన్ని విధాలుగా ముందుంచాం"
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మా హయాంలో రాష్ట్రాన్ని అన్ని విధాలుగా ముందుంచాం",
+     "evidence": "మా హయాంలో రాష్ట్రాన్ని అన్ని విధాలుగా ముందుంచాం"
+    }
+   ]
+  },
+  "adc7c4afee7703006bdc010a81fc19c7580cc729": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "మిధున్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Mithun Reddy"
+    },
+    {
+     "name": "పెద్దారెడ్డి",
+     "type": "Person",
+     "english_name": "Pedda Reddy"
+    },
+    {
+     "name": "కసిరెడ్డి",
+     "type": "Person",
+     "english_name": "Kasi Reddy"
+    },
+    {
+     "name": "సాయిరెడ్డి",
+     "type": "Person",
+     "english_name": "Saireddy"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "YSRCP 2.0 పాలన",
+     "type": "Scheme",
+     "english_name": "YSRCP 2.0 governance"
+    },
+    {
+     "name": "పోలీస్‌ డ్రెస్‌ ఉంది అని చెప్పి నిన్ను ఇల్లీగల్‌ గా అరెస్ట్‌ చేయకూడదు.",
+     "type": "Claim",
+     "english_name": "Police dress should not be used to illegally arrest."
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ 2.0 పాలన కార్యకర్తలకు భరోసాగా ఉంటుందని మాత్రం ఖచ్చితంగా చెబుతా.",
+     "type": "Claim",
+     "english_name": "YSRCP 2.0 governance will be a reassurance for activists."
+    },
+    {
+     "name": "అసలు ఆయనకేం సంబంధం?.",
+     "type": "Claim",
+     "english_name": "Mithun Reddy has no relation to the matter."
+    }
+   ],
+   "relations": []
+  },
+  "337505a25a6ddaff81157c45f6553f9c51166a83": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "JC Prabhakar Reddy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "వైఎస్సార్‌ సీపీ",
+     "type": "Organization",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "తాడిపత్రి",
+     "type": "Place",
+     "english_name": "Tadpatri"
+    },
+    {
+     "name": "దర్శి",
+     "type": "Place",
+     "english_name": "Darshi"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Issue",
+     "english_name": "Super Six promises"
+    },
+    {
+     "name": "మా పార్టీ కంటే టీడీపీకి రెండు సీట్లు మాత్రమే ఎక్కువ. అప్పుడు మేము తల్చుకుంటే, మున్సిపల్‌ ఛైర్మన్‌ పదవి కైవసం చేసుకుని ఉండే వాళ్లం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హ్యాట్సాఫ్‌ టు జగన్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబుకు బుద్ధి, జ్ఞానం రెండూ లేవు కాబట్టి.. రాష్ట్రంలో ఈ మాదిరిగా పరిపాలన చేస్తున్నాడు కాబట్టే.. అధ్వాన్నమైన పరిస్థితులు నెలకొంటున్నాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబును ప్రశ్నించే స్వరాలు ఇప్పటికే పెరిగాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు చొక్కా పట్టుకునే రోజులు కూడా దగ్గరలోనే వస్తాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు తనంతట తానే ఎక్కడంటే అక్కడ రాష్ట్రంలో లేని పరిస్థితులను ఉన్నట్లుగా, రాష్ట్రం గురించి నెగిటివ్‌గా చెప్పడం మొదలుపెడితే ఏ రకంగా పారిశ్రామిక వేత్తలకు కాన్ఫిడెన్స్‌ ఇవ్వగలడు?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు... అభూత కల్పనలు సృష్టిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జిందాల్‌ వాళ్లు భయభ్రాంతులకు గురై రాష్ట్రం నుంచి వెళ్లిపోయారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మా పార్టీ కంటే టీడీపీకి రెండు సీట్లు మాత్రమే ఎక్కువ. అప్పుడు మేము తల్చుకుంటే, మున్సిపల్‌ ఛైర్మన్‌ పదవి కైవసం చేసుకుని ఉండే వాళ్లం.",
+     "evidence": "మా పార్టీ కంటే టీడీపీకి రెండు సీట్లు మాత్రమే ఎక్కువ. అప్పుడు మేము తల్చుకుంటే, మున్సిపల్‌ ఛైర్మన్‌ పదవి కైవసం చేసుకుని ఉండే వాళ్లం."
+    },
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "హ్యాట్సాఫ్‌ టు జగన్‌",
+     "evidence": "హ్యాట్సాఫ్‌ టు జగన్‌"
+    },
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబుకు బుద్ధి, జ్ఞానం రెండూ లేవు కాబట్టి.. రాష్ట్రంలో ఈ మాదిరిగా పరిపాలన చేస్తున్నాడు కాబట్టే.. అధ్వాన్నమైన పరిస్థితులు నెలకొంటున్నాయి.",
+     "evidence": "చంద్రబాబుకు బుద్ధి, జ్ఞానం రెండూ లేవు కాబట్టి.. రాష్ట్రంలో ఈ మాదిరిగా పరిపాలన చేస్తున్నాడు కాబట్టే.. అధ్వాన్నమైన పరిస్థితులు నెలకొంటున్నాయి."
+    },
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబును ప్రశ్నించే స్వరాలు ఇప్పటికే పెరిగాయి.",
+     "evidence": "చంద్రబాబును ప్రశ్నించే స్వరాలు ఇప్పటికే పెరిగాయి."
+    },
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు చొక్కా పట్టుకునే రోజులు కూడా దగ్గరలోనే వస్తాయి.",
+     "evidence": "చంద్రబాబు నాయుడు చొక్కా పట్టుకునే రోజులు కూడా దగ్గరలోనే వస్తాయి."
+    },
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు తనంతట తానే ఎక్కడంటే అక్కడ రాష్ట్రంలో లేని పరిస్థితులను ఉన్నట్లుగా, రాష్ట్రం గురించి నెగిటివ్‌గా చెప్పడం మొదలుపెడితే ఏ రకంగా పారిశ్రామిక వేత్తలకు కాన్ఫిడెన్స్‌ ఇవ్వగలడు?",
+     "evidence": "చంద్రబాబు తనంతట తానే ఎక్కడంటే అక్కడ రాష్ట్రంలో లేని పరిస్థితులను ఉన్నట్లుగా, రాష్ట్రం గురించి నెగిటివ్‌గా చెప్పడం మొదలుపెడితే ఏ రకంగా పారిశ్రామిక వేత్తలకు కాన్ఫిడెన్స్‌ ఇవ్వగలడు?"
+    },
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు... అభూత కల్పనలు సృష్టిస్తున్నారు.",
+     "evidence": "చంద్రబాబు... అభూత కల్పనలు సృష్టిస్తున్నారు."
+    },
+    {
+     "source": "జేసీ ప్రభాకర్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "జిందాల్‌ వాళ్లు భయభ్రాంతులకు గురై రాష్ట్రం నుంచి వెళ్లిపోయారు.",
+     "evidence": "జిందాల్‌ వాళ్లు భయభ్రాంతులకు గురై రాష్ట్రం నుంచి వెళ్లిపోయారు."
+    }
+   ]
+  },
+  "2eba0655e64a250c573cbb4cd87a02fa6b711ea4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చంద్రముఖి",
+     "type": "Person",
+     "english_name": "Chandramukhi"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "నీతి ఆయోగ్‌",
+     "type": "Organization",
+     "english_name": "NITI Aayog"
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Scheme",
+     "english_name": "Super Six promises"
+    },
+    {
+     "name": "చంద్రబాబును నమ్మడమంటే చంద్రముఖిని నిద్ర లేపడమే అని చెప్పాను.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబుగారు ప్రజలను వంచించే కార్యక్రమం, మోసం చేసే కార్యక్రమం.. ఒక పద్ధతి ప్రకారం స్లోగా పాయిజన్‌ ఎక్కిస్తుంటాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చెబుతోంది అబద్దం అని, అది వక్రీకరణ అని తెలిసినా, ఎల్లో మీడియా దాన్ని బుల్డోజ్‌ చేసుకుంటూ పోతాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు డ్రామా చేశాడు. దుష్ప్రచారం చేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఏం చేశారు? తన పాలనలో బాగా ఉన్న ఏడాది, మా పాలనలో ఆర్థిక పరిస్థితి బాగా లేని ఏడాదిని పోల్చి చూపి, మా ప్రభుత్వంపై నిందలు వేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "77bd4b4ff2b78da5e63871d31a4ee7757a570b2b": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "దావోస్‌",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బాబు ష్యూరిటీ.. మోసం గ్యారెంటీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి చోటా స్కామ్‌ల మయం. యథేచ్ఛ దోపిడి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇసుక, మద్యం, మైనింగ్‌.. దేన్నీ వదలడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కాంట్రాక్ట్‌ల్లో దోపిడీ కోసం కొత్త విధానం తెచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మొబిలైజేషన్‌ పేరుతో ముందే 10 శాతం నిధులు అందులో ఏకంగా 8 శాతం కమిషన్‌ తీసుకుంటున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జ్యుడీషియల్‌ రివ్యూ రివర్స్‌ టెండరింగ్‌ విధానం. తద్వారా ప్రజాధనం ఆదా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కాగ్ రిపోర్ట్‌పైనా అన్నీ వక్రీకరణలు. అవాస్తవాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు పాలనలోనే ఆర్థిక విధ్వంసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అందరిలో విశ్వసనీయత కోల్పోయిన చంద్రబాబు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దావోస్‌లో ఒక్క ఎంఓయూ కూడా లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వంలోనే ఆర్థిక అభివృద్ధి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మున్పిపల్‌ ఉప ఎన్నికల్లో అప్రజాస్వామిక విధానాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సంఖ్యాబలం లేకున్నా దొడ్డిదారిలో డిప్యూటీ పదవులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తిరుపతి కార్పొరేషన్‌లో అత్యంత అరాచక పర్వం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పీహెచ్‌డీ"
+    }
+   ]
+  },
+  "e9f9ada7693e3f84b4f516af3ed68b8ba8424e63": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సూపర్‌సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "మూలపేట",
+     "type": "Place",
+     "english_name": "Moolapet"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "రామాయపట్నం",
+     "type": "Place",
+     "english_name": "Ramayapatnam"
+    },
+    {
+     "name": "నాగార్జునసాగర్",
+     "type": "Place",
+     "english_name": "Nagarjunasagar"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bangalore"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Centre"
+    },
+    {
+     "name": "బ్యాంక్‌లు",
+     "type": "Organization",
+     "english_name": "Banks"
+    },
+    {
+     "name": "మారిటైమ్‌ బోర్డు",
+     "type": "Organization",
+     "english_name": "Maritime Board"
+    },
+    {
+     "name": "Port scams",
+     "type": "Issue",
+     "english_name": "Port scams"
+    },
+    {
+     "name": "Medical college scams",
+     "type": "Issue",
+     "english_name": "Medical college scams"
+    },
+    {
+     "name": "Four ports construction started",
+     "type": "Claim",
+     "english_name": "Four ports construction started"
+    },
+    {
+     "name": "17 medical colleges started",
+     "type": "Claim",
+     "english_name": "17 medical colleges started"
+    },
+    {
+     "name": "Port assets sold for scams",
+     "type": "Claim",
+     "english_name": "Port assets sold for scams"
+    },
+    {
+     "name": "Medical colleges sold for scams",
+     "type": "Claim",
+     "english_name": "Medical colleges sold for scams"
+    },
+    {
+     "name": "Centre promises 75,000 medical seats and 10,000 this year",
+     "type": "Claim",
+     "english_name": "Centre promises 75,000 medical seats and 10,000 this year"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌సిక్స్",
+     "evidence": "సూపర్‌సిక్స్ ప్రామిసెస్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Four ports construction started",
+     "evidence": "పోర్టుల నిర్మాణం చేపట్టాం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "17 medical colleges started",
+     "evidence": "17 మెడికల్‌ కాలేజీలు మేం కట్టడం మొదలుపెట్టాం"
+    }
+   ]
+  }
+ }
+}

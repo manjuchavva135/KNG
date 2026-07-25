@@ -1,0 +1,146 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9b0cd610df95eb76960084b38f6cc688bd8750f6": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh Central Power Distribution Corporation limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Eastern Power Distribution Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Southern Power Distribution Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Rural Agriculture Power Supply Company Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Power Developers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE Scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Guidelines for Tariff Based Competitive Bidding Process",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Power Purchase Agreements",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Request for Selection (RfS)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Schedule-1",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Schedule-2",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Deputy Secretary to Government (Energy)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Damian T Psychotherapist",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tadepalli, Guntur district",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Central Power Distribution Corporation limited",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "having its registered office at Vijayawada, Andhra Pradesh"
+    },
+    {
+     "source": "Eastern Power Distribution Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam",
+     "evidence": "having its registered office at Visakhapatnam, Andhra Pradesh"
+    },
+    {
+     "source": "Andhra Pradesh Southern Power Distribution Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "having its registered office at Tirupati, Andhra Pradesh"
+    },
+    {
+     "source": "AP Rural Agriculture Power Supply Company Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tadepalli, Guntur district",
+     "evidence": "having its registered office at Tadepalli, Guntur district, Andhra Pradesh"
+    },
+    {
+     "source": "Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "85fb5d95deb381b76ad4a31c1b9b8e96e6a76834": {
+   "entities": [
+    {
+     "name": "BRK Spirits",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Davuluru (V), Kankipadu (M), Krishna Dist. (A.P.) India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మద్యపానం ఆరోగ్యానికి హానికరము",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మద్యం సేవించి వాహనం నడపరాదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

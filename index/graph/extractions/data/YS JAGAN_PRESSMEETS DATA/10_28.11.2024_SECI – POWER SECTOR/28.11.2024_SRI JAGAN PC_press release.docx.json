@@ -1,0 +1,2181 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "78d5debc0aee490c9e40b37eb201bac75472f818": {
+   "entities": [
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సీ పోర్టు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యుత్‌ రంగం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఉచిత కరెంటు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "డిస్కంలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ గ్రీన్‌ ఎనర్జీ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సోలార్‌ పార్క్‌లు",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "4142f00c9b15b0b02ff9e519be536f72be057abb": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "డిస్కమ్‌లు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్‌ స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "శాండ్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మాఫియా సామ్రాజ్యం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యుత్‌ ఒప్పందం యూనిట్‌ రూ.2.49",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏటా రూ.4400 కోట్లు ప్రభుత్వానికి ఆదా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "25 ఏళ్లలో దాదాపు రూ.1.10 లక్షల కోట్లు ఆదా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "25 ఏళ్లలో ఏకంగా రూ.87,500 కోట్ల సంపద ఆవిరి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాజ్యాంగ ఉల్లంఘనలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దోపిడి",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "వైయస్సార్‌సీపీ అధ్యక్షుడు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర ప్రభుత్వం",
+     "evidence": "రాష్ట్ర ప్రభుత్వ పనితీరు. అమలు కాని పథకాలు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "ఎల్లో మీడియా ఈనాడు, ఆంధ్రజ్యోతిలో వికృతరాతలు ... పూర్తిగా టీడీపీ కోసమే పని చేస్తున్న ఆ రెండు పత్రికలు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "విద్యుత్‌ ఒప్పందం యూనిట్‌ రూ.2.49",
+     "evidence": "అతి తక్కువ ధరకే నాడు సెకీతో విద్యుత్‌ ఒప్పందం యూనిట్‌ రూ.2.49."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏటా రూ.4400 కోట్లు ప్రభుత్వానికి ఆదా",
+     "evidence": "దాని వల్ల ఏటా రూ.4400 కోట్లు ప్రభుత్వానికి ఆదా"
+    }
+   ]
+  },
+  "92f325d1d23d6ec6b030bc81bc0f45014c18ddf8": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఏపీఈఆర్‌సీ",
+     "type": "Organization",
+     "english_name": "APERC"
+    },
+    {
+     "name": "9 వేల మెగావాట్ల సౌర విద్యుత్‌ సరఫరా",
+     "type": "Scheme",
+     "english_name": "9,000 MW solar power supply"
+    },
+    {
+     "name": "చంద్రబాబు హయాంలో పీపీఏలు అధిక ధరలకు జరిగాయి",
+     "type": "Claim",
+     "english_name": "Chandrababu's PPAs were at high rates"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ఫ్రభుత్వం రూ.2.49కే విద్యుత్‌ సరఫరా చేసింది",
+     "type": "Claim",
+     "english_name": "YSRCP government supplied power at Rs 2.49 per unit"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు హయాంలో పీపీఏలు అధిక ధరలకు జరిగాయి",
+     "evidence": "చంద్రబాబు హయాంలో పీపీఏలు చూస్తే కళ్లు తిరుగుతాయి... సోలార్‌ ఎనర్జీని యావరేజ్‌గా రూ.5.90కి కొనుగోలు చేశారు."
+    }
+   ]
+  },
+  "5bc32b6ed2d15bb72f0888828abf828fbb2a20a1": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "AP government",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "APERC",
+     "type": "Organization",
+     "english_name": "APERC"
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": "Ministry of Power"
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Discoms",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "Chhattisgarh",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "Power Sale Agreement",
+     "type": "Scheme",
+     "english_name": "Power Sale Agreement"
+    },
+    {
+     "name": "Inter State Transmission Charges",
+     "type": "Scheme",
+     "english_name": "Inter State Transmission Charges"
+    },
+    {
+     "name": "Solar PPAs",
+     "type": "Scheme",
+     "english_name": "Solar PPAs"
+    },
+    {
+     "name": "Wind PPAs",
+     "type": "Scheme",
+     "english_name": "Wind PPAs"
+    },
+    {
+     "name": "Claim",
+     "type": "Claim",
+     "english_name": "Claim"
+    },
+    {
+     "name": "Power Sector",
+     "type": "Issue",
+     "english_name": "Power Sector"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim",
+     "evidence": "చంద్రబాబు వల్ల సంపద ఆవిరి"
+    },
+    {
+     "source": "Jagan",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Power Sale Agreement",
+     "evidence": "జగన్‌ ప్రభుత్వం చేసుకున్న విద్యుత్‌ ఒప్పందం వల్ల 25 ఏళ్లలో రూ.1.10 లక్షల కోట్లు ఆదా అవుతుంటే"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "వైయస్సార్‌సీపీ చేసుకున్న సోలార్‌ ఒప్పందం"
+    },
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "Tamil Nadu",
+     "evidence": "తమిళనాడుకు ... రూ.2.61కి అమ్మింది."
+    },
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "Odisha",
+     "evidence": "ఒడిశాకు ... రూ.2.61కి అమ్మింది."
+    },
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "Chhattisgarh",
+     "evidence": "ఛత్తీస్‌గఢ్‌కు కూడా రూ.2.61కి అమ్మింది."
+    },
+    {
+     "source": "Power Sale Agreement",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power Sector",
+     "evidence": "POWER SECTOR"
+    }
+   ]
+  },
+  "4b05fe9b5502b945f5693d90b34c8b95fa4cee4f": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "ఒడిశా",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "ఛత్తీస్‌గఢ్‌",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "ఆంధ్ర",
+     "type": "Place",
+     "english_name": "Andhra"
+    },
+    {
+     "name": "కర్ణాటక",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "గుజరాత్",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "రాజస్థాన్",
+     "type": "Place",
+     "english_name": "Rajasthan"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "తానా",
+     "type": "Organization",
+     "english_name": "TANA"
+    },
+    {
+     "name": "నేను రూ.249కి తెస్తా.",
+     "type": "Claim",
+     "english_name": "I will bring power at Rs.249."
+    },
+    {
+     "name": "చంద్రబాబునాయుడు సోలార్‌ పవర్‌ రూ.5.90కి కొంటాడు.",
+     "type": "Claim",
+     "english_name": "Chandrababu Naidu buys solar power at Rs.5.90."
+    },
+    {
+     "name": "విండ్‌ పవర్‌ రూ.4.84కి కొంటాడు.",
+     "type": "Claim",
+     "english_name": "Buys wind power at Rs.4.84."
+    },
+    {
+     "name": "గుజరాత్‌ లో రూ.1.99కే విద్యుత్‌ వస్తుంటే సెకీతో ఒప్పందం వీళ్లు రూ.2.49కి ఎందుకు చేసుకున్నాడు.",
+     "type": "Claim",
+     "english_name": "If Gujarat gets power at Rs.1.99, why did they contract with SECI at Rs.2.49."
+    },
+    {
+     "name": "మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49.",
+     "type": "Claim",
+     "english_name": "Our lowest discovered rate is Rs.2.49."
+    },
+    {
+     "name": "అదే రూ.2.49 ఇంటర్‌ స్టేట్‌ ట్రాన్స్‌మిషన్‌ ఛార్జెస్‌తో కలిపి మనకు వేవర్‌ ఉన్నప్పటికీ కూడా ఈనాడు రూ.5.73కి కొంటున్నామని రాస్తాడు.",
+     "type": "Claim",
+     "english_name": "Eenadu writes that we are buying at Rs.5.73 despite waiver of Rs.2.49 transmission charges."
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "నేను రూ.249కి తెస్తా.",
+     "evidence": "నేను రూ.249కి తెస్తా."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబునాయుడు సోలార్‌ పవర్‌ రూ.5.90కి కొంటాడు.",
+     "evidence": "చంద్రబాబునాయుడు సోలార్‌ పవర్‌ రూ.5.90కి కొంటాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "విండ్‌ పవర్‌ రూ.4.84కి కొంటాడు.",
+     "evidence": "విండ్‌ పవర్‌ రూ.4.84కి కొంటాడు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "గుజరాత్‌ లో రూ.1.99కే విద్యుత్‌ వస్తుంటే సెకీతో ఒప్పందం వీళ్లు రూ.2.49కి ఎందుకు చేసుకున్నాడు.",
+     "evidence": "గుజరాత్‌ లో రూ.1.99కే విద్యుత్‌ వస్తుంటే సెకీతో ఒప్పందం వీళ్లు రూ.2.49కి ఎందుకు చేసుకున్నాడు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49.",
+     "evidence": "మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "అదే రూ.2.49 ఇంటర్‌ స్టేట్‌ ట్రాన్స్‌మిషన్‌ ఛార్జెస్‌తో కలిపి మనకు వేవర్‌ ఉన్నప్పటికీ కూడా ఈనాడు రూ.5.73కి కొంటున్నామని రాస్తాడు.",
+     "evidence": "అదే రూ.2.49 ఇంటర్‌ స్టేట్‌ ట్రాన్స్‌మిషన్‌ ఛార్జెస్‌తో కలిపి మనకు వేవర్‌ ఉన్నప్పటికీ కూడా ఈనాడు రూ.5.73కి కొంటున్నామని రాస్తాడు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "చంద్రబాబునాయుడు సోలార్‌ పవర్‌ రూ.5.90కి కొంటాడు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడు గుజరాత్‌ గురించి రిఫరెన్స్‌ రాస్తాడు... ఇది వక్రీకరణ కాదా?"
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "ఆంధ్రజ్యోతి కూడా ఇదే విధంగా వక్రీకరించి రాస్తున్నారు."
+    }
+   ]
+  },
+  "70625ce26b994eec3bd9a7725b9dccaae442ee8f": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "be98988bf5f44f11e33448aae5df3f42ea429b98": {
+   "entities": [
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "HealthShri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Health Asara"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical Colleges"
+    },
+    {
+     "name": "పార్లమెంటు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Parliamentary Constituency"
+    },
+    {
+     "name": "గ్రామస్థాయి",
+     "type": "Place",
+     "english_name": "Village Level"
+    },
+    {
+     "name": "ఆర్బీకే వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "RBK System"
+    },
+    {
+     "name": "ఈ–క్రాప్‌",
+     "type": "Scheme",
+     "english_name": "e‑Crop"
+    },
+    {
+     "name": "పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Crop Insurance"
+    },
+    {
+     "name": "ఎమ్మెస్పీ",
+     "type": "Scheme",
+     "english_name": "MSP"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Colleges"
+    },
+    {
+     "name": "బడి",
+     "type": "Place",
+     "english_name": "School"
+    },
+    {
+     "name": "వాలంటీర్లు",
+     "type": "Person",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "గ్రామ సచివాలయం",
+     "type": "Organization",
+     "english_name": "Village Secretariat"
+    },
+    {
+     "name": "సంపద సృష్టి",
+     "type": "Scheme",
+     "english_name": "Wealth Creation"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "సీ పోర్టులు",
+     "type": "Organization",
+     "english_name": "Sea Ports"
+    },
+    {
+     "name": "మారిటైమ్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "Maritime Corporation"
+    }
+   ],
+   "relations": []
+  },
+  "d4b9e3930522473979e68e55b6374f9f12053610": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్‌ స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "శాండ్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పరువు నష్టం దావా వేస్తున్నట్లు ప్రకటించారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "సెకీ",
+     "evidence": "నాడు సెకీతో ప్రభుత్వం చేసుకున్న ఒప్పందంపై అదే పనిగా ఆరోపణలు, విమర్శలు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "పరువు నష్టం దావా వేస్తున్నట్లు ప్రకటించారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "పరువు నష్టం దావా వేస్తున్నట్లు ప్రకటించారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఎమ్మెల్యేలకు ఇంత, చంద్రబాబుకు ఇంత అని ఒక మాఫియా సామ్రాజ్యం నడుస్తోంది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "పరువు నష్టం దావా వేస్తున్నట్లు ప్రకటించారు",
+     "evidence": "పరువు నష్టం దావా వేస్తున్నట్లు ప్రకటించారు."
+    }
+   ]
+  },
+  "24ed3981e600ed8b2ebc41bdc474fb5cb46a31ec": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మూడు కొత్త సీ పోర్టులు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సపరేట్‌గా మారిటైమ్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీశైలం కట్ట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "17 కొత్త మెడికల్‌ కాలేజీలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "5 మెడికల్‌ కాలేజీలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "3 మెడికల్‌ కాలేజీలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సంపద సృష్టి",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "16e779b18d57d3840feb550f8bcafd717b2cbf8e": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CBSE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TOEFL",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Nadu-Nedu",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "Digital teaching",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "IFP panels",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tabs",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Subject teacher concept",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amma Odi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Arogyasri",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Arogya Asara",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Zero Vacancy Policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Family Doctor Concept",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Village Clinics",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "PHCs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CHCs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Hospitals",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Teaching Hospitals",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Medical Colleges",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Parliament constituency",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఇవన్నీ జరిగింది వైయస్సార్‌సీపీ ప్రభుత్వంలోనే.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Nadu-Nedu",
+     "evidence": "నాడు–నేడుతో స్కూళ్లలో సమూలమార్పులు"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Digital teaching",
+     "evidence": "6వ తరగతి నుంచి క్లాస్‌రూమ్‌ల డిజిటలైజేషన్"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "IFP panels",
+     "evidence": "ఐఎఫ్‌పీ ప్యానళ్లతో డిజిటల్‌ బోధన"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Tabs",
+     "evidence": "8వ తరగతి పిల్లలకు ట్యాబ్‌లు"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Subject teacher concept",
+     "evidence": "సబ్జెక్ట్‌ టీచర్‌ కాన్సెప్ట్"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Amma Odi",
+     "evidence": "అమ్మ ఒడి"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Arogyasri",
+     "evidence": "ఆరోగ్యశ్రీ సేవలు 1000 నుంచి 3,300కు పెంచి రూ.25 లక్షల దాకా"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Arogya Asara",
+     "evidence": "ఆరోగ్య ఆసరా"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Zero Vacancy Policy",
+     "evidence": "జీరో వేకెన్సీ పాలసీ"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Family Doctor Concept",
+     "evidence": "ఫ్యామిలీ డాక్టర్‌ కాన్సెప్ట్‌తో ఇంటి వద్దకే వైద్యం"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Village Clinics",
+     "evidence": "విలేజ్‌ క్లినిక్స్‌ ఏర్పాటైంది"
+    },
+    {
+     "source": "Medical Colleges",
+     "relation": "LOCATED_IN",
+     "target": "Parliament constituency",
+     "evidence": "ప్రతి పార్లమెంటు నియోజకవర్గంలోనూ ఒక మెడికల్‌ కాలేజీ"
+    }
+   ]
+  },
+  "fd2ef9726f5397746166f877a7bc23b835c1cebb": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "సోలార్‌ ఎనర్జీ కార్పొరేషన్‌ ఆఫ్‌ ఇండియా",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "రైతులకు ఉచిత విద్యుత్‌",
+     "type": "Scheme",
+     "english_name": "Free electricity for farmers"
+    },
+    {
+     "name": "ఐఎస్‌టీఎస్‌ మాఫీ",
+     "type": "Scheme",
+     "english_name": "ISTC waiver"
+    },
+    {
+     "name": "రూ.2.49కే తమ మార్జిన్‌సహా విద్యుత్‌ సరఫరా",
+     "type": "Claim",
+     "english_name": "Supply electricity at Rs 2.49 per unit with margin"
+    }
+   ],
+   "relations": []
+  },
+  "124267af10924e342d8e3a00029dbd49b59b1b16": {
+   "entities": [
+    {
+     "name": "లిక్కర్‌ స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "శాండ్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Sand scam"
+    },
+    {
+     "name": "పేకాట క్లబ్‌లు",
+     "type": "Issue",
+     "english_name": "Gambling clubs"
+    },
+    {
+     "name": "మాఫియాలు",
+     "type": "Issue",
+     "english_name": "Mafias"
+    },
+    {
+     "name": "మైనింగ్‌ యాక్టివిటీ",
+     "type": "Issue",
+     "english_name": "Mining activity"
+    },
+    {
+     "name": "పరిశ్రమ",
+     "type": "Issue",
+     "english_name": "Industry"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "MLA"
+    },
+    {
+     "name": "గ్రామస్వరాజ్యం",
+     "type": "Scheme",
+     "english_name": "Gram Swaraj"
+    },
+    {
+     "name": "సచివాలయ వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Secretariat system"
+    },
+    {
+     "name": "వాలంటీర్ల వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Volunteer system"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "జన్మభూమి కమిటీలు",
+     "type": "Organization",
+     "english_name": "Janmabhoomi committees"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "గవర్నమెంట్‌ బడులు",
+     "type": "Organization",
+     "english_name": "Government schools"
+    },
+    {
+     "name": "ఇంగ్లిష్‌ మీడియం",
+     "type": "Issue",
+     "english_name": "English medium"
+    }
+   ],
+   "relations": []
+  },
+  "71060975d27d04e3ef0c57067f0d387c59999bd1": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "డిస్కమ్‌లు",
+     "type": "Organization",
+     "english_name": "DISCOMs"
+    },
+    {
+     "name": "పీఎస్‌ఏ",
+     "type": "Scheme",
+     "english_name": "Power Purchase Agreement"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎల్లో మీడియా ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వ పనితీరు. అమలు కాని పథకాలు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరు నెలల్లో రాష్ట్రం అన్నింటా తిరోగమనం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికల్లో ఏ హామీని అమలు చేయని ప్రభుత్వం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో యథేచ్ఛగా రాజ్యాంగ ఉల్లంఘనలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎక్కడికక్కడ పైస్థాయి నుంచి కింది వరకు దోపిడి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అతి తక్కువ ధరకే నాడు సెకీతో విద్యుత్‌ ఒప్పందం యూనిట్‌ రూ.2.49. పైగా ఐఎస్‌టీఎస్‌ పూర్తిగా మాఫీ దాని వల్ల ఏటా రూ.4400 కోట్లు ప్రభుత్వానికి ఆదా అలా 25 ఏళ్లలో దాదాపు రూ.1.10 లక్షల కోట్లు ఆదా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు హయాంలో ఎక్కువ రేట్లకు ఒప్పందాలు అన్ని పీపీఏల్లోనూ అదే తంతు. సెకీతోనూ ఎక్కవ ధరకే వాటి వల్ల ప్రభుత్వానికి అంతులేని తీరని నష్టం 25 ఏళ్లలో ఏకంగా రూ.87,500 కోట్ల సంపద ఆవిరి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "క్యాబినెట్‌లో చర్చించాం. కమిటీ కూడా వేశాం అన్ని కోణాల్లో కమిటీ అధ్యయనం. నివేదిక మళ్లీ క్యాబినెట్లో చర్చ. ఆ తర్వాతే తుది నిర్ణయం అనంతరం కేంద్ర ప్రభుత్వ సంస్థ సెకీతో పీఎస్‌ఏ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో మీడియా ఈనాడు, ఆంధ్రజ్యోతిలో వికృతరాతలు పూర్తిగా టీడీపీ కోసమే పని చేస్తున్న ఆ రెండు పత్రికలు వాస్తవాలు మరుగున పర్చి, పచ్చి అబద్ధాలతో కథనాలు నా వ్యక్తిత్వ హననమే వారి ఉద్దేశం. అందుకే అసత్యాలు రోజూ అదే పనిగా ఆరోపణలు, విమర్శలు, నిందలు అందుకే క్షమాపణ చెప్పాలని కోరుతూ 48 గంటల టైమ్‌ వారు ఆ పని చేయకపోతే, పరువు నష్టం దావా వేస్తాను రూ.100 కోట్లకు రెండు పత్రికలపై డిఫమేషన్‌ వేస్తాను",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ ఒప్పందంపై ఆరోపణలు, విమర్శలు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "7607e5b5da7c0bc4c152f99515e9f1724e765126": {
+   "entities": [
+    {
+     "name": "అదానీ",
+     "type": "Person",
+     "english_name": "Adani"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "తెలుగుదేశం",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    }
+   ],
+   "relations": []
+  },
+  "5053698716e21b4c91464bd7659baf4401d713e5": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "జగన్‌ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Jagan's Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ఏపీఈఆర్‌సీ",
+     "type": "Organization",
+     "english_name": "APERC"
+    },
+    {
+     "name": "మినిస్ట్రీ ఆఫ్‌ పవర్‌",
+     "type": "Organization",
+     "english_name": "Ministry of Power"
+    },
+    {
+     "name": "పవర్‌ సేల్‌ అగ్రిమెంట్‌ (పీఎస్‌ఏ)",
+     "type": "Scheme",
+     "english_name": "Power Sale Agreement (PSA)"
+    },
+    {
+     "name": "విండ్‌ పీపీఏలు",
+     "type": "Scheme",
+     "english_name": "Wind PPAs"
+    },
+    {
+     "name": "సోలార్‌ పీపీఏలు",
+     "type": "Scheme",
+     "english_name": "Solar PPAs"
+    },
+    {
+     "name": "ఐఎస్‌టీఎస్‌ చార్జెస్‌",
+     "type": "Scheme",
+     "english_name": "ISTS charges"
+    }
+   ],
+   "relations": []
+  },
+  "87b4f6501ad4da70041a0eab0a957d6c2c6a82d3": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఏపీఈఆర్‌సీ",
+     "type": "Organization",
+     "english_name": "APERC"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "సోలార్‌ పీపీఏలు",
+     "type": "Issue",
+     "english_name": "Solar PPAs"
+    },
+    {
+     "name": "చంద్రబాబు ఒప్పందం చేసుకున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు పెట్టిన దానిలో సగం రేటుకు కొనుగోలు చేస్తే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చీపెస్ట్ రేట్‌కి పవర్‌ సరఫరా చేస్తామని కేంద్ర ప్రభుత్వం నాకు లేఖ రాస్తే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేను స్పందించకపోయి ఉంటే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు వల్ల సంపద ఆవిరి",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఒప్పందం చేసుకున్నారు",
+     "evidence": "చంద్రబాబు ఒప్పందం చేసుకున్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు పెట్టిన దానిలో సగం రేటుకు కొనుగోలు చేస్తే",
+     "evidence": "చంద్రబాబు పెట్టిన దానిలో సగం రేటుకు కొనుగోలు చేస్తే"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నేను స్పందించకపోయి ఉంటే",
+     "evidence": "నేను స్పందించకపోయి ఉంటే"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు వల్ల సంపద ఆవిరి",
+     "evidence": "చంద్రబాబు వల్ల సంపద ఆవిరి"
+    }
+   ]
+  },
+  "a27e98524d8d3e3f61e0d5b8f726067592117af1": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Jyoti",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TV5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State government"
+    },
+    {
+     "name": "డిస్కమ్‌లు",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "అమెరికా",
+     "type": "Place",
+     "english_name": "America"
+    },
+    {
+     "name": "మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇది చారిత్రాత్మక నిర్ణయం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సోలార్‌ మాన్యుఫాక్చరింగ్‌ దేశంలోనే ఉత్పత్తి చేయడానికి కేంద్రం ఆత్మ నిర్భర్‌ను ప్రమోట్‌ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ, రాష్ట్ర ప్రభుత్వం, డిస్కమ్‌ల మధ్య ఒప్పందం. మధ్యలో దళారి లేడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమెరికాలో నమోదైన డాక్యుమెంట్‌లో ఎక్కడా నా పేరు లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Power sector",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "Eenadu",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5 ఈ విషయాలు చెప్పకపోవడం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "Andhra Jyoti",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5 ఈ విషయాలు చెప్పకపోవడం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "TV5",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5 ఈ విషయాలు చెప్పకపోవడం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49.",
+     "evidence": "మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇది చారిత్రాత్మక నిర్ణయం.",
+     "evidence": "ఇది చారిత్రాత్మక నిర్ణయం."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "సోలార్‌ మాన్యుఫాక్చరింగ్‌ దేశంలోనే ఉత్పత్తి చేయడానికి కేంద్రం ఆత్మ నిర్భర్‌ను ప్రమోట్‌ చేశారు.",
+     "evidence": "సోలార్‌ మాన్యుఫాక్చరింగ్‌ దేశంలోనే ఉత్పత్తి చేయడానికి కేంద్రం ఆత్మ నిర్భర్‌ను ప్రమోట్‌ చేశారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "సెకీ, రాష్ట్ర ప్రభుత్వం, డిస్కమ్‌ల మధ్య ఒప్పందం. మధ్యలో దళారి లేడు.",
+     "evidence": "సెకీ, రాష్ట్ర ప్రభుత్వం, డిస్కమ్‌ల మధ్య ఒప్పందం. మధ్యలో దళారి లేడు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "అమెరికాలో నమోదైన డాక్యుమెంట్‌లో ఎక్కడా నా పేరు లేదు.",
+     "evidence": "అమెరికాలో నమోదైన డాక్యుమెంట్‌లో ఎక్కడా నా పేరు లేదు."
+    },
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "గుజరాత్‌లో ఈ ఏడాది మార్చి 15న టెండర్లు పిలిచింది."
+    }
+   ]
+  },
+  "c81400d70f54d7cc518797c6bf2aeeef6db3a002": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothy"
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎల్లో బ్యాచ్‌",
+     "type": "Organization",
+     "english_name": "Yellow Batch"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "గుజరాత్‌",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "రాజస్తాన్‌",
+     "type": "Place",
+     "english_name": "Rajasthan"
+    },
+    {
+     "name": "మధ్య గుజరాత్",
+     "type": "Place",
+     "english_name": "Central Gujarat"
+    },
+    {
+     "name": "దక్షిణ గుజరాత్",
+     "type": "Place",
+     "english_name": "South Gujarat"
+    },
+    {
+     "name": "ఉత్తర గుజరాత్",
+     "type": "Place",
+     "english_name": "North Gujarat"
+    },
+    {
+     "name": "డిస్కంలు",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "కోవిడ్‌",
+     "type": "Issue",
+     "english_name": "COVID-19"
+    },
+    {
+     "name": "ఈనాడు గుజరాత్‌ గురించి రిఫరెన్స్‌ రాస్తాడు. ఆ రాసేటప్పుడు ఆయన గుజరాత్‌ టెండర్లకు రూ.1.99 అని చెప్పిన చోట ఎక్కడ జనరేట్‌ చేస్తున్నారు?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇది వక్రీకరించి రాయడం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇది అబద్ధం కాదా? వక్రీకరణ కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మరి ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5 ఈ విషయాలు చెప్పకపోవడం, దుర్మార్గంగా ఒక సెక్షన్‌ ఆఫ్‌ మీడియా, కావాలనే చేయడం చంద్రబాబు, ఆయన కంపెనీ ఎల్లో బ్యాచ్‌ చేయడం ధర్మమేనా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మన దగ్గర టెండర్లు మనం పిలిచాం. మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "మరి ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5 ఈ విషయాలు చెప్పకపోవడం, దుర్మార్గంగా ఒక సెక్షన్‌ ఆఫ్‌ మీడియా, కావాలనే చేయడం చంద్రబాబు, ఆయన కంపెనీ ఎల్లో బ్యాచ్‌ చేయడం ధర్మమేనా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "మరి ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5 ఈ విషయాలు చెప్పకపోవడం, దుర్మార్గంగా ఒక సెక్షన్‌ ఆఫ్‌ మీడియా, కావాలనే చేయడం చంద్రబాబు, ఆయన కంపెనీ ఎల్లో బ్యాచ్‌ చేయడం ధర్మమేనా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీవీ5",
+     "evidence": "మరి ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5 ఈ విషయాలు చెప్పకపోవడం, దుర్మార్గంగా ఒక సెక్షన్‌ ఆఫ్‌ మీడియా, కావాలనే చేయడం చంద్రబాబు, ఆయన కంపెనీ ఎల్లో బ్యాచ్‌ చేయడం ధర్మమేనా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మన దగ్గర టెండర్లు మనం పిలిచాం. మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49.",
+     "evidence": "మన దగ్గర టెండర్లు మనం పిలిచాం. మన లోయస్ట్‌ డిస్కవర్డ్‌ రేటు రూ.2.49."
+    }
+   ]
+  },
+  "e00433f291d991b366619d0a84c7c148e2703ff6": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సౌర విద్యుత్‌ సరఫరా",
+     "type": "Scheme",
+     "english_name": "Solar Power Supply"
+    },
+    {
+     "name": "9 వేల మెగావాట్ల సౌర విద్యుత్‌ సరఫరాకు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఐఎస్‌టీఎస్‌ ఛార్జీలు మాఫీ చేసి రూ.2.49కే యూనిట్‌ చొప్పున విద్యుత్‌ సరఫరా చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.2.49 అనేది చీపెస్ట్‌ ప్రైజ్‌ ఇన్‌ ది హిస్టరీ ఆఫ్‌ ఆంధ్రప్రదేశ్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ విద్యుత్‌ రంగ చరిత్రలో ఇదే అతి తక్కువ యూనిట్‌ ధర",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "5d436902034e894c0bd7db7962f6784a237235ef": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chhattisgarh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Atma Nirbhar project",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Solar power",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Wind power",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో గ్యాంగ్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యుత్‌ ధర",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ట్రాన్స్‌మిషన్‌ కాస్ట్‌",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Gujarat",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "గుజరాత్‌ లో రూ.1.99కే విద్యుత్‌ వస్తుంటే"
+    },
+    {
+     "source": "Rajasthan",
+     "relation": "LOCATED_IN",
+     "target": "Rajasthan",
+     "evidence": "గుజరాత్‌లో కానీ, రాజస్థాన్‌లో కానీ"
+    }
+   ]
+  },
+  "81fc3b6c4c3a796a78e6527c357700cbd7ef86f9": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఆత్మ నిర్భర్‌ ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "Atma Nirbhar Project"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "Chhattisgarh",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "రూ.2.49కే విద్యుత్‌ దొరకడం",
+     "type": "Claim",
+     "english_name": "Getting electricity at Rs 2.49"
+    },
+    {
+     "name": "ఐఎస్‌టీఎస్‌ ఛార్జీల మాఫీ",
+     "type": "Claim",
+     "english_name": "ISTC charges waiver"
+    },
+    {
+     "name": "స్పెషల్‌ ఇన్సెంటివ్‌ విత్‌ ఇంటర్‌ స్టేట్‌ ట్రాన్స్‌ మిషన్‌ ఛార్జెస్‌",
+     "type": "Scheme",
+     "english_name": "Special Incentive with Inter State Transmission Charges"
+    },
+    {
+     "name": "ఐఎస్‌టీఎస్‌ ఛార్జీలు",
+     "type": "Claim",
+     "english_name": "ISTC charges"
+    },
+    {
+     "name": "రూ.1.98",
+     "type": "Claim",
+     "english_name": "Rs 1.98"
+    },
+    {
+     "name": "రూ.4 లక్షలు పర్‌ మెగావాట్‌ పర్‌ మంత్‌",
+     "type": "Claim",
+     "english_name": "Rs 4 lakh per MW per month"
+    },
+    {
+     "name": "రూ.50 లక్షలు పర్‌ ఇయర్, పర్‌ మెగావాట్‌",
+     "type": "Claim",
+     "english_name": "Rs 50 lakh per year per MW"
+    },
+    {
+     "name": "విద్యుత్‌ ధర కూడా 12 పైసలు తగ్గింది",
+     "type": "Claim",
+     "english_name": "Electricity price reduced by 12 paise"
+    },
+    {
+     "name": "నేను తక్కువ రేటుకు తీసుకొస్తే అభినందించాల్సింది పోయి, నాకు శాలువా కప్పాల్సింది పోయి, నన్ను పొగడాల్సింది పోయి ఏందీ మాటలు?",
+     "type": "Claim",
+     "english_name": "If I take at low rate, should be appreciated..."
+    }
+   ],
+   "relations": []
+  },
+  "953e212ec5471bbd41c0b783a78f213775fd1074": {
+   "entities": [
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Aasara"
+    },
+    {
+     "name": "ఈ–క్రాప్‌",
+     "type": "Scheme",
+     "english_name": "e‑Crop"
+    },
+    {
+     "name": "ఆర్బీకే వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "RBK System"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "వాలంటీర్లకు మోసం",
+     "type": "Issue",
+     "english_name": "Volunteer Fraud"
+    },
+    {
+     "name": "గ్రామ సచివాలయం",
+     "type": "Organization",
+     "english_name": "Village Secretariat"
+    },
+    {
+     "name": "104",
+     "type": "Organization",
+     "english_name": "104"
+    },
+    {
+     "name": "108",
+     "type": "Organization",
+     "english_name": "108"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ సేవలు 1000 నుంచి 3,300కు పెంచి రూ.25 లక్షల దాకా పేదవాడికి వైద్యం ఎప్పుడు అందుబాటులోకి వచ్చిందంటే అది వైయస్సార్‌ సీపీ ప్రభుత్వంలోనే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ–క్రాప్‌ ద్వారా పారదర్శకంగా ఉచిత పంటల బీమా.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రైతు కూడా ఎమ్మెస్పీ ప్రకారం రావాల్సిన రేటు బస్తాకు రూ.1720 అయితే, రూ.300 నుంచి రూ.400 వరకు తక్కువకు అమ్ముకోవాల్సిన పరిస్థితి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాలంటీర్లను మోసం చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అన్ని వ్యవస్థలూ తిరోగమనమే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ బిల్లులు నెట్‌వర్క్‌ ఆస్పత్రులకు ఇవ్వాల్సినవి మార్చి నుంచి పెండింగ్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా ఊసే లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "104, 108 పడకేశాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యాదీవెన బకాయిలు ఉన్నాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన బకాయిలు ఉన్నాయి.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్‌ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆరోగ్యశ్రీ",
+     "evidence": "ఆరోగ్యశ్రీ సేవలు 1000 నుంచి 3,300కు పెంచి రూ.25 లక్షల దాకా పేదవాడికి వైద్యం ఎప్పుడు అందుబాటులోకి వచ్చిందంటే అది వైయస్సార్‌ సీపీ ప్రభుత్వంలోనే."
+    },
+    {
+     "source": "వైయస్సార్‌ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆరోగ్య ఆసరా",
+     "evidence": "ఆరోగ్య ఆసరా ఎప్పుడొచ్చిందంటే అది వైయస్సార్‌ సీపీ ప్రభుత్వంలోనే."
+    },
+    {
+     "source": "వైయస్సార్‌ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఈ–క్రాప్‌",
+     "evidence": "ఈ–క్రాప్‌ వచ్చింది వైయస్సార్‌సీపీ ప్రభుత్వంలోనే."
+    },
+    {
+     "source": "వైయస్సార్‌ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆర్బీకే వ్యవస్థ",
+     "evidence": "ఒక ఆర్బీకే వ్యవస్థ వచ్చింది వైయస్సార్‌ సీపీ ప్రభుత్వంలోనే."
+    }
+   ]
+  },
+  "34a831606205d61b530478b79fd5eb64195733c1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "డిస్కంలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఉచిత కరెంటు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీశైలం కట్టాలంటే రూ.600 కోట్లో రూ.900 కోట్లో అయి ఉండొచ్చు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈరోజు అదే శ్రీశైలం కట్టాలంటే రూ.50 వేల కోట్లకు తక్కువ కాదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "17 కొత్త మెడికల్‌ కాలేజీలు కడుతున్నాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "5 మెడికల్‌ కాలేజీలు మా హయాంలోనే పూర్తి అయ్యాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మరో 3 మెడికల్‌ కాలేజీలకు సీట్లు కూడా అలాట్‌ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఒక సీ పోర్టు వస్తే దాని చుట్టు పక్కల ప్రాంతాలన్నీ అభివృద్ధి చెందితే, దాని వల్ల జీఎస్డీపీ పెరుగుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీలు వస్తే వైద్యం ఖర్చులు తగ్గుతాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతన్నలకు 18 లక్షల పంపుసెట్‌ కనెక్షన్లు ఉన్నాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2004 నుంచి ఉచిత కరెంటు ఇచ్చే కార్యక్రమానికి శ్రీకారం జరిగింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం రూ.9వేల కోట్లకు పైగా వ్యయం చేస్తోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులకు ఉచిత కరెంటు అన్నది ఒక డ్రీమ్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా దాదాపు రూ.45 వేలు కరెంటు రూపంలో పెట్టుబడి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ గ్రీన్‌ ఎనర్జీ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "AP Green Energy Corporation"
+    },
+    {
+     "name": "NTPC",
+     "type": "Organization",
+     "english_name": "NTPC"
+    },
+    {
+     "name": "పగటిపూటే 9 గంటల పాటు ఉచితంగా కరెంటు ఇచ్చే కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "Free 9‑hour daytime electricity for farmers"
+    },
+    {
+     "name": "విద్యుత్‌ రంగం కుదేలైంది",
+     "type": "Issue",
+     "english_name": "Power sector collapse"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉచిత కరెంటు",
+     "evidence": "2004 నుంచి ఉచిత కరెంటు ఇచ్చే కార్యక్రమానికి శ్రీకారం జరిగింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెడికల్‌ కాలేజీలు",
+     "evidence": "17 కొత్త మెడికల్‌ కాలేజీలు కడుతున్నాం."
+    }
+   ]
+  }
+ }
+}

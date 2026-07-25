@@ -1,0 +1,203 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ddae1ac6bc4c2b297ec51b6e4eb537fe166beb7d": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothy"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "నాలుగు గంటల క్షమాపణ అల్టిమేటం",
+     "type": "Claim",
+     "english_name": "48 గంటల్లోగా క్షమాపణ చెప్పాలి ఈనాడు, ఆంధ్రజ్యోతిలకు వైఎస్ జగన్ అల్టిమేటం లేదంటే ఒక్కో పత్రికపై రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా"
+    },
+    {
+     "name": "పోర్టులు మరియు మెడికల్ కాలేజీల అభివృద్ధి",
+     "type": "Claim",
+     "english_name": "మూడు కొత్త పోర్టులు, 17 కొత్త మెడికల్ కాలేజీల నిర్మాణానికి శ్రీకారం చుట్టాం. వీటి వల్ల జీఎన్డీపీ పెరుగుతుంది. ఉద్యోగాలొస్తాయి. అభివృద్ధి కనిపిస్తుంది. దీనినే సంపద సృష్టి అంటారు."
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్రెడ్డి"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "నాలుగు గంటల క్షమాపణ అల్టిమేటం",
+     "evidence": "48 గంటల్లోగా క్షమాపణ చెప్పాలి ఈనాడు, ఆంధ్రజ్యోతిలకు వైఎస్ జగన్ అల్టిమేటం లేదంటే ఒక్కో పత్రికపై రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "లేదంటే ఒక్కో పత్రికపై రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "లేదంటే ఒక్కో పత్రికపై రూ.100 కోట్లకు పరువు నష్టం దావా వేస్తా"
+    }
+   ]
+  },
+  "67942f373471b7f7b2c6424e742e5b1b27a52e03": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "సౌర విద్యుత్ కొనుగోలు",
+     "type": "Scheme",
+     "english_name": "Solar Power Purchase"
+    },
+    {
+     "name": "రూ.1.10 లక్షల కోట్లు ఆదా",
+     "type": "Claim",
+     "english_name": "Saved Rs 1.10 lakh crore"
+    },
+    {
+     "name": "రూ.87,500 కోట్లు ఆవిరి",
+     "type": "Claim",
+     "english_name": "Wasted Rs 87,500 crore"
+    },
+    {
+     "name": "17 మెడికల్ కాలేజీలు, రూ.13 వేల కోట్లతో మూడు పోర్టుల నిర్మాణం",
+     "type": "Claim",
+     "english_name": "17 medical colleges and three ports costing Rs 13,000 crore"
+    },
+    {
+     "name": "బడ్జెట్ రూ.6.46 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": "Budget Rs 6.46 lakh crore"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ రంగ సంస్థ సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "డిస్కంలు",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "అమెరికా కంపెనీ",
+     "type": "Organization",
+     "english_name": "American Company"
+    },
+    {
+     "name": "అమెరికా అధ్యక్షుడు బైడెన్",
+     "type": "Person",
+     "english_name": "US President Biden"
+    },
+    {
+     "name": "మాజీ సీఎం వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Former CM Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును సంపద సృష్టికర్త అంటారా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.1.10 లక్షల కోట్లు ఆదా",
+     "evidence": "రూ.1.10 లక్షల కోట్లు ఆదా చేశాం.. ఇది సంపద సృష్టి కాదా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సౌర విద్యుత్ కొనుగోలు",
+     "evidence": "సెకీతో కారుచౌకగా యూనిట్ రూ.2.49కే కొనుగోలు చేయడం ద్వారా రూ.1.10 లక్షల కోట్లు ఆదా చేశాం.."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.87,500 కోట్లు ఆవిరి",
+     "evidence": "రూ.87,500 కోట్లు ఆవిరి చేసిన చంద్రబాబును సంపద సృష్టికర్త అంటారా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "17 మెడికల్ కాలేజీలు, రూ.13 వేల కోట్లతో మూడు పోర్టుల నిర్మాణం",
+     "evidence": "- 17 మెడికల్ మెడికల్ కాలేజీలు, రూ.13 వేల కోట్లతో మూడు పోర్టుల నిర్మాణం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "బడ్జెట్ రూ.6.46 లక్షల కోట్లు",
+     "evidence": "బడ్జెట్లో రూ.6.46 లక్షల కోట్లు అని చంద్రబాబే బడ్జెట్ సాక్షిగా చెప్పారు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వంపై వైఎస్సార్సీపీ అధినేత వైఎస్ జగన్ ఆగ్రహం"
+    }
+   ]
+  }
+ }
+}

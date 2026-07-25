@@ -1,0 +1,193 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5fac9cf0ebcd583f578c16766001f79f94ee8dd0": {
+   "entities": [
+    {
+     "name": "Panchadarla group of temples",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Saravara akhyapura",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Yalamanchili Chalukhyas",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vengi Chalukhyans",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AD. Mines and Geology, Anakapalli",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pollution board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "mining site",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Protected monument",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ROTTA PHALGUNA RAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Assistant Director (Tech)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Assistant Director, Mines & Geology, AKP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: The vibrations and Mining activities at this hill may cause to damage the five water channels of Protected Monument, Panchadarla group of temples.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Issue: Damage to Panchadarla group of temples due to mining activities",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ROTTA PHALGUNA RAO",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: The vibrations and Mining activities at this hill may cause to damage the five water channels of Protected Monument, Panchadarla group of temples.",
+     "evidence": "The vibrations and Mining activities at this hill may cause to damage the five water channels of Protected Monument, Panchadarla group of temples."
+    },
+    {
+     "source": "Claim: The vibrations and Mining activities at this hill may cause to damage the five water channels of Protected Monument, Panchadarla group of temples.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Issue: Damage to Panchadarla group of temples due to mining activities",
+     "evidence": "The vibrations and Mining activities at this hill may cause to damage the five water channels of Protected Monument, Panchadarla group of temples."
+    }
+   ]
+  },
+  "ea49a69375bee5222db369cd5fa5eef5e78b42b5": {
+   "entities": [
+    {
+     "name": "R. Phalguna Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Assistant Director(Tech.)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "The District Collector and District Magistrate",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Archaeology & Museums dept., Visakhapatnam",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Anakapalli District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Panchadarla village",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rambill Mandal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Yelamanchili",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Phanigiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pollution control board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Ancient and Historical Monuments and Archaeological Sites and Remains Act 1960",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms.No.824, Education (L) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Group of Temples - Dharmalingeswarswamy, Radhamadava Swamy and Visweswaraswamy varla temples",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Excessive mining activities",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Structural threat to protected sites",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Panchadarla village",
+     "relation": "LOCATED_IN",
+     "target": "Anakapalli District",
+     "evidence": "Panchadarla village, Rambill Mandal, Anakapalli District"
+    },
+    {
+     "source": "Phanigiri",
+     "relation": "LOCATED_IN",
+     "target": "Panchadarla village",
+     "evidence": "At the foot of the hill Phanigiri, a water spring emerges"
+    },
+    {
+     "source": "Yelamanchili",
+     "relation": "LOCATED_IN",
+     "target": "Panchadarla village",
+     "evidence": "The village Panchadarla is situated at a distance of about 10km North – East of Yelamanchili."
+    },
+    {
+     "source": "Pollution control board",
+     "relation": "LOCATED_IN",
+     "target": "Anakapalli District",
+     "evidence": "Officers of Pollution control board"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "13f311072bbe0d0d54007f56c809e6ebeebc3c42": {
+   "entities": [
+    {
+     "name": "speaker",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jaganmohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Welfare programs started by Jaganmohan Reddy will not stop",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Better welfare programs will be given and people will be taken forward",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: Welfare programs started by Jaganmohan Reddy will not stop",
+     "evidence": "జగన్మోహన్ రెడ్డి పెట్టిన సమక్షేమ కార్యక్రమాలు ఆగిపోవు."
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim: Better welfare programs will be given and people will be taken forward",
+     "evidence": "ఇంకా మెరుగైన సమక్షేమ కార్యక్రమాలు ఇచ్చి మిమ్మల్ని ముందుకు తీసుకుపోతామని హామీ ఇస్తున్నా."
+    }
+   ]
+  }
+ }
+}

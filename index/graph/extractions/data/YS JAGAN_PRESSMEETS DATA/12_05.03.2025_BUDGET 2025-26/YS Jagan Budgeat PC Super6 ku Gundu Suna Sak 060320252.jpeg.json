@@ -1,0 +1,439 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "53ccbaeaa1c9f57a3bfa783bb7f3d5bc3e0fb0fd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈల రంగం",
+     "type": "Organization",
+     "english_name": "MSME sector"
+    },
+    {
+     "name": "ఆప్కాస్",
+     "type": "Organization",
+     "english_name": "APPSC"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment benefit"
+    },
+    {
+     "name": "గ్రామ, వార్డు, సచివాలయాలు",
+     "type": "Place",
+     "english_name": "Village, ward, secretariat"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈల రంగంలో 2024-25కి సంబంధించి 27,07,752 ఉద్యోగాలు ఇచ్చేశామని చెప్పారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిరుద్యోగ భృతికి బడ్జెట్లో ఎలాంటి కేటాయింపులు జరపకుండా లక్షల ఉద్యోగాలు ఇచ్చేశామని చెప్పడం పచ్చి మోసం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు నిరుద్యోగులకు గతేడాది రూ.36 వేలు చొప్పున ఎగ్గొట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ఏడాది కూడా మరో రూ.36 వేలు చొప్పున ఎగనామం పెడుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a001d6d88063ec7f07fd6ad895722e0d90068d85": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "పెన్షన్",
+     "type": "Scheme",
+     "english_name": "Pension"
+    },
+    {
+     "name": "రైతు రుణాలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పెన్షన్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఇప్పటికే ప్రతీ రైతుకు రూ.20 వేలు బాకీ పడ్డారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2014 ఎన్నికల్లో రూ.87,612 కోట్ల వ్యవసాయ రుణాలు మాఫీ చేస్తానని, బ్యాంకుల్లో తనఖా పెట్టిన బంగారాన్ని విడిపించి ఇస్తానని హామీ ఇచ్చి దగా చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం పథకం కింద 3 సిలెండర్లు ఇవ్వాలంటే ఏడాదికి రూ.4 వేల కోట్లు అవసరం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "50 ఏళ్లు నిండిన ఎస్సీ, ఎస్టీ, బీసీ, మైనార్టీ మహిళలకు పింఛన్!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా ప్రభుత్వం అధికారంలో ఉన్నప్పుడు, ఎన్నికల కోడ్ నాటికి 66,34,372 పెన్షన్లు ఉంటే ఈరోజు చంద్రబాబు పాలనలో ఏకంగా 62,10,969కి తగ్గిపోయాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ఏడాది బడ్జెట్లో రూ.27 వేల కోట్లు మాత్రమే కేటాయించి, రూ.5 వేల కోట్లు కోత వేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇప్పటికే ప్రతీ రైతుకు రూ.20 వేలు బాకీ పడ్డారు.",
+     "evidence": "ఇప్పటికే ప్రతీ రైతుకు రూ.20 వేలు బాకీ పడ్డారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2014 ఎన్నికల్లో రూ.87,612 కోట్ల వ్యవసాయ రుణాలు మాఫీ చేస్తానని, బ్యాంకుల్లో తనఖా పెట్టిన బంగారాన్ని విడిపించి ఇస్తానని హామీ ఇచ్చి దగా చేశారు.",
+     "evidence": "2014 ఎన్నికల్లో రూ.87,612 కోట్ల వ్యవసాయ రుణాలు మాఫీ చేస్తానని, బ్యాంకుల్లో తనఖా పెట్టిన బంగారాన్ని విడిపించి ఇస్తానని హామీ ఇచ్చి దగా చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "దీపం పథకం కింద 3 సిలెండర్లు ఇవ్వాలంటే ఏడాదికి రూ.4 వేల కోట్లు అవసరం.",
+     "evidence": "దీపం పథకం కింద 3 సిలెండర్లు ఇవ్వాలంటే ఏడాదికి రూ.4 వేల కోట్లు అవసరం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "50 ఏళ్లు నిండిన ఎస్సీ, ఎస్టీ, బీసీ, మైనార్టీ మహిళలకు పింఛన్!",
+     "evidence": "50 ఏళ్లు నిండిన ఎస్సీ, ఎస్టీ, బీసీ, మైనార్టీ మహిళలకు పింఛన్!"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మా ప్రభుత్వం అధికారంలో ఉన్నప్పుడు, ఎన్నికల కోడ్ నాటికి 66,34,372 పెన్షన్లు ఉంటే ఈరోజు చంద్రబాబు పాలనలో ఏకంగా 62,10,969కి తగ్గిపోయాయి.",
+     "evidence": "మా ప్రభుత్వం అధికారంలో ఉన్నప్పుడు, ఎన్నికల కోడ్ నాటికి 66,34,372 పెన్షన్లు ఉంటే ఈరోజు చంద్రబాబు పాలనలో ఏకంగా 62,10,969కి తగ్గిపోయాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ ఏడాది బడ్జెట్లో రూ.27 వేల కోట్లు మాత్రమే కేటాయించి, రూ.5 వేల కోట్లు కోత వేశారు.",
+     "evidence": "ఈ ఏడాది బడ్జెట్లో రూ.27 వేల కోట్లు మాత్రమే కేటాయించి, రూ.5 వేల కోట్లు కోత వేశారు."
+    }
+   ]
+  },
+  "11478143dc20ef782b59dbcdd92f6218bccbc545": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "పీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "సీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": "CM Kisan"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Anna Datha Sukhibhav"
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 202"
+    }
+   ],
+   "relations": []
+  },
+  "8b568822de6228602bff60bc1ff69afd8f6be11d": {
+   "entities": [
+    {
+     "name": "నిరుద్యోగికి రూ.72వేలు బకాయి పెట్టి మోసం, దగా, వంచన చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యోగాలూ లేవు. ఉన్న ఉద్యోగాలే ఊడబెరుకుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు వాళ్లకు ఏ పథకాలూ ఇవ్వొద్దు.. ఏ పనులూ చేయొద్దు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఉద్యోగాలను కల్పించకపోగా పారిశ్రామికవేత్తలను బెదరగొట్టి పంపిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వానికి చంద్రబాబు కేవలం ధర్మకర్త (కస్టోడియన్) మాత్రమే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇదే పెద్దమనిషి.. ప్రమాణ స్వీకారం చేసినప్పుడు చేసిన ప్రమాణం ఏమిటి? పక్షపాతానికి, రాగద్వేషాలకు అతితంగా పరిపాలన చేస్తానని రాజ్యాంగబద్ధంగా ప్రమాణం చేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇలాంటి వ్యక్తిని ముఖ్యమంత్రి స్థానంలో కొనసాగించడం ధర్మమేనా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు మాటలు, నా మాటలను వింటున్న జడ్జీలు, గవర్నర్ ఆలోచించాలి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇలాంటి వ్యక్తులు ముఖ్యమంత్రిగా ప్రమాణ స్వీకారం చేసి పరిపాలన చేయడం ఏ రాష్ట్రానికైనా శ్రేయస్కరమా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Issue",
+     "english_name": "Unemployment allowance"
+    },
+    {
+     "name": "ఉద్యోగాల కల్పన",
+     "type": "Issue",
+     "english_name": "Job creation"
+    },
+    {
+     "name": "పారిశ్రామికవేత్తలకు బెదిరింపులు",
+     "type": "Issue",
+     "english_name": "Threats to industrialists"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆప్కాస్",
+     "type": "Organization",
+     "english_name": "APCOS"
+    },
+    {
+     "name": "ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": "RTC"
+    },
+    {
+     "name": "లార్జ్ అండ్ మెగా ఇండస్ట్రీస్",
+     "type": "Organization",
+     "english_name": "Large and Mega Industries"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈ",
+     "type": "Organization",
+     "english_name": "MSME"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "గంగాధర నెల్లూరు",
+     "type": "Place",
+     "english_name": "Gangadhara Nellore"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "సజ్జన్ జిందాల్",
+     "type": "Person",
+     "english_name": "Sajjan Jindal"
+    },
+    {
+     "name": "అరవిందో",
+     "type": "Person",
+     "english_name": "Arvind"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ హయాంలో తొలి నాలుగు నెలల్లోనే ఏకంగా 1.30 లక్షల శాశ్వత ఉద్యోగాలను గ్రామ, వార్డు, సచివాలయాల్లో కల్పించాం."
+    },
+    {
+     "source": "గంగాధర నెల్లూరు",
+     "relation": "LOCATED_IN",
+     "target": "చిత్తూరు జిల్లా",
+     "evidence": "చిత్తూరు జిల్లా గంగాధర నెల్లూరులో.."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నిరుద్యోగికి రూ.72వేలు బకాయి పెట్టి మోసం, దగా, వంచన చేశారు.",
+     "evidence": "నిరుద్యోగికి రూ.72వేలు బకాయి పెట్టి మోసం, దగా, వంచన చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉద్యోగాలూ లేవు. ఉన్న ఉద్యోగాలే ఊడబెరుకుతున్నారు.",
+     "evidence": "ఉద్యోగాలూ లేవు. ఉన్న ఉద్యోగాలే ఊడబెరుకుతున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు వాళ్లకు ఏ పథకాలూ ఇవ్వొద్దు.. ఏ పనులూ చేయొద్దు..",
+     "evidence": "చంద్రబాబు వాళ్లకు ఏ పథకాలూ ఇవ్వొద్దు.. ఏ పనులూ చేయొద్దు.."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఉద్యోగాలను కల్పించకపోగా పారిశ్రామికవేత్తలను బెదరగొట్టి పంపిస్తున్నారు.",
+     "evidence": "చంద్రబాబు ఉద్యోగాలను కల్పించకపోగా పారిశ్రామికవేత్తలను బెదరగొట్టి పంపిస్తున్నారు."
+    },
+    {
+     "source": "నిరుద్యోగికి రూ.72వేలు బకాయి పెట్టి మోసం, దగా, వంచన చేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నిరుద్యోగ భృతి",
+     "evidence": "నిరుద్యోగికి రూ.72వేలు బకాయి పెట్టి మోసం, దగా, వంచన చేశారు."
+    },
+    {
+     "source": "ఉద్యోగాలూ లేవు. ఉన్న ఉద్యోగాలే ఊడబెరుకుతున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉద్యోగాల కల్పన",
+     "evidence": "ఉద్యోగాలూ లేవు. ఉన్న ఉద్యోగాలే ఊడబెరుకుతున్నారు."
+    }
+   ]
+  },
+  "f6f2b8a9ca565aca8100f4843df37af82538ba1e": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "గవర్నర్",
+     "type": "Person",
+     "english_name": "Governor"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Issue",
+     "english_name": "Unemployment allowance"
+    },
+    {
+     "name": "ఉద్యోగాలు",
+     "type": "Issue",
+     "english_name": "Jobs"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "యువతకు 20 లక్షల ఉద్యోగాలు ఇస్తామని సూపర్ సిక్స్లో హామీ ఇచ్చారు."
+    },
+    {
+     "source": "సూపర్ సిక్స్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉద్యోగాలు",
+     "evidence": "యువతకు 20 లక్షల ఉద్యోగాలు ఇస్తామని సూపర్ సిక్స్లో హామీ ఇచ్చారు."
+    }
+   ]
+  }
+ }
+}

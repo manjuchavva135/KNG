@@ -1,0 +1,234 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d4387d301f8c84f9b6368f39bcfc14f263fbb7b5": {
+   "entities": [],
+   "relations": []
+  },
+  "7fdbb6131919d67bfc88b1f3561981a551b7954a": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMMC Rules",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Recognized Qualified Persons (RQP)s",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner and Director of Mines & Geology",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bonds",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "debenture trustee",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "40389df2a80272ff9982a8bd1665eb63ce34ffe9": {
+   "entities": [],
+   "relations": []
+  },
+  "48ada21f2898488f8dc1a1245f12ea9825d731a2": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "Bonds issuance",
+     "type": "Scheme",
+     "english_name": "Bonds issuance"
+    },
+    {
+     "name": "DSRA",
+     "type": "Organization",
+     "english_name": "DSRA"
+    },
+    {
+     "name": "The said amounts shall be paid by APMDC out of the proceeds of Bonds issuance",
+     "type": "Claim",
+     "english_name": "The said amounts shall be paid by APMDC out of the proceeds of Bonds issuance"
+    }
+   ],
+   "relations": []
+  },
+  "fa20e0398e42d92dc25adac098c2e72239700dc2": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Mineral Development Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vice Chairman & Managing Director",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PRAVIN KUMAR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary to Government (Mines)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner & Director of Mines & Geology",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "A.P",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ibrahimpatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "NTR District",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Mineral Development Corporation Limited",
+     "relation": "LOCATED_IN",
+     "target": "A.P",
+     "evidence": "Andhra Pradesh Mineral Development Corporation Limited"
+    },
+    {
+     "source": "Finance Department",
+     "relation": "LOCATED_IN",
+     "target": "A.P",
+     "evidence": "Finance Department"
+    }
+   ]
+  },
+  "505d74414004195ae5acc7ca1298011b76fc347d": {
+   "entities": [
+    {
+     "name": "GOVERNMENT OF ANDHRA PRADESH",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "DEPARTMENT OF MINES & GEOLOGY",
+     "type": "Organization",
+     "english_name": "Department of Mines & Geology"
+    },
+    {
+     "name": "VC&MD",
+     "type": "Person",
+     "english_name": "Vice-Chairman & Managing Director"
+    },
+    {
+     "name": "STATE OF ANDHRA PRADESH",
+     "type": "Place",
+     "english_name": "State of Andhra Pradesh"
+    },
+    {
+     "name": "Bonds",
+     "type": "Scheme",
+     "english_name": "Senior, Secured, Rated, Listed, Redeemable and Taxable Non-Convertible Debentures"
+    },
+    {
+     "name": "Government Guarantee",
+     "type": "Scheme",
+     "english_name": "Government Guarantee"
+    },
+    {
+     "name": "Mineral Projects",
+     "type": "Scheme",
+     "english_name": "Mineral Projects"
+    },
+    {
+     "name": "Government have accorded permission to the Department of Mines & Geology, for the grant of quarry leasehold rights and mining rights to APMDC over 436 new minor mineral projects in the State of Andhra Pradesh (“Mineral Projects”), on nomination basis.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government has accorded permission to the VC&MD, APMDC for the proposed issuance of Senior, Secured, Rated, Listed, Redeemable and Taxable Non-Convertible Debentures (“Bonds”) on private placement basis for an amount upto Rs. 9,000 Crs.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government have issued approval for “Providing Government Guarantee for an amount of Rs. 9,000 Crores (Rupees Nine Thousand Crores only)” for the proposed bonds of APMDC.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government hereby accord: Grants to APMDC, quarry leasehold rights and mining rights over 436 new minor mineral projects, on a nomination basis.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Confirms that the grant of the quarry leasehold rights and mining rights over the 436 new minor mineral projects shall not be amended / terminated / modified, etc. under any circumstances in any manner which is prejudicial to the interests of, or in any manner adversely effects the holders of / subscribers to the Bonds.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "GOVERNMENT OF ANDHRA PRADESH",
+     "relation": "LOCATED_IN",
+     "target": "STATE OF ANDHRA PRADESH",
+     "evidence": "in the State of Andhra Pradesh (“Mineral Projects”)"
+    },
+    {
+     "source": "DEPARTMENT OF MINES & GEOLOGY",
+     "relation": "LOCATED_IN",
+     "target": "STATE OF ANDHRA PRADESH",
+     "evidence": "in the State of Andhra Pradesh (“Mineral Projects”)"
+    }
+   ]
+  }
+ }
+}

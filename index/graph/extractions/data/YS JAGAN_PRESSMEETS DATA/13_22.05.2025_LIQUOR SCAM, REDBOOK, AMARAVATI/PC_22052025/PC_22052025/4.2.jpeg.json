@@ -1,0 +1,197 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "47f9787c154b369d166cdfed6c569d508f2002be": {
+   "entities": [
+    {
+     "name": "ఎన్. చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "అధికారి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైకాపా సర్కారు",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తహసీల్దారు కార్యాలయాలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పీ4 కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "స్వర్ణాంధ్ర-2047 విజన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మద్యంపై వచ్చే ఆదాయాన్ని కూడా తాకట్టు పెట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేం అధికారం చేపట్టగానే గత వైకాపా సర్కారు మిగిలించిన రూ.24,811 కోట్ల బకాయిలు చెల్లించాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక ఇబ్బందుల నుంచి బయటపడి హెల్తీ, వెల్తీ, హ్యాపీ రాష్ట్రంగా ఆంధ్రప్రదేశ్ను తీర్చిదిద్దడమే లక్ష్యం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పేదరికం లేని సమాజమే లక్ష్యంగా అట్టడుగున ఉన్న 20% పేదలను 10% సంపన్నులు ఆదుకునేలా పీ4 కార్యక్రమానికి శ్రీకారం చుట్టాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "మద్యంపై వచ్చే ఆదాయాన్ని కూడా తాకట్టు పెట్టారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "మద్యంపై వచ్చే ఆదాయాన్ని కూడా తాకట్టు పెట్టారు."
+    }
+   ]
+  },
+  "d39460cffa60eff908b8ec7cc4a86dfd821bcc2e": {
+   "entities": [
+    {
+     "name": "అరవింద్ పనగడియా",
+     "type": "Person",
+     "english_name": "Arvind Panagadiya"
+    },
+    {
+     "name": "చంద్ర బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రతన్ టాటా",
+     "type": "Person",
+     "english_name": "Ratan Tata"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "రాజమహేంద్రవరం",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "16వ ఆర్థిక సంఘం",
+     "type": "Organization",
+     "english_name": "16th Finance Commission"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ఐఐటీ తిరుపతి",
+     "type": "Organization",
+     "english_name": "IIT Tirupati"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kutami Government"
+    },
+    {
+     "name": "ఆరు మెట్లు",
+     "type": "Scheme",
+     "english_name": "Six Steps"
+    },
+    {
+     "name": "స్వర్ణాంధ్ర 2047",
+     "type": "Scheme",
+     "english_name": "Swarna Andhra 2047"
+    },
+    {
+     "name": "పోలవరం-బనకచర్ల అనుసంధానం",
+     "type": "Scheme",
+     "english_name": "Polavaram-Banakacherla Link"
+    },
+    {
+     "name": "ఐఐటీ తిరుపతి ఇంక్యుబేషన్ సెంటర్",
+     "type": "Scheme",
+     "english_name": "IIT Tirupati Incubation Centre"
+    },
+    {
+     "name": "బుద్ధిస్ట్ సర్క్యూట్",
+     "type": "Scheme",
+     "english_name": "Buddhist Circuit"
+    },
+    {
+     "name": "జాతీయ మ్యూజియం",
+     "type": "Scheme",
+     "english_name": "National"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

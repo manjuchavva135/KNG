@@ -1,0 +1,329 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "868b36f445bc73bfd4808e73212238604ff49369": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "JDU",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "బీహార్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మఖానా బోర్డు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నేషనల్ ఇనిస్టిట్యూట్ ఆఫ్ ఫుడ్ టెక్నాలజీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కోసీ వెస్ట్రన్ కెనాల్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రీన్ ఫీల్డ్ ఎయిర్పోర్టు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మరో ఎయిర్పోర్టు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మరో 4 ఎయిర్పోర్టుల నిర్మాణం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పాట్నా IIT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పోలవరం ఇరిగేషన్ ప్రాజెక్ట్ (PIP)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టును నాశనం చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు వివాదం",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "SUPERSIX PROMISES"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలవరం ప్రాజెక్టును నాశనం చేశారు",
+     "evidence": "ఆయన సాధించకపోగా ఉన్న పోలవరం ప్రాజెక్టును నాశనం చేశారు."
+    },
+    {
+     "source": "పోలవరం ఇరిగేషన్ ప్రాజెక్ట్ (PIP)",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "Andhra Pradesh (AP)"
+    },
+    {
+     "source": "పాట్నా IIT",
+     "relation": "LOCATED_IN",
+     "target": "బీహార్",
+     "evidence": "పాట్నా IIT"
+    },
+    {
+     "source": "మఖానా బోర్డు",
+     "relation": "LOCATED_IN",
+     "target": "బీహార్",
+     "evidence": "మఖానా బోర్డు"
+    },
+    {
+     "source": "నేషనల్ ఇనిస్టిట్యూట్ ఆఫ్ ఫుడ్ టెక్నాలజీ",
+     "relation": "LOCATED_IN",
+     "target": "బీహార్",
+     "evidence": "నేషనల్ ఇనిస్టిట్యూట్ ఆఫ్ ఫుడ్ టెక్నాలజీ"
+    },
+    {
+     "source": "కోసీ వెస్ట్రన్ కెనాల్",
+     "relation": "LOCATED_IN",
+     "target": "బీహార్",
+     "evidence": "కోసీ వెస్ట్రన్ కెనాల్"
+    },
+    {
+     "source": "గ్రీన్ ఫీల్డ్ ఎయిర్పోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "బీహార్",
+     "evidence": "గ్రీన్ ఫీల్డ్ ఎయిర్పోర్టు"
+    },
+    {
+     "source": "మరో ఎయిర్పోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "బీహార్",
+     "evidence": "మరో ఎయిర్పోర్టు"
+    },
+    {
+     "source": "మరో 4 ఎయిర్పోర్టుల నిర్మాణం",
+     "relation": "LOCATED_IN",
+     "target": "బీహార్",
+     "evidence": "మరో 4 ఎయిర్పోర్టుల నిర్మాణం"
+    },
+    {
+     "source": "పోలవరం ప్రాజెక్టును నాశనం చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పోలవరం ప్రాజెక్టు వివాదం",
+     "evidence": "పోలవరం ప్రాజెక్టును నాశనం చేశారు."
+    }
+   ]
+  },
+  "54e04eb17101ef872577386b512017763f1c1d5b": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బాలకృష్ణ",
+     "type": "Person",
+     "english_name": "Balakrishna"
+    },
+    {
+     "name": "జేసీ ప్రభాకర్రెడ్డి",
+     "type": "Person",
+     "english_name": "JC Prabhakar Reddy"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "తిరుపతి కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "హిందూపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పాలకొండ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తుని",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పిడుగురాళ్ల",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నూజివీడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బుచ్చిరెడ్డిపాలెం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నందిగామ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తాడిపత్రి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "దర్కి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజాస్వామ్యం ఖూనీకి ప్రత్యక్ష నిదర్శనమని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీకి ప్రజలు ఇచ్చినది కేవలం ఒక్క సీటు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హ్యాట్సాఫ్ టూ జగన్ అని తాడిపత్రి టీడీపీ ఇన్చార్జ్, మున్సిపల్ చైర్మన్ ఆ రోజు ప్రశంసించారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "ఇది అరాచకం కాదా?"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజాస్వామ్యం ఖూనీకి ప్రత్యక్ష నిదర్శనమని",
+     "evidence": "ప్రజాస్వామ్యం ఖూనీకి ప్రత్యక్ష నిదర్శనమని"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీకి ప్రజలు ఇచ్చినది కేవలం ఒక్క సీటు",
+     "evidence": "టీడీపీకి ప్రజలు ఇచ్చినది కేవలం ఒక్క సీటు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నెగ్గేందుకు అవకాశం లేని చోట్ల సాకులతో ఎన్నికలు జరపడం లేదు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "బెదిరింపులకు పాల్పడుతున్నారు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "ప్రజాస్వామ్యాన్ని పరిరక్షించాల్సిన వారే ఖూనీ చేస్తున్నారు"
+    }
+   ]
+  }
+ }
+}

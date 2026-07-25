@@ -1,0 +1,848 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "97089b976f3fdd92bf3c3e86a493ec1659391a47": {
+   "entities": [],
+   "relations": []
+  },
+  "0b4b7979ee3b8dea1524da96596f66dec218a888": {
+   "entities": [
+    {
+     "name": "MSME",
+     "type": "Issue",
+     "english_name": "MSME"
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "Industries Department",
+     "type": "Organization",
+     "english_name": "Industries Department"
+    },
+    {
+     "name": "Claim: unjustifiable increase in MSME employment",
+     "type": "Claim",
+     "english_name": "Unjustifiable increase in MSME employment"
+    },
+    {
+     "name": "Claim: Government taking credit for 4,00,000 potential jobs",
+     "type": "Claim",
+     "english_name": "Government credit for 4,00,000 potential jobs"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Claim: unjustifiable increase in MSME employment",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "MSME",
+     "evidence": "this is unjustifiable"
+    },
+    {
+     "source": "Claim: Government taking credit for 4,00,000 potential jobs",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "MSME",
+     "evidence": "Government is taking credit for creation of employment of only 4,00,000 and that too of only potential."
+    }
+   ]
+  },
+  "dc6b4fbae442a7232e37dd18ea522b7c92088e34": {
+   "entities": [],
+   "relations": []
+  },
+  "186072b7a2bd105cf147ad46f9840fadcbe6adee": {
+   "entities": [],
+   "relations": []
+  },
+  "2cb5f020fa9e280e1168e554e6d9bfbc83b8d85e": {
+   "entities": [
+    {
+     "name": "Public Debt Outstanding",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Central Govt.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Autonomous bodies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Special Securities (Small Savings) & Provident Fund",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "50f154f910fef356c9c44c5947c6f5d458952bc3": {
+   "entities": [
+    {
+     "name": "Public Debt Outstanding",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Central Govt.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Other Institutions",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Small Savings",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Provident Fund",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Deposits and Reserve Funds",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "21f9372bf15624dba5f7e2e6a07ac4a7678dc338": {
+   "entities": [
+    {
+     "name": "AP budget documents",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh budget documents"
+    },
+    {
+     "name": "CAG Accounts",
+     "type": "Organization",
+     "english_name": "Comptroller and Auditor General Accounts"
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    }
+   ],
+   "relations": []
+  },
+  "b73353a0f3a7469a7da556390104564da1c806fa": {
+   "entities": [
+    {
+     "name": "Thallikivandanam allocation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "AP Scheduled Castes Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Scheduled Tribes Co-op Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC A)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC B)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC D)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BC Co-operative Finance Corporation (BC E)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Reddy Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Kamma Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Kshatriya Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Vyshya Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Brahmin Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP EBC Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP Kapu Welfare Development Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Christian Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Minorities Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Thallikivandanam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Thallikivandanam allocation",
+     "evidence": "Thallikivandanam allocation"
+    }
+   ]
+  },
+  "48f41acc7464c1795338498be7afa0f4826c34f6": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pensions",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "BUDGET 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Pensions disbursed during YSRCP regime 66,34,372",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Pensions being disbursed by the TDP Government 62,10,969",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Pensions disbursed during YSRCP regime 66,34,372",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "BUDGET 2025-26",
+     "evidence": "BUDGET 2025-26"
+    },
+    {
+     "source": "Pensions being disbursed by the TDP Government 62,10,969",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "BUDGET 2025-26",
+     "evidence": "BUDGET 2025-26"
+    }
+   ]
+  },
+  "90a49b5fed41073834721c7600bb035255a791fc": {
+   "entities": [
+    {
+     "name": "AP State Minorities Finance Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "UDISE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: benefits under scheme Thallikivandanam would be available to every child",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Amount shown as allocation to Thallikivandanam in Budget in brief is Rs. 9,407 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: What is actually allocated is only Rs. 8,278 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Thallikivandanam",
+     "evidence": "The promise of TDP alliance was that, the benefits under scheme Thallikivandanam, would be available to every child."
+    },
+    {
+     "source": "Thallikivandanam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget",
+     "evidence": "Amount shown as allocation to Thallikivandanam in Budget in brief is Rs. 9,407 crores."
+    },
+    {
+     "source": "Claim: benefits under scheme Thallikivandanam would be available to every child",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget",
+     "evidence": "The promise of TDP alliance was that, the benefits under scheme Thallikivandanam, would be available to every child."
+    }
+   ]
+  },
+  "add199487d2c3409176998ed782fa8a4f02a6cba": {
+   "entities": [
+    {
+     "name": "Aadabidda Nidhi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Thalliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Annadata Sukhibhava",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Free Bus Travel",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Pension age reduction to 50 years for SCs & BCs",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Nirudyoga Bhruthi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Total amount required is Rs. 79,867 crores, amount budgeted for Financial year 2025-26 is only Rs. 17,179",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Aadabidda Nidhi",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Total financial implication is Rs. 32,400 crores"
+    },
+    {
+     "source": "Deepam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Total financial implication is Rs. 3,900 crores"
+    },
+    {
+     "source": "Thalliki Vandanam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Total financial implication is Rs. 13,050 crores"
+    },
+    {
+     "source": "Annadata Sukhibhava",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Total financial implication is Rs. 10,717 crores"
+    },
+    {
+     "source": "Free Bus Travel",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Projected financial implication is to the tune of Rs. 2,500 crores to Rs. 3,000 crores"
+    },
+    {
+     "source": "Pension age reduction to 50 years for SCs & BCs",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Total financial implication is Rs. 9,600 crores"
+    },
+    {
+     "source": "Nirudyoga Bhruthi",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Total financial implication is Rs. 7,200 crores"
+    },
+    {
+     "source": "Super Seven schemes",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "Total amount required is Rs. 79,867 crores"
+    }
+   ]
+  },
+  "8f07fd5b84f26e7b716a2c06e8ea06d0a7684117": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Budget 2025-26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Polavaram",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Centrally Sponsored Schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Finance Commission Grants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "PD Grants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Local Body Grants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SDRF",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Health Grants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Other grants",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue Receipts",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Stamps and Registrations",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State Excise",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Taxes and vehicles",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Land revenue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Other Receipts",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "67f998840d5ed0f8da084c840dc39110f64b5b57": {
+   "entities": [
+    {
+     "name": "Finance Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Legislative Assembly",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Non-implementation of schemes",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State Government unable to implement programmes",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Salaries & pensions share same in 2019-20 and 2024-25",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Despite Covid-19, previous government implemented election commitments",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Finance Minister",
+     "relation": "ACCUSES",
+     "target": "YSRCP Government",
+     "evidence": "the Finance Minister tries to mislead the people into believing that this resulted from the policies of the previous YSRCP Government."
+    },
+    {
+     "source": "Finance Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "State Government unable to implement programmes",
+     "evidence": "the Finance Minister suggests that given the greater share of salaries and pensions in the State’s own revenues, the State Government is unable to implement the programmes."
+    },
+    {
+     "source": "Finance Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "Salaries & pensions share same in 2019-20 and 2024-25",
+     "evidence": "even in 2019-20, the first year of YSRCP Government, the share was the same at 87%, when compared with the first year of the TDP alliance Government in 2024-25."
+    },
+    {
+     "source": "Finance Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "Despite Covid-19, previous government implemented election commitments",
+     "evidence": "despite that, the then Government did not find excuses to implement the election commitments."
+    },
+    {
+     "source": "State Government unable to implement programmes",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Non-implementation of schemes",
+     "evidence": ""
+    },
+    {
+     "source": "Salaries & pensions share same in 2019-20 and 2024-25",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Non-implementation of schemes",
+     "evidence": ""
+    },
+    {
+     "source": "Despite Covid-19, previous government implemented election commitments",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Non-implementation of schemes",
+     "evidence": ""
+    }
+   ]
+  },
+  "60b4af7a236172701e611a2923f480f85d434665": {
+   "entities": [
+    {
+     "name": "TDP Govt",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Consumer affairs food & civil supplies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Transport Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Women & Child Welfare Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Handlooms & Textiles",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Agriculture Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP State Seed Development Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Horticulture Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Animal Husbandry Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Fisheries Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Industries and Commerce (Sugar) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dairy Development",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "School Education (Mid-day meals)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Roads and Buildings",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "All Welfare Departments (RTF and MTF)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Health (Aarogyasri)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Health (EHS)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Social Welfare Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner Panchayat Raj (Electricity Charges)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner Panchayat Raj (Engineering)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner Rural Development (MGNERGS)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RWS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tribal Welfare",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Water resources department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pending payments by previous TDP Govt. 2014-19",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Total pending bills amount Rs. 63,724 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Total pending bills amount Rs. 63,724 crores",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Pending payments by previous TDP Govt. 2014-19",
+     "evidence": "If this amount is added, the pending bills are to the tune of Rs. 63,724 crores."
+    }
+   ]
+  },
+  "26cf8e36e0ac1f60355358c1510b5ecc76e7cd60": {
+   "entities": [
+    {
+     "name": "Thalliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Unified District Information System for Education Plus",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "UDISE+",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Education",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Department of School Education & Literacy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andaman & Nicobar Islands",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

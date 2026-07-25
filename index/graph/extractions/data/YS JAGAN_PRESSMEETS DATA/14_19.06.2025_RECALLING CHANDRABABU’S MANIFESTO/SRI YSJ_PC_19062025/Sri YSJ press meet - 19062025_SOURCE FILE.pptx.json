@@ -1,0 +1,377 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "39f38d54a581af38b25c8f8eae8e492b69317be0": {
+   "entities": [
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Unemployment",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "people between the ages 18 and 50 and are unemployed are 1.56 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "people between the ages 18 and 50 and are unemployed are 1.56 crores",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Unemployment",
+     "evidence": "people between the ages 18 and 50 and are unemployed are 1.56 crores"
+    }
+   ]
+  },
+  "7db3f55d7e826b766f5e7af39528baba9c4fab53": {
+   "entities": [],
+   "relations": []
+  },
+  "842fd792c6574f1c33cdd0e370e3ce08c128d328": {
+   "entities": [
+    {
+     "name": "Revenue Deficit to GSDP %",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "cd762471f0692ff07ac4acab5a85f72a7d92373a": {
+   "entities": [
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Fiscal Deficit to GSDP ratio",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Covid-19 pandemic",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "FY 2024-25",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "FY 2020-21",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "The average fiscal deficit to GSDP ratio was 4.08% during the period of the YSRCP Government and the same during the first year of the TDP alliance Government has increased to 5.12%.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Fiscal Deficit to GSDP ratio in FY 2024-25 is higher that during any previous financial year with an exception of FY 2020-21, the year of the outbreak of the Covid-19 pandemic, during which there were severe economic disruptions.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "The average fiscal deficit to GSDP ratio was 4.08% during the period of the YSRCP Government and the same during the first year of the TDP alliance Government has increased to 5.12%.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fiscal Deficit to GSDP ratio",
+     "evidence": "The average fiscal deficit to GSDP ratio was 4.08% during the period of the YSRCP Government and the same during the first year of the TDP alliance Government has increased to 5.12%"
+    },
+    {
+     "source": "The Fiscal Deficit to GSDP ratio in FY 2024-25 is higher that during any previous financial year with an exception of FY 2020-21, the year of the outbreak of the Covid-19 pandemic, during which there were severe economic disruptions.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Fiscal Deficit to GSDP ratio",
+     "evidence": "The Fiscal Deficit to GSDP ratio in FY 2024-25 is higher that during any previous financial year with an exception of FY 2020-21"
+    }
+   ]
+  },
+  "44d9a62fa08cc32c658106c854899e2e7ce17b36": {
+   "entities": [
+    {
+     "name": "YSRCP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "increase is to be tune of Rs. 3,32,671 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "liabilities contracted to date by the TDP alliance Government is Rs. 1,61,301 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "48.5% of all borrowings made during the 5 – yr YSRCP Government",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d9d45d91c8abcc1ed901e098e1628b37df5413e0": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State GST revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Tax revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Non-tax revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "State’s own revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Economic sluggishness",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d90b10fbbb8b0e9ba8b2f768150fa430435885d0": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Union Government Accounts",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FY 2024-25 fiscal performance",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "State's own revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Central Government aggregate of Gross tax revenues and Non-tax revenues",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "liquor policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "revenue receipts on account of license fee under the new liquor policy",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "898598881b7c6e32d3deda136bb16a4773015a38": {
+   "entities": [
+    {
+     "name": "YSRCP Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Capital Expenditure",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "During the period of the YSRCP Government between 2019-24, 33.25% of the borrowings were utilized for Capital Expenditure.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "the YSRCP Government was irresponsibly borrowing and not utilizing the borrowing for productive expenditure.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "During the first year of the TDP alliance Government, only 23.49% of the borrowings were utilized for capital expenditure.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "During the period of the YSRCP Government between 2019-24, 33.25% of the borrowings were utilized for Capital Expenditure.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital Expenditure",
+     "evidence": "Capital Expenditure"
+    },
+    {
+     "source": "During the first year of the TDP alliance Government, only 23.49% of the borrowings were utilized for capital expenditure.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Capital Expenditure",
+     "evidence": "capital expenditure"
+    }
+   ]
+  },
+  "7c03b0a3b41b3712bae93827bd8ba0873c362ad5": {
+   "entities": [
+    {
+     "name": "APMDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP GO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Government of AP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Investors",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "300f301994f3b023e87a31f2423100d8e9a399d4": {
+   "entities": [
+    {
+     "name": "Super Seven schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Total amount required for implementation of schemes – Rs. 79,867 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount allocated in the budget for FY 26 – Rs. 17,179 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

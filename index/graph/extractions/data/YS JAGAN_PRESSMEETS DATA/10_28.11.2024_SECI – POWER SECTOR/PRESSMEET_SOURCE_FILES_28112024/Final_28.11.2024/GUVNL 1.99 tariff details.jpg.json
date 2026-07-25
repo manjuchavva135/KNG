@@ -1,0 +1,117 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "48c410759ab868780dc57cdb616a118587e5e65b": {
+   "entities": [
+    {
+     "name": "GUVNL",
+     "type": "Organization",
+     "english_name": "Gujarat Urja Vikas Nigam Ltd"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "CTU",
+     "type": "Organization",
+     "english_name": "Central Transmission Utility"
+    },
+    {
+     "name": "India Power Grid Corporation Ltd",
+     "type": "Organization",
+     "english_name": "India Power Grid Corporation Ltd"
+    },
+    {
+     "name": "Shri Kandarp Mistry",
+     "type": "Person",
+     "english_name": "Shri Kandarp Mistry"
+    },
+    {
+     "name": "Madhya Pradesh Vij Company Ltd",
+     "type": "Organization",
+     "english_name": "Madhya Pradesh Vij Company Ltd"
+    },
+    {
+     "name": "Dakshin Gujarat Vij Company Ltd",
+     "type": "Organization",
+     "english_name": "Dakshin Gujarat Vij Company Ltd"
+    },
+    {
+     "name": "Uttar Gujarat Vij Company Ltd",
+     "type": "Organization",
+     "english_name": "Uttar Gujarat Vij Company Ltd"
+    },
+    {
+     "name": "Paschim Gujarat Vij Company Ltd",
+     "type": "Organization",
+     "english_name": "Paschim Gujarat Vij Company Ltd"
+    },
+    {
+     "name": "Phase XI",
+     "type": "Scheme",
+     "english_name": "Phase XI"
+    },
+    {
+     "name": "Solar Photovoltaic Power Projects",
+     "type": "Scheme",
+     "english_name": "Solar Photovoltaic Power Projects"
+    },
+    {
+     "name": "Rs. 1.99 tariff",
+     "type": "Claim",
+     "english_name": "Rs. 1.99 tariff"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "Power sector",
+     "type": "Issue",
+     "english_name": "Power sector"
+    }
+   ],
+   "relations": [
+    {
+     "source": "GUVNL",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "setting up of plant in Gujarat for supply of power to DISCOMs of Gujarat"
+    },
+    {
+     "source": "Madhya Pradesh Vij Company Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "setting up of plant in Gujarat for supply of power to DISCOMs of Gujarat"
+    },
+    {
+     "source": "Dakshin Gujarat Vij Company Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "setting up of plant in Gujarat for supply of power to DISCOMs of Gujarat"
+    },
+    {
+     "source": "Uttar Gujarat Vij Company Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "setting up of plant in Gujarat for supply of power to DISCOMs of Gujarat"
+    },
+    {
+     "source": "Paschim Gujarat Vij Company Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "setting up of plant in Gujarat for supply of power to DISCOMs of Gujarat"
+    },
+    {
+     "source": "Rs. 1.99 tariff",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Power sector",
+     "evidence": "POWER SECTOR"
+    }
+   ]
+  }
+ }
+}

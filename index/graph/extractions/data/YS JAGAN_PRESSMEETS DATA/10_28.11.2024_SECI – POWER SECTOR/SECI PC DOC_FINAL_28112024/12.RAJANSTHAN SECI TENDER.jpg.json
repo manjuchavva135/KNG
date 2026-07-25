@@ -1,0 +1,183 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f88449b181dca6cfad04b2953959d2d6bb3db1f6": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MoP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of New & Renewable Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MNRE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "National Solar Mission",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "NSM",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tariff-based bidding",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Build Own Operate (B-O-O) basis",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Power Purchase Agreement (PPA)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Guidelines for Tariff Based Competitive Bidding Process for Procurement of Power from Grid Connected Solar PV Power Projects",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan Urja Vikas Nigam Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RUVNL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6610af46c44fbfcd3715f8189e7824edb062291d": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan Urja Vikas Nigam Limited (RUVNL)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SPD",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "1c564f8bfead61ddf5c9be19705cccf6635c5d5f": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of New & Renewable Energy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "National Solar Mission",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Build Own Operate",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Power Purchase Agreement",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "1070 MW Grid-Connected Solar PV Power Projects",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SECI wishes to achieve a cumulative capacity of 100 GW Solar PV installation by the year 2022",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "Rajasthan",
+     "evidence": "setting up of plant in Rajasthan"
+    },
+    {
+     "source": "Solar Energy Corporation of India Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tamil Nadu",
+     "evidence": "for power to Tamil Nadu"
+    }
+   ]
+  }
+ }
+}

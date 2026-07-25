@@ -1,0 +1,1282 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cd701ecf6fcde53bec4a082bd88e4b344a2565ee": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "కుప్పం పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నారాయణపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శాంతిపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "వెంకటేశ్‌పురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మునికన్నప్ప",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరతి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అంగన్‌వాడీ హెల్పర్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని డిమాండ్ చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై పెరుగుతున్న దాడులు రాష్ట్రంలో శాంతిభద్రతల క్షీణతకు నిదర్శనం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కుప్పం ప్రాంతంలో మహిళల భద్రతపై తీవ్ర ప్రశ్నలు తలెత్తాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు నిందితులతో పాటు బాధితులపైనా కేసులు నమోదు చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని డిమాండ్ చేశారు",
+     "evidence": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని, బాధితురాలికి మెరుగైన వైద్యం అందించి కుటుంబానికి ప్రభుత్వం అండగా నిలవాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని డిమాండ్ చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    },
+    {
+     "source": "మహిళలపై పెరుగుతున్న దాడులు రాష్ట్రంలో శాంతిభద్రతల క్షీణతకు నిదర్శనం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    },
+    {
+     "source": "కుప్పం ప్రాంతంలో మహిళల భద్రతపై తీవ్ర ప్రశ్నలు తలెత్తాయి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    },
+    {
+     "source": "పోలీసులు నిందితులతో పాటు బాధితులపైనా కేసులు నమోదు చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    },
+    {
+     "source": "కుప్పం పోలీసులు",
+     "relation": "LOCATED_IN",
+     "target": "కుప్పం",
+     "evidence": "కుప్పం పోలీసులు సంఘటనా స్థలానికి చేరుకున్నారు"
+    },
+    {
+     "source": "నారాయణపురం",
+     "relation": "LOCATED_IN",
+     "target": "కుప్పం",
+     "evidence": "నారాయణపురంలో ఘటన చోటుచేసుకుంది"
+    },
+    {
+     "source": "శాంతిపురం",
+     "relation": "LOCATED_IN",
+     "target": "కుప్పం",
+     "evidence": "శాంతిపురం మండలం"
+    },
+    {
+     "source": "వెంకటేశ్‌పురం",
+     "relation": "LOCATED_IN",
+     "target": "కుప్పం",
+     "evidence": "వెంకటేశ్‌పురంలో"
+    },
+    {
+     "source": "చిత్తూరు జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "కుప్పం",
+     "evidence": "చిత్తూరు జిల్లా కుప్పం నియోజకవర్గం"
+    }
+   ]
+  },
+  "a1b5b23c366f44d410e750494b17278a6a789d14": {
+   "entities": [
+    {
+     "name": "మల్లెల వెంకట రమణమూర్తి",
+     "type": "Person",
+     "english_name": "Mallela Venkata Ramana Murthy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "గుంటూరు నగరం",
+     "type": "Place",
+     "english_name": "Guntur city"
+    },
+    {
+     "name": "కృష్ణబాబు కాలనీ",
+     "type": "Place",
+     "english_name": "Krishna Babu Colony"
+    },
+    {
+     "name": "మాధవితో",
+     "type": "Person",
+     "english_name": "Madhavitha"
+    },
+    {
+     "name": "నగరంపాలెం పోలీస్ స్టేషన్",
+     "type": "Place",
+     "english_name": "Nagarampalem Police Station"
+    },
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": "Malla Gundamma"
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "ఆదోని మండలం",
+     "type": "Place",
+     "english_name": "Adoni mandal"
+    },
+    {
+     "name": "నాగనాథహళ్లి",
+     "type": "Place",
+     "english_name": "Naganaathahalli"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "attacks on women"
+    },
+    {
+     "name": "భూ వివాదం",
+     "type": "Issue",
+     "english_name": "land dispute"
+    },
+    {
+     "name": "టీడీపీ నాయకుడు మల్లెల వెంకట రమణమూర్తి, అతని కుటుంబ సభ్యులు దారుణంగా దాడి చేసిన ఘటన",
+     "type": "Claim",
+     "english_name": "TDP leader Mallela Venkata Ramana Murthy and his family brutally attacked a woman"
+    },
+    {
+     "name": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన",
+     "type": "Claim",
+     "english_name": "Dalit woman Malla Gundamma was run over and killed with a tractor"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మల్లెల వెంకట రమణమూర్తి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకుడు మల్లెల వెంకట రమణమూర్తి"
+    },
+    {
+     "source": "మల్లెల వెంకట రమణమూర్తి",
+     "relation": "MAKES_CLAIM",
+     "target": "టీడీపీ నాయకుడు మల్లెల వెంకట రమణమూర్తి, అతని కుటుంబ సభ్యులు దారుణంగా దాడి చేసిన ఘటన",
+     "evidence": "టీడీపీ నాయకుడు మల్లెల వెంకట రమణమూర్తి, అతని కుటుంబ సభ్యులు దారుణంగా దాడి చేసిన ఘటన"
+    },
+    {
+     "source": "టీడీపీ నాయకుడు మల్లెల వెంకట రమణమూర్తి, అతని కుటుంబ సభ్యులు దారుణంగా దాడి చేసిన ఘటన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై దాడులు"
+    },
+    {
+     "source": "గుంటూరు నగరం",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణబాబు కాలనీ",
+     "evidence": "గుంటూరు నగరంలోని కృష్ణబాబు కాలనీ"
+    },
+    {
+     "source": "కర్నూలు జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "ఆదోని మండలం",
+     "evidence": "కర్నూలు జిల్లా ఆదోని మండలం"
+    },
+    {
+     "source": "ఆదోని మండలం",
+     "relation": "LOCATED_IN",
+     "target": "నాగనాథహళ్లి",
+     "evidence": "నాగనాథహళ్లిలో"
+    },
+    {
+     "source": "మాల గుండమ్మ",
+     "relation": "MAKES_CLAIM",
+     "target": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన",
+     "evidence": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన"
+    },
+    {
+     "source": "మాల గుండమ్మను ట్రాక్టర్‌తో తొక్కించి హత్య చేసిన ఘటన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "భూ వివాదం",
+     "evidence": "భూ వివాదం"
+    }
+   ]
+  },
+  "67d6f287e75eba2fe5c9c27481d17f6a2c15d236": {
+   "entities": [
+    {
+     "name": "శ్రీసత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": "Sri Sathya Sai district"
+    },
+    {
+     "name": "రామగిరి మండలం",
+     "type": "Place",
+     "english_name": "Ramagiri mandal"
+    },
+    {
+     "name": "మంగాపురం",
+     "type": "Place",
+     "english_name": "Mangapuram"
+    },
+    {
+     "name": "అంగన్‌వాడీ",
+     "type": "Organization",
+     "english_name": "Anganwadi"
+    },
+    {
+     "name": "ఇంద్రజ",
+     "type": "Person",
+     "english_name": "Indrja"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "గొళ్ల శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "Gollu Srinivasulu"
+    },
+    {
+     "name": "విష్ణు",
+     "type": "Person",
+     "english_name": "Vishnu"
+    },
+    {
+     "name": "నాగమ్మ",
+     "type": "Person",
+     "english_name": "Nagamma"
+    },
+    {
+     "name": "ఓబయ్య",
+     "type": "Person",
+     "english_name": "Obayya"
+    },
+    {
+     "name": "నరసింహమూర్తి",
+     "type": "Person",
+     "english_name": "Narasimhamurthy"
+    },
+    {
+     "name": "పోలీసు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ఆసుపత్రి",
+     "type": "Place",
+     "english_name": "Hospital"
+    },
+    {
+     "name": "సోషల్ మీడియా",
+     "type": "Organization",
+     "english_name": "Social media"
+    },
+    {
+     "name": "Claim",
+     "type": "Claim",
+     "english_name": "Claim"
+    },
+    {
+     "name": "women",
+     "type": "Issue",
+     "english_name": "women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ కార్యకర్తలు దాడికి పాల్పడిన ఘటన చోటుచేసుకుంది."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "విష్ణు",
+     "evidence": "విష్ణు... ఇంద్రజను బెదిరించడం... కొనసాగించినట్లు బాధితురాలు ఆరోపించింది."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "గొళ్ల శ్రీనివాసులు",
+     "evidence": "గొళ్ల శ్రీనివాసులు... ఇంద్రజను బెదిరించడం... కొనసాగించినట్లు బాధితురాలు ఆరోపించింది."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "నాగమ్మ",
+     "evidence": "నాగమ్మ... కలిసి... దాడి చేసి..."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "ACCUSES",
+     "target": "ఓబయ్య",
+     "evidence": "ఓబయ్య... కలిసి... దాడి చేసి..."
+    },
+    {
+     "source": "ఇంద్రజ",
+     "relation": "MAKES_CLAIM",
+     "target": "Claim",
+     "evidence": "ఇంద్రజపై ఉద్యోగానికి రాజీనామా చేయాలని ఒత్తిడి తెస్తూ టీడీపీ కార్యకర్తలు దాడికి పాల్పడిన ఘటన చోటుచేసుకుంది."
+    },
+    {
+     "source": "Claim",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "women",
+     "evidence": "Sakshi news clips on attcks on women"
+    }
+   ]
+  },
+  "23b83551e8ff1afc1c7eb262166593bd385bc537": {
+   "entities": [
+    {
+     "name": "కోటవురట్లలో",
+     "type": "Place",
+     "english_name": "Kotavurthala"
+    },
+    {
+     "name": "వంగలపూడి అనిత",
+     "type": "Person",
+     "english_name": "Vangalapudi Anita"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "మాడెం వరలక్ష్మి",
+     "type": "Person",
+     "english_name": "Madem Varalaxmi"
+    },
+    {
+     "name": "లక్ష్మి",
+     "type": "Person",
+     "english_name": "Lakshmi"
+    },
+    {
+     "name": "జవ్వాది ఈశ్వరరావు",
+     "type": "Person",
+     "english_name": "Javvadi Easwararao"
+    },
+    {
+     "name": "జవ్వాది కిష్టమ్మ",
+     "type": "Person",
+     "english_name": "Javvadi Kisthamma"
+    },
+    {
+     "name": "జవ్వాది కుమారి",
+     "type": "Person",
+     "english_name": "Javvadi Kumari"
+    },
+    {
+     "name": "పబ్బు మహాలక్ష్మి",
+     "type": "Person",
+     "english_name": "Pabbhu Mahalakshmi"
+    },
+    {
+     "name": "జవ్వాది రమేష్",
+     "type": "Person",
+     "english_name": "Javvadi Ramesh"
+    },
+    {
+     "name": "బత్తుల అప్పారావు",
+     "type": "Person",
+     "english_name": "Bathula Apparao"
+    },
+    {
+     "name": "బత్తుల నరసింహమూర్తి",
+     "type": "Person",
+     "english_name": "Bathula Narasimhamurthy"
+    },
+    {
+     "name": "పబ్బు తుర్రయ్య",
+     "type": "Person",
+     "english_name": "Pabbhu Turrayya"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "మహిళలపై దాడి",
+     "type": "Issue",
+     "english_name": "Attack on women"
+    },
+    {
+     "name": "పోలీసులకు ఫిర్యాదు చేశారు",
+     "type": "Claim",
+     "english_name": "Victims filed a police complaint"
+    },
+    {
+     "name": "తెనాలి",
+     "type": "Place",
+     "english_name": "Tenali"
+    },
+    {
+     "name": "మధిర సహానా",
+     "type": "Person",
+     "english_name": "Madira Sahana"
+    }
+   ],
+   "relations": []
+  },
+  "549eefac77e5334ddb8b22044432d1dcf02e47a7": {
+   "entities": [
+    {
+     "name": "గౌతమి",
+     "type": "Person",
+     "english_name": "Gautami"
+    },
+    {
+     "name": "గణేష్",
+     "type": "Person",
+     "english_name": "Ganesh"
+    },
+    {
+     "name": "సంకారపు మురళి",
+     "type": "Person",
+     "english_name": "Sankaraapu Murali"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "మునికన్నప్ప",
+     "type": "Person",
+     "english_name": "Munikannappa"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": "Shirisha"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "స్వరంపల్లె",
+     "type": "Place",
+     "english_name": "Swarampalle"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "నారాయణపల్లె",
+     "type": "Place",
+     "english_name": "Narayannapalle"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "కదిరి",
+     "type": "Place",
+     "english_name": "Kadhiri"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "చట్టం మరియు శాంతిభద్రతలు",
+     "type": "Issue",
+     "english_name": "Law and order"
+    },
+    {
+     "name": "గణేష్ గౌతమిపై యాసిడ్ మరియు కత్తితో దాడి చేశాడు",
+     "type": "Claim",
+     "english_name": "Ganesh attacked Gautami with acid and knife"
+    },
+    {
+     "name": "మునికన్నప్ప శిరీషపై దాడి చేశాడు",
+     "type": "Claim",
+     "english_name": "Munikannappa attacked Shirisha"
+    },
+    {
+     "name": "వైఎస్ జగన్ కఠిన చర్యలను డిమాండ్ చేశారు",
+     "type": "Claim",
+     "english_name": "YS Jagan demanded strict action"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ నాయకులు ఆందోళన వ్యక్తం చేశారు",
+     "type": "Claim",
+     "english_name": "YSRCP leaders expressed concern"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సంకారపు మురళి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "సంకారపు మురళి... టీడీపీ క్రియాశీల సభ్యుడిగా ఉన్నట్లు వార్త పేర్కొంది."
+    },
+    {
+     "source": "మునికన్నప్ప",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ కార్యకర్త మునికన్నప్ప"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "వైఎస్ జగన్ కఠిన చర్యలను డిమాండ్ చేశారు",
+     "evidence": "నిందితుడిపై కఠిన చర్యలు తీసుకోవాలని, బాధితురాలికి మెరుగైన వైద్యం అందించి కుటుంబానికి ప్రభుత్వం అండగా నిలవాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "గణేష్",
+     "relation": "MAKES_CLAIM",
+     "target": "గణేష్ గౌతమిపై యాసిడ్ మరియు కత్తితో దాడి చేశాడు",
+     "evidence": "గణేష్... యాసిడ్‌ను బలవంతంగా తాగించి, తలపై కూడా పోసి, అనంతరం కత్తితో పలుమార్లు పొడిచి తీవ్రంగా గాయపరిచాడు."
+    },
+    {
+     "source": "మునికన్నప్ప",
+     "relation": "MAKES_CLAIM",
+     "target": "మునికన్నప్ప శిరీషపై దాడి చేశాడు",
+     "evidence": "టీడీపీ కార్యకర్త మునికన్నప్ప... అమానుషంగా దాడి చేసిన ఘటన చోటుచేసుకుంది."
+    }
+   ]
+  },
+  "7f7ff436f3d67e2f0dc6bb90173fb6135801d6fa": {
+   "entities": [
+    {
+     "name": "విష్ణు",
+     "type": "Person",
+     "english_name": "Vishnu"
+    },
+    {
+     "name": "గొళ్ల శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "Gollu Srinivasulu"
+    },
+    {
+     "name": "నాగమ్మ",
+     "type": "Person",
+     "english_name": "Nagamma"
+    },
+    {
+     "name": "ఓబయ్య",
+     "type": "Person",
+     "english_name": "Obayya"
+    },
+    {
+     "name": "ఇంద్రజ",
+     "type": "Person",
+     "english_name": "Indrja"
+    },
+    {
+     "name": "నరసింహమూర్తి",
+     "type": "Person",
+     "english_name": "Narasimhamurthy"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "అరవ శ్రీధర్",
+     "type": "Person",
+     "english_name": "Aravu Sridhar"
+    },
+    {
+     "name": "తాతంశెట్టి నాగేంద్ర",
+     "type": "Person",
+     "english_name": "Tatmashetti Nagendra"
+    },
+    {
+     "name": "రైల్వే కోడూరు",
+     "type": "Place",
+     "english_name": "Railway Kodur"
+    },
+    {
+     "name": "గాంధీ విగ్రహం",
+     "type": "Place",
+     "english_name": "Gandhi statue"
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Police station"
+    },
+    {
+     "name": "సోషల్ మీడియా",
+     "type": "Organization",
+     "english_name": "Social media"
+    },
+    {
+     "name": "Attacks on women",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "Harassment",
+     "type": "Issue",
+     "english_name": "Harassment"
+    }
+   ],
+   "relations": []
+  },
+  "ce4cb1a672ade54b6222a64af077d8977cff0fd8": {
+   "entities": [
+    {
+     "name": "నగరంపాలెం పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Nagarampalem Police Station"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "మల్లెల వెంకట రమణమూర్తి",
+     "type": "Person",
+     "english_name": "Mallela Venkata Ramana Murthy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "భూ వివాదం",
+     "type": "Issue",
+     "english_name": "Land dispute"
+    },
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": "Mala Gundamma"
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "ఆదోని మండలం",
+     "type": "Place",
+     "english_name": "Adoni mandal"
+    },
+    {
+     "name": "నాగనాథహళ్లి",
+     "type": "Place",
+     "english_name": "Naganathahalli"
+    },
+    {
+     "name": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghavendra Reddy alias Ragappa Reddy"
+    },
+    {
+     "name": "శ్రీధర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Sridhar Reddy"
+    },
+    {
+     "name": "పురుషోత్తంరెడ్డి",
+     "type": "Person",
+     "english_name": "Purushotham Reddy"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పింఛన్",
+     "type": "Scheme",
+     "english_name": "Pension"
+    },
+    {
+     "name": "వృద్ధ మహిళ",
+     "type": "Person",
+     "english_name": "Old woman"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పురుషోత్తంరెడ్డి",
+     "relation": "ACCUSES",
+     "target": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "evidence": "అడ్డుకునేందుకు ప్రయత్నించిన పురుషోత్తంరెడ్డిపై కూడా దాడి చేసి గాయపరిచినట్లు పేర్కొంది."
+    }
+   ]
+  },
+  "a6f05ccd5b0f851a38951927da2d5789bc29ee8c": {
+   "entities": [
+    {
+     "name": "వడ్డే చంద్రకళ",
+     "type": "Person",
+     "english_name": "Vadde Chandrakala"
+    },
+    {
+     "name": "రామాంజినేయులు",
+     "type": "Person",
+     "english_name": "Ramanginaidu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur district"
+    },
+    {
+     "name": "కళ్యాణదుర్గం",
+     "type": "Place",
+     "english_name": "Kalyanadurgam"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bangalore"
+    },
+    {
+     "name": "కళ్యాణదుర్గం పోలీస్ స్టేషన్",
+     "type": "Place",
+     "english_name": "Kalyanadurgam Police Station"
+    },
+    {
+     "name": "ఉప్మాక",
+     "type": "Person",
+     "english_name": "Upmaaka"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "విశాఖ జిల్లా",
+     "type": "Place",
+     "english_name": "Visakhapatnam district"
+    },
+    {
+     "name": "పెందుర్తి మండలం",
+     "type": "Place",
+     "english_name": "Pendurthi mandal"
+    },
+    {
+     "name": "చింతగట్లలో",
+     "type": "Place",
+     "english_name": "Chintagattla"
+    },
+    {
+     "name": "కేజీహెచ్‌",
+     "type": "Organization",
+     "english_name": "KGH"
+    },
+    {
+     "name": "వేధింపులు, దాడులు",
+     "type": "Issue",
+     "english_name": "Harassment and attacks on women"
+    },
+    {
+     "name": "భూ వివాదం",
+     "type": "Issue",
+     "english_name": "Land dispute"
+    },
+    {
+     "name": "Claim: రామాంజినేయులు లైంగిక వేధింపులకు గురిచేస్తూ తన కోరిక తీర్చాలని ఒత్తిడి చేసినట్లు",
+     "type": "Claim",
+     "english_name": "Ramanginaidu pressured Chandrakala for sexual favors"
+    },
+    {
+     "name": "Claim: రామాంజినేయులు తన కుటుంబ సభ్యులతో కలిసి చంద్రకళ, ఆమె కుటుంబంపై దాడి చేసినట్లు",
+     "type": "Claim",
+     "english_name": "Ramanginaidu and family attacked Chandrakala and her family"
+    },
+    {
+     "name": "Claim: జనసేన నాయకులు దారుణంగా దాడి చేసిన ఘటన",
+     "type": "Claim",
+     "english_name": "Janasena leaders brutally attacked former sarpanch"
+    },
+    {
+     "name": "Claim: రమణ, అతని భార్య కనకమ్మ, కుమారుడు హరీష్ భూమిని దున్నుతుండగా, దాన్ని అడ్డుకునేందుకు వెళ్లిన ఉప్మాకపై ముగ్గురూ కలిసి విచక్షణారహితంగా దాడి చేసినట్లు",
+     "type": "Claim",
+     "english_name": "Raman, his wife Kanakamma and son Harish attacked Upmaaka while ploughing land"
+    },
+    {
+     "name": "Claim: నిందితులు గ్రామస్తులను బెదిరించారు",
+     "type": "Claim",
+     "english_name": "Accused threatened villagers"
+    },
+    {
+     "name": "Claim: గ్రామ మహిళా పోలీస్, గ్రామ పెద్దల జోక్యంతో 108 అంబులెన్స్ ద్వారా బాధితురాలిని కేజీహెచ్‌కు తరలించి చికిత్స అందించారు",
+     "type": "Claim",
+     "english_name": "Village woman police and elders arranged 108 ambulance to KGH"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రామాంజినేయులు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "స్థానిక టీడీపీ నాయకుడు"
+    },
+    {
+     "source": "ఉప్మాక",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ మద్దతుదారైన మాజీ సర్పంచ్"
+    },
+    {
+     "source": "రామాంజినేయులు",
+     "relation": "ACCUSES",
+     "target": "వడ్డే చంద్రకళ",
+     "evidence": "రామాంజినేయులు లైంగిక వేధింపులకు గురిచేస్తూ తన కోరిక తీర్చాలని ఒత్తిడి చేసినట్లు"
+    },
+    {
+     "source": "రామాంజినేయులు",
+     "relation": "ACCUSES",
+     "target": "వడ్డే చంద్రకళ",
+     "evidence": "రామాంజినేయులు తన కుటుంబ సభ్యులతో కలిసి చంద్రకళ, ఆమె కుటుంబంపై దాడి చేసినట్లు"
+    }
+   ]
+  },
+  "00981ab463b3a5f0e3cf0832dab0181a283d354c": {
+   "entities": [
+    {
+     "name": "రమణ",
+     "type": "Person",
+     "english_name": "Raman"
+    },
+    {
+     "name": "కనకమ్మ",
+     "type": "Person",
+     "english_name": "Kanakamma"
+    },
+    {
+     "name": "హరీష్",
+     "type": "Person",
+     "english_name": "Harish"
+    },
+    {
+     "name": "ఉప్మాక",
+     "type": "Person",
+     "english_name": "Upamaka"
+    },
+    {
+     "name": "గ్రామ మహిళా పోలీస్",
+     "type": "Organization",
+     "english_name": "Village women police"
+    },
+    {
+     "name": "గ్రామ పెద్దలు",
+     "type": "Organization",
+     "english_name": "Village elders"
+    },
+    {
+     "name": "108 అంబులెన్స్",
+     "type": "Organization",
+     "english_name": "108 ambulance"
+    },
+    {
+     "name": "కేజీహెచ్‌",
+     "type": "Place",
+     "english_name": "KGH"
+    },
+    {
+     "name": "దమయంతి",
+     "type": "Person",
+     "english_name": "Damayanti"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "ధర్మాన శ్రీను",
+     "type": "Person",
+     "english_name": "Dharmana Sreenu"
+    },
+    {
+     "name": "ధర్మాన ప్రసాద్",
+     "type": "Person",
+     "english_name": "Dharmana Prasad"
+    },
+    {
+     "name": "తంగి షణ్ముఖ",
+     "type": "Person",
+     "english_name": "Tangi Shanmukha"
+    },
+    {
+     "name": "తంగి చిన్నారావు",
+     "type": "Person",
+     "english_name": "Tangi Chinnarao"
+    },
+    {
+     "name": "అప్పలరాజు",
+     "type": "Person",
+     "english_name": "Appalaraju"
+    },
+    {
+     "name": "కోటబొమ్మాళి",
+     "type": "Place",
+     "english_name": "Kotabommali"
+    },
+    {
+     "name": "సామాజిక ఆస్పత్రి",
+     "type": "Organization",
+     "english_name": "Social Hospital"
+    },
+    {
+     "name": "జిల్లా ఎస్పీ",
+     "type": "Organization",
+     "english_name": "District SP"
+    },
+    {
+     "name": "షేక్ మస్తాన్",
+     "type": "Person",
+     "english_name": "Sheik Mastan"
+    }
+   ],
+   "relations": []
+  },
+  "4771fd6a614e26c3be51b20f162e447d64b87f4b": {
+   "entities": [
+    {
+     "name": "చెన్నమ్మ",
+     "type": "Person",
+     "english_name": "Chennamma"
+    },
+    {
+     "name": "రామయ్య",
+     "type": "Person",
+     "english_name": "Ramyya"
+    },
+    {
+     "name": "మునెమ్మ",
+     "type": "Person",
+     "english_name": "Munemma"
+    },
+    {
+     "name": "గంగమ్మ",
+     "type": "Person",
+     "english_name": "Gangamma"
+    },
+    {
+     "name": "సరస్వతి",
+     "type": "Person",
+     "english_name": "Saraswathi"
+    },
+    {
+     "name": "అమరమ్మ",
+     "type": "Person",
+     "english_name": "Amaramma"
+    },
+    {
+     "name": "నాగరాజు",
+     "type": "Person",
+     "english_name": "Nagaraju"
+    },
+    {
+     "name": "గిరి",
+     "type": "Person",
+     "english_name": "Giri"
+    },
+    {
+     "name": "దాసరి అనిల్",
+     "type": "Person",
+     "english_name": "Dasari Anil"
+    },
+    {
+     "name": "దాసరి ఈశ్వరయ్య",
+     "type": "Person",
+     "english_name": "Dasari Easwaraiah"
+    },
+    {
+     "name": "మిలటరీ ఈశ్వరయ్య",
+     "type": "Person",
+     "english_name": "Military Easwaraiah"
+    },
+    {
+     "name": "దాసరి నీరజ",
+     "type": "Person",
+     "english_name": "Dasari Neeraja"
+    },
+    {
+     "name": "ఇస్మాయిల్‌",
+     "type": "Person",
+     "english_name": "Ismail"
+    },
+    {
+     "name": "రహమత్ బీ",
+     "type": "Person",
+     "english_name": "Rahmath Bee"
+    },
+    {
+     "name": "కలసింబీ",
+     "type": "Person",
+     "english_name": "Kalasimbi"
+    },
+    {
+     "name": "అమనాబీ",
+     "type": "Person",
+     "english_name": "Ameena Bee"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "మానవ హక్కుల కమిషన్",
+     "type": "Organization",
+     "english_name": "Human Rights Commission"
+    },
+    {
+     "name": "ప్రభుత్వ ఆస్పత్రి",
+     "type": "Place",
+     "english_name": "Government Hospital"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "పుంగనూరు మండలం",
+     "type": "Place",
+     "english_name": "Pungunur mandal"
+    },
+    {
+     "name": "మీర్జేపల్లి",
+     "type": "Place",
+     "english_name": "Mirzepalli"
+    },
+    {
+     "name": "శ్రీ సత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": "Sri Sathya Sai district"
+    },
+    {
+     "name": "రొద్దం మండలం",
+     "type": "Place",
+     "english_name": "Roddapuram mandal"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur district"
+    },
+    {
+     "name": "రాప్తాడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Rapthadu constituency"
+    },
+    {
+     "name": "ఆత్మకూరు మండలం",
+     "type": "Place",
+     "english_name": "Atmakur mandal"
+    },
+    {
+     "name": "బ్రాహ్మణయాలేరు",
+     "type": "Place",
+     "english_name": "Brahminayaleru"
+    },
+    {
+     "name": "దాడి",
+     "type": "Issue",
+     "english_name": "Attack on women"
+    },
+    {
+     "name": "పింఛన్ నిలిపివేత",
+     "type": "Issue",
+     "english_name": "Pension denial"
+    },
+    {
+     "name": "Threat to give pension only to TDP supporters",
+     "type": "Claim",
+     "english_name": "Threat to give pension only to TDP supporters"
+    },
+    {
+     "name": "Night-time intrusion and attack on women",
+     "type": "Claim",
+     "english_name": "Night-time intrusion and attack on women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నాగరాజు",
+     "relation": "MAKES_CLAIM",
+     "target": "Threat to give pension only to TDP supporters",
+     "evidence": "మా ఇష్టం వచ్చిన వారికి మాత్రమే పింఛన్ ఇస్తాం, మీరు ఓట్లు వేశారా?"
+    },
+    {
+     "source": "గిరి",
+     "relation": "MAKES_CLAIM",
+     "target": "Threat to give pension only to TDP supporters",
+     "evidence": "మా ఇష్టం వచ్చిన వారికి మాత్రమే పింఛన్ ఇస్తాం, మీరు ఓట్లు వేశారా?"
+    },
+    {
+     "source": "దాసరి అనిల్",
+     "relation": "MAKES_CLAIM",
+     "target": "Night-time intrusion and attack on women",
+     "evidence": "అర్ధరాత్రి ఇంట్లోకి చొరబడి ... దాడి చేసినట్లు"
+    },
+    {
+     "source": "దాసరి ఈశ్వరయ్య",
+     "relation": "MAKES_CLAIM",
+     "target": "Night-time intrusion and attack on women",
+     "evidence": "అర్ధరాత్రి ఇంట్లోకి చొరబడి ... దాడి చేసినట్లు"
+    },
+    {
+     "source": "మిలటరీ ఈశ్వరయ్య",
+     "relation": "MAKES_CLAIM",
+     "target": "Night-time intrusion and attack on women",
+     "evidence": ""
+    }
+   ]
+  }
+ }
+}

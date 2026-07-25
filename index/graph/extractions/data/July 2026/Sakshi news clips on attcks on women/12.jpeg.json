@@ -1,0 +1,140 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "537011a3e107559ed45011ef92f55f5621bbcb58": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సాక్షి టాస్క్ఫోర్స్",
+     "type": "Organization",
+     "english_name": "Sakshi Taskforce"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Appalraju",
+     "type": "Person",
+     "english_name": "Appalraju"
+    },
+    {
+     "name": "Damayanti",
+     "type": "Person",
+     "english_name": "Damayanti"
+    },
+    {
+     "name": "ధర్మాన శ్రీను",
+     "type": "Person",
+     "english_name": "Dharmana Srinivas"
+    },
+    {
+     "name": "ధర్మాన ప్రసాద్",
+     "type": "Person",
+     "english_name": "Dharmana Prasad"
+    },
+    {
+     "name": "తంగి షణ్ముఖ",
+     "type": "Person",
+     "english_name": "Thangi Shanmukha"
+    },
+    {
+     "name": "తంగి చిన్నారావు",
+     "type": "Person",
+     "english_name": "Thangi Chinnarao"
+    },
+    {
+     "name": "శ్రీకాకుళం జిల్లా",
+     "type": "Place",
+     "english_name": "Srikakulam district"
+    },
+    {
+     "name": "కిషుపురం",
+     "type": "Place",
+     "english_name": "Kishthapuram"
+    },
+    {
+     "name": "కోటబొమ్మాళి",
+     "type": "Place",
+     "english_name": "Kotabommali"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "TDP activists attacked and injured Dalit woman Damayanti and threatened to ostracize her",
+     "type": "Claim",
+     "english_name": "TDP activists attacked and injured Dalit woman Damayanti and threatened to ostracize her"
+    },
+    {
+     "name": "Dalit woman attack",
+     "type": "Issue",
+     "english_name": "Dalit woman attack"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Damayanti",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "TDP activists attacked and injured Dalit woman Damayanti"
+    },
+    {
+     "source": "ధర్మాన శ్రీను",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "TDP activists"
+    },
+    {
+     "source": "ధర్మాన ప్రసాద్",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "TDP activists"
+    },
+    {
+     "source": "తంగి షణ్ముఖ",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "TDP activists"
+    },
+    {
+     "source": "తంగి చిన్నారావు",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "TDP activists"
+    },
+    {
+     "source": "శ్రీకాకుళం జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "శ్రీకాకుళం జిల్లా"
+    },
+    {
+     "source": "కోటబొమ్మాళి",
+     "relation": "LOCATED_IN",
+     "target": "శ్రీకాకుళం జిల్లా",
+     "evidence": "కోటబొమ్మాళి"
+    },
+    {
+     "source": "కిషుపురం",
+     "relation": "LOCATED_IN",
+     "target": "కోటబొమ్మాళి",
+     "evidence": "కిషుపురం"
+    },
+    {
+     "source": "TDP activists attacked and injured Dalit woman Damayanti and threatened to ostracize her",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Dalit woman attack",
+     "evidence": "TDP activists attacked and injured Dalit woman Damayanti and threatened to ostracize her"
+    }
+   ]
+  }
+ }
+}

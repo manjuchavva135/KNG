@@ -1,0 +1,141 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e49d8d0aea434e5ff14eb973645996129abacfbc": {
+   "entities": [
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Super Seven",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Gannavaram",
+     "type": "Place",
+     "english_name": "Gannavaram"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "అమరావతి గ్రీన్ఫీల్డ్ ఎయిర్పోర్టు",
+     "type": "Scheme",
+     "english_name": "Amaravati Greenfield Airport"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "మద్యం కుంభకోణం కేసులో చంద్రబాబు బెయిల్పై ఉన్నారు."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "అమరావతి గ్రీన్ఫీల్డ్ ఎయిర్పోర్టు అన్నది వర్కవుట్ కాదు. రియల్ ఎస్టేట్ వ్యాపారాన్ని పెంచి.. చంద్రబాబు, బినామీల భూముల ధరలు పెంచుకుని.. ప్రయోజనం పొందడానికే అమరావతి గ్రీన్ఫీల్డ్ ఎయిర్పోర్టు అంటూ మాటలు చెబుతున్నారు."
+    }
+   ]
+  },
+  "b0c060067560d413bdc9fc10f099ed1c7f173607": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Organization",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Issue",
+     "english_name": "REDBOOK"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మద్యం కేసులో మిమ్మల్ని అరెస్టు చేయడానికి చంద్రబాబు కూటమి ప్రభుత్వం ప్రయత్నాలు చేస్తోందంటున్నారు కదా.."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "LOCATED_IN",
+     "target": "తాడేపల్లి",
+     "evidence": "తాడేపల్లిలోని వైఎస్సార్సీపీ కేంద్ర కార్యాలయంలో గురువారం మీడియా ప్రతినిధులు అడిగిన పలు ప్రశ్నలకు వైఎస్ జగన్ సమాధానాలిచ్చారు."
+    }
+   ]
+  }
+ }
+}

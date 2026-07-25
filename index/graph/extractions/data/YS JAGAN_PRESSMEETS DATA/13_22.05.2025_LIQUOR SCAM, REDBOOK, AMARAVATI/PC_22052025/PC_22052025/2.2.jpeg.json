@@ -1,0 +1,62 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "90c40efd3d9880603a6974181191c90a67965f05": {
+   "entities": [
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "సీఎండీ రామేశ్వర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అదానీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అమెరికా దర్యాప్తు సంస్థలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సీఎండీ రామేశ్వర్ ఉద్యోగమే పోయింది",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "సీఎండీ రామేశ్వర్",
+     "relation": "MAKES_CLAIM",
+     "target": "సీఎండీ రామేశ్వర్ ఉద్యోగమే పోయింది",
+     "evidence": "సీఎండీ రామేశ్వర్ ఉద్యోగమే పోయింది"
+    }
+   ]
+  }
+ }
+}

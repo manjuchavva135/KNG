@@ -1,0 +1,270 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9ca4dd3afa1ae20ab0822948ae123de629459a14": {
+   "entities": [
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Babbu"
+    },
+    {
+     "name": "తాతంశెట్టి",
+     "type": "Person",
+     "english_name": "Tatamshetti"
+    },
+    {
+     "name": "అనుచరుడు",
+     "type": "Person",
+     "english_name": "Follower"
+    },
+    {
+     "name": "బాధితురాలు",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "టోల్గేట్",
+     "type": "Place",
+     "english_name": "Tollgate"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్ ఆదేశించినా అరవ పాల్గొనవద్దు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇది పవన్ను అవమానిమేనని పేర్కొన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "పవన్ కళ్యాణ్ ఆదేశించినా అరవ పాల్గొనవద్దు",
+     "evidence": "పవన్ కళ్యాణ్ ఆదేశించినా అరవ పాల్గొంటున్నారని"
+    },
+    {
+     "source": "తాతంశెట్టి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇది పవన్ను అవమానిమేనని పేర్కొన్నారు",
+     "evidence": "ఇది పవన్ను అవమానిమేనని పేర్కొన్నారు"
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "ACCUSES",
+     "target": "తాతంశెట్టి",
+     "evidence": "తాతంశెట్టి, ఆయన అనుచరులు దాడి చేశారని వివరించారు"
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "ACCUSES",
+     "target": "అనుచరుడు",
+     "evidence": "తాతంశెట్టి, ఆయన అనుచరులు దాడి చేశారని వివరించారు"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "Andhra Pradesh Main | Page : 14"
+    }
+   ]
+  },
+  "535c0197a0f3ac31126b0c9313a1a5a8b39c4db2": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Saakshi"
+    },
+    {
+     "name": "అరవ శ్రీధర్",
+     "type": "Person",
+     "english_name": "Arva Sridhar"
+    },
+    {
+     "name": "తాతంశెట్టి నాగేంద్ర",
+     "type": "Person",
+     "english_name": "Tatamsetty Nagendra"
+    },
+    {
+     "name": "వరుదు కళ్యాణి",
+     "type": "Person",
+     "english_name": "Varudu Kalyani"
+    },
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anita"
+    },
+    {
+     "name": "ముక్కా రూపానందరెడ్డి",
+     "type": "Person",
+     "english_name": "Mukkha Rupanan..."
+    },
+    {
+     "name": "బాధితురాలు",
+     "type": "Person",
+     "english_name": "Victim"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "మహిళా హోంమంత్రి",
+     "type": "Organization",
+     "english_name": "Women Home Minister"
+    },
+    {
+     "name": "రైల్వేకోడూరు పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Railwaykoduru Police Station"
+    },
+    {
+     "name": "రైల్వే కోడూరు",
+     "type": "Place",
+     "english_name": "Railwaykoduru"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "తిరుపతి జిల్లా",
+     "type": "Place",
+     "english_name": "Tirupati district"
+    },
+    {
+     "name": "ఓబులవారిపల్లె",
+     "type": "Place",
+     "english_name": "Obulavaripalle"
+    },
+    {
+     "name": "గాంధీ విగ్రహం",
+     "type": "Place",
+     "english_name": "Gandhi statue"
+    },
+    {
+     "name": "విశాఖ పెదవాల్తేరు",
+     "type": "Place",
+     "english_name": "Visakhapatnam Pedavalteru"
+    },
+    {
+     "name": "దాడి",
+     "type": "Issue",
+     "english_name": "Attack"
+    },
+    {
+     "name": "ఈ దాడికి పాల్పడిన వారిని వెంటనే అరెస్ట్ చేయాలని వైఎస్సార్సీపీ డిమాండ్ చేసింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తాను భయపడేది లేదని న్యాయం కోసం పోరాడతానని బాధితురాలు చెబుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళా హోంమంత్రి అనితకు ఈ దాడులు కనపడవా..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిందితులపై తక్షణం చర్యలు తీసుకోవాలని డిమాండ్ చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అరవ శ్రీధర్ పై చర్యలు తీసుకోవాలని అతని బాధితురాలు ... వినతిపత్రం అందజేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "అరవ శ్రీధర్",
+     "relation": "MEMBER_OF",
+     "target": "జనసేన",
+     "evidence": "జనసేన ఎమ్మెల్యే అరవ శ్రీధర్"
+    },
+    {
+     "source": "వరుదు కళ్యాణి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ మహిళా విభాగం రాష్ట్ర అధ్యక్షురాలు, ఎమ్మెల్సీ వరుదు కళ్యాణి"
+    },
+    {
+     "source": "ముక్కా రూపానందరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "నియోజకవర్గ టీడీపీ ఇన్చార్జ్ ముక్కా రూపానందరెడ్డి"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి/రైల్వే కోడూరు/ఓబులవారిపల్లె"
+    },
+    {
+     "source": "రైల్వేకోడూరు పోలీస్ స్టేషన్",
+     "relation": "LOCATED_IN",
+     "target": "రైల్వే కోడూరు",
+     "evidence": "రైల్వేకోడూరు పోలీస్ స్టేషన్కు చేరుకుని"
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "ACCUSES",
+     "target": "తాతంశెట్టి నాగేంద్ర",
+     "evidence": "తాతంశెట్టి నాగేంద్ర, జనసేన చోటా నేతలపై ఫిర్యాదు చేశారు."
+    },
+    {
+     "source": "బాధితురాలు",
+     "relation": "MAKES_CLAIM",
+     "target": "తాను భయపడేది లేదని న్యాయం కోసం పోరాడతానని బాధితురాలు చెబుతున్నారు.",
+     "evidence": "తాను భయపడేది లేదని న్యాయం కోసం పోరాడతానని బాధితురాలు చెబుతున్నారు."
+    },
+    {
+     "source": "వరుదు కళ్యాణి",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళా హోంమంత్రి అనితకు ఈ దాడులు కనపడవా..",
+     "evidence": "మహిళా హోంమంత్రి అనితకు ఈ దాడులు కనపడవా.."
+    }
+   ]
+  }
+ }
+}

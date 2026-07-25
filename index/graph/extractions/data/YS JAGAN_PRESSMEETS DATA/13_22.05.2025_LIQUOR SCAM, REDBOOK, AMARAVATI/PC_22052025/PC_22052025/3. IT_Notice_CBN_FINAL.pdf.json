@@ -1,0 +1,1109 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5cf851be34c77367a15d9f9f4db69f9ed9a09319": {
+   "entities": [
+    {
+     "name": "JAYA KUMAR BALIVADA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PCIT, Hyderabad-4",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "PCIT, Hyderabad-4",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "PCIT, Hyderabad-4"
+    }
+   ]
+  },
+  "87552cdf015722935406b374e150fa8564f3bdb1": {
+   "entities": [
+    {
+     "name": "Mr Srinivas",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "f3429d0c5513a6ff1d93f79c3b930b0c79bd6194": {
+   "entities": [],
+   "relations": []
+  },
+  "100d58984ce1427d03a2eb85c500aca83b92affc": {
+   "entities": [
+    {
+     "name": "N Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N Chandrababu Naidu"
+    },
+    {
+     "name": "Sri Manoj Vasudev Pardasanny",
+     "type": "Person",
+     "english_name": "Sri Manoj Vasudev Pardasanny"
+    },
+    {
+     "name": "INCOME TAX DEPARTMENT",
+     "type": "Organization",
+     "english_name": "Income Tax Department"
+    },
+    {
+     "name": "PRINCIPAL COMMISSIONER OF INCOME TAX",
+     "type": "Organization",
+     "english_name": "Principal Commissioner of Income Tax"
+    },
+    {
+     "name": "PCIT, Hyderabad-4",
+     "type": "Organization",
+     "english_name": "PCIT Hyderabad-4"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Jubilee Hills",
+     "type": "Place",
+     "english_name": "Jubilee Hills"
+    },
+    {
+     "name": "Masab Tank",
+     "type": "Place",
+     "english_name": "Masab Tank"
+    },
+    {
+     "name": "AC Guards",
+     "type": "Place",
+     "english_name": "AC Guards"
+    },
+    {
+     "name": "I T Tower",
+     "type": "Place",
+     "english_name": "I T Tower"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Case transferred from ITO to DC/ACIT",
+     "type": "Claim",
+     "english_name": "Case transferred from ITO to DC/ACIT"
+    }
+   ],
+   "relations": [
+    {
+     "source": "INCOME TAX DEPARTMENT",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "INCOME TAX DEPARTMENT ... Hyderabad-4"
+    },
+    {
+     "source": "PRINCIPAL COMMISSIONER OF INCOME TAX",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "Principal Commissioner of Income Tax-4, Hyderabad"
+    }
+   ]
+  },
+  "f38cab84aebc9491ed0ea4502eeb1e88e218f947": {
+   "entities": [
+    {
+     "name": "Vinay Nangalia",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Shapoorji Pallonji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Haigreeva",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Annnai",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shalakha",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Colaba",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "he has three companies namely Haigreeva, Annnai and Shalakha which will be facilitating the transactions for election funding.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Vinay Nangalia",
+     "relation": "MAKES_CLAIM",
+     "target": "he has three companies namely Haigreeva, Annnai and Shalakha which will be facilitating the transactions for election funding.",
+     "evidence": "he has three companies namely Haigreeva, Annnai and Shalakha which will be facilitating the transactions for election funding."
+    },
+    {
+     "source": "Shapoorji Pallonji",
+     "relation": "LOCATED_IN",
+     "target": "Colaba",
+     "evidence": "outside Shapoorji Pallonji office"
+    }
+   ]
+  },
+  "9f45dab4928facad9760d5286ecfd1fec9dc6ec4": {
+   "entities": [
+    {
+     "name": "Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vicky Jain",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Naolin",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Everett",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vinay Nangalia",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Haigreeva",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Annnai",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shalakha",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Colaba",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Shapoorji Pallonji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas had asked me for the party funds as the elections were approaching.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "He stated that he will send me the names of companies through one Vicky Jain to whom subcontracting work to be given.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Based on his instructions, Vicky Jain got in touch with me and gave me the names of Naolin and Everett.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "One Mr Vinay Nangalia was also introduced to me by Sh Srinivas in March 2019.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "I met him first time in Colaba outside Shapoorji Pallonji office where he told me that he has three companies namely Haigreeva, Annnai and Shalakha which will be facilitating the transactions for",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "Srinivas had asked me for the party funds as the elections were approaching.",
+     "evidence": "Srinivas had asked me for the party funds as the elections were approaching."
+    },
+    {
+     "source": "Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "He stated that he will send me the names of companies through one Vicky Jain to whom subcontracting work to be given.",
+     "evidence": "He stated that he will send me the names of companies through one Vicky Jain to whom subcontracting work to be given."
+    },
+    {
+     "source": "Vicky Jain",
+     "relation": "MAKES_CLAIM",
+     "target": "Based on his instructions, Vicky Jain got in touch with me and gave me the names of Naolin and Everett.",
+     "evidence": "Based on his instructions, Vicky Jain got in touch with me and gave me the names of Naolin and Everett."
+    },
+    {
+     "source": "Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "One Mr Vinay Nangalia was also introduced to me by Sh Srinivas in March 2019.",
+     "evidence": "One Mr Vinay Nangalia was also introduced to me by Sh Srinivas in March 2019."
+    },
+    {
+     "source": "Vinay Nangalia",
+     "relation": "MAKES_CLAIM",
+     "target": "I met him first time in Colaba outside Shapoorji Pallonji office where he told me that he has three companies namely Haigreeva, Annnai and Shalakha which will be facilitating the transactions for",
+     "evidence": "I met him first time in Colaba outside Shapoorji Pallonji office where he told me that he has three companies namely Haigreeva, Annnai and Shalakha which will be facilitating the transactions for"
+    },
+    {
+     "source": "Shapoorji Pallonji",
+     "relation": "LOCATED_IN",
+     "target": "Colaba",
+     "evidence": "outside Shapoorji Pallonji office"
+    }
+   ]
+  },
+  "790953809d58acd998b2d5beaa5ad27b7fa1dd08": {
+   "entities": [
+    {
+     "name": "Shapoorji Pallonji (SP)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "L&T",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Phoenix Infra",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pour Trading",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Atul Soni",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MVP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Santosh Soni",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bala Venkatesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CM Chandra",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "MVP",
+     "relation": "ACCUSES",
+     "target": "Shapoorji Pallonji (SP)",
+     "evidence": "funds were also siphoned off from Shapoorji Pallonji (SP)"
+    },
+    {
+     "source": "MVP",
+     "relation": "ACCUSES",
+     "target": "L&T",
+     "evidence": "funds were also siphoned off from L&T"
+    },
+    {
+     "source": "MVP",
+     "relation": "ACCUSES",
+     "target": "Phoenix Infra",
+     "evidence": "delivered for use by you through companies such as Phoenix Infra & Pour Trading."
+    },
+    {
+     "source": "MVP",
+     "relation": "ACCUSES",
+     "target": "Pour Trading",
+     "evidence": "delivered for use by you through companies such as Phoenix Infra & Pour Trading."
+    }
+   ]
+  },
+  "966832b1b7b417fb961481f3bab83948e901bf0a": {
+   "entities": [
+    {
+     "name": "CHANDRA BABU NAIDU NARA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Shapoorji Pallonji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mr Vicky",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr Vinay Nangalia",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Annai",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Haigreeva",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shalakha",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra CM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Foxconn",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mumbai",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Election funding",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "bogus invoicing",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Mr Vivek Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MD of Shapoorji Pallonji",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "bogus invoicing",
+     "evidence": "When Mr Srinivas instructed me to make payments to the above companies for election funding by raising bogus bills."
+    },
+    {
+     "source": "Mr Vicky",
+     "relation": "MEMBER_OF",
+     "target": "TDP party",
+     "evidence": "The cash generation from these companies were handled by Mr Vicky and Mr Vinay Nangalia."
+    },
+    {
+     "source": "Mr Vinay Nangalia",
+     "relation": "MEMBER_OF",
+     "target": "TDP party",
+     "evidence": "The cash generation from these companies were handled by Mr Vicky and Mr Vinay Nangalia."
+    }
+   ]
+  },
+  "536d2d9a645d2463cf3bce29bdb1a301890d4bd8": {
+   "entities": [
+    {
+     "name": "CHANDRA BABU NAIDU NARA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Secretary",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Government of Andhra",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SPCL (Shapoorji Pallonji)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MUAD of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "L & T",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NCC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sh Chandra Mohan Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PS. Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Subodh Dixit",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vicky Jain",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Naolin",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Everett",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Vinay Nangalia",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijaywada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnul",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Anantpur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "west Godavari",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Interim Secretariat",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "EWS housing project",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Government housing project",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Party funds demand of Rs 100cr",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "PS. Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "Party funds demand of Rs 100cr",
+     "evidence": "asked me for the party funds minimum of Rs 100cr as the elections were approaching."
+    }
+   ]
+  },
+  "e08018d945e2a8df3fad9b4bd0ebc10f74a6e3b5": {
+   "entities": [
+    {
+     "name": "Chandra Babu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijaywada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Interim Secretariat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "APTIDCO",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SPCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Foxconn",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Shahpoorji Pullonji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CM residence",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Srinivas asked me for party funds for TDP as the elections was approaching.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Chandra Babu Naidu personally discussed the general progress of the all the work/projects going on in SPCL at that time and asked me to meet his PS, Srinivas to follow his instructions.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Shahpoorji Pullonji received the first order of Book order was for 1,40,000 homes but had completed only 23.000 homes in March 2019.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Srinivas",
+     "relation": "MAKES_CLAIM",
+     "target": "Srinivas asked me for party funds for TDP as the elections was approaching.",
+     "evidence": "Srinivas asked me for party funds for TDP as the elections was approaching."
+    },
+    {
+     "source": "Chandra Babu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Chandra Babu Naidu personally discussed the general progress of the all the work/projects going on in SPCL at that time and asked me to meet his PS, Srinivas to follow his instructions.",
+     "evidence": "Chandra Babu Naidu personally discussed the general progress of the all the work/projects going on in SPCL at that time and asked me to meet his PS, Srinivas to follow his instructions."
+    },
+    {
+     "source": "Interim Secretariat",
+     "relation": "LOCATED_IN",
+     "target": "Vijaywada",
+     "evidence": "courtesy visits took place at the Interim Secretariat, Vijaywada"
+    },
+    {
+     "source": "CM residence",
+     "relation": "LOCATED_IN",
+     "target": "Vijaywada",
+     "evidence": "come to Vijaywada ... at the CM residence"
+    },
+    {
+     "source": "APTIDCO",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "development ... in the capital region of Amravati"
+    },
+    {
+     "source": "APCRDA",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "development ... in the capital region of Amravati"
+    }
+   ]
+  },
+  "634c04f3fc86dc62e1aaf481488fdd388d36cdc4": {
+   "entities": [
+    {
+     "name": "CHANDRA BABU NAIDU NARA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MVP Consults",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s SPCPL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shri MVP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. P. Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Income Tax Act, 1961",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "there is no technical and co-ordinating staff of any kind in MVP Consulates to provide these services.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "I only raise the bills for these services as per verbal and telephonic directions of Shri MVP.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MVP's office was only involved in generating bills/invoices with no technical or other staff employed by him.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Several incriminating messages, chats and excel sheets have also been recovered from MVP and his associates during search operations which show siphoning off of funds and cash generation by several major infrastructure companies.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Delivery of such cash to you has also been unearthed during the course of search.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Delivery of cash to Shri. Chandra Babu Naidu.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Shri MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "there is no technical and co-ordinating staff of any kind in MVP Consulates to provide these services.",
+     "evidence": "there is no technical and co-ordinating staff of any kind in MVP Consulates to provide these services."
+    },
+    {
+     "source": "Shri MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "I only raise the bills for these services as per verbal and telephonic directions of Shri MVP.",
+     "evidence": "I only raise the bills for these services as per verbal and telephonic directions of Shri MVP."
+    },
+    {
+     "source": "Shri MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "MVP's office was only involved in generating bills/invoices with no technical or other staff employed by him.",
+     "evidence": "MVP's office was only involved in generating bills/invoices with no technical or other staff employed by him."
+    },
+    {
+     "source": "Shri MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "Several incriminating messages, chats and excel sheets have also been recovered from MVP and his associates during search operations which show siphoning off of funds and cash generation by several major infrastructure companies.",
+     "evidence": "Several incriminating messages, chats and excel sheets have also been recovered from MVP and his associates during search operations which show siphoning off of funds and cash generation by several major infrastructure companies."
+    },
+    {
+     "source": "Shri MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "Delivery of such cash to you has also been unearthed during the course of search.",
+     "evidence": "Delivery of such cash to you has also been unearthed during the course of search."
+    },
+    {
+     "source": "Shri MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "Delivery of cash to Shri. Chandra Babu Naidu.",
+     "evidence": "Delivery of cash to Shri. Chandra Babu Naidu."
+    }
+   ]
+  },
+  "ed053080940a48ab52725d99a74ad4e5cddd832b": {
+   "entities": [
+    {
+     "name": "CHANDRA BABU NAIDU NARA",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "TDP party",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Shapoorji Pallonji",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. P. Srinivas",
+     "type": "Person",
+     "english_name": "P. Srinivas"
+    },
+    {
+     "name": "MVP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Vinay Nangalia",
+     "type": "Person",
+     "english_name": "Vinay Nangalia"
+    },
+    {
+     "name": "Vicky Jain",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr Rajesh",
+     "type": "Person",
+     "english_name": "Rajesh"
+    },
+    {
+     "name": "Annai",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Haigreeva",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shalaka",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Everett",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Naolin",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Naolin Infrastructure Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Everett Infra & Engineering Equipments Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SPCL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kurnul",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Anantpur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "west Godavari",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "MVP admitted that he was asked by Mr. Srinivas to arrange funds for the TDP party",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "MVP",
+     "relation": "MAKES_CLAIM",
+     "target": "MVP admitted that he was asked by Mr. Srinivas to arrange funds for the TDP party",
+     "evidence": "MVP has admitted, on 2 different occasions in his statement recorded on oath that he was asked by Mr. Srinivas to arrange funds for the TDP party"
+    },
+    {
+     "source": "CHANDRA BABU NAIDU NARA",
+     "relation": "MEMBER_OF",
+     "target": "TDP party",
+     "evidence": "Chandra Babu Naidu is the leader of the TDP party"
+    },
+    {
+     "source": "Mr. P. Srinivas",
+     "relation": "MEMBER_OF",
+     "target": "TDP party",
+     "evidence": "Mr. P. Srinivas (PS to Chandra Babu Naidu)"
+    },
+    {
+     "source": "Andhra Pradesh Government",
+     "relation": "LOCATED_IN",
+     "target": "Andhra",
+     "evidence": "Andhra Pradesh Government operates in Andhra"
+    }
+   ]
+  }
+ }
+}

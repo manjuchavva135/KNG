@@ -1,0 +1,312 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bf0b2291422cd289979b7d265d18a0eae4322e31": {
+   "entities": [
+    {
+     "name": "Y.S. Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "N.T. Rama Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Speaker",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Legislative Assembly",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Opposition leader",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "10 percent strength rule",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజలే దేవుళ్ళు - సమాజమే దేవాలయం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "Opposition leader",
+     "evidence": "ప్రతిపక్ష నాయకుడిగా గుర్తింపు పొందాలంటే సభలో కనీసం 10 శాతం సంఖ్యాబలం ఉండాలన్న నిబంధన"
+    },
+    {
+     "source": "N.T. Rama Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలే దేవుళ్ళు - సమాజమే దేవాలయం",
+     "evidence": "ప్రజలే దేవుళ్ళు - సమాజమే దేవాలయం"
+    },
+    {
+     "source": "Speaker",
+     "relation": "DEFENDS",
+     "target": "Speaker",
+     "evidence": "ఈ రూలింగు ఇస్తున్నాను"
+    }
+   ]
+  },
+  "f9fd88374c42783665fcec5f82d529cb62fc1446": {
+   "entities": [
+    {
+     "name": "Y. S. Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Legislative Assembly",
+     "type": "Organization",
+     "english_name": "Legislative Assembly"
+    },
+    {
+     "name": "Speaker",
+     "type": "Organization",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "YSRC",
+     "type": "Party",
+     "english_name": "YSRC"
+    },
+    {
+     "name": "G.V. Malvankar",
+     "type": "Person",
+     "english_name": "G.V. Malvankar"
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "Opposition leader status",
+     "type": "Issue",
+     "english_name": "Opposition leader status"
+    },
+    {
+     "name": "ఆరోపణలు",
+     "type": "Claim",
+     "english_name": "Allegations"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Y. S. Jagan Mohan Reddy",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆరోపణలు",
+     "evidence": "వై.యస్. జగన్మోహన రెడ్డి లేఖలో చేసిన ఆరోపణలకు భిన్నంగా"
+    },
+    {
+     "source": "Y. S. Jagan Mohan Reddy",
+     "relation": "MEMBER_OF",
+     "target": "YSRC",
+     "evidence": "YSRC శాసన సభా పక్ష నాయకుడిగా ఎన్నికైనట్టు"
+    },
+    {
+     "source": "Legislative Assembly",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "ఆంధ్ర ప్రదేశ్ శాసన సభ"
+    }
+   ]
+  },
+  "8d7c892025441e9e7b24c1936e09953ce258f6c3": {
+   "entities": [
+    {
+     "name": "వై.యస్. జగన్మోహన రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "స్పీకర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గౌరవ అడ్వకేట్ జనరల్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "శాసన వ్యవహారాల మంత్రి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్ర ప్రదేశ్ హై కోర్టు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్ర ప్రదేశ్ శాసన సభ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్ర ప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష నాయకుడి గుర్తింపు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ లేఖ అంతా అభియోగాలు, ప్రేలాపనలు, బెదిరింపుల మయం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ లేఖ రాసిన కొద్దిరోజుల తరువాత, వై.యస్. జగన్మోహన రెడ్డి ఆంధ్ర ప్రదేశ్ హై కోర్టుని ఆశ్రయించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వై.యస్. జగన్మోహన రెడ్డి చెప్పినట్లు వార్తలు వచ్చినాయి. నిజానికి, ఈ నాటి వరకు, హై కోర్టులో జగన్మోహన రెడ్డి వేసిన పిటిషన్ కు విచారణ కు అర్హత ఉందో, లేదో ఇంకా నిర్ధారణే కాలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ రూలింగు ద్వారా తప్పుడు ప్రచారానికి తెర దించాలని నిర్ణయించుకున్నాను.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వై.యస్. జగన్మోహన రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ లేఖ అంతా అభియోగాలు, ప్రేలాపనలు, బెదిరింపుల మయం.",
+     "evidence": "ఆ లేఖ అంతా అభియోగాలు, ప్రేలాపనలు, బెదిరింపుల మయం."
+    },
+    {
+     "source": "వై.యస్. జగన్మోహన రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ లేఖ రాసిన కొద్దిరోజుల తరువాత, వై.యస్. జగన్మోహన రెడ్డి ఆంధ్ర ప్రదేశ్ హై కోర్టుని ఆశ్రయించారు.",
+     "evidence": "ఆ లేఖ రాసిన కొద్దిరోజుల తరువాత, వై.యస్. జగన్మోహన రెడ్డి ఆంధ్ర ప్రదేశ్ హై కోర్టుని ఆశ్రయించారు."
+    },
+    {
+     "source": "వై.యస్. జగన్మోహన రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "వై.యస్. జగన్మోహన రెడ్డి చెప్పినట్లు వార్తలు వచ్చినాయి. నిజానికి, ఈ నాటి వరకు, హై కోర్టులో జగన్మోహన రెడ్డి వేసిన పిటిషన్ కు విచారణ కు అర్హత ఉందో, లేదో ఇంకా నిర్ధారణే కాలేదు.",
+     "evidence": "వై.యస్. జగన్మోహన రెడ్డి చెప్పినట్లు వార్తలు వచ్చినాయి. నిజానికి, ఈ నాటి వరకు, హై కోర్టులో జగన్మోహన రెడ్డి వేసిన పిటిషన్ కు విచారణ కు అర్హత ఉందో, లేదో ఇంకా నిర్ధారణే కాలేదు."
+    },
+    {
+     "source": "స్పీకర్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ రూలింగు ద్వారా తప్పుడు ప్రచారానికి తెర దించాలని నిర్ణయించుకున్నాను.",
+     "evidence": "ఈ రూలింగు ద్వారా తప్పుడు ప్రచారానికి తెర దించాలని నిర్ణయించుకున్నాను."
+    },
+    {
+     "source": "ఆంధ్ర ప్రదేశ్ శాసన సభ",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్ర ప్రదేశ్",
+     "evidence": "ఆంధ్ర ప్రదేశ్ శాసన సభ"
+    }
+   ]
+  },
+  "b00f4db9e57fecd92ed21d111a2dc9ea488731fe": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ శాసన సభ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Legislative Assembly"
+    },
+    {
+     "name": "పార్లమెంటు",
+     "type": "Organization",
+     "english_name": "Parliament"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "జగన్మోహన రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "పి. జనార్ధన రెడ్డి",
+     "type": "Person",
+     "english_name": "P. Janardhan Reddy"
+    },
+    {
+     "name": "భారత జాతీయ కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Indian National Congress"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "పి. ఉపేంద్ర",
+     "type": "Person",
+     "english_name": "P. Upendra"
+    },
+    {
+     "name": "చంద్ర బాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "10 శాతం సూత్రం",
+     "type": "Issue",
+     "english_name": "10% rule"
+    },
+    {
+     "name": "చంద్ర బాబు నాయుడుకు ప్రతిపక్ష నాయకుడి హోదా ఉండదు",
+     "type": "Claim",
+     "english_name": "Chandrababu Naidu would not have opposition leader status"
+    },
+    {
+     "name": "పి. జనార్ధన రెడ్డికి 1994 లో ప్రతిపక్ష నాయకుడిగా గుర్తింపు దక్కలేదు",
+     "type": "Claim",
+     "english_name": "P. Janardhan Reddy was not recognized as opposition leader in 1994"
+    },
+    {
+     "name": "పి. ఉపేంద్రకు ప్రతిపక్ష నాయకుడిగా గుర్తింపు లభించలేదు",
+     "type": "Claim",
+     "english_name": "P. Upendra was not recognized as opposition leader"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్మోహన రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్ర బాబు నాయుడుకు ప్రతిపక్ష నాయకుడి హోదా ఉండదు",
+     "evidence": "చంద్ర బాబు నాయుడు గారికి 23 మంది శాసన సభ్యులు ఉన్నారు. ఒక ఐదుగురిని లాగేస్తే, ఆయనకు 18 మందో, 17 మందో ఉంటారు. అప్పుడు ఆయనకు ప్రతిపక్ష నాయకుడి స్టేటస్ కూడా ఉండదు” అన్నారు జగన్మోహన రెడ్డి."
+    },
+    {
+     "source": "జగన్మోహన రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "పి. జనార్ధన రెడ్డికి 1994 లో ప్రతిపక్ష నాయకుడిగా గుర్తింపు దక్కలేదు",
+     "evidence": "ఆయన చెప్పినట్లుగా శ్రీ పి. జనార్ధన రెడ్డికి 1"
+    }
+   ]
+  }
+ }
+}

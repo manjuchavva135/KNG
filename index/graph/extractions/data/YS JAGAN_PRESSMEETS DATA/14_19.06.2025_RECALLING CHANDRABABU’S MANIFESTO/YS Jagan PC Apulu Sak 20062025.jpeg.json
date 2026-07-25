@@ -1,0 +1,288 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0121b929a39d36fc62ae5150344dd17495bddbd9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "మా హయాంలో ఐదేళ్లలో అన్నీ కలిపి రూ.3,32,671 కోట్ల అప్పు చేస్తే.. చంద్రబాబు ఈ ఒక్క ఏడాదిలోనే చేసిన మొత్తం అప్పులు రూ.1,61,301 కోట్లు. అంటే మా ఐదేళ్ల హయాంతో పోలిస్తే ఏకంగా 48.5% అప్పు చేశాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అప్పులు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మా హయాంలో ఐదేళ్లలో అన్నీ కలిపి రూ.3,32,671 కోట్ల అప్పు చేస్తే.. చంద్రబాబు ఈ ఒక్క ఏడాదిలోనే చేసిన మొత్తం అప్పులు రూ.1,61,301 కోట్లు. అంటే మా ఐదేళ్ల హయాంతో పోలిస్తే ఏకంగా 48.5% అప్పు చేశాడు",
+     "evidence": "మా హయాంలో ఐదేళ్లలో అన్నీ కలిపి రూ.3,32,671 కోట్ల అప్పు చేస్తే.. చంద్రబాబు ఈ ఒక్క ఏడాదిలోనే చేసిన మొత్తం అప్పులు రూ.1,61,301 కోట్లు. అంటే మా ఐదేళ్ల హయాంతో పోలిస్తే ఏకంగా 48.5% అప్పు చేశాడు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మా హయాంలో ఐదేళ్లలో అన్నీ కలిపి రూ.3,32,671 కోట్ల అప్పు చేస్తే.. చంద్రబాబు ఈ ఒక్క ఏడాదిలోనే చేసిన మొత్తం అప్పులు రూ.1,61,301 కోట్లు. అంటే మా ఐదేళ్ల హయాంతో పోలిస్తే ఏకంగా 48.5% అప్పు చేశాడు"
+    },
+    {
+     "source": "మా హయాంలో ఐదేళ్లలో అన్నీ కలిపి రూ.3,32,671 కోట్ల అప్పు చేస్తే.. చంద్రబాబు ఈ ఒక్క ఏడాదిలోనే చేసిన మొత్తం అప్పులు రూ.1,61,301 కోట్లు. అంటే మా ఐదేళ్ల హయాంతో పోలిస్తే ఏకంగా 48.5% అప్పు చేశాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "మా హయాంలో ఐదేళ్లలో అన్నీ కలిపి రూ.3,32,671 కోట్ల అప్పు చేస్తే.. చంద్రబాబు ఈ ఒక్క ఏడాదిలోనే చేసిన మొత్తం అప్పులు రూ.1,61,301 కోట్లు. అంటే మా ఐదేళ్ల హయాంతో పోలిస్తే ఏకంగా 48.5% అప్పు చేశాడు"
+    }
+   ]
+  },
+  "2108543a863d8bbeaae1ef9f56fe96433a033345": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వరల్డ్ బ్యాంక్",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "ఏషియన్ డెవలప్మెంట్",
+     "type": "Organization",
+     "english_name": "Asian Development Bank"
+    },
+    {
+     "name": "ఏపీ మార్కెఫెడ్",
+     "type": "Organization",
+     "english_name": "AP Markfed"
+    },
+    {
+     "name": "సివిల్ సప్లాయిస్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Civil Supplies Corporation"
+    },
+    {
+     "name": "హడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "ఏపీఎఫ్సీ",
+     "type": "Organization",
+     "english_name": "APFC"
+    },
+    {
+     "name": "ఏపీఎండీ బాండ్స్",
+     "type": "Organization",
+     "english_name": "APMD Bonds"
+    },
+    {
+     "name": "జెఎఫ్డబ్ల్యూ జర్మనీ సంస్థ",
+     "type": "Organization",
+     "english_name": "JFW German Company"
+    },
+    {
+     "name": "Debt",
+     "type": "Issue",
+     "english_name": "Debt"
+    },
+    {
+     "name": "Revenue Deficit",
+     "type": "Issue",
+     "english_name": "Revenue Deficit"
+    },
+    {
+     "name": "Wealth Creation",
+     "type": "Issue",
+     "english_name": "Wealth Creation"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, ఆయన అనుకూల ఎల్లో మీడియా రకరకాల స్కెచ్లు వేస్తోందని వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ ముఖ్యమంత్రి వైఎస్ జగన్ ధ్వజమెత్తారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు"
+    }
+   ]
+  },
+  "7e2dba30cdd868487b18564dc7e6ac620508b726": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "ఏపీఎండీసీ",
+     "type": "Organization",
+     "english_name": "APMDC"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర స్థూల ఉత్పత్తిలో రెవెన్యూ లోటు 2.65% నుండి 3.61%కి పెరిగింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఐదేళ్ల హయాంతో పోలిస్తే చంద్రబాబు 48.5% అప్పు చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు గజదొంగల ముఠా రాష్ట్ర ఆదాయాన్ని దోచుకుంటోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆదాయాల వృద్ధి కేవలం 3.08% మాత్రమే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చెప్పే అబద్ధాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎండీసీ 436 మైన్స్ ప్రాజెక్టులను రూ.1.91 లక్షల కోట్లకు తాకట్టు పెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర కన్సాలిడేటెడ్ ఫండ్ మీద ప్రైవేటు వ్యక్తులకు అజమాయిషీ ఇస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిగిలిన రాష్ట్రాల కన్నా ఎక్కువ చేసి రాష్ట్ర ప్రభుత్వాన్ని అమ్మేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర స్థూల ఉత్పత్తిలో రెవెన్యూ లోటు 2.65% నుండి 3.61%కి పెరిగింది",
+     "evidence": "రాష్ట్ర స్థూల ఉత్పత్తిలో రెవెన్యూ లోటు చూస్తే, మా హయాంలో అది 2.65 శాతం అయితే (అప్పుడు రెండేళ్లు కోవిడ్ ఉంది), ఇప్పుడు ఏకంగా 3.61 శాతానికి పెరిగింది"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ఐదేళ్ల హయాంతో పోలిస్తే చంద్రబాబు 48.5% అప్పు చేశారు",
+     "evidence": "మా ఐదేళ్ల హయాంతో పోలిస్తే ఏకంగా 48.5% అప్పు చేశాడు"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు గజదొంగల ముఠా రాష్ట్ర ఆదాయాన్ని దోచుకుంటోంది",
+     "evidence": "చంద్రబాబు, ఆయనకు చెందిన గజ దొంగల ముఠా దోచుకుంటోంది"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆదాయాల వృద్ధి కేవలం 3.08% మాత్రమే",
+     "evidence": "ఆదాయాల వృద్ధి కేవలం 3.08 శాతం మాత్రమే"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చెప్పే అబద్ధాలు",
+     "evidence": "చంద్రబాబు చెప్పే అబద్ధాలు"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీఎండీసీ 436 మైన్స్ ప్రాజెక్టులను రూ.1.91 లక్షల కోట్లకు తాకట్టు పెట్టారు",
+     "evidence": "ఏపీఎండీసీకి సంబంధించిన 436 మైన్స్ ప్రాజెక్టులను తాకట్టు పెడుతూ, వాటి విలువ రూ.1.91 లక్షల కోట్లుగా చూపిస్తూ ఏప్రిల్ 24న పర్మిషన్ ఇచ్చాడు"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర కన్సాలిడేటెడ్ ఫండ్ మీద ప్రైవేటు వ్యక్తులకు అజమాయిషీ ఇస్తున్నారు",
+     "evidence": "రాష్ట్ర ప్రభుత్వానికి సంబంధించిన కన్సాలిడేటెడ్ ఫండ్ మీద అజమాయిషీని ప్రైవేటు వ్యక్తులకు ఇస్తున్నాడు"
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "మిగిలిన రాష్ట్రాల కన్నా ఎక్కువ చేసి రాష్ట్ర ప్రభుత్వాన్ని అమ్మేస్తున్నారు",
+     "evidence": "మిగిలిన రాష్ట్ర ప్రభుత్వాలు చేసిన దాని కన్నా ఇంకా ఎక్కువ చేసి రాష్ట్ర ప్రభుత్వాన్ని అమ్మేస్తున్నాడు"
+    },
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, ఆయనకు చెందిన గజ దొంగల ముఠా దోచుకుంటోంది"
+    },
+    {
+     "source": "ఏపీఎండీసీ",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh (Andhra Pradesh Main )"
+    }
+   ]
+  }
+ }
+}

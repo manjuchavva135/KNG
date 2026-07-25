@@ -1,0 +1,181 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3039359576397b827677ddb754cc4b2a2027a06a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "స్పీకర్ అయ్యన్నపాత్రుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "శాసనసభ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BUDGET 2025-26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజల గొంతుక వినపడకూడదనే మాకు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా ఇవ్వడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా సాధ్యం కాదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా ఇచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతిపక్ష హోదా ఇవ్వాలని నిబంధన",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతిపక్ష హోదా సాధ్యం కాదు",
+     "evidence": "ప్రతిపక్ష హోదా సాధ్యం కాదు"
+    },
+    {
+     "source": "శాసనసభ",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్"
+    }
+   ]
+  },
+  "29d2bd633e099b3564193bb4d72644bcb5c00d9c": {
+   "entities": [
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "గవర్నర్",
+     "type": "Person",
+     "english_name": "Governor"
+    },
+    {
+     "name": "జడ్జీలు",
+     "type": "Person",
+     "english_name": "Judges"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సూపర్ 6",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Amma Vodi"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "దీపం",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "పథకాలకు కోతలు",
+     "type": "Issue",
+     "english_name": "Scheme cuts"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "బాబు",
+     "evidence": "చంద్రబాబు సర్కారు మోసాలు, బడ్జెట్ కేటాయింపులపై వైఎస్ జగన్ ధ్వజం"
+    },
+    {
+     "source": "సూపర్ 6",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్",
+     "evidence": "సూపర్ సిక్స్ హామీలకు ఏడాదికి రూ.79,867 కోట్లు అవసరం.. బడ్జెట్లో ఇచ్చింది రూ.17,179 కోట్లే"
+    }
+   ]
+  }
+ }
+}

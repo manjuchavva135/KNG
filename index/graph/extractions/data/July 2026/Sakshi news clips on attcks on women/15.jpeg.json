@@ -1,0 +1,290 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c09b20f5250dcb907ea015c9a8a0a89dc8a3f4e5": {
+   "entities": [
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": "Malagundamma"
+    },
+    {
+     "name": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghavendra Reddy alias Ragappa Reddy"
+    },
+    {
+     "name": "శ్రీధర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Sridhar Reddy"
+    },
+    {
+     "name": "పురుషోత్తంరెడ్డి",
+     "type": "Person",
+     "english_name": "Purushotham Reddy"
+    },
+    {
+     "name": "తిరుమలమ్మ",
+     "type": "Person",
+     "english_name": "Tirumala amma"
+    },
+    {
+     "name": "కిషోర్",
+     "type": "Person",
+     "english_name": "Kishore"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "ఆదోని రూరల్",
+     "type": "Place",
+     "english_name": "Adoni Rural"
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "నాగనాథహళ్లి",
+     "type": "Place",
+     "english_name": "Naganathahalli"
+    },
+    {
+     "name": "దళిత మహిళ హత్య",
+     "type": "Issue",
+     "english_name": "Dalit woman murder"
+    },
+    {
+     "name": "ట్రాక్టర్తో తొక్కించి దళిత మహిళ దారుణ హత్య",
+     "type": "Claim",
+     "english_name": "Brutal murder of Dalit woman by tractor"
+    },
+    {
+     "name": "టీడీపీ నేతల దాఫ్టీకం",
+     "type": "Claim",
+     "english_name": "TDP leaders' conspiracy"
+    },
+    {
+     "name": "ప్రభుత్వం మనదే.. ఎవడు అడ్డొస్తాడో చూద్దాం",
+     "type": "Claim",
+     "english_name": "The government is ours.. let's see who stops us"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వం మనదే.. ఎవడు అడ్డొస్తాడో చూద్దాం",
+     "evidence": "ప్రభుత్వం మనదే.. ఎవడు అడ్డొస్తాడో చూద్దాం"
+    },
+    {
+     "source": "రాఘవేంద్రరెడ్డి అలియాస్ రాగప్పరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నేతలు"
+    },
+    {
+     "source": "ఆదోని రూరల్",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు జిల్లా",
+     "evidence": "ఆదోని రూరల్: ..."
+    },
+    {
+     "source": "ట్రాక్టర్తో తొక్కించి దళిత మహిళ దారుణ హత్య",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "దళిత మహిళ హత్య",
+     "evidence": "దళిత మహిళ హత్య"
+    },
+    {
+     "source": "టీడీపీ నేతల దాఫ్టీకం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "దళిత మహిళ హత్య",
+     "evidence": "దళిత మహిళ హత్య"
+    },
+    {
+     "source": "ప్రభుత్వం మనదే.. ఎవడు అడ్డొస్తాడో చూద్దాం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "దళిత మహిళ హత్య",
+     "evidence": "దళిత మహిళ హత్య"
+    }
+   ]
+  },
+  "91ce8b64a21e31709050128cbaa7176fcb5930cf": {
+   "entities": [
+    {
+     "name": "కిషోర్",
+     "type": "Person",
+     "english_name": "Kishore"
+    },
+    {
+     "name": "రాఘవేంద్రరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghavendra Reddy"
+    },
+    {
+     "name": "శ్రీధర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Sridhar Reddy"
+    },
+    {
+     "name": "సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "Subba Reddy"
+    },
+    {
+     "name": "కె.డి.నాగరాజ్",
+     "type": "Person",
+     "english_name": "K.D. Nagaraj"
+    },
+    {
+     "name": "రామకృష్ణ",
+     "type": "Person",
+     "english_name": "Ramakrishna"
+    },
+    {
+     "name": "సోమశేఖర్",
+     "type": "Person",
+     "english_name": "Somasekhar"
+    },
+    {
+     "name": "నిరంజన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Niranjan Reddy"
+    },
+    {
+     "name": "మాల గుండమ్మ",
+     "type": "Person",
+     "english_name": "Malli Gundamma"
+    },
+    {
+     "name": "దేవదాసు",
+     "type": "Person",
+     "english_name": "Devadasu"
+    },
+    {
+     "name": "నరసింహులు",
+     "type": "Person",
+     "english_name": "Narasimhululu"
+    },
+    {
+     "name": "గురునాథ్రెడ్డి",
+     "type": "Person",
+     "english_name": "Gurunathareddy"
+    },
+    {
+     "name": "దేవాలు",
+     "type": "Person",
+     "english_name": "Devallu"
+    },
+    {
+     "name": "పార్థసారథి",
+     "type": "Person",
+     "english_name": "Parthasarathi"
+    },
+    {
+     "name": "ఇస్వీ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ఆదోని ప్రభుత్వ జనరల్ ఆస్పత్రి",
+     "type": "Organization",
+     "english_name": "Adoni Government Hospital"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆంధ్ర ప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on women"
+    },
+    {
+     "name": "ప్రభుత్వమే ఆదుకోవాలి, దోషులను శిక్షించాలి",
+     "type": "Claim",
+     "english_name": "Government must support the family and punish the culprits"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాఘవేంద్రరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకులు రాఘవేంద్రరెడ్డి"
+    },
+    {
+     "source": "శ్రీధర్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకులు శ్రీధర్ రెడ్డి"
+    },
+    {
+     "source": "సుబ్బారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకులు సుబ్బారెడ్డి"
+    },
+    {
+     "source": "కె.డి.నాగరాజ్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకులు కె.డి.నాగరాజ్"
+    },
+    {
+     "source": "రామకృష్ణ",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకులు రామకృష్ణ"
+    },
+    {
+     "source": "సోమశేఖర్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకులు సోమశేఖర్"
+    },
+    {
+     "source": "ఆదోని ప్రభుత్వ జనరల్ ఆస్పత్రి",
+     "relation": "LOCATED_IN",
+     "target": "ఆదోని",
+     "evidence": "ఆదోని ప్రభుత్వ జనరల్ ఆస్పత్రి"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,751 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fea55cb3d7dd5e7c1173d8008d0599cc80b8b56f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ నాయకులు",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రైవేటు వ్యాపారులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సీఎం",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్బీకేలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ–క్రాప్‌ వ్యవస్థలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పీఏసీలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కలెక్టర్లు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఎస్పీలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా కొరత",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "స్కామ్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బ్లాక్‌మార్కెట్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా కొరత. రూ.250 కోట్ల స్కామ్‌",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ నాయకులు",
+     "evidence": "టీడీపీ నాయకులు అక్రమంగా తరలించిన యూరియా ఫోటోలు"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ప్రైవేటు వ్యాపారులు",
+     "evidence": "ప్రైవేటు వ్యాపారులకు ఎక్కువగా ఇచ్చేశారు"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ఆర్బీకేలు",
+     "evidence": "ఆర్బీకేలు... నిర్వీర్యం చేశారు"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ఈ–క్రాప్‌ వ్యవస్థలు",
+     "evidence": "ఈ–క్రాప్‌ వ్యవస్థలు నిర్వీర్యం చేశారు"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "పీఏసీలు",
+     "evidence": "పీఏసీలను కూడా నిర్వీర్యం చేసి"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "మా ప్రభుత్వ హయాంలో ఇలాంటివి ఎందుకు జరగలేదు"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "సీఎం",
+     "evidence": "ఈరోజు ఏకంగా సీఎం భాగస్వామి అయ్యాడు"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "యూరియా కొరత. రూ.250 కోట్ల స్కామ్‌",
+     "evidence": "రాష్ట్రానికి వస్తున్న యూరియాను టీడీపీ నాయకులు దారి మళ్లించి ఎక్కువ ధరకు అమ్ముతున్నారు"
+    },
+    {
+     "source": "యూరియా కొరత. రూ.250 కోట్ల స్కామ్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యూరియా కొరత",
+     "evidence": "యూరియా కొరత"
+    },
+    {
+     "source": "యూరియా కొరత. రూ.250 కోట్ల స్కామ్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "స్కామ్‌",
+     "evidence": "స్కామ్‌"
+    },
+    {
+     "source": "యూరియా కొరత. రూ.250 కోట్ల స్కామ్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బ్లాక్‌మార్కెట్‌",
+     "evidence": "బ్లాక్‌మార్కెట్‌"
+    }
+   ]
+  },
+  "716885eab5729f6c8837eb0b44fb7eb347388f25": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బ్లాక్‌ మార్కెట్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "గిట్టుబాటు ధరలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రేట్లు బాగా ఉన్నాయంటాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దోచుకో పంచుకో తినుకో",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రేట్లు బాగా ఉన్నాయంటాడు",
+     "evidence": "రేట్లు బాగా ఉన్నాయంటాడు."
+    }
+   ]
+  },
+  "8cfb1e7215a303d6fd07f29ae7e1cae58db8b5d6": {
+   "entities": [
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "ఆన్‌లైన్‌ మార్కెటింగ్‌ సంస్థ",
+     "type": "Organization",
+     "english_name": "online marketing company"
+    },
+    {
+     "name": "పీపీటీ",
+     "type": "Organization",
+     "english_name": "PPT"
+    },
+    {
+     "name": "కోవిడ్‌ సంక్షోభం",
+     "type": "Issue",
+     "english_name": "COVID crisis"
+    },
+    {
+     "name": "చీనీ కాయల ధర",
+     "type": "Issue",
+     "english_name": "banana price"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "farmers"
+    },
+    {
+     "name": "ఈరోజు ఉల్లి క్వింటాలు సగటు ధర రూ.200 నుంచి రూ.400 వరకు ఉంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కిలో ఉల్లి ధర రూ.34.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉల్లి ధర రూ.3,400.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా వైయస్సార్‌ సీపీ ప్రభుత్వ హయాంలో కేజీ ఉల్లి రూ.40 నుంచి రూ.125కు తగ్గలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "9 వేల టన్నులు ప్రొక్యూర్‌ చేసి సరఫరా చేశాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చీనీ కాయల ధర ఈరోజు టన్ను రూ.7 వేల నుంచి గరిష్టంగా రూ.14 వేలు మాత్రమే.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "e273f799b189c84c145ffa0b432b7a31f6d2873f": {
+   "entities": [
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పద్మావతి వర్సిటీ కాలేజీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "జిల్లాలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "టీచింగ్‌ హాస్పిటల్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఒకేసారి 17 మెడికల్‌ కాలేజీల నిర్మాణం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి జిల్లాకు ఒక టీచింగ్‌ హాస్పిటల్‌ తీసుకురావాలని, ఒక మెడికల్‌ కాలేజీ ఏర్పాటు చేయాలని చూశాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు తన 14 ఏళ్ల పాలనలో కనీసం ఒక్కటంటే, ఒక్క మెడికల్‌ కాలేజీ అయినా కట్టాడా?",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు తన 14 ఏళ్ల పాలనలో కనీసం ఒక్కటంటే, ఒక్క మెడికల్‌ కాలేజీ అయినా కట్టాడా?",
+     "evidence": "చంద్రబాబు తన 14 ఏళ్ల పాలనలో కనీసం ఒక్కటంటే, ఒక్క మెడికల్‌ కాలేజీ అయినా కట్టాడా?"
+    }
+   ]
+  },
+  "aa3867b51a51bfa2d43559ad9f71606b2a0537aa": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": "Government Hospitals"
+    },
+    {
+     "name": "ఎన్‌ఎంసీ (జాతీయ వైద్య కమిషన్‌)",
+     "type": "Organization",
+     "english_name": "NMC (National Medical Commission)"
+    },
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "రాజమండ్రి",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": "Nandyal"
+    },
+    {
+     "name": "పాడేరు",
+     "type": "Place",
+     "english_name": "Paderu"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "అదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "మార్కాపురం",
+     "type": "Place",
+     "english_name": "Markapuram"
+    },
+    {
+     "name": "పిడుగురాళ్ల",
+     "type": "Place",
+     "english_name": "Piduguralla"
+    },
+    {
+     "name": "అమలాపురం",
+     "type": "Place",
+     "english_name": "Amalapuram"
+    },
+    {
+     "name": "బాపట్ల",
+     "type": "Place",
+     "english_name": "Bapatla"
+    },
+    {
+     "name": "నర్సీపట్నం",
+     "type": "Place",
+     "english_name": "Narsipatnam"
+    },
+    {
+     "name": "పార్వతీపురం",
+     "type": "Place",
+     "english_name": "Parvathipuram"
+    },
+    {
+     "name": "పాలకొల్లు",
+     "type": "Place",
+     "english_name": "Palakollu"
+    },
+    {
+     "name": "పెనుకొండ",
+     "type": "Place",
+     "english_name": "Penukonda"
+    },
+    {
+     "name": "చంద్రబాబు ఎంత దుర్మార్గుడు అంటే, పులివెందుల మెడికల్‌ కాలేజీకి ఎన్‌ఎంసీ (జాతీయ వైద్య కమిషన్‌) 50 సీట్లు కేటాయించి, భర్తీ చేయడానికి అనుమతి ఇస్తే, ఆ సీట్లు వద్దంటూ చంద్రబాబు లేఖ రాశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎన్‌ఎంసీ (జాతీయ వైద్య కమిషన్‌)",
+     "evidence": "ఆ సీట్లు వద్దంటూ చంద్రబాబు లేఖ రాశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఎంత దుర్మార్గుడు అంటే, పులివెందుల మెడికల్‌ కాలేజీకి ఎన్‌ఎంసీ (జాతీయ వైద్య కమిషన్‌) 50 సీట్లు కేటాయించి, భర్తీ చేయడానికి అనుమతి ఇస్తే, ఆ సీట్లు వద్దంటూ చంద్రబాబు లేఖ రాశాడు.",
+     "evidence": "చంద్రబాబు ఎంత దుర్మార్గుడు అంటే, పులివెందుల మెడికల్‌ కాలేజీకి ఎన్‌ఎంసీ (జాతీయ వైద్య కమిషన్‌) 50 సీట్లు కేటాయించి, భర్తీ చేయడానికి అనుమతి ఇస్తే, ఆ సీట్లు వద్దంటూ చంద్రబాబు లేఖ రాశాడు."
+    }
+   ]
+  },
+  "2169cf8e608e5f39724ab3ea0424647e921b7b27": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "జడ్పీటీసీ",
+     "type": "Organization",
+     "english_name": "Zilla Parishad"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ",
+     "type": "Issue",
+     "english_name": "Privatization of medical colleges"
+    },
+    {
+     "name": "ఎన్నికల్లో అక్రమాలు",
+     "type": "Issue",
+     "english_name": "Election irregularities"
+    },
+    {
+     "name": "యూరియా కొరత",
+     "type": "Issue",
+     "english_name": "Urea shortage"
+    },
+    {
+     "name": "ప్రజా సమస్యలు",
+     "type": "Issue",
+     "english_name": "Public issues"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ. దీన్ని గట్టిగా అడ్డుకుంటాం.",
+     "type": "Claim",
+     "english_name": "We will strongly oppose privatization of medical colleges"
+    },
+    {
+     "name": "కొత్త మెడికల్‌ కాలేజీలు మన సంపద. రాష్ట్ర సంపద.",
+     "type": "Claim",
+     "english_name": "New medical colleges are our wealth and the state's wealth"
+    },
+    {
+     "name": "ఆ ప్రభుత్వం వాటిని ప్రೖవేటీకరిస్తే, రేపు మా ప్రభుత్వం రాగానే, అన్నీ రద్దు చేస్తాం. కాలేజీలు వెనక్కు తీసుకుంటాం.",
+     "type": "Claim",
+     "english_name": "If that government privatizes them, our government will cancel everything and take back the colleges"
+    },
+    {
+     "name": "ఎన్నికల్లో అక్రమాలకు ఈవీఎంలు పరిష్కారం కాదు.",
+     "type": "Claim",
+     "english_name": "EVMs are not a solution to election irregularities"
+    },
+    {
+     "name": "లోకల్‌ బాడీ ఎన్నికల్లో. మొన్న పులివెందుల, ఒంటిమిట్ట జడ్పీటీసీ ఉప ఎన్నికల్లో ఏం జరిగిందో చూశాం.",
+     "type": "Claim",
+     "english_name": "In local body elections we saw what happened in Pulivendula and Ontimitta ZPTC by‑elections"
+    },
+    {
+     "name": "యూరియా కొరత. రైతులు ఎలా ఇబ్బంది పడుతున్నారో చూస్తున్నాం.",
+     "type": "Claim",
+     "english_name": "There is a urea shortage; we see farmers suffering"
+    },
+    {
+     "name": "అసెంబ్లీలో మాకు ఇంత సమయం ఇస్తేనే, ప్రజా సమస్యలు ప్రస్తావించగలుగుతాం.",
+     "type": "Claim",
+     "english_name": "Only if we get this much time in the assembly can we raise public issues"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ. దీన్ని గట్టిగా అడ్డుకుంటాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ",
+     "evidence": "మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ. దీన్ని గట్టిగా అడ్డుకుంటాం."
+    },
+    {
+     "source": "కొత్త మెడికల్‌ కాలేజీలు మన సంపద. రాష్ట్ర సంపద.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ",
+     "evidence": "కొత్త మెడికల్‌ కాలేజీలు మన సంపద. రాష్ట్ర సంపద."
+    },
+    {
+     "source": "ఆ ప్రభుత్వం వాటిని ప్రೖవేటీకరిస్తే, రేపు మా ప్రభుత్వం రాగానే, అన్నీ రద్దు చేస్తాం. కాలేజీలు వెనక్కు తీసుకుంటాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ",
+     "evidence": "ఆ ప్రభుత్వం వాటిని ప్రೖవేటీకరిస్తే, రేపు మా ప్రభుత్వం రాగానే, అన్నీ రద్దు చేస్తాం. కాలేజీలు వెనక్కు తీసుకుంటాం."
+    },
+    {
+     "source": "ఎన్నికల్లో అక్రమాలకు ఈవీఎంలు పరిష్కారం కాదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎన్నికల్లో అక్రమాలు",
+     "evidence": "ఎన్నికల్లో అక్రమాలకు ఈవీఎంలు పరిష్కారం కాదు."
+    },
+    {
+     "source": "లోకల్‌ బాడీ ఎన్నికల్లో. మొన్న పులివెందుల, ఒంటిమిట్ట జడ్పీటీసీ ఉప ఎన్నికల్లో ఏం జరిగిందో చూశాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎన్నికల్లో అక్రమాలు",
+     "evidence": "లోకల్‌ బాడీ ఎన్నికల్లో. మొన్న పులివెందుల, ఒంటిమిట్ట జడ్పీటీసీ ఉప ఎన్నికల్లో ఏం జరిగిందో చూశాం."
+    },
+    {
+     "source": "యూరియా కొరత. రైతులు ఎలా ఇబ్బంది పడుతున్నారో చూస్తున్నాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యూరియా కొరత",
+     "evidence": "యూరియా కొరత. రైతులు ఎలా ఇబ్బంది పడుతున్నారో చూస్తున్నాం."
+    },
+    {
+     "source": "అసెంబ్లీలో మాకు ఇంత సమయం ఇస్తేనే, ప్రజా సమస్యలు ప్రస్తావించగలుగుతాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ప్రజా సమస్యలు",
+     "evidence": "అసెంబ్లీలో మాకు ఇంత సమయం ఇస్తేనే, ప్రజా సమస్యలు ప్రస్తావించగలుగుతాం."
+    },
+    {
+     "source": "జడ్పీటీసీ",
+     "relation": "LOCATED_IN",
+     "target": "ఒంటిమిట్ట",
+     "evidence": "ఒంటిమిట్ట జడ్పీటీసీ ఉప ఎన్నికల్లో"
+    }
+   ]
+  },
+  "0e420d7973733bafd3174073e3a3720099a238a6": {
+   "entities": [
+    {
+     "name": "ఎన్నికల్లో అక్రమాలకు ఈవీఎంలు పరిష్కారం కాదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా కొరత. రైతులు ఎలా ఇబ్బంది పడుతున్నారో చూస్తున్నాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీలో మాకు ఇంత సమయం ఇస్తేనే, ప్రజా సమస్యలు ప్రస్తావించగలుగుతాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ అసెంబ్లీలో ఉన్నది ఒకటే ప్రతిపక్షం. అది మాదే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మాకు ప్రతిపక్ష గుర్తింపు ఇవ్వడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆయనకు అది ఇష్టం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజల సమస్యలు కనిపించొద్దు. ప్రజల గొంతు వినిపించొద్దు అనేదే ఆయన ఉద్దేశం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మాకు ప్రతిపక్షంగా ఎందుకు గుర్తించడం లేదన్న దానిపై హైకోర్టులో విచారణ పెండింగ్‌లో ఉంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తురకపాలెంలో వాస్తవ పరిస్థితిపై ప్రభుత్వం ఏ విషయమూ స్పష్టంగా చెప్పడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేను ఎక్కడికైనా వెళ్తానంటే, అర్ధంలేని విమర్శలు చేస్తున్నారు. నిందలు వేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సోషల్‌ మీడియా అంశం రాష్ట్ర ప్రభుత్వ పరిధిలో లేదు. అది పూర్తిగా కేంద్రం పరి«ధిలో ఉంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఫ్రీడమ్‌ ఆఫ్‌ ఎక్స్‌ప్రెషన్‌ అనేది అందరి హక్కు అనేది సుస్పష్టం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా కొరత",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సోషల్‌ మీడియా",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఫ్రీడమ్‌ ఆఫ్‌ ఎక్స్‌ప్రెషన్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తురకపాలెంలో",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నేను",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆయన",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "స్పీకర్‌",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "నేను",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్నికల్లో అక్రమాలకు ఈవీఎంలు పరిష్కారం కాదు.",
+     "evidence": "ఎన్నికల్లో అక్రమాలకు ఈవీఎంలు పరిష్కారం కాదు."
+    },
+    {
+     "source": "నేను",
+     "relation": "MAKES_CLAIM",
+     "target": "యూరియా కొరత. రైతులు ఎలా ఇబ్బంది పడుతున్నారో చూస్తున్నాం.",
+     "evidence": "యూరియా కొరత. రైతులు ఎలా ఇబ్బంది పడుతున్నారో చూస్తున్నాం."
+    },
+    {
+     "source": "నేను",
+     "relation": "MAKES_CLAIM",
+     "target": "అసెంబ్లీలో మాకు ఇంత సమయం ఇస్తేనే, ప్రజా సమస్యలు ప్రస్తావించగలుగుతాం.",
+     "evidence": "అసెంబ్లీలో మాకు ఇంత సమయం ఇస్తేనే, ప్రజా సమస్యలు ప్రస్తావించగలుగుతాం."
+    },
+    {
+     "source": "నేను",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ అసెంబ్లీలో ఉన్నది ఒకటే ప్రతిపక్షం. అది మాదే.",
+     "evidence": "ఈ అసెంబ్లీలో ఉన్నది ఒకటే ప్రతిపక్షం. అది మాదే."
+    },
+    {
+     "source": "నేను",
+     "relation": "MAKES_CLAIM",
+     "target": "మాకు ప్రతిపక్ష గుర్తింపు ఇవ్వడం లేదు.",
+     "evidence": "మాకు ప్రతిపక్ష గుర్తింపు ఇవ్వడం లేదు."
+    },
+    {
+     "source": "నేను",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆయనకు అది ఇష్టం లేదు.",
+     "evidence": "ఆయనకు అది ఇష్టం లేదు."
+    },
+    {
+     "source": "నేను",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజల సమస్యలు కనిపించొద్దు. ప్రజల గొంతు వినిపించొద్దు అనేదే ఆయన ఉద్దేశం.",
+     "evidence": "ప్రజల సమస్యలు కనిపించొద్దు. ప్రజల గొంతు వినిపించొద్దు అనేదే ఆయన ఉద్దేశం."
+    }
+   ]
+  }
+ }
+}

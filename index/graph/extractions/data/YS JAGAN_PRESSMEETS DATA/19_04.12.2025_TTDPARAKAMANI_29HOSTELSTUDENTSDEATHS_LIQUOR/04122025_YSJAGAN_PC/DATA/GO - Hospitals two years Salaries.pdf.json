@@ -1,0 +1,452 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c0692dd69f850a6f83985d021ebd691740c7598a": {
+   "entities": [],
+   "relations": []
+  },
+  "faf99acc07cc189c3a8156bf1c3e02e510a9157a": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Concessionaire",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NMC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DCA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Project site",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Medical college",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Hospital",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Nursing College",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Para Medical Clinic",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Training Centre",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Dental College",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Telemedicine Centre",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Physiotherapy Centre",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Health and Medical Wellness Centre",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Aayush / Ayurveda Centers",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of Andhra Pradesh will provide only salary for the medical and non-medical staff, transferred with the existing hospital, for two years from the 'Effective Date'.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Concessionaire is required to assess the provision of additional staff (medical, non- medical, para medical etc) needed as per NMC norms for hospital and medical college and bear the Cost of provision of such additional staff.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The Government of Andhra Pradesh will not provide any operation and maintenance grant or bear any expense thereof for running and operation of hospital and medical college.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a45ed9f3c8328dd9fdc92da782273595b1cfa2ac": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HM&FW Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PPP Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tender Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Markapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Penugonda",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Palakollu",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amalapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Narsipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bapatla",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Parvathipuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Allocation of Land for each project",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "MD, APMSIDC",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "245d5c4075e2ca7b5a7a6b0e97b0a8fb88941f46": {
+   "entities": [
+    {
+     "name": "Managing Director",
+     "type": "Person",
+     "english_name": "Managing Director"
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": "APMSIDC"
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "Guntur District",
+     "type": "Place",
+     "english_name": "Guntur District"
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": []
+  },
+  "a883518b12304b6f41e55d3a6684d0a55696a273": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NMC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Concessionaire",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Markapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madanapalli",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PPP mode",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Future development components",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "70% reservation for Select Patients will apply for all the inpatient beds irrespective of the category of the beds.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "70% reservation for select patients will also apply to the inpatient beds developed as part of the future developments.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "70% reservation for Select Patients will apply for all the inpatient beds irrespective of the category of the beds.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Future development components",
+     "evidence": "This 70% reservation for select patients will also apply to the inpatient beds developed as part of the future developments."
+    },
+    {
+     "source": "70% reservation for select patients will also apply to the inpatient beds developed as part of the future developments.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Future development components",
+     "evidence": "This 70% reservation for select patients will also apply to the inpatient beds developed as part of the future developments."
+    }
+   ]
+  },
+  "f3dbaf2c55f600af8292bc5438a798427cc39763": {
+   "entities": [
+    {
+     "name": "SAURABH GAUR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Health& Family Welfare",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APMERC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director of Medical Education",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PS to Principal Secretary to the Hon’ble Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "OSD to the Hon’ble Minister (HFW&ME)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PS to Secretary to Government, HM&FW Department",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (FMU-HM&FW) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Administration (Cabinet) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble Chief Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble Minister (HFW&ME)",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "APMSIDC",
+     "relation": "LOCATED_IN",
+     "target": "A.P.",
+     "evidence": "APMSIDC, A.P., Mangalagiri, Guntur District"
+    },
+    {
+     "source": "APMSIDC",
+     "relation": "LOCATED_IN",
+     "target": "Mangalagiri",
+     "evidence": "APMSIDC, A.P., Mangalagiri, Guntur District"
+    },
+    {
+     "source": "APMSIDC",
+     "relation": "LOCATED_IN",
+     "target": "Guntur District",
+     "evidence": "APMSIDC, A.P., Mangalagiri, Guntur District"
+    },
+    {
+     "source": "Health& Family Welfare",
+     "relation": "LOCATED_IN",
+     "target": "A.P.",
+     "evidence": "The Commissioner, Health& Family Welfare, A.P., Mangalagiri"
+    },
+    {
+     "source": "Health& Family Welfare",
+     "relation": "LOCATED_IN",
+     "target": "Mangalagiri",
+     "evidence": "The Commissioner, Health& Family Welfare, A.P., Mangalagiri"
+    },
+    {
+     "source": "APMERC",
+     "relation": "LOCATED_IN",
+     "target": "A.P.",
+     "evidence": "The Managing Director, APMERC, A.P., Mangalagiri, Guntur District"
+    },
+    {
+     "source": "APMERC",
+     "relation": "LOCATED_IN",
+     "target": "Mangalagiri",
+     "evidence": "The Managing Director, APMERC, A.P., Mangalagiri, Guntur District"
+    },
+    {
+     "source": "APMERC",
+     "relation": "LOCATED_IN",
+     "target": "Guntur District",
+     "evidence": "The Managing Director, APMERC, A.P., Mangalagiri, Guntur District"
+    },
+    {
+     "source": "Director of Medical Education",
+     "relation": "LOCATED_IN",
+     "target": "A.P.",
+     "evidence": "The Director of Medical Education, A.P., Vijayawada"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d91e05f58ad9468597a70c6709e7c4797ceafb0d": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Organization",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "పల్నాడు",
+     "type": "Place",
+     "english_name": "Palamuru region"
+    },
+    {
+     "name": "వెంకటేశ్వర్లు",
+     "type": "Person",
+     "english_name": "Venkateswarlu"
+    },
+    {
+     "name": "రాజేష్",
+     "type": "Person",
+     "english_name": "Rajesh"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "మా పార్టీ వాళ్ల ఇంటికి నేను వెళ్లడం తప్పా?",
+     "type": "Claim",
+     "english_name": "Is it wrong for me to visit my party members' houses?"
+    },
+    {
+     "name": "ఆ ఇంటిలో ఉన్న పెద్దాయన వెంకటేశ్వర్లు మీద కేసు పెట్టడం ధర్మమేనా?",
+     "type": "Claim",
+     "english_name": "Is it righteous to file a case against the elderly man Venkateswarlu in that house?"
+    },
+    {
+     "name": "ఇది ప్రజాస్వామ్యమేనా?",
+     "type": "Claim",
+     "english_name": "Is this democracy?"
+    },
+    {
+     "name": "నా పల్నాడు పర్యటనపై టీడీపీ నేతలు విమర్శలు చేస్తున్నారు.. దండయాత్ర చేశారని ఆరోపిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": "TDP leaders are criticizing my Palamuru tour, alleging a raid."
+    },
+    {
+     "name": "మరణించిన వ్యక్తి మా పార్టీకి సంబంధించిన ఉప సర్పంచ్.",
+     "type": "Claim",
+     "english_name": "The deceased was a deputy sarpanch of our party."
+    },
+    {
+     "name": "పోలీసుల వేధింపుల వల్ల చనిపోయిన నేపథ్యంలో అతని తండ్రి ప్రైవేటు ఫిర్యాదు చేస్తే, కోర్టు ఆదేశించినా కేసు నమోదు చేయలేదు.",
+     "type": "Claim",
+     "english_name": "Despite his father's private complaint and a court order, no case was registered after the man died due to police harassment."
+    },
+    {
+     "name": "ఆ సీఐ రాజేష్ మీద ప్రైవేట్ కంప్లైంట్ లాంచ్ చేసి కోర్టు నుండి ఉత్తర్వులు తెచ్చినా కేసు కట్టలేదు.",
+     "type": "Claim",
+     "english_name": "Even after launching a private complaint against CI Rajesh and obtaining court orders, no case was filed."
+    },
+    {
+     "name": "నేను మా పార్టీకి సంబంధించిన వాళ్ల ఇంటికి వెళ్లడం తప్పా?",
+     "type": "Claim",
+     "english_name": "Is it wrong for me to visit the houses of my party members?"
+    },
+    {
+     "name": "ఆయన పెట్టింది తన కొడుకు విగ్రహం. అది పెట్టుకున్నది ఆయన సొంత స్థలంలో.. అదీ తన ఇంటిపక్కన.. అది ఆయన ఇష్టం.",
+     "type": "Claim",
+     "english_name": "He installed his son's statue on his own land next to his house; it is his choice."
+    },
+    {
+     "name": "ఈ విషయంలో నేను పోవడం ఏ విధంగా తప్పు అవుతుంది?",
+     "type": "Claim",
+     "english_name": "How is it wrong for me to go in this matter?"
+    },
+    {
+     "name": "అలా పోవటం తప్పన్నట్లు కర్ఫ్యూ వాతావరణం తీసుకురావడం తప్పు కాదా?",
+     "type": "Claim",
+     "english_name": "Is it not wrong to create a curfew atmosphere just because I went there?"
+    },
+    {
+     "name": "లా అండ్ ఆర్డర్ సమస్యలు",
+     "type": "Issue",
+     "english_name": "Law and order problems"
+    },
+    {
+     "name": "కర్ఫ్యూ వాతావరణం",
+     "type": "Issue",
+     "english_name": "Curfew atmosphere"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "సీఎం చంద్రబాబుపై వైఎస్ జగన్ ఫైర్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కర్ఫ్యూ వాతావరణం తీసుకురావడం తప్ప కాదా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "లా అండ్ ఆర్డర్ సమస్యలు ఎవరు క్రియేట్ చేస్తున్నారు?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మా పార్టీ వాళ్ల ఇంటికి నేను వెళ్లడం తప్పా?",
+     "evidence": "మా పార్టీ వాళ్ల ఇంటికి నేను వెళ్లడం తప్పా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ ఇంటిలో ఉన్న పెద్దాయన వెంకటేశ్వర్లు మీద కేసు పెట్టడం ధర్మమేనా?",
+     "evidence": "ఆ ఇంటిలో ఉన్న పెద్దాయన వెంకటేశ్వర్లు మీద కేసు పెట్టడం ధర్మమేనా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇది ప్రజాస్వామ్యమేనా?",
+     "evidence": "ఇది ప్రజాస్వామ్యమేనా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నా పల్నాడు పర్యటనపై టీడీపీ నేతలు విమర్శలు చేస్తున్నారు.. దండయాత్ర చేశారని ఆరోపిస్తున్నారు.",
+     "evidence": "నా పల్నాడు పర్యటనపై టీడీపీ నేతలు విమర్శలు చేస్తున్నారు.. దండయాత్ర చేశారని ఆరోపిస్తున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మరణించిన వ్యక్తి మా పార్టీకి సంబంధించిన ఉప సర్పంచ్.",
+     "evidence": "మరణించిన వ్యక్తి మా పార్టీకి సంబంధించిన ఉప సర్పంచ్."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీసుల వేధింపుల వల్ల చనిపోయిన నేపథ్యంలో అతని తండ్రి ప్రైవేటు ఫిర్యాదు చేస్తే, కోర్టు ఆదేశించినా కేసు నమోదు చేయలేదు.",
+     "evidence": "పోలీసుల వేధింపుల వల్ల చనిపోయిన నేపథ్యంలో అతని తండ్రి ప్రైవేటు ఫిర్యాదు చేస్తే, కోర్టు ఆదేశించినా కేసు నమోదు చేయలేదు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ సీఐ రాజేష్ మీద ప్రైవేట్ కంప్లైంట్ లాంచ్ చేసి కోర్టు నుండి ఉత్తర్వులు తెచ్చినా కేసు కట్టలేదు.",
+     "evidence": "ఆ సీఐ రాజేష్ మీద ప్రైవేట్ కంప్"
+    }
+   ]
+  },
+  "139b29c2fd2c51814d91978a255c9570651da72e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Even a worker getting angry at Chandrababu and changing party is good",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "Even a worker getting angry at Chandrababu and changing party is good",
+     "evidence": "కార్యకర్త కూడా చంద్రబాబు మీద కోపంతో పార్టీ మారాడంటే మంచిదే' అని వైఎస్ జగన్ అన్నారు."
+    }
+   ]
+  }
+ }
+}

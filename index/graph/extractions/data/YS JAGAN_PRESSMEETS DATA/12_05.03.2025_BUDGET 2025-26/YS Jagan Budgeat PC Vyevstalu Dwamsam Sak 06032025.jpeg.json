@@ -1,0 +1,378 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "31cc70f842e1881f87c63a259204d10079ffae19": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వ్యవసాయశాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Agriculture Minister"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "రామాయపట్నం పోర్టు",
+     "type": "Place",
+     "english_name": "Ramayapatnam Port"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "మూలపేట",
+     "type": "Place",
+     "english_name": "Moolapet"
+    },
+    {
+     "name": "ధరల స్థిరీకరణనిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilization Fund"
+    },
+    {
+     "name": "సంక్షేమ క్యాలెండర్",
+     "type": "Scheme",
+     "english_name": "Welfare Calendar"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": "Direct Benefit Transfer"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "వైఎస్సార్ చేయూత",
+     "type": "Scheme",
+     "english_name": "YSR Cheyutha"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero Interest"
+    },
+    {
+     "name": "కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "Kapu Nestham"
+    },
+    {
+     "name": "మిర్చిపై గారడీలు",
+     "type": "Issue",
+     "english_name": "Mirchi Price Issue"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ",
+     "type": "Issue",
+     "english_name": "Price Stabilization"
+    }
+   ],
+   "relations": []
+  },
+  "6b78136dd385d4a890b2d37156f3dea4b3189520": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "గవర్నమెంట్",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "జీతాలు పెరుగుతాయి. రెండు డీఏలు, ఒక ఇంక్రిమెంట్ రూపేణా పెరుగుతాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీతాలు పెరగని పరిస్థితి ఒక్క చంద్రబాబు ప్రభుత్వం వచ్చిన తర్వాత మాత్రమే నెలకొంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్లో దీనికి సంబంధించి కేటాయింపులు ఆశ్చర్యకరంగా తగ్గించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బేసిక్ పే రివైజ్డ్ ఎస్టిమేట్లలో రూ.35,439 కోట్లు అయితే పెరగాల్సింది పోయి రూ.35,431 కోట్లకు తగ్గాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రాంట్ ఇన్ ఎయిడ్ శాలరీస్ (యూనివర్సిటీల్లో పనిచేసే వారికి ఇచ్చే జీతాలు) 2023-24లో రూ.3,927 కోట్లు కాగా, 2025-26లో రూ.2,944 కోట్లు మాత్రమే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొత్త వీసీలను నియమించింది ఉన్న ఉద్యోగులను తొలగించేందుకేనా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రిటైర్డ్ ఉద్యోగులకూ కేటాయింపులు పెరగకపోగా తగ్గాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీతాల కేటాయింపులు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "గవర్నమెంట్",
+     "evidence": "జీతాలు పెరగని పరిస్థితి ఒక్క చంద్రబాబు ప్రభుత్వం వచ్చిన తర్వాత మాత్రమే నెలకొంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "జీతాలు పెరగని పరిస్థితి ఒక్క చంద్రబాబు ప్రభుత్వం వచ్చిన తర్వాత మాత్రమే నెలకొంది.",
+     "evidence": "జీతాలు పెరగని పరిస్థితి ఒక్క చంద్రబాబు ప్రభుత్వం వచ్చిన తర్వాత మాత్రమే నెలకొంది."
+    },
+    {
+     "source": "జీతాలు పెరగని పరిస్థితి ఒక్క చంద్రబాబు ప్రభుత్వం వచ్చిన తర్వాత మాత్రమే నెలకొంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "జీతాల కేటాయింపులు",
+     "evidence": "జీతాలు పెరగని పరిస్థితి ఒక్క చంద్రబాబు ప్రభుత్వం వచ్చిన తర్వాత మాత్రమే నెలకొంది."
+    },
+    {
+     "source": "బడ్జెట్లో దీనికి సంబంధించి కేటాయింపులు ఆశ్చర్యకరంగా తగ్గించారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "జీతాల కేటాయింపులు",
+     "evidence": "బడ్జెట్లో దీనికి సంబంధించి కేటాయింపులు ఆశ్చర్యకరంగా తగ్గించారు."
+    },
+    {
+     "source": "బేసిక్ పే రివైజ్డ్ ఎస్టిమేట్లలో రూ.35,439 కోట్లు అయితే పెరగాల్సింది పోయి రూ.35,431 కోట్లకు తగ్గాయి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "జీతాల కేటాయింపులు",
+     "evidence": "బేసిక్ పే రివైజ్డ్ ఎస్టిమేట్లలో రూ.35,439 కోట్లు అయితే పెరగాల్సింది పోయి రూ.35,431 కోట్లకు తగ్గాయి."
+    },
+    {
+     "source": "గ్రాంట్ ఇన్ ఎయిడ్ శాలరీస్ (యూనివర్సిటీల్లో పనిచేసే వారికి ఇచ్చే జీతాలు) 2023-24లో రూ.3,927 కోట్లు కాగా, 2025-26లో రూ.2,944 కోట్లు మాత్రమే.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "జీతాల కేటాయింపులు",
+     "evidence": "గ్రాంట్ ఇన్ ఎయిడ్ శాలరీస్ (యూనివర్సిటీల్లో పనిచేసే వారికి ఇచ్చే జీతాలు) 2023-24లో రూ.3,927 కోట్లు కాగా, 2025-26లో రూ.2,944 కోట్లు మాత్రమే."
+    },
+    {
+     "source": "రిటైర్డ్ ఉద్యోగులకూ కేటాయింపులు పెరగకపోగా తగ్గాయి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "జీతాల కేటాయింపులు",
+     "evidence": "రిటైర్డ్ ఉద్యోగులకూ కేటాయింపులు పెరగకపోగా తగ్గాయి."
+    }
+   ]
+  },
+  "5aa1553a677aae0cb1810cf49738aab6d6f95dc7": {
+   "entities": [
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బాబూ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్మెంట్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రాంట్ ఇన్ ఎయిడ్ శాలరీస్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఎడెక్స్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "జిల్లా కేంద్రాలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బకాయిలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ కేటాయింపులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్లో కేటాయింపులు ఆశ్చర్యకరంగా తగ్గించారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు వదిలేసిన బకాయిలు రూ.42,183 కోట్లు మేము చెల్లిచాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ప్రభుత్వం ఫీజు రీయింబర్స్మెంట్ బకాయిలు చెల్లించకుండా పిల్లలను చదువులకు దూరం చేస్తోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ పోరాటం చేస్తుంది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "011d7e350787e4b4cc9f9fa756607dd6ee316cd2": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Organization",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "టీడీపీ కూటమి సర్కారు",
+     "type": "Organization",
+     "english_name": "TDP alliance government"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "విలేజ్ క్లినిక్లు",
+     "type": "Scheme",
+     "english_name": "Village Clinics"
+    },
+    {
+     "name": "ఫ్యామిలీ డాక్టర్ విధానం",
+     "type": "Scheme",
+     "english_name": "Family Doctor scheme"
+    },
+    {
+     "name": "కొత్త మెడికల్ కాలేజీలు",
+     "type": "Scheme",
+     "english_name": "New medical colleges"
+    },
+    {
+     "name": "సున్నా వడ్డీ పంట రుణాలు",
+     "type": "Scheme",
+     "english_name": "Zero interest crop loans"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free crop insurance"
+    },
+    {
+     "name": "ఇన్పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input subsidy"
+    },
+    {
+     "name": "ఆర్బీకేలు",
+     "type": "Scheme",
+     "english_name": "RBKs"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

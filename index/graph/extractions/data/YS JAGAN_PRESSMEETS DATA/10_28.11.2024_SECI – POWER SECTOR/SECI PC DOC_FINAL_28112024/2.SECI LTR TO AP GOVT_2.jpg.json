@@ -1,0 +1,85 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2dfd35ff4a27b4a67deb88f16d7e32de6479c725": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of AP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Manufacturing linked PSAs",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 2.49/kWh",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Agricultural Subsidy Savings",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ISTS Waiver",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Park Infrastructure Available for Alternative Use",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Better Integration of Solar Power",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Atma Nirbhar Bharat Abhiyan",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "AP DISCOMs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "STU",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar Manufacturing tender",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Solar park infrastructure",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "9,000 MW solar capacity",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

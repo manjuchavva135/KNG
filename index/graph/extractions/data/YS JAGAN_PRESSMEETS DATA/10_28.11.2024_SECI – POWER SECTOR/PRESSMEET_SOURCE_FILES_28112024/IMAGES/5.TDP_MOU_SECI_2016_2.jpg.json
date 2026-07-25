@@ -1,0 +1,183 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "60ddcde9aed84479137695b9958e5e78dbe65edc": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "SECI"
+    },
+    {
+     "name": "APSPDCL",
+     "type": "Organization",
+     "english_name": "APSPDCL"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "GoI",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Jawaharlal Nehru National Solar Mission",
+     "type": "Scheme",
+     "english_name": "Jawaharlal Nehru National Solar Mission"
+    },
+    {
+     "name": "శ్రీ ఎన్జీ కొర్రెషన్ ఆర్ట్ మ. సి.టి.",
+     "type": "Person",
+     "english_name": "శ్రీ ఎన్జీ కొర్రెషన్ ఆర్ట్ మ. సి.టి."
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    }
+   ],
+   "relations": []
+  },
+  "d4d852463751f3eba0e46593e2dfcaf12c2c443d": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Southern Power Distribution Company of Andhra Pradesh Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jawaharlal Nehru National Solar Mission",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: SECI has been identified by the Government of India as the implementing agency for purchase and sale of grid connected Solar PV power at 33 kV or above under Phase –II, Batch- III of the Jawaharlal Nehru National Solar Mission of Government of India (GoI).",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "having its registered office at 1st Floor, A-Wing, D-3, District Centre, Saket, New Delhi-110017"
+    },
+    {
+     "source": "Southern Power Distribution Company of Andhra Pradesh Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "having its registered office at Kesavayanagunta, Tiruchanoor Road, Tirupati, Andhra Pradesh -517501,India"
+    },
+    {
+     "source": "Southern Power Distribution Company of Andhra Pradesh Limited",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "having its registered office at Kesavayanagunta, Tiruchanoor Road, Tirupati, Andhra Pradesh -517501,India"
+    }
+   ]
+  },
+  "7dcc84a2c8fa5377555df6acbae89792a2f6b4d7": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "JNNSM",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APDISCOMs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "A.P.S.P.D.C.L.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupathi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Agreement at Rs.4.50 in 2016",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "Agreement at Rs.4.50 in 2016",
+     "evidence": "2016లో ఇదే సెక్షీతో రూ.4.50లకు ఒప్పందం చేసుకున్న చంద్రబాబు ప్రభుత్వం."
+    },
+    {
+     "source": "A.P.S.P.D.C.L.",
+     "relation": "LOCATED_IN",
+     "target": "Tirupathi",
+     "evidence": "Chief General Manager P&MM&IPC, A.P.S.P.D.C.L., Tirupathi"
+    },
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "హైదరాబాద్"
+    }
+   ]
+  }
+ }
+}

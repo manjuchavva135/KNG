@@ -1,0 +1,2268 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7ed5b0d5fcd1253d0772fc586b7e2caf430eeae4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సిస్తు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "నీటి తీరువా",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సర్వే బాదుడు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "RevenueIncreaseClaim",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CapitalExpenditureClaim",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "RevisedEstimateClaim",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "RevenueIncreaseClaim",
+     "evidence": "10 నెలల్లో రూ.196 కోట్లు వచ్చింది. దాన్ని రూ.1342 కోట్లు ఈ రెండు నెలల్లో పెంచబోతున్నాడు అని రివైజ్డ్‌ ఎస్టిమేషన్లో చూపిస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "CapitalExpenditureClaim",
+     "evidence": "మా హయాంలో ఫైనల్‌ ఇయర్‌లో క్యాపిటల్‌ ఎక్సెండీచర్‌ రూ.23,330 కోట్లు. ఒకసారి ఈ 10 నెలల పీరియడ్‌ పోల్చి చూస్తే, కాగ్‌ ఓరియెంటెడ్‌ యాక్చువల్‌ ఫిగర్స్‌ పోలిస్తే, మీకు ఏమనిపిస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "RevisedEstimateClaim",
+     "evidence": "ఏకంగా రూ.10,854 కోట్లు కాస్తా.. రూ.24,072 కోట్లు చూపిస్తున్నాడు."
+    },
+    {
+     "source": "RevenueIncreaseClaim",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సిస్తు",
+     "evidence": "రైతులకు సంబంధించి సిస్తు రూపంలో లేదా సర్వే సెటిల్మెంట్ల కింద భారం వేయబోతున్నారా?"
+    },
+    {
+     "source": "RevenueIncreaseClaim",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నీటి తీరువా",
+     "evidence": "నీటి తీరువా కింద భారం వేయబోతున్నారా?"
+    },
+    {
+     "source": "RevenueIncreaseClaim",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సర్వే బాదుడు",
+     "evidence": "వీళ్లు ఏమైనా సర్వే బాదుడు బాదబోతున్నారా?"
+    }
+   ]
+  },
+  "13662d6f78891566ed703dbf1e1cb57b0311dbc8": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "రాష్ట్ర ఖజానా",
+     "type": "Organization",
+     "english_name": "State Treasury"
+    },
+    {
+     "name": "మిస్లీనియస్‌ జనరల్‌ సర్వీసెస్‌",
+     "type": "Scheme",
+     "english_name": "Miscellaneous General Services"
+    },
+    {
+     "name": "ల్యాండ్‌ రెవెన్యూ",
+     "type": "Scheme",
+     "english_name": "Land Revenue"
+    },
+    {
+     "name": "బడ్జెట్/కాగ్",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    },
+    {
+     "name": "25.63 శాతం పెరుగుదల చూపిస్తూ రూ.1,28,125 కోట్లకు పోతాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర ఖజానాకు ఆదాయం రావడం లేదు. చంద్రబాబు జేబులోకి, ఆయన మనుషుల జేబులోకి రాష్ట్ర ఖజానాకు రావాల్సిన ఆదాయం వెళ్తుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇసుక , మద్యం నుంచి రావాల్సిన ఆదాయం చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి వెళ్తున్నాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిస్లీనియస్‌ జనరల్‌ సర్వీసెస్‌ పేరుతో ఏకంగా రూ.7916 కోట్లు తాను బాదబోతున్నాడు అని చెబుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులను నీటి తీరువాతో ఈ రెండు నెలల్లోనే బాదబోతున్నారని చెబుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "25.63 శాతం పెరుగుదల చూపిస్తూ రూ.1,28,125 కోట్లకు పోతాడు",
+     "evidence": "చంద్రబాబు నాయుడు చెబుతున్నాడు... 2025–26లో దీని మీద 25.63 శాతం పెరుగుదల చూపిస్తూ రూ.1,28,125 కోట్లకు పోతాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ఖజానాకు ఆదాయం రావడం లేదు. చంద్రబాబు జేబులోకి, ఆయన మనుషుల జేబులోకి రాష్ట్ర ఖజానాకు రావాల్సిన ఆదాయం వెళ్తుంది.",
+     "evidence": "రాష్ట్ర ఖజానాకు ఆదాయం రావడం లేదు. చంద్రబాబు జేబులోకి, ఆయన మనుషుల జేబులోకి రాష్ట్ర ఖజానాకు రావాల్సిన ఆదాయం వెళ్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇసుక , మద్యం నుంచి రావాల్సిన ఆదాయం చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి వెళ్తున్నాయి.",
+     "evidence": "ఇసుక , మద్యం నుంచి రావాల్సిన ఆదాయం చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి వెళ్తున్నాయి."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "మిస్లీనియస్‌ జనరల్‌ సర్వీసెస్‌ పేరుతో ఏకంగా రూ.7916 కోట్లు తాను బాదబోతున్నాడు అని చెబుతున్నాడు.",
+     "evidence": "మిస్లీనియస్‌ జనరల్‌ సర్వీసెస్‌ పేరుతో ఏకంగా రూ.7916 కోట్లు తాను బాదబోతున్నాడు అని చెబుతున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులను నీటి తీరువాతో ఈ రెండు నెలల్లోనే బాదబోతున్నారని చెబుతున్నారు.",
+     "evidence": "రైతులను నీటి తీరువాతో ఈ రెండు నెలల్లోనే బాదబోతున్నారని చెబుతున్నారు."
+    },
+    {
+     "source": "25.63 శాతం పెరుగుదల చూపిస్తూ రూ.1,28,125 కోట్లకు పోతాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్/కాగ్",
+     "evidence": "2025–26లో దీని మీద 25.63 శాతం పెరుగుదల చూపిస్తూ రూ.1,28,125 కోట్లకు పోతాడు."
+    },
+    {
+     "source": "రాష్ట్ర ఖజానాకు ఆదాయం రావడం లేదు. చంద్రబాబు జేబులోకి, ఆయన మనుషుల జేబులోకి రాష్ట్ర ఖజానాకు రావాల్సిన ఆదాయం వెళ్తుంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్/కాగ్",
+     "evidence": "రాష్ట్ర ఖజానాకు ఆదాయం రావడం లేదు."
+    },
+    {
+     "source": "ఇసుక , మద్యం నుంచి రావాల్సిన ఆదాయం చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి వెళ్తున్నాయి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్/కాగ్",
+     "evidence": "ఇసుక , మద్యం నుంచి రావాల్సిన ఆదాయం చంద్రబాబు, ఆయన మనుషుల జేబుల్లోకి వెళ్తున్నాయి."
+    },
+    {
+     "source": "మిస్లీనియస్‌ జనరల్‌ సర్వీసెస్‌ పేరుతో ఏకంగా రూ.7916 కోట్లు తాను బాదబోతున్నాడు అని చెబుతున్నాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్/కాగ్",
+     "evidence": "మిస్లీనియస్‌ జనరల్‌ సర్వీసెస్‌ పేరుతో ఏకంగా రూ.7916 కోట్లు."
+    },
+    {
+     "source": "రైతులను నీటి తీరువాతో ఈ రెండు నెలల్లోనే బాదబోతున్నారని చెబుతున్నారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్/కాగ్",
+     "evidence": "రైతులను నీటి తీరువాతో ఈ రెండు నెలల్లోనే బాదబోతున్నారని చెబుతున్నారు."
+    }
+   ]
+  },
+  "419b2a4c0f95eb461f223bf499960484c210fcfb": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఫైనాన్స్‌ మినిస్టర్‌",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "డిస్కమ్స్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "బకాయిలు",
+     "type": "Issue",
+     "english_name": "Dues"
+    },
+    {
+     "name": "143 హామీలు",
+     "type": "Claim",
+     "english_name": "143 promises"
+    },
+    {
+     "name": "చంద్రబాబు గారు అన్ని రకాలుగా ప్రజల్లో మోసం చేసిన తీరు తేటతెల్లంగా కనిపిస్తుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికలకు ముందేమో బాబు షూరిటీ, భవిష్యత్తు గ్యారెంటీ.. ఎన్నికలు అయిపోయిన తర్వాత మాత్రం బాబు షూరిటీ, మోసం గ్యారెంటీ అన్న పద్ధతిలోనే ఆయన పాలన సాగుతోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్, ఆ సూపర్‌ సెవెన్‌ విషయాలేమిటి? ఆ మేనిఫెస్టోలో మీరు 143 హామీలిచ్చారు. వాటి పరిస్థితి ఏమిటి అని అడిగితే ఏ ఒక్కరి నోట్లో నుంచి సమాధానాలు రావు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "691a8f1318e47d7295eb80c46df5345c5558209a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "చిత్తూరు",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "అప్పులు",
+     "type": "Issue",
+     "english_name": "Debts"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు ఎంత దుర్గార్ముడు, ఎంత అన్యాయస్తుడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చిత్తూరుకు వెళ్లి పబ్లిక్‌ మీటింగ్‌లో రూ.10 లక్షల కోట్ల అప్పులు అని అబద్ధాలు మాట్లాడుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌ అమలు చేయడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియా (ఓ ఈనాడు, ఆంధ్రజ్యోతి, టీవీ5)లో ఢంకా బజాయించి అబద్ధాలను గోబెల్స్‌ ప్రచారం చేయడంలో దిట్టలు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు ఎంత దుర్గార్ముడు, ఎంత అన్యాయస్తుడు",
+     "evidence": "చంద్రబాబు నాయుడు ఎంత దుర్గార్ముడు, ఎంత అన్యాయస్తుడు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చిత్తూరుకు వెళ్లి పబ్లిక్‌ మీటింగ్‌లో రూ.10 లక్షల కోట్ల అప్పులు అని అబద్ధాలు మాట్లాడుతున్నాడు.",
+     "evidence": "చిత్తూరుకు వెళ్లి పబ్లిక్‌ మీటింగ్‌లో రూ.10 లక్షల కోట్ల అప్పులు అని అబద్ధాలు మాట్లాడుతున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు.",
+     "evidence": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్‌ సిక్స్‌ అమలు చేయడం లేదు.",
+     "evidence": "అందుకే సూపర్‌ సిక్స్‌ అమలు చేయడం లేదని ప్రజలను ఎందుకు మభ్యపెట్టే ప్రయత్నం చేస్తున్నారు."
+    },
+    {
+     "source": "చిత్తూరుకు వెళ్లి పబ్లిక్‌ మీటింగ్‌లో రూ.10 లక్షల కోట్ల అప్పులు అని అబద్ధాలు మాట్లాడుతున్నాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "రూ.10 లక్షల కోట్ల అప్పులు"
+    },
+    {
+     "source": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు."
+    },
+    {
+     "source": "సూపర్‌ సిక్స్‌ అమలు చేయడం లేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "సూపర్‌ సిక్స్‌ అమలు చేయడం లేదు."
+    },
+    {
+     "source": "సూపర్‌ సిక్స్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "సూపర్‌ సిక్స్‌ అమలు చేయడం లేదు."
+    }
+   ]
+  },
+  "e3f439e52e4352bfa07b97628b69995e9b52cee8": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "మేము రూ.20,942 కోట్లు ఖర్చు చేస్తే, చంద్రబాబునాయుడు 10 నెలల కాలంలో అందుకోసం కేవలం రూ.10,854 కోట్లు మాత్రమే ఖర్చు చేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏకంగా రూ.10,854 కోట్లు కాస్తా.. రూ.24,072 కోట్లు చూపిస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మూలధన వ్యయం కాస్తా రూ.24 వేల కోట్ల నుంచి రూ.40 వేల కోట్లు ఖర్చు చేస్తామని చూపిస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు వచ్చాక ఆదాయం తగ్గింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీఎస్డీపీ 12.94 శాతానికి పెరుగుతుందని.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌. ఏవీ?. నిరుద్యోగులకు మోసం:",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "జీఎస్డీపీ 12.94 శాతానికి పెరుగుతుందని.",
+     "evidence": "జీఎస్డీపీ 12.94 శాతానికి పెరుగుతుందని."
+    }
+   ]
+  },
+  "b1565bb1a2ffef9ec439e1a282f3889c7e21a470": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పయ్యావుల కేశవ్‌",
+     "type": "Person",
+     "english_name": "Payyavula Keshav"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "9.56 శాతం పెరుగుదల నమోదైందని",
+     "type": "Claim",
+     "english_name": "9.56 percent increase recorded"
+    },
+    {
+     "name": "నేను అప్పులు చేశాను అని ఎందుకు నిజం చెప్పలేకపోతున్నాడు.",
+     "type": "Claim",
+     "english_name": "Why he cannot tell the truth that I took loans."
+    },
+    {
+     "name": "అమరావతి పేరుతో ఇన్నిన్ని అప్పులు తీసుకువచ్చి ఖర్చు చేస్తూ బడ్జెట్‌లో ఇది చూపిస్తూ ఎందుకు సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు..?",
+     "type": "Claim",
+     "english_name": "Why lies about self‑financing project under Amaravati name."
+    }
+   ],
+   "relations": [
+    {
+     "source": "పయ్యావుల కేశవ్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, పయ్యావుల కేశవ్‌ అనే ఇద్దరు వ్యక్తులు అమరావతి పేరుతో ఇన్నిన్ని అప్పులు తీసుకువచ్చి ఖర్చు చేస్తూ బడ్జెట్‌లో ఇది చూపిస్తూ ఎందుకు సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు..?"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "9.56 శాతం పెరుగుదల నమోదైందని",
+     "evidence": "చంద్రబాబు నాయుడు అంటున్నాడు... 9.56 శాతం పెరుగుదల నమోదైందని"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "నేను అప్పులు చేశాను అని ఎందుకు నిజం చెప్పలేకపోతున్నాడు.",
+     "evidence": "నేను అప్పులు చేశాను అని ఎందుకు నిజం చెప్పలేకపోతున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతి పేరుతో ఇన్నిన్ని అప్పులు తీసుకువచ్చి ఖర్చు చేస్తూ బడ్జెట్‌లో ఇది చూపిస్తూ ఎందుకు సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు..?",
+     "evidence": "అమరావతి పేరుతో ఇన్నిన్ని అప్పులు తీసుకువచ్చి ఖర్చు చేస్తూ బడ్జెట్‌లో ఇది చూపిస్తూ ఎందుకు సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు..?"
+    },
+    {
+     "source": "9.56 శాతం పెరుగుదల నమోదైందని",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2025-26",
+     "evidence": "బడ్జెట్ 2025-26"
+    },
+    {
+     "source": "నేను అప్పులు చేశాను అని ఎందుకు నిజం చెప్పలేకపోతున్నాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2025-26",
+     "evidence": "బడ్జెట్ 2025-26"
+    },
+    {
+     "source": "అమరావతి పేరుతో ఇన్నిన్ని అప్పులు తీసుకువచ్చి ఖర్చు చేస్తూ బడ్జెట్‌లో ఇది చూపిస్తూ ఎందుకు సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అని ఎందుకు అబద్ధాలు చెబుతున్నారు..?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2025-26",
+     "evidence": "బడ్జెట్ 2025-26"
+    }
+   ]
+  },
+  "4b1eaf79c790e2e762476212317f7f484e7afe3f": {
+   "entities": [
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నిరుద్యోగులకు నెలకు రూ.3 వేల భృతి అన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "20 లక్షల ఉద్యోగాలు వచ్చే దాకా రూ.3 వేల భృతి ఇస్తానని చెప్పాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గవర్నర్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "9 నెలల కాలంలోనే 4 లక్షల ఉద్యోగాలు ఈ పాటికే ఇచ్చేశాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "6.5 లక్షల కోట్లు పెట్టుబడులు పెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "4 లక్షల మందికి ఉపాధి అవకాశాలు కల్పించబడినది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గూగుల్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్కసెలర్‌ మిట్టల్‌ స్టీల్‌ కంపెనీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టాటా పవర్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రీన్‌ కో గ్రూపు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "బీపీసీఎల్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీసీఎస్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సోషియో ఎకనామిక్‌ సర్వే",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌",
+     "evidence": "సూపర్‌ సిక్స్‌ హామీల గురించి చూస్తే, మొదటిది యువతకు ఉద్యోగాలకు సంబంధించి చంద్రబాబు ఇచ్చిన హామీ."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నిరుద్యోగులకు నెలకు రూ.3 వేల భృతి అన్నాడు",
+     "evidence": "నిరుద్యోగులకు నెలకు రూ.3 వేల భృతి అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "20 లక్షల ఉద్యోగాలు వచ్చే దాకా రూ.3 వేల భృతి ఇస్తానని చెప్పాడు",
+     "evidence": "20 లక్షల ఉద్యోగాలు వచ్చే దాకా రూ.3 వేల భృతి ఇస్తానని చెప్పాడు."
+    },
+    {
+     "source": "గవర్నర్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "9 నెలల కాలంలోనే 4 లక్షల ఉద్యోగాలు ఈ పాటికే ఇచ్చేశాం",
+     "evidence": "9 నెలల కాలంలోనే 4 లక్షల ఉద్యోగాలు ఈ పాటికే ఇచ్చేశాం అని ప్రింట్‌ కొట్టి మరీ సర్క్యులేట్‌ చేశారు."
+    },
+    {
+     "source": "గవర్నర్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "6.5 లక్షల కోట్లు పెట్టుబడులు పెట్టారు",
+     "evidence": "ఇప్పటి వరకు ఇన్వెస్టర్లు 6.5 లక్షల కోట్లు పెట్టుబడులు పెట్టారు."
+    },
+    {
+     "source": "గవర్నర్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "4 లక్షల మందికి ఉపాధి అవకాశాలు కల్పించబడినది",
+     "evidence": "మరియు 4 లక్షల మందికి ఉపాధి అవకాశాలు కల్పించబడినది."
+    }
+   ]
+  },
+  "27f4fe813e95d1907445fec5f2e6e33390ec06f3": {
+   "entities": [
+    {
+     "name": "BUDGET 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "అప్పులు",
+     "type": "Issue",
+     "english_name": "Debt"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వరల్డ్ బ్యాంక్",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "ఏడీబీ",
+     "type": "Organization",
+     "english_name": "ADB"
+    },
+    {
+     "name": "ఫుడ్‌కో",
+     "type": "Organization",
+     "english_name": "Food Corp"
+    },
+    {
+     "name": "కేఎఫ్‌డబ్ల్యూ",
+     "type": "Organization",
+     "english_name": "KfW"
+    },
+    {
+     "name": "మార్క్‌ఫెడ్‌",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "సివిల్‌ సప్లయిస్‌",
+     "type": "Organization",
+     "english_name": "Civil Supplies"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పయ్యావుల కేశవ్",
+     "type": "Person",
+     "english_name": "Piyavula Kesav"
+    },
+    {
+     "name": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు అప్పులు చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి పేరుతో చంద్రబాబు అప్పులు చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు 2024–25 రివైజ్డ్‌ ఎస్టిమేట్‌లో రూ.73,362 కోట్లు అప్పు చేశానని చూపించాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు అమరావతి సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అంటారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు.",
+     "evidence": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు అప్పులు చేస్తున్నాడు.",
+     "evidence": "చంద్రబాబు నాయుడు లెఫ్ట్, రైట్, సెంటర్‌ అప్పులు చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతి పేరుతో చంద్రబాబు అప్పులు చేస్తున్నాడు.",
+     "evidence": "అమరావతి పేరుతో చంద్రబాబు అప్పులు చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు 2024–25 రివైజ్డ్‌ ఎస్టిమేట్‌లో రూ.73,362 కోట్లు అప్పు చేశానని చూపించాడు.",
+     "evidence": "2024–25 రివైజ్డ్‌ ఎస్టిమేట్‌లో చూపించింది రూ.73,362 కోట్లు అప్పు చేశానని చూపించాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు అమరావతి సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అంటారు.",
+     "evidence": "అమరావతి సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అంటారు."
+    },
+    {
+     "source": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "BUDGET 2025-26",
+     "evidence": "బడ్జెట్‌లో అప్పుల గురించి ప్రస్తావన లేదు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు అప్పులు చేస్తున్నాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "చంద్రబాబు నాయుడు లెఫ్ట్, రైట్, సెంటర్‌ అప్పులు చేస్తున్నాడు."
+    },
+    {
+     "source": "అమరావతి పేరుతో చంద్రబాబు అప్పులు చేస్తున్నాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "అమరావతి పేరుతో చంద్రబాబు అప్పులు చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు 2024–25 రివైజ్డ్‌ ఎస్టిమేట్‌లో రూ.73,362 కోట్లు అప్పు చేశానని చూపించాడు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "2024–25 రివైజ్డ్‌ ఎస్టిమేట్‌లో చూపించింది రూ.73,362 కోట్లు అప్పు చేశానని చూపించాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు అమరావతి సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అంటారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అప్పులు",
+     "evidence": "అమరావతి సెల్ఫ్‌ ఫైనాన్సింగ్‌ ప్రాజెక్టు అంటారు."
+    },
+    {
+     "source": "వరల్డ్ బ్యాంక్",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి పేరుతో వరల్డ్‌ బ్యాంక్... లోన్లు"
+    },
+    {
+     "source": "ఏడీబీ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి పేరుతో... ఏడీబీ లోన్లు"
+    },
+    {
+     "source": "ఫుడ్‌కో",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఫుడ్‌కో లోన్‌"
+    },
+    {
+     "source": "కేఎఫ్‌డబ్ల్యూ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "కేఎఫ్‌డబ్ల్యూ లోన్‌"
+    },
+    {
+     "source": "మార్క్‌ఫెడ్‌",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "మార్క్‌ఫె"
+    }
+   ]
+  },
+  "7050d880e40c5bb9f33915af4cb8266e62a8a6ca": {
+   "entities": [
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "ప్రభుత్వ బడులు",
+     "type": "Organization",
+     "english_name": "Government Schools"
+    },
+    {
+     "name": "ఇంగ్లిష్‌ మీడియం",
+     "type": "Scheme",
+     "english_name": "English Medium"
+    },
+    {
+     "name": "సీబీఎస్‌ఈ",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Organization",
+     "english_name": "IB"
+    },
+    {
+     "name": "టోఫెల్‌ క్లాసులు",
+     "type": "Scheme",
+     "english_name": "TOEFL Classes"
+    },
+    {
+     "name": "సబ్జెక్టు టీచర్‌ కాన్సెప్ట్‌",
+     "type": "Scheme",
+     "english_name": "Subject Teacher Concept"
+    },
+    {
+     "name": "ఒక పేజీ ఇంగ్లిష్‌ ఒక పేజీ తెలుగు",
+     "type": "Scheme",
+     "english_name": "One Page English One Page Telugu"
+    },
+    {
+     "name": "డిజిటలైజ్డ్ క్లాస్‌రూమ్",
+     "type": "Scheme",
+     "english_name": "Digitized Classroom"
+    },
+    {
+     "name": "టాబ్స్",
+     "type": "Scheme",
+     "english_name": "Tabs"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "ఎడ్‌ఎక్స్‌",
+     "type": "Organization",
+     "english_name": "EdX"
+    },
+    {
+     "name": "విద్యావ్యవస్థ విధ్వంసం",
+     "type": "Issue",
+     "english_name": "Destruction of Education System"
+    },
+    {
+     "name": "విద్యావ్యవస్థ",
+     "type": "Issue",
+     "english_name": "Education System"
+    }
+   ],
+   "relations": []
+  },
+  "c680f34d7acf31f1fdb5f7d0a13a228ebfb97db6": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వ్యవసాయ మంత్రి",
+     "type": "Person",
+     "english_name": "Agricultural Minister"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "RBKs",
+     "type": "Organization",
+     "english_name": "RBKs"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilization Fund"
+    },
+    {
+     "name": "మిర్చి రైతుల ధరల స్థిరీకరణ",
+     "type": "Issue",
+     "english_name": "Mirchi Farmers Price Stabilization"
+    },
+    {
+     "name": "మిర్చి విషయంలో మార్కెట్‌ ఇంటర్‌వెన్షన్‌ చేయడం లేదు",
+     "type": "Claim",
+     "english_name": "No market intervention in mirchi"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం మిర్చి రైతుల విషయంలో జోక్యం చేసుకొని పరిష్కారం చూపించామని మాట్లాడారు",
+     "type": "Claim",
+     "english_name": "State government claims it intervened for mirchi farmers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అసెంబ్లీ",
+     "evidence": "అసెంబ్లీలోనే ఈ రకంగా అబద్ధాలు చెబుతారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "మిర్చి విషయంలో మార్కెట్‌ ఇంటర్‌వెన్షన్‌ చేయడం లేదని చెబుతాడు."
+    },
+    {
+     "source": "వ్యవసాయ మంత్రి",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "రాష్ట్ర ప్రభుత్వం మిర్చి రైతుల విషయంలో జోక్యం చేసుకొని పరిష్కారం చూపించామని మాట్లాడారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మిర్చి విషయంలో మార్కెట్‌ ఇంటర్‌వెన్షన్‌ చేయడం లేదు",
+     "evidence": "మిర్చి విషయంలో మార్కెట్‌ ఇంటర్‌వెన్షన్‌ చేయడం లేదని చెబుతాడు."
+    },
+    {
+     "source": "వ్యవసాయ మంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ప్రభుత్వం మిర్చి రైతుల విషయంలో జోక్యం చేసుకొని పరిష్కారం చూపించామని మాట్లాడారు",
+     "evidence": "రాష్ట్ర ప్రభుత్వం మిర్చి రైతుల విషయంలో జోక్యం చేసుకొని పరిష్కారం చూపించామని మాట్లాడారు."
+    },
+    {
+     "source": "మిర్చి విషయంలో మార్కెట్‌ ఇంటర్‌వెన్షన్‌ చేయడం లేదు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మిర్చి రైతుల ధరల స్థిరీకరణ",
+     "evidence": "మిర్చి విషయంలో మార్కెట్‌ ఇంటర్‌వెన్షన్‌ చేయడం లేదని చెబుతాడు."
+    },
+    {
+     "source": "రాష్ట్ర ప్రభుత్వం మిర్చి రైతుల విషయంలో జోక్యం చేసుకొని పరిష్కారం చూపించామని మాట్లాడారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మిర్చి రైతుల ధరల స్థిరీకరణ",
+     "evidence": "రాష్ట్ర ప్రభుత్వం మిర్చి రైతుల విషయంలో జోక్యం చేసుకొని పరిష్కారం చూపించామని మాట్లాడారు."
+    }
+   ]
+  },
+  "241902e6ca1642c8f6a8120a368ca0185ea485c0": {
+   "entities": [
+    {
+     "name": "గూగుల్",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "ఆర్కసెలర్‌ మిట్టల్‌ స్టీల్‌ కంపెనీ",
+     "type": "Organization",
+     "english_name": "ArcelorMittal Steel Company"
+    },
+    {
+     "name": "టాటా పవర్",
+     "type": "Organization",
+     "english_name": "Tata Power"
+    },
+    {
+     "name": "గ్రీన్‌ కో గ్రూపు",
+     "type": "Organization",
+     "english_name": "Greenko Group"
+    },
+    {
+     "name": "బీపీసీఎల్",
+     "type": "Organization",
+     "english_name": "BPCL"
+    },
+    {
+     "name": "టీసీఎస్‌",
+     "type": "Organization",
+     "english_name": "TCS"
+    },
+    {
+     "name": "సోషియో ఎకనామిక్‌ సర్వే",
+     "type": "Organization",
+     "english_name": "Socio Economic Survey"
+    },
+    {
+     "name": "ఎంఎస్‌ఎంఈ సెక్టార్",
+     "type": "Issue",
+     "english_name": "MSME sector"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment allowance"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP government"
+    },
+    {
+     "name": "ఆప్కాస్‌",
+     "type": "Organization",
+     "english_name": "APCAS"
+    },
+    {
+     "name": "ఆర్టీసీ విలీనం",
+     "type": "Scheme",
+     "english_name": "RTC merger"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "గూగుల్, ఆర్కసెలర్‌ మిట్టల్‌ స్టీల్‌ కంపెనీ, టాటా పవర్, గ్రీన్‌ కో గ్రూపు, బీపీసీఎల్, టీసీఎస్‌ వంటి అనేక అంతర్జాతీయ దిగ్గజాలను ఆకర్షిస్తున్నాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇన్వెస్టర్లు 6.5 లక్షల కోట్లు పెట్టుబడులు పెట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎంఎస్‌ఎంఈ సెక్టార్‌లో 2024–25కు సంబంధించి ఏకంగా 27,07,752 ఉద్యోగాలు ఇచ్చేశామన్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిరుద్యోగ భృతి ఇవ్వకుండా, ఏడాదిలో రూ.36వేలు బాకీ పడ్డారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు రూ.72 వేల చొప్పున బాకీ.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "9d51c54732004f1c8f05ade754410e6b09131617": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక మంత్రి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "జీతాలు పెరగలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీతాలకు సంబంధించి పర్సెంటేజీ విఫరీతంగా పెరిగింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కోవిడ్",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆర్థిక మంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "జీతాలకు సంబంధించి పర్సెంటేజీ విఫరీతంగా పెరిగింది",
+     "evidence": "ఆర్థిక మంత్రి ఉద్యోగుల జీతాల వివరాలు చెబుతూ.. జీతాలకు సంబంధించి పర్సెంటేజీ విఫరీతంగా పెరిగిందని, జీతాలు ఇచ్చేందుకు ఇబ్బంది పడుతున్నామని చెప్పారు."
+    }
+   ]
+  },
+  "6d254f11f5e0f918cdbb4c4c0d01d920444cde6f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Scheme",
+     "english_name": "Free Bus"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "రాయలసీమ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రకాశం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "యూడీఐఎస్‌ఈ",
+     "type": "Organization",
+     "english_name": "UDISE"
+    },
+    {
+     "name": "సెంట్రల్‌ గవర్నమెంట్‌",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "డిపార్ట్‌మెంట్‌ ఆఫ్‌ స్కూల్‌ ఎడ్యుకేషన్‌ అండ్‌ లిట్రసీ",
+     "type": "Organization",
+     "english_name": "Department of School Education and Literacy"
+    },
+    {
+     "name": "ప్రతి మహిళకు రూ.36 వేలు బాకీ పడ్డారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలకు ఫ్రీ బస్సు రూపేణా మరో రూ.7వేల కోట్లు బాకీ పడ్డారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గత ఏడాది తొలి బడ్జెట్‌లో రూ.5,386 కోట్లు కేటాయించినా, ఒక్క రూపాయి కూడా డబ్బు ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి మహిళకు రూ.36 వేలు బాకీ పడ్డారు",
+     "evidence": "అంటే ప్రతి మహిళకు చంద్రబాబు రూ.36 వేలు బాకీ పడ్డారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళలకు ఫ్రీ బస్సు రూపేణా మరో రూ.7వేల కోట్లు బాకీ పడ్డారు",
+     "evidence": "మహిళలకు ఫ్రీ బస్సు రూపేణా మరో రూ.7వేల కోట్లు చంద్రబాబు బాకీ పడ్డారు."
+    },
+    {
+     "source": "ఉచిత బస్సు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్",
+     "evidence": "కానీ రెండు బడ్జెట్లలోనూ ఎగనామమే."
+    },
+    {
+     "source": "తల్లికి వందనం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్",
+     "evidence": "గత ఏడాది తొలి బడ్జెట్‌లో రూ.5,386 కోట్లు కేటాయించినా, ఒక్క రూపాయి కూడా డబ్బు ఇవ్వలేదు."
+    }
+   ]
+  },
+  "5fb7edfdf3b5d4c1c93932a055d8aa9075437f80": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "గంగాధర నెల్లూరు",
+     "type": "Place",
+     "english_name": "Gangarapu Nellore"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ వాళ్లకు ఏ పనులు చేయొద్దు. ఏ పథకాలు ఇవ్వొద్దు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యు ఆర్‌ ఓన్లీ ఎ కస్టోడియన్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం నడిచేది. ప్రజల కోసం. ప్రజల సొమ్ముతో నడుస్తూ ఉంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పక్షపాతానికి, రాగద్వేషాలకు అతీతంగా పాలన చేస్తానని ప్రమాణం చేసి, ఇప్పుడు ఇలా మాట్లాడుతున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "వైయస్సార్‌సీపీ వాళ్లకు ఏ పనులు చేయొద్దు. ఏ పథకాలు ఇవ్వొద్దు అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వైయస్సార్‌సీపీ వాళ్లకు ఏ పనులు చేయొద్దు. ఏ పథకాలు ఇవ్వొద్దు.",
+     "evidence": "వైయస్సార్‌సీపీ వాళ్లకు ఏ పనులు చేయొద్దు. ఏ పథకాలు ఇవ్వొద్దు అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "యు ఆర్‌ ఓన్లీ ఎ కస్టోడియన్‌.",
+     "evidence": "యు ఆర్‌ ఓన్లీ ఎ కస్టోడియన్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వం నడిచేది. ప్రజల కోసం. ప్రజల సొమ్ముతో నడుస్తూ ఉంది.",
+     "evidence": "ప్రభుత్వం నడిచేది. ప్రజల కోసం. ప్రజల సొమ్ముతో నడుస్తూ ఉంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పక్షపాతానికి, రాగద్వేషాలకు అతీతంగా పాలన చేస్తానని ప్రమాణం చేసి, ఇప్పుడు ఇలా మాట్లాడుతున్నాడు.",
+     "evidence": "పక్షపాతానికి, రాగద్వేషాలకు అతీతంగా పాలన చేస్తానని ప్రమాణం చేసి, ఇప్పుడు ఇలా మాట్లాడుతున్నాడు."
+    }
+   ]
+  },
+  "bd60dffaae9a4679003ca14fba6424e4af41e434": {
+   "entities": [
+    {
+     "name": "అధికార పార్టీ",
+     "type": "Party",
+     "english_name": "Ruling Party"
+    },
+    {
+     "name": "ప్రతిపక్ష పార్టీ",
+     "type": "Party",
+     "english_name": "Opposition Party"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రతిపక్ష నాయకుడు",
+     "type": "Person",
+     "english_name": "Opposition Leader"
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "Media"
+    },
+    {
+     "name": "రాష్ట్ర బడ్జెట్‌",
+     "type": "Issue",
+     "english_name": "State Budget"
+    },
+    {
+     "name": "గవర్నర్‌ ప్రసంగం",
+     "type": "Issue",
+     "english_name": "Governor's Speech"
+    },
+    {
+     "name": "ఎమ్మెల్సీ ఎన్నికల్లో రిగ్గింగ్‌",
+     "type": "Issue",
+     "english_name": "MLC Election Rigging"
+    },
+    {
+     "name": "ఎమ్మెల్సీ ఎన్నికల్లో రిగ్గింగ్‌!",
+     "type": "Claim",
+     "english_name": "MLC Election Rigging!"
+    }
+   ],
+   "relations": []
+  },
+  "29fe71a892858f403c1fa8b25a3067014526e3fe": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "గవర్నర్‌గారు",
+     "type": "Person",
+     "english_name": "Governor"
+    },
+    {
+     "name": "మైనర్టీ ఫైనాన్స్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "Minority Finance Corporation"
+    },
+    {
+     "name": "జగన్‌ వాహనమిత్ర",
+     "type": "Scheme",
+     "english_name": "Jagan Vahanamitra"
+    },
+    {
+     "name": "పెళ్లి కానుక",
+     "type": "Scheme",
+     "english_name": "Pelli Kanuka"
+    },
+    {
+     "name": "చంద్రన్న బీమా",
+     "type": "Scheme",
+     "english_name": "Chandranna Bima"
+    },
+    {
+     "name": "డ్వాక్రా సంఘాలకు వడ్డీలేని రుణాలు",
+     "type": "Scheme",
+     "english_name": "DWCC Interest-free Loans"
+    },
+    {
+     "name": "సున్నా వడ్డీ రుణాలు",
+     "type": "Scheme",
+     "english_name": "Zero Interest Loans"
+    },
+    {
+     "name": "ఆటో డ్రైవర్లకు రూ.15 వేలు",
+     "type": "Scheme",
+     "english_name": "Auto Drivers Rs 15k"
+    },
+    {
+     "name": "ముస్లింలకు మైనర్టీ ఫైనాన్స్‌ కార్పొరేషన్‌ ద్వారా రూ.5 లక్షల వరకు వడ్డీలేని రుణాలు",
+     "type": "Scheme",
+     "english_name": "Minority Finance Corporation Rs 5 lakh Loans"
+    },
+    {
+     "name": "పెన్షన్ల కోత",
+     "type": "Issue",
+     "english_name": "Pension Cuts"
+    },
+    {
+     "name": "143 హామీలు",
+     "type": "Issue",
+     "english_name": "143 Promises"
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్‌",
+     "evidence": "జగన్‌ వాహనమిత్ర ఇస్తున్నాడు కదా? ... ఉన్న వాహన మిత్రా పోయింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న బీమా",
+     "evidence": "చంద్రన్న బీమా అన్నాడు. సహజ మరణానికి రూ.5 లక్షలు, ప్రమాదవశాత్తూ మరణిస్తే రూ.10 లక్షలు అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డ్వాక్రా సంఘాలకు వడ్డీలేని రుణాలు",
+     "evidence": "డ్వాక్రా సంఘాలకు రూ.10 లక్షల వరకు వడ్డీలేని రుణాలు అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆటో డ్రైవర్లకు రూ.15 వేలు",
+     "evidence": "ఆటో డ్రైవర్లకు, ట్యాక్సీ డ్రైవర్లకు, హెవీ లైసెన్స్‌ ఉన్న ప్రతి లారీ, టిప్పర్‌ డ్రైవర్‌కు ఏటా రూ.15 వేలు ఇస్తా అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ముస్లింలకు మైనర్టీ ఫైనాన్స్‌ కార్పొరేషన్‌ ద్వారా రూ.5 లక్షల వరకు వడ్డీలేని రుణాలు",
+     "evidence": "ముస్లింలకు మైనర్టీ ఫైనాన్స్‌ కార్పొరేషన్‌ ద్వారా రూ.5 లక్షల వరకు వడ్డీలేని రుణాలు అన్నాడు."
+    },
+    {
+     "source": "జగన్‌ వాహనమిత్ర",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "143 హామీలు",
+     "evidence": "జగన్‌ వాహనమిత్ర ఇస్తున్నాడు కదా? ... ఉన్న వాహన మిత్రా పోయింది."
+    }
+   ]
+  },
+  "9230cbfc908dfa76219b0a24682031122028d093": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సంక్షేమ క్యాలెండర్‌",
+     "type": "Scheme",
+     "english_name": "Welfare calendar"
+    },
+    {
+     "name": "DBT",
+     "type": "Scheme",
+     "english_name": "DBT"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "వైయస్సార్‌ కళ్యాణ మస్తు",
+     "type": "Scheme",
+     "english_name": "YSR Kalyana Masti"
+    },
+    {
+     "name": "షాదీ తోఫా",
+     "type": "Scheme",
+     "english_name": "Shaadi Tohfa"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "వైయస్సార్‌ చేయూత",
+     "type": "Scheme",
+     "english_name": "YSR Cheyutha"
+    },
+    {
+     "name": "వైయస్సార్‌ ఆసరా",
+     "type": "Scheme",
+     "english_name": "YSR Asara"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero interest"
+    },
+    {
+     "name": "కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "Kapu Nestham"
+    },
+    {
+     "name": "ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "EBC Nestham"
+    },
+    {
+     "name": "ITC",
+     "type": "Organization",
+     "english_name": "ITC"
+    },
+    {
+     "name": "P&G",
+     "type": "Organization",
+     "english_name": "P&G"
+    },
+    {
+     "name": "అమూల్‌",
+     "type": "Organization",
+     "english_name": "Amul"
+    },
+    {
+     "name": "రామాయపట్నం పోర్టు",
+     "type": "Place",
+     "english_name": "Ramayapatnam port"
+    },
+    {
+     "name": "మచిలీపట్నం పోర్టు",
+     "type": "Place",
+     "english_name": "Machilipatnam port"
+    },
+    {
+     "name": "మూలపేట పోర్టు",
+     "type": "Place",
+     "english_name": "Moovalam port"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State government"
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "సంక్షేమ కార్యక్రమాలు",
+     "type": "Issue",
+     "english_name": "Welfare programs"
+    }
+   ],
+   "relations": []
+  },
+  "dddabaaf2ae74e81dc184f2413ca77a9b52865a5": {
+   "entities": [
+    {
+     "name": "జగన్‌ మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సంక్షేమ క్యాలెండర్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్‌ ఇచ్చిన హామీలన్నీ ఇస్తానన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్‌ మోహన్‌రెడ్డి ఇచ్చిన ప్రతి హామీ కొనసాగుతుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మెరుగైన సంక్షేమ పథకాలు ఇస్తానన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు బిర్యానీ పెడతానన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బిర్యానీ పెట్టలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్‌ పెట్టిన పలావు కూడా పోయింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సంక్షేమ కేలండర్‌ అనేది బడ్జెట్‌తోపాటు రిలీజ్‌ చేస్తూ క్రమం తప్పకుండా ప్రతి ఏడాది లంచాలు లేకుండా వివక్ష లేకుండా ప్రతి ఇంటికీ డీబీటీ ద్వారా రూ.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌లు",
+     "evidence": "సూపర్‌ సిక్స్‌లు, సూపర్‌ సెవెన్‌లు లాంటి 143 హామీలు"
+    },
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌లు",
+     "evidence": "సూపర్‌ సిక్స్‌లు, సూపర్‌ సెవెన్‌లు లాంటి 143 హామీలు"
+    },
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సంక్షేమ క్యాలెండర్‌",
+     "evidence": "సంక్షేమ కేలండర్‌ అనేది బడ్జెట్‌తోపాటు రిలీజ్‌ చేస్తూ"
+    },
+    {
+     "source": "వైయస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సంక్షేమ క్యాలెండర్‌",
+     "evidence": "వైయస్సార్సీపీ ప్రభుత్వం హయాంలో సంక్షేమ కేలండర్‌"
+    },
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "జగన్‌ ఇచ్చిన హామీలన్నీ ఇస్తానన్నాడు",
+     "evidence": "నాడు జగన్‌ ఇచ్చిన హామీలన్నీ ఇస్తానన్నాడు."
+    },
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "జగన్‌ మోహన్‌రెడ్డి ఇచ్చిన ప్రతి హామీ కొనసాగుతుంది",
+     "evidence": "జగన్‌ మోహన్‌రెడ్డి ఇచ్చిన ప్రతి హామీ కొనసాగుతుంది."
+    },
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మెరుగైన సంక్షేమ పథకాలు ఇస్తానన్నాడు",
+     "evidence": "మెరుగైన సంక్షేమ పథకాలు ఇస్తానన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు బిర్యానీ పెడతానన్నాడు",
+     "evidence": "చంద్రబాబు బిర్యానీ పెడతానన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "బిర్యానీ పెట్టలేదు",
+     "evidence": "బిర్యానీ పెట్టలేదు."
+    },
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "జగన్‌ పెట్టిన పలావు కూడా పోయింది",
+     "evidence": "జగన్‌ పెట్టిన పలావు కూడా పోయింది."
+    },
+    {
+     "source": "జగన్‌ మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "సంక్షేమ కేలండర్‌ అనేది బడ్జెట్‌తోపాటు రిలీజ్‌ చేస్తూ క్రమం తప్పకుండా ప్రతి ఏడాది లంచాలు లేకుండా వివక్ష లేకుండా ప్రతి ఇంటికీ డీబీటీ ద్వారా రూ.",
+     "evidence": "సంక్షేమ కేలండర్‌ అనేది బడ్జెట్‌తోపాటు రిలీజ్‌ చేస్తూ క్రమం తప్పకుండా ప్రతి ఏడాది లంచాలు లేకుండా వివక్ష లేకుండా ప్రతి ఇంటికీ డీబీటీ ద్వారా రూ."
+    }
+   ]
+  },
+  "c521dcbed25b3ae9580911dbde7554339661deb7": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్‌బీకేలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్‌బీకేల ద్వారా ప్రత్యేక యాప్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "జగనన్న చేదోడు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "జగనన్న తోడు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్‌ఆర్‌ వాహన మిత్ర",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్‌ఆర్‌ లా నేస్తం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పీఆర్‌సీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పీఆర్‌సీ చైర్మన్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రైతు అవస్థలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యోగస్తుల వంచన",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "కాంట్రాక్ట్‌ ఉద్యోగులు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్‌ఆర్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న చేదోడు",
+     "evidence": "జగనన్న చేదోడు, జగనన్న తోడు, నేతన్న నేస్తం, వైయస్‌ఆర్‌ వాహన మిత్ర, వైయస్‌ఆర్‌ లా నేస్తం..ఈ పథకాలన్నీ కూడా ఈ రోజు పూర్తిగా రద్దైంది."
+    },
+    {
+     "source": "వైయస్‌ఆర్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న తోడు",
+     "evidence": "జగనన్న చేదోడు, జగనన్న తోడు, నేతన్న నేస్తం, వైయస్‌ఆర్‌ వాహన మిత్ర, వైయస్‌ఆర్‌ లా నేస్తం..ఈ పథకాలన్నీ కూడా ఈ రోజు పూర్తిగా రద్దైంది."
+    },
+    {
+     "source": "వైయస్‌ఆర్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నేతన్న నేస్తం",
+     "evidence": "జగనన్న చేదోడు, జగనన్న తోడు, నేతన్న నేస్తం, వైయస్‌ఆర్‌ వాహన మిత్ర, వైయస్‌ఆర్‌ లా నేస్తం..ఈ పథకాలన్నీ కూడా ఈ రోజు పూర్తిగా రద్దైంది."
+    },
+    {
+     "source": "వైయస్‌ఆర్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వైయస్‌ఆర్‌ వాహన మిత్ర",
+     "evidence": "జగనన్న చేదోడు, జగనన్న తోడు, నేతన్న నేస్తం, వైయస్‌ఆర్‌ వాహన మిత్ర, వైయస్‌ఆర్‌ లా నేస్తం..ఈ పథకాలన్నీ కూడా ఈ రోజు పూర్తిగా రద్దైంది."
+    },
+    {
+     "source": "వైయస్‌ఆర్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వైయస్‌ఆర్‌ లా నేస్తం",
+     "evidence": "జగనన్న చేదోడు, జగనన్న తోడు, నేతన్న నేస్తం, వైయస్‌ఆర్‌ వాహన మిత్ర, వైయస్‌ఆర్‌ లా నేస్తం..ఈ పథకాలన్నీ కూడా ఈ రోజు పూర్తిగా రద్దైంది."
+    },
+    {
+     "source": "వైయస్‌ఆర్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మత్స్యకార భరోసా",
+     "evidence": "మత్స్యకార భరోసా కూడా నిరుడు సంవత్సరం ఎగురగొట్టారు."
+    },
+    {
+     "source": "వైయస్‌ఆర్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆర్‌బీకేల ద్వారా ప్రత్యేక యాప్‌",
+     "evidence": "ఆర్‌బీకేల ద్వారా ప్రత్యేక యాప్‌ ఏర్పాటు చేసి ప్రభుత్వమే జోక్యం చేసుకొని మద్దతు ధర కల్పించాం."
+    }
+   ]
+  },
+  "4306326f50add3dff4653c398a70bd10702ce34b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పవన్‌కళ్యాణ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఆప్‌",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మెల్సీ ఎన్నికల్లో రిగ్గింగ్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రాడ్యుయేట్‌ ఎన్నికల్లో రిగ్గింగ్‌",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "7bd0c5cd33d6f9a387406c17f1e56b293c43c03b": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Kootami"
+    },
+    {
+     "name": "బిజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadeppalli"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ఫీజు పోరు",
+     "type": "Scheme",
+     "english_name": "Fee Poru"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "మోసాల బడ్జెట్‌. అంతా అంకెల గారడీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "143 హామీల్లో ఒక్కటి కూడా నెరవేర్చలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌సిక్స్‌లో కేవలం మూడింటి ప్రస్తావన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిరుద్యోగ భృతి, ఆడబిడ్డ నిధి, ఉచిత బస్సు రెండు బడ్జెట్లలోనూ ఆ పథకాల ఊసే లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాధ్యతాయుతమైన పదవిలో ఉండి కూడా ద్వేషం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అసలు ఆ పదవికి చంద్రబాబు అర్హుడేనా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దురుద్దేశంతోనే ప్రధాన ప్రతిపక్షంగా గుర్తించడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీలో ఏకైక ప్రతిపక్షం మాదే",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "కూటమి",
+     "evidence": "కూటమి పాలనలో అన్నింటా తిరోగమనం"
+    }
+   ]
+  },
+  "6d7ceaf4297c94c124fa1fc638a7366c488eb354": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "అన్నదాతా సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "పీఎం కిసాన్‌",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "చంద్రబాబు రెండేళ్లలో రూ.30 వేలు బాకీ పడ్డారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గత ఏడాది రూ.5,386 కోట్లు కేటాయించినా పైసా ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తొలి బడ్జెట్‌లో రూ.1000 కోట్లు చూపి, ఒక్క రూపాయి కూడా ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎం కిసాన్‌ కాకుండా అన్నదాత సుఖీభవ కింద రూ.20 వేలు ఇస్తానన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్‌ రైతు భరోసా కింద పీఎం కిసాన్‌ తో కలుపుకుని ఇస్తున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాతా సుఖీభవ",
+     "evidence": "పీఎం కిసాన్‌ కాకుండా అన్నదాత సుఖీభవ కింద రూ.20 వేలు ఇస్తానన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు రెండేళ్లలో రూ.30 వేలు బాకీ పడ్డారు",
+     "evidence": "ఈ ఒక్క పథకం ద్వారానే ప్రతి పిల్లాడికీ చంద్రబాబు రెండేళ్లలో రూ.30 వేలు బాకీ పడ్డారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గత ఏడాది రూ.5,386 కోట్లు కేటాయించినా పైసా ఇవ్వలేదు",
+     "evidence": "గత ఏడాది రూ.5,386 కోట్లు కేటాయించినా పైసా ఇవ్వలేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "తొలి బడ్జెట్‌లో రూ.1000 కోట్లు చూపి, ఒక్క రూపాయి కూడా ఇవ్వలేదు",
+     "evidence": "తొలి బడ్జెట్‌లో రూ.1000 కోట్లు చూపి, ఒక్క రూపాయి కూడా ఇవ్వలేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పీఎం కిసాన్‌ కాకుండా అన్నదాత సుఖీభవ కింద రూ.20 వేలు ఇస్తానన్నాడు",
+     "evidence": "పీఎం కిసాన్‌ కాకుండా అన్నదాత సుఖీభవ కింద రూ.20 వేలు ఇస్తానన్నాడు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "జగన్‌ రైతు భరోసా కింద పీఎం కిసాన్‌ తో కలుపుకుని ఇస్తున్నాడు",
+     "evidence": "జగన్‌ రైతు భరోసా కింద పీఎం కిసాన్‌ తో కలుపుకుని ఇస్తున్నాడు."
+    },
+    {
+     "source": "అన్నదాతా సుఖీభవ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2025-26",
+     "evidence": "గత ఎన్నికల్లో చంద్రబాబుగారు ఇచ్చిన మరో హామీ."
+    },
+    {
+     "source": "రైతు భరోసా",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2025-26",
+     "evidence": "మా హయాంలో 2023–24లో లెక్కేసుకున్నా, రైతు భరోసా అందుకున్న రైతులు 53,58,266 మంది."
+    },
+    {
+     "source": "పీఎం కిసాన్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2025-26",
+     "evidence": "పీఎం కిసాన్‌ కాకుండా అన్నదాత సుఖీభవ కింద రూ.20 వేలు ఇస్తానన్నాడు."
+    }
+   ]
+  },
+  "7a644f2644c4788c263efaec0e6300639a9939fb": {
+   "entities": [
+    {
+     "name": "Budget 2025-26",
+     "type": "Issue",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "Aadhaar card numbers",
+     "type": "Scheme",
+     "english_name": "Aadhaar card numbers"
+    },
+    {
+     "name": "ఆ 1.80 కోట్ల మందికి ఏటా రూ.18 వేల చొప్పున ఇవ్వాలంటే రూ.32,400 కోట్లు కావాలి.",
+     "type": "Claim",
+     "english_name": "ఆ 1.80 కోట్ల మందికి ఏటా రూ.18 వేల చొప్పున ఇవ్వాలంటే రూ.32,400 కోట్లు కావాలి."
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆ 1.80 కోట్ల మందికి ఏటా రూ.18 వేల చొప్పున ఇవ్వాలంటే రూ.32,400 కోట్లు కావాలి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Budget 2025-26",
+     "evidence": "ఆ 1.80 కోట్ల మందికి ఏటా రూ.18 వేల చొప్పున ఇవ్వాలంటే రూ.32,400 కోట్లు కావాలి."
+    }
+   ]
+  }
+ }
+}

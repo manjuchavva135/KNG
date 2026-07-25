@@ -1,0 +1,35 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "13b0db46a69a1777423887ba9c6af35d7642e5f4": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC elections",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Vontimitta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Government intends to inconvenience voters to deter them from voting",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

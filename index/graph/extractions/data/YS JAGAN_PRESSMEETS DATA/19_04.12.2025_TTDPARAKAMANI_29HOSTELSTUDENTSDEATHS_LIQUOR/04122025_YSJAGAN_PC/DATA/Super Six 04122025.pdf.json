@@ -1,0 +1,844 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1f8a9b56ad4d13bdd5b3bd92f7e6b58dfb178abe": {
+   "entities": [
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "Telugu Desam",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Janasena",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "Bharatiya Janata Party"
+    },
+    {
+     "name": "TDP-Janasena-BJP coalition",
+     "type": "Party",
+     "english_name": "TDP-Janasena-BJP coalition"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Youth to 20 lakh",
+     "type": "Scheme",
+     "english_name": "Youth to 20 lakh"
+    },
+    {
+     "name": "School fees",
+     "type": "Scheme",
+     "english_name": "School fees"
+    },
+    {
+     "name": "Every farmer gets",
+     "type": "Scheme",
+     "english_name": "Every farmer gets"
+    },
+    {
+     "name": "Every home gets",
+     "type": "Scheme",
+     "english_name": "Every home gets"
+    },
+    {
+     "name": "Every woman gets",
+     "type": "Scheme",
+     "english_name": "Every woman gets"
+    },
+    {
+     "name": "50 years of freebies for BC, ES, and Muslim Minorities",
+     "type": "Scheme",
+     "english_name": "50 years of freebies for BC, ES, and Muslim Minorities"
+    },
+    {
+     "name": "People's Ujjayanti Sabha",
+     "type": "Organization",
+     "english_name": "People's Ujjayanti Sabha"
+    },
+    {
+     "name": "Babu",
+     "type": "Person",
+     "english_name": "Babu"
+    },
+    {
+     "name": "Bring back Babu for the welfare of all",
+     "type": "Claim",
+     "english_name": "Bring back Babu for the welfare of all"
+    },
+    {
+     "name": "Super Six Super Hit",
+     "type": "Claim",
+     "english_name": "Super Six Super Hit"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP-Janasena-BJP coalition",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "Super Six Super Hit"
+    },
+    {
+     "source": "TDP-Janasena-BJP coalition",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Youth to 20 lakh",
+     "evidence": "Youth to 20 lakh"
+    },
+    {
+     "source": "TDP-Janasena-BJP coalition",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "School fees",
+     "evidence": "School fees"
+    },
+    {
+     "source": "TDP-Janasena-BJP coalition",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Every farmer gets",
+     "evidence": "Every farmer gets"
+    },
+    {
+     "source": "TDP-Janasena-BJP coalition",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Every home gets",
+     "evidence": "Every home gets"
+    },
+    {
+     "source": "TDP-Janasena-BJP coalition",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Every woman gets",
+     "evidence": "Every woman gets"
+    },
+    {
+     "source": "TDP-Janasena-BJP coalition",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "50 years of freebies for BC, ES, and Muslim Minorities",
+     "evidence": "50 years of freebies for BC, ES, and Muslim Minorities"
+    }
+   ]
+  },
+  "31df4bbd3313664921ce067a4433ea246c89152c": {
+   "entities": [
+    {
+     "name": "Super Seven schemes",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Aadabidda Nidhi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Dipam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Free Bus Travel",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Annadata Sukhibhava",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Thalliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Pension age reduction to 50 years for SCs, BCs & Minorities",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "70862001b8d522bc3e0505b29a009222ea42a5c8": {
+   "entities": [
+    {
+     "name": "Nirudyoga Bhruthi",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "1ab322f95b299606b332cd3a55c733bd1613986b": {
+   "entities": [
+    {
+     "name": "రైతన్నా (మీకోసం)",
+     "type": "Scheme",
+     "english_name": "Raithaanna (Meeku Kosam)"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గోపాలపురం నియోజకవర్గం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నల్లజర్ల రైతు సేవా కేంద్రం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గౌII నారా చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "అన్వదాత సుఖీభవ - పీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బిందు సేద్యం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మెరుగైన సాగునీటి విధానం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "MSP",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "MIS",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పంచసూత్రాల",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నీటి భద్రత",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "డిమాండ్ ఆధారిత పంటలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "అగ్రిటెక్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఫుడ్ ప్రాసెసింగ్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కర్ణాటక",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రాజమహేంద్రవరం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సూర్యపేట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తడేపల్లిగుడియం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "వార్రంగల్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నొసారbad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఖమ్మం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఒంగోలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మహబూబ్నగర్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "46,85,838 రైతుల ఖాతాల్లో రూ.6,310 కోట్లు జమ",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6ad89b70c8155f22eb6291ff5222f0168ae3d89f": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్టీఏ కూటమి",
+     "type": "Party",
+     "english_name": "NTA Alliance"
+    },
+    {
+     "name": "మెగా డీఎస్సీ పోస్టుల భర్తీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC Post Recruitment"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "కార్మాగడ",
+     "type": "Place",
+     "english_name": "Karmagar"
+    },
+    {
+     "name": "రాజమహేంద్రవరం",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    },
+    {
+     "name": "సూర్యపేట",
+     "type": "Place",
+     "english_name": "Suryapet"
+    },
+    {
+     "name": "గంట్వ",
+     "type": "Place",
+     "english_name": "Gantav"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "టడేపల్లిగుడెం",
+     "type": "Place",
+     "english_name": "Tadepalligudem"
+    },
+    {
+     "name": "వార్రంగల్",
+     "type": "Place",
+     "english_name": "Warangal"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "నizambad",
+     "type": "Place",
+     "english_name": "Nizamabad"
+    },
+    {
+     "name": "ఖమ్మం",
+     "type": "Place",
+     "english_name": "Khammam"
+    },
+    {
+     "name": "ఒంగోలు",
+     "type": "Place",
+     "english_name": "Ongole"
+    },
+    {
+     "name": "మహబూబ్నగర్",
+     "type": "Place",
+     "english_name": "Mahabubnagar"
+    },
+    {
+     "name": "చెన్న",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "ప్రజలకు ఇచ్చిన హామీలను నిలబెట్టుకుంటూ... సూపర్ సిక్స్ పథకాలను దిగ్విజయంగా అమలు చేస్తూ...",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇప్పటివరకు రూ.1 లక్ష కోట్లకు పైగా సంక్షేమాన్ని, అభివృద్ధిని ప్రజలకు అందించిన సందర్భంగా...",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రైతుకూ ఏడాదికి ఇంట్లో ఎంత మంది ఏడాదికి రాష్ట్ర వ్యాప్తంగా నెలనెలా ప్రతి మహిళకు యువతకు 8 లక్షల ఆర్థిక సాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉచిత ప్రయాణం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "cdd3ef3388f8fbefd632a4443ee8b27546f463a6": {
+   "entities": [
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six 2.0",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "షణ్ముఖ వ్యూహం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "యువత సంక్షేమం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీ డిక్లరేషన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజాగం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఉమ్మడి మేనిఫెస్టో - 2024",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NDA ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఉత్తరాంధ్ర",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కోస్తా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రాయలసీమ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మెగా దీయస్పీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "స్కిల్ సెన్స్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సౌభాగ్యపథం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పటా రూ.20 వేలు ఆర్థిక సాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20 వేలు ఆర్థిక సాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి మహిళకి నెలకు రూ.1500",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "05e776a74d384180402b0c57421d8bdde7319ac5": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎంసీ యాక్ట్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "డ్రిప్ ఇరిగేషన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సెరికల్చర్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఎస్సీ, ఎస్టీ బ్యాంకులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గృహ నిర్మాణం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "డ్రిప్ ఇరిగేషన్‌కు 90% సబ్సిడీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీఎంసీ యాక్ట్ పటీతంగా అమలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గృహ నిర్మాణానికి పట్టణాల్లో 2 సెంట్లు, గ్రామాల్లో 3 సెంట్ల స్థలం మంజూరు చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం నుంచి పక్కా ఇళ్ల నిర్మాణాలు పూర్తి చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "c501e9baa74e42be89a013afb10aad4af6e85ed0": {
+   "entities": [
+    {
+     "name": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "type": "Issue",
+     "english_name": "SC/ST welfare"
+    },
+    {
+     "name": "సేంద్రీయ వ్యవసాయం (ZBNF)",
+     "type": "Scheme",
+     "english_name": "Organic farming (ZBNF)"
+    },
+    {
+     "name": "ఏపీఎంసీ యాక్ట్",
+     "type": "Organization",
+     "english_name": "APMC Act"
+    },
+    {
+     "name": "జీవో 3",
+     "type": "Organization",
+     "english_name": "GO 3"
+    },
+    {
+     "name": "ప్రతి పార్లమెంటు నియోజకవర్గంలో 1000 ఎకరాలలో సేంద్రీయ వ్యవసాయం (ZBNF) చేపట్టి వారికి ఆర్థిక, సాగు, మార్కెటింగ్ అంశాల్లో తోడ్పాటు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జిల్లావారీగా వర్గీకరణ అమలుచేస్తాం ఎస్సీ, ఎస్టీలకు 50 ఏళ్లకే పెంఛన్ మంజూరు సబ్ప్లాన్ నిధులు వారి అభివృద్ధికి ఖర్చు చేస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీజీలో ఆదివాసీ ఉపాధ్యాయుల నియామకం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీవో 3 పునరుద్ధరణ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రస్తుత ప్రభుత్వం రద్దు చేసిన ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునఃపరిశీలన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ రంగంలో గిద్దగులు, కోల్డ్ స్టోరేజి యూనిట్ల ఆధునీకరణ, నూతన యూనిట్ల ఏర్పాటు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దళారుల దోపిడీని అరికట్టడానికి ఏపీఎంసీ యాక్ట్ పటీతంగా అమలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డ్రిప్ ఇరిగేషన్‌కు 90% సబ్సిడీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో సెరికల్చర్‌ను ప్రోత్సహించి రైతులను ఆదుకుంటాం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ప్రతి పార్లమెంటు నియోజకవర్గంలో 1000 ఎకరాలలో సేంద్రీయ వ్యవసాయం (ZBNF) చేపట్టి వారికి ఆర్థిక, సాగు, మార్కెటింగ్ అంశాల్లో తోడ్పాటు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "ప్రతి పార్లమెంటు నియోజకవర్గంలో 1000 ఎకరాలలో సేంద్రీయ వ్యవసాయం (ZBNF) చేపట్టి వారికి ఆర్థిక, సాగు, మార్కెటింగ్ అంశాల్లో తోడ్పాటు"
+    },
+    {
+     "source": "జిల్లావారీగా వర్గీకరణ అమలుచేస్తాం ఎస్సీ, ఎస్టీలకు 50 ఏళ్లకే పెంఛన్ మంజూరు సబ్ప్లాన్ నిధులు వారి అభివృద్ధికి ఖర్చు చేస్తాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "జిల్లావారీగా వర్గీకరణ అమలుచేస్తాం ఎస్సీ, ఎస్టీలకు 50 ఏళ్లకే పెంఛన్ మంజూరు సబ్ప్లాన్ నిధులు వారి అభివృద్ధికి ఖర్చు చేస్తాం."
+    },
+    {
+     "source": "ఏపీజీలో ఆదివాసీ ఉపాధ్యాయుల నియామకం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "ఏపీజీలో ఆదివాసీ ఉపాధ్యాయుల నియామకం."
+    },
+    {
+     "source": "జీవో 3 పునరుద్ధరణ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "జీవో 3 పునరుద్ధరణ"
+    },
+    {
+     "source": "ప్రస్తుత ప్రభుత్వం రద్దు చేసిన ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునఃపరిశీలన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "ప్రస్తుత ప్రభుత్వం రద్దు చేసిన ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునఃపరిశీలన"
+    },
+    {
+     "source": "ప్రభుత్వ రంగంలో గిద్దగులు, కోల్డ్ స్టోరేజి యూనిట్ల ఆధునీకరణ, నూతన యూనిట్ల ఏర్పాటు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "ప్రభుత్వ రంగంలో గిద్దగులు, కోల్డ్ స్టోరేజి యూనిట్ల ఆధునీకరణ, నూతన యూనిట్ల ఏర్పాటు"
+    },
+    {
+     "source": "దళారుల దోపిడీని అరికట్టడానికి ఏపీఎంసీ యాక్ట్ పటీతంగా అమలు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "దళారుల దోపిడీని అరికట్టడానికి ఏపీఎంసీ యాక్ట్ పటీతంగా అమలు"
+    },
+    {
+     "source": "డ్రిప్ ఇరిగేషన్‌కు 90% సబ్సిడీ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "డ్రిప్ ఇరిగేషన్‌కు 90% సబ్సిడీ"
+    },
+    {
+     "source": "రాష్ట్రంలో సెరికల్చర్‌ను ప్రోత్సహించి రైతులను ఆదుకుంటాం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "రాష్ట్రంలో సెరికల్చర్‌ను ప్రోత్సహించి రైతులను ఆదుకుంటాం."
+    },
+    {
+     "source": "సేంద్రీయ వ్యవసాయం (ZBNF)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "సేంద్రీయ వ్యవసాయం (ZBNF)"
+    }
+   ]
+  }
+ }
+}

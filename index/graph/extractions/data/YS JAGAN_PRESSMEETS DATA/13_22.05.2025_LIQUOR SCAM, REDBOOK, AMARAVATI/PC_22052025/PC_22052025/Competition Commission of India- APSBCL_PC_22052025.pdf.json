@@ -1,0 +1,474 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5ff6f2550f0a256395b52bd55b9a7e1845ff0b35": {
+   "entities": [],
+   "relations": []
+  },
+  "b5737f918c798956b1b9ee8e2fb38d40fa682e83": {
+   "entities": [],
+   "relations": []
+  },
+  "9b5149fa1d02c072c5748ec0176ff79eacf579cc": {
+   "entities": [
+    {
+     "name": "Pernod India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Diageo India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "OP-2",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Informant",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: OP-2 instructed Pernod India to reduce quantity",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim: Informant's assertion not tenable",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "cf37432db1a89ed63ada99a231ec7ffa3d5e75c6": {
+   "entities": [
+    {
+     "name": "Informant",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "OPs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "OP-2",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Informant",
+     "relation": "ACCUSES",
+     "target": "OPs",
+     "evidence": "payment timelines being decided arbitrarily by the OPs"
+    },
+    {
+     "source": "Informant",
+     "relation": "ACCUSES",
+     "target": "OPs",
+     "evidence": "imposing penalty for slow moving goods"
+    },
+    {
+     "source": "Informant",
+     "relation": "ACCUSES",
+     "target": "OPs",
+     "evidence": "unilateral right to extend (which has been exercised by the OPs multiple times with unchanged supply rates) or cancel the RCA"
+    },
+    {
+     "source": "Informant",
+     "relation": "ACCUSES",
+     "target": "OPs",
+     "evidence": "rescinding OFS."
+    }
+   ]
+  },
+  "461de214f10cfbe301bad02a21dfcdb69aa9417e": {
+   "entities": [
+    {
+     "name": "International Spirits and Wines Association of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ISWAI/Informant",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Prohibition & Excise Department, Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State Beverages Corporation Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Competition Commission of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ashok Kumar Gupta",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sangeeta Verma",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Bhagwant Singh Bishnoi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gurugram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Haryana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "DLF Corporate Park",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "M G Road",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sai Vihar Apartments",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Poultry Farm Road",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Prasadampadu (V)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Excise Complex",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prohibition & Excise Department, Government of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh"
+    },
+    {
+     "source": "International Spirits and Wines Association of India",
+     "relation": "LOCATED_IN",
+     "target": "Gurugram",
+     "evidence": "Gurugram – 122102, Haryana"
+    },
+    {
+     "source": "International Spirits and Wines Association of India",
+     "relation": "LOCATED_IN",
+     "target": "Haryana",
+     "evidence": "Gurugram – 122102, Haryana"
+    },
+    {
+     "source": "Andhra Pradesh State Beverages Corporation Limited",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Vijayawada - 521108, Amaravathi, Andhra Pradesh"
+    },
+    {
+     "source": "Andhra Pradesh State Beverages Corporation Limited",
+     "relation": "LOCATED_IN",
+     "target": "Amaravathi",
+     "evidence": "Vijayawada - 521108, Amaravathi, Andhra Pradesh"
+    },
+    {
+     "source": "Andhra Pradesh State Beverages Corporation Limited",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada - 521108, Amaravathi, Andhra Pradesh"
+    }
+   ]
+  },
+  "98ffd7ca201f9dcce396ea646c2cb6acb3905f17": {
+   "entities": [
+    {
+     "name": "OPs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State of Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "RCA",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "it is wrong to allege that the OPs are vested with the unilateral right to extend or cancel the RCA",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Commission frowns upon unilateral termination clauses introduced by entities which have market power and which reduces the bargaining power of the parties contracting with the dominant entity",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Commission cannot substitute its wisdom to that of the procurer in respect of the terms of procurements, the periodicity thereof and terms of RCAS etc.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Commission leaves it to the OPs to make suitable adjustments in the clauses bearing in mind the niceties of policy so as to dispel the notion of ‘take it or leave it’ approach as the manufacturers/suppliers rely solely on the OPs for supply of their products in the State of Andhra Pradesh",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Commission notes from the submission of the OPs that there has been no instance wherein the aforementioned clause has been exercised by the OPs",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "OPs",
+     "relation": "LOCATED_IN",
+     "target": "State of Andhra Pradesh",
+     "evidence": "the manufacturers/suppliers rely solely on the OPs for supply of their products in the State of Andhra Pradesh."
+    },
+    {
+     "source": "OPs",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Press meet: ... AMARAVATI"
+    }
+   ]
+  },
+  "38650f51a50407d035beb52a137d870c26e1e821": {
+   "entities": [
+    {
+     "name": "OPs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commission",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Informant",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "OFS",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "solely responsible for determining demand and placing orders, when stock so procured is not sold and becomes ‘inactive’, the liability for the same cannot be solely attributable to the manufacturer/supplier of Branded Alcoholic Beverages.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "OPs also halt supply of stock to retail outlets.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "OPs have unilateral right to rescind OFS.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "OFS have never been cancelled so far.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "OPs’ actions can be said to be based on an objective criterion and are not downright arbitrary.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Commission does not have any misgivings in relation to the clauses pertaining to slow-moving stock.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "OPs ought to exercise the clause uniformly in a non-discriminatory manner and with abundant care and caution.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Commission ordinarily would not like to interfere in such situations.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Informant",
+     "relation": "ACCUSES",
+     "target": "OPs",
+     "evidence": "the Informant has also alleged that the OPs also halt supply of stock to retail outlets."
+    },
+    {
+     "source": "Informant",
+     "relation": "ACCUSES",
+     "target": "OPs",
+     "evidence": "It is also alleged that OPs have unilateral right to rescind OFS."
+    },
+    {
+     "source": "solely responsible for determining demand and placing orders, when stock so procured is not sold and becomes ‘inactive’, the liability for the same cannot be solely attributable to the manufacturer/supplier of Branded Alcoholic Beverages.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "OPs also halt supply of stock to retail outlets.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "OPs have unilateral right to rescind OFS.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "OFS have never been cancelled so far.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "OPs’ actions can be said to be based on an objective criterion and are not downright arbitrary.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "Commission does not have any misgivings in relation to the clauses pertaining to slow-moving stock.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "OPs ought to exercise the clause uniformly in a non-discriminatory manner and with abundant care and caution.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    },
+    {
+     "source": "Commission ordinarily would not like to interfere in such situations.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "Liquor Scam"
+    }
+   ]
+  }
+ }
+}

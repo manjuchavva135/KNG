@@ -1,0 +1,189 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "19cb605aba61f321fac8ab6367011d068f5c02e1": {
+   "entities": [
+    {
+     "name": "తిరుపతి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరతి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ నాయకుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులకు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అధికార పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "శాంతిపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై దాడులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరతిని లాక్కెళ్లి గదిలో బందించాడు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ నాయకుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకుడు"
+    },
+    {
+     "source": "తిరుపతి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆరతిని లాక్కెళ్లి గదిలో బందించాడు",
+     "evidence": "ఆరతిని లాక్కెళ్లి గదిలో బందించాడు"
+    },
+    {
+     "source": "ఆరతిని లాక్కెళ్లి గదిలో బందించాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మహిళలపై దాడులు",
+     "evidence": "మహిళలపై పసుపు చొక్కాల దౌర్జన్యకాండ కొనసాగుతోంది."
+    }
+   ]
+  },
+  "7d2f6de8cb62570f323b669751903e1044c14b0b": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "నారాయణపురం",
+     "type": "Place",
+     "english_name": "Narayana Puram"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": "Siriha"
+    },
+    {
+     "name": "మునికన్నప్ప",
+     "type": "Person",
+     "english_name": "Munikannappa"
+    },
+    {
+     "name": "వెంకటేష్పురం",
+     "type": "Place",
+     "english_name": "Venkateshapuram"
+    },
+    {
+     "name": "శాంతిపురం మండలం",
+     "type": "Place",
+     "english_name": "Santhipuram mandal"
+    },
+    {
+     "name": "మఠం పంచాయతీ",
+     "type": "Place",
+     "english_name": "Matham Panchayat"
+    },
+    {
+     "name": "పార్వతమ్మ",
+     "type": "Person",
+     "english_name": "Parvathamma"
+    },
+    {
+     "name": "అనసూయమ్మ",
+     "type": "Person",
+     "english_name": "Anasuya"
+    },
+    {
+     "name": "ఉమా దేవి",
+     "type": "Person",
+     "english_name": "Uma Devi"
+    },
+    {
+     "name": "ఉషారాణి",
+     "type": "Person",
+     "english_name": "Usharani"
+    },
+    {
+     "name": "శ్వేత",
+     "type": "Person",
+     "english_name": "Shwetha"
+    },
+    {
+     "name": "సల్లాపురి",
+     "type": "Person",
+     "english_name": "Sallapuri"
+    },
+    {
+     "name": "కడపల్లి పంచాయతీ",
+     "type": "Place",
+     "english_name": "Kadapalli Panchayat"
+    },
+    {
+     "name": "పోడూరుకు",
+     "type": "Place",
+     "english_name": "Poduru"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Person",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "తుమ్మిశి",
+     "type": "Place",
+     "english_name": "Tumishi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "స్థానిక ఎమ్మెల్యే రాష్ట్ర ముఖ్య మంత్రిగా ఉన్నా, హోం మంత్రిగా ఓ మహిళ ఉన్నా కుప్పంలో మహిళలకు మాత్రం రక్షణ కరు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలపై వరుస దౌర్జన్యాలు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  }
+ }
+}

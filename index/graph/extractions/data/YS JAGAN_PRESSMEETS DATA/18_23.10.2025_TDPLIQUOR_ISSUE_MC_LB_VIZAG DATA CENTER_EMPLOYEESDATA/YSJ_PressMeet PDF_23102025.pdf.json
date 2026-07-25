@@ -1,0 +1,757 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0a61d1539877d2411e55ec9b8dd4e659e88a8074": {
+   "entities": [
+    {
+     "name": "Mulakalacheruvu",
+     "type": "Place",
+     "english_name": "Mulakalacheruvu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    }
+   ],
+   "relations": []
+  },
+  "1a1ec177786ea9a542bf12639a34602faee82117": {
+   "entities": [
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "తంబళ్లపల్లె నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Tamballapalle constituency"
+    },
+    {
+     "name": "ములకలచెరువు",
+     "type": "Place",
+     "english_name": "Mulakalacheruvu"
+    },
+    {
+     "name": "కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "type": "Organization",
+     "english_name": "Counterfeit liquor factory"
+    },
+    {
+     "name": "నకిలీ మద్యం బాటిళ్లు",
+     "type": "Claim",
+     "english_name": "Counterfeit liquor bottles"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "relation": "LOCATED_IN",
+     "target": "అన్నమయ్య జిల్లా",
+     "evidence": "అన్నమయ్య జిల్లా తంబళ్లపల్లె నియోజకవర్గంలో మండల కేంద్రమైన ములకలచెరువులోనే కల్తీ లిక్కర్ ఫ్యాక్టరీ"
+    },
+    {
+     "source": "కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "relation": "LOCATED_IN",
+     "target": "తంబళ్లపల్లె నియోజకవర్గం",
+     "evidence": "అన్నమయ్య జిల్లా తంబళ్లపల్లె నియోజకవర్గంలో మండల కేంద్రమైన ములకలచెరువులోనే కల్తీ లిక్కర్ ఫ్యాక్టరీ"
+    },
+    {
+     "source": "కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "relation": "LOCATED_IN",
+     "target": "ములకలచెరువు",
+     "evidence": "అన్నమయ్య జిల్లా తంబళ్లపల్లె నియోజకవర్గంలో మండల కేంద్రమైన ములకలచెరువులోనే కల్తీ లిక్కర్ ఫ్యాక్టరీ"
+    },
+    {
+     "source": "నకిలీ మద్యం బాటిళ్లు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor scam",
+     "evidence": "నకిలీ మద్యం బాటిళ్లు"
+    }
+   ]
+  },
+  "d89f341ff1e71b98c61e3bf740211a4861cc3d4f": {
+   "entities": [
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "తంబళ్లపల్లె నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Tamballapalle constituency"
+    },
+    {
+     "name": "ములకలచెరువు",
+     "type": "Place",
+     "english_name": "Mulakalacheruvu"
+    },
+    {
+     "name": "కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "type": "Organization",
+     "english_name": "spurious liquor factory"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా తంబళ్లపల్లె నియోజకవర్గంలో మండల కేంద్రమైన ములకలచెరువులోనే కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "type": "Claim",
+     "english_name": "There is a spurious liquor factory in Mulakalacheruvu, Tamballapalle constituency, Annamayya district."
+    }
+   ],
+   "relations": [
+    {
+     "source": "అన్నమయ్య జిల్లా తంబళ్లపల్లె నియోజకవర్గంలో మండల కేంద్రమైన ములకలచెరువులోనే కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor scam",
+     "evidence": "అన్నమయ్య జిల్లా తంబళ్లపల్లె నియోజకవర్గంలో మండల కేంద్రమైన ములకలచెరువులోనే కల్తీ లిక్కర్ ఫ్యాక్టరీ"
+    },
+    {
+     "source": "కల్తీ లిక్కర్ ఫ్యాక్టరీ",
+     "relation": "LOCATED_IN",
+     "target": "ములకలచెరువు",
+     "evidence": "ములకలచెరువులోనే కల్తీ లిక్కర్ ఫ్యాక్టరీ"
+    }
+   ]
+  },
+  "23806fb15636851d84d0d3898aace916f1d02c85": {
+   "entities": [
+    {
+     "name": "ములకలచెరువు",
+     "type": "Place",
+     "english_name": "Mulakalacheruvu"
+    },
+    {
+     "name": "కట్టా సురేంద్ర నాయుడు",
+     "type": "Person",
+     "english_name": "Katta Surendra Naidu"
+    },
+    {
+     "name": "ఆంధ్రా వైన్స్",
+     "type": "Organization",
+     "english_name": "Andhra Wines"
+    },
+    {
+     "name": "ఎక్సైజ్ అధికారులు",
+     "type": "Organization",
+     "english_name": "Excise officials"
+    },
+    {
+     "name": "ఆంధ్రా వైన్స్ ను సీజ్ చేసిన ఎక్సైజ్ అధికారులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor issue",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆంధ్రా వైన్స్",
+     "relation": "LOCATED_IN",
+     "target": "ములకలచెరువు",
+     "evidence": "ములకలచెరువులో కట్టా సురేంద్ర నాయుడుకు చెందిన ఆంధ్రా వైన్స్ ను సీజ్ చేసిన ఎక్సైజ్ అధికారులు"
+    }
+   ]
+  },
+  "11cf94d3dfa54fd948841958656cca7be284b72c": {
+   "entities": [
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ఒక వ్యక్తి",
+     "type": "Person",
+     "english_name": "a person"
+    },
+    {
+     "name": "వృద్ధుడు లేదా వృద్ధురాలు",
+     "type": "Person",
+     "english_name": "elderly man or woman"
+    },
+    {
+     "name": "ములకలచెరువు",
+     "type": "Place",
+     "english_name": "Mulakalacheruvu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "నకిలీ మద్యం డంప్ను సీజ్ చేసిన పోలీసులు",
+     "type": "Claim",
+     "english_name": "Police seized fake liquor dump"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నకిలీ మద్యం డంప్ను సీజ్ చేసిన పోలీసులు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor scam",
+     "evidence": "TDPLIQUOR_ISSUE"
+    }
+   ]
+  },
+  "a904172bed528ac8848f1fe5310269c52c8061ee": {
+   "entities": [
+    {
+     "name": "3,637 లీటర్ల మద్యం దొరికిన ములకలచెరువు నకిలీ మద్యం ఫ్యాక్టరీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం ఫ్యాక్టరీ",
+     "type": "Issue",
+     "english_name": "Fake liquor factory"
+    },
+    {
+     "name": "Radison Royalties Ltd.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mulakalacheruvu",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "d0890f384a135560a4ca22ba2ba6e8f5a1928f03": {
+   "entities": [],
+   "relations": []
+  },
+  "b0353eaf1195c7cdad925ff4d0cbe2f54344581c": {
+   "entities": [
+    {
+     "name": "ఎక్సైజ్ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Excise Police"
+    },
+    {
+     "name": "భారీగా నకిలీ మద్యాన్ని పట్టుకున్న ఎక్సైజ్ పోలీసులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇబ్రహీంపట్నం",
+     "type": "Place",
+     "english_name": "Ibrahimpatnam"
+    },
+    {
+     "name": "NTT district",
+     "type": "Place",
+     "english_name": "NTR district"
+    },
+    {
+     "name": "BHAVANIPURAM, VIJAYAWADA, N.T.R. DISTRICT",
+     "type": "Place",
+     "english_name": "Bhavanipuram, Vijayawada, NTR District"
+    },
+    {
+     "name": "AP EXCISE",
+     "type": "Organization",
+     "english_name": "AP Excise"
+    },
+    {
+     "name": "PROHIBITION & EXCISE STATION",
+     "type": "Organization",
+     "english_name": "Prohibition & Excise Station"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎక్సైజ్ పోలీసులు",
+     "relation": "LOCATED_IN",
+     "target": "ఇబ్రహీంపట్నం",
+     "evidence": "ఇబ్రహీంపట్నంలో"
+    },
+    {
+     "source": "AP EXCISE",
+     "relation": "LOCATED_IN",
+     "target": "BHAVANIPURAM, VIJAYAWADA, N.T.R. DISTRICT",
+     "evidence": "BHAVANIPURAM, VIJAYAWADA, N.T.R. DISTRICT"
+    },
+    {
+     "source": "PROHIBITION & EXCISE STATION",
+     "relation": "LOCATED_IN",
+     "target": "BHAVANIPURAM, VIJAYAWADA, N.T.R. DISTRICT",
+     "evidence": "BHAVANIPURAM, VIJAYAWADA, N.T.R. DISTRICT"
+    }
+   ]
+  },
+  "a61b954a6d8eaf3ba24b96d4e031bf16cf632105": {
+   "entities": [],
+   "relations": []
+  },
+  "6a4c8b01a318cca9b73e1b24f2138150ae187043": {
+   "entities": [
+    {
+     "name": "Ibrahimpatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "22,000 empty bottles seized in a fake liquor manufacturing center in Ibrahimpatnam",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "22,000 empty bottles seized in a fake liquor manufacturing center in Ibrahimpatnam",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor scam",
+     "evidence": "ఇబ్రహీంపట్నంలో నకిలీ మద్యం తయారీ కేంద్రంలో సీజ్ చేసిన 22వేల ఖాళీ బాటిళ్లు"
+    }
+   ]
+  },
+  "171d823d49d14dff280bcc53b3750c523f14a623": {
+   "entities": [
+    {
+     "name": "Ibrahimpatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "TDPLIQUOR_ISSUE",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Vizag Data Center",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "44e27b9c5e59ab65284ef76e8e09dc516a985863": {
+   "entities": [],
+   "relations": []
+  },
+  "51a1d5cf2039fe387f76842e8787d0980af37b1b": {
+   "entities": [
+    {
+     "name": "ఇబ్రహీంపట్నం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Radico",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఇబ్రహీంపట్నంలో పట్టుబడిన కేరళ మాల్ట్ విస్కీ : 69.12 లీటర్లు, క్లాసిక్ బ్లూ విస్కీ : 25.92 లీటర్లు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఇబ్రహీంపట్నంలో పట్టుబడిన కేరళ మాల్ట్ విస్కీ : 69.12 లీటర్లు, క్లాసిక్ బ్లూ విస్కీ : 25.92 లీటర్లు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor issue",
+     "evidence": "ఇబ్రహీంపట్నంలో పట్టుబడిన కేరళ మాల్ట్ విస్కీ : 69.12 లీటర్లు, క్లాసిక్ బ్లూ విస్కీ : 25.92 లీటర్లు"
+    }
+   ]
+  },
+  "9291b7d8ae4d8e2efb1d6c70db8902d76a94a675": {
+   "entities": [
+    {
+     "name": "అద్దేపల్లి జనార్ధన్",
+     "type": "Person",
+     "english_name": "Addepalli Janardhan"
+    },
+    {
+     "name": "ఏఎన్ఆర్ లిక్కర్ షాప్, బార్ & రెస్టారెంట్",
+     "type": "Organization",
+     "english_name": "ANR liquor shop, bar & restaurant"
+    },
+    {
+     "name": "ఎక్సైజ్ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Excise police"
+    },
+    {
+     "name": "ఏఎన్ఆర్ లిక్కర్ షాప్, బార్ & రెస్టారెంట్ ను సీజ్ చేసిన ఎక్సైజ్ పోలీసులు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "8dd807c713cc1a82358a82d85907b8265c923027": {
+   "entities": [
+    {
+     "name": "అమలాపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పట్టుబడిన నకిలీ మద్యం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "6cc2d9014580388dceb1181d00ab8cde1e93b9d8": {
+   "entities": [
+    {
+     "name": "స్పీకర్ అయ్యన్నపాత్రుడు",
+     "type": "Person",
+     "english_name": "Speaker Ayyanappa"
+    },
+    {
+     "name": "రుత్తుల రాము",
+     "type": "Person",
+     "english_name": "Ruttu Rama"
+    },
+    {
+     "name": "పరవాడ",
+     "type": "Place",
+     "english_name": "Paravada"
+    },
+    {
+     "name": "నకిలీ మద్యం తయారీ",
+     "type": "Issue",
+     "english_name": "Fake liquor manufacturing"
+    }
+   ],
+   "relations": []
+  },
+  "29a146ff226ee29d5ab4341fda6556dac14c8a7a": {
+   "entities": [
+    {
+     "name": "పోలీసు అధికారి",
+     "type": "Person",
+     "english_name": "Police officer"
+    },
+    {
+     "name": "అనకాపల్లి జిల్లా",
+     "type": "Place",
+     "english_name": "Anakapalli district"
+    },
+    {
+     "name": "పరవడ",
+     "type": "Place",
+     "english_name": "Paravada"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "DATA CENTER",
+     "type": "Organization",
+     "english_name": "Data Center"
+    },
+    {
+     "name": "STAF ROOM",
+     "type": "Place",
+     "english_name": "Staff Room"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "Fake liquor",
+     "type": "Issue",
+     "english_name": "Fake liquor"
+    }
+   ],
+   "relations": []
+  },
+  "cbfc20a0583a008fffeea4f5a048d8c22b6ba9fc": {
+   "entities": [
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Issue",
+     "english_name": "Fake liquor"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "పోలీసు అధికారులు",
+     "type": "Organization",
+     "english_name": "Police officers"
+    },
+    {
+     "name": "నకిలీ మద్యం పట్టుబడింది",
+     "type": "Claim",
+     "english_name": "Fake liquor seized"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నకిలీ మద్యం పట్టుబడింది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ మద్యం",
+     "evidence": "ఏలూరులో పట్టుబడిన నకిలీ మద్యం.."
+    }
+   ]
+  },
+  "8153aa949073bb867aeae280843e9861989eb50f": {
+   "entities": [
+    {
+     "name": "పాలకొల్లు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసు అధికారులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కెఎఫ్సి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "తెల్లటి చొక్కా ధరించిన వ్యక్తి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఎరుపు మరియు పసుపు రంగు దుస్తులు ధరించిన మహిళ",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "91e5e6be7def2d4792127d8dbc515359c109c47b": {
+   "entities": [],
+   "relations": []
+  },
+  "10cc0a1c0903bb24e8a5367ac1ba11aecf0a7872": {
+   "entities": [
+    {
+     "name": "నెల్లూరులో పట్టుబడిన నకిలీ మద్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "TATA COPPER",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AC",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "నెల్లూరులో పట్టుబడిన నకిలీ మద్యం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ మద్యం",
+     "evidence": "నెల్లూరులో పట్టుబడిన నకిలీ మద్యం"
+    }
+   ]
+  },
+  "a4173d4e90bd283e6c066f6e2168334d9f60dd28": {
+   "entities": [
+    {
+     "name": "రేపల్లె",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసు అధికారులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SUB-INSPECTOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం పట్టుబడింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "4d68584faf3a0f062b3df2140495762fd5d678f3": {
+   "entities": [
+    {
+     "name": "కల్తీ లిక్కర్ తయారీదారులు, పంపిణీ చేసేవాళ్లు, అమ్మేవాళ్లు అందరూ టీడీపీ వాళ్లే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కల్తీ లిక్కర్",
+     "type": "Issue",
+     "english_name": "Illicit liquor"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కల్తీ లిక్కర్ తయారీదారులు, పంపిణీ చేసేవాళ్లు, అమ్మేవాళ్లు అందరూ టీడీపీ వాళ్లే",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "కల్తీ లిక్కర్",
+     "evidence": "కల్తీ లిక్కర్ తయారీదారులు, పంపిణీ చేసేవాళ్లు, అమ్మేవాళ్లు అందరూ టీడీపీ వాళ్లే"
+    }
+   ]
+  },
+  "4ebb616053d5c35e0e3adc4eb0cc1064999c2153": {
+   "entities": [
+    {
+     "name": "మంత్రి రాంప్రసాద్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Ramprasad Reddy"
+    },
+    {
+     "name": "తంబళ్ల పల్లె టీడీపీ ఇన్చార్జి జయచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Jayachandra Reddy"
+    },
+    {
+     "name": "కట్టా సురేంద్ర నాయుడు",
+     "type": "Person",
+     "english_name": "Katta Surendra Naidu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "TDPLIQUOR_ISSUE",
+     "type": "Issue",
+     "english_name": "Liquor Issue"
+    },
+    {
+     "name": "తంబళ్ల పల్లె",
+     "type": "Place",
+     "english_name": "Tamballapalle"
+    }
+   ],
+   "relations": [
+    {
+     "source": "తంబళ్ల పల్లె టీడీపీ ఇన్చార్జి జయచంద్రారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "తంబళ్ల పల్లె టీడీపీ ఇన్చార్జి జయచంద్రారెడ్డి"
+    }
+   ]
+  },
+  "eea225b8576c8ca48eade0b37b74c455facc46df": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జనార్ధనరావు",
+     "type": "Person",
+     "english_name": "Janardhan Rao"
+    },
+    {
+     "name": "జయచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Jayachandra Reddy"
+    },
+    {
+     "name": "ఇబ్రహీంపట్నం",
+     "type": "Place",
+     "english_name": "Ibrahimpatnam"
+    },
+    {
+     "name": "కల్తీ లిక్కర్ కేసు",
+     "type": "Issue",
+     "english_name": "Fake liquor case"
+    },
+    {
+     "name": "జనార్ధనరావు కల్తీ లిక్కర్ కేసులో ఏ1",
+     "type": "Claim",
+     "english_name": "Janardhan Rao is A1 in the fake liquor case"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జనార్ధనరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "జనార్ధనరావు కల్తీ లిక్కర్ కేసులో ఏ1",
+     "evidence": "పట్టుబడిన కల్తీ లిక్కర్ కేసులో ఏ1 జనార్ధనరావు"
+    },
+    {
+     "source": "జనార్ధనరావు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "పట్టుబడిన కల్తీ లిక్కర్ కేసులో ఏ1 జనార్ధనరావు"
+    }
+   ]
+  }
+ }
+}
