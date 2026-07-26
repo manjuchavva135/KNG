@@ -109,10 +109,31 @@ def chat_completion(payload: dict) -> dict:
     Raises on a non-2xx so the caller's retry/backoff sees a real error — and so
     a permanent 4xx (a deprecated model, an over-tier `max_tokens`) surfaces
     immediately rather than being retried.
+
+    `KNG_LLM_TRACE=1` prints one line per request: how long the rate limiter
+    held it, how long the HTTP call took, and the status. A long graph pass is
+    otherwise a black box between `[n/total]` lines — during the 2026-07-25 run
+    it was impossible to tell "throttled by our own limiter" from "waiting on a
+    slow response" from outside the process, which cost two needless restarts.
     """
+    import os
+    import sys
+
     import httpx
+    trace = os.environ.get("KNG_LLM_TRACE", "").lower() in {"1", "true", "yes", "on"}
+    t0 = time.monotonic()
     _limiter().acquire()
-    r = _http().post(f"{SARVAM_BASE}/v1/chat/completions", json=payload)
+    t1 = time.monotonic()
+    try:
+        r = _http().post(f"{SARVAM_BASE}/v1/chat/completions", json=payload)
+    except Exception as e:
+        if trace:
+            print(f"[llm] wait={t1 - t0:5.1f}s http={time.monotonic() - t1:6.1f}s "
+                  f"EXC {type(e).__name__}: {str(e)[:120]}", file=sys.stderr, flush=True)
+        raise
+    if trace:
+        print(f"[llm] wait={t1 - t0:5.1f}s http={time.monotonic() - t1:6.1f}s "
+              f"status={r.status_code} bytes={len(r.content)}", file=sys.stderr, flush=True)
     if r.status_code >= 400:
         raise httpx.HTTPStatusError(
             f"{r.status_code}: {r.text[:400]}", request=r.request, response=r)

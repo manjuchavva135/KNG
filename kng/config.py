@@ -94,6 +94,13 @@ class Settings:
     community_resolution: float = _float("COMMUNITY_RESOLUTION", 1.0)
     min_entity_mentions: int = _int("MIN_ENTITY_MENTIONS", 1)
     # Chunk selection for the paid pass — see graph_extract.select_chunks.
+    # Comma-separated SourceType names to extract, or empty for all. 59% of the
+    # paid units in this corpus are `source_doc` — third-party PDFs (court
+    # orders, tariff filings, merit lists) rather than Jagan's own words — so
+    # `press_release,news_clip,video,slide` buys the graph that answers the
+    # project's questions for 40% of the calls. Excluded chunks stay searchable
+    # in LanceDB and can be extracted later without re-billing anything.
+    graph_source_types: str = _env("GRAPH_SOURCE_TYPES", "")
     graph_min_chunk_chars: int = _int("GRAPH_MIN_CHUNK_CHARS", 150)
     graph_max_tag_density: float = _float("GRAPH_MAX_TAG_DENSITY", 0.5)
     graph_max_chunks_per_file: int = _int("GRAPH_MAX_CHUNKS_PER_FILE", 60)

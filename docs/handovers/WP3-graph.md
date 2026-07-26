@@ -20,7 +20,9 @@ pgrep -af "kng.pipeline.run --stage graph"
 tail -5 graph.log
 
 # resume it (identical command; already-extracted chunks are never re-billed)
-nohup .venv/bin/python -m kng.pipeline.run --stage graph --concurrency 12 > graph.log 2>&1 &
+# Concurrency 4 — NOT 12. 12 hangs every worker with no timeout and no error;
+# see "Concurrency ceiling" below.
+nohup .venv/bin/python -m kng.pipeline.run --stage graph --concurrency 4 > graph.log 2>&1 &
 
 # what would it still cost? (zero calls)
 python -m kng.pipeline.run --stage graph --plan-only
@@ -105,12 +107,59 @@ already did, where an explicit `httpx.Timeout` does fire.
 Pro, 120 on Business, counted **per account, not per key**. `_RateLimiter` keeps
 us under it by design; `LLM_RPM` defaults to 35.
 
-Diagnostic that settles "hung or just slow?" in one command:
+**7. A frozen `graph.log` is the heavy tail, not a hang — do not kill the run.**
+This cost two needless restarts on 2026-07-25 while resuming the pass on a
+laptop. A run at `--concurrency 12` was killed after 11 minutes with zero
+completions, and its replacement at `--concurrency 4` after 12 minutes of
+silence following an initial 25 units. Neither was stuck: the replacement run,
+left alone, printed `[30/3183]`, `[35/3183]`, `[40/3183]` on schedule.
+
+The arithmetic that explains the silence:
+
+- progress prints **every 5 completions** (`commit_every=5`), and
+- one unit can issue **up to 9 HTTP attempts** — `extract_chunk` makes one call,
+  then two more on the halves when the reply comes back empty, and `_attempt`
+  retries each — so at `LLM_TIMEOUT=90` + `LLM_RETRIES=2` a single tail unit
+  occupies one worker for **~13 minutes**.
+
+With every worker on a tail unit, a quarter hour of frozen log is normal.
+
+How to tell alive from stuck, in order:
+
+1. **Wait ≥15 minutes.** Anything shorter is not evidence.
+2. **Port churn** — `ss -tnp | grep <pid>`, sampled twice ~20 s apart. Changing
+   local ports mean requests are cycling; that is a live run.
+3. A separate-process probe (below) proves the **API** is up. It does **not**
+   prove the run is stuck — during both "stalls" the probe answered in 1.5 s and
+   ran 5/5 real extractions in 4.6–28.9 s while the pass was in fact fine.
+
+Also checked and ruled out as explanations: buffering (`/proc/<pid>/fdinfo/1`
+`pos` equalled file size, so nothing was withheld) and the request-rate cap
+(`LLM_RPM=30` was never approached).
+
+Measured throughput on the laptop at `--concurrency 3`, `LLM_RPM=10`,
+`LLM_TIMEOUT=60`, `LLM_RETRIES=1`: **~4.3 units/min → ~12 h for 3183 units.**
+The tail exists because the tier's 4096-token output cap produces empty replies
+that force the halve-and-recall path, so the tier upgrade flagged below is the
+real fix for wall-clock too.
+
+Diagnostic that settles "hung or just slow?":
 
 ```bash
+# 1. Has anything completed? Progress prints every 5 completions.
+grep -ac '^  \[' graph.log
+
+# 2. wchan is suggestive but NOT decisive — a healthy in-flight request and a
+#    dead socket both sit in poll_schedule_timeout.
 for t in $(ls /proc/<pid>/task); do cat /proc/<pid>/task/$t/wchan; echo; done | sort | uniq -c
-# all poll_schedule_timeout + low CPU  -> blocked on dead sockets
+
+# 3. Decisive: one timed call from a separate process. Fast here + zero progress
+#    lines there = hung; kill and restart at lower concurrency (nothing re-bills).
+python -c "import time;from kng.config import settings;from kng.providers.sarvam import chat_completion;s=settings();t=time.time();chat_completion({'model':s.sarvam_chat_model,'messages':[{'role':'user','content':'ok'}],'max_tokens':200,'reasoning_effort':'low'});print(f'{time.time()-t:.1f}s')"
 ```
+
+`py-spy dump` would be ideal but needs ptrace privileges that are usually
+unavailable — do not count on it.
 
 ---
 
@@ -179,11 +228,60 @@ artifact stays small.
 | chunk (WP2) | 635 files · 4267 chunks |
 | embed (WP2) | 4267 rows · bge-m3 1024-dim |
 | graph — structural (free) | 698 nodes · 714 edges · 21 communities |
-| graph — selection | 4251 extraction units (2950 chunks + 1301 split pieces) |
-| **graph — extraction (paid, IN PROGRESS)** | **1043 records · 11,429 entities · 2,721 relations** |
+| graph — selection, all types | 4251 extraction units (2950 chunks + 1301 split pieces) |
+| graph — selection, **speech-first** | **1718 units** (`GRAPH_SOURCE_TYPES=press_release,news_clip,video,slide`) |
+| **graph — extraction (paid, DONE 2026-07-26)** | **2201+ records · 22,378 entities · 5,241 relations** · 1121 new calls · 0 retries · 6 failed |
+| graph — resolution | 23,477 mentions → 10,631 canonical names · 6923 mentions · 8137 relation assertions |
+| **graph — final** | **4792 nodes · 6402 edges · 599 communities** · 22 summarised |
 
-Sample of the enriched graph (SECI meet + partial corpus): 527 nodes / 592 edges
-— Organization 116, Claim 113, Scheme 104, Person 55, Place 43, Issue 27.
+Speech-first coverage is complete: all **33 press meets**, 633 sources, 30 dates.
+Entity types: Claim 1044, Organization 952, Person 725, Scheme 562, Place 448,
+Issue 315, Party 48. Relations: MENTIONS 3757, CITES_SOURCE 633,
+RELATED_TO_ISSUE 632, MAKES_CLAIM 361, ABOUT_ISSUE 335, LOCATED_IN 274,
+ANNOUNCED_SCHEME 165, ACCUSES 105, MEMBER_OF 49, PRECEDES 29, DEFENDS 10.
+
+The remaining **2528 `source_doc` units** (third-party evidence PDFs) are
+deliberately unextracted — see "the two levers" below. They stay searchable in
+LanceDB and can be added later with nothing re-billed.
+
+Community summaries are **complete, not partial**: 22 of 599 communities have the
+`min_size=3` entities that earn a paid call; the other 577 are singletons whose
+"theme" is just their member. Largest clusters read well — *Power sector policy
+and regulation* (377 entities), *Liquor Scam and Redbook in Andhra Pradesh* (324),
+*Emergency 2.0 policy and controversy* (324).
+
+### The two levers that took this from ~17 h to 73 min
+
+Measured 2026-07-26 on a laptop, after the pass had been crawling at 3.06
+units/min with a 43 % truncation-salvage rate:
+
+| lever | effect |
+|---|---|
+| `GRAPH_SOURCE_TYPES` speech-first scope | calls to bill 3067 → **1131** |
+| `LLM_REASONING_EFFORT=null` | 3.26 → **~15 units/min**, salvage 43 % → **0 %** |
+
+`scripts/bench_extract.py` produced the evidence (13 real units per config,
+subprocess each because settings freeze at import):
+
+| config | units/min | calls/unit | truncated | entities/unit | relations/unit |
+|---|---:|---:|---:|---:|---:|
+| 105b/low | 3.26 | 1.25 | 3 | 11.4 | 3.9 |
+| 30b/low | 4.14 | 1.75 | 2 | 7.0 | 2.8 |
+| 30b/null | 6.81 | 2.0 | 0 | 11.2 | 6.4 |
+| **105b/null** | **6.02** | **1.25** | **0** | **12.9** | **8.8** |
+
+Turning reasoning **off** is both faster and better here, because reasoning
+tokens were consuming the tier's 4096-token output cap: nothing truncates, so the
+halve-and-retry path stops firing. This **reverses** the earlier
+`reasoning_effort="low"` finding, which was measured on 2400-char chunks and does
+not hold at the ~1500-char units this corpus actually produces. `sarvam-30b` is
+not worth it — 39 % fewer entities with reasoning, no better without.
+
+A benchmark caveat worth remembering: **entity overlap is not a usable quality
+metric here.** Re-extracting passages with the *same* model and effort that
+produced the cached record scores only 0.237 Jaccard, so the metric measures the
+model's nondeterminism (`seed` is documented Beta and evidently not honoured), not
+config quality. Compare entities and relations *per unit* instead.
 
 Verified quality, with exact citations:
 

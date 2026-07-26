@@ -75,9 +75,17 @@ def select_chunks(chunks_by_file: dict[str, list[Chunk]]) -> tuple[list[tuple[st
     blind they would be ~750 paid calls that return thousands of junk `Person`
     nodes and bury the real graph. Three cheap rules remove them:
 
+      * outside `GRAPH_SOURCE_TYPES` when that is set — scope, see below;
       * shorter than `GRAPH_MIN_CHUNK_CHARS` — cover pages and slide titles;
       * markup denser than `GRAPH_MAX_TAG_DENSITY` — table dumps;
       * more than `GRAPH_MAX_CHUNKS_PER_FILE` chunks from one file.
+
+    `GRAPH_SOURCE_TYPES` exists because the corpus is 59% `source_doc` — PDFs
+    filed *as evidence* (court orders, SECI tariff sheets, DSC merit lists)
+    rather than anything Jagan said. Extracting
+    `press_release,news_clip,video,slide` first yields the graph the project's
+    questions actually need at 40% of the calls, and the rest can be added later
+    at content-hash granularity with nothing re-billed.
 
     Skipped chunks are *not* invisible: their file remains a `Source` node with
     its `CITES_SOURCE` edge, and they stay fully searchable in LanceDB. They are
@@ -89,10 +97,14 @@ def select_chunks(chunks_by_file: dict[str, list[Chunk]]) -> tuple[list[tuple[st
     picked: list[tuple[str, Chunk]] = []
     skipped: Counter = Counter()
     seen: set[str] = set()
+    wanted = {t.strip() for t in s.graph_source_types.split(",") if t.strip()}
 
     for rel, chunks in sorted(chunks_by_file.items()):
         kept_here = 0
         for c in chunks:
+            if wanted and c.source_type not in wanted:
+                skipped["source_type"] += 1
+                continue
             if len(c.text) < s.graph_min_chunk_chars:
                 skipped["short"] += 1
                 continue
@@ -208,8 +220,47 @@ def cache_fingerprint(llm) -> str:
     return f"{type(llm).__name__}/{getattr(llm, 'model', '?')}/{PROMPT_VERSION}"
 
 
+def _fp_acceptable(fp: str | None) -> bool:
+    """True when a fingerprint denotes reusable *paid* output.
+
+    Deliberately model-agnostic: `sarvam-105b` and `sarvam-30b` records answer
+    the same prompt about the same passage, so a later run on a different model
+    must not re-bill thousands of chunks a previous one already paid for. What it
+    does enforce is the standing guardrail — `FakeLLM` fixture records can never
+    be reused by a real run — and that the prompt version matches, since a
+    changed prompt changes what the record means.
+    """
+    if not fp:
+        return False
+    parts = fp.split("/")
+    if len(parts) != 3:
+        return False
+    provider, _model, version = parts
+    if provider.startswith("Fake"):
+        return False
+    return version == PROMPT_VERSION
+
+
+def _reusable(entry_fp: str | None, current_fp: str) -> bool:
+    """Whether a cache entry may be used by the run identified by `current_fp`."""
+    if not entry_fp:
+        return False
+    if entry_fp == current_fp:               # same run config: always fine
+        return True
+    if not _fp_acceptable(current_fp):       # a fixture run reuses only its own
+        return False
+    return _fp_acceptable(entry_fp)
+
+
 def load_cache(rel: str, fingerprint: str | None = None) -> dict[str, dict]:
-    """Cached records for one file, or {} if absent, corrupt, or foreign."""
+    """Cached records for one file, dropping entries this run may not reuse.
+
+    Filtering is **per record**, not per file. It used to be per file: one
+    fingerprint at the top, any mismatch discarding everything under it. That
+    made changing model or reasoning effort cost a re-extraction of every chunk
+    already paid for — 1183 units at the time this changed — which is the
+    opposite of what the cache exists for.
+    """
     fp = cache_path(rel)
     if not fp.exists():
         return {}
@@ -220,17 +271,34 @@ def load_cache(rel: str, fingerprint: str | None = None) -> dict[str, dict]:
         return {}
     if not isinstance(blob, dict) or "records" not in blob:
         return {}                            # pre-fingerprint layout: discard
-    if fingerprint is not None and blob.get("fingerprint") != fingerprint:
-        return {}
-    return blob.get("records") or {}
+    records = blob.get("records") or {}
+    if fingerprint is None:
+        return records
+    file_fp = blob.get("fingerprint")
+    out: dict[str, dict] = {}
+    for key, rec in records.items():
+        entry_fp = (rec.get("_fp") if isinstance(rec, dict) else None) or file_fp
+        if not _reusable(entry_fp, fingerprint):
+            continue
+        # Stamp what actually produced it, so a later save cannot relabel an
+        # older model's record as this run's.
+        if isinstance(rec, dict) and not rec.get("_fp") and entry_fp:
+            rec = {**rec, "_fp": entry_fp}
+        out[key] = rec
+    return out
 
 
 def save_cache(rel: str, records: dict[str, dict], fingerprint: str) -> None:
     """Write atomically — a kill during the write must not lose paid results."""
     fp = cache_path(rel)
     fp.parent.mkdir(parents=True, exist_ok=True)
+    stamped: dict[str, dict] = {}
+    for key, rec in records.items():
+        if isinstance(rec, dict) and not rec.get("_fp"):
+            rec = {**rec, "_fp": fingerprint}
+        stamped[key] = rec
     tmp = fp.with_suffix(fp.suffix + ".tmp")
-    tmp.write_text(json.dumps({"fingerprint": fingerprint, "records": records},
+    tmp.write_text(json.dumps({"fingerprint": fingerprint, "records": stamped},
                               ensure_ascii=False, indent=1), encoding="utf-8")
     tmp.replace(fp)
 
@@ -342,6 +410,15 @@ def validate(payload: dict, issues: Counter) -> dict:
     ents: list[dict] = []
     by_name: dict[str, dict] = {}
     for e in payload.get("entities") or []:
+        # The model sometimes returns a bare string where the schema asks for an
+        # object — `["YS Jagan", "TTD"]` instead of `[{"name": …, "type": …}]`.
+        # An entity with no type cannot be placed in the graph, so it is counted
+        # and dropped; before this guard it raised AttributeError inside a worker
+        # and cost the whole unit.
+        if not isinstance(e, dict):
+            issues["bad_entity"] += 1
+            issues["untyped_entity_string"] += 1
+            continue
         name = (e.get("name") or "").strip()
         etype = (e.get("type") or "").strip()
         if not name or not onto.is_valid_type(etype) or etype in onto.STRUCTURAL_TYPES:
@@ -354,6 +431,9 @@ def validate(payload: dict, issues: Counter) -> dict:
 
     rels: list[dict] = []
     for r in payload.get("relations") or []:
+        if not isinstance(r, dict):          # same defect on the relation side
+            issues["unresolved_endpoint"] += 1
+            continue
         src = by_name.get(onto.normalise(r.get("source") or ""))
         dst = by_name.get(onto.normalise(r.get("target") or ""))
         rel = (r.get("relation") or "").strip()
@@ -369,15 +449,35 @@ def validate(payload: dict, issues: Counter) -> dict:
 
 
 def _merge_records(parts: list[dict]) -> dict:
-    """Combine several sub-piece extractions into one record for the parent chunk."""
+    """Combine several sub-piece extractions into one record for the parent chunk.
+
+    Indexes defensively. This merges **raw model output** — `validate` runs later,
+    on the merged result — so a record whose entity is missing `type`, or whose
+    relation is missing an endpoint, arrives here intact. Subscripting it raised
+    `KeyError: 'type'` inside a worker, which `fut.result()` re-raised on the main
+    thread and killed an entire multi-hour pass on one malformed reply out of
+    thousands. A dropped fragment costs one entity; an exception costs the run.
+    """
     ents: dict[tuple[str, str], dict] = {}
     rels: dict[tuple[str, str, str], dict] = {}
     for p in parts:
+        if not isinstance(p, dict):
+            continue
         for e in p.get("entities") or []:
-            ents.setdefault((e["type"], onto.normalise(e["name"])), e)
+            if not isinstance(e, dict):
+                continue
+            etype, name = e.get("type"), e.get("name")
+            if not etype or not name:
+                continue
+            ents.setdefault((str(etype), onto.normalise(str(name))), e)
         for r in p.get("relations") or []:
+            if not isinstance(r, dict):
+                continue
+            src, rel, dst = r.get("source"), r.get("relation"), r.get("target")
+            if not src or not rel or not dst:
+                continue
             rels.setdefault(
-                (onto.normalise(r["source"]), r["relation"], onto.normalise(r["target"])), r)
+                (onto.normalise(str(src)), str(rel), onto.normalise(str(dst))), r)
     return {"entities": list(ents.values()), "relations": list(rels.values())}
 
 
@@ -439,7 +539,19 @@ def _extract_all(llm, by_file: dict[str, list[Chunk]], memo: dict[str, dict],
     with ThreadPoolExecutor(max_workers=max(1, concurrency)) as pool:
         futures = [pool.submit(work, item) for item in todo]
         for fut in as_completed(futures):
-            rel, key, result = fut.result()
+            try:
+                rel, key, result = fut.result()
+            except Exception as e:
+                # A worker exception used to propagate here and abort the whole
+                # pass — hours of paid work lost to one malformed reply. Count it
+                # and keep going; the chunk stays uncached, so a later run or
+                # `--retry-split` picks it up.
+                issues["worker_error"] += 1
+                issues[f"worker_error:{type(e).__name__}"] += 1
+                done += 1
+                print(f"  worker error ({type(e).__name__}: {e}) — continuing",
+                      file=sys.stderr, flush=True)
+                continue
             done += 1
             if result is None:
                 issues["extract_failed"] += 1

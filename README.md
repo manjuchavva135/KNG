@@ -101,15 +101,25 @@ python -m kng.query "Tirupati laddu ghee adulteration"
 python -m kng.query "ఏపీ మద్యం కుంభకోణం" -k 5
 python -m kng.query "liquor scam" --lang te --since 2025-01-01   # metadata prefilters
 
-# 3. Serve the chat web app                      (WP5, not built yet)
+# 3. Ask a question — grounded synopsis with [n] citations (WP4)
+python -m kng.answer "What did Jagan say about the Tirupati laddu adulteration?"
+python -m kng.answer "SECI solar tariff" -k 12 --since 2024-01-01
+python -m kng.answer "TTD laddu" --retrieval-only        # free: the evidence, no LLM call
+KNG_FAKE_LLM=1 python -m kng.answer "TTD laddu"          # free: whole path, offline fixture
+
+# 4. Serve the chat web app                      (WP5, not built yet)
 uvicorn kng.api.main:app --reload                # http://localhost:8000
 
-# 4. Export the portable index for your other system   (WP6, not built yet)
+# 5. Export the portable index for your other system   (WP6, not built yet)
 python -m kng.pipeline.export --out kng_index.tar.gz
 ```
 
 `kng.query` is retrieval only — it returns the evidence and where it came from.
-Grounded answer synthesis is WP4.
+`kng.answer` adds the graph leg and writes the cited synopsis: retrieval is free
+and local, and the single synthesis call is the only paid step, so
+`--retrieval-only` shows exactly what would be sent before anything is spent.
+Citations are verified after generation — any `[n]` pointing at no source is
+stripped and reported.
 
 **Extraction is already complete on this checkout**; re-running `--stage extract`
 costs paid Sarvam calls. `--stage chunk`/`embed`/`query` are free and local.
@@ -138,8 +148,12 @@ kng/
   graph/  ontology.py    # reads config/ontology.yaml; constrains + validates
   query.py               # vector retrieval smoke test (WP2)
   graph_query.py         # graph smoke test (WP3): neighbors/path/timeline
+  answer.py              # WP4 CLI: hybrid retrieval → cited synopsis
   store/                 # vector.py (LanceDB) · graph.py (NetworkX/Neo4j)
-  retrieval/  generation/  api/   # WP4 / WP5
+  retrieval/             # WP4: hybrid.py (vector+BM25+RRF) · graph_context.py
+  generation/            # WP4: synthesize.py (grounded prompt + citation check)
+  api/                   # WP5
+tests/  test_wp4.py                # python -m unittest discover -s tests
 config/  ontology.yaml            # graph node/edge types + alias table
 docs/                            # WORK_PACKAGES.md + handovers/
 index/                           # portable output — copy this to the query machine
@@ -159,11 +173,14 @@ Built in independently-resumable work packages; each ends with a handover doc in
 | WP1 | Multimodal extraction + Sarvam OCR/ASR + normalization | ✅ text done · OCR/ASR ready |
 | WP1b | Sarvam-first universal extraction + per-stage doc counts | ✅ done · 634/635 files · 2323 seg |
 | WP2 | Chunk → embed → LanceDB (RAG works) | ✅ done · 4267 chunks · bge-m3 (1024d) |
-| WP3 | Knowledge graph build | 🟡 code done · extraction in progress (1043/4251 units, resumable) |
-| WP4 | GraphRAG query engine (cited synopsis) | ⏳ |
+| WP3 | Knowledge graph build | ✅ done · 4803 nodes / 6417 edges / 599 communities · all 33 meets |
+| WP4 | GraphRAG query engine (cited synopsis) | ✅ done · hybrid RRF + graph leg · 34 tests · warm 0.22 s/query |
 | WP5 | FastAPI + chat web UI | ⏳ |
 | WP6 | Eval, hardening, portable export | ⏳ |
 
-> **Resume point:** WP3's paid extraction pass, then WP4 — see
-> [`docs/handovers/WP3-graph.md`](docs/handovers/WP3-graph.md)
-> for the exact commands. `data/` is git-ignored (not pushed to GitHub).
+> **Resume point:** WP5. The graph covers every press meet, so entity, timeline
+> and cross-meet questions work now. Optional paid work remains: 2528
+> `source_doc` units (third-party evidence PDFs) were skipped by choice via
+> `GRAPH_SOURCE_TYPES` and can be added later with nothing re-billed — see
+> [`docs/handovers/WP3-graph.md`](docs/handovers/WP3-graph.md).
+> `data/` is git-ignored (not pushed to GitHub).

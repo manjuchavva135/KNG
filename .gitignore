@@ -34,3 +34,5 @@ web/dist/
 
 # run logs
 *.log
+# pid of the running pipeline pass — kill by this, never `pkill -f`
+graph.pid

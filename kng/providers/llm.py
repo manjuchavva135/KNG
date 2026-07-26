@@ -354,7 +354,22 @@ class FakeLLM(_Retrying):
 
     def complete(self, system: str, user: str, temperature: float = 0.2,
                  max_tokens: int = 2048) -> str:
-        return ""
+        """Extractive stand-in for WP4 synthesis — deterministic, offline.
+
+        Returns the opening sentence of the first few numbered SOURCES with
+        their `[n]` markers attached, which exercises the real path (prompt
+        assembly, citation verification, source rendering) without a paid call.
+        Labelled in the text so fixture output can never be read as an answer.
+        """
+        self.calls += 1
+        sources = _FAKE_SOURCE.findall(user or "")
+        if not sources:
+            return ""
+        lines = ["(offline fixture answer — KNG_FAKE_LLM=1, no model was called)", ""]
+        for n, body in sources[:4]:
+            sentence = " ".join(body.split())[:220]
+            lines.append(f"{sentence} [{n}]")
+        return "\n".join(lines)
 
     def complete_json(self, system: str, user: str, schema: dict[str, Any], *,
                       name: str = "record", description: str = "",
@@ -382,6 +397,10 @@ class FakeLLM(_Retrying):
                          "target": others[0]["name"], "evidence": "offline fixture"})
         return {"entities": ents, "relations": rels}
 
+
+# Numbered source blocks as `kng.generation.synthesize` renders them:
+# "[3] (passage) citation…\n<text>".
+_FAKE_SOURCE = re.compile(r"^\[(\d+)\][^\n]*\n(.+?)(?=\n\[\d+\]|\n\n|\Z)", re.S | re.M)
 
 _FAKE_TYPES = {
     "Y. S. Jagan Mohan Reddy": "Person", "N. Chandrababu Naidu": "Person",
