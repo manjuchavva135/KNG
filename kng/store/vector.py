@@ -8,7 +8,7 @@ temporal questions this project exists to answer.
 """
 from __future__ import annotations
 
-from typing import Any, Iterable
+from typing import Any, Iterable, Sequence
 
 import pyarrow as pa
 
@@ -16,6 +16,7 @@ from ..config import settings
 from ..models import Chunk
 
 TABLE = "chunks"
+VECTOR_COLUMN = "vector"
 
 # Columns mirror Chunk's flattened metadata (kng/models.py). Kept explicit rather
 # than inferred so a re-embed can never silently change column types.
@@ -43,7 +44,7 @@ _BASE_FIELDS = [
 
 
 def schema(dim: int) -> pa.Schema:
-    return pa.schema([pa.field("vector", pa.list_(pa.float32(), dim))]
+    return pa.schema([pa.field(VECTOR_COLUMN, pa.list_(pa.float32(), dim))]
                      + [pa.field(n, t) for n, t in _BASE_FIELDS])
 
 
@@ -89,10 +90,41 @@ def ensure_fts(table) -> None:
     table.create_fts_index("text", replace=True, use_tantivy=False)
 
 
+def table_dim(table) -> int | None:
+    """The dimension the table's vectors were written with, read from its schema."""
+    try:
+        return getattr(table.schema.field(VECTOR_COLUMN).type, "list_size", None)
+    except KeyError:
+        return None
+
+
+def check_dim(table, vector: Sequence[float]) -> None:
+    """Refuse a query embedded by a different model than the index was built with.
+
+    The index is only searchable by the model that produced it. LanceDB's own
+    complaint for a mismatch is "There is no vector column in the data", which
+    sends the reader looking for a missing column that is right there — and if two
+    models happen to share a dimension there is no complaint at all, just
+    confident nonsense. So compare explicitly and name the actual cause.
+    """
+    have = table_dim(table)
+    if have is None or len(vector) == have:
+        return
+    raise ValueError(
+        f"query embedding is {len(vector)}-dim but the index stores {have}-dim "
+        f"vectors — they were built by different models. This machine is "
+        f"configured for LOCAL_EMBED_MODEL={settings().local_embed_model!r}; the "
+        f"committed index was built with BAAI/bge-m3 (1024-dim). Set "
+        f"LOCAL_EMBED_MODEL to match the index, or re-run `--stage embed` to "
+        f"rebuild it with this model.")
+
+
 def search(table, vector: Iterable[float], k: int = 8, where: str | None = None) -> list[dict]:
     # Cosine, not the LanceDB default L2. Vectors are normalised so the ranking
     # is identical either way, but `_distance` then reads as 1 - similarity.
-    q = table.search(list(vector)).metric("cosine").limit(k)
+    vector = list(vector)
+    check_dim(table, vector)
+    q = table.search(vector).metric("cosine").limit(k)
     if where:
         q = q.where(where, prefilter=True)
     return q.to_list()

@@ -117,8 +117,15 @@ KNG_FAKE_LLM=1 KNG_SESSION_SECRET=… uvicorn kng.api.main:app  # free, offline 
 python -m kng.api.users role   --email them@example.com --role admin
 python -m kng.api.users delete --email them@example.com --yes  # + their history
 
-# 5. Export the portable index for your other system   (WP6, not built yet)
-python -m kng.pipeline.export --out kng_index.tar.gz
+# 5. Score retrieval against a fixed question set — free, no key (WP6)
+python -m kng.eval                          # 30 questions: hit rate, MRR, per-script cuts
+python -m kng.eval -k 30 --baseline docs/eval/baseline-2026-07-26-k8.json   # deltas
+KNG_FAKE_LLM=1 python -m kng.eval --answer  # answer path too, offline and free
+
+# 6. Export the portable index for your other system (WP6)
+python -m kng.pipeline.export --plan                    # inventory + sizes
+python -m kng.pipeline.export --out kng-index.tar.gz    # archive + .sha256
+python -m kng.pipeline.export --verify kng-index.tar.gz # checksum + EXPORT.json record
 ```
 
 `kng.query` is retrieval only — it returns the evidence and where it came from.
@@ -161,7 +168,8 @@ kng/
   generation/            # WP4: synthesize.py (grounded prompt + citation check)
   api/                   # WP5: main.py auth.py users.py meta.py sources.py history.py
     static/              #      index/login/history/admin html + app/history/admin js
-tests/                   # python -m unittest discover -s tests  (79 tests)
+  eval/                  # WP6: questions.yaml + harness.py (retrieval & answer scoring)
+tests/                   # python -m unittest discover -s tests  (120 tests)
 var/                     # WP5 app state: users, history, query log (git-ignored)
 config/  ontology.yaml            # graph node/edge types + alias table
 docs/                            # WORK_PACKAGES.md + handovers/
@@ -185,8 +193,11 @@ Built in independently-resumable work packages; each ends with a handover doc in
 | WP3 | Knowledge graph build | ✅ done · 8120 nodes / 10773 edges / 1157 communities · full corpus, all 33 meets |
 | WP4 | GraphRAG query engine (cited synopsis) | ✅ done · hybrid RRF + graph leg · 34 tests · warm 0.22 s/query |
 | WP5 | FastAPI + chat web UI (**PressMeets RAG**) | ✅ done · auth (sessions revocable) · streaming answers · clickable citations · History page · admin console with account deletion · 79 tests · 31 browser checks |
-| WP6 | Eval, hardening, portable export | ⏳ |
+| WP6 | Eval, hardening, portable export | 🚧 eval harness + export done · baseline hit 0.667 / MRR 0.528 · reranker open |
 
-> **Resume point:** WP6. The system is end-to-end usable: extraction is complete
-> (4251/4251 units), the graph spans all 33 meets, and the web app answers with
-> streamed, citation-verified text. `data/` is git-ignored (not pushed to GitHub).
+> **Resume point:** WP6 continued — a **reranker** (measured against
+> [docs/eval/](docs/eval/)) and `source_doc` weighting, which the baseline
+> identifies as the dominant English failure mode. Everything else is end-to-end
+> usable: extraction complete (4251/4251 units), graph across all 33 meets, web app
+> streaming citation-verified answers, and `python -m kng.pipeline.export` producing
+> a 66.8 MB archive that a fresh machine can query. `data/` is git-ignored.

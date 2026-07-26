@@ -1,0 +1,2034 @@
+{
+ "config": {
+  "k": 8,
+  "use_graph": true,
+  "graph_hops": 1,
+  "with_answer": false,
+  "language": null,
+  "questions_file": "/home/cbmr/KNG/kng/eval/questions.yaml",
+  "embed_model": "BAAI/bge-m3",
+  "rerank_provider": "none",
+  "ran_at": "2026-07-26T16:30:49"
+ },
+ "aggregate": {
+  "questions": 30,
+  "errors": 0,
+  "meet_hit_rate": 0.667,
+  "mrr": 0.528,
+  "meet_recall": 0.526,
+  "meet_precision": 0.333,
+  "entity_hit_rate": 0.867,
+  "mean_facts": 17.4,
+  "mean_retrieval_s": 1.242,
+  "misses": [
+   "laddu-sit-verdict",
+   "liquor-temporal",
+   "redbook",
+   "cag-report",
+   "super-six",
+   "manifesto-recall",
+   "white-papers",
+   "social-media-arrests",
+   "harika-attack",
+   "hostel-deaths"
+  ],
+  "by_kind": {
+   "cross": {
+    "n": 11,
+    "meet_hit_rate": 0.818,
+    "mrr": 0.7
+   },
+   "numeric": {
+    "n": 2,
+    "meet_hit_rate": 1.0,
+    "mrr": 0.75
+   },
+   "single": {
+    "n": 16,
+    "meet_hit_rate": 0.562,
+    "mrr": 0.415
+   },
+   "temporal": {
+    "n": 1,
+    "meet_hit_rate": 0.0,
+    "mrr": 0.0
+   }
+  },
+  "by_lang": {
+   "en": {
+    "n": 22,
+    "meet_hit_rate": 0.545,
+    "mrr": 0.391
+   },
+   "te": {
+    "n": 8,
+    "meet_hit_rate": 1.0,
+    "mrr": 0.906
+   }
+  }
+ },
+ "results": [
+  {
+   "id": "laddu-en",
+   "question": "What did Jagan say about the Tirupati laddu ghee adulteration allegations?",
+   "lang": "en",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 0.6666666666666666,
+   "meet_precision": 1.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Ghee adulteration",
+    "Tirupati Laddu",
+    "Tirupati Laddu",
+    "Allegations",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 12.333,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "4",
+     "citation": "21092024_THE Print_TTD_EO_Statement_1.jpeg (2024-09-27)",
+     "source_type": "news_clip",
+     "language": "mixed"
+    },
+    {
+     "rank": 2,
+     "meet": "3",
+     "citation": "21092024_THE Print_TTD_EO_Statement_1.jpeg (2024-09-20)",
+     "source_type": "news_clip",
+     "language": "mixed"
+    },
+    {
+     "rank": 3,
+     "meet": "4",
+     "citation": "YSJAGAN_ADDRESS_NMEDIA_LADDUISSUE_PC_26092024.docx (2024-09-27)",
+     "source_type": "press_release",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.7 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.2 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "laddu-te",
+   "question": "తిరుమల లడ్డూ నెయ్యి కల్తీ వివాదం గురించి జగన్ ఏమన్నారు?",
+   "lang": "te",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 1.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Tirumala laddu",
+    "Tirumala Laddu",
+    "Ghee",
+    "Adulteration",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 1.583,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "4",
+     "citation": "Sakshi YS Jagan kalthi babu sruste sak 28092024 2.jpeg (2024-09-27)",
+     "source_type": "news_clip",
+     "language": "mixed"
+    },
+    {
+     "rank": 2,
+     "meet": "5",
+     "citation": "Sakshi YS Jagan Tirumula Laddu TDP Pracharam sak 05102024 2.jpeg (2024-10-04)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "4",
+     "citation": "YSJAGAN_PC_SC_ISIT_04102024.docx (2024-09-27)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "3",
+     "citation": "PRESS RELEASE.docx (2024-09-20)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "5",
+     "citation": "Sakshi YS Jagan Tirumula Laddu TDP Pracharam sak 05102024 7.jpeg (2024-10-04)",
+     "source_type": "news_clip",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "laddu-sit-verdict",
+   "question": "What did the Supreme Court and the SIT conclude about the TTD laddu issue?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 6,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "TTD LADDU ISSUE",
+    "Supreme Court",
+    "SIT"
+   ],
+   "retrieval_s": 1.411,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.4 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.2 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.5 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.16 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.6 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "tirupati-tour-cancelled",
+   "question": "Why was Jagan's Tirupati tour cancelled in September 2024?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 0.25,
+   "entity_hit": true,
+   "entities_linked": [
+    "Tirupati",
+    "Y. S. Jagan Mohan Reddy",
+    "2024"
+   ],
+   "retrieval_s": 0.567,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "4",
+     "citation": "YSJAGAN_ADDRESS_NMEDIA_LADDUISSUE_PC_26092024.docx (2024-09-27)",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 2,
+     "meet": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "citation": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 3,
+     "meet": "SRI YS",
+     "citation": "SRI YS_Jagan_Tour SCHEDULES_2024.xlsx",
+     "source_type": "table",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "4",
+     "citation": "21092024_THE Print_TTD_EO_Statement_1.jpeg (2024-09-27)",
+     "source_type": "news_clip",
+     "language": "mixed"
+    },
+    {
+     "rank": 5,
+     "meet": "SRI YS",
+     "citation": "SRI YS_Jagan_Tour SCHEDULES_2025.xlsx",
+     "source_type": "table",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "parakamani-te",
+   "question": "పరకామణి కేసు గురించి జగన్ ఏమి చెప్పారు?",
+   "lang": "te",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 0.125,
+   "entity_hit": false,
+   "entities_linked": [
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 1.529,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "19",
+     "citation": "YS Jagan Press Meet Full Copy - 04.12.2025.docx (2025-12-04)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "7",
+     "citation": "PRESS RELEASE.docx (2024-11-07)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "IMP",
+     "citation": "Sakshi YS Jagan Delhi Dharna sak 25072024 3.jpeg (2024-09-10)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "25",
+     "citation": "YS Jagan PC Final - 21.05.2026.docx (2026-05-21)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "25",
+     "citation": "Jagan Sir - PC Final.pdf p.39 (2026-05-21)",
+     "source_type": "source_doc",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "seci-tariff",
+   "question": "What did Jagan say about the SECI solar power agreement and its tariff?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 0.75,
+   "entity_hit": true,
+   "entities_linked": [
+    "Solar Power",
+    "Agreement",
+    "Y. S. Jagan Mohan Reddy",
+    "SECI"
+   ],
+   "retrieval_s": 0.703,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "10",
+     "citation": "5.TDP_MOU_SECI_2016_2.jpg (2024-11-28)",
+     "source_type": "news_clip",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "10",
+     "citation": "SECI LETTER TO AP GOVT.pdf p.1 (2024-11-28)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "2",
+     "citation": "Presentation July 2024 for media.pdf p.18 (2024-07-26)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "10",
+     "citation": "SECI 2.00 tariff details.jpg (2024-11-28)",
+     "source_type": "news_clip",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "10",
+     "citation": "TNERC order approving SECI arrangement.pdf p.1 (2024-11-28)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "seci-numeric",
+   "question": "What was the SECI solar tariff per unit, and what did the state pay instead?",
+   "lang": "en",
+   "kind": "numeric",
+   "passages": 8,
+   "facts": 16,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 0.875,
+   "entity_hit": true,
+   "entities_linked": [
+    "Government",
+    "State",
+    "SECI"
+   ],
+   "retrieval_s": 0.493,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "10",
+     "citation": "TNERC order approving SECI arrangement.pdf p.1 (2024-11-28)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "10",
+     "citation": "TNERC order approving SECI arrangement.pdf p.2 (2024-11-28)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "10",
+     "citation": "SECI 2.00 tariff details.jpg (2024-11-28)",
+     "source_type": "news_clip",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "10",
+     "citation": "Sakshi YS Jagan PC Seci Sak 291120242.jpeg (2024-11-28)",
+     "source_type": "news_clip",
+     "language": "mixed"
+    },
+    {
+     "rank": 5,
+     "meet": "10",
+     "citation": "1.SECI LETR TO AP GOVT_1.jpg (2024-11-28)",
+     "source_type": "news_clip",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "liquor-en",
+   "question": "What are the allegations in the liquor scam case?",
+   "lang": "en",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 2,
+   "reciprocal_rank": 0.5,
+   "meet_recall": 0.3333333333333333,
+   "meet_precision": 0.5,
+   "entity_hit": true,
+   "entities_linked": [
+    "Liquor Scam",
+    "Allegations"
+   ],
+   "retrieval_s": 0.749,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "26",
+     "citation": "Vijayawada_DC_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "13",
+     "citation": "Competition Commission of India- APSBCL_PC_22052025.pdf p.3 (2025-05-22)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "4",
+     "citation": "SC_Proceedings on Individual_SIT_TTD Laddu Issue_04.10.2024.pdf p.3 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "13",
+     "citation": "Sakshi YS Jagan PC Madhyeam Scam Sak 23052025 (2).jpeg (2025-05-22)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "26",
+     "citation": "Vijayawada_DC_12-06-2026.pdf p.1 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "liquor-te",
+   "question": "మద్యం కుంభకోణంలో జగన్ చేసిన ఆరోపణలు ఏమిటి?",
+   "lang": "te",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 0.6666666666666666,
+   "meet_precision": 0.625,
+   "entity_hit": true,
+   "entities_linked": [
+    "Allegations",
+    "Liquor",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 1.028,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "18",
+     "citation": "PRESS RELEASE.docx (2025-10-23)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "18",
+     "citation": "PRESS RELEASE.docx (2025-10-23)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "13",
+     "citation": "Sakshi YS Jagan PC Madhyeam Scam Sak 23052025 (2).jpeg (2025-05-22)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "citation": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 5,
+     "meet": "6",
+     "citation": "Sakshi YS Jagan PC Sand Madhyeam PC sak 19102024.jpeg (2024-10-18)",
+     "source_type": "news_clip",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "liquor-temporal",
+   "question": "How did Jagan's statements on the liquor case change between 2025 and 2026?",
+   "lang": "en",
+   "kind": "temporal",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Liquor",
+    "Y. S. Jagan Mohan Reddy",
+    "2025",
+    "2025",
+    "2025"
+   ],
+   "retrieval_s": 0.889,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "SRI YS",
+     "citation": "SRI YS_Jagan_Tour SCHEDULES_2026.xlsx",
+     "source_type": "table",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "amaravati-scam",
+   "question": "What did Jagan allege about the Amaravati capital land dealings?",
+   "lang": "en",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 0.3333333333333333,
+   "meet_precision": 0.75,
+   "entity_hit": true,
+   "entities_linked": [
+    "Amaravati",
+    "Capital",
+    "Capital",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 1.284,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "24",
+     "citation": "Vijayawada_DC_02-04-2026.pdf p.2 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.1 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "amaravati-te",
+   "question": "అమరావతి రాజధాని భూముల విషయంలో జగన్ ఆరోపణలు ఏమిటి?",
+   "lang": "te",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 0.6666666666666666,
+   "meet_precision": 0.875,
+   "entity_hit": true,
+   "entities_linked": [
+    "Amaravati",
+    "Capital",
+    "Capital",
+    "Allegations",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 1.39,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "24",
+     "citation": "Jagan Sir PC - Final_01042026.docx (2026-04-01)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "24",
+     "citation": "Jagan Sir PC - Final_01042026.docx (2026-04-01)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "24",
+     "citation": "Jagan Sir PC - Final.pdf p.1 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "24",
+     "citation": "Jagan Sir PC - Final.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "24",
+     "citation": "Jagan Sir PC - Final_01042026.docx (2026-04-01)",
+     "source_type": "press_release",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "mavigun-vs-amaravati",
+   "question": "What is the Mavigun versus Amaravati argument about the next election?",
+   "lang": "en",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 11,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 0.5,
+   "meet_precision": 0.125,
+   "entity_hit": true,
+   "entities_linked": [
+    "Next Election",
+    "Amaravati",
+    "MAVIGUN",
+    "MAVIGUN"
+   ],
+   "retrieval_s": 1.168,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.1 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "24",
+     "citation": "Vijayawada_DC_02-04-2026.pdf p.2 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "citation": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 4,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "redbook",
+   "question": "What is the \"red book\" Jagan referred to?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": false,
+   "entities_linked": [
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.462,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "24",
+     "citation": "Vijayawada_DC_02-04-2026.pdf p.2 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "IMP",
+     "citation": "Sakshi YS Jagan NDTV Interview sak 26072024.jpeg (2024-09-10)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "SRI YS",
+     "citation": "SRI YS_Jagan_Tour SCHEDULES_2026.xlsx",
+     "source_type": "table",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "budget-2024-25",
+   "question": "What did Jagan say about the 2024-25 AP budget and the state's debts?",
+   "lang": "en",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 5,
+   "reciprocal_rank": 0.2,
+   "meet_recall": 0.5,
+   "meet_precision": 0.125,
+   "entity_hit": true,
+   "entities_linked": [
+    "2024-25",
+    "2024-25",
+    "Budget",
+    "Budget",
+    "Budget",
+    "Government"
+   ],
+   "retrieval_s": 0.893,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "13",
+     "citation": "Presentation of Sri YSJ - 21052025 (3).pdf p.3 (2025-05-22)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "22",
+     "citation": "Sri YSJ press meet slides I - 19022026.pptx slide 7 (2026-02-19)",
+     "source_type": "slide",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "12",
+     "citation": "Press meet on Budget for FY 26 (1).pptx slide 16 (2025-03-05)",
+     "source_type": "slide",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "2",
+     "citation": "Presentation July 2024 for media.pdf p.6 (2024-07-26)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "8",
+     "citation": "5_Presentation on State Budget - Final copy 13112024.pptx slide 1 (2024-11-13)",
+     "source_type": "slide",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "budget-2026-te",
+   "question": "2026-27 బడ్జెట్ గురించి జగన్ విమర్శలు ఏమిటి?",
+   "lang": "te",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 0.5,
+   "meet_precision": 0.375,
+   "entity_hit": true,
+   "entities_linked": [
+    "2026-27 Budget",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.682,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "22",
+     "citation": "చైతన్యరథం 20-02-2026.pdf p.4 (2026-02-19)",
+     "source_type": "source_doc",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "9",
+     "citation": "20.11.2024_SRI YS JAGAN_PC_press release.docx (2024-11-20)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "9",
+     "citation": "PRESS RELEASE.docx (2024-11-20)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "12",
+     "citation": "jagan_sir_on_budget_05_03_2025.docx (2025-03-05)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "2",
+     "citation": "PRESS RELEASE.docx (2024-07-26)",
+     "source_type": "press_release",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "cag-report",
+   "question": "What did the CAG report say about Andhra Pradesh's finances?",
+   "lang": "en",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Andhra Pradesh",
+    "Andhra Pradesh",
+    "CAG Report",
+    "CAG Report"
+   ],
+   "retrieval_s": 0.445,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "2",
+     "citation": "Presentation July 2024 for media.pdf p.6 (2024-07-26)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "2",
+     "citation": "Sakshi YS Jagan Press Meet babu white Papers Madheyeam  sak 27072024.jpg (2024-07-26)",
+     "source_type": "news_clip",
+     "language": "mixed"
+    },
+    {
+     "rank": 3,
+     "meet": "4",
+     "citation": "LiveLaw-TTD Laddu Case in SC-04102024.pdf p.1 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "22",
+     "citation": "Sri YSJ press meet slides I - 19022026.pptx slide 7 (2026-02-19)",
+     "source_type": "slide",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "4",
+     "citation": "BREAKING_Tirupati Prasad controversy_POINTS_05102024.docx (2024-09-27)",
+     "source_type": "press_release",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "budget-numeric",
+   "question": "How much did the budget allocate, and which figure did Jagan dispute?",
+   "lang": "en",
+   "kind": "numeric",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 2,
+   "reciprocal_rank": 0.5,
+   "meet_recall": 0.6,
+   "meet_precision": 0.5,
+   "entity_hit": true,
+   "entities_linked": [
+    "Budget",
+    "Budget",
+    "Budget",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.778,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "12",
+     "citation": "Press meet on Budget for FY 26 (1).pptx slide 20 (2025-03-05)",
+     "source_type": "slide",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "12",
+     "citation": "jagan_sir_on_budget_05_03_2025.docx (2025-03-05)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.1 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "8",
+     "citation": "13.11.2024_SRI YS JAGAN PC_press release.docx (2024-11-13)",
+     "source_type": "press_release",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "super-six",
+   "question": "What did Jagan say about Chandrababu's Super Six promises?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Super Six",
+    "Super Six promises",
+    "Super Six promises",
+    "N. Chandrababu Naidu",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.645,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "24",
+     "citation": "Vijayawada_DC_02-04-2026.pdf p.2 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "4",
+     "citation": "YSJAGAN_PC_SC_ISIT_04102024.docx (2024-09-27)",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 3,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.1 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "super-six-te",
+   "question": "సూపర్ సిక్స్ హామీల అమలు గురించి జగన్ ఏమన్నారు?",
+   "lang": "te",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 4,
+   "reciprocal_rank": 0.25,
+   "meet_recall": 1.0,
+   "meet_precision": 0.125,
+   "entity_hit": true,
+   "entities_linked": [
+    "Super Six",
+    "Super Six scheme controversy",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.757,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "14",
+     "citation": "Sakshi YS Jagan PC Sak 200620252.jpeg (2025-06-19)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "12",
+     "citation": "Sakshi YS Jagan Budgeat PC Super6 ku Gundu Suna Sak 060320252.jpeg (2025-03-05)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "17",
+     "citation": "Sakshi YS Jagan PC Super 6 Atter Plap Sak 11092025 (2).jpeg (2025-09-10)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "11",
+     "citation": "Sakshi YS Jagan PC sak070220255.jpeg (2025-02-06)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "3",
+     "citation": "Sakshi YS Jagan Ladu Kalithi 100days Palana sak 2109202.jpeg (2024-09-20)",
+     "source_type": "news_clip",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "manifesto-recall",
+   "question": "Which manifesto promises did Jagan say were broken?",
+   "lang": "en",
+   "kind": "cross",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Manifesto",
+    "Manifesto",
+    "Manifesto",
+    "promises",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.668,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.1 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "white-papers",
+   "question": "What was Jagan's response to the TDP white papers?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Y. S. Jagan Mohan Reddy",
+    "TDP",
+    "TDP"
+   ],
+   "retrieval_s": 0.801,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "4",
+     "citation": "YSJAGAN_PC_SC_ISIT_04102024.docx (2024-09-27)",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 2,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "citation": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 4,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "social-media-arrests",
+   "question": "What did Jagan say about arrests over social media posts?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 14,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Social Media",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.724,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "July 2026/Emergency 2.0",
+     "citation": "Social media censorship-21-07-2026.pdf p.20 (2026-07-21)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "26",
+     "citation": "Vijayawada_DC_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "4",
+     "citation": "YSJAGAN_PC_SC_ISIT_04102024.docx (2024-09-27)",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 4,
+     "meet": "July 2026/Emergency 2.0",
+     "citation": "Social media censorship-21-07-2026.pdf p.13 (2026-07-21)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "July 2026/Emergency 2.0",
+     "citation": "Social media censorship-21-07-2026.pdf p.5 (2026-07-21)",
+     "source_type": "source_doc",
+     "language": "mixed"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "false-cases-te",
+   "question": "వైఎస్సార్‌సీపీ నాయకులపై తప్పుడు కేసుల గురించి జగన్ ఏమన్నారు?",
+   "lang": "te",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 0.375,
+   "entity_hit": false,
+   "entities_linked": [
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.569,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "15",
+     "citation": "Sakshi YS Jagan PC Law And Order Sak 170720252.jpeg (2025-07-16)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "15",
+     "citation": "Sakshi YS Jagan PC Law And Order Sak 17072025.jpeg (2025-07-16)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "15",
+     "citation": "SRI YS JAGAN PRESSRELEASE_16072025.docx (2025-07-16)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "11",
+     "citation": "Sakshi YS Jagan PC sak070220257.jpeg (2025-02-06)",
+     "source_type": "news_clip",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "14",
+     "citation": "PRESS RELEASE.docx (2025-06-19)",
+     "source_type": "press_release",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "harika-attack",
+   "question": "What happened to Krishna ZP chairperson Uppala Harika?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 5,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "Uppala Harika",
+    "Krishna ZP"
+   ],
+   "retrieval_s": 0.868,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "July 2026/Sakshi news clips on attcks on women",
+     "citation": "Sakshi attacks on women_sakshi news clips full text.docx",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "citation": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 3,
+     "meet": "26",
+     "citation": "Vijayawada_DC_12-06-2026.pdf p.1 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "4",
+     "citation": "Tirupati Laddu Row_ Supreme Court Forms SIT To Probe Ghee Adulteration Allegation_LIVELAW_04102024.pdf p.16 (2024-09-27)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "24",
+     "citation": "Vijayawada_DC_02-04-2026.pdf p.6 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "mixed"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "emergency-2",
+   "question": "What did Jagan mean by calling the situation \"Emergency 2.0\"?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 0.25,
+   "entity_hit": true,
+   "entities_linked": [
+    "Emergency 2.0",
+    "Emergency 2.0",
+    "Emergency 2.0",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.458,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "July 2026/Emergency 2.0",
+     "citation": "Emergency 2.0.pdf p.1",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "July 2026/Emergency 2.0",
+     "citation": "Emergency 2.0.pdf p.2",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "24",
+     "citation": "Vijayawada_NIE_02-04-2026.pdf p.4 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "dsc-scam-te",
+   "question": "డీఎస్సీ నియామకాల్లో అక్రమాలపై జగన్ ఆరోపణలు ఏమిటి?",
+   "lang": "te",
+   "kind": "single",
+   "passages": 8,
+   "facts": 9,
+   "meet_hit": true,
+   "meet_rank": 1,
+   "reciprocal_rank": 1.0,
+   "meet_recall": 1.0,
+   "meet_precision": 1.0,
+   "entity_hit": true,
+   "entities_linked": [
+    "DSC",
+    "DSC",
+    "DSC",
+    "Allegations",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.906,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "26",
+     "citation": "YS Jagan PC - 11.06.2026.docx (2026-06-11)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "26",
+     "citation": "DSC_SCAM_2026.docx (2026-06-11)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 3,
+     "meet": "26",
+     "citation": "DSC_SCAM_2026.docx (2026-06-11)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 4,
+     "meet": "26",
+     "citation": "DSC_SCAM_2026.docx (2026-06-11)",
+     "source_type": "press_release",
+     "language": "te"
+    },
+    {
+     "rank": 5,
+     "meet": "26",
+     "citation": "YS Jagan PC - 11.06.2026.docx (2026-06-11)",
+     "source_type": "press_release",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "urea-shortage",
+   "question": "What did Jagan say about the urea shortage and PPP medical colleges?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 16,
+   "meet_hit": true,
+   "meet_rank": 7,
+   "reciprocal_rank": 0.14285714285714285,
+   "meet_recall": 1.0,
+   "meet_precision": 0.125,
+   "entity_hit": true,
+   "entities_linked": [
+    "Medical Colleges",
+    "Medical Colleges",
+    "Urea shortage",
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 0.702,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "26",
+     "citation": "Vijayawada_DC_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "SRI YS",
+     "citation": "SRI YS_Jagan_Tour SCHEDULES_2025.xlsx",
+     "source_type": "table",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "24",
+     "citation": "Vijayawada_DC_02-04-2026.pdf p.6 (2026-04-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "resurvey",
+   "question": "What are the objections to the land resurvey and the Jagananna Bhu Raksha passbooks?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 5,
+   "meet_hit": true,
+   "meet_rank": 4,
+   "reciprocal_rank": 0.25,
+   "meet_recall": 1.0,
+   "meet_precision": 0.25,
+   "entity_hit": true,
+   "entities_linked": [
+    "Land Resurvey",
+    "passbooks",
+    "Passbooks"
+   ],
+   "retrieval_s": 0.582,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "22",
+     "citation": "చైతన్యరథం 20-02-2026.pdf p.10 (2026-02-19)",
+     "source_type": "source_doc",
+     "language": "te"
+    },
+    {
+     "rank": 2,
+     "meet": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "citation": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "source_type": "press_release",
+     "language": "mixed"
+    },
+    {
+     "rank": 3,
+     "meet": "26",
+     "citation": "Naveen social school assistant record.pdf p.61 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "21",
+     "citation": "PattapassBookOld.pdf p.4 (2026-01-22)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "9",
+     "citation": "MEGA DSC_1 (2).jpeg (2024-11-20)",
+     "source_type": "news_clip",
+     "language": "te"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  },
+  {
+   "id": "hostel-deaths",
+   "question": "What did Jagan say about the deaths of hostel students?",
+   "lang": "en",
+   "kind": "single",
+   "passages": 8,
+   "facts": 20,
+   "meet_hit": false,
+   "meet_rank": null,
+   "reciprocal_rank": 0.0,
+   "meet_recall": 0.0,
+   "meet_precision": 0.0,
+   "entity_hit": false,
+   "entities_linked": [
+    "Y. S. Jagan Mohan Reddy"
+   ],
+   "retrieval_s": 1.182,
+   "top": [
+    {
+     "rank": 1,
+     "meet": "26",
+     "citation": "Vijayawada_DC_12-06-2026.pdf p.4 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 2,
+     "meet": "26",
+     "citation": "Vijayawada_NIE_12-06-2026.pdf p.10 (2026-06-11)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 3,
+     "meet": "27",
+     "citation": "Vijayawada_NIE_02-07-2026.pdf p.4 (2026-07-01)",
+     "source_type": "source_doc",
+     "language": "en"
+    },
+    {
+     "rank": 4,
+     "meet": "SRI YS",
+     "citation": "SRI YS_Jagan_Tour SCHEDULES_2025.xlsx",
+     "source_type": "table",
+     "language": "en"
+    },
+    {
+     "rank": 5,
+     "meet": "22",
+     "citation": "SRI YS JAGAN PC_19.02.2026 FINAL PRESENTATION.pdf p.31 (2026-02-19)",
+     "source_type": "source_doc",
+     "language": "en"
+    }
+   ],
+   "answered": false,
+   "answer_chars": 0,
+   "cited": 0,
+   "invalid_citations": [],
+   "uncited_sentences": 0,
+   "cited_expected_meet": false,
+   "answer_s": 0.0,
+   "error": ""
+  }
+ ]
+}

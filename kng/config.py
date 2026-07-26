@@ -64,7 +64,13 @@ class Settings:
     anthropic_model: str = _env("ANTHROPIC_MODEL", "claude-opus-4-8")
 
     # embeddings
-    local_embed_model: str = _env("LOCAL_EMBED_MODEL", "intfloat/multilingual-e5-base")
+    # The default must be the model that built the committed index (bge-m3, 1024-dim).
+    # It used to be `intfloat/multilingual-e5-base`, which WP2 abandoned for
+    # truncating at 512 tokens — and a fresh clone that skipped `cp .env.example .env`
+    # then embedded its *queries* with a 768-dim model against a 1024-dim table.
+    # That surfaced as an opaque LanceDB "there is no vector column" error, and had
+    # the dimensions happened to match it would have returned plausible nonsense.
+    local_embed_model: str = _env("LOCAL_EMBED_MODEL", "BAAI/bge-m3")
     cohere_api_key: str = _env("COHERE_API_KEY")
     cohere_embed_model: str = _env("COHERE_EMBED_MODEL", "embed-multilingual-v3.0")
 

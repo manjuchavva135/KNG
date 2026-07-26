@@ -1,0 +1,237 @@
+# KNG evaluation set — 30 questions grounded in the real archive.
+#
+# Every `meets` entry is a press-meet id that actually exists in `index/` (check
+# with `python -m kng.eval --meets`), so a miss is a retrieval failure and never a
+# typo in this file. Expectations are deliberately *coarse*: the right press meet,
+# not the right chunk. Nobody hand-labelled 4267 passages, and pretending
+# otherwise would produce a precise-looking number measuring nothing.
+#
+# fields
+#   id       stable slug; use it with `--only`
+#   q        the question, exactly as a user would type it
+#   lang     en | te — the script the question is written in
+#   kind     single  one meet holds the answer
+#            cross   the answer spans several meets (what the graph leg is for)
+#            temporal asks how something changed over time
+#            numeric asks for a figure, where BM25 usually carries the retrieval
+#   meets    press-meet ids that should appear in the retrieved passages
+#   entities graph entity names the question ought to link (substring, case-insensitive)
+
+questions:
+  # ── TTD / laddu ─────────────────────────────────────────────────────────────
+  - id: laddu-en
+    q: What did Jagan say about the Tirupati laddu ghee adulteration allegations?
+    lang: en
+    kind: cross
+    meets: ["3", "4", "5"]
+    entities: ["TTD", "laddu"]
+
+  - id: laddu-te
+    q: తిరుమల లడ్డూ నెయ్యి కల్తీ వివాదం గురించి జగన్ ఏమన్నారు?
+    lang: te
+    kind: cross
+    meets: ["3", "4", "5"]
+    entities: ["TTD", "laddu"]
+
+  - id: laddu-sit-verdict
+    q: What did the Supreme Court and the SIT conclude about the TTD laddu issue?
+    lang: en
+    kind: single
+    meets: ["5"]
+    entities: ["SIT", "Supreme Court"]
+
+  - id: tirupati-tour-cancelled
+    q: Why was Jagan's Tirupati tour cancelled in September 2024?
+    lang: en
+    kind: single
+    meets: ["4"]
+    entities: ["Tirupati"]
+
+  - id: parakamani-te
+    q: పరకామణి కేసు గురించి జగన్ ఏమి చెప్పారు?
+    lang: te
+    kind: single
+    meets: ["19"]
+    entities: ["Parakamani", "TTD"]
+
+  # ── power / SECI ────────────────────────────────────────────────────────────
+  - id: seci-tariff
+    q: What did Jagan say about the SECI solar power agreement and its tariff?
+    lang: en
+    kind: single
+    meets: ["10"]
+    entities: ["SECI"]
+
+  - id: seci-numeric
+    q: What was the SECI solar tariff per unit, and what did the state pay instead?
+    lang: en
+    kind: numeric
+    meets: ["10"]
+    entities: ["SECI"]
+
+  # ── liquor ──────────────────────────────────────────────────────────────────
+  - id: liquor-en
+    q: What are the allegations in the liquor scam case?
+    lang: en
+    kind: cross
+    meets: ["13", "18", "19"]
+    entities: ["liquor"]
+
+  - id: liquor-te
+    q: మద్యం కుంభకోణంలో జగన్ చేసిన ఆరోపణలు ఏమిటి?
+    lang: te
+    kind: cross
+    meets: ["13", "18", "19"]
+    entities: ["liquor"]
+
+  - id: liquor-temporal
+    q: How did Jagan's statements on the liquor case change between 2025 and 2026?
+    lang: en
+    kind: temporal
+    meets: ["13", "18", "19"]
+    entities: ["liquor"]
+
+  # ── Amaravati / capital ─────────────────────────────────────────────────────
+  - id: amaravati-scam
+    q: What did Jagan allege about the Amaravati capital land dealings?
+    lang: en
+    kind: cross
+    meets: ["20", "24", "25"]
+    entities: ["Amaravati"]
+
+  - id: amaravati-te
+    q: అమరావతి రాజధాని భూముల విషయంలో జగన్ ఆరోపణలు ఏమిటి?
+    lang: te
+    kind: cross
+    meets: ["20", "24", "25"]
+    entities: ["Amaravati"]
+
+  - id: mavigun-vs-amaravati
+    q: What is the Mavigun versus Amaravati argument about the next election?
+    lang: en
+    kind: cross
+    meets: ["25", "27"]
+    entities: ["Amaravati"]
+
+  - id: redbook
+    q: What is the "red book" Jagan referred to?
+    lang: en
+    kind: single
+    meets: ["13"]
+    entities: ["red book"]
+
+  # ── budget / finance ────────────────────────────────────────────────────────
+  - id: budget-2024-25
+    q: What did Jagan say about the 2024-25 AP budget and the state's debts?
+    lang: en
+    kind: cross
+    meets: ["8", "9"]
+    entities: ["budget"]
+
+  - id: budget-2026-te
+    q: 2026-27 బడ్జెట్ గురించి జగన్ విమర్శలు ఏమిటి?
+    lang: te
+    kind: cross
+    meets: ["22", "23"]
+    entities: ["budget"]
+
+  - id: cag-report
+    q: What did the CAG report say about Andhra Pradesh's finances?
+    lang: en
+    kind: cross
+    meets: ["9", "23"]
+    entities: ["CAG"]
+
+  - id: budget-numeric
+    q: How much did the budget allocate, and which figure did Jagan dispute?
+    lang: en
+    kind: numeric
+    meets: ["8", "9", "12", "22", "23"]
+    entities: ["budget"]
+
+  # ── promises / manifesto ────────────────────────────────────────────────────
+  - id: super-six
+    q: What did Jagan say about Chandrababu's Super Six promises?
+    lang: en
+    kind: single
+    meets: ["11"]
+    entities: ["Super Six", "Chandrababu"]
+
+  - id: super-six-te
+    q: సూపర్ సిక్స్ హామీల అమలు గురించి జగన్ ఏమన్నారు?
+    lang: te
+    kind: single
+    meets: ["11"]
+    entities: ["Super Six"]
+
+  - id: manifesto-recall
+    q: Which manifesto promises did Jagan say were broken?
+    lang: en
+    kind: cross
+    meets: ["14", "15"]
+    entities: ["manifesto", "Chandrababu"]
+
+  - id: white-papers
+    q: What was Jagan's response to the TDP white papers?
+    lang: en
+    kind: single
+    meets: ["2"]
+    entities: ["TDP"]
+
+  # ── law and order / cases ───────────────────────────────────────────────────
+  - id: social-media-arrests
+    q: What did Jagan say about arrests over social media posts?
+    lang: en
+    kind: single
+    meets: ["7"]
+    entities: ["social media"]
+
+  - id: false-cases-te
+    q: వైఎస్సార్‌సీపీ నాయకులపై తప్పుడు కేసుల గురించి జగన్ ఏమన్నారు?
+    lang: te
+    kind: single
+    meets: ["15"]
+    entities: ["YSRCP"]
+
+  - id: harika-attack
+    q: What happened to Krishna ZP chairperson Uppala Harika?
+    lang: en
+    kind: single
+    meets: ["15"]
+    entities: ["Harika"]
+
+  - id: emergency-2
+    q: What did Jagan mean by calling the situation "Emergency 2.0"?
+    lang: en
+    kind: single
+    meets: ["July 2026/Emergency 2.0"]
+    entities: ["Emergency"]
+
+  # ── schemes / governance ────────────────────────────────────────────────────
+  - id: dsc-scam-te
+    q: డీఎస్సీ నియామకాల్లో అక్రమాలపై జగన్ ఆరోపణలు ఏమిటి?
+    lang: te
+    kind: single
+    meets: ["26"]
+    entities: ["DSC"]
+
+  - id: urea-shortage
+    q: What did Jagan say about the urea shortage and PPP medical colleges?
+    lang: en
+    kind: single
+    meets: ["17"]
+    entities: ["urea"]
+
+  - id: resurvey
+    q: What are the objections to the land resurvey and the Jagananna Bhu Raksha passbooks?
+    lang: en
+    kind: single
+    meets: ["21"]
+    entities: ["resurvey"]
+
+  - id: hostel-deaths
+    q: What did Jagan say about the deaths of hostel students?
+    lang: en
+    kind: single
+    meets: ["19"]
+    entities: ["hostel"]

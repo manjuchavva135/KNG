@@ -76,7 +76,8 @@ See [docs/WORK_PACKAGES.md](docs/WORK_PACKAGES.md) for the WP tracker and
 `~/.claude/plans/act-as-a-software-snuggly-pond.md` (Revision 1 = Sarvam-first
 universal extraction + progress tracking).
 
-**Current resume point: WP6 (eval, hardening, export).** WP3's paid pass is
+**Current resume point: WP6 continued — reranker + `source_doc` weighting**, both
+now measurable against the committed baseline in `docs/eval/`. WP3's paid pass is
 **fully complete — 4251/4251 units, entire corpus**, WP4 answers with graph facts,
 and WP5 ships the **PressMeets RAG** web app (auth, streamed answers, clickable
 citations, history, admin). No paid work remains. State as of 2026-07-26:
@@ -91,6 +92,8 @@ citations, history, admin). No paid work remains. State as of 2026-07-26:
 | graph — **final** in `index/graph` | **8120 nodes · 10773 edges · 1157 communities** (22 summarised — the rest are singletons or pairs below phase E's `min_size=3`) |
 | query (WP4) | `kng.answer` — hybrid RRF + graph facts + verified citations · cold 13.8 s (bge-m3 load) / **warm 0.22 s** per query |
 | app (WP5) | **PressMeets RAG** — `uvicorn kng.api.main:app` · auth with revocable sessions, SSE token streaming, citation → passage viewer, **History page** (search/rename/delete/reopen), **admin console** (roles, password reset, account deletion) · real answer measured at 352 deltas / 17 s with 0 invalid citations · 79 tests + 31 browser checks |
+| eval (WP6) | `python -m kng.eval` — 30 grounded questions, free retrieval scoring · **baseline hit 0.667 / MRR 0.528** (`docs/eval/`) · k=30 → hit 0.867, MRR +0.030 ⇒ **ranking problem, not coverage** · English 0.545 vs Telugu 1.000 |
+| export (WP6) | `python -m kng.pipeline.export` — allow-listed archive + `EXPORT.json` + checksum · 5140 files / 197.9 MB → **66.8 MB in 22 s** · verified by extract-and-query on a root with no `.env` |
 
 No paid extraction work remains. To re-run after a prompt-version bump or new
 source files (re-bills only what changed — the content-hash cache is the record):
@@ -320,6 +323,41 @@ fixture run once marked all 635 files done and a real pass then extracted
 nothing while reporting success. Cache entries are fingerprinted by
 provider/model/`PROMPT_VERSION`; bump it when the prompt changes.
 
+### WP6 facts
+
+**The `LOCAL_EMBED_MODEL` default must stay `BAAI/bge-m3`.** It was
+`intfloat/multilingual-e5-base`, so a fresh clone — which has no `.env`, and whose
+docs say the key is only needed to re-run the pipeline — embedded its *queries*
+with a 768-dim model against the committed 1024-dim table. LanceDB reported
+`There is no vector column in the data`, because it infers the vector column **by
+matching the query's dimension**, so the real cause is invisible in the message.
+`vector.check_dim` now compares dimensions before searching and names the cause.
+**Had the two models shared a dimension there would have been no error at all** —
+just confidently ranked nonsense with citations. Loud failure is the feature.
+
+**A unit test on synthetic data would not have caught that.** It surfaced from
+extracting the export into a root holding only `kng/` and querying it. Any claim
+that "a clone reproduces the system" has to be tested that way, not asserted.
+
+**Eval expectations are per press meet, not per chunk** — nobody labelled 4267
+passages, and a chunk-level gold set invented in-repo would measure the invention.
+`python -m kng.eval --validate` refuses to run when a question expects a meet the
+index lacks, because a stale expectation reads as a permanent retrieval failure.
+
+**Baseline (2026-07-26, k=8, no reranker): hit 0.667 / MRR 0.528.** Two findings:
+`k=30` lifts hit to 0.867 while MRR moves +0.030, so the right meet is already in
+the top 30 — a **ranking** problem a reranker addresses; and English scores 0.545
+against Telugu's 1.000 because English queries land on the 2995 `source_doc`
+newspaper-page chunks that outrank the press-meet transcripts they document.
+Compare any change with `--baseline docs/eval/baseline-2026-07-26-k8.json`.
+
+**`--answer` costs one call per question** (30 calls) and refuses to run against a
+real provider without `--spend`. Use `KNG_FAKE_LLM=1` for the free path.
+
+**Export is an allow-list** (`PARTS` in `kng/pipeline/export.py`), never a
+deny-list: a deny-list grows holes, and `.env` / `var/` / `data/` must never
+travel. A test asserts the key's value appears nowhere in the archive bytes.
+
 **Embedding/chunking:** chunks are sized with the *model's own tokenizer*, never
 a char heuristic, because e5-base silently truncated at 512. Chunk language is
 detected per chunk, not inherited from its segment. Re-chunking is deterministic,
@@ -338,7 +376,8 @@ kng/generation/   synthesize.py(prompt + citation verification, stream_answer)
 kng/api/          main.py auth.py users.py meta.py sources.py history.py  # WP5
 kng/api/static/   index/login/history/admin .html · app.js history.js admin.js styles.css
 scripts/          bench_extract.py package_index.sh
-tests/            test_wp4.py test_graph_cache.py test_api.py   # 79 tests
+kng/eval/         questions.yaml harness.py __main__.py   # WP6 eval harness
+tests/            test_wp4.py test_graph_cache.py test_api.py test_eval.py test_export.py  # 120
 var/              users.json history/ queries.jsonl   # WP5 state, git-ignored
 config/ontology.yaml   docs/   extracted/
 scripts/ package_index.sh               # tar index/+extracted/ with checksum
@@ -360,7 +399,9 @@ python -m kng.pipeline.run --stage graph --plan-only        # paid-pass cost rep
 python -m kng.pipeline.run --stage graph --structural-only  # free metadata graph
 python -m kng.stats                          # per-stage doc counts (WP1b+)
 python -m kng.query "Tirupati laddu" -k 5    # retrieval + citations (WP2+)
-python -m unittest discover -s tests         # 79 tests, no network or key needed
+python -m unittest discover -s tests         # 120 tests, no network or key needed
+python -m kng.eval                           # WP6 retrieval baseline, free
+python -m kng.pipeline.export --plan         # WP6 export inventory, writes nothing
 python -m kng.answer "TTD laddu" --retrieval-only    # WP4 evidence, no LLM call
 KNG_FAKE_LLM=1 python -m kng.answer "TTD laddu"      # WP4 end-to-end, offline
 python -m kng.graph_query stats                                # graph (WP3+)
