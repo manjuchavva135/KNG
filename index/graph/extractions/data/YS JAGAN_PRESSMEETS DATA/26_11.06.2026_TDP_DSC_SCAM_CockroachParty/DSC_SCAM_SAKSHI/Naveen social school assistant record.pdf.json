@@ -1,0 +1,1969 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "776d8d431d7bed576984cafef5dd7b2c35e3e0e2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8c921197df8f9428b458db0013d3a170a4f957be": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f5ed175ec25de9993fe931aa511001642810a679": {
+   "entities": [
+    {
+     "name": "Respondents",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Petitioner",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a086bf19cae8614f21c31aac0530f43e010662e9": {
+   "entities": [
+    {
+     "name": "P.Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "Radha Krishna",
+     "type": "Person",
+     "english_name": "Radha Krishna"
+    },
+    {
+     "name": "The State of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "State of Andhra Pradesh"
+    },
+    {
+     "name": "School Education Department",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "Secretariat Buildings",
+     "type": "Organization",
+     "english_name": "Secretariat Buildings"
+    },
+    {
+     "name": "Commissioner &Director of School Education",
+     "type": "Organization",
+     "english_name": "Commissioner & Director of School Education"
+    },
+    {
+     "name": "MEGA DSC-2025",
+     "type": "Organization",
+     "english_name": "MEGA DSC-2025"
+    },
+    {
+     "name": "District Educational Officer",
+     "type": "Organization",
+     "english_name": "District Educational Officer"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0916d68f2b7f65fdbc41e4429de7c2b342cefc9c": {
+   "entities": [
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "HIGH COURT OF ANDHRA PRADESH AT AMARAVATHI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "W.P. No. 2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Mrs. Adapa Ramya Sahithi Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Advocate",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c6f563b8c3427053f5a81c1a57ec060c2af9da78": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bca8294d11500986d2eb61ee99808d766c2633fe": {
+   "entities": [
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "TGT (Telugu)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-II",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "article 14, 16 & 21 of the Constitution of India",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "54529c214a6c5f362fbf47cecb2191fb39e679c9": {
+   "entities": [
+    {
+     "name": "Petitioner",
+     "type": "Person",
+     "english_name": "Petitioner"
+    },
+    {
+     "name": "Respondent authorities",
+     "type": "Organization",
+     "english_name": "Respondent authorities"
+    },
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Scheme",
+     "english_name": "School Assistant (Social Studies)"
+    },
+    {
+     "name": "TGT (Telugu)",
+     "type": "Scheme",
+     "english_name": "TGT (Telugu)"
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "Zone-II",
+     "type": "Place",
+     "english_name": "Zone-II"
+    },
+    {
+     "name": "District Educational Officer, Machilipatnam",
+     "type": "Organization",
+     "english_name": "District Educational Officer, Machilipatnam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Respondent authorities",
+     "relation": "LOCATED_IN",
+     "target": "Krishna District",
+     "evidence": "As per the said merit list my name was figured at Rank No.1 having secured highest marks in the District."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "60897025278ba37e3ccf2b96c75925669aee8114": {
+   "entities": [
+    {
+     "name": "W.P. No. . /2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CHRONOLOGICAL EVENTS",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ANNEXURE-I",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M.A Telugu",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "B.Ed. in Social Studies",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "School Assistant",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Trained Graduate Teacher (TGT) Telugu",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Computer Operator",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "SCERT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "2016",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "20-04-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MEGA DSC Notification",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Notification No.1/Mega DSC-TRC-1/2025 dt. 20-04-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "School Assistant and SGT",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Notification No. 2/Mega DSC-TRC-1/2025 dt. 20-04-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Principals",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Post Graduate Teachers (PGTs)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Trained Graduate Teachers (TGTs)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "AP Model Schools",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APSWREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APTWREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State of Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "16-06-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "written examination for School Assistant (Social Studies)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "22-06-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "written examination for TGT (Telugu)",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8ff4f3e354c67790ae69312ee7e9bbf56a7a6e2e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "034ef71a59ae2ff137befaef767bdb366bc310e4": {
+   "entities": [
+    {
+     "name": "P.Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Organization",
+     "english_name": "School Assistant (Social Studies)"
+    },
+    {
+     "name": "TGT (Telugu)",
+     "type": "Organization",
+     "english_name": "TGT (Telugu)"
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "Zone-II",
+     "type": "Place",
+     "english_name": "Zone-II"
+    },
+    {
+     "name": "Article 14, 16 & 21 of the Constitution of India",
+     "type": "Claim",
+     "english_name": "Article 14, 16 & 21 of the Constitution of India"
+    },
+    {
+     "name": "Article 226 of the Constitution of India",
+     "type": "Claim",
+     "english_name": "Article 226 of the Constitution of India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "P.Naveen",
+     "relation": "MAKES_CLAIM",
+     "target": "Article 14, 16 & 21 of the Constitution of India",
+     "evidence": "the action of the respondents in not considering my case for appointment tc the post of School Assistant (Social Studies) in Krishna District or to the post of TGT (Telugu) in Zone-II and selecting less meritorious candidates than the petitioner herein is wholly illegal, arbitrary and violative of article 14, 16 & 21 of the Constitution of India."
+    },
+    {
+     "source": "P.Naveen",
+     "relation": "MAKES_CLAIM",
+     "target": "Article 226 of the Constitution of India",
+     "evidence": "the Petitioner has no other alternative remedy except to approach this Hon'ble Court under Article 226 of the Constitution of India."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "570618eb999e1cddd740ab4a17ea68af170fdc53": {
+   "entities": [
+    {
+     "name": "P.Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "APSWREIS",
+     "type": "Organization",
+     "english_name": "APSWREIS"
+    },
+    {
+     "name": "APTWREIS",
+     "type": "Organization",
+     "english_name": "APTWREIS"
+    },
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Scheme",
+     "english_name": "School Assistant (Social Studies)"
+    },
+    {
+     "name": "TGT (Telugu)",
+     "type": "Scheme",
+     "english_name": "TGT (Telugu)"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "07e8d0e2072fcad927f1d4a7558277922aba3eb8": {
+   "entities": [
+    {
+     "name": "P. Naveen",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "TGT (Telugu)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "District Educational Officer, Machilipatnam",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Zone II",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "respondent authorities",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "77557b49d9991bd641ca2652259b9a5a5c2a49ff": {
+   "entities": [
+    {
+     "name": "SCHOOL EDUCATION DEPARTMENT",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "Notification No.01/Mega DSC-TRC-1/2025",
+     "type": "Organization",
+     "english_name": "Notification No.01/Mega DSC-TRC-1/2025"
+    },
+    {
+     "name": "Andhra Pradesh Teacher Recruitment Test APRT- District Selection Committee DSC-2025",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Teacher Recruitment Test APRT- District Selection Committee DSC-2025"
+    },
+    {
+     "name": "G.O.Ms.No.15 ,School Education (Ser.I) Department",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.15 ,School Education (Ser.I) Department"
+    },
+    {
+     "name": "Commissioner of School Education",
+     "type": "Organization",
+     "english_name": "Commissioner of School Education"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "da493e999112612f849552333325812d7dcf8e3b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a4d7faf5f1b67d5a8d4059079c47b8009f5085a0": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "835c052d0aa8498d724c95a5ac04fd9ac672130a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8da74423d414c544c6cf269ef5f4b5d676d12cd8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "79c56dfdc6d645ab3df2d495fe0ef19b7d5a1d0b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b7f8800b1c0641c8efc485b8b75f96eb3d6185c6": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0d83c0ffe4e1cc5522ec81e14012f2c0bfc91172": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "65733c79ed1e5d7782d3ce25822815445f2d05a9": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1e2a67b2c485eb4047b061deb630131a9da917d4": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "642d6eda454490c661b35bcb4b85243df26395e1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "13f64f33dc59fbf6e66829c7903023d54701060b": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "AP MEGA DSC -2025",
+     "type": "Scheme",
+     "english_name": "AP MEGA DSC -2025"
+    },
+    {
+     "name": "Notification",
+     "type": "Organization",
+     "english_name": "Notification"
+    },
+    {
+     "name": "Amaravathi, Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Amaravathi, Andhra Pradesh"
+    },
+    {
+     "name": "VIJAY RAMA RAJU V",
+     "type": "Person",
+     "english_name": "Vijay Rama Raju V"
+    },
+    {
+     "name": "Director of School Education",
+     "type": "Organization",
+     "english_name": "Director of School Education"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d2e723d4107b2bca9ff3e79b44666dab38f879a1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2a529b567be9b9720ef75963bbe6bf22530e068a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ad8c90debb6413765642b84b47417f06f20936e1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4402e2a4ea8d687faad2997eefd91287a341f175": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b0ab9795f5f56cd3f8a581182547dea1f46ff649": {
+   "entities": [
+    {
+     "name": "G.O.Ms.No:16 School Education (Ser.I). Department",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No:16 School Education (Ser.I). Department"
+    },
+    {
+     "name": "Computer Based Test (CBT)",
+     "type": "Scheme",
+     "english_name": "Computer Based Test (CBT)"
+    },
+    {
+     "name": "MEGA DSC-2025",
+     "type": "Scheme",
+     "english_name": "MEGA DSC-2025"
+    },
+    {
+     "name": "Teacher Recruitment Test (TRT)",
+     "type": "Scheme",
+     "english_name": "Teacher Recruitment Test (TRT)"
+    },
+    {
+     "name": "CSE Official website",
+     "type": "Organization",
+     "english_name": "CSE Official website"
+    },
+    {
+     "name": "Information Bulletin",
+     "type": "Organization",
+     "english_name": "Information Bulletin"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "05a35b4bf3751fd7a41b77129e606a822345f86a": {
+   "entities": [
+    {
+     "name": "SCHOOL EDUCATION DEPARTMENT",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "Notification No.02/MEGA DSC-TRC-1/2025",
+     "type": "Organization",
+     "english_name": "Notification No.02/MEGA DSC-TRC-1/2025"
+    },
+    {
+     "name": "Andhra Pradesh Teacher Recruitment Test (APTRT)-2025",
+     "type": "Scheme",
+     "english_name": "Andhra Pradesh Teacher Recruitment Test (APTRT)-2025"
+    },
+    {
+     "name": "District Selection Committee DSC-2025",
+     "type": "Organization",
+     "english_name": "District Selection Committee DSC-2025"
+    },
+    {
+     "name": "AP Model Schools",
+     "type": "Organization",
+     "english_name": "AP Model Schools"
+    },
+    {
+     "name": "MJPAPBCWREIS",
+     "type": "Organization",
+     "english_name": "MJPAPBCWREIS"
+    },
+    {
+     "name": "APREIS",
+     "type": "Organization",
+     "english_name": "APREIS"
+    },
+    {
+     "name": "APSWREIS",
+     "type": "Organization",
+     "english_name": "APSWREIS"
+    },
+    {
+     "name": "APTWREIS (Gurukulam) Schools",
+     "type": "Organization",
+     "english_name": "APTWREIS (Gurukulam) Schools"
+    },
+    {
+     "name": "G.O.Ms.No.16 School Education (Ser.I) Department",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.16 School Education (Ser.I) Department"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ba6c807ea84aea58a7142bdb7e9f21a2077fa422": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "26c7135cb1e4d8dc69ded53472f3026f9166adcc": {
+   "entities": [
+    {
+     "name": "ESE02-20021/9/2024-RECTMT-CSE-Part (4)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CSE Official Website",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "apdsc.apcfss.in",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms.No.16 School Education (Ser.I) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mega DSC -2025",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3efd1bf1b6d46ba131ed0a01100036ef5ece2d48": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fe4484f3e4b10e95bfe0f82a4f7500b5850fa9f4": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0566027129343b06ba949f6f7ae92b8edda5e93d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f3f4121a74d81c5ff15d166210dc44047b66bd6c": {
+   "entities": [
+    {
+     "name": "ESE02-20021/9/2024-RECTMT-CSE-Part (4)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "I/4059944/2025",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rs.750/-",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "15/05/2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "20/04/2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "DSC-2024",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "GOMs. No.12 Dated 12.02.2024",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "cse.ap.gov.in",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "apdsc.apcfss.in",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mega DSC-2025",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "01/07/2024",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "SC/ST/BC/EWS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Persons with Benchmark Disabilities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms.No:14, School Education (Services-I) Dept., Dt:17.04.2025",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Armed Forces of the Indian Union",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ae3adb99907e8ba2ed257d51f56f07c10da8094f": {
+   "entities": [
+    {
+     "name": "Initial Key",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "final key",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Merit List(Marks)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "VIJAY RAMA RAJU V",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DIRECTOR OF SCHOOL EDUCATION",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "VIJAY RAMA RAJU V",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Initial Key",
+     "evidence": "Initial Key will be released on the 2nd day after completion of the last exam."
+    },
+    {
+     "source": "VIJAY RAMA RAJU V",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "final key",
+     "evidence": "The final key will be released after 7 days from the last date of receiving the objections"
+    },
+    {
+     "source": "VIJAY RAMA RAJU V",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Merit List(Marks)",
+     "evidence": "Merit Lists(Marks) will be announced 7 days after the final key release"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f39f40f6114bf96d10b112fb103abe6832d7c403": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a536bf068be4feeb1af1014b8f2fa2a0d5f95806": {
+   "entities": [
+    {
+     "name": "G.O.Ms.No.77",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 77"
+    },
+    {
+     "name": "G.A. (Ser-D) Dept.",
+     "type": "Organization",
+     "english_name": "General Administration (Ser-D) Department"
+    },
+    {
+     "name": "Person with Benchmark Disability",
+     "type": "Claim",
+     "english_name": "Person with Benchmark Disability"
+    },
+    {
+     "name": "Person with Disabilities Act, 1995",
+     "type": "Organization",
+     "english_name": "Person with Disabilities Act, 1995"
+    },
+    {
+     "name": "The Rights of Persons with Disabilities Act, 2016",
+     "type": "Organization",
+     "english_name": "The Rights of Persons with Disabilities Act, 2016"
+    },
+    {
+     "name": "The Rights of Persons with Disabilities Rules, 2017",
+     "type": "Organization",
+     "english_name": "The Rights of Persons with Disabilities Rules, 2017"
+    },
+    {
+     "name": "G.O.Ms.No.36",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 36"
+    },
+    {
+     "name": "Dept., for Women, Children, Differently Abled & Senior Citizens (Prog.II)",
+     "type": "Organization",
+     "english_name": "Department for Women, Children, Differently Abled & Senior Citizens (Prog.II)"
+    },
+    {
+     "name": "G.O.Ms.No.12",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 12"
+    },
+    {
+     "name": "School Department(Service.I) Dept.",
+     "type": "Organization",
+     "english_name": "School Department (Service.I) Department"
+    },
+    {
+     "name": "Induction Training",
+     "type": "Scheme",
+     "english_name": "Induction Training"
+    },
+    {
+     "name": "Academics and English Proficiency",
+     "type": "Scheme",
+     "english_name": "Academics and English Proficiency"
+    },
+    {
+     "name": "AP MEGA DSC -2025",
+     "type": "Organization",
+     "english_name": "AP MEGA DSC -2025"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c1efb8e823ce367c06120b0676da1b0caa308ed": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5d3006faade3ba9152c3babe270cb811e3bd75c5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c1e59a0f299a0357e4dd7995233f8608bba3ff69": {
+   "entities": [
+    {
+     "name": "DEPARTMENT OF SCHOOL EDUCATION, ANDHRA PRADESH",
+     "type": "Organization",
+     "english_name": "Department of School Education, Andhra Pradesh"
+    },
+    {
+     "name": "DISTRICT SELECTION COMMITTEE - 2025",
+     "type": "Organization",
+     "english_name": "District Selection Committee - 2025"
+    },
+    {
+     "name": "MDSC0156824",
+     "type": "Claim",
+     "english_name": "MDSC0156824"
+    },
+    {
+     "name": "NAVEEN PURAMA",
+     "type": "Person",
+     "english_name": "Naveen Purama"
+    },
+    {
+     "name": "RADHAKRISHNA",
+     "type": "Person",
+     "english_name": "Radhakrishna"
+    },
+    {
+     "name": "OC (EWS)",
+     "type": "Claim",
+     "english_name": "OC (EWS)"
+    },
+    {
+     "name": "NO EX-Servicemen",
+     "type": "Claim",
+     "english_name": "NO EX-Servicemen"
+    },
+    {
+     "name": "SA(NL) - SOCIAL STUDIES - KRISHNA",
+     "type": "Claim",
+     "english_name": "SA(NL) - SOCIAL STUDIES - KRISHNA"
+    },
+    {
+     "name": "TGT(L) - TELUGU - ZONE-2",
+     "type": "Claim",
+     "english_name": "TGT(L) - TELUGU - ZONE-2"
+    },
+    {
+     "name": "GUIDELINES AND INSTRUCTIONS TO CANDIDATES",
+     "type": "Claim",
+     "english_name": "GUIDELINES AND INSTRUCTIONS TO CANDIDATES"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e32e6583fc9f57d196a08b1c8d5f7247213d3ba4": {
+   "entities": [
+    {
+     "name": "Purama Naveen",
+     "type": "Person",
+     "english_name": "Purama Naveen"
+    },
+    {
+     "name": "mdsc MDSC0156824",
+     "type": "Claim",
+     "english_name": "mdsc MDSC0156824"
+    },
+    {
+     "name": "dscgrievances@anschooledu.in",
+     "type": "Organization",
+     "english_name": "dscgrievances@anschooledu.in"
+    },
+    {
+     "name": "dscgrievances@apschooledu.in",
+     "type": "Organization",
+     "english_name": "dscgrievances@apschooledu.in"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Purama Naveen",
+     "relation": "MAKES_CLAIM",
+     "target": "mdsc MDSC0156824",
+     "evidence": "my maga dsc id mdsc MDSC0156824 is not login from 26.08.2025 to till now 03.09.2025 so I couldn't receive the call letter."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "871cf75ac35b914c250b72e0bdaa547b2509cb62": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a1311b66b2fbbc410e5410946ac8bdaff6eddcad": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9436b75a5ea348dba3174df7a0899e2f96a2e8e9": {
+   "entities": [
+    {
+     "name": "I",
+     "type": "Person",
+     "english_name": "Petitioner"
+    },
+    {
+     "name": "M.A Telugu",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "B.Ed. in Social Studies",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "School Assistant",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Trained Graduate Teacher (TGT) Telugu",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Computer Operator",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "SCERT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "2016",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MEGA DSC Notification",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Notification No.1/Mega DSC-TRC-1/2025 dt. 20-04-2025",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Notification No. 2/Mega DSC-TRC-1/2025 dt. 20-04-2025",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Principals",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Post Graduate Teachers (PGTs)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Trained Graduate Teachers (TGTs)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "AP Model Schools",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APSWREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APTWREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State of Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "written examination",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "16-06-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "TGT (Telugu)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "11-08-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "78.73 marks",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Score card",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Respondent authorities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "22-08-2025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "merit list",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Rank No.1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Zone-II",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rank No.6",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "P. Naveen",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "M.A Telugu",
+     "evidence": "I am qualified in M.A Telugu"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "B.Ed. in Social Studies",
+     "evidence": "I am qualified in M.A Telugu and also possess B.Ed. in Social Studies"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "School Assistant",
+     "evidence": "I am eligible for the post of School Assistant"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "Trained Graduate Teacher (TGT) Telugu",
+     "evidence": "I am eligible for the post of School Assistant as well as Trained Graduate Teacher (TGT) Telugu"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "Computer Operator",
+     "evidence": "I worked as Computer Operator in SCERT from 2016 onwards until 2025 on outsourcing basis"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "2016",
+     "evidence": "I worked as Computer Operator in SCERT from 2016 onwards until 2025 on outsourcing basis"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "2025",
+     "evidence": "I worked as Computer Operator in SCERT from 2016 onwards until 2025 on outsourcing basis"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "School Assistant (Social Studies)",
+     "evidence": "I applied for the post of School Assistant (Social Studies) and TGT (Telugu)"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "Principals",
+     "evidence": "Notification No.1/Mega DSC-TRC-1/2025 dt. 20-04-2025 as well as Notification No. 2/Mega DSC-TRC-1/2025 dt. 20-04-2025 for the post of Principals, Post Graduate Teachers (PGTs), Trained Graduate Teachers (TGTs) in AP Model Schools, APREIS, APSWREIS, APTWREIS in the State of Andhra Pradesh"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "Post Graduate Teachers (PGTs)",
+     "evidence": "Notification No.1/Mega DSC-TRC-1/2025 dt. 20-04-2025 as well as Notification No. 2/Mega DSC-TRC-1/2025 dt. 20-04-2025 for the post of Principals, Post Graduate Teachers (PGTs), Trained Graduate Teachers (TGTs) in AP Model Schools, APREIS, APSWREIS, APTWREIS in the State of Andhra Pradesh"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "Trained Graduate Teachers (TGTs)",
+     "evidence": "Notification No.1/Mega DSC-TRC-1/2025 dt. 20-04-2025 as well as Notification No. 2/Mega DSC-TRC-1/2025 dt. 20-04-2025 for the post of Principals, Post Graduate Teachers (PGTs), Trained Graduate Teachers (TGTs) in AP Model Schools, APREIS, APSWREIS, APTWREIS in the State of Andhra Pradesh"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "written examination",
+     "evidence": "the written examination for School Assistant (Social Studies) was held on 16-06-2025"
+    },
+    {
+     "source": "I",
+     "relation": "MAKES_CLAIM",
+     "target": "16-06-2025",
+     "evidence": "the written examination for School Assistant (Social Studies) was held on 16-06-2025"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93b121028bf8821a2d92f349f9d33fe8ae553c78": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "978ed3c5b3765d0cd191d77faac11710f68a700c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3e2ff7a7321dc511db3f240c58ad5f44caa9b26f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "35f02b2cb2892061b3c6d056e1dc5817926f6d1c": {
+   "entities": [
+    {
+     "name": "Mega DSC-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "Sri M.V Krishna Reddy Ganu",
+     "type": "Person",
+     "english_name": "M.V. Krishna Reddy Ganu"
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "Vijaynwadu",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "DEO office Krishna",
+     "type": "Organization",
+     "english_name": "DEO Office Krishna"
+    },
+    {
+     "name": "Sri MEV. Krishna Reddy sir",
+     "type": "Person",
+     "english_name": "M.E.V. Krishna Reddy"
+    },
+    {
+     "name": "P. Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "P. Maueen",
+     "type": "Person",
+     "english_name": "P. Maueen"
+    }
+   ],
+   "relations": [
+    {
+     "source": "DEO office Krishna",
+     "relation": "LOCATED_IN",
+     "target": "Vijaynwadu",
+     "evidence": "02.09.2025 I have got nearly 30 missed calls from different mobile numbers. Those call are from DEO office Krishna."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9839f81b1766ce4677d456b1accef344c612d6f6": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "379146c97c299bf066db58e15f392fe031938a27": {
+   "entities": [
+    {
+     "name": "MDSC0003026",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MAREEDU NAGALAKSHMI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SATYANARAYANA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SGT",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "krish_committee_13",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "14365324",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BODDU SRINIVASU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "808",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC00104518",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SHABNA PARVEEN",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ABDUL HAQUE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TGT(L) - ENGLISH",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "krish_committee_14",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "14366212",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GARIKIPATI N B GOPAL",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "809",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "810",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC0104518",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "811",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC0276596",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BHUKYA SURYA VAMSÍ NAYAK",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "B SATYANARAYANA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PGTN(L) - ENGLISH",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bb1b92008872d98f7c620110e70a9eaf020920d7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c2c9f671dbd82b2d29cc207e963c2a397f092d0": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9b975d19c1ab4134771bd7bc2620fbda5ee230fb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb5aabe9d41bcc43ef23ebae052304c59f53fc5b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "621288a2c7d74bf305e3cfac39234d3c3a1fd85a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c4137c34d6ba2170a69eb907e92362f3c075f8bb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c8f8851781dd34265e44d97bf1bf712d71b2e08d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "53228cd3303096bc12621125177580f6cb2602a7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fcfbc826384700d7fd6dead7cd63e75dee9e7897": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9960d948b43a0400683f407cac7b971159d6c69b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9f3e7e0fa3937dd9de89cdb2c07511a5c11bd38b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b4a0d792982253c3844a8a2211b66aa80d3a9160": {
+   "entities": [
+    {
+     "name": "JAKKALA SAMBA SIVARAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MADOORI PRARDHANA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MADOORI RAVI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "RAYAVARAPU VIJAYARAMARAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "POLIMETLA SWAYAMPRABHA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "POLIMETLA VENKATA SATYANARAYANA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DHARAVATH KAVITHA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DEVALA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "krish_committee_23",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DSC_SCAM",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "361ed6d6f9b1f8b12042d5bd731768149b2d704a": {
+   "entities": [
+    {
+     "name": "Krishna",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC0046889",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "VENKATARAVAMMA SANKULA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SATYANARAYANA SANKULA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PRINCIPAL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "not qualified as per Dsc score card",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "krish_committee_18",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "14123322",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MALAVATU KANAKA MAHA LAKSHMI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC0057215",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SHAIK KHJA BEE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SAHIK GALIB SAHEB",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TGT(L) - ENGLISH",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NOT QUALIFIED IN TET",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC0057225",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SHAIK KHAJA BEE",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC0091837",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "EARIKADEDY JAGAN MOHANA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "VISALANDRA REDDY",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TGT(NL) - SCIENCE (ENGLISH MEDIUM)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NOT QUALIFIED AS PER DS.C SCORE CARD",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MDSC0140446",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PEDASINGU DURGA JYOTHI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PEDASINGU EDUKONDALU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NOT QUALIFIED A2 PER DS.C SCORE CARD",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "VENKATARAVAMMA SANKULA",
+     "relation": "MAKES_CLAIM",
+     "target": "not qualified as per Dsc score card",
+     "evidence": "not qualified as per Dsc score card"
+    },
+    {
+     "source": "SHAIK KHJA BEE",
+     "relation": "MAKES_CLAIM",
+     "target": "NOT QUALIFIED IN TET",
+     "evidence": "NOT QUALIFIED IN TET"
+    },
+    {
+     "source": "SHAIK KHAJA BEE",
+     "relation": "MAKES_CLAIM",
+     "target": "NOT QUALIFIED IN TET",
+     "evidence": "NOT QUALIFIED IN TET"
+    },
+    {
+     "source": "EARIKADEDY JAGAN MOHANA",
+     "relation": "MAKES_CLAIM",
+     "target": "NOT QUALIFIED AS PER DS.C SCORE CARD",
+     "evidence": "NOT QUALIFIED AS PER DS.C SCORE CARD"
+    },
+    {
+     "source": "PEDASINGU DURGA JYOTHI",
+     "relation": "MAKES_CLAIM",
+     "target": "NOT QUALIFIED A2 PER DS.C SCORE CARD",
+     "evidence": "NOT QUALIFIED A2 PER DS.C SCORE CARD"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1cb35ea6302cf4980cccac337e8d475eb51611c3": {
+   "entities": [
+    {
+     "name": "krish_committee_20",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "JAKKALA SAMBA SIVARAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SHAIK HASEENA BEGUM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SHAIK MOULASAEB",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "GAJELLI VENKATESWARA RAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NARAYANA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SUDA RANIKATTA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YESUPADAM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DHANALAKSHMI PONNURU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SREERAMA MURTHY",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ERUGU VARAMMA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ERUGU MOHAN RAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MADOORI PRARDHANA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MADOORI RAVI",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c405b0ffb58c46e49fb4a300e67a036345db9e04": {
+   "entities": [
+    {
+     "name": "Mega DSC-2025",
+     "type": "Organization",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "Sri M.V.Krishna Reddy Garu",
+     "type": "Person",
+     "english_name": "M.V. Krishna Reddy"
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "DEO",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "P.Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "MDSC0156824",
+     "type": "Person",
+     "english_name": "MDSC0156824"
+    },
+    {
+     "name": "Second Stage of Certificate Verification",
+     "type": "Scheme",
+     "english_name": "Second Stage of Certificate Verification"
+    },
+    {
+     "name": "Mega DSC-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "DEO office",
+     "type": "Organization",
+     "english_name": "DEO office"
+    },
+    {
+     "name": "DEO sir",
+     "type": "Person",
+     "english_name": "DEO sir"
+    },
+    {
+     "name": "Vidya Bhavan",
+     "type": "Place",
+     "english_name": "Vidya Bhavan"
+    },
+    {
+     "name": "Sri M.V.Krishna Reddy sir",
+     "type": "Person",
+     "english_name": "Sri M.V.Krishna Reddy sir"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

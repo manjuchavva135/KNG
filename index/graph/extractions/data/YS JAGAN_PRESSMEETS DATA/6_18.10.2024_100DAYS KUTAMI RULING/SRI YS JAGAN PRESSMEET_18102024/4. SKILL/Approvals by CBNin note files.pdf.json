@@ -1,0 +1,207 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ae9caa62ec1775abb8f13c0a363ef2545d796a55": {
+   "entities": [
+    {
+     "name": "CoEs & tSDIs",
+     "type": "Scheme",
+     "english_name": "CoEs & tSDIs"
+    },
+    {
+     "name": "Smt. U. Aparna, IAS",
+     "type": "Person",
+     "english_name": "U. Aparna"
+    },
+    {
+     "name": "APSSDC",
+     "type": "Organization",
+     "english_name": "APSSDC"
+    },
+    {
+     "name": "Sri S.V. University, Tirupathi",
+     "type": "Organization",
+     "english_name": "Sri S.V. University, Tirupathi"
+    },
+    {
+     "name": "MIT, Madhanapalli",
+     "type": "Organization",
+     "english_name": "MIT, Madhanapalli"
+    },
+    {
+     "name": "General Administrative Department (GAD)",
+     "type": "Organization",
+     "english_name": "General Administrative Department"
+    },
+    {
+     "name": "Skill Development & Training Department",
+     "type": "Organization",
+     "english_name": "Skill Development & Training Department"
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": "Finance Department"
+    },
+    {
+     "name": "Higher Education Department",
+     "type": "Organization",
+     "english_name": "Higher Education Department"
+    },
+    {
+     "name": "Council of Ministers",
+     "type": "Organization",
+     "english_name": "Council of Ministers"
+    },
+    {
+     "name": "M. Srinivasa Rao, Dy. Secy., (Cabinet), GAD, Secretariat, Velagapudi",
+     "type": "Person",
+     "english_name": "M. Srinivasa Rao"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "38375704ffff97ede8cafd48c82ae1602d1c6598": {
+   "entities": [
+    {
+     "name": "Sri.N.Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Finance Department Note Files",
+     "type": "Organization",
+     "english_name": "Finance Department Note Files"
+    },
+    {
+     "name": "APSSDC",
+     "type": "Organization",
+     "english_name": "APSSDC"
+    },
+    {
+     "name": "Higher Education Department Note File",
+     "type": "Organization",
+     "english_name": "Higher Education Department Note File"
+    },
+    {
+     "name": "General Administrative Department (GAD) Note File",
+     "type": "Organization",
+     "english_name": "General Administrative Department (GAD) Note File"
+    },
+    {
+     "name": "Council Resolution No.47/15",
+     "type": "Claim",
+     "english_name": "Council Resolution No.47/15"
+    },
+    {
+     "name": "Council Resolution No.33/15",
+     "type": "Claim",
+     "english_name": "Council Resolution No.33/15"
+    },
+    {
+     "name": "Rs. 370 Corres",
+     "type": "Claim",
+     "english_name": "Rs. 370 Corres"
+    },
+    {
+     "name": "formation of APSSDC",
+     "type": "Claim",
+     "english_name": "formation of APSSDC"
+    },
+    {
+     "name": "Constitution of Board of Directors to APSSDC",
+     "type": "Claim",
+     "english_name": "Constitution of Board of Directors to APSSDC"
+    },
+    {
+     "name": "Constitution of Board of Directors and Advisors to APSSDC.",
+     "type": "Claim",
+     "english_name": "Constitution of Board of Directors and Advisors to APSSDC."
+    },
+    {
+     "name": "Engaging CA J. Venkateswarlu for helping MD and CEO of APSSDC.",
+     "type": "Claim",
+     "english_name": "Engaging CA J. Venkateswarlu for helping MD and CEO of APSSDC."
+    },
+    {
+     "name": "Council Resolution No.47/15 about the allocation of budget-approved as agenda item No.14, dtd:12.03.2015",
+     "type": "Claim",
+     "english_name": "Council Resolution No.47/15 about the allocation of budget-approved as agenda item No.14, dtd:12.03.2015"
+    },
+    {
+     "name": "Proposal for appoiting G. Subbarao as Secretary to SDE&I and ex-officio secretary to CM.",
+     "type": "Claim",
+     "english_name": "Proposal for appoiting G. Subbarao as Secretary to SDE&I and ex-officio secretary to CM."
+    },
+    {
+     "name": "Council Resolution No.33/15 about the establishment of CoEs & tSDIs as a special item dtd:28.02.2015 and discussed 90% & 10% Contribution.",
+     "type": "Claim",
+     "english_name": "Council Resolution No.33/15 about the establishment of CoEs & tSDIs as a special item dtd:28.02.2015 and discussed 90% & 10% Contribution."
+    },
+    {
+     "name": "Post facto approval for appointment of Smt. U.",
+     "type": "Claim",
+     "english_name": "Post facto approval for appointment of Smt. U."
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 370 Corres",
+     "evidence": "to sanction Rs. 370 Corres"
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "formation of APSSDC",
+     "evidence": "formation of APSSDC"
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Constitution of Board of Directors to APSSDC",
+     "evidence": "Constitution of Board of Directors to APSSDC"
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Constitution of Board of Directors and Advisors to APSSDC.",
+     "evidence": "Constitution of Board of Directors and Advisors to APSSDC."
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Engaging CA J. Venkateswarlu for helping MD and CEO of APSSDC.",
+     "evidence": "Engaging CA J. Venkateswarlu for helping MD and CEO of APSSDC."
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Council Resolution No.47/15 about the allocation of budget-approved as agenda item No.14, dtd:12.03.2015",
+     "evidence": "Council Resolution No.47/15 about the allocation of budget-approved as agenda item No.14, dtd:12.03.2015"
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Proposal for appoiting G. Subbarao as Secretary to SDE&I and ex-officio secretary to CM.",
+     "evidence": "Proposal for appoiting G. Subbarao as Secretary to SDE&I and ex-officio secretary to CM."
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Council Resolution No.33/15 about the establishment of CoEs & tSDIs as a special item dtd:28.02.2015 and discussed 90% & 10% Contribution.",
+     "evidence": "Council Resolution No.33/15 about the establishment of CoEs & tSDIs as a special item dtd:28.02.2015 and discussed 90% & 10% Contribution."
+    },
+    {
+     "source": "Sri.N.Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Post facto approval for appointment of Smt. U.",
+     "evidence": "Post facto approval for appointment of Smt. U."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

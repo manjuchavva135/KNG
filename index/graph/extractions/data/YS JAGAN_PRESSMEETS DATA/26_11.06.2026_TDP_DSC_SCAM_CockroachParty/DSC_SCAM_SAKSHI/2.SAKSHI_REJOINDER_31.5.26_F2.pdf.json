@@ -1,0 +1,389 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1bc5ee26fb4c3611676bb82fcf110445db06c863": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "సాక్షి దినపత్రిక",
+     "type": "Organization",
+     "english_name": "Sakshi Daily"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "స్పోర్ట్స్ డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Sports DSC"
+    },
+    {
+     "name": "మెరిటోరియస్ స్పోర్ట్స్ పర్సన్స్ (MSP) కోటా",
+     "type": "Scheme",
+     "english_name": "Meritorious Sports Persons (MSP) Quota"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb5fbe66be8a94b03d961dc582ef30d3cc213c9e": {
+   "entities": [
+    {
+     "name": "నియామక నోటిఫికేషన్",
+     "type": "Organization",
+     "english_name": "Recruitment Notification"
+    },
+    {
+     "name": "సాధారణ పరిపాలన (సర్వీసెస్-D) శాఖ",
+     "type": "Organization",
+     "english_name": "General Administration Department (Services-D)"
+    },
+    {
+     "name": "G.O.Ms.No.77",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.77"
+    },
+    {
+     "name": "హారిజాంటల్ రిజర్వేషన్ సర్దుబాట్లు",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation Adjustments"
+    },
+    {
+     "name": "మెరిట్",
+     "type": "Claim",
+     "english_name": "Merit"
+    },
+    {
+     "name": "ఖాళీల లభ్యత",
+     "type": "Claim",
+     "english_name": "Availability of Vacancies"
+    },
+    {
+     "name": "రిజర్వేషన్ నిబంధనలు",
+     "type": "Claim",
+     "english_name": "Reservation Norms"
+    },
+    {
+     "name": "రోస్టర్ పాయింట్లు",
+     "type": "Claim",
+     "english_name": "Roster Points"
+    },
+    {
+     "name": "హారిజాంటల్ రిజర్వేషన్లు",
+     "type": "Claim",
+     "english_name": "Horizontal Reservations"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Organization",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "తూర్పు గోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari District"
+    },
+    {
+     "name": "కంప్యూటర్ ఆధారిత పరీక్ష (CBT)",
+     "type": "Scheme",
+     "english_name": "Computer Based Test (CBT)"
+    },
+    {
+     "name": "డిజిటల్ మానిటరింగ్",
+     "type": "Scheme",
+     "english_name": "Digital Monitoring"
+    },
+    {
+     "name": "నియంత్రిత యాక్సెస్",
+     "type": "Scheme",
+     "english_name": "Controlled Access"
+    },
+    {
+     "name": "ప్రామాణిక పరీక్షా నిబంధనలు",
+     "type": "Scheme",
+     "english_name": "Standardized Test Protocols"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మెగా డీఎస్సీ-2025",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పు గోదావరి జిల్లా",
+     "evidence": "తూర్పు గోదావరి జిల్లాలో 11 మంది అభ్యర్థులను అనర్హులుగా ప్రకటించారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fb96bfcd3c7d8fae43c29ad40141c0fddb67de7d": {
+   "entities": [
+    {
+     "name": "G.O.Ms.No.47",
+     "type": "Organization",
+     "english_name": "Government Order"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh (SAAP)",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Department of General Administration (Services-D)",
+     "type": "Organization",
+     "english_name": "Department of General Administration"
+    },
+    {
+     "name": "TET/DSC exams",
+     "type": "Scheme",
+     "english_name": "TET/DSC exams"
+    },
+    {
+     "name": "MSP quota",
+     "type": "Scheme",
+     "english_name": "MSP quota"
+    },
+    {
+     "name": "merit sports persons",
+     "type": "Person",
+     "english_name": "merit sports persons"
+    },
+    {
+     "name": "B.P.Ed./D.P.Ed. qualifications",
+     "type": "Claim",
+     "english_name": "B.P.Ed./D.P.Ed. qualifications"
+    },
+    {
+     "name": "PET/SA (Physical Education) posts",
+     "type": "Claim",
+     "english_name": "PET/SA (Physical Education) posts"
+    }
+   ],
+   "relations": [
+    {
+     "source": "merit sports persons",
+     "relation": "MAKES_CLAIM",
+     "target": "B.P.Ed./D.P.Ed. qualifications",
+     "evidence": "The G.O.Ms.No.47 provides for a temporary relaxation in the B.P.Ed./D.P.Ed. qualifications"
+    },
+    {
+     "source": "merit sports persons",
+     "relation": "MAKES_CLAIM",
+     "target": "PET/SA (Physical Education) posts",
+     "evidence": "the TET qualification for PET/SA (Physical Education) posts as per the current norms"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a7487a8e3cb240e816b09c390e4f24332cbe5ec0": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "శాఖ",
+     "type": "Organization",
+     "english_name": "Department"
+    },
+    {
+     "name": "హెల్ప్ డెస్క్",
+     "type": "Organization",
+     "english_name": "Help Desk"
+    },
+    {
+     "name": "హారిజంటల్ రిజర్వేషన్",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "జి.ఓ.ఎం.ఎస్. నెం.77",
+     "type": "Scheme",
+     "english_name": "GOMS No.77"
+    },
+    {
+     "name": "సాధారణ పరిపాలన (సర్వీసెస్-డి)",
+     "type": "Organization",
+     "english_name": "General Administration (Services-D)"
+    },
+    {
+     "name": "జోనల్ స్థాయి కమిటీలు",
+     "type": "Organization",
+     "english_name": "Zonal Level Committees"
+    },
+    {
+     "name": "రాష్ట్ర స్థాయి కమిటీ",
+     "type": "Organization",
+     "english_name": "State Level Committee"
+    },
+    {
+     "name": "తుది అప్పీళ్ల అధికారం",
+     "type": "Organization",
+     "english_name": "Final Appellate Authority"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6614ee9291f660b563392e3b5cc0d4d278544151": {
+   "entities": [
+    {
+     "name": "P. Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "SCERT",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "Mega DSC-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "Rule 5",
+     "type": "Claim",
+     "english_name": "Rule 5"
+    },
+    {
+     "name": "Rule 20(vi)",
+     "type": "Claim",
+     "english_name": "Rule 20(vi)"
+    },
+    {
+     "name": "Honourable High Court",
+     "type": "Organization",
+     "english_name": "Honourable High Court"
+    },
+    {
+     "name": "W.P. No. 26698/2025",
+     "type": "Claim",
+     "english_name": "W.P. No. 26698/2025"
+    }
+   ],
+   "relations": [
+    {
+     "source": "P. Naveen",
+     "relation": "MAKES_CLAIM",
+     "target": "Rule 5",
+     "evidence": "Rule 5 of the Mega DSC-2025 notification requires individuals already employed in government bodies, autonomous bodies, local bodies, or government-aided institutions to inform their head of office/department before applying."
+    },
+    {
+     "source": "P. Naveen",
+     "relation": "MAKES_CLAIM",
+     "target": "Rule 20(vi)",
+     "evidence": "Rule 20(vi) of the Mega DSC-2025 notification states that a candidate who does not attend certificate verification loses the right to be considered for selection."
+    },
+    {
+     "source": "P. Naveen",
+     "relation": "ACCUSES",
+     "target": "SCERT",
+     "evidence": "Allegation 5: P. Naveen blocked the credentials of L. S. K. Logis, causing him to lose the opportunity to participate in the recruitment process, with conflicting answers."
+    },
+    {
+     "source": "P. Naveen",
+     "relation": "DEFENDS",
+     "target": "Mega DSC-2025",
+     "evidence": "The facts on record regarding the allegations against P. Naveen... P. Naveen was working as an outsourced data entry operator at SCERT for routine administrative purposes."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f43df10dbf846b15136a6e4b43179790ed49968f": {
+   "entities": [
+    {
+     "name": "P. Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "Kumari Kona Tulasiramani",
+     "type": "Person",
+     "english_name": "Kumari Kona Tulasiramani"
+    },
+    {
+     "name": "BC-D category",
+     "type": "Organization",
+     "english_name": "BC-D category"
+    },
+    {
+     "name": "Mega DSC-2025 recruitment process",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025 recruitment process"
+    },
+    {
+     "name": "Zonal level Grievance Redressal Committee",
+     "type": "Organization",
+     "english_name": "Zonal level Grievance Redressal Committee"
+    },
+    {
+     "name": "Meritorious Sports Person (MSP)",
+     "type": "Organization",
+     "english_name": "Meritorious Sports Person (MSP)"
+    },
+    {
+     "name": "Subject Heading",
+     "type": "Organization",
+     "english_name": "Subject Heading"
+    }
+   ],
+   "relations": [
+    {
+     "source": "P. Naveen",
+     "relation": "ACCUSES",
+     "target": "Kumari Kona Tulasiramani",
+     "evidence": "కాబట్టి, పి. నవీన్ను బలవంతంగా రాజీనామా చేయించారని లేదా నియామక ప్రక్రియలో పాల్గొనే అవకాశాన్ని ఏకపక్షంగా దూరం చేశారనే ఆరోపణ వాస్తవ విరుద్ధం, అధికారిక రికార్డులకు పూర్తిగా వ్యతిరేకం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "41a8dcaa1ea33e463bdf9b6220b1e026188f6ba1": {
+   "entities": [
+    {
+     "name": "కుమారి కొనతాల రోజామణి",
+     "type": "Person",
+     "english_name": "Kumari Kona Talli Roja Mani"
+    },
+    {
+     "name": "బీసీ-డి కేటగిరీ",
+     "type": "Organization",
+     "english_name": "BC-D Category"
+    },
+    {
+     "name": "సాక్షి దినపత్రిక",
+     "type": "Organization",
+     "english_name": "Sakshi Daily"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "డైరెక్టర్, పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Director, School Education Department"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,417 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cb289d7d7848316a5ee787182163a04b984659c1": {
+   "entities": [
+    {
+     "name": "ITEM NO.63+68 COURT NO.3 SECTION PIL-W",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "SUPREME COURT OF INDIA",
+     "type": "Organization",
+     "english_name": "Supreme Court of India"
+    },
+    {
+     "name": "DR. SUBRAMANIAN SWAMY",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "THE STATE OF ANDHRA PRADESH & ORS.",
+     "type": "Organization",
+     "english_name": "The State of Andhra Pradesh and Others"
+    },
+    {
+     "name": "W.P.(C) No. 628/2024 (PIL-W)",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "W.P.(C) No. 630/2024 (PIL-W)",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "W.P.(C) No(s). 645/2024",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "HON'BLE MR. JUSTICE B.R. GAVAI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "HON'BLE MR. JUSTICE K.V. VISWANATHAN",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rajshekhar Rao, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Ajay Agarwal, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Sonalj Jain, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Sonia Mathur, Sr. Adv",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Satyam Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rajiv Ranjan, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Sanjeev Gupta, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Mudabbera Zaheen, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Shivam Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rishikesh Kumar, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Dipanshu Krushna",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Deepak Singh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Ronika Taker, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Vipasha Jain",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Alok Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Gunjan Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Nikhil Beniwal, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Mukesh Sharma, Adv.",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1a403a19db2c426b5ac7a8c0cb6a3c251189238d": {
+   "entities": [
+    {
+     "name": "Executive Officer",
+     "type": "Person",
+     "english_name": "Executive Officer"
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanam Trust",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "writ petitions",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Sidharth Luthra",
+     "type": "Person",
+     "english_name": "Sidharth Luthra"
+    },
+    {
+     "name": "National Dairy Development Board's Centre for Analysis and Learning in Livestock and Food",
+     "type": "Organization",
+     "english_name": "NDDB CALF"
+    },
+    {
+     "name": "ghee",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Executive Officer",
+     "relation": "MAKES_CLAIM",
+     "target": "writ petitions",
+     "evidence": "statement to the contrary that adulterated ghee was never used"
+    },
+    {
+     "source": "Sidharth Luthra",
+     "relation": "MAKES_CLAIM",
+     "target": "writ petitions",
+     "evidence": "submitted that the ghee which was supplied in the tankers in June, 2024 upto 04.07.2024, were not sent for analysis pertaining to the adulteration"
+    },
+    {
+     "source": "Sidharth Luthra",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee",
+     "evidence": "submitted that it is only the ghee received in the two tankers supplied on 06.07.2024 and in the two tankers supplied on 12.07.2024 which were supplied by the same supplier, that were sent to the National Dairy Development Board's Centre for Analysis and Learning in Livestock and Food (for short ‘NDDB CALF’). He submits that in all the four samples, the ghee was found to be adulterated."
+    },
+    {
+     "source": "Executive Officer",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee",
+     "evidence": "statement made by the Executive Officer to the effect that adulterated ghee was never used to prepare laddus is only with regard to the tankers which were supplied on 06.07.2024 and 12.07.2024"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "758761e04c8ded47e2c9e3a8f97cf725287ca463": {
+   "entities": [
+    {
+     "name": "Mr. Ragav Awasthi, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Dinesh Sharma, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Mohit Nagar, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Gurrick Jassar, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Deepak Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Anurag Pandey, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Akash, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Mukesh Kumar, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Ashish Pandey, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Sarjan Shankar Kulshreshta, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Baani Khanna, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Robin Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Palak Bishnoi, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rohit Kumar, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Govinda Choudhary",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Mukul Rohatgi, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Sidharth Luthra, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Siddharth Agarwal, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. D. Srinivas, A.G.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Guntur Pramod Kumar AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Dhruv Yadav, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Prerna Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Samarth Luthra, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Keshav Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Anmol Kheta, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Rajni Gupta, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Minister of Andhra Pradesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fad76baa0e94e180aafcfcc8529cdf937e70393f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8a4d3d72939e1fef813004f41d4cde487d85d69f": {
+   "entities": [
+    {
+     "name": "NDDB CALF",
+     "type": "Organization",
+     "english_name": "NDDB CALF"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "Shri Tushar Mehta",
+     "type": "Person",
+     "english_name": "Shri Tushar Mehta"
+    },
+    {
+     "name": "Solicitor General",
+     "type": "Person",
+     "english_name": "Solicitor General"
+    },
+    {
+     "name": "ghee",
+     "type": "Claim",
+     "english_name": "ghee"
+    },
+    {
+     "name": "laddus",
+     "type": "Claim",
+     "english_name": "laddus"
+    },
+    {
+     "name": "adulteration",
+     "type": "Issue",
+     "english_name": "adulteration"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee",
+     "evidence": "a statement was made by the Chief Minister on 18.09.2024"
+    },
+    {
+     "source": "Shri Tushar Mehta",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee",
+     "evidence": "Shri Tushar Mehta, learned Solicitor General assist us in deciding as to whether the investigation by an"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

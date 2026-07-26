@@ -1,0 +1,530 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "854827609e306f0f155308663ee67083fee43afd": {
+   "entities": [
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Premier Agri Foods Dairy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka Coop Milk Producers Federation (KMF)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Alpha Milk Foods + KMF",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dauji Milk Food Pvt Ltd, Rajasthan",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sangam Milk Producers Company Ltd, Guntur",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mother Dairy Fruit & Vegetable Pvt Ltd, Tirupati",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Indapur Milk & Product Ltd, Pune",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "020ebbbeb7c1fb709069316239ad833219e0b15a": {
+   "entities": [
+    {
+     "name": "Item No: 522",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "File No M1/ 34022(31)/249/2023-Proc-Sec",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MARKETING DEPARTMENT (Procurement Wing)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "National wide dairies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The rate offered by the L1 tenderer",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs 351-00 Ps per kg",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Name of the L1 tenderer",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "M/s Premier Agri Foods Private Limited, Bareilly, UP.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Res. No. 522, dated: 26.02.2024",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Approved & ratified.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "B. KARUNAKAR REDDY",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CHAIRMAN, TTD BOARD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mar 2024 - Aug 2024",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "L1: M/s Premier Agri Foods Private Limited, Bareilly, UP. : @351 Rs. Per kg",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "L2: M/s Malganga Milk and Agro Products private limited,Ahmednagar, MH : @353 Rs. Per kg",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "L3: M/s Kirpa Ram Dairy Private Limited, Gaziabad, UP : @ 358 Rs.Per kg",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "B. KARUNAKAR REDDY",
+     "relation": "MAKES_CLAIM",
+     "target": "Approved & ratified.",
+     "evidence": "Approved & ratified."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c13491a0babf3babaa47ec865c8a11c2dd172ba1": {
+   "entities": [
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "B.R. NAIDU",
+     "type": "Person",
+     "english_name": "B.R. Naidu"
+    },
+    {
+     "name": "Marketing Department (Procurement Wing)",
+     "type": "Organization",
+     "english_name": "Marketing Department (Procurement Wing)"
+    },
+    {
+     "name": "M/s Karnataka Milk Foods Pvt Ltd",
+     "type": "Organization",
+     "english_name": "M/s Karnataka Milk Foods Pvt Ltd"
+    },
+    {
+     "name": "Bangalore",
+     "type": "Place",
+     "english_name": "Bangalore"
+    },
+    {
+     "name": "M/s Alpha Milk Foods Limited",
+     "type": "Organization",
+     "english_name": "M/s Alpha Milk Foods Limited"
+    },
+    {
+     "name": "Hatras, New Delhi",
+     "type": "Place",
+     "english_name": "Hatras, New Delhi"
+    },
+    {
+     "name": "L1 tenderer",
+     "type": "Organization",
+     "english_name": "L1 tenderer"
+    },
+    {
+     "name": "M/s Karnataka Coop Milk Producers Federation Ltd.",
+     "type": "Organization",
+     "english_name": "M/s Karnataka Coop Milk Producers Federation Ltd."
+    },
+    {
+     "name": "M/s Indapur Dairy and Milk Products Limited",
+     "type": "Organization",
+     "english_name": "M/s Indapur Dairy and Milk Products Limited"
+    },
+    {
+     "name": "Maharashtra",
+     "type": "Place",
+     "english_name": "Maharashtra"
+    },
+    {
+     "name": "M/s Premier Agri Foods Private Limited",
+     "type": "Organization",
+     "english_name": "M/s Premier Agri Foods Private Limited"
+    },
+    {
+     "name": "Bariely",
+     "type": "Place",
+     "english_name": "Bariely"
+    },
+    {
+     "name": "M/s Kolhapur Zilla Sahakari Doodh Utpadak Sangh Limited",
+     "type": "Organization",
+     "english_name": "M/s Kolhapur Zilla Sahakari Doodh Utpadak Sangh Limited"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Marketing Department (Procurement Wing)",
+     "relation": "LOCATED_IN",
+     "target": "Bangalore",
+     "evidence": "Dept. : MARKETING DEPARTMENT (Procurement Wing)"
+    },
+    {
+     "source": "M/s Karnataka Milk Foods Pvt Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Bangalore",
+     "evidence": "M/s Karnataka Milk\nFoods Pvt Ltd,\nBangalore"
+    },
+    {
+     "source": "M/s Alpha Milk Foods Limited",
+     "relation": "LOCATED_IN",
+     "target": "Hatras, New Delhi",
+     "evidence": "M/s Alpha Milk Foods\nLimited, Hatras, New\nDelhi"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "51b20c3aa379bd37e67d36aa19f90ec6f7c803ce": {
+   "entities": [
+    {
+     "name": "Item No: 182",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "File No: M1/ 34022(31)/121/2024-Proc-Sec",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Department: Marketing Department (Procurement Wing)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sub: Purchase 20,00,000 Kgs of Milk through Agmark Special Grade from Tankers within 800 Kms to Tirumala for 6 months - placed before Purchase Committee - Recommendations for approval by Purchase Committee - for TTD Board - Regarding.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Current Purchase Rate",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 495-00 Ps per kg National wide dairies 10,00,000 Kgs",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Existing Supplier",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. Karnataka Co-operative Milk Producers Federation Limited, Bangalore",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rate offered by L1 Tender",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rs 513-00 Ps per kg (800kms 20,00,000 kgs)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Name of L1 Tender",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. Karnataka Co-operative Milk Producers Federation Limited, Bangalore",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Res. No. 182, dated: 31.01.2025",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TTD Board Resolution No. 377, dated: 28.09.2011",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CVC Guidelines",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sd/- B.R. NAIDU, CHAIRMAN, TTD BOARD",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4f91bee0a838c6d9b722153f534751165aaf3944": {
+   "entities": [
+    {
+     "name": "M/s. SANGAM MILK PRODUCER COMPANY LIMITED, Guntur",
+     "type": "Organization",
+     "english_name": "Sangam Milk Producer Company Limited, Guntur"
+    },
+    {
+     "name": "B.R. NAIDU",
+     "type": "Person",
+     "english_name": "B.R. Naidu"
+    },
+    {
+     "name": "TTD BOARD",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cba668288813661b4227ae5205f2c57f2a07fa6c": {
+   "entities": [
+    {
+     "name": "M1/34022(31)/17/2025-Proc-Sec",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MARKETING DEPARTMENT (Procurement Wing)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "National Wide Dairies",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Purchase committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Res. No. 292",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "B.R. NAIDU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka Coop Milk Producers Federation Ltd., Bangalore.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Indapur Dairy and Milk Product Limited, Indapur",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "87fec947b82ae8889262cbad45e7aaec195eae9c": {
+   "entities": [
+    {
+     "name": "Marketing Department (Procurement Wing)",
+     "type": "Organization",
+     "english_name": "Marketing Department (Procurement Wing)"
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "M/s. Sangam Milk Producers Company Limited",
+     "type": "Organization",
+     "english_name": "M/s. Sangam Milk Producers Company Limited"
+    },
+    {
+     "name": "M/s. Karnataka Co-operative Milk Producers Federation Limited",
+     "type": "Organization",
+     "english_name": "M/s. Karnataka Co-operative Milk Producers Federation Limited"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "07d5babef8aeba85a9b5c8180c5cbbf12dbbd772": {
+   "entities": [
+    {
+     "name": "M/s Mother Dairy Fruit & Vegetable Pvt Ltd, Tirupati",
+     "type": "Organization",
+     "english_name": "Mother Dairy Fruit & Vegetable Pvt Ltd"
+    },
+    {
+     "name": "M/s Indapur Dairy and Milk Product Limited, Indapur",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Product Limited"
+    },
+    {
+     "name": "M/s Karnataka Coop Milk Producers Federation Ltd., Bangalore",
+     "type": "Organization",
+     "english_name": "Karnataka Coop Milk Producers Federation Ltd."
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "B.R. NAIDU",
+     "type": "Person",
+     "english_name": "B.R. Naidu"
+    },
+    {
+     "name": "Purchase Committee",
+     "type": "Organization",
+     "english_name": "Purchase Committee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cc5e0447a3ea3a55f45709ff227595244cba12cb": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "National wide Dairies",
+     "type": "Organization",
+     "english_name": "National wide Dairies"
+    },
+    {
+     "name": "M/s Indapur Milk and Product Ltd, Pune",
+     "type": "Organization",
+     "english_name": "M/s Indapur Milk and Product Ltd, Pune"
+    },
+    {
+     "name": "M/s Mother Dairy Fruit & Vegetable Pvt Ltd, Tirupati",
+     "type": "Organization",
+     "english_name": "M/s Mother Dairy Fruit & Vegetable Pvt Ltd, Tirupati"
+    },
+    {
+     "name": "M/s Karnataka Coop Milk Producers Federation Ltd., Bangalore",
+     "type": "Organization",
+     "english_name": "M/s Karnataka Coop Milk Producers Federation Ltd., Bangalore"
+    },
+    {
+     "name": "B.R. Naidu",
+     "type": "Person",
+     "english_name": "B.R. Naidu"
+    },
+    {
+     "name": "Purchase Committee",
+     "type": "Organization",
+     "english_name": "Purchase Committee"
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "Rs.658.00 per kg",
+     "type": "Claim",
+     "english_name": "Rs.658.00 per kg"
+    },
+    {
+     "name": "Rs.709.00 per kg",
+     "type": "Claim",
+     "english_name": "Rs.709.00 per kg"
+    },
+    {
+     "name": "Rs.750.00 per kg",
+     "type": "Claim",
+     "english_name": "Rs.750.00 per kg"
+    },
+    {
+     "name": "Procurement of 10,00,000 Kgs of Cow Ghee through tankers from the National wide Dairies",
+     "type": "Scheme",
+     "english_name": "Procurement of 10,00,000 Kgs of Cow Ghee through tankers from the National wide Dairies"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

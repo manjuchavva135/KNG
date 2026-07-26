@@ -1,0 +1,36 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "daa78c11de89e8348e199b5e46af415592ddde20": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "236a3c4924b712806ef99a1d88bd0d729bf1fbf8": {
+   "entities": [
+    {
+     "name": "Coach Challa Ramu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Matsa Santhoshi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Konda Velagada(V)",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "094539f46c1c2ba7263a167af57fa11a3037fb03": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

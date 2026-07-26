@@ -1,0 +1,74 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7f10ea973235fc103f4764ce744d6d956995bc50": {
+   "entities": [
+    {
+     "name": "MEGA DSC (TEACHER RECRUITMENT TEST) – 2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC (Teacher Recruitment Test) – 2025"
+    },
+    {
+     "name": "GOVINDU DEVIPRIYANKA",
+     "type": "Person",
+     "english_name": "Govindu Devipriyanka"
+    },
+    {
+     "name": "G RAMAKRISHNAIAH",
+     "type": "Person",
+     "english_name": "G Ramakrishnaiah"
+    },
+    {
+     "name": "apdsc.apcfss.in",
+     "type": "Organization",
+     "english_name": "apdsc.apcfss.in"
+    },
+    {
+     "name": "SV COLLEGE OF ENGINEERING",
+     "type": "Organization",
+     "english_name": "SV College of Engineering"
+    },
+    {
+     "name": "KADAPA",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "Anantapur (Urban)",
+     "type": "Place",
+     "english_name": "Anantapur (Urban)"
+    },
+    {
+     "name": "Certificate Verification",
+     "type": "Claim",
+     "english_name": "Certificate Verification"
+    }
+   ],
+   "relations": [
+    {
+     "source": "GOVINDU DEVIPRIYANKA",
+     "relation": "MAKES_CLAIM",
+     "target": "Certificate Verification",
+     "evidence": "is hereby requested to attend for Certificate Verification in person as per the schedule given below."
+    },
+    {
+     "source": "apdsc.apcfss.in",
+     "relation": "LOCATED_IN",
+     "target": "KADAPA",
+     "evidence": "Venue: kdp_committee_14, SV COLLEGE OF ENGINEERING, BALAJI NAGAR, KADAPA"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7b0667d433c23d1450004cd250cabfe48aaa9940": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "473c831b2c05f1b3d6ef3e75ce51a3c8347682a5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

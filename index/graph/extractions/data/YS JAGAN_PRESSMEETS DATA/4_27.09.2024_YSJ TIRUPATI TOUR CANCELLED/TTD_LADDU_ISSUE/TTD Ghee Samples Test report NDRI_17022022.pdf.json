@@ -1,0 +1,85 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "156d414e9228bb16f963a7af006c8409b5b1f608": {
+   "entities": [
+    {
+     "name": "ICAR-NATIONAL DAIRY RESEARCH INSTITUTE",
+     "type": "Organization",
+     "english_name": "ICAR-National Dairy Research Institute"
+    },
+    {
+     "name": "Southern Regional Station",
+     "type": "Organization",
+     "english_name": "Southern Regional Station"
+    },
+    {
+     "name": "Adugodi",
+     "type": "Place",
+     "english_name": "Adugodi"
+    },
+    {
+     "name": "Bengaluru",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "T.T. Devasthanams",
+     "type": "Organization",
+     "english_name": "T.T. Devasthanams"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Dy. Executive Officer (Ware Housing)",
+     "type": "Person",
+     "english_name": "Dy. Executive Officer (Ware Housing)"
+    },
+    {
+     "name": "Dr. B. SRINIVAS",
+     "type": "Person",
+     "english_name": "Dr. B. Srinivasa"
+    },
+    {
+     "name": "Dr. Laxmana Naik. N",
+     "type": "Person",
+     "english_name": "Dr. Laxmana Naik N"
+    },
+    {
+     "name": "Dairy Chemistry & Bacteriolog. Section",
+     "type": "Organization",
+     "english_name": "Dairy Chemistry & Bacteriology Section"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ICAR-NATIONAL DAIRY RESEARCH INSTITUTE",
+     "relation": "LOCATED_IN",
+     "target": "Bengaluru",
+     "evidence": "ICAR NDRI Adugodi, Bengaluru - 560030"
+    },
+    {
+     "source": "Southern Regional Station",
+     "relation": "LOCATED_IN",
+     "target": "Adugodi",
+     "evidence": "Southern Regional Station, Adugodi, Bengaluru - 560 030"
+    },
+    {
+     "source": "T.T. Devasthanams",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "T.T. Devasthanams, Tirupati. Andhra Pradesh"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

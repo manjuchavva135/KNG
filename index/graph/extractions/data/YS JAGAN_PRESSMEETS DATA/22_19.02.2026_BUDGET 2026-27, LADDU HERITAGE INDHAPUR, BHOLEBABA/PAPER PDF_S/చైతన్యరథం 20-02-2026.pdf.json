@@ -1,0 +1,7364 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "45f1d298b8e1503ffb9dfabfba523c909bc154d4": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bafb9672cea14c02906c81b163b9c4d1f9b22513": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఏఐ ఇంపాక్ట్ సమ్మిట్",
+     "type": "Scheme",
+     "english_name": "AI Impact Summit"
+    },
+    {
+     "name": "హెరిటేజ్",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "నారా భువన్శ్వరి",
+     "type": "Person",
+     "english_name": "Nara Bhuvanswari"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anitha"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఢిల్లీ హైకోర్టు",
+     "type": "Organization",
+     "english_name": "Delhi High Court"
+    },
+    {
+     "name": "మోదీ",
+     "type": "Person",
+     "english_name": "Modi"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "AP"
+    },
+    {
+     "name": "భారత్ మండపం",
+     "type": "Place",
+     "english_name": "Bharat Mandapam"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Issue",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "BHOLEBABA",
+     "type": "Issue",
+     "english_name": "BHOLEBABA"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఏఐ ఇంపాక్ట్ సమ్మిట్",
+     "evidence": "ఏఐ ఇంపాక్ట్ సమ్మిట్కు హాజరుకానున్న చంద్రబాబు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "అనిత",
+     "evidence": "జగన్ దుర్మార్గ రాజకీయాలపై హోంమంత్రి అనిత నిప్పులు"
+    },
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "జగన్ దుర్మార్గ రాజకీయాలపై హోంమంత్రి అనిత నిప్పులు"
+    },
+    {
+     "source": "లోకేష్",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "లోకేష్పై విమర్శలు.. మీ ఉనికి కోసమేగా.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "54134b74873ee8342ab521c895a643b6f4bdd2fa": {
+   "entities": [
+    {
+     "name": "నరేంద్ర మోదీ",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "మేక్ ఇన్ ఇండియా",
+     "type": "Scheme",
+     "english_name": "Make in India"
+    },
+    {
+     "name": "ఇండియా ఏఐ ఇంపాక్ట్ సమ్మిట్",
+     "type": "Organization",
+     "english_name": "India AI Impact Summit"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నరేంద్ర మోదీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మేక్ ఇన్ ఇండియా",
+     "evidence": "మేక్ ఇన్ ఇండియా, భారత ఆవిష్కరణ సామర్థ్యాన్ని సదస్సు చాటుతోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "34496cf2bc4a39f0bcf12fe6991d35233d13fca8": {
+   "entities": [
+    {
+     "name": "Marine Commandos",
+     "type": "Person",
+     "english_name": "Marine Commandos"
+    },
+    {
+     "name": "Naval helicopters and aircraft",
+     "type": "Organization",
+     "english_name": "Naval helicopters and aircraft"
+    },
+    {
+     "name": "Assembly",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "Speaker Ayyanapatrudu",
+     "type": "Person",
+     "english_name": "Speaker Ayyanapatrudu"
+    },
+    {
+     "name": "Deputy Speaker Raghuramakrishnam Raju",
+     "type": "Person",
+     "english_name": "Deputy Speaker Raghuramakrishnam Raju"
+    },
+    {
+     "name": "Ministers",
+     "type": "Person",
+     "english_name": "Ministers"
+    },
+    {
+     "name": "Chief Minister Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu Naidu"
+    },
+    {
+     "name": "Bhuvneswari",
+     "type": "Person",
+     "english_name": "Bhuvneswari"
+    },
+    {
+     "name": "Kuppam Area Development Authority",
+     "type": "Organization",
+     "english_name": "Kuppam Area Development Authority"
+    },
+    {
+     "name": "Project Director Vikas Marmat",
+     "type": "Person",
+     "english_name": "Project Director Vikas Marmat"
+    },
+    {
+     "name": "Dinner with Lokesh",
+     "type": "Scheme",
+     "english_name": "Dinner with Lokesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Speaker Ayyanapatrudu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Dinner with Lokesh",
+     "evidence": "Speaker Ayyanapatrudu, Deputy Speaker Raghuramakrishnam Raju, inaugurated the stalls."
+    },
+    {
+     "source": "Deputy Speaker Raghuramakrishnam Raju",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Dinner with Lokesh",
+     "evidence": "Speaker Ayyanapatrudu, Deputy Speaker Raghuramakrishnam Raju, inaugurated the stalls."
+    },
+    {
+     "source": "Chief Minister Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Dinner with Lokesh",
+     "evidence": "Chief Minister Chandrababu Naidu, Bhuvneswari, attended the wedding of Project Director Vikas Marmat."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f122dc8f7b672ab51f67ea489710cc58a7031ea7": {
+   "entities": [
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "వంగలపూడి అనిత",
+     "type": "Person",
+     "english_name": "Vangalapudi Anitha"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Kootami"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "క్లస్టర్ వర్శిటీ",
+     "type": "Scheme",
+     "english_name": "Cluster University"
+    },
+    {
+     "name": "సమగ్రశిక్ష",
+     "type": "Organization",
+     "english_name": "Samagra Shiksha"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "హోంమంత్రి",
+     "type": "Person",
+     "english_name": "Home Minister"
+    },
+    {
+     "name": "బిల్గేట్స్",
+     "type": "Person",
+     "english_name": "Bill Gates"
+    },
+    {
+     "name": "YouTube",
+     "type": "Organization",
+     "english_name": "YouTube"
+    },
+    {
+     "name": "ఒంగోలు",
+     "type": "Place",
+     "english_name": "Ongole"
+    },
+    {
+     "name": "బాపట్ల",
+     "type": "Place",
+     "english_name": "Bapatla"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "క్లస్టర్ వర్శిటీ",
+     "evidence": "వచ్చే విద్యా సంవత్సరంలో పనులు పూర్తిచేస్తాం"
+    },
+    {
+     "source": "వంగలపూడి అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "జగన్ దౌర్భాగ్య రాజకీయాలపై హోంమంత్రి వంగలపూడి అనిత నిప్పులు చెరిగారు"
+    },
+    {
+     "source": "వంగలపూడి అనిత",
+     "relation": "ACCUSES",
+     "target": "వైసీపీ",
+     "evidence": "జగన్ దౌర్భాగ్య రాజకీయాలపై హోంమంత్రి వంగలపూడి అనిత నిప్పులు చెరిగారు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "బిల్గేట్స్",
+     "evidence": "ప్రపంచం మొత్తం బిల్గేట్స్ని చూస్తుంటే.. వైసీపీ నాయకుడు ఆయన తిన్న బిస్కెట్స్ గురించి మాట్లాడుతున్నారంటూ"
+    },
+    {
+     "source": "ఒంగోలు",
+     "relation": "LOCATED_IN",
+     "target": "ఒంగోలు",
+     "evidence": "ఒంగోలు, బాపట్ల ఫుల్ జోష్!"
+    },
+    {
+     "source": "బాపట్ల",
+     "relation": "LOCATED_IN",
+     "target": "బాపట్ల",
+     "evidence": "ఒంగోలు, బాపట్ల ఫుల్ జోష్!"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9e7e4ab81370dea37dd4efced2119b0c81ebba5d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వీబీ జీ రామ్జీ పథకం",
+     "type": "Scheme",
+     "english_name": "VBI Jee Ramji Scheme"
+    },
+    {
+     "name": "స్వర్ణాంధ్ర విజన్ 2047",
+     "type": "Scheme",
+     "english_name": "Swarna Andhra Vision 2047"
+    },
+    {
+     "name": "ఉపాధి హామీ",
+     "type": "Scheme",
+     "english_name": "Employment Guarantee"
+    },
+    {
+     "name": "జల్ జీవన్ మిషన్",
+     "type": "Scheme",
+     "english_name": "Jal Jeevan Mission"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "భారత్ మండపం",
+     "type": "Organization",
+     "english_name": "Bharat Mandapam"
+    },
+    {
+     "name": "ఇండియా ఏఐ ఇంపాక్ట్ సమ్మిట్ 2026",
+     "type": "Organization",
+     "english_name": "India AI Impact Summit 2026"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వీబీ జీ రామ్జీ పథకం",
+     "evidence": "చంద్రబాబు నాయుడు అధికారులను ఆదేశించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్వర్ణాంధ్ర విజన్ 2047",
+     "evidence": "స్వర్ణాంధ్ర విజన్ 2047 లక్ష్యాలకు అనుగుణంగా"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జల్ జీవన్ మిషన్",
+     "evidence": "జల్ జీవన్ మిషన్ కింద మరమ్మతులు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f1053798b3a4b7e5223bb0c0d698641940e95983": {
+   "entities": [
+    {
+     "name": "అథారిటీ ప్రాజెక్టు డైరెక్టర్",
+     "type": "Organization",
+     "english_name": "Authority Project Director"
+    },
+    {
+     "name": "వికాస్ మర్మత్",
+     "type": "Person",
+     "english_name": "Vikas Marmat"
+    },
+    {
+     "name": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu Naidu"
+    },
+    {
+     "name": "భువనేశ్వరి",
+     "type": "Person",
+     "english_name": "Bhubaneswar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "22f7e8312ffedea3cbb43d190f6006fe51900e95": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "భువనేశ్వరి",
+     "type": "Person",
+     "english_name": "Bhubaneswar"
+    },
+    {
+     "name": "కుప్పం ఏరియా డెవలప్మెంట్ అథారిటీ",
+     "type": "Organization",
+     "english_name": "Kuppam Area Development Authority"
+    },
+    {
+     "name": "బృందావన్",
+     "type": "Place",
+     "english_name": "Brundaban"
+    },
+    {
+     "name": "జైపూర్",
+     "type": "Place",
+     "english_name": "Jaipur"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8d7d2cda18298edc7d4b1a8d1122b69d995ca122": {
+   "entities": [
+    {
+     "name": "సీఎం",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "భారత్",
+     "type": "Place",
+     "english_name": "Bharat"
+    },
+    {
+     "name": "ఇండియా ఏఐ సమ్మిట్",
+     "type": "Organization",
+     "english_name": "India AI Summit"
+    },
+    {
+     "name": "హిమంత బిశ్వశర్మ",
+     "type": "Person",
+     "english_name": "Himanta Biswa Sarma"
+    },
+    {
+     "name": "జితిన్ ప్రసాద",
+     "type": "Person",
+     "english_name": "Jitin Prasada"
+    },
+    {
+     "name": "టీసీఎస్",
+     "type": "Organization",
+     "english_name": "TCS"
+    },
+    {
+     "name": "ఐబీఎమ్",
+     "type": "Organization",
+     "english_name": "IBM"
+    },
+    {
+     "name": "యూనీసీసీ",
+     "type": "Organization",
+     "english_name": "UNICC"
+    },
+    {
+     "name": "ఎన్ఐఈఎల్ఐటీ",
+     "type": "Organization",
+     "english_name": "NIELIT"
+    },
+    {
+     "name": "ఐఐటీ మద్రాస్",
+     "type": "Organization",
+     "english_name": "IIT Madras"
+    },
+    {
+     "name": "ఎన్విడియా",
+     "type": "Organization",
+     "english_name": "NVIDIA"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8fb9986c95765ea2b59443e6df37fc4f8a5a773e": {
+   "entities": [
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "కర్నూలు క్లస్టర్ యూనివర్సిటీ",
+     "type": "Organization",
+     "english_name": "Kurnool Cluster University"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "పాణ్యం ఎమ్మెల్యే గౌరు చరితారెడ్డి",
+     "type": "Person",
+     "english_name": "Gaur Charan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "రూసా పథకం",
+     "type": "Scheme",
+     "english_name": "ROUSA Scheme"
+    },
+    {
+     "name": "రూ.139 కోట్లు",
+     "type": "Organization",
+     "english_name": "Rs.139 crores"
+    },
+    {
+     "name": "రూ.55 కోట్లు",
+     "type": "Organization",
+     "english_name": "Rs.55 crores"
+    },
+    {
+     "name": "రూ.74.5కోట్లు",
+     "type": "Organization",
+     "english_name": "Rs.74.5 crores"
+    },
+    {
+     "name": "రూ.20కోట్లు",
+     "type": "Organization",
+     "english_name": "Rs.20 crores"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "జగన్నాథగట్టు",
+     "type": "Place",
+     "english_name": "Jagannathagattu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రూసా పథకం",
+     "evidence": "అందులో రూసా పథకం కింద రూ.55 కోట్లు ఇప్పటికే ఖర్చు చేశాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "db4bf168d22757f2107c5a1a9e3e63b62c604f99": {
+   "entities": [
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "ఉగాది",
+     "type": "Scheme",
+     "english_name": "Ugadi"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "సమగ్ర శిక్షా అభియాన్",
+     "type": "Organization",
+     "english_name": "Samagra Shiksha Abhiyan"
+    },
+    {
+     "name": "ఆదర్శ పాఠశాలలు",
+     "type": "Organization",
+     "english_name": "Adarsha schools"
+    },
+    {
+     "name": "ఏపీ రెసిడెన్షియల్ ఎడ్యుకేషన్ ఇనిస్టిట్యూషన్లు",
+     "type": "Organization",
+     "english_name": "AP Residential Education Institutions"
+    },
+    {
+     "name": "సంక్షేమ శాఖ",
+     "type": "Organization",
+     "english_name": "Welfare Department"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీఎస్సీ",
+     "evidence": "త్వరలో మరో డీఎస్సీ ప్రకటించబోతున్నాం."
+    },
+    {
+     "source": "పాఠశాల విద్యాశాఖ",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు జిల్లా",
+     "evidence": "కర్నూలు జిల్లాకు ఎక్కువ ఉపాధ్యాయ పోస్టులు మంజూరు చేశాం."
+    },
+    {
+     "source": "సమగ్ర శిక్షా అభియాన్",
+     "relation": "LOCATED_IN",
+     "target": "కర్నూలు జిల్లా",
+     "evidence": "దక్షిణాది రాష్ట్రాలతో సర్వశిక్షా అభియాన్లో ఏపీలోనే ఎక్కవ జీతాలు చెల్లిస్తున్నామని చెబుతూనే.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "24ea9efd0eb35c17e3f6f52c7f51192354f1049c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ff6b10bb8269daca72a86c34342b86f3c1c99082": {
+   "entities": [
+    {
+     "name": "ఏపీ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఐబీఎంతో",
+     "type": "Organization",
+     "english_name": "IBA"
+    },
+    {
+     "name": "యూనీసీసీ",
+     "type": "Organization",
+     "english_name": "UNICC"
+    },
+    {
+     "name": "ఎన్ఐఈఎల్ఐటీ",
+     "type": "Organization",
+     "english_name": "NIELIT"
+    },
+    {
+     "name": "ఐఐటీ మద్రాస్",
+     "type": "Organization",
+     "english_name": "IIT Madras"
+    },
+    {
+     "name": "ఎన్విడియా",
+     "type": "Organization",
+     "english_name": "NVIDIA"
+    },
+    {
+     "name": "క్వాంటెలా",
+     "type": "Organization",
+     "english_name": "Quantela"
+    },
+    {
+     "name": "శ్రీధర్ గాంధీ",
+     "type": "Person",
+     "english_name": "Sridhar Gandhi"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వరల్డ్ ఎకనామిక్ ఫోరం",
+     "type": "Organization",
+     "english_name": "World Economic Forum"
+    },
+    {
+     "name": "అశ్వినీ వైష్ణవ్",
+     "type": "Person",
+     "english_name": "Ashwini Vaishnav"
+    },
+    {
+     "name": "బోర్కే బ్రెండే",
+     "type": "Person",
+     "english_name": "Borge Brende"
+    },
+    {
+     "name": "యునైటెడ్ కింగ్ డమ్",
+     "type": "Organization",
+     "english_name": "United Kingdom"
+    },
+    {
+     "name": "కనిష్క నారాయణ్",
+     "type": "Person",
+     "english_name": "Kanishka Narayan"
+    },
+    {
+     "name": "లిండి కెమరాన్",
+     "type": "Person",
+     "english_name": "Lindi Cameron"
+    },
+    {
+     "name": "శాలీ టేలర్",
+     "type": "Person",
+     "english_name": "Sally Taylor"
+    },
+    {
+     "name": "అరామ్మో",
+     "type": "Organization",
+     "english_name": "Armmm"
+    },
+    {
+     "name": "అబ్దుల్ రెహమాన్ అయితుకైర్",
+     "type": "Person",
+     "english_name": "Abdul Rahman Aithukair"
+    },
+    {
+     "name": "శాంతను నారాయణ్",
+     "type": "Person",
+     "english_name": "Santhanu Narayanan"
+    },
+    {
+     "name": "మైక్ హాలే",
+     "type": "Person",
+     "english_name": "Mike Hale"
+    },
+    {
+     "name": "కుప్పం ఏరియా డెవలప్మెంట్ అథారిటీ",
+     "type": "Organization",
+     "english_name": "Kuppam Area Development Authority"
+    },
+    {
+     "name": "జైపూర్",
+     "type": "Place",
+     "english_name": "Jaipur"
+    },
+    {
+     "name": "బృందావన్ ప్యాలెస్",
+     "type": "Place",
+     "english_name": "Brindavan Palace"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1bd3501be1ef1da5dce0c6a5821ce0efc8d94db6": {
+   "entities": [
+    {
+     "name": "Cluster University",
+     "type": "Organization",
+     "english_name": "Cluster University"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Kutami",
+     "type": "Party",
+     "english_name": "Kutami"
+    },
+    {
+     "name": "MLA Charitha Reddy",
+     "type": "Person",
+     "english_name": "Charitha Reddy"
+    },
+    {
+     "name": "Samagra Shiksha",
+     "type": "Organization",
+     "english_name": "Samagra Shiksha"
+    },
+    {
+     "name": "Nara Lokesh",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "Echcharla MLA Nadhakuditi Easwara Rao",
+     "type": "Person",
+     "english_name": "Nadhakuditi Easwara Rao"
+    },
+    {
+     "name": "Seasonal Hostels",
+     "type": "Organization",
+     "english_name": "Seasonal Hostels"
+    },
+    {
+     "name": "Parthasarathi",
+     "type": "Person",
+     "english_name": "Parthasarathi"
+    },
+    {
+     "name": "Aluru",
+     "type": "Place",
+     "english_name": "Aluru"
+    },
+    {
+     "name": "Adoni",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "Mantralayam",
+     "type": "Place",
+     "english_name": "Mantralayam"
+    },
+    {
+     "name": "Nandyal",
+     "type": "Place",
+     "english_name": "Nandyal"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "Public Enterprises Standing Committee",
+     "type": "Organization",
+     "english_name": "Public Enterprises Standing Committee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c531b4c2bedae83b65baca300e7a9f25698b852": {
+   "entities": [
+    {
+     "name": "ఒక్క ఓటు - లక్షల కోట్ల అభివృద్ధి",
+     "type": "Claim",
+     "english_name": "One vote - lakhs of crores development"
+    },
+    {
+     "name": "ఒక్క ఓటు - పోర్టులు, ఎయిర్ పోర్టులు",
+     "type": "Claim",
+     "english_name": "One vote - ports, airports"
+    },
+    {
+     "name": "ఒక్క ఓటు - ఇంటింటికి తాగు నీటి కనెక్షన్లు",
+     "type": "Claim",
+     "english_name": "One vote - household drinking water connections"
+    },
+    {
+     "name": "ఒక్క ఓటు - గుంతల్లేని రోడ్లు",
+     "type": "Claim",
+     "english_name": "One vote - pothole-free roads"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7aad357ec00bd82aeb5a11c8e5945d606a63a3c9": {
+   "entities": [
+    {
+     "name": "డిఎస్సీ నోటిఫికేషన్",
+     "type": "Scheme",
+     "english_name": "DSSC Notification"
+    },
+    {
+     "name": "దక్షిణాది రాష్ట్రాలు",
+     "type": "Place",
+     "english_name": "Southern States"
+    },
+    {
+     "name": "సర్వశిక్ష అభియాన్",
+     "type": "Organization",
+     "english_name": "Sarva Shiksha Abhiyan"
+    },
+    {
+     "name": "కేంద్ర పథకం",
+     "type": "Scheme",
+     "english_name": "Central Scheme"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "మంత్రి లోకేష్",
+     "type": "Person",
+     "english_name": "Minister Lokesh"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "డిఎస్పీ నోటిఫికేషన్",
+     "type": "Scheme",
+     "english_name": "DSP Notification"
+    },
+    {
+     "name": "బీసీ రిజర్వేషన్ల ఖరారుకు కమిషన్",
+     "type": "Organization",
+     "english_name": "Commission for BC Reservation Finalization"
+    },
+    {
+     "name": "రాజీవ్ రంజన్ మిశ్రా",
+     "type": "Person",
+     "english_name": "Rajiv Ranjan Mishra"
+    },
+    {
+     "name": "స్థానిక సంస్థల ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "Local Body Elections"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చైతన్యరథం",
+     "type": "Place",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "శ్రీలక్ష్మీ నరసింహస్వామి బ్రహ్మోత్సవాలు",
+     "type": "Scheme",
+     "english_name": "Sri Lakshmi Narasimha Swamy Brahmotsavalu"
+    },
+    {
+     "name": "విద్య, ఐటీ మంత్రి",
+     "type": "Person",
+     "english_name": "Education and IT Minister"
+    },
+    {
+     "name": "ఆలయ ఈవో",
+     "type": "Person",
+     "english_name": "Temple EO"
+    },
+    {
+     "name": "ట్రస్ట్ బోర్డు సభ్యులు",
+     "type": "Organization",
+     "english_name": "Trust Board Members"
+    },
+    {
+     "name": "కొగంటి సునీల్కుమార్",
+     "type": "Person",
+     "english_name": "Koganti Sunil Kumar"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మంత్రి లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డిఎస్సీ నోటిఫికేషన్",
+     "evidence": "త్వరలో డిఎస్సీ నోటిఫికేషన్ ఇవ్వనున్నట్టు ప్రస్తావించారు."
+    },
+    {
+     "source": "విద్య, ఐటీ మంత్రి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "శ్రీలక్ష్మీ నరసింహస్వామి బ్రహ్మోత్సవాలు",
+     "evidence": "మంగళగిరిలో ఫిబ్రవరి 22నుంచి మార్చి 5వరకు జరగనున్న శ్రీలక్ష్మీ నరసింహస్వామి బ్రహ్మోత్సవాల్లో పాల్గొనాలని విద్య, ఐటీ మంత్రి నారా లోకేషను దేవాలయ ఆహ్వాన కమిటీ సాదరంగా ఆహ్వానించింది."
+    },
+    {
+     "source": "ట్రస్ట్ బోర్డు సభ్యులు",
+     "relation": "LOCATED_IN",
+     "target": "మంగళగిరి",
+     "evidence": "గురువారం ఆలయ ఈవో, ట్రస్ట్ బోర్డు సభ్యులు ఉండవల్లి నివాసంలో మంత్రి నారా లోకేషను కలిసి ఆహ్వానపత్రిక అందించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aea12456fe6a805ebe2d7a3c41b02737851f502c": {
+   "entities": [
+    {
+     "name": "పయ్యావుల కేశవ్",
+     "type": "Person",
+     "english_name": "Piyush Keshav"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Kutami"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "రాష్ట్ర 2026-27 ఆర్థిక సంవత్సరా నికి ప్రవేశపెట్టిన బడ్జెట్",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "మైనింగ్ రంగం",
+     "type": "Organization",
+     "english_name": "Mining Department"
+    },
+    {
+     "name": "ఎక్సైజ్ శాఖ",
+     "type": "Organization",
+     "english_name": "Excise Department"
+    },
+    {
+     "name": "కియా",
+     "type": "Organization",
+     "english_name": "Kia"
+    },
+    {
+     "name": "హెచ్సీ ఎల్",
+     "type": "Organization",
+     "english_name": "HCL"
+    },
+    {
+     "name": "అశోక్ లేలాండ్",
+     "type": "Organization",
+     "english_name": "Ashok Leyland"
+    },
+    {
+     "name": "హీరో కంపెనీ",
+     "type": "Organization",
+     "english_name": "Hero Company"
+    },
+    {
+     "name": "టీసీఎస్",
+     "type": "Organization",
+     "english_name": "TCS"
+    },
+    {
+     "name": "కాగ్నిజెంట్",
+     "type": "Organization",
+     "english_name": "Cognizant"
+    },
+    {
+     "name": "గూగుల్ ఏఐ డేటా సెంటర్",
+     "type": "Organization",
+     "english_name": "Google AI Data Center"
+    },
+    {
+     "name": "లేపాక్షి నాలెడ్జ్ హబ్",
+     "type": "Organization",
+     "english_name": "Lepakshi Knowledge Hub"
+    },
+    {
+     "name": "వ్యాన్ పిక్",
+     "type": "Organization",
+     "english_name": "Van Pick"
+    },
+    {
+     "name": "బ్రాహ్మణి స్టీల్స్",
+     "type": "Organization",
+     "english_name": "Brahmani Steels"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈ",
+     "type": "Organization",
+     "english_name": "MSME"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "ACCUSES",
+     "target": "వైసీపీ",
+     "evidence": "గత ప్రభుత్వ తీరుపై ఆర్థిక మంత్రి పయ్యావుల కేశవ్ గత ప్రభుత్వ తీరుపై తీవ్ర స్థాయిలో ధ్వజమెత్తారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "87b196193a40d111d09f15c6d2febf2194f0f4cd": {
+   "entities": [
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "నైపుణ్యం పోర్టల్",
+     "type": "Scheme",
+     "english_name": "Skill Portal"
+    },
+    {
+     "name": "అధికారులు",
+     "type": "Organization",
+     "english_name": "Officials"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నైపుణ్యం పోర్టల్",
+     "evidence": "నైపుణ్యం పోర్టల్‌పై మంత్రి లోకేష్ సమీక్షిస్తూ... సాధ్యమైనంత త్వరలో పోర్టల్ ప్రారంభానికి చర్యలు తీసుకోవాలని ఆదేశించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e297e58c28c5ac1a3b4c7b4af48ee24faa0e3b45": {
+   "entities": [
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "నైపుణ్యం పోర్టల్",
+     "type": "Scheme",
+     "english_name": "Skill Portal"
+    },
+    {
+     "name": "అధ్యాపక పోస్టుల భర్తీ",
+     "type": "Scheme",
+     "english_name": "Faculty Post Recruitment"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "ఉగాది",
+     "type": "Scheme",
+     "english_name": "Ugadi"
+    },
+    {
+     "name": "కోన శశిధర్",
+     "type": "Person",
+     "english_name": "Kona Shashi Dhar"
+    },
+    {
+     "name": "నారాయణ భరత్ గుప్తా",
+     "type": "Person",
+     "english_name": "Narayan Bharat Gupta"
+    },
+    {
+     "name": "గణేష్కుమార్",
+     "type": "Person",
+     "english_name": "Ganesh Kumar"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నైపుణ్యం పోర్టల్",
+     "evidence": "నైపుణ్యం పోర్టల్‌పై మంత్రి లోకేష్ సమీక్షిస్తూ... సాధ్యమైనంత త్వరలో పోర్టల్ ప్రారంభానికి చర్యలు తీసుకోవాలని ఆదేశించారు."
+    },
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అధ్యాపక పోస్టుల భర్తీ",
+     "evidence": "రాష్ట్రంలోని యూనివర్సిటీలు, ప్రభుత్వ డిగ్రీ కళాశాలల్లో అధ్యాపక పోస్టుల భర్తీకి చేపట్టాల్సిన చర్యలపై మంత్రి లోకేష్ అధికారులతో సమీక్షించారు."
+    },
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీఎస్సీ",
+     "evidence": "గత ఏడాది నిర్వహించిన డీఎస్సీ తరహాలో ఉగాదికి విడుదల చేయబోయే జాబ్ క్యాలండర్లో అధ్యాపక పోస్టుల నోటిఫికేషన్ కూడా ఇచ్చి, భర్తీకి చర్యలు చేపట్టాలని సూచించారు."
+    },
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉగాది",
+     "evidence": "గత ఏడాది నిర్వహించిన డీఎస్సీ తరహాలో ఉగాదికి విడుదల చేయబోయే జాబ్ క్యాలండర్లో అధ్యాపక పోస్టుల నోటిఫికేషన్ కూడా ఇచ్చి, భర్తీకి చర్యలు చేపట్టాలని సూచించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a4bd605690056976178c3c633dd65e7fb489086a": {
+   "entities": [
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "ఏపీ ఎస్ఎస్డీసీ",
+     "type": "Organization",
+     "english_name": "AP SSDC"
+    },
+    {
+     "name": "ఉండవల్లి నివాసం",
+     "type": "Place",
+     "english_name": "Undavalli residence"
+    },
+    {
+     "name": "రిలయన్స్ సీబీజీ",
+     "type": "Organization",
+     "english_name": "Reliance CBG"
+    },
+    {
+     "name": "జూపిటర్",
+     "type": "Organization",
+     "english_name": "Jupiter"
+    },
+    {
+     "name": "లారెన్స్ ఫార్మా",
+     "type": "Organization",
+     "english_name": "Lawrence Pharma"
+    },
+    {
+     "name": "హెట్రో డ్రగ్స్",
+     "type": "Organization",
+     "english_name": "Hetro Drugs"
+    },
+    {
+     "name": "ఐటీఐ",
+     "type": "Organization",
+     "english_name": "ITI"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8e28a5e1397c15640397368a4af6c31247eb5be6": {
+   "entities": [
+    {
+     "name": "బాబా ఆర్గానిక్ మిల్క్ లిమిటెడ్",
+     "type": "Organization",
+     "english_name": "Baba Organic Milk Limited"
+    },
+    {
+     "name": "జగన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Reddy"
+    },
+    {
+     "name": "బొత్స",
+     "type": "Person",
+     "english_name": "Botsa"
+    },
+    {
+     "name": "భారతీరెడ్డి",
+     "type": "Person",
+     "english_name": "Bharati Reddy"
+    },
+    {
+     "name": "సాక్షి పేపర్",
+     "type": "Organization",
+     "english_name": "Sakshi Paper"
+    },
+    {
+     "name": "భారతీ సిమెంట్",
+     "type": "Organization",
+     "english_name": "Bharati Cement"
+    },
+    {
+     "name": "తాడేపల్లి ప్యాలెస్",
+     "type": "Place",
+     "english_name": "Tadepalli Palace"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "బాబా ఆర్గానిక్ మిల్క్ లిమిటెడ్",
+     "evidence": "బాబా ఆర్గానిక్ మిల్క్ లిమిటెడ్ వేరు. కనీసం రిజిస్ట్రేషన్ నెంబర్లు, కంపెనీ స్థాపించిన సంవత్సరాలు చూసుకోకుండా బురదజల్లడమే పనిగా పెట్టుకున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "108911a9eb46e55192e9a764036e2e51d37bd3b5": {
+   "entities": [
+    {
+     "name": "జగన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Reddy"
+    },
+    {
+     "name": "Heritage",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "Indhapur",
+     "type": "Organization",
+     "english_name": "Indhapur"
+    },
+    {
+     "name": "Bhole Baba",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Laddoo",
+     "type": "Scheme",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "Heritage",
+     "evidence": "కల్తీ గురించి మాటాడమంటే.. హెరిటేజ్, ఇందాపూర్ అంటూ సంబంధంలేని విషయాలను లాగుతున్నారు."
+    },
+    {
+     "source": "జగన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "Indhapur",
+     "evidence": "కల్తీ గురించి మాటాడమంటే.. హెరిటేజ్, ఇందాపూర్ అంటూ సంబంధంలేని విషయాలను లాగుతున్నారు."
+    },
+    {
+     "source": "జగన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "Bhole Baba",
+     "evidence": "జగన్ రెడ్డి! కానీ మీరు పాలు ప్రొక్యూర్మెంట్ అవసరం లేదనేలా టెండర్ కండిషన్లు మార్చేశారు."
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "ఆధారాలు లేకుండా థంబ్నైల్స్ రాజకీయాలు చేయడం మానుకోండి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "53704ce2dd1e61618aeabdb8d92e40059418ca28": {
+   "entities": [
+    {
+     "name": "పయ్యావుల కేశవ్",
+     "type": "Person",
+     "english_name": "Piyavula Keshav"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఆదిత్య నాథ్ దాస్",
+     "type": "Person",
+     "english_name": "Aditya Nath Das"
+    },
+    {
+     "name": "రాయలసీమ హార్టికల్చర్ హబ్",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Horticulture Hub"
+    },
+    {
+     "name": "హంద్రీ - నీవా కాల్వలు",
+     "type": "Scheme",
+     "english_name": "Handri-Neiva Canals"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "టీసీఎస్",
+     "type": "Organization",
+     "english_name": "TCS"
+    },
+    {
+     "name": "కాగ్నిజెంట్",
+     "type": "Organization",
+     "english_name": "Cognizant"
+    },
+    {
+     "name": "గూగుల్ ఏఐ డేటా సెంటర్",
+     "type": "Organization",
+     "english_name": "Google AI Data Center"
+    },
+    {
+     "name": "ఎల్, అశోక్ లేలాండ్",
+     "type": "Organization",
+     "english_name": "L, Ashok Leyland"
+    },
+    {
+     "name": "హీరో కంపెనీ",
+     "type": "Organization",
+     "english_name": "Hero Company"
+    },
+    {
+     "name": "లేపాక్షి నాలెడ్జ్ హబ్",
+     "type": "Organization",
+     "english_name": "Lepakshi Knowledge Hub"
+    },
+    {
+     "name": "బ్రాహ్మణి స్టీల్స్",
+     "type": "Organization",
+     "english_name": "Brahmani Steels"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈ",
+     "type": "Organization",
+     "english_name": "MSME"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "NDA",
+     "type": "Party",
+     "english_name": "NDA"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "DSC Scam",
+     "type": "Issue",
+     "english_name": "DSC Scam"
+    },
+    {
+     "name": "బడ్జెట్/CAG",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "రాయలసీమ ప్రాజెక్టులకు జగన్ చేసిన ద్రోహాన్ని మంత్రి పయ్యావుల వివరించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాయలసీమ హార్టికల్చర్ హబ్",
+     "evidence": "చంద్రబాబు చొరవతో సీమ ఉత్పత్తులకు బ్రాండింగ్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "హంద్రీ - నీవా కాల్వలు",
+     "evidence": "ఒక్క ఓటు - రాయలసీమకు హంద్రీ - నీవా కాల్వల"
+    },
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "DEFENDS",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "తన బడ్జెట్ రిప్లైలో 'ఒక్క ఓటు.. వంద లాభాలు' అంటూ కూటమి ప్రభుత్వం చేసిన పనులను మంత్రి పయ్యావుల ప్రస్తావించారు."
+    },
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "DEFENDS",
+     "target": "రాయలసీమ హార్టికల్చర్ హబ్",
+     "evidence": "చంద్రబాబు చొరవతో సీమ ఉత్పత్తులకు బ్రాండింగ్"
+    },
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "DEFENDS",
+     "target": "హంద్రీ - నీవా కాల్వలు",
+     "evidence": "ఒక్క ఓటు - రాయలసీమకు హంద్రీ - నీవా కాల్వల"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a3ae32d158e9818c2641ec68ea341a589d0c9c68": {
+   "entities": [
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "Media"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "భారతీరెడ్డి",
+     "type": "Person",
+     "english_name": "Bharathireddy"
+    },
+    {
+     "name": "సాక్షి పేపర్",
+     "type": "Organization",
+     "english_name": "Sakshi Paper"
+    },
+    {
+     "name": "భారతీ సిమెంట్",
+     "type": "Organization",
+     "english_name": "Bharathi Cement"
+    },
+    {
+     "name": "పాల",
+     "type": "Organization",
+     "english_name": "Milk"
+    },
+    {
+     "name": "తాడేపల్లి ప్యాలెస్",
+     "type": "Place",
+     "english_name": "Tadepalli Palace"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "బోలే బాబా",
+     "type": "Organization",
+     "english_name": "Bhole Baba"
+    },
+    {
+     "name": "బోలే బాబా మిల్క్ ఫుడ్ ఇండస్ట్రీస్",
+     "type": "Organization",
+     "english_name": "Bhole Baba Milk Food Industries"
+    },
+    {
+     "name": "బోలే బాబా ఆర్గానిక్ మిల్క్ లిమిటెడ్",
+     "type": "Organization",
+     "english_name": "Bhole Baba Organic Milk Limited"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "హెరిటేజ్",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anitha"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "వరల్డ్ కప్",
+     "type": "Organization",
+     "english_name": "World Cup"
+    },
+    {
+     "name": "తిరుమల లడ్డు",
+     "type": "Organization",
+     "english_name": "Tirumala Laddu"
+    },
+    {
+     "name": "సిట్",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "ఎన్డీడీబీ",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "వైవీ సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "YV Subba Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "బోలే బాబా ఆర్గానిక్ మిల్క్ లిమిటెడ్",
+     "evidence": "స్కామ్లో ఉన్నది, సీబీఐ చార్జ్ షీట్లో నిందితుడిగా ఉన్నది ఈ కంపెనీయే."
+    },
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "మీరు సూట్ కేస్ కంపెనీలు నడిపే మీకు, సిస్టమాటిక్‌గా వ్యాపారం చేసే కంపెనీల విలువల గురించి ఏం తెలుస్తుంది?"
+    },
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "నిజంగా మీకు దమ్ముంటే చర్చకు రండి, మీ అజ్ఞానాన్ని ప్రజల ముందు ఉంచుతాం అని హోంమంత్రి అనిత తీవ్ర స్వరంతో హెచ్చరించారు."
+    },
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "తిరుమల లడ్డు",
+     "evidence": "తిరుమల లడ్డులో రసాయనాల ముద్ద కలిసింది నిజమని సిట్ రిపోర్ట్, ఎన్డీడీబీ రిపోర్ట్ తేల్చి చెప్పాయి."
+    },
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "సాక్షాత్తు మీ బాబాయి వైవీ సుబ్బారెడ్డే మీ హయాంలో నెయ్యి కల్తీ జరిగిందని ఒప్పుకున్నారు."
+    },
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "కల్తీ జరిగిందని తెలిసినప్పుడు ఆ టెండర్లను ఎందుకు రద్దు చేయలేదు? టెండర్ నిబంధనలను ఎందుకు నీరుగార్చారు?"
+    },
+    {
+     "source": "అనిత",
+     "relation": "MEMBER_OF",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "హోంమంత్రి అనిత తీవ్ర స్వరంతో హెచ్చరించారు."
+    },
+    {
+     "source": "లోకేష్",
+     "relation": "MEMBER_OF",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "యువ నాయకుడిగా ఆయన ఎదుగుతుంటే చూసి నేర్చుకోండి తప్ప, ఇలా బురద చల్లకండి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4d28d621b694ca8a12d72d69fb0bcbbe6e8a3d28": {
+   "entities": [
+    {
+     "name": "హోంమంత్రి అనిత",
+     "type": "Person",
+     "english_name": "Home Minister Anitha"
+    },
+    {
+     "name": "జగన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "హోంమంత్రి అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్ రెడ్డి",
+     "evidence": "జగన్ రెడ్డి కూడా అదే చేస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f9288118c104b537854bd7463d26e19bfdbc2d5b": {
+   "entities": [
+    {
+     "name": "మేము",
+     "type": "Person",
+     "english_name": "We"
+    },
+    {
+     "name": "చైర్మన్",
+     "type": "Person",
+     "english_name": "Chairman"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    },
+    {
+     "name": "డిఎస్సీ పోస్టులు",
+     "type": "Scheme",
+     "english_name": "DSC Posts"
+    },
+    {
+     "name": "కానిస్టేబుల్ ఉద్యోగాలు",
+     "type": "Scheme",
+     "english_name": "Constable Jobs"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "బిల్ గేట్స్",
+     "type": "Person",
+     "english_name": "Bill Gates"
+    },
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "వైవి సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "YV Subba Reddy"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "03c6dfeea21388d2baa4343b668d3c9f5c00ebf5": {
+   "entities": [
+    {
+     "name": "నారా భువన్వేశ్వరి",
+     "type": "Person",
+     "english_name": "Nara Bhuvanaeswari"
+    },
+    {
+     "name": "Heritage Foods",
+     "type": "Organization",
+     "english_name": "Heritage Foods"
+    },
+    {
+     "name": "సాక్షి మీడియా",
+     "type": "Organization",
+     "english_name": "Sakshi Media"
+    },
+    {
+     "name": "బోలెబాబా డెయిరీ",
+     "type": "Organization",
+     "english_name": "Bolebaba Dairy"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఢిల్లీ హైకోర్టు",
+     "type": "Organization",
+     "english_name": "Delhi High Court"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "Achchennaidu"
+    },
+    {
+     "name": "పాడి రైతు సాధికారత",
+     "type": "Issue",
+     "english_name": "Dairy Farmer Empowerment"
+    },
+    {
+     "name": "హెరిటేజ్ పారదర్శకత",
+     "type": "Issue",
+     "english_name": "Heritage Transparency"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ab1001799ec273884296a82482fc4e0e597a81dd": {
+   "entities": [
+    {
+     "name": "మంత్రి అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "Minister Achchennaidu"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "మండలి",
+     "type": "Organization",
+     "english_name": "Council"
+    },
+    {
+     "name": "ఎల్వోపీ బొత్స సత్యనారాయణ",
+     "type": "Person",
+     "english_name": "Lopv Botsa Satyanarayana"
+    },
+    {
+     "name": "హెరిటేజ్",
+     "type": "Organization",
+     "english_name": "Heritage"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మంత్రి అచ్చెన్నాయుడు",
+     "relation": "ACCUSES",
+     "target": "వైసీపీ",
+     "evidence": "వైసీపీకి సిగ్గులేదంటూ వ్యాఖ్యలు చేశారు."
+    },
+    {
+     "source": "మంత్రి అచ్చెన్నాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఎల్వోపీ బొత్స సత్యనారాయణ",
+     "evidence": "ఎల్వోపీ బొత్స సత్యనారాయణ ప్రెస్మీట్ పెట్టి.. చీజ్ ప్యాకెట్ చూపించి నెయ్యి అంటూ అసత్య ప్రచారం చేస్తున్నారని అచ్చెన్నాయుడు ఆరోపించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9689175d396b5364679635822c54ee2a8cd1b20e": {
+   "entities": [
+    {
+     "name": "హోం మంత్రి అనిత",
+     "type": "Person",
+     "english_name": "Home Minister Anita"
+    },
+    {
+     "name": "జగన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Reddy"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    },
+    {
+     "name": "డిఎస్సీ పోస్టులు",
+     "type": "Scheme",
+     "english_name": "DSC Posts"
+    },
+    {
+     "name": "కానిస్టేబుల్ ఉద్యోగాలు",
+     "type": "Scheme",
+     "english_name": "Constable Jobs"
+    },
+    {
+     "name": "పెన్షన్",
+     "type": "Scheme",
+     "english_name": "Pension"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    }
+   ],
+   "relations": [
+    {
+     "source": "హోం మంత్రి అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్ రెడ్డి",
+     "evidence": "జగన్ రెడ్డి కూడా అదే చేస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "811f24e5e6cff16a17e10315c369c1ac46a8278c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2239ffdb60520bf2de89bbe6399e1109570b8ffe": {
+   "entities": [
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "15వ ఆర్థిక సంఘం",
+     "type": "Organization",
+     "english_name": "15th Finance Commission"
+    },
+    {
+     "name": "పంచాయతీ రాజ్, గ్రామీణాభివృద్ధి శాఖ",
+     "type": "Organization",
+     "english_name": "Panchayat Raj and Rural Development Department"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నారా లోకేష్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ జాతీయ ప్రధాన కార్యదర్శి లోకేష్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "07e137cb8b999f9a3e73edad6f0219d95bc0fbf9": {
+   "entities": [
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "విద్యుత్ శాఖ మంత్రి గొట్టిపాటి రవికుమార్",
+     "type": "Person",
+     "english_name": "Gottipati Ravikumar"
+    },
+    {
+     "name": "ఏపీఈపీడీసీఎల్",
+     "type": "Organization",
+     "english_name": "APEPDC"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "ఎమ్మెల్యే బండారు సత్యానందరావు",
+     "type": "Person",
+     "english_name": "Bandaru Satyanandarao"
+    },
+    {
+     "name": "ఎమ్మెల్యే కొణతాల రామకృష్ణ",
+     "type": "Person",
+     "english_name": "Konala Ramakrishna"
+    },
+    {
+     "name": "లో-వోల్టేజ్ సమస్యలు",
+     "type": "Issue",
+     "english_name": "Low-voltage issues"
+    },
+    {
+     "name": "ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "type": "Scheme",
+     "english_name": "Free agricultural electricity connections"
+    },
+    {
+     "name": "2028-30 నాటికి",
+     "type": "Scheme",
+     "english_name": "2028-30 target"
+    },
+    {
+     "name": "4000 మెగావాట్ల ఉత్పత్తి లక్ష్యం",
+     "type": "Scheme",
+     "english_name": "4000 MW generation target"
+    }
+   ],
+   "relations": [
+    {
+     "source": "విద్యుత్ శాఖ మంత్రి గొట్టిపాటి రవికుమార్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "evidence": "రాష్ట్రవ్యాప్తంగా 22,30,703 ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు ఉన్నాయని మంత్రి గొట్టిపాటి రవికుమార్ అసెంబ్లీలో ప్రకటించారు."
+    },
+    {
+     "source": "విద్యుత్ శాఖ మంత్రి గొట్టిపాటి రవికుమార్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "2028-30 నాటికి",
+     "evidence": "2028-30 నాటికి 4000 మెగావాట్ల ఉత్పత్తి లక్ష్యం."
+    },
+    {
+     "source": "విద్యుత్ శాఖ మంత్రి గొట్టిపాటి రవికుమార్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "4000 మెగావాట్ల ఉత్పత్తి లక్ష్యం",
+     "evidence": "2028-30 నాటికి 4000 మెగావాట్ల ఉత్పత్తి లక్ష్యం."
+    },
+    {
+     "source": "ఏపీఈపీడీసీఎల్",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి(చైతన్యరథం): ఏపీ తూర్పు ప్రాంత విద్యుత్ పంపి ణీ సంస్థ (ఏపీఈపీడీసీఎల్) పరిధిలో"
+    },
+    {
+     "source": "ఎమ్మెల్యే బండారు సత్యానందరావు",
+     "relation": "ACCUSES",
+     "target": "విద్యుత్ శాఖ మంత్రి గొట్టిపాటి రవికుమార్",
+     "evidence": "గురువారం అసెంబ్లీ వేదిక గా ఎమ్మెల్యే బండారు సత్యానందరావు అడిగిన ప్రశ్నకు మంత్రి సమాధానమిస్తూ ఈ కీలక ప్రకటన చేశారు."
+    },
+    {
+     "source": "ఎమ్మెల్యే కొణతాల రామకృష్ణ",
+     "relation": "ACCUSES",
+     "target": "విద్యుత్ శాఖ మంత్రి గొట్టిపాటి రవికుమార్",
+     "evidence": "ఎమ్మెల్యే కొణతాల రామకృష్ణ అడిగిన ప్రశ్నకు సమాధానంగా మంత్రి వివరాలు వెల్లడించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f0a24d5be46e6336a537b621299d526f4508d947": {
+   "entities": [
+    {
+     "name": "బొత్స సత్యనారాయణ",
+     "type": "Person",
+     "english_name": "Botsa Satyanarayana"
+    },
+    {
+     "name": "అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "Achchennaidu"
+    },
+    {
+     "name": "హెరిటేజ్ సంస్థ",
+     "type": "Organization",
+     "english_name": "Heritage Company"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "ఉండవల్లి",
+     "type": "Place",
+     "english_name": "Undavalli"
+    },
+    {
+     "name": "ఒంగోలు",
+     "type": "Place",
+     "english_name": "Ongole"
+    },
+    {
+     "name": "బాపట్ల",
+     "type": "Place",
+     "english_name": "Bapatla"
+    },
+    {
+     "name": "మాగుంట శ్రీనివాసులు రెడ్డి",
+     "type": "Person",
+     "english_name": "Magunta Srinivasulu Reddy"
+    },
+    {
+     "name": "డీఎస్ బీవీ స్వామి",
+     "type": "Person",
+     "english_name": "DS BVS Swamy"
+    },
+    {
+     "name": "దామచర్ల జనార్దన్",
+     "type": "Person",
+     "english_name": "Damacharla Janardhan"
+    },
+    {
+     "name": "కందుల నారాయణరెడ్డి",
+     "type": "Person",
+     "english_name": "Kandula Narayana Reddy"
+    },
+    {
+     "name": "ఎం అశోక్ రెడ్డి",
+     "type": "Person",
+     "english_name": "M Ashok Reddy"
+    },
+    {
+     "name": "ముక్కు ఉగ్రనరసింహారెడ్డి",
+     "type": "Person",
+     "english_name": "Mukkala Ugranasimha Reddy"
+    },
+    {
+     "name": "ఇంటూరి నాగేశ్వరరావు",
+     "type": "Person",
+     "english_name": "Inturi Nageshwara Rao"
+    },
+    {
+     "name": "తెన్నేటి కృష్ణప్రసాద్",
+     "type": "Person",
+     "english_name": "Tenneti Krishna Prasad"
+    },
+    {
+     "name": "అనగాని సత్యప్రసాద్",
+     "type": "Person",
+     "english_name": "Anagani Satya Prasad"
+    },
+    {
+     "name": "గొట్టిపాటి రవికుమార్",
+     "type": "Person",
+     "english_name": "Gottipati Ravikumar"
+    },
+    {
+     "name": "నక్కా ఆనంద్ బాబు",
+     "type": "Person",
+     "english_name": "Nakka Anand Babu"
+    },
+    {
+     "name": "ఏలూరి సాంబశివరావు",
+     "type": "Person",
+     "english_name": "Eluri Sambasiva Rao"
+    },
+    {
+     "name": "ఎంఎం కొండయ్య యాదవ్",
+     "type": "Person",
+     "english_name": "MM Kondayya Yadav"
+    },
+    {
+     "name": "వేగేశ్న నరేంద్రవర్మరాజు",
+     "type": "Person",
+     "english_name": "Vegeshna Narendra Varma Raju"
+    },
+    {
+     "name": "బీఎన్ విజయ్ కుమార్",
+     "type": "Person",
+     "english_name": "BN Vijay Kumar"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అచ్చెన్నాయుడు",
+     "relation": "ACCUSES",
+     "target": "బొత్స సత్యనారాయణ",
+     "evidence": "చీజ్ ప్యాకెట్ చూపించి నెయ్యి అంటూ అసత్య ప్రచారం చేస్తున్నారని"
+    },
+    {
+     "source": "బొత్స సత్యనారాయణ",
+     "relation": "ACCUSES",
+     "target": "హెరిటేజ్ సంస్థ",
+     "evidence": "హెరిటేజ్ సంస్థ లీగల్ నోటీసులు ఇచ్చినా వైసీపీ బుద్ధి మార్చుకోవడం లేదు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "367a5239f4375d2454d3997c57acf48bd7996421": {
+   "entities": [
+    {
+     "name": "రైతులకు ఉచిత విద్యుత్ అందించేం దుకు",
+     "type": "Claim",
+     "english_name": "Providing free electricity to farmers"
+    },
+    {
+     "name": "2025-26 ఆర్థిక సంవత్సరంలో మూడు డిస్కంల పరిధిలో రూ.839.44 కోట్లు ఖర్చు చేసినట్లు",
+     "type": "Claim",
+     "english_name": "Spent Rs.839.44 crore in three discoms in 2025-26"
+    },
+    {
+     "name": "పీఎం కుసుమ్ పథకం",
+     "type": "Scheme",
+     "english_name": "PM KUSUM scheme"
+    },
+    {
+     "name": "2,61,481 వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "type": "Claim",
+     "english_name": "2,61,481 agricultural electricity connections"
+    },
+    {
+     "name": "ఫీడర్ లెవల్ సోలార్ ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "Feeder level solar projects"
+    },
+    {
+     "name": "11 కేవీ లైన్ల దగ్గర సోలార్ పవర్ ప్లాంట్లు",
+     "type": "Scheme",
+     "english_name": "Solar power plants near 11 KV lines"
+    },
+    {
+     "name": "25 ఏళ్ల పాటు ఒకే విధమైన టారిఫ్తో విద్యుత్",
+     "type": "Claim",
+     "english_name": "Electricity at same tariff for 25 years"
+    },
+    {
+     "name": "1035 మెగావాట్ల సామర్థ్యం",
+     "type": "Claim",
+     "english_name": "1035 MW capacity"
+    },
+    {
+     "name": "2028-30 నాటికి 4000 మెగావాట్ల విద్యుత్ ఉత్పత్తి లక్ష్యం",
+     "type": "Claim",
+     "english_name": "Target of 4000 MW power generation by 2028-30"
+    },
+    {
+     "name": "9 గంటల నాణ్యమైన విద్యుత్ సరఫరా",
+     "type": "Claim",
+     "english_name": "9 hours of quality power supply"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6e26e16c9362f0335e09fab545ca6c712ac32d6c": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "మంత్రి ఫరూక్",
+     "type": "Person",
+     "english_name": "Minister Farooq"
+    },
+    {
+     "name": "శాప్ చైర్మన్ రవినాయుడు",
+     "type": "Person",
+     "english_name": "SAP Chairman Ravinaidu"
+    },
+    {
+     "name": "ఇందిరాగాంధీ మున్సిపల్ కార్పొరేషన్ స్టేడియం",
+     "type": "Place",
+     "english_name": "Indira Gandhi Municipal Corporation Stadium"
+    },
+    {
+     "name": "లెజిస్లేటివ్ స్పోర్ట్స్ మీట్-2026",
+     "type": "Scheme",
+     "english_name": "Legislative Sports Meet-2026"
+    },
+    {
+     "name": "క్రీడా మైదానాల సిద్ధత",
+     "type": "Claim",
+     "english_name": "Preparation of sports grounds"
+    },
+    {
+     "name": "ట్రాక్ అండ్ ఫీల్డ్ ఏర్పాట్లు",
+     "type": "Claim",
+     "english_name": "Track and field arrangements"
+    },
+    {
+     "name": "స్టేజ్ (వేదిక) సన్నాహాలు",
+     "type": "Claim",
+     "english_name": "Stage (venue) preparations"
+    },
+    {
+     "name": "మౌలిక వసతులు",
+     "type": "Claim",
+     "english_name": "Basic facilities"
+    },
+    {
+     "name": "ఇతర సదుపాయాలు",
+     "type": "Claim",
+     "english_name": "Other amenities"
+    },
+    {
+     "name": "గ్రీన్ రూమ్",
+     "type": "Claim",
+     "english_name": "Green room"
+    },
+    {
+     "name": "తాగునీటి వసతులు",
+     "type": "Claim",
+     "english_name": "Drinking water facilities"
+    },
+    {
+     "name": "పారిశుద్ధ్య చర్యలు",
+     "type": "Claim",
+     "english_name": "Sanitation measures"
+    },
+    {
+     "name": "వైద్య సౌకర్యాలు",
+     "type": "Claim",
+     "english_name": "Medical facilities"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "క్రీడా మైదానాల సిద్ధత",
+     "evidence": "రూ.4.12 కోట్లు జగన్ ఇచ్చారన్నారు."
+    },
+    {
+     "source": "శాప్ చైర్మన్ రవినాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "క్రీడా మైదానాల సిద్ధత",
+     "evidence": "క్రీడా మైదానాల సిద్ధత, ట్రాక్ అండ్ ఫీల్డ్ ఏర్పాట్లు, స్టేజ్ (వేదిక) సన్నాహాలు, మౌలిక వసతులు, ఇతర సదుపాయాలను ప్రత్యక్షంగా పరిశీలించారు."
+    },
+    {
+     "source": "శాప్ చైర్మన్ రవినాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "గ్రీన్ రూమ్",
+     "evidence": "గ్రీన్ రూమ్, తాగునీటి వసతులు, పారిశుద్ధ్య చర్యలు, వైద్య సౌకర్యాలు వంటి అంశాలపై ప్రత్యేక దృష్టి సారించాలని అధికారులకు సూచించారు."
+    },
+    {
+     "source": "శాప్ చైర్మన్ రవినాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "తాగునీటి వసతులు",
+     "evidence": "గ్రీన్ రూమ్, తాగునీటి వసతులు, పారిశుద్ధ్య చర్యలు, వైద్య సౌకర్యాలు వంటి అంశాలపై ప్రత్యేక దృష్టి సారించాలని అధికారులకు సూచించారు."
+    },
+    {
+     "source": "శాప్ చైర్మన్ రవినాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పారిశుద్ధ్య చర్యలు",
+     "evidence": "గ్రీన్ రూమ్, తాగునీటి వసతులు, పారిశుద్ధ్య చర్యలు, వైద్య సౌకర్యాలు వంటి అంశాలపై ప్రత్యేక దృష్టి సారించాలని అధికారులకు సూచించారు."
+    },
+    {
+     "source": "శాప్ చైర్మన్ రవినాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "వైద్య సౌకర్యాలు",
+     "evidence": "గ్రీన్ రూమ్, తాగునీటి వసతులు, పారిశుద్ధ్య చర్యలు, వైద్య సౌకర్యాలు వంటి అంశాలపై ప్రత్యేక దృష్టి సారించాలని అధికారులకు సూచించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fac0706a9a2623e8de53d03d2699190ee8d7bcef": {
+   "entities": [
+    {
+     "name": "లెజిస్లేటివ్ స్పోర్ట్స్ మీట్",
+     "type": "Issue",
+     "english_name": "Legislative Sports Meet"
+    },
+    {
+     "name": "క్రీడా శాఖ",
+     "type": "Organization",
+     "english_name": "Sports Department"
+    },
+    {
+     "name": "పరీక్షల భయం పోగొట్టాలి",
+     "type": "Issue",
+     "english_name": "Overcome Exam Fear"
+    },
+    {
+     "name": "మంత్రి డోలా బాల వీరాంజనేయస్వామి",
+     "type": "Person",
+     "english_name": "Minister Dola Balaveeranjaneya Swamy"
+    },
+    {
+     "name": "గురుకులాల ఇంటర్ విద్యార్థులు",
+     "type": "Organization",
+     "english_name": "Gurukul Intermediate Students"
+    },
+    {
+     "name": "జేఈఈ మెయిన్స్",
+     "type": "Scheme",
+     "english_name": "JEE Mains"
+    },
+    {
+     "name": "అంబేద్కర్ గురుకులాల విద్యార్థులు",
+     "type": "Organization",
+     "english_name": "Ambedkar Gurukul Students"
+    },
+    {
+     "name": "ముఖ్యమంత్రి చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మంత్రి డోలా బాల వీరాంజనేయస్వామి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జేఈఈ మెయిన్స్",
+     "evidence": "అనం తరం జేఈఈ మెయిన్స్లో అర్హత సాధించిన 161 మంది విద్యార్థులను అభినందించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bbe6618d6c6c38d46a09c518eedc684ba1242d7c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5c4afa414531546044ae2c06e03b923c15a4cbde": {
+   "entities": [
+    {
+     "name": "Feeder level solar projects",
+     "type": "Scheme",
+     "english_name": "Feeder level solar projects"
+    },
+    {
+     "name": "1035 megawatts",
+     "type": "Claim",
+     "english_name": "1035 megawatts"
+    },
+    {
+     "name": "May",
+     "type": "Claim",
+     "english_name": "May"
+    },
+    {
+     "name": "2028-30",
+     "type": "Claim",
+     "english_name": "2028-30"
+    },
+    {
+     "name": "4000 megawatts",
+     "type": "Claim",
+     "english_name": "4000 megawatts"
+    },
+    {
+     "name": "9 hours",
+     "type": "Claim",
+     "english_name": "9 hours"
+    },
+    {
+     "name": "Christian assets",
+     "type": "Issue",
+     "english_name": "Christian assets"
+    },
+    {
+     "name": "Christian Bhavan",
+     "type": "Organization",
+     "english_name": "Christian Bhavan"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "Farook",
+     "type": "Person",
+     "english_name": "Farook"
+    },
+    {
+     "name": "Assembly Question Hour",
+     "type": "Organization",
+     "english_name": "Assembly Question Hour"
+    },
+    {
+     "name": "Minority Minister",
+     "type": "Person",
+     "english_name": "Minority Minister"
+    },
+    {
+     "name": "Christian Bhavan construction",
+     "type": "Scheme",
+     "english_name": "Christian Bhavan construction"
+    },
+    {
+     "name": "TDP government",
+     "type": "Party",
+     "english_name": "TDP government"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "2014-2019",
+     "type": "Claim",
+     "english_name": "2014-2019"
+    },
+    {
+     "name": "2019-2024",
+     "type": "Claim",
+     "english_name": "2019-2024"
+    },
+    {
+     "name": "Rs. 90 crores",
+     "type": "Claim",
+     "english_name": "Rs. 90 crores"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "Christian Bhavan",
+     "evidence": "2019లో అధికారంలోకి వచ్చిన జగన్ ఆన్ గోయింగ్ ప్రాజెక్ట్ క్రిస్టియన్ భవన నిర్మాణం కోసం ఒక్క రూపాయి కూడా ఐదేళ్లలో ఖర్చు చేయలేదని ధ్వజమెత్తారు."
+    },
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "TDP government",
+     "evidence": "2019లో అధికారంలోకి వచ్చిన జగన్ ఆన్ గోయింగ్ ప్రాజెక్ట్ క్రిస్టియన్ భవన నిర్మాణం కోసం ఒక్క రూపాయి కూడా ఐదేళ్లలో ఖర్చు చేయలేదని ధ్వజమెత్తారు."
+    },
+    {
+     "source": "Farook",
+     "relation": "DEFENDS",
+     "target": "TDP government",
+     "evidence": "క్రిస్టియన్ భవన్ నిర్మాణం కోసం గత టీడీపీ ప్రభుత్వ హయాంలో రెండు ఎకరాల ప్రభుత్వ భూమి, రూ.20 కోట్లు నిధులు ముఖ్యమంత్రి చంద్రబాబు విడుదల చేసిన విషయాన్ని గుర్తు చేశారు."
+    },
+    {
+     "source": "Farook",
+     "relation": "DEFENDS",
+     "target": "Jagan",
+     "evidence": "2019లో అధికారంలోకి వచ్చిన జగన్ ఆన్ గోయింగ్ ప్రాజెక్ట్ క్రిస్టియన్ భవన నిర్మాణం కోసం ఒక్క రూపాయి కూడా ఐదేళ్లలో ఖర్చు చేయలేదని ధ్వజమెత్తారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "592d2c73f485cbb85c0a65c6bb5a1c2d36a845a6": {
+   "entities": [
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anita"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "హోంమంత్రి",
+     "type": "Person",
+     "english_name": "Home Minister"
+    },
+    {
+     "name": "భారతీరెడ్డి",
+     "type": "Person",
+     "english_name": "Bharati Reddy"
+    },
+    {
+     "name": "సాక్షి పేపర్",
+     "type": "Organization",
+     "english_name": "Sakshi Paper"
+    },
+    {
+     "name": "భారతీ సిమెంట్",
+     "type": "Organization",
+     "english_name": "Bharati Cement"
+    },
+    {
+     "name": "బోలే బాబా మిల్క్ ఫుడ్ ఇండస్ట్రీస్",
+     "type": "Organization",
+     "english_name": "Bhole Baba Milk Food Industries"
+    },
+    {
+     "name": "తాడేపల్లి ప్యాలెస్",
+     "type": "Place",
+     "english_name": "Tadepalli Palace"
+    },
+    {
+     "name": "ఇందాపూర్ డైరీ",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "హెరిటేజ్",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Scheme",
+     "english_name": "LADDU Heritage Indapur"
+    },
+    {
+     "name": "BHOLEBABA",
+     "type": "Scheme",
+     "english_name": "Bholebaba"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అనిత",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "ఇందాపూర్ డైరీని హెరిటేజ్ యూనిట్ అని జగన్ అనడం అతని అజ్ఞానానికి నిదర్శనం."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "LADDU HERITAGE INDHAPUR",
+     "evidence": "ఇందాపూర్ డైరీని హెరిటేజ్ యూనిట్ అని జగన్ అనడం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "972610d0529515f55931d41755a5fd2659e9907a": {
+   "entities": [
+    {
+     "name": "చైతన్యరథం",
+     "type": "Place",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "అమరావతి ఇన్నర్ రింగ్ రోడ్డు",
+     "type": "Scheme",
+     "english_name": "Amaravati Inner Ring Road"
+    },
+    {
+     "name": "పీపీపీ విధానం",
+     "type": "Scheme",
+     "english_name": "PPP model"
+    },
+    {
+     "name": "పొంగూరు నారాయణ",
+     "type": "Person",
+     "english_name": "Ponguru Narayana"
+    },
+    {
+     "name": "కన్నా లక్ష్మీ నారాయణ",
+     "type": "Person",
+     "english_name": "Kanna Lakshmi Narayana"
+    },
+    {
+     "name": "ఏడీబీ",
+     "type": "Organization",
+     "english_name": "ADB"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "హడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "నాబార్డ్",
+     "type": "Organization",
+     "english_name": "NABARD"
+    },
+    {
+     "name": "గుంటూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Guntur district"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "ఎన్టీఆర్ జిల్లా",
+     "type": "Place",
+     "english_name": "NTR district"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "13ffff3e0d0451e87eaa9059087b05445022bf07": {
+   "entities": [
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "చేనేత రంగ అభివృద్ధి",
+     "type": "Scheme",
+     "english_name": "Handloom Sector Development"
+    },
+    {
+     "name": "నేతన్నల అభ్యున్నతి",
+     "type": "Scheme",
+     "english_name": "Weaver Welfare"
+    },
+    {
+     "name": "చేనేత వస్త్రాల విక్రయాలు",
+     "type": "Scheme",
+     "english_name": "Handloom Cloth Sales"
+    },
+    {
+     "name": "చేనేత స్టాళ్లు",
+     "type": "Scheme",
+     "english_name": "Handloom Stalls"
+    },
+    {
+     "name": "చేనేత క్యాలెండర్",
+     "type": "Scheme",
+     "english_name": "Handloom Calendar"
+    },
+    {
+     "name": "స్పీకర్ అయ్యన్నపాత్రుడు",
+     "type": "Person",
+     "english_name": "Speaker Ayyannapantudu"
+    },
+    {
+     "name": "డిప్యూటీ స్పీకర్ రఘురామకృష్ణంరాజు",
+     "type": "Person",
+     "english_name": "Deputy Speaker Raghuramakrishnam Raju"
+    },
+    {
+     "name": "చేనేత, జౌళి శాఖ మంత్రి ఎస్.సవిత",
+     "type": "Person",
+     "english_name": "Handloom and Textiles Minister S. Savith"
+    },
+    {
+     "name": "అమరావతి అసెంబ్లీ ఆవరణ",
+     "type": "Place",
+     "english_name": "Amaravati Assembly Premises"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చేనేత స్టాళ్ల ఏర్పాటు",
+     "type": "Scheme",
+     "english_name": "Handloom Stalls Setup"
+    },
+    {
+     "name": "నేతన్నలకు ఆర్థిక భరోసా",
+     "type": "Scheme",
+     "english_name": "Weaver Financial Assurance"
+    },
+    {
+     "name": "నేతన్నలకు ఉచిత విద్యుత్ పథకం",
+     "type": "Scheme",
+     "english_name": "Free Power Scheme for Weavers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2a62e2a5a5e058abd195243bb2862119f0c82a9d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Person",
+     "english_name": "MLAs"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు",
+     "type": "Person",
+     "english_name": "MLCs"
+    },
+    {
+     "name": "స్పీకర్ అయ్యన్న పాత్రుడు",
+     "type": "Person",
+     "english_name": "Speaker Ayanna Patrudu"
+    },
+    {
+     "name": "మంత్రులు వంగలపూడి అనిత",
+     "type": "Person",
+     "english_name": "Minister Vangalapudi Anita"
+    },
+    {
+     "name": "గుమ్మడి సంధ్యరాణి",
+     "type": "Person",
+     "english_name": "Gummadi Sandhyarani"
+    },
+    {
+     "name": "చేనేత దుస్తులు",
+     "type": "Scheme",
+     "english_name": "Handloom garments"
+    },
+    {
+     "name": "పొందూరు షర్ట్లు",
+     "type": "Scheme",
+     "english_name": "Ponduru shirts"
+    },
+    {
+     "name": "పంచెలు",
+     "type": "Scheme",
+     "english_name": "Sarees"
+    },
+    {
+     "name": "కండువాలు",
+     "type": "Scheme",
+     "english_name": "Scarves"
+    },
+    {
+     "name": "మాధవవరం",
+     "type": "Place",
+     "english_name": "Madhavaram"
+    },
+    {
+     "name": "వెంకటగిరి",
+     "type": "Place",
+     "english_name": "Venkatagiri"
+    },
+    {
+     "name": "ధర్మవరం",
+     "type": "Place",
+     "english_name": "Dharmavaram"
+    },
+    {
+     "name": "రాజమండ్రి",
+     "type": "Place",
+     "english_name": "Rajamahendravaram"
+    },
+    {
+     "name": "ఉప్పాడ",
+     "type": "Place",
+     "english_name": "Uppada"
+    },
+    {
+     "name": "బందరు",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "మానపల్లి పట్టు",
+     "type": "Scheme",
+     "english_name": "Manapalli silk"
+    },
+    {
+     "name": "సాధారణ చీరలు",
+     "type": "Scheme",
+     "english_name": "Plain sarees"
+    },
+    {
+     "name": "లుంగీలు",
+     "type": "Scheme",
+     "english_name": "Lungis"
+    },
+    {
+     "name": "టవళ్లు",
+     "type": "Scheme",
+     "english_name": "Towels"
+    },
+    {
+     "name": "దుప్పట్లు",
+     "type": "Scheme",
+     "english_name": "Blankets"
+    },
+    {
+     "name": "ఇతర చేనేత వస్త్రాలు",
+     "type": "Scheme",
+     "english_name": "Other handloom fabrics"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చేనేత దుస్తులు",
+     "evidence": "చేనేత దుస్తుల అమ్మకాలు పెంచేలా స్టాళ్లు ఏర్పాటు చేయడానికి అనుమతిచ్చిన సీఎం చంద్రబాబుకు ధన్యవాదాలు తెలిపారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "536b9c058db90917e911afa0cae88df07ed921bd": {
+   "entities": [
+    {
+     "name": "స్పీకర్ అయ్యన్న పాత్రుడు",
+     "type": "Person",
+     "english_name": "Speaker Ayyanna Patrudu"
+    },
+    {
+     "name": "వంగలపూడి అనిత",
+     "type": "Person",
+     "english_name": "Vangalapudi Anita"
+    },
+    {
+     "name": "గుమ్మడి సంధ్యరాణి",
+     "type": "Person",
+     "english_name": "Gummadi Sandhyarani"
+    },
+    {
+     "name": "మంత్రి ఎస్.సవిత",
+     "type": "Person",
+     "english_name": "Minister S. Savitha"
+    },
+    {
+     "name": "ఆర్పీ సిసోడియా",
+     "type": "Person",
+     "english_name": "RP Sisodia"
+    },
+    {
+     "name": "రేఖారాణి",
+     "type": "Person",
+     "english_name": "Rekha Rani"
+    },
+    {
+     "name": "కొండపల్లి శ్రీనివాస్",
+     "type": "Person",
+     "english_name": "Kondapalli Srinivasa"
+    },
+    {
+     "name": "ఏపీ ఛాంబర్",
+     "type": "Organization",
+     "english_name": "AP Chamber of Commerce and Industry"
+    },
+    {
+     "name": "చేనేత",
+     "type": "Organization",
+     "english_name": "Handloom"
+    },
+    {
+     "name": "జౌళి శాఖ",
+     "type": "Organization",
+     "english_name": "Textile Department"
+    },
+    {
+     "name": "నేతన్నలు",
+     "type": "Organization",
+     "english_name": "Weavers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7287101216e302d055bf70908bccd792bae082a9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ఎస్.సవిత",
+     "type": "Person",
+     "english_name": "S. Savitha"
+    },
+    {
+     "name": "రాజీవ్ రంజన్ మిశ్రా",
+     "type": "Person",
+     "english_name": "Rajiv Ranjan Mishra"
+    },
+    {
+     "name": "ఏకసభ్య డెడికేటెడ్ కమిషన్",
+     "type": "Organization",
+     "english_name": "One-member Dedicated Commission"
+    },
+    {
+     "name": "స్థానిక సంస్థల ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "Local body elections"
+    },
+    {
+     "name": "బీసీ రిజర్వేషన్లు",
+     "type": "Issue",
+     "english_name": "BC reservations"
+    },
+    {
+     "name": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎస్.సవిత",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "నా బీసీలు అంటూ వెనుకబడిన కులాలకు వైసీపీ ప్రభుత్వం తీవ్ర ద్రోహం చేసిందన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb5abe51e9dadd4e8a1248a629ca12023391dcbf": {
+   "entities": [
+    {
+     "name": "బాలయ్య",
+     "type": "Person",
+     "english_name": "Balayya"
+    },
+    {
+     "name": "చిరంజీవి",
+     "type": "Person",
+     "english_name": "Chiranjeevi"
+    },
+    {
+     "name": "హారిటేజ్",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "జగన్ అండ్ కో",
+     "type": "Party",
+     "english_name": "Jagan and Co"
+    },
+    {
+     "name": "వైసీపీ నాయకులు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "ఇందాపూర్ డెయిరీ",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "బోలెబాబా డెయిరీ",
+     "type": "Organization",
+     "english_name": "Bholebaba Dairy"
+    },
+    {
+     "name": "హెరిటేజ్ ఫుడ్స్",
+     "type": "Organization",
+     "english_name": "Heritage Foods"
+    },
+    {
+     "name": "శ్రీవారి లడ్డూ కల్తీ",
+     "type": "Issue",
+     "english_name": "Srivari Laddu adulteration"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7d98feb5f6b0315bede04862cc48f0a298bc6181": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "పవన్",
+     "type": "Person",
+     "english_name": "Pawan"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "సవిత",
+     "type": "Person",
+     "english_name": "Savith"
+    },
+    {
+     "name": "హిందూపురం",
+     "type": "Place",
+     "english_name": "Hindupuram"
+    },
+    {
+     "name": "నందమూరి బాలకృష్ణ",
+     "type": "Person",
+     "english_name": "Nandamuri Balakrishna"
+    },
+    {
+     "name": "ఏపీ టెక్నాలజీ సర్వీసెస్",
+     "type": "Organization",
+     "english_name": "AP Technology Services"
+    },
+    {
+     "name": "ఏపీటీఎస్",
+     "type": "Organization",
+     "english_name": "APTS"
+    },
+    {
+     "name": "మన్నవ మోహనకృష్ణ",
+     "type": "Person",
+     "english_name": "Mannav Mohanakrishna"
+    },
+    {
+     "name": "చిరంజీవి",
+     "type": "Person",
+     "english_name": "Chiranjeevi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e2e8498895fc1ebd1d78f32aa449200be670c001": {
+   "entities": [
+    {
+     "name": "Heritage",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Tirumala laddu",
+     "type": "Issue",
+     "english_name": "Tirumala laddu"
+    },
+    {
+     "name": "Chandrababu family",
+     "type": "Party",
+     "english_name": "Chandrababu family"
+    },
+    {
+     "name": "Jagan and Co",
+     "type": "Person",
+     "english_name": "Jagan and Co"
+    },
+    {
+     "name": "Waterkonda Prasad",
+     "type": "Person",
+     "english_name": "Waterkonda Prasad"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan and Co",
+     "relation": "ACCUSES",
+     "target": "Heritage",
+     "evidence": "హెరిటేజ్ పై చేస్తున్న ఆరోపణలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7bb26ca40c6d3e3cd2e29b060406b21fb2e25a96": {
+   "entities": [
+    {
+     "name": "వైసీపీ నాయకులు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "హెరిటేజ్ సంస్థ",
+     "type": "Organization",
+     "english_name": "Heritage organization"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ఇందాపూర్",
+     "type": "Place",
+     "english_name": "Indapur"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4897157a66e9e413be0c511c91638e3f686f61cb": {
+   "entities": [
+    {
+     "name": "పొట్లూరి భాస్కర్రావు",
+     "type": "Person",
+     "english_name": "Potluri Bhaskara Rao"
+    },
+    {
+     "name": "బి.రాజశేఖర్",
+     "type": "Person",
+     "english_name": "B. Rajasekhar"
+    },
+    {
+     "name": "బయన వెంకటరావు",
+     "type": "Person",
+     "english_name": "Bayana Venkataravu"
+    },
+    {
+     "name": "ఆర్.వి.సుబ్బారావు",
+     "type": "Person",
+     "english_name": "R. V. Subbarao"
+    },
+    {
+     "name": "గద్దె విజయ్కుమార్",
+     "type": "Person",
+     "english_name": "Gadde Vijaykumar"
+    },
+    {
+     "name": "వెలగపూడి సాంబశివ రావు",
+     "type": "Person",
+     "english_name": "Velagapudi Sambasiva Rao"
+    },
+    {
+     "name": "గుర్జీత్సింగ్ సాహ్ని",
+     "type": "Person",
+     "english_name": "Gurjeet Singh Sahni"
+    },
+    {
+     "name": "కె.వి.సుబ్రహ్మణ్యం",
+     "type": "Person",
+     "english_name": "K. V. Subramanyam"
+    },
+    {
+     "name": "మోహన్పాటి సెంతుర్",
+     "type": "Person",
+     "english_name": "Mohanpati Sentur"
+    },
+    {
+     "name": "జి.వకాలరావు",
+     "type": "Person",
+     "english_name": "G. Vakalaravu"
+    },
+    {
+     "name": "గుడివాడ జయకుమార్",
+     "type": "Person",
+     "english_name": "Gudivada Jayakumar"
+    },
+    {
+     "name": "కోనేరు విశ్వప్ర సాద్",
+     "type": "Person",
+     "english_name": "Koneru Vishwaprasad"
+    },
+    {
+     "name": "ఏపీ చాంబర్ ఆఫ్ కామర్స్",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Chamber of Commerce"
+    },
+    {
+     "name": "NSIC",
+     "type": "Organization",
+     "english_name": "NSIC"
+    },
+    {
+     "name": "CGTMSE",
+     "type": "Organization",
+     "english_name": "CGTMSE"
+    },
+    {
+     "name": "TREDS",
+     "type": "Organization",
+     "english_name": "TREDS"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bae221c911b7d1cf3135c80e32a83dd58baa1a4d": {
+   "entities": [
+    {
+     "name": "నారా లోకేష్ విద్యామృతం",
+     "type": "Scheme",
+     "english_name": "Nara Lokesh Vidyaamrutam"
+    },
+    {
+     "name": "మంత్రి పార్థసారథి",
+     "type": "Person",
+     "english_name": "Minister Parthsarathy"
+    },
+    {
+     "name": "మంత్రి సవిత",
+     "type": "Person",
+     "english_name": "Minister Savith"
+    },
+    {
+     "name": "నూజివీడు విద్యార్థులు",
+     "type": "Person",
+     "english_name": "Nuzvid students"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kootami government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మంత్రి పార్థసారథి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నారా లోకేష్ విద్యామృతం",
+     "evidence": "తరపున ప్రతిరోజూ సాయంత్రం పాఠశాలల్లో “నారా లోకేష్ విద్యామృతం” పేరుతో పౌష్టికాహారాన్ని స్నాక్స్ రూపంలో అందిస్తాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6d99ffdac57a36e8713950b807842852072297f0": {
+   "entities": [
+    {
+     "name": "వైసీపీ నాయకులు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "భూమి సమస్య",
+     "type": "Issue",
+     "english_name": "Land issue"
+    },
+    {
+     "name": "రోలుగుంట మండలం బుచ్చంపేట గ్రామం",
+     "type": "Place",
+     "english_name": "Rolugunta mandal, Buchampet village"
+    },
+    {
+     "name": "రెడ్డి తాతయ్య",
+     "type": "Person",
+     "english_name": "Reddy Tatayya"
+    },
+    {
+     "name": "పోతల లక్ష్మి",
+     "type": "Person",
+     "english_name": "Potla Lakshmi"
+    },
+    {
+     "name": "సర్వే నెం.65-1ఏ",
+     "type": "Place",
+     "english_name": "Survey No. 65-1A"
+    },
+    {
+     "name": "భూముల రీ-సర్వే",
+     "type": "Scheme",
+     "english_name": "Land re-survey"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పోతల లక్ష్మి",
+     "relation": "ACCUSES",
+     "target": "రెడ్డి తాతయ్య",
+     "evidence": "తనను నమ్మిం చి సంతకాలు తీసుకుని సదరు 1.85 ఎకరాల భూమిని తన పేరు మీద మార్పు చేసుకుంది."
+    },
+    {
+     "source": "భూముల రీ-సర్వే",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "భూమి సమస్య",
+     "evidence": "ఇటీవలే ప్రభుత్వం చేపట్టిన భూముల రీ-సర్వే సమయాన్ని ఆసరా గా చేసుకున్న పెద్ద కుమార్తె"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "943dacd2c66a254059c57c6f151c94860a1ba3b5": {
+   "entities": [
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "నూజివీడు విద్యార్థులు",
+     "type": "Person",
+     "english_name": "Nuzvid Students"
+    },
+    {
+     "name": "పార్థసారథి",
+     "type": "Person",
+     "english_name": "Parthasarathi"
+    },
+    {
+     "name": "సవిత",
+     "type": "Person",
+     "english_name": "Savitha"
+    },
+    {
+     "name": "కొలుసు పార్థసారథి",
+     "type": "Person",
+     "english_name": "Kolusu Parthasarathi"
+    },
+    {
+     "name": "బీసీ సంక్షేమ శాఖ మంత్రి",
+     "type": "Organization",
+     "english_name": "BC Welfare Department Minister"
+    },
+    {
+     "name": "గృహ నిర్మాణం, సమాచార, పౌరసంబంధాల శాఖ మంత్రి",
+     "type": "Organization",
+     "english_name": "Housing, Information and Public Relations Department Minister"
+    },
+    {
+     "name": "కొలుసు పెదరెడ్డయ్య చారిటబుల్ ట్రస్టు",
+     "type": "Organization",
+     "english_name": "Kolusu Pedaraddayya Charitable Trust"
+    },
+    {
+     "name": "నూజివీడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Nuzvid Constituency"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fa2339f161edb59d5435923e8e3f340b4a1cee72": {
+   "entities": [
+    {
+     "name": "సభ్యులకు పలు సూచనలు చేశారు రు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎంఎస్ఎంఈ విద్యుత్ టారిఫ్, ప్రాపర్టీ టాక్స్ విధింపులో ఉన్న అత్యుత్తమ విధానాలను",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కార్పొరేట్ మిత్ర",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ చాంబర్ ఆఫ్ కామర్స్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పొట్లూరి భాస్కర్రావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బి.రాజశేఖర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బయన వెంకటరావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్.వి.సుబ్బారావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గద్దె విజయ్కుమార్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వెలగపూడి సాంబశివ రావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గుర్జీత్సింగ్ సాహ్ని",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కె.వి.సుబ్రహ్మణ్యం",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మోహన్పాటి సెంతుర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జి.వకాలరావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గుడివాడ జయకుమార్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కోనేరు విశ్వప్ర సాద్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "భూసేకర ణ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఇన్నర్ రింగ్ రోడ్డు",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఏపీ చాంబర్ ఆఫ్ కామర్స్",
+     "relation": "LOCATED_IN",
+     "target": "భూసేకర ణ",
+     "evidence": "ఈ సమావేశంలో ఏపీ చాంబర్ ఆఫ్ కామర్స్ అధ్యక్షుడు పొట్లూరి భాస్కర్రావు, బి.రాజశేఖర్, బయన వెంకటరావు, ఆర్.వి.సుబ్బారావు, గద్దె విజయ్కుమార్, వెలగపూడి సాంబశివ రావు, గుర్జీత్సింగ్ సాహ్ని, కె.వి.సుబ్రహ్మణ్యం, మోహన్పాటి సెంతుర్, జి.వకాలరావు, గుడివాడ జయకుమార్, కోనేరు విశ్వప్ర సాద్ తదితరులు పాల్గొన్నారు."
+    },
+    {
+     "source": "భూసేకర ణ",
+     "relation": "LOCATED_IN",
+     "target": "ఇన్నర్ రింగ్ రోడ్డు",
+     "evidence": "భూసేకర ణ పూర్తయిన తర్వాత అభివృద్ధి కోసం కనీసం 24 నుంచి 30 నెలల సమయం పడుతుందని చెప్పారు."
+    },
+    {
+     "source": "ఇన్నర్ రింగ్ రోడ్డు",
+     "relation": "LOCATED_IN",
+     "target": "భూసేకర ణ",
+     "evidence": "ఇన్నర్ రింగ్ రోడ్డులో 96.2 కి.మీ పొడవు, 75 మీటర్ల వెడల్పుతో మొత్తం 8 వరుసల రోడ్డు నిర్మాణం కోసం డిజైన్ చేశామని వివరించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bc7159cda5e302d8a7f5e04d4a932d7b6d247e39": {
+   "entities": [
+    {
+     "name": "తణుకుమాల రెవెన్యూ గ్రామం",
+     "type": "Place",
+     "english_name": "Tanikuma Revenue Village"
+    },
+    {
+     "name": "సర్వే నెంబర్ 123-1",
+     "type": "Place",
+     "english_name": "Survey Number 123-1"
+    },
+    {
+     "name": "కోట సబ్ రిజిస్ట్రార్ కార్యాలయం",
+     "type": "Organization",
+     "english_name": "Kota Sub Registrar Office"
+    },
+    {
+     "name": "తహశీల్దార్ కార్యాలయం",
+     "type": "Organization",
+     "english_name": "Tahsildar Office"
+    },
+    {
+     "name": "రాఘవాపురం గ్రామం",
+     "type": "Place",
+     "english_name": "Raghavapuram Village"
+    },
+    {
+     "name": "కనుమూరు పిచ్చయ్య",
+     "type": "Person",
+     "english_name": "Kanumoori Pichayya"
+    },
+    {
+     "name": "బెల్లంకొండ అంకయ్య",
+     "type": "Person",
+     "english_name": "Bellamkonda Ankiah"
+    },
+    {
+     "name": "జాయింట్ కలెక్టర్ కోర్టు",
+     "type": "Organization",
+     "english_name": "Joint Collector Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "తణుకుమాల రెవెన్యూ గ్రామం",
+     "relation": "LOCATED_IN",
+     "target": "తణుకుమాల రెవెన్యూ గ్రామం",
+     "evidence": "తణుకుమాల రెవెన్యూ గ్రామంలోని సర్వే నెంబర్ 123-1లో"
+    },
+    {
+     "source": "కోట సబ్ రిజిస్ట్రార్ కార్యాలయం",
+     "relation": "LOCATED_IN",
+     "target": "తణుకుమాల రెవెన్యూ గ్రామం",
+     "evidence": "కోట సబ్ రిజిస్ట్రార్ కార్యాలయం ద్వారా రిజిస్ట్రేషన్"
+    },
+    {
+     "source": "తహశీల్దార్ కార్యాలయం",
+     "relation": "LOCATED_IN",
+     "target": "తణుకుమాల రెవెన్యూ గ్రామం",
+     "evidence": "తహశీల్దార్ కార్యాలయం నుంచి సబ్ డివిజన్ చేయించబడిన పట్టాదారు పాసుపుస్తకాలు"
+    },
+    {
+     "source": "రాఘవాపురం గ్రామం",
+     "relation": "LOCATED_IN",
+     "target": "రాఘవాపురం గ్రామం",
+     "evidence": "రాఘవాపురం గ్రామానికి చెందిన కనుమూరు పిచ్చయ్య"
+    },
+    {
+     "source": "జాయింట్ కలెక్టర్ కోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "తణుకుమాల రెవెన్యూ గ్రామం",
+     "evidence": "జాయింట్ కలెక్టర్ కోర్టులో తేల్చుకోవాలని సూచించా రు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "342d8c4d18d2edb91a2a33c5ad052ea287b6068e": {
+   "entities": [
+    {
+     "name": "కనుమూరు పిచ్చయ్య",
+     "type": "Person",
+     "english_name": "Kanumuru Pichayya"
+    },
+    {
+     "name": "బెల్లంకొండ అంకయ్య",
+     "type": "Person",
+     "english_name": "Bellamkonda Ankiah"
+    },
+    {
+     "name": "సబ్ కలెక్టర్",
+     "type": "Organization",
+     "english_name": "Sub Collector"
+    },
+    {
+     "name": "జాయింట్ కలెక్టర్ కోర్టు",
+     "type": "Organization",
+     "english_name": "Joint Collector Court"
+    },
+    {
+     "name": "భూ యజమాన్య డిక్లరేషన్",
+     "type": "Scheme",
+     "english_name": "Land Ownership Declaration"
+    },
+    {
+     "name": "రత్న ప్రసాద్",
+     "type": "Person",
+     "english_name": "Rathna Prasad"
+    },
+    {
+     "name": "చందోలు గ్రామం",
+     "type": "Place",
+     "english_name": "Chandolu village"
+    },
+    {
+     "name": "ఖాజిపాలెం గ్రామం",
+     "type": "Place",
+     "english_name": "Khazipalem village"
+    },
+    {
+     "name": "రామ రైస్ మిల్లు",
+     "type": "Organization",
+     "english_name": "Rama Rice Mill"
+    },
+    {
+     "name": "హైదరా బాద్‌కు చెందిన ‘ఎస్ఎస్ ఎంటర్ ప్రైజెస్'",
+     "type": "Organization",
+     "english_name": "SS Enterprises of Hyderabad"
+    },
+    {
+     "name": "సయ్యద్ సులేమాన్",
+     "type": "Person",
+     "english_name": "Syed Suleiman"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2bb31f1f12dff84fb612f6e2fcdd9553bd3ac3d5": {
+   "entities": [
+    {
+     "name": "గృహ, పారిశ్రామిక, వ్యాపార వర్గాలతో పాటు రైతులకు కూడా నిరంతరాయంగా నాణ్యమైన విద్యుత్ అందించడమే రాష్ట్ర విద్యుత్ శాఖ లక్ష్యమని మంత్రి గొట్టిపాటి రవి కుమార్ తెలిపారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గల్ఫ్ దేశాలలోని దాదాపు ప్రతి ప్రవాసాంధ్రుడు ఒక ఉద్యోగే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తెలుగుదేశం తమ్ముళ్లు",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party (TDP) cadre"
+    },
+    {
+     "name": "ఒమాన్",
+     "type": "Place",
+     "english_name": "Oman"
+    },
+    {
+     "name": "సల్తనత్",
+     "type": "Place",
+     "english_name": "Sultanate"
+    },
+    {
+     "name": "మురళ రాజమణి",
+     "type": "Person",
+     "english_name": "Murral Rajamani"
+    },
+    {
+     "name": "తూర్పు గోదావరి జిల్లా చిత్తవరం గ్రామం",
+     "type": "Place",
+     "english_name": "Chittavaram village, East Godavari district"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "ఏపీ ఎన్నార్టీ సంస్థ",
+     "type": "Organization",
+     "english_name": "AP NRI organization"
+    },
+    {
+     "name": "భారతీయ ఎంబసీ",
+     "type": "Organization",
+     "english_name": "Indian Embassy"
+    },
+    {
+     "name": "మస్కట్",
+     "type": "Place",
+     "english_name": "Muscat"
+    },
+    {
+     "name": "గరిపాటి సత్య శ్రీధర్",
+     "type": "Person",
+     "english_name": "Garimella Satya Sridhar"
+    },
+    {
+     "name": "యం.రాజేశ్‌లు",
+     "type": "Person",
+     "english_name": "M. Rajesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "తెలుగుదేశం తమ్ముళ్లు",
+     "relation": "LOCATED_IN",
+     "target": "ఒమాన్",
+     "evidence": "ఒమాన్ దేశాలలోని దాదాపు ప్రతి ప్రవాసాంధ్రుడు ఒక ఉద్యోగే."
+    },
+    {
+     "source": "ఏపీ ఎన్నార్టీ సంస్థ",
+     "relation": "LOCATED_IN",
+     "target": "మస్కట్",
+     "evidence": "ఏపీ ఎన్నార్టీ అధికారులు మస్కట్ లోని భారతీయ ఎంబసీని కోరారు."
+    },
+    {
+     "source": "భారతీయ ఎంబసీ",
+     "relation": "LOCATED_IN",
+     "target": "మస్కట్",
+     "evidence": "మస్కట్ లోని భారతీయ ఎంబసీ నిస్సహాయత వ్యక్తం చేయడంతో రాజమణి మృతదేహం రెండు నెలలకు పైగా మస్కట్ లో పడి ఉంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d882c8823189df1a1221742bf375b8d53de612fc": {
+   "entities": [
+    {
+     "name": "అసెంబ్లీ ప్రాంగణంలో",
+     "type": "Place",
+     "english_name": "Assembly premises"
+    },
+    {
+     "name": "భావి భారత పౌరుల సందడి",
+     "type": "Issue",
+     "english_name": "Future Indian citizens excitement"
+    },
+    {
+     "name": "అమరావతి (చైతన్యరథం)",
+     "type": "Place",
+     "english_name": "Amaravati (Chaitanya Ratham)"
+    },
+    {
+     "name": "స్పీకర్ అయ్యన్నపాత్రుడు",
+     "type": "Person",
+     "english_name": "Speaker Ayyanappa"
+    },
+    {
+     "name": "డిప్యూటీ స్పీకర్ రఘురామకృష్ణరాజు",
+     "type": "Person",
+     "english_name": "Deputy Speaker Raghuramakrishnaraju"
+    },
+    {
+     "name": "హోం మంత్రి అనిత",
+     "type": "Person",
+     "english_name": "Home Minister Anita"
+    },
+    {
+     "name": "పేదల భూములపై వైసీపీ గద్దల కన్ను",
+     "type": "Issue",
+     "english_name": "YSRCP's eagle eye on poor people's lands"
+    },
+    {
+     "name": "మండిపల్లి రాంప్రసాద్రెడ్డి",
+     "type": "Person",
+     "english_name": "Mandalipalli Ramprasad Reddy"
+    },
+    {
+     "name": "టీటీడీ మెంబర్",
+     "type": "Organization",
+     "english_name": "TTD Member"
+    },
+    {
+     "name": "తిరుపతి పార్లమెంట్ అధ్యక్షురాలు పనబాక లక్ష్మి",
+     "type": "Person",
+     "english_name": "Panabaka Lakshmi"
+    },
+    {
+     "name": "ఏపీ కూరాకల, పొందర కార్పొరేషన్ చైర్మన్ దామోదర నర్సింహులు",
+     "type": "Person",
+     "english_name": "Damodara Narasimulu"
+    },
+    {
+     "name": "డక్కిలి మండలం డి.ఉప్పరపల్లి గ్రామానికి చెందిన భాస్కర్నాయుడు",
+     "type": "Person",
+     "english_name": "Bhaskar Naidu"
+    },
+    {
+     "name": "వైసీపీ నేతలు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "తహశీల్దార్",
+     "type": "Organization",
+     "english_name": "Tahsildar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "914a874831a9ba82c1c639edced2b26dd54c4c78": {
+   "entities": [
+    {
+     "name": "మస్కట్లోని భారతీయ ఎంబసీ",
+     "type": "Organization",
+     "english_name": "Indian Embassy in Muscat"
+    },
+    {
+     "name": "రాజమణి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ ఎన్నారై",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party NRI"
+    },
+    {
+     "name": "గరిపాటి సత్య శ్రీధర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "యం.రాజేశ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అంబేద్కర్ కోనసీమ జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కపిలేశ్వరం సర్వరాయ ఉన్నత పాఠశాల",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "తెర్లం మండలం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గర్భపు దాలమ్మ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "గర్భపు మునుస్వామి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాగోలు జేమ్స్ హాస్పిటల్",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "కపిలేశ్వరం సర్వరాయ ఉన్నత పాఠశాల",
+     "relation": "LOCATED_IN",
+     "target": "అంబేద్కర్ కోనసీమ జిల్లా",
+     "evidence": "మన ప్రాణాలతో పాటు ఎదుటి వారి శ్రేయస్సు కోసం ట్రాఫిక్ నిబంధనలు పాటించాలని సందేశమిస్తూ అంబేద్కర్ కోనసీమ జిల్లా కపిలేశ్వరం సర్వరాయ ఉన్నత పాఠశాలలో వందలాదిగా విద్యార్థులు వెరైటీ అవగాహన కార్యక్రమం చేపట్టారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d8a74de0724d0d6ae928a894125d22ad3bca5856": {
+   "entities": [
+    {
+     "name": "స్మియర్ పరీక్షలు",
+     "type": "Claim",
+     "english_name": "Smear tests"
+    },
+    {
+     "name": "క్యాన్సర్ స్క్రీనింగ్",
+     "type": "Claim",
+     "english_name": "Cancer screening"
+    },
+    {
+     "name": "గుండె",
+     "type": "Claim",
+     "english_name": "Heart"
+    },
+    {
+     "name": "కిడ్నీ",
+     "type": "Claim",
+     "english_name": "Kidney"
+    },
+    {
+     "name": "ఊపిరితిత్తులు",
+     "type": "Claim",
+     "english_name": "Lungs"
+    },
+    {
+     "name": "మెదడు",
+     "type": "Claim",
+     "english_name": "Brain"
+    },
+    {
+     "name": "వెన్నుముక",
+     "type": "Claim",
+     "english_name": "Spine"
+    },
+    {
+     "name": "ఎముకలు",
+     "type": "Claim",
+     "english_name": "Bones"
+    },
+    {
+     "name": "కంటి సంబంధిత సమస్యలు",
+     "type": "Claim",
+     "english_name": "Eye problems"
+    },
+    {
+     "name": "స్త్రీల వ్యాధులు",
+     "type": "Claim",
+     "english_name": "Women's diseases"
+    },
+    {
+     "name": "నిపుణులైన వైద్యులు",
+     "type": "Person",
+     "english_name": "Expert doctors"
+    },
+    {
+     "name": "అక్కడికక్కడే ఉచితంగా మందులు",
+     "type": "Claim",
+     "english_name": "Free medicines on the spot"
+    },
+    {
+     "name": "NTR Vaidya Seva పథకం",
+     "type": "Scheme",
+     "english_name": "NTR Vaidya Seva scheme"
+    },
+    {
+     "name": "సర్పంచ్ గర్భపు దాలమ్మ",
+     "type": "Person",
+     "english_name": "Sarpanch Garikapati Dalamma"
+    },
+    {
+     "name": "ప్రతినిధి గర్భపు మునుస్వామి",
+     "type": "Person",
+     "english_name": "Representative Garikapati Munuswamy"
+    },
+    {
+     "name": "లోచర్ల గ్రామం",
+     "type": "Place",
+     "english_name": "Locherla village"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bab766eb8b6f70a8d57fa62403cac5a7a9206fc2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8adc4c593f695b2dbf342e805d856e40750428d2": {
+   "entities": [
+    {
+     "name": "గర్భపు దాలమ్మ",
+     "type": "Person",
+     "english_name": "Garimpu Dalamma"
+    },
+    {
+     "name": "గర్భపు మునుస్వామి",
+     "type": "Person",
+     "english_name": "Garimpu Munuswamy"
+    },
+    {
+     "name": "లోచర్ల",
+     "type": "Place",
+     "english_name": "Locharla"
+    },
+    {
+     "name": "పైడితల్లి అమ్మవారి జాతర",
+     "type": "Issue",
+     "english_name": "Peddamma Jatara"
+    },
+    {
+     "name": "పైడితల్లి అమ్మవారు",
+     "type": "Person",
+     "english_name": "Peddamma"
+    },
+    {
+     "name": "రాజాం",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    },
+    {
+     "name": "కొండ్రు మురళీమోహన్",
+     "type": "Person",
+     "english_name": "Kondru Murali Mohan"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "జీవో",
+     "type": "Organization",
+     "english_name": "GO"
+    },
+    {
+     "name": "రాష్ట్ర పండుగ",
+     "type": "Scheme",
+     "english_name": "State Festival"
+    },
+    {
+     "name": "రూ.50 లక్షల నిధులు",
+     "type": "Scheme",
+     "english_name": "Rs 50 lakh funds"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కొండ్రు మురళీమోహన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాష్ట్ర పండుగ",
+     "evidence": "పైడితల్లి అమ్మవారి జాతరను రాష్ట్ర ఉత్సవంగా ప్రభుత్వం ప్రకటించింది."
+    },
+    {
+     "source": "కొండ్రు మురళీమోహన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రూ.50 లక్షల నిధులు",
+     "evidence": "ఈ మేరకు రూ.50 లక్షలు నిధులు కూడా మంజూరు చేసినట్లు ఎమ్మెల్యే తెలిపారు."
+    },
+    {
+     "source": "ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "రాజాం",
+     "evidence": "రాజాం పట్టణంలో పోలిపల్లి పైడితల్లి అమ్మవారిని దర్శించుకుని ప్రత్యేక పూజలు నిర్వహించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "626ef79e3cc8d6fef6796cfa1cfc338cb46c88a4": {
+   "entities": [
+    {
+     "name": "ఈ ఎలక్ట్రికల్ ఆటోలు",
+     "type": "Organization",
+     "english_name": "Electric Autos"
+    },
+    {
+     "name": "స్వచ్ఛాంద్ర కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Swachhandra Corporation"
+    },
+    {
+     "name": "ఏపీ స్వచ్ఛాంధ్ర కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "AP Swachh Andhra Corporation"
+    },
+    {
+     "name": "కె.ఉదయ భాస్కర్",
+     "type": "Person",
+     "english_name": "K. Udaya Bhaskar"
+    },
+    {
+     "name": "వి.విశ్వేశ్వరరావు",
+     "type": "Person",
+     "english_name": "V. Vishweshwara Rao"
+    },
+    {
+     "name": "యం.శ్రీహరి",
+     "type": "Person",
+     "english_name": "M. Sreerhi"
+    },
+    {
+     "name": "కె.అనురాధ",
+     "type": "Person",
+     "english_name": "K. Anuradha"
+    },
+    {
+     "name": "ఆర్డబ్యూఎస్ యస్ ఇ జి.త్రినాధబాబు",
+     "type": "Person",
+     "english_name": "RDBYS EG. Trinadh Babu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0580fdf3598ad554d7a3b9869d47bf42e1f131d5": {
+   "entities": [
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "గ్రామ స్వరాజ్యం కూటమి",
+     "type": "Party",
+     "english_name": "Gram Swarajya Alliance"
+    },
+    {
+     "name": "స్వర్ణాంధ్ర- స్వచ్ఛాంద్ర కార్యక్రమాలు",
+     "type": "Scheme",
+     "english_name": "Swarna Andhra - Swachha Andhra programs"
+    },
+    {
+     "name": "ఎలక్ట్రికల్ ఆటోలు",
+     "type": "Scheme",
+     "english_name": "Electrical autos"
+    },
+    {
+     "name": "పట్టాభిరామ్",
+     "type": "Person",
+     "english_name": "Pattabhi Ram"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "ఏపీ స్వచ్ఛంధ్ర కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "AP Swachha Andhra Corporation"
+    },
+    {
+     "name": "కొమ్మారెడ్డి పట్టాభిరామ్",
+     "type": "Person",
+     "english_name": "Kommareddy Pattabhi Ram"
+    },
+    {
+     "name": "కె.వెట్రిసెల్వి",
+     "type": "Person",
+     "english_name": "K. Vetriselvi"
+    },
+    {
+     "name": "ఘంటా పద్మశ్రీ",
+     "type": "Person",
+     "english_name": "Ghanta Padmashri"
+    },
+    {
+     "name": "నారా చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పట్టాభిరామ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్వర్ణాంధ్ర- స్వచ్ఛాంద్ర కార్యక్రమాలు",
+     "evidence": "రాష్ట్రంలో ప్రతి మూడవ శనివారం నిర్వహిస్తున్న స్వర్ణాంధ్ర- స్వచ్ఛాంద్ర కార్యక్రమాలతో మంచి ఫలితాలు"
+    },
+    {
+     "source": "పట్టాభిరామ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఎలక్ట్రికల్ ఆటోలు",
+     "evidence": "పర్యావరణ పరిరక్షణ, పరిశుభ్రత కార్యక్రమాలకు మరింత బలాన్ని చేకూర్చే దిశగా ఎలక్ట్రికల్ ఆటోలు పంపిణీ"
+    },
+    {
+     "source": "కొమ్మారెడ్డి పట్టాభిరామ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఎలక్ట్రికల్ ఆటోలు",
+     "evidence": "పైలెట్ మేనేజ్మెంటు ప్రాసెస్ ద్వారా 200 ఎలక్ట్రికల్ ఆటోలు పంపిణీ చేశామని, ఈ రోజున ఏలూరు జిల్లా ఆయా గ్రామ పంచాయతీ కార్యదర్శులకు అందించామని"
+    },
+    {
+     "source": "నారా చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్వర్ణాంధ్ర- స్వచ్ఛాంద్ర కార్యక్రమాలు",
+     "evidence": "ముఖ్యమంత్రి నారా చంద్రబాబునాయుడు సారధ్యంలో ఒక ఉద్యమంగా ముందుకు తీసుకు వెళుతున్నామని"
+    },
+    {
+     "source": "ఏపీ స్వచ్ఛంధ్ర కార్పొరేషన్",
+     "relation": "LOCATED_IN",
+     "target": "ఏలూరు",
+     "evidence": "ఏలూరు జిల్లా తొలివిడతగా నియోజకవర్గానికి ఒక్కొక్క ఆటో చొప్పున 7 గ్రామ పంచాయతీలకు కార్పొరేషన్ చైర్మన్ కొమ్మారెడ్డి పట్టాభిరామ్, జిల్లా కలెక్టరు కె.వెట్రిసెల్వి, జిల్లా పరిషత్ చైర్ పర్సన్ ఘంటా పద్మశ్రీలు ఎలక్ట్రికల్ ఆటోలను పంపిణీ చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d723f6fc43962f135b44cf0f6e72746761da2620": {
+   "entities": [
+    {
+     "name": "అనకాపల్లి జిల్లా రోలుగుంట మండలం బుచ్చంపేట గ్రామాని కి చెందిన రెడ్డి తాతయ్య",
+     "type": "Person",
+     "english_name": "Reddy Tatayya"
+    },
+    {
+     "name": "పోతల లక్ష్మి",
+     "type": "Person",
+     "english_name": "Potla Lakshmi"
+    },
+    {
+     "name": "భూ మాయాజాలం",
+     "type": "Issue",
+     "english_name": "Land Forgery"
+    },
+    {
+     "name": "వైఎస్ఆర్ కడప జిల్లా చెన్నూరు మండలం రుద్రభారతి పేటకు చెందిన బాపనపల్లి సాంబశివయ్య",
+     "type": "Person",
+     "english_name": "Bapanapalli Sambasivayya"
+    },
+    {
+     "name": "వైసీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "దువ్వూరు కోటేశ్వర రెడ్డి",
+     "type": "Person",
+     "english_name": "Duvvur Kotishwara Reddy"
+    },
+    {
+     "name": "చిల్లకూరు తహశీల్దారు",
+     "type": "Organization",
+     "english_name": "Chilakur Tahsildar"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "దువ్వూరు సుధాకర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Duvvur Sudhakar Reddy"
+    },
+    {
+     "name": "రాజలక్ష్మి",
+     "type": "Person",
+     "english_name": "Rajyalakshmi"
+    },
+    {
+     "name": "దేవారెడ్డి మణెమ్మ",
+     "type": "Person",
+     "english_name": "Devareddi Manemma"
+    },
+    {
+     "name": "మాధవి",
+     "type": "Person",
+     "english_name": "Madhavi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b7524587c1085111608b65e8237120e7ef34632d": {
+   "entities": [
+    {
+     "name": "ప్రత్తిపాటి",
+     "type": "Person",
+     "english_name": "Prathipati"
+    },
+    {
+     "name": "నిమ్మల",
+     "type": "Person",
+     "english_name": "Nimmala"
+    },
+    {
+     "name": "చిలకలూరిపేట నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Chilakuripet constituency"
+    },
+    {
+     "name": "నక్కవాగు",
+     "type": "Place",
+     "english_name": "Nakkavagu"
+    },
+    {
+     "name": "కుప్పగంజి",
+     "type": "Place",
+     "english_name": "Kuppaganjji"
+    },
+    {
+     "name": "ఓగేరు",
+     "type": "Place",
+     "english_name": "Ogeeru"
+    },
+    {
+     "name": "జలవనరుల శాఖ",
+     "type": "Organization",
+     "english_name": "Water Resources Department"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6c1b94a0fafa136c6a1d8a788a19a35d8583a620": {
+   "entities": [
+    {
+     "name": "స్వచ్ఛాంద్ర కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Swachhandra Corporation"
+    },
+    {
+     "name": "ఏపీ స్వచ్ఛ ఆంధ్ర కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "AP Swachh Andhra Corporation"
+    },
+    {
+     "name": "కె.ఉదయ భాస్కర్",
+     "type": "Person",
+     "english_name": "K. Udaya Bhaskar"
+    },
+    {
+     "name": "జిల్లా రెవిన్యూ అధికారి వి.విశ్వేశ్వరరావు",
+     "type": "Person",
+     "english_name": "V. V. V. V. V. V. V. V."
+    },
+    {
+     "name": "జెడ్పీ సిఈవో యం.శ్రీహరి",
+     "type": "Person",
+     "english_name": "M. Srihari"
+    },
+    {
+     "name": "జిల్లా పంచాయతీ శాఖ అధికారి కె.అనురాధ",
+     "type": "Person",
+     "english_name": "K. Anuradha"
+    },
+    {
+     "name": "ఆర్డబ్యూఎస్ యస్ ఇ జి.త్రినాధబాబు",
+     "type": "Person",
+     "english_name": "RBS ESG. Trinadh Babu"
+    },
+    {
+     "name": "అమరావతి (చైతన్యరథం)",
+     "type": "Place",
+     "english_name": "Amaravati (Chaitanya Ratham)"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "జీవో నం. 20",
+     "type": "Scheme",
+     "english_name": "GO No. 20"
+    },
+    {
+     "name": "నిమ్మల రామానాయుడు",
+     "type": "Person",
+     "english_name": "Nimma Rama Naidu"
+    },
+    {
+     "name": "ప్రత్తిపాటి పుల్లారావు",
+     "type": "Person",
+     "english_name": "Prathipati Pullarao"
+    },
+    {
+     "name": "చిలకలూరిపేట",
+     "type": "Place",
+     "english_name": "Chilakaluripet"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "జలవనరుల శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Water Resources Minister"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చిలకలూరిపేట",
+     "relation": "LOCATED_IN",
+     "target": "పల్నాడు జిల్లా",
+     "evidence": "పల్నాడు జిల్లాలోని ప్రధాన నియోజకవర్గమైన చిలకలూరిపేట"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "388c18c8cf1c84acb9e96440a31f3107cc8a1b7f": {
+   "entities": [
+    {
+     "name": "గత ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Past Government"
+    },
+    {
+     "name": "లోకేష్ బాబు",
+     "type": "Person",
+     "english_name": "Lokesh Babu"
+    },
+    {
+     "name": "గిరిజన సమాజం",
+     "type": "Organization",
+     "english_name": "Tribal Community"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c7884662eb9ab609d1141e2493cae0151e9028c3": {
+   "entities": [
+    {
+     "name": "ఆయన",
+     "type": "Person",
+     "english_name": "He"
+    },
+    {
+     "name": "కామ్రేడ్ పుచ్చలపల్లి సుందరయ్య",
+     "type": "Person",
+     "english_name": "Comrade Puchalapalli Sundarayya"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "038ca1dd46d60c0df011286c4eb8e000b73e76dd": {
+   "entities": [
+    {
+     "name": "ప్రత్తిపాటి పుల్లారావు",
+     "type": "Person",
+     "english_name": "Prathipati Pullarao"
+    },
+    {
+     "name": "నిమ్మల",
+     "type": "Person",
+     "english_name": "Nimmala"
+    },
+    {
+     "name": "కొండారెడ్డి నరహరి వరప్రసాద్",
+     "type": "Person",
+     "english_name": "Kondareddy Narahari Varaprasad"
+    },
+    {
+     "name": "నారా చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "నారా లోకేష్‌బాబు",
+     "type": "Person",
+     "english_name": "Nara Lokesh Babu"
+    },
+    {
+     "name": "వైసీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "పులివెందుల ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Pulivendula MLA"
+    },
+    {
+     "name": "రాష్ట్ర ఎస్సీ ఎస్టీ కమిషన్",
+     "type": "Organization",
+     "english_name": "State SC ST Commission"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "గిరిజన సంక్షేమం",
+     "type": "Scheme",
+     "english_name": "Tribal Welfare"
+    },
+    {
+     "name": "గిరిజన ప్రాంతాల్లో విద్యా సౌకర్యాల విస్తరణ",
+     "type": "Scheme",
+     "english_name": "Expansion of Educational Facilities in Tribal Areas"
+    },
+    {
+     "name": "గిరిజన విద్యార్థులకు హాస్టళ్లు, స్కాలర్షిప్లు, నైపుణ్యాభివృద్ధి కార్యక్రమాలు",
+     "type": "Scheme",
+     "english_name": "Hostels, Scholarships, Skill Development Programs for Tribal Students"
+    },
+    {
+     "name": "ఆరోగ్య సేవలు, రహదారులు, తాగునీరు మరియు ఇతర మౌలిక వసతుల అభివృద్ధి",
+     "type": "Scheme",
+     "english_name": "Development of Health Services, Roads, Drinking Water and Other Infrastructure"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7599f7e956c764a25da701dc8cf85b84d1c40131": {
+   "entities": [
+    {
+     "name": "శ్రీకాకుళం, విజయనగరం, విశాఖపట్నం, అనకాపల్లి, అరకు",
+     "type": "Place",
+     "english_name": "Srikakulam, Vizianagaram, Visakhapatnam, Anakapalli, Araku"
+    },
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "46 వేల వ్యవసాయ ఉచిత విద్యుత్ కనెక్షన్లు",
+     "type": "Claim",
+     "english_name": "46 thousand agricultural free electricity connections"
+    },
+    {
+     "name": "ఎమ్మెల్యే కొణతాల రామకృష్ణ",
+     "type": "Person",
+     "english_name": "MLA Kona Talli Rama Krishna"
+    },
+    {
+     "name": "మంత్రి గొట్టిపాటి రవికుమార్",
+     "type": "Person",
+     "english_name": "Minister Gottipati Ravi Kumar"
+    },
+    {
+     "name": "అమరావతి / అనకాపల్లి",
+     "type": "Place",
+     "english_name": "Amaravati / Anakapalli"
+    },
+    {
+     "name": "రాష్ట్ర ఇంధన శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "State Energy Department Minister"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "రాష్ట్రవ్యాప్తంగా",
+     "type": "Place",
+     "english_name": "Statewide"
+    },
+    {
+     "name": "22,30,703 ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "type": "Claim",
+     "english_name": "22,30,703 free agricultural electricity connections"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "మూడు డిస్కంలు",
+     "type": "Organization",
+     "english_name": "Three Discoms"
+    },
+    {
+     "name": "1,02,538 కొత్త ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "type": "Claim",
+     "english_name": "1,02,538 new free agricultural electricity connections"
+    },
+    {
+     "name": "46 వేల వ్యవసాయ విద్యుత్ కనెక్షన్లు పెండింగ్లో",
+     "type": "Claim",
+     "english_name": "46 thousand agricultural electricity connections pending"
+    },
+    {
+     "name": "వ్యవసాయ సీజన్",
+     "type": "Issue",
+     "english_name": "Agricultural season"
+    },
+    {
+     "name": "రైతులకు ఉచిత విద్యుత్",
+     "type": "Scheme",
+     "english_name": "Free Power for Farmers"
+    },
+    {
+     "name": "2025--26 ఆర్థిక సంవత్సరం",
+     "type": "Issue",
+     "english_name": "2025-26 Financial Year"
+    },
+    {
+     "name": "రూ.839.44 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 839.44 crores"
+    },
+    {
+     "name": "కుసుమ్ పథకం",
+     "type": "Scheme",
+     "english_name": "KUSUM Scheme"
+    },
+    {
+     "name": "2,61,481 వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "type": "Claim",
+     "english_name": "261,481 agricultural power connections"
+    },
+    {
+     "name": "ఫీడర్ లెవల్ సోలార్ ప్రాజెక్టులు",
+     "type": "Scheme",
+     "english_name": "Feeder Level Solar Projects"
+    },
+    {
+     "name": "రూ.1059 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 1059 crores"
+    },
+    {
+     "name": "11 కేవీ లైన్లు",
+     "type": "Place",
+     "english_name": "11 kV lines"
+    },
+    {
+     "name": "సోలార్ పవర్ ప్లాంట్లు",
+     "type": "Scheme",
+     "english_name": "Solar Power Plants"
+    },
+    {
+     "name": "25 సంవత్సరాల పాటు ఒకే విధమైన టారిఫ్",
+     "type": "Claim",
+     "english_name": "Same tariff for 25 years"
+    },
+    {
+     "name": "భూ సేకరణ",
+     "type": "Scheme",
+     "english_name": "Land acquisition"
+    },
+    {
+     "name": "1035 మెగావాట్ల సామర్థ్యం",
+     "type": "Claim",
+     "english_name": "1035 MW capacity"
+    },
+    {
+     "name": "టెండర్లు",
+     "type": "Organization",
+     "english_name": "Tenders"
+    },
+    {
+     "name": "మే నెల",
+     "type": "Place",
+     "english_name": "May month"
+    },
+    {
+     "name": "2028--30",
+     "type": "Issue",
+     "english_name": "2028-30"
+    },
+    {
+     "name": "4000 మెగావాట్ల విద్యుత్ ఉత్పత్తి",
+     "type": "Claim",
+     "english_name": "4000 MW power generation"
+    },
+    {
+     "name": "రైతులకు ఉదయం వేళల్లోనే 9 గంటల నాణ్యమైన విద్యుత్ సరఫరా",
+     "type": "Claim",
+     "english_name": "9 hours quality power supply to farmers in morning"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎమ్మెల్యే కొణతాల రామకృష్ణ",
+     "relation": "MAKES_CLAIM",
+     "target": "46 వేల వ్యవసాయ ఉచిత విద్యుత్ కనెక్షన్లు",
+     "evidence": "ఎమ్మెల్యే కొణతాల రామకృష్ణ అడిగిన ప్రశ్నకు మంత్రి గొట్టిపాటి రవికుమార్ అసెంబ్లీలో ప్రకటన"
+    },
+    {
+     "source": "మంత్రి గొట్టిపాటి రవికుమార్",
+     "relation": "MAKES_CLAIM",
+     "target": "22,30,703 ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "evidence": "రాష్ట్రవ్యాప్తంగా 22,30,703 ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు ఉన్నాయని అసెంబ్లీ సాక్షిగా మంత్రి ప్రకటించారు"
+    },
+    {
+     "source": "మంత్రి గొట్టిపాటి రవికుమార్",
+     "relation": "MAKES_CLAIM",
+     "target": "1,02,538 కొత్త ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు",
+     "evidence": "మూడు డిస్కంల పరిధిలో 1,02,538 కొత్త ఉచిత వ్యవసాయ విద్యుత్ కనెక్షన్లు మంజూరు చేసినట్లు పేర్కొన్నారు"
+    },
+    {
+     "source": "మంత్రి గొట్టిపాటి రవికుమార్",
+     "relation": "MAKES_CLAIM",
+     "target": "46 వేల వ్యవసాయ విద్యుత్ కనెక్షన్లు పెండింగ్లో",
+     "evidence": "అయితే మరో 46 వేల వ్యవసాయ విద్యుత్ కనెక్షన్లు పెండింగ్లో ఉన్నాయని తెలిపిన మంత్రి గొట్టిపాటి"
+    },
+    {
+     "source": "రాష్ట్ర ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "శ్రీకాకుళం, విజయనగరం, విశాఖపట్నం, అనకాపల్లి, అరకు",
+     "evidence": "జోన్ - 1 (శ్రీకాకుళం, విజయనగరం, విశాఖపట్నం, అనకాపల్లి, అరకు)"
+    },
+    {
+     "source": "చైతన్యరథం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి / అనకాపల్లి",
+     "evidence": "అమరావతి / అనకాపల్లి (చైతన్యరథం)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5a39cb6390e9824cf2b7409445ef2be340930baf": {
+   "entities": [
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "బడ్జెట్ కేటాయింపులు",
+     "type": "Scheme",
+     "english_name": "Budget Allocations"
+    },
+    {
+     "name": "మై టీడీపీ యాప్",
+     "type": "Scheme",
+     "english_name": "My TDP App"
+    },
+    {
+     "name": "గద్దె క్రాంతి కుమార్",
+     "type": "Person",
+     "english_name": "Gadde Kanthi Kumar"
+    },
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "తూర్పు నియోజకవర్గ తెలుగుదేశం పార్టీ కార్యాలయం",
+     "type": "Organization",
+     "english_name": "East Constituency TDP Office"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    }
+   ],
+   "relations": [
+    {
+     "source": "గద్దె క్రాంతి కుమార్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మై టీడీపీ యాప్",
+     "evidence": "గద్దె క్రాంతి కుమార్ మై టీడీపీ యాప్ పోస్టర్లు, బ్యానర్లు ఆవిష్కరించారు."
+    },
+    {
+     "source": "నారా లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మై టీడీపీ యాప్",
+     "evidence": "మంత్రి నారా లోకేష్ ఆలోచనలతో ప్రతి తెలుగుదేశం కార్యకర్తకు ఉపయోగపడే విధంగా “మై టీడీపీ” యాప్ రూపొందించబడింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5c401e7695734533642c0abe3c024667ce0699e3": {
+   "entities": [
+    {
+     "name": "మై టీడీపీ యాప్",
+     "type": "Scheme",
+     "english_name": "My TDP App"
+    },
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "ప్రభుత్వ చీఫ్ విప్ జీవీ ఆంజనేయులు",
+     "type": "Person",
+     "english_name": "GV Anjaneyulu"
+    },
+    {
+     "name": "నారా చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "వినుకొండ",
+     "type": "Place",
+     "english_name": "Vinukonda"
+    },
+    {
+     "name": "స్వర్ణాంధ్ర - స్వచ్ఛాంధ్ర",
+     "type": "Scheme",
+     "english_name": "Swarna Andhra - Swachha Andhra"
+    },
+    {
+     "name": "కృష్ణా జిల్లా తెలుగు దేశం పార్టీ అధ్యక్షులు మరియు ఆంధ్రప్రదేశ్ గౌడ వెల్ఫేర్ అండ్ డెవలప్మెంట్ కార్పొరేషన్ చైర్మన్ వీరంకి వెంకట గురుమూర్తి",
+     "type": "Person",
+     "english_name": "Veeranki Venkata Gurumoorthy"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3abb00096b30ad3c3a08f38f16c1dcb567618c52": {
+   "entities": [
+    {
+     "name": "గళ్ళా మాధవి",
+     "type": "Person",
+     "english_name": "Galla Madhavi"
+    },
+    {
+     "name": "గుంటూరు పశ్చిమ నియోజకవర్గ ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Guntur West MLA"
+    },
+    {
+     "name": "ముస్లిం సోదరులు",
+     "type": "Person",
+     "english_name": "Muslim brothers"
+    },
+    {
+     "name": "రంజాన్ మాసం",
+     "type": "Issue",
+     "english_name": "Ramzan month"
+    },
+    {
+     "name": "మసీదుల వద్ద ప్రత్యేక శానిటేషన్, తాగునీటి సౌకర్యాలు",
+     "type": "Issue",
+     "english_name": "Special sanitation and drinking water facilities at mosques"
+    },
+    {
+     "name": "వేములకొండ శ్రీనివాస్",
+     "type": "Person",
+     "english_name": "Vemulakonda Srinivas"
+    },
+    {
+     "name": "గుంటూరు జిల్లా బీసీ విభాగం అధ్యక్షులు",
+     "type": "Person",
+     "english_name": "Guntur District BC Department President"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బీసీ సంక్షేమానికి రూ.51,021 కోట్లు",
+     "type": "Scheme",
+     "english_name": "Rs.51,021 crores for BC welfare"
+    },
+    {
+     "name": "అదరణ 3.0 పథకం",
+     "type": "Scheme",
+     "english_name": "Adarana 3.0 scheme"
+    },
+    {
+     "name": "ఉచిత విద్యుత్",
+     "type": "Scheme",
+     "english_name": "Free electricity"
+    },
+    {
+     "name": "నెల్లాకు రూ.50 కోట్లు",
+     "type": "Scheme",
+     "english_name": "Rs.50 crores per month"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ సంక్షేమానికి రూ.51,021 కోట్లు",
+     "evidence": "ముఖ్యమంత్రి చంద్రబాబు బీసీ వర్గాలపై చూపుతున్న నిబద్ధతకు ఇది నిదర్శనమని పేర్కొన్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అదరణ 3.0 పథకం",
+     "evidence": "అదరణ 3.0 పథకానికి రూ.1,000 కోట్లు కేటాయించడం ద్వారా బీసీ కుటుంబాలకు ప్రత్యక్ష లాభం చేకూరుతుందని తెలిపారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉచిత విద్యుత్",
+     "evidence": "ఉచిత విద్యుత్ కోసము రూ.150 కోట్లు కేటాయించడం ద్వారా బీసీ కుటుంబాలకు ప్రత్యక్ష లాభం చేకూరుతుందని తెలిపారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెల్లాకు రూ.50 కోట్లు",
+     "evidence": "నెల్లాకు రూ.50 కోట్లు కేటాయించడం ద్వారా బీసీ కుటుంబాలకు ప్రత్యక్ష లాభం చేకూరుతుందని తెలిపారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d5b50d8fbc460c5b5bb2f0e2a5942ab7535c0064": {
+   "entities": [
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పొన్నూరు నియోజకవర్గ శాసనసభ్యులు",
+     "type": "Person",
+     "english_name": "Dhuripala Narendra Kumar"
+    },
+    {
+     "name": "పెదకాకాని మండలం",
+     "type": "Place",
+     "english_name": "Pedakakani Mandal"
+    },
+    {
+     "name": "బాధితులు",
+     "type": "Person",
+     "english_name": "Victims"
+    },
+    {
+     "name": "సహాయ నిధి",
+     "type": "Scheme",
+     "english_name": "Chief Minister's Relief Fund"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సహాయ నిధి",
+     "evidence": "ముఖ్యమంత్రి సహాయనిధి అందించిన ముఖ్యమంత్రి చంద్రబాబుకు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4d29766b463c079228ed28294957390279a0dca1": {
+   "entities": [
+    {
+     "name": "బడ్జెట్",
+     "type": "Claim",
+     "english_name": "Budget"
+    },
+    {
+     "name": "వ్యవసాయం",
+     "type": "Claim",
+     "english_name": "Agriculture"
+    },
+    {
+     "name": "పారిశ్రామిక రంగం",
+     "type": "Claim",
+     "english_name": "Industrial sector"
+    },
+    {
+     "name": "సాగునీరు",
+     "type": "Claim",
+     "english_name": "Irrigation"
+    },
+    {
+     "name": "విద్య",
+     "type": "Claim",
+     "english_name": "Education"
+    },
+    {
+     "name": "వైద్యం",
+     "type": "Claim",
+     "english_name": "Health"
+    },
+    {
+     "name": "టూరిజం",
+     "type": "Claim",
+     "english_name": "Tourism"
+    },
+    {
+     "name": "పంచాయతీరాజ్",
+     "type": "Claim",
+     "english_name": "Panchayat Raj"
+    },
+    {
+     "name": "మహిళా సంక్షేమ రంగం",
+     "type": "Claim",
+     "english_name": "Women welfare sector"
+    },
+    {
+     "name": "ఎస్సీ",
+     "type": "Claim",
+     "english_name": "SC"
+    },
+    {
+     "name": "ఎస్టీ",
+     "type": "Claim",
+     "english_name": "ST"
+    },
+    {
+     "name": "బీసీ",
+     "type": "Claim",
+     "english_name": "BC"
+    },
+    {
+     "name": "మైనార్టీలు",
+     "type": "Claim",
+     "english_name": "Minorities"
+    },
+    {
+     "name": "రూ.3,32,205 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 3,32,205 crores"
+    },
+    {
+     "name": "ముఖ్యమంత్రి నారా చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chief Minister Nara Chandrababu Naidu"
+    },
+    {
+     "name": "ఆర్థిక శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "పయ్యావుల కేశవ్",
+     "type": "Person",
+     "english_name": "Payyavula Kesav"
+    },
+    {
+     "name": "ఉప ముఖ్యమంత్రి కొణిదెల పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Deputy Chief Minister Konidela Pawan Kalyan"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Education Minister Nara Lokesh"
+    },
+    {
+     "name": "జిల్లా పార్టీ ప్రధాన కార్యదర్శి గోపు సత్యనారాయణ",
+     "type": "Person",
+     "english_name": "District Party General Secretary Gopula Satyanarayana"
+    },
+    {
+     "name": "గృహనిర్మాణం",
+     "type": "Claim",
+     "english_name": "Housing"
+    },
+    {
+     "name": "రూ.6,357 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 6,357 crores"
+    },
+    {
+     "name": "సంక్షేమం",
+     "type": "Claim",
+     "english_name": "Welfare"
+    },
+    {
+     "name": "రూ.91,527 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 91,527 crores"
+    },
+    {
+     "name": "బీసీల అభివృద్ధి",
+     "type": "Claim",
+     "english_name": "BC development"
+    },
+    {
+     "name": "రూ.51,021 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 51,021 crores"
+    },
+    {
+     "name": "ఎస్టీలకు",
+     "type": "Claim",
+     "english_name": "ST"
+    },
+    {
+     "name": "రూ.9,190 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 9,190 crores"
+    },
+    {
+     "name": "మైనార్టీలకు",
+     "type": "Claim",
+     "english_name": "Minorities"
+    },
+    {
+     "name": "రూ.6,090 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 6,090 crores"
+    },
+    {
+     "name": "మహిళా-శిశు-వికలాంగుల సంక్షేమం",
+     "type": "Claim",
+     "english_name": "Women-child-disabled welfare"
+    },
+    {
+     "name": "రూ.4,582 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 4,582 crores"
+    },
+    {
+     "name": "విజన్ 2047",
+     "type": "Scheme",
+     "english_name": "Vision 2047"
+    },
+    {
+     "name": "ఆర్థిక క్రమశిక్షణ",
+     "type": "Claim",
+     "english_name": "Financial discipline"
+    },
+    {
+     "name": "ఉపాధి అవకాశాలు",
+     "type": "Claim",
+     "english_name": "Employment opportunities"
+    },
+    {
+     "name": "పెట్టుబడులు",
+     "type": "Claim",
+     "english_name": "Investments"
+    },
+    {
+     "name": "ప్రగతి సాధక ప్రజా బడ్జెట్",
+     "type": "Claim",
+     "english_name": "Progressive people's budget"
+    },
+    {
+     "name": "వీరంకి వెంకట గురుమూర్తి",
+     "type": "Person",
+     "english_name": "Veeranki Venkata Gurumurthy"
+    },
+    {
+     "name": "జిల్లా పార్టీ ఉపాధ్యక్షులు మోటమర్రి బాబా ప్రసాద్",
+     "type": "Person",
+     "english_name": "District Party Vice President Motamarri Baba Prasad"
+    },
+    {
+     "name": "జిల్లా కార్యాలయ కార్యదర్శి బత్తిన దాస్",
+     "type": "Person",
+     "english_name": "District Office Secretary Bathina Das"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముఖ్యమంత్రి నారా చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "బడ్జెట్",
+     "evidence": "బడ్జెట్ అన్నారు."
+    },
+    {
+     "source": "వీరంకి వెంకట గురుమూర్తి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రగతి సాధక ప్రజా బడ్జెట్",
+     "evidence": "ఈ బడ్జెట్ ప్రగతి సాధక ప్రజా బడ్జెట్ అని వీరంకి వెంకట గురుమూర్తి అన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7982a7868ac71948398281d667f928e595110542": {
+   "entities": [
+    {
+     "name": "రూ.6,090 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.6,090 crores"
+    },
+    {
+     "name": "మహిళా-శిశు-వికలాంగుల సంక్షేమానికి రూ.4,582 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.4,582 crores for women-child-disabled welfare"
+    },
+    {
+     "name": "విజన్ 2047",
+     "type": "Scheme",
+     "english_name": "Vision 2047"
+    },
+    {
+     "name": "వీరంకి వెంకట గురుమూర్తి",
+     "type": "Person",
+     "english_name": "Veeranki Venkata Gurumurthy"
+    },
+    {
+     "name": "మోటమర్రి బాబా ప్రసాద్",
+     "type": "Person",
+     "english_name": "Motamarri Baba Prasad"
+    },
+    {
+     "name": "బత్తిన దాస్",
+     "type": "Person",
+     "english_name": "Bathina Das"
+    },
+    {
+     "name": "చత్రపతి శివాజీ",
+     "type": "Person",
+     "english_name": "Chhatrapati Shivaji"
+    },
+    {
+     "name": "శ్రీరాం రాజగోపాల్",
+     "type": "Person",
+     "english_name": "Sriram Rajagopal"
+    },
+    {
+     "name": "నూకల కుమార్ రాజా",
+     "type": "Person",
+     "english_name": "Nukala Kumar Raja"
+    },
+    {
+     "name": "వెంగళరావు",
+     "type": "Person",
+     "english_name": "Vengalarao"
+    },
+    {
+     "name": "సంకా వెంకట్రావు",
+     "type": "Person",
+     "english_name": "Sanka Venkatarao"
+    },
+    {
+     "name": "సంకా భాస్కరరావు",
+     "type": "Person",
+     "english_name": "Sanka Bhaskara Rao"
+    },
+    {
+     "name": "అల్లీ",
+     "type": "Person",
+     "english_name": "Alli"
+    },
+    {
+     "name": "రవిచంద్",
+     "type": "Person",
+     "english_name": "Ravichand"
+    },
+    {
+     "name": "షేక్ ఇజాజ్",
+     "type": "Person",
+     "english_name": "Shiek Ijaz"
+    },
+    {
+     "name": "పున్నా ఉపేంద్ర",
+     "type": "Person",
+     "english_name": "Puna Upendra"
+    },
+    {
+     "name": "ధూళిపాళ్ల నరేంద్ర",
+     "type": "Person",
+     "english_name": "Duddupala Narendra"
+    },
+    {
+     "name": "పొన్నూరు",
+     "type": "Place",
+     "english_name": "Ponnur"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సీఎంఆర్ఎఫ్",
+     "type": "Scheme",
+     "english_name": "CM Relief Fund"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వీరంకి వెంకట గురుమూర్తి",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.6,090 కోట్లు",
+     "evidence": "రూ.6,090 కోట్లు, మహిళా-శిశు-వికలాంగుల సంక్షేమానికి రూ.4,582 కోట్లు కేటాయించారని వివరించారు."
+    },
+    {
+     "source": "వీరంకి వెంకట గురుమూర్తి",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళా-శిశు-వికలాంగుల సంక్షేమానికి రూ.4,582 కోట్లు",
+     "evidence": "రూ.6,090 కోట్లు, మహిళా-శిశు-వికలాంగుల సంక్షేమానికి రూ.4,582 కోట్లు కేటాయించారని వివరించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ffbfe17901214f80e2b085f778f7b0634f046629": {
+   "entities": [
+    {
+     "name": "రైతు",
+     "type": "Person",
+     "english_name": "Farmer"
+    },
+    {
+     "name": "గ్రామీణ యువత",
+     "type": "Person",
+     "english_name": "Rural youth"
+    },
+    {
+     "name": "స్థానిక అధికారులు",
+     "type": "Organization",
+     "english_name": "Local officials"
+    },
+    {
+     "name": "కలెక్టర్",
+     "type": "Person",
+     "english_name": "Collector"
+    },
+    {
+     "name": "ఛాంపియన్ రైతు",
+     "type": "Claim",
+     "english_name": "Champion farmer"
+    },
+    {
+     "name": "పొదలకూరు",
+     "type": "Place",
+     "english_name": "Podalakur"
+    },
+    {
+     "name": "ఇనుకుర్తి పంచాయతీ",
+     "type": "Place",
+     "english_name": "Inukurthi Panchayat"
+    },
+    {
+     "name": "ముదిగేడు",
+     "type": "Place",
+     "english_name": "Mudigedu"
+    },
+    {
+     "name": "చిరంజీవి",
+     "type": "Person",
+     "english_name": "Chiranjeevi"
+    },
+    {
+     "name": "ఇంజనీరింగ్ విద్య",
+     "type": "Scheme",
+     "english_name": "Engineering education"
+    },
+    {
+     "name": "ప్రైవేట్ కంపెనీలు",
+     "type": "Organization",
+     "english_name": "Private companies"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రైతు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఛాంపియన్ రైతు",
+     "evidence": "రైతు నిరూపించారు.. మెట్టప్రాంతంలోని మారుమూల గ్రామంలో షేర్నెట్ కింద పూల సాగు చేస్తూ లాభాలు సాధిస్తూ గ్రామీణ యువతకు ఆదర్శంగా నిలుస్తున్నారు.. స్థానిక అధికారుల సూచనతో కలెక్టర్ గుర్తించి ఛాంపియన్ రైతుగా ప్రకటించారు."
+    },
+    {
+     "source": "స్థానిక అధికారులు",
+     "relation": "LOCATED_IN",
+     "target": "పొదలకూరు",
+     "evidence": "స్థానిక అధికారుల సూచనతో కలెక్టర్ గుర్తించి ఛాంపియన్ రైతుగా ప్రకటించారు."
+    },
+    {
+     "source": "చిరంజీవి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఛాంపియన్ రైతు",
+     "evidence": "రైతు నిరూపించారు.. మెట్టప్రాంతంలోని మారుమూల గ్రామంలో షేర్నెట్ కింద పూల సాగు చేస్తూ లాభాలు సాధిస్తూ గ్రామీణ యువతకు ఆదర్శంగా నిలుస్తున్నారు.. స్థానిక అధికారుల సూచనతో కలెక్టర్ గుర్తించి ఛాంపియన్ రైతుగా ప్రకటించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9863189fa5e7d4edf3c6f75a06c1f17442ef61bb": {
+   "entities": [
+    {
+     "name": "చదువు, సాంకేతికత, పట్టుదల కలిస్తే వ్యవసాయంలో లాభాల పంటే!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పొదలకూరు (చైతన్యరథం)",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "యువరైతు విజయగాధ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చిరంజీవి",
+     "type": "Person",
+     "english_name": "Chiranjeevi"
+    },
+    {
+     "name": "ఇనుకుర్తి పంచాయతీ ముదిగేడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "షేర్నెట్",
+     "type": "Organization",
+     "english_name": "Shearnet"
+    },
+    {
+     "name": "పలు నగరాల్లో ప్రైవేట్ కంపెనీల్లో ఉద్యోగాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పునె నుంచి (తిరుంగళ్)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యానశాఖ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "జిల్లా కలెక్టరు",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చిరంజీవి",
+     "relation": "MAKES_CLAIM",
+     "target": "చదువు, సాంకేతికత, పట్టుదల కలిస్తే వ్యవసాయంలో లాభాల పంటే!",
+     "evidence": "చదువు, సాంకేతికత, పట్టుదల కలిస్తే వ్యవసాయంలో లాభాల పంటే!"
+    },
+    {
+     "source": "చిరంజీవి",
+     "relation": "MAKES_CLAIM",
+     "target": "యువరైతు విజయగాధ",
+     "evidence": "యువరైతు విజయగాధ"
+    },
+    {
+     "source": "చిరంజీవి",
+     "relation": "MAKES_CLAIM",
+     "target": "పలు నగరాల్లో ప్రైవేట్ కంపెనీల్లో ఉద్యోగాలు",
+     "evidence": "పలు నగరాల్లో ప్రైవేట్ కంపెనీల్లో ఉద్యోగాలు చేసి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "939f1639b485c6d37afaa69362ed32cd6d06bf4f": {
+   "entities": [
+    {
+     "name": "జోన్-4",
+     "type": "Place",
+     "english_name": "Zone-4"
+    },
+    {
+     "name": "ఒంగోలు",
+     "type": "Place",
+     "english_name": "Ongole"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "రాజంపేట",
+     "type": "Place",
+     "english_name": "Rajampet"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "చిత్తూరు",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "కోవూరు(చైతన్యరథం)",
+     "type": "Place",
+     "english_name": "Kovur (Chaitanya Ratham)"
+    },
+    {
+     "name": "వేమిరెడ్డి ప్రశాంతిరెడ్డి",
+     "type": "Person",
+     "english_name": "Vemireddy Prashanthi Reddy"
+    },
+    {
+     "name": "హోం మంత్రి",
+     "type": "Person",
+     "english_name": "Home Minister"
+    },
+    {
+     "name": "అనిత",
+     "type": "Person",
+     "english_name": "Anitha"
+    },
+    {
+     "name": "సైబర్ నేరగాళ్లు",
+     "type": "Organization",
+     "english_name": "Cybercriminals"
+    },
+    {
+     "name": "సైబర్ క్రైం",
+     "type": "Issue",
+     "english_name": "Cybercrime"
+    },
+    {
+     "name": "డిజిటల్ లావాదేవీలు",
+     "type": "Issue",
+     "english_name": "Digital transactions"
+    },
+    {
+     "name": "డిజిటల్ నేరాలు",
+     "type": "Issue",
+     "english_name": "Digital crimes"
+    },
+    {
+     "name": "గ్రామీణ ప్రాంతాలు",
+     "type": "Place",
+     "english_name": "Rural areas"
+    },
+    {
+     "name": "పార్ట్టైమ్ జాబ్స్",
+     "type": "Issue",
+     "english_name": "Part-time jobs"
+    },
+    {
+     "name": "ట్రేడింగ్",
+     "type": "Issue",
+     "english_name": "Trading"
+    },
+    {
+     "name": "మ్యాట్రిమొని",
+     "type": "Issue",
+     "english_name": "Matrimony"
+    },
+    {
+     "name": "ఓటీపీ",
+     "type": "Issue",
+     "english_name": "OTP"
+    },
+    {
+     "name": "కేవైసీ",
+     "type": "Issue",
+     "english_name": "KYC"
+    },
+    {
+     "name": "సోషల్ మీడియా అకౌంట్ల హ్యాకింగ్",
+     "type": "Issue",
+     "english_name": "Social media account hacking"
+    },
+    {
+     "name": "ఫేక్ జాబ్",
+     "type": "Issue",
+     "english_name": "Fake job"
+    },
+    {
+     "name": "లాటరీ",
+     "type": "Issue",
+     "english_name": "Lottery"
+    },
+    {
+     "name": "ఇన్వెస్ట్మెంట్ స్కామ్లు",
+     "type": "Issue",
+     "english_name": "Investment scams"
+    },
+    {
+     "name": "డిజిటల్ అరెస్ట్",
+     "type": "Issue",
+     "english_name": "Digital arrest"
+    },
+    {
+     "name": "కోవూరు",
+     "type": "Place",
+     "english_name": "Kovur"
+    },
+    {
+     "name": "2 లక్షలు",
+     "type": "Claim",
+     "english_name": "2 lakh rupees lost"
+    },
+    {
+     "name": "24/7 కాల్ సెంటర్",
+     "type": "Organization",
+     "english_name": "24/7 call center"
+    },
+    {
+     "name": "సైబర్ క్రైమ్ సెల్లు",
+     "type": "Organization",
+     "english_name": "Cybercrime cells"
+    },
+    {
+     "name": "బ్యాంకులు",
+     "type": "Organization",
+     "english_name": "Banks"
+    },
+    {
+     "name": "టెలికాం కంపెనీలు",
+     "type": "Organization",
+     "english_name": "Telecom companies"
+    },
+    {
+     "name": "డిజిటల్ ఇండియా",
+     "type": "Organization",
+     "english_name": "Digital India"
+    },
+    {
+     "name": "సైబర్ భద్రత",
+     "type": "Issue",
+     "english_name": "Cyber security"
+    },
+    {
+     "name": "పొదలకూరు (చైతన్యరథం)",
+     "type": "Place",
+     "english_name": "Podalakur (Chaitanya Ratham)"
+    },
+    {
+     "name": "చదువు",
+     "type": "Issue",
+     "english_name": "Education"
+    },
+    {
+     "name": "సాంకేతికత",
+     "type": "Issue",
+     "english_name": "Technology"
+    },
+    {
+     "name": "పట్టుదల",
+     "type": "Issue",
+     "english_name": "Determination"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cd5dfc3549db51e3d6509e988fe11b1587d110e0": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి నారా చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "కేంద్ర హోంశాఖ మంత్రి అమిత్ షా",
+     "type": "Person",
+     "english_name": "Amit Shah"
+    },
+    {
+     "name": "ఆర్డీటీ",
+     "type": "Organization",
+     "english_name": "Rural Development Trust"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur district"
+    },
+    {
+     "name": "కాల్వ శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "Kalva Srinivasaulu"
+    },
+    {
+     "name": "ఎమ్మెస్ రాజు",
+     "type": "Person",
+     "english_name": "M. S. Raju"
+    },
+    {
+     "name": "సురేంద్రబాబు",
+     "type": "Person",
+     "english_name": "Surendrababu"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Alliance Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి నారా చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "కేంద్ర హోంశాఖ మంత్రి అమిత్ షా",
+     "evidence": "కేంద్ర హోంశాఖ మంత్రి అమిత్ షా కూడా ఈ సమస్య పట్ల సానుకూలంగానే ఉన్నారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e5049194236cfd630f15d6791d7488a19ce12789": {
+   "entities": [
+    {
+     "name": "గుండా శివాజీ విగ్రహం",
+     "type": "Place",
+     "english_name": "Gunda Shivaji Statue"
+    },
+    {
+     "name": "టీడీపీ బీసీ సెల్ రాష్ట్ర ఉపాధ్యక్షులు ధర్మవరం సుబ్బారావు",
+     "type": "Person",
+     "english_name": "Dharmavaram Subbarao"
+    },
+    {
+     "name": "బీజేపీ రాష్ట్ర ఉపాధ్యక్షులు సురేందర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Surender Reddy"
+    },
+    {
+     "name": "47వ డివిజన్ టీడీపీ ఇన్చార్జ్ డాక్టర్ గణేష్ కుమార్",
+     "type": "Person",
+     "english_name": "Dr. Ganesh Kumar"
+    },
+    {
+     "name": "మరాఠీ మిత్రమండలి అధ్యక్షుడు దేవా",
+     "type": "Person",
+     "english_name": "Deva"
+    },
+    {
+     "name": "జనరల్ సెక్రటరీ కల్వకుంట భాస్కర్",
+     "type": "Person",
+     "english_name": "Kalvakuntla Bhaskar"
+    },
+    {
+     "name": "శ్రీమంతుల శేఖర్",
+     "type": "Person",
+     "english_name": "Sreemanthula Sekhar"
+    },
+    {
+     "name": "హోం మంత్రి అనిత",
+     "type": "Person",
+     "english_name": "Home Minister Anita"
+    },
+    {
+     "name": "ఎమ్మెల్యే ప్రశాంతి",
+     "type": "Person",
+     "english_name": "MLA Prashanti"
+    }
+   ],
+   "relations": [
+    {
+     "source": "హోం మంత్రి అనిత",
+     "relation": "ACCUSES",
+     "target": "ఎమ్మెల్యే ప్రశాంతి",
+     "evidence": "హోం మంత్రి అనిత హెచ్చరిక, ఎమ్మెల్యే ప్రశాంతి అవేదనపై స్పందన"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2180b1bac5954bec16f749ca10a0f158ebf632f3": {
+   "entities": [
+    {
+     "name": "FCRRA renewal",
+     "type": "Issue",
+     "english_name": "FCRRA renewal"
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "Assembly",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "RDT",
+     "type": "Issue",
+     "english_name": "RDT"
+    },
+    {
+     "name": "Anantapuram district",
+     "type": "Place",
+     "english_name": "Anantapuram district"
+    },
+    {
+     "name": "Coalition government",
+     "type": "Organization",
+     "english_name": "Coalition government"
+    },
+    {
+     "name": "Amit Shah",
+     "type": "Person",
+     "english_name": "Amit Shah"
+    },
+    {
+     "name": "CM Chandrababu",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "Prakasham district",
+     "type": "Place",
+     "english_name": "Prakasham district"
+    },
+    {
+     "name": "Collector P Rajababu",
+     "type": "Person",
+     "english_name": "Collector P Rajababu"
+    },
+    {
+     "name": "SP Harsha Vardhan Raju",
+     "type": "Person",
+     "english_name": "SP Harsha Vardhan Raju"
+    },
+    {
+     "name": "Gudur Ericson Babu",
+     "type": "Person",
+     "english_name": "Gudur Ericson Babu"
+    },
+    {
+     "name": "Velugonda project",
+     "type": "Organization",
+     "english_name": "Velugonda project"
+    },
+    {
+     "name": "Sub Collector Pulishri",
+     "type": "Person",
+     "english_name": "Sub Collector Pulishri"
+    },
+    {
+     "name": "DSP Nagaraaju",
+     "type": "Person",
+     "english_name": "DSP Nagaraaju"
+    },
+    {
+     "name": "RDO Erigepalem Ajay Babu",
+     "type": "Person",
+     "english_name": "RDO Erigepalem Ajay Babu"
+    },
+    {
+     "name": "SE of Velugonda project",
+     "type": "Person",
+     "english_name": "SE of Velugonda project"
+    },
+    {
+     "name": "Chhatrapati Shivaji Maharaj",
+     "type": "Person",
+     "english_name": "Chhatrapati Shivaji Maharaj"
+    },
+    {
+     "name": "Marathi Mitra Mandal",
+     "type": "Organization",
+     "english_name": "Marathi Mitra Mandal"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Velugonda project",
+     "relation": "LOCATED_IN",
+     "target": "Prakasham district",
+     "evidence": "వెలుగొండ ప్రాజెక్ట్ ఫీడర్ కెనాల్, టన్నెల్ పనుల పరిశీలన"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "75b66d81a3373118889a9527996c1fc0221ced14": {
+   "entities": [
+    {
+     "name": "గిరిజనుల సంక్షేమం",
+     "type": "Scheme",
+     "english_name": "Tribal Welfare"
+    },
+    {
+     "name": "లోకేష్ బాబు",
+     "type": "Person",
+     "english_name": "Lokesh Babu"
+    },
+    {
+     "name": "యార్లగడ్డ వెంకట్రావు",
+     "type": "Person",
+     "english_name": "Yarlagadda Venkatarao"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Diksoochi Alliance Government"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "అమృత్ సేన్",
+     "type": "Person",
+     "english_name": "Amartya Sen"
+    },
+    {
+     "name": "వైసీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "ప్రస్తుత ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Current Government"
+    },
+    {
+     "name": "వెంకట్రావు",
+     "type": "Person",
+     "english_name": "Venkatarao"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Place",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఏపీ వెల్త్ ఫండ్",
+     "type": "Scheme",
+     "english_name": "AP Wealth Fund"
+    },
+    {
+     "name": "విద్యుత్ రంగం",
+     "type": "Organization",
+     "english_name": "Power Sector"
+    },
+    {
+     "name": "విద్యా రంగం",
+     "type": "Organization",
+     "english_name": "Education Sector"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లోకేష్ బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గిరిజనుల సంక్షేమం",
+     "evidence": "గిరిజనుల సంక్షేమం మరియు అభివృద్ధి విషయంలో రాష్ట్ర ప్రభుత్వం తీసుకుంటున్న ఈ చారిత్రాత్మక నిర్ణయాలను ఆయన హర్షిస్తూ యువనేత లోకేష్ బాబు నాయకత్వంలో గిరిజన సమాజం అన్ని రంగాల్లో అభివృద్ధి సాధిస్తుందని ఆయన విశ్వాసం వ్యక్తం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "112a15010720ef76c5f754306bf9cc7ed8edf313": {
+   "entities": [
+    {
+     "name": "పరిటాల సునీత",
+     "type": "Person",
+     "english_name": "Paritala Sunitha"
+    },
+    {
+     "name": "రామానాయుడు",
+     "type": "Person",
+     "english_name": "Ramanaidu"
+    },
+    {
+     "name": "రాప్తాడు ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Rapthadu MLA"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ రాష్ట్ర చేనేత, జౌళి పరిశ్రమ శాఖలు",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State Handloom and Textile Industries Department"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Scheme",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "BUDGET 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రామానాయుడు",
+     "relation": "DEFENDS",
+     "target": "LADDU HERITAGE INDHAPUR",
+     "evidence": "సానుకూలంగా స్పందించారు."
+    },
+    {
+     "source": "రామానాయుడు",
+     "relation": "DEFENDS",
+     "target": "BUDGET 2026-27",
+     "evidence": "సానుకూలంగా స్పందించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "833aeb6660acf9ee62a893a21f27886c12ee1426": {
+   "entities": [
+    {
+     "name": "రుద్రవరం",
+     "type": "Place",
+     "english_name": "Rudravaram"
+    },
+    {
+     "name": "దిగువ అహోబిలం",
+     "type": "Place",
+     "english_name": "Lower Ahobilam"
+    },
+    {
+     "name": "స్వామి పల్లకీ",
+     "type": "Place",
+     "english_name": "Swami Pallaki"
+    },
+    {
+     "name": "ఆలయ అర్చకులు",
+     "type": "Organization",
+     "english_name": "Temple Priests"
+    },
+    {
+     "name": "గ్రామస్తులు",
+     "type": "Organization",
+     "english_name": "Villagers"
+    },
+    {
+     "name": "పీఠాధిపతి రంగనాథ యతేంద్ర మహాదేశికన్",
+     "type": "Person",
+     "english_name": "Ranganatha Yethendra Mahadesikan"
+    },
+    {
+     "name": "ప్రహ్లాద వరద స్వామి",
+     "type": "Person",
+     "english_name": "Prahlada Varda Swami"
+    },
+    {
+     "name": "జ్వాలా నరసింహస్వామి",
+     "type": "Person",
+     "english_name": "Jwala Narasimha Swami"
+    },
+    {
+     "name": "ఆలయ ప్రధానార్చకుడు కిడాంబి వేణుగోపాలన్",
+     "type": "Person",
+     "english_name": "Kidambi Venugopalan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆలయ అర్చకులు",
+     "relation": "LOCATED_IN",
+     "target": "దిగువ అహోబిలం",
+     "evidence": "ఆలయ అర్చకులు, గ్రామస్తులు ఊరేగింపుగా వెళ్లి స్వామికి ఆలయ మర్యాదలతో స్వాగతం పలికారు."
+    },
+    {
+     "source": "గ్రామస్తులు",
+     "relation": "LOCATED_IN",
+     "target": "దిగువ అహోబిలం",
+     "evidence": "ఆలయ అర్చకులు, గ్రామస్తులు ఊరేగింపుగా వెళ్లి స్వామికి ఆలయ మర్యాదలతో స్వాగతం పలికారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0df048b757c2dcf798d59367a5fda1a947f924f3": {
+   "entities": [
+    {
+     "name": "జోన్-5",
+     "type": "Place",
+     "english_name": "Zone-5"
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": "Nandyal"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "హిందూపూరు",
+     "type": "Place",
+     "english_name": "Hindupur"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "రాప్తాడు",
+     "type": "Place",
+     "english_name": "Rapthadu"
+    },
+    {
+     "name": "హంద్రీనీవా ప్రాజెక్ట్",
+     "type": "Organization",
+     "english_name": "Handri Neerava Project"
+    },
+    {
+     "name": "హంద్రీనీవా",
+     "type": "Organization",
+     "english_name": "Handri Neerava"
+    },
+    {
+     "name": "నిమ్మల రామానాయుడు",
+     "type": "Person",
+     "english_name": "Nimmala Ramanaidu"
+    },
+    {
+     "name": "ఎమ్మెల్యే పరిటాల సునీత",
+     "type": "Person",
+     "english_name": "MLA Paritala Sunitha"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చెన్నేకొత్తపల్లి",
+     "type": "Place",
+     "english_name": "Chennekothapalli"
+    },
+    {
+     "name": "వెంకటంపల్లి",
+     "type": "Place",
+     "english_name": "Venkatampalli"
+    },
+    {
+     "name": "ఓబుళంపల్లి",
+     "type": "Place",
+     "english_name": "Obulampalli"
+    },
+    {
+     "name": "ఒంటికొండ",
+     "type": "Place",
+     "english_name": "Ontikonda"
+    },
+    {
+     "name": "చిన్న మొగలాయిపల్లి",
+     "type": "Place",
+     "english_name": "Chinna Mogalapalii"
+    },
+    {
+     "name": "పెద్ద మొగలాయిపల్లి",
+     "type": "Place",
+     "english_name": "Pedda Mogalapalii"
+    },
+    {
+     "name": "మేడాపురం",
+     "type": "Place",
+     "english_name": "Medapuram"
+    },
+    {
+     "name": "కనముక్కల",
+     "type": "Place",
+     "english_name": "Kanumukkala"
+    },
+    {
+     "name": "కనుముక్కల ఎర్ర చెరువు",
+     "type": "Organization",
+     "english_name": "Kanumukkala Erra Cheruvu"
+    },
+    {
+     "name": "మేడాపురం ఎం.ఐ. ట్యాంకులు",
+     "type": "Organization",
+     "english_name": "Medapuram MI Tanks"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e1bb5dd49e31d3c6326f134e1c735f66fdf795b6": {
+   "entities": [
+    {
+     "name": "అహోబిలేశుడి పార్వేట ఉత్సవం",
+     "type": "Organization",
+     "english_name": "Ahobilam Paraveta Festival"
+    },
+    {
+     "name": "తిరుమల శ్రీవారికి పుష్ప కైంకర్యం",
+     "type": "Organization",
+     "english_name": "Tirumala Sri Vari Pushpa Kairinkyam"
+    },
+    {
+     "name": "టీటీడీ ఉద్యానవన విభాగం",
+     "type": "Organization",
+     "english_name": "TTD Horticulture Department"
+    },
+    {
+     "name": "తిరుమల తిరుపతి దేవస్థానం ఉద్యానవన విభాగం",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams Horticulture Department"
+    },
+    {
+     "name": "శ్రీవారి ఆలయం",
+     "type": "Organization",
+     "english_name": "Sri Vari Temple"
+    },
+    {
+     "name": "ఉద్యానవనాలు",
+     "type": "Organization",
+     "english_name": "Gardens"
+    },
+    {
+     "name": "పుష్పోత్పత్తి తోటలు",
+     "type": "Organization",
+     "english_name": "Flower Production Gardens"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2fcace5ce2496fca412f843b278ee80b4717721e": {
+   "entities": [
+    {
+     "name": "రాప్తాడు ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Raptadu MLA"
+    },
+    {
+     "name": "పరిటాల సునీత",
+     "type": "Person",
+     "english_name": "Paritala Sunitha"
+    },
+    {
+     "name": "మంత్రి రామానాయుడు",
+     "type": "Person",
+     "english_name": "Minister Ramanaidu"
+    },
+    {
+     "name": "మడకశిర ఎమ్మెల్యే రాజు",
+     "type": "Person",
+     "english_name": "Madakashira MLA Raju"
+    },
+    {
+     "name": "ముఖ్యమంత్రి చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu"
+    },
+    {
+     "name": "ఉపముఖ్యమంత్రి పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Deputy Chief Minister Pawan Kalyan"
+    },
+    {
+     "name": "శ్రీసత్యసాయిజిల్లా తెలుగుదేశంపార్టీ అధ్యక్షులు ఎంఎస్రాజు",
+     "type": "Person",
+     "english_name": "M. S. Raju, President of Sri Sathya Sai District TDP"
+    },
+    {
+     "name": "గొట్టిపాటి రవికుమార్",
+     "type": "Person",
+     "english_name": "Gottipati Ravikumar"
+    },
+    {
+     "name": "ఆళ్లగడ్డ (చైతన్యరథం)",
+     "type": "Place",
+     "english_name": "Allagadda (Chaitanya Ratham)"
+    },
+    {
+     "name": "అహోబిలం",
+     "type": "Place",
+     "english_name": "Ahobilam"
+    },
+    {
+     "name": "పార్వేట ఉత్సవం",
+     "type": "Scheme",
+     "english_name": "Pariveta Utsavam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆళ్లగడ్డ (చైతన్యరథం)",
+     "relation": "LOCATED_IN",
+     "target": "అహోబిలం",
+     "evidence": "ఆళ్లగడ్డ (చైతన్యరథం) ప్రసిద్ధ పుణ్యక్షేత్రం అహోబిలం లక్ష్మీనరసింహస్వామి పార్వేట పల్లకీ గురువారం అహోబిలం చేరుకుంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1c64f79522857af1897ca5e0b5de11692d8d72be": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ నాన్ రెసిడెంట్ తెలుగు సొసైటీ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Non Resident Telugu Society"
+    },
+    {
+     "name": "భారతీయ రాయబార కార్యాలయం",
+     "type": "Organization",
+     "english_name": "Indian Embassy"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "ఏపీఎన్ఆర్ఐ సెల్",
+     "type": "Organization",
+     "english_name": "APNRI Cell"
+    },
+    {
+     "name": "ఏపీ పోలీస్ ఎన్ఆర్ఐ సెల్",
+     "type": "Organization",
+     "english_name": "AP Police NRI Cell"
+    },
+    {
+     "name": "అంబేద్కర్ ఓవర్సీస్ విద్య నిధి",
+     "type": "Scheme",
+     "english_name": "Ambedkar Overseas Education Fund"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "84678ae262dc52fb6068fd598c651968773544d3": {
+   "entities": [
+    {
+     "name": "డాక్టర్ శ్రీని గంగసాని",
+     "type": "Person",
+     "english_name": "Dr. Srin Gangasani"
+    },
+    {
+     "name": "గ్రేటర్ అట్లాంటా తెలంగాణ సొసైటీ",
+     "type": "Organization",
+     "english_name": "Greater Atlanta Telangana Society"
+    },
+    {
+     "name": "గేట్స్ ఎగ్జిక్యూటివ్ కమిటీ",
+     "type": "Organization",
+     "english_name": "Gates Executive Committee"
+    },
+    {
+     "name": "బోర్డ్ ఆఫ్ డైరెక్టర్స్",
+     "type": "Organization",
+     "english_name": "Board of Directors"
+    },
+    {
+     "name": "సాయిశంకర విశ్వనాధ",
+     "type": "Person",
+     "english_name": "Sai Sankar Viswanatha"
+    },
+    {
+     "name": "జాక్సన్‌విల్లే",
+     "type": "Place",
+     "english_name": "Jacksonville"
+    },
+    {
+     "name": "ఫ్లోరిడా",
+     "type": "Place",
+     "english_name": "Florida"
+    },
+    {
+     "name": "తెలుగు అసోసియేషన్ ఆఫ్ జాక్సన్‌విల్లే",
+     "type": "Organization",
+     "english_name": "Telugu Association of Jacksonville"
+    }
+   ],
+   "relations": [
+    {
+     "source": "గ్రేటర్ అట్లాంటా తెలంగాణ సొసైటీ",
+     "relation": "LOCATED_IN",
+     "target": "జాక్సన్‌విల్లే",
+     "evidence": "జాక్సన్‌విల్లేలో దశాబ్దాలుగా తెలుగు సంస్కృతిని కాపాడుతూ ప్రోత్సహిస్తున్న 'తెలుగు అసోసియేషన్ ఆఫ్ జాక్సన్‌విల్లే' (తాజా)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "80a019e622a84fe51b5f48a59d5bd3f7fdaa74f3": {
+   "entities": [
+    {
+     "name": "AP Non Resident Telugu Society",
+     "type": "Organization",
+     "english_name": "AP Non Resident Telugu Society"
+    },
+    {
+     "name": "NRI TDP",
+     "type": "Party",
+     "english_name": "NRI TDP"
+    },
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanya Ratham"
+    },
+    {
+     "name": "డాక్టర్ వేమూరి రవికుమార్",
+     "type": "Person",
+     "english_name": "Dr. Vemuri Ravikumar"
+    },
+    {
+     "name": "డాకర్ రవి",
+     "type": "Person",
+     "english_name": "Dakar Ravi"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "శ్రీకాళహస్తి",
+     "type": "Place",
+     "english_name": "Sri Kalahasti"
+    },
+    {
+     "name": "సింహాచలం",
+     "type": "Place",
+     "english_name": "Simhachalam"
+    },
+    {
+     "name": "అన్నవరం",
+     "type": "Place",
+     "english_name": "Annavaram"
+    },
+    {
+     "name": "కాణిపాకం",
+     "type": "Place",
+     "english_name": "Kanipakam"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "ద్వారకాతిరుమల",
+     "type": "Place",
+     "english_name": "Dwarkatirumala"
+    },
+    {
+     "name": "ఇంద్రకీలాద్రి",
+     "type": "Place",
+     "english_name": "Indrakiladri"
+    },
+    {
+     "name": "శ్రీవేంకటేశ్వరస్వామి",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    },
+    {
+     "name": "APNRTS",
+     "type": "Organization",
+     "english_name": "APNRTS"
+    },
+    {
+     "name": "APSRTS",
+     "type": "Organization",
+     "english_name": "APSRTS"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "18f8eeeeb3d16df6cd8f867fd3fd7537f50e861e": {
+   "entities": [
+    {
+     "name": "విద్యావాహిని",
+     "type": "Organization",
+     "english_name": "Vidya Vahini"
+    },
+    {
+     "name": "అంబేద్కర్ ఓవర్సీస్ విద్య నిధి",
+     "type": "Scheme",
+     "english_name": "Ambedkar Overseas Education Fund"
+    },
+    {
+     "name": "ఏపీ పోలీస్ ఎన్ఆర్ఐ సెల్",
+     "type": "Organization",
+     "english_name": "AP Police NRI Cell"
+    },
+    {
+     "name": "ఏపీఎన్ఆర్ఐ సెల్",
+     "type": "Organization",
+     "english_name": "APNRI Cell"
+    },
+    {
+     "name": "ప్రవాసాంధ్ర భరోసా బీమా",
+     "type": "Scheme",
+     "english_name": "Pravasa Andhra Bharosa Bima"
+    },
+    {
+     "name": "ఏపీఎన్ఆర్టీ ట్రస్ట్",
+     "type": "Organization",
+     "english_name": "APNRT Trust"
+    },
+    {
+     "name": "ప్రీ డిపార్చర్ ఓరియంటేషన్, ట్రైనింగ్ (PDOT)",
+     "type": "Scheme",
+     "english_name": "Pre Departure Orientation, Training (PDOT)"
+    },
+    {
+     "name": "ఆపి",
+     "type": "Organization",
+     "english_name": "API"
+    },
+    {
+     "name": "డాక్టర్ శ్రీని గంగసాని",
+     "type": "Person",
+     "english_name": "Dr. Srinivas Gangasani"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "64a5be2766854ca6ab090e769072d3218612cd11": {
+   "entities": [
+    {
+     "name": "తాజా",
+     "type": "Organization",
+     "english_name": "Telugu Association of Jacksonville"
+    },
+    {
+     "name": "సాయిశంకర విశ్వనాధ",
+     "type": "Person",
+     "english_name": "Sai Shankara Viswanatha"
+    },
+    {
+     "name": "జాక్సన్‌విల్లే",
+     "type": "Place",
+     "english_name": "Jacksonville"
+    },
+    {
+     "name": "ఫ్లోరిడా",
+     "type": "Place",
+     "english_name": "Florida"
+    },
+    {
+     "name": "తెలుగు బడి",
+     "type": "Scheme",
+     "english_name": "Telugu Badi"
+    },
+    {
+     "name": "తెలుగు భాషా దినోత్సవ వేడుకలు",
+     "type": "Scheme",
+     "english_name": "Telugu Language Day celebrations"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాయిశంకర విశ్వనాధ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తెలుగు బడి",
+     "evidence": "ఆయన ప్రకటించారు. ప్రవాస తెలుగు రాష్ట్రాల పిల్లలకు తెలుగు భాషను, మన సంస్కృతిని ఉచితంగా సరళ రీతిలో బోధించడమే ఈ బడి ముఖ్య ఉద్దేశం."
+    },
+    {
+     "source": "సాయిశంకర విశ్వనాధ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తెలుగు భాషా దినోత్సవ వేడుకలు",
+     "evidence": "ఈ ఏడాది నుంచి అధికారికంగా తెలుగు భాషా దినోత్సవ వేడుకలను కూడా 'తాజా' కమిటీ గర్వంగా ప్రకటించింది."
+    },
+    {
+     "source": "తాజా",
+     "relation": "LOCATED_IN",
+     "target": "జాక్సన్‌విల్లే",
+     "evidence": "జాక్సన్‌విల్లేలో దశాబ్దాలుగా తెలుగు సంస్కృతిని కాపాడుతూ ప్రోత్సహిస్తున్న 'తెలుగు అసోసియేషన్ ఆఫ్ జాక్సన్‌విల్లే' (తాజా)"
+    },
+    {
+     "source": "జాక్సన్‌విల్లే",
+     "relation": "LOCATED_IN",
+     "target": "ఫ్లోరిడా",
+     "evidence": "జాక్సన్‌విల్లే: అమెరికాలోని ఫ్లోరిడా రాష్ట్రం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6439d6c805aef3ba76b7557af9f396ff6af62cb1": {
+   "entities": [
+    {
+     "name": "శ్రీ",
+     "type": "Person",
+     "english_name": "Sri"
+    },
+    {
+     "name": "జాతీయం",
+     "type": "Organization",
+     "english_name": "Jatheeyam"
+    },
+    {
+     "name": "చైతన్యరథం",
+     "type": "Organization",
+     "english_name": "Chaitanyaratham"
+    },
+    {
+     "name": "ఇండియా ఏఐ ఇంపాక్ట్ సమిట్",
+     "type": "Organization",
+     "english_name": "India AI Impact Summit"
+    },
+    {
+     "name": "భారత మండపం",
+     "type": "Place",
+     "english_name": "Bharat Mandapam"
+    },
+    {
+     "name": "గూగుల్",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "సుందర్ పిచాయ్",
+     "type": "Person",
+     "english_name": "Sundar Pichai"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "ఫ్రాన్స్ అధ్యక్షుడు మెక్రాన్",
+     "type": "Person",
+     "english_name": "President Macron"
+    },
+    {
+     "name": "డిజిటల్ ఐడెంటిటీ",
+     "type": "Scheme",
+     "english_name": "Digital Identity"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఇండియా ఏఐ ఇంపాక్ట్ సమిట్",
+     "relation": "LOCATED_IN",
+     "target": "భారత మండపం",
+     "evidence": "దిల్లీలోని భారత మండపంలో జరుగుతోన్న ‘ఇండియా ఏఐ ఇంపాక్ట్ సమిట్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1dc99c45fee3a0b6798039bc3134cdcf8601a767": {
+   "entities": [
+    {
+     "name": "చంద్రశేఖరన్",
+     "type": "Person",
+     "english_name": "Chandrasekharan"
+    },
+    {
+     "name": "టాటా గ్రూప్",
+     "type": "Organization",
+     "english_name": "Tata Group"
+    },
+    {
+     "name": "డారియో",
+     "type": "Person",
+     "english_name": "Dario"
+    },
+    {
+     "name": "ఆంథ్రోపిక్",
+     "type": "Organization",
+     "english_name": "Anthropic"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ae91c048c99c0343e1effb45945f201412f2e3b7": {
+   "entities": [
+    {
+     "name": "చంద్రశేఖరన్",
+     "type": "Person",
+     "english_name": "Chandrasekharan"
+    },
+    {
+     "name": "టాటా గ్రూప్",
+     "type": "Organization",
+     "english_name": "Tata Group"
+    },
+    {
+     "name": "డారియో అమోడెయ్",
+     "type": "Person",
+     "english_name": "Dario Amodei"
+    },
+    {
+     "name": "ఆంథ్రోపిక్",
+     "type": "Organization",
+     "english_name": "Anthropic"
+    },
+    {
+     "name": "డీజీసీఏ",
+     "type": "Organization",
+     "english_name": "DGCA"
+    },
+    {
+     "name": "నో-ఫ్లై లిస్ట్",
+     "type": "Scheme",
+     "english_name": "No-Fly List"
+    },
+    {
+     "name": "విమాన ప్రయాణికులు",
+     "type": "Person",
+     "english_name": "Air Passengers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "84fa0e55d81503e75e7f43719f45e4914a4b0b34": {
+   "entities": [
+    {
+     "name": "ప్రధానమంత్రి నరేంద్రమోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Narendra Modi"
+    },
+    {
+     "name": "ఇండియా ఏఐ ఇంపాక్ట్ సదస్సు",
+     "type": "Organization",
+     "english_name": "India AI Impact Conference"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "తమిళనాడు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Tamil Nadu Government"
+    },
+    {
+     "name": "డీఎంకే ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "DMK Government"
+    },
+    {
+     "name": "ఉచిత పథకాలు",
+     "type": "Scheme",
+     "english_name": "Free Schemes"
+    },
+    {
+     "name": "ఉచిత విద్యుత్ పథకం",
+     "type": "Scheme",
+     "english_name": "Free Electricity Scheme"
+    },
+    {
+     "name": "ఉచిత ఆహారం",
+     "type": "Scheme",
+     "english_name": "Free Food"
+    },
+    {
+     "name": "ఉచిత విద్య",
+     "type": "Scheme",
+     "english_name": "Free Education"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d69df2c5871de2b550df55b59abed60057f09fc0": {
+   "entities": [
+    {
+     "name": "Sai Sankar Viswanadh",
+     "type": "Person",
+     "english_name": "Sai Sankar Viswanadh"
+    },
+    {
+     "name": "Taaza",
+     "type": "Organization",
+     "english_name": "Taaza"
+    },
+    {
+     "name": "Mata",
+     "type": "Organization",
+     "english_name": "Mata"
+    },
+    {
+     "name": "Dr. Ramachari Komanduri",
+     "type": "Person",
+     "english_name": "Dr. Ramachari Komanduri"
+    },
+    {
+     "name": "Harikrish Maharshi",
+     "type": "Person",
+     "english_name": "Harikrish Maharshi"
+    },
+    {
+     "name": "Chaitu Madduri",
+     "type": "Person",
+     "english_name": "Chaitu Madduri"
+    },
+    {
+     "name": "Ranga Madishetty",
+     "type": "Person",
+     "english_name": "Ranga Madishetty"
+    },
+    {
+     "name": "Srilakshmi Lakkishetty",
+     "type": "Person",
+     "english_name": "Srilakshmi Lakkishetty"
+    },
+    {
+     "name": "Usha Ramak",
+     "type": "Person",
+     "english_name": "Usha Ramak"
+    },
+    {
+     "name": "Praveen Gooduru",
+     "type": "Person",
+     "english_name": "Praveen Gooduru"
+    },
+    {
+     "name": "Dammu Gedela",
+     "type": "Person",
+     "english_name": "Dammu Gedela"
+    },
+    {
+     "name": "Baba Sontyan",
+     "type": "Person",
+     "english_name": "Baba Sontyan"
+    },
+    {
+     "name": "Srinivas Thamm",
+     "type": "Person",
+     "english_name": "Srinivas Thamm"
+    },
+    {
+     "name": "Advait Bondhugula",
+     "type": "Person",
+     "english_name": "Advait Bondhugula"
+    },
+    {
+     "name": "Vijaya Pathur",
+     "type": "Person",
+     "english_name": "Vijaya Pathur"
+    },
+    {
+     "name": "Rammohan",
+     "type": "Person",
+     "english_name": "Rammohan"
+    },
+    {
+     "name": "Sathyam",
+     "type": "Person",
+     "english_name": "Sathyam"
+    },
+    {
+     "name": "Sum Pendot",
+     "type": "Person",
+     "english_name": "Sum Pendot"
+    },
+    {
+     "name": "Convention Core",
+     "type": "Organization",
+     "english_name": "Convention Core"
+    },
+    {
+     "name": "Raman Kiran Duddugari",
+     "type": "Person",
+     "english_name": "Raman Kiran Duddugari"
+    },
+    {
+     "name": "Sridhar Goodala",
+     "type": "Person",
+     "english_name": "Sridhar Goodala"
+    },
+    {
+     "name": "Tony Janu",
+     "type": "Person",
+     "english_name": "Tony Janu"
+    },
+    {
+     "name": "Ganga Dhar Uppal",
+     "type": "Person",
+     "english_name": "Ganga Dhar Uppal"
+    },
+    {
+     "name": "Convention Advisory Committee",
+     "type": "Organization",
+     "english_name": "Convention Advisory Committee"
+    },
+    {
+     "name": "Srinivas Ganagoni",
+     "type": "Person",
+     "english_name": "Srinivas Ganagoni"
+    },
+    {
+     "name": "Pradeep Samal",
+     "type": "Person",
+     "english_name": "Pradeep Samal"
+    },
+    {
+     "name": "Jitender Reddy",
+     "type": "Person",
+     "english_name": "Jitender Reddy"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2e8cae1c0bd2a8ee7a4164fce0c66143734dc9a1": {
+   "entities": [
+    {
+     "name": "ఆరు నేరాలలో ఏ ఒక్కటి చేసినట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రాథమికంగా నిర్ధారణ అయినా..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎయిర్‌లైన్స్ సంస్థలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "స్వతంత్ర కమిటీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రయాణికుడిపై",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "30 రోజుల పాటు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రయాణ నిషేధం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కృత్రిమ మేధ మనల్ని కాదు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మనమే ఏఐని శాసించాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కృత్రిమ మేధ సామర్థ్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రధానమంత్రి నరేంద్రమోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Narendra Modi"
+    },
+    {
+     "name": "ఏఐ వినియోగం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చట్టబద్ధంగా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పునఃసమీక్షించేలా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దేశ రాజధాని దిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "ఇండియా ఏఐ ఇంపాక్ట్ సదస్సు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రధాని మోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Modi"
+    },
+    {
+     "name": "గురువారం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మానవ అభివృద్ధి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేకిన్ ఇండియా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "భారత ఆవిష్కరణ సామర్థ్యం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "ప్రధానమంత్రి నరేంద్రమోదీ",
+     "relation": "MAKES_CLAIM",
+     "target": "కృత్రిమ మేధ సామర్థ్యం",
+     "evidence": "కృత్రిమ మేధ సామర్థ్యం మన ఆలోచనలకు అందనంత దూరంలో ఉందని ప్రధానమంత్రి నరేంద్రమోదీ అన్నారు."
+    },
+    {
+     "source": "ప్రధానమంత్రి నరేంద్రమోదీ",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏఐ వినియోగం",
+     "evidence": "ఏఐ వినియోగం చట్టబద్ధంగా, పునఃసమీక్షించేలా ఉండాలన్నారు."
+    },
+    {
+     "source": "ప్రధానమంత్రి నరేంద్రమోదీ",
+     "relation": "MAKES_CLAIM",
+     "target": "మానవ అభివృద్ధి",
+     "evidence": "మానవ అభివృద్ధిలో ఏఐ కీలక భూమిక పోషిస్తోందని తెలిపారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e2d0f31e69f26e6745b22b42a58a425a657460f2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4e4e8e1a96ca2238172453efc7ed3ac940cd9bd6": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "97b760f97a33b0c18314ea170dc01ffdebbf1e77": {
+   "entities": [
+    {
+     "name": "విద్యుత్ పంపిణీ సంస్థలు",
+     "type": "Organization",
+     "english_name": "Electricity Distribution Companies"
+    },
+    {
+     "name": "జస్టిస్ సూర్యకాంత్",
+     "type": "Person",
+     "english_name": "Justice Suryakant"
+    },
+    {
+     "name": "ప్రధాన న్యాయమూర్తి",
+     "type": "Person",
+     "english_name": "Chief Justice"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "66658e8e10ac77d95493e8c3ef29a392a9213d4a": {
+   "entities": [
+    {
+     "name": "ఓ గని",
+     "type": "Place",
+     "english_name": "O mine"
+    },
+    {
+     "name": "కంపానీ జురాక్",
+     "type": "Place",
+     "english_name": "Compagnie Jureak"
+    },
+    {
+     "name": "నైజీరియా",
+     "type": "Place",
+     "english_name": "Nigeria"
+    },
+    {
+     "name": "గనుల మంత్రి",
+     "type": "Person",
+     "english_name": "Mining Minister"
+    },
+    {
+     "name": "స్థానిక పోలీసులు",
+     "type": "Organization",
+     "english_name": "Local police"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aa2c91b80cb4ce1c4e46c0daa4f5c4a16d4b9503": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2fdf87741f3ba623ee13c9aef445950bcc1b0c35": {
+   "entities": [
+    {
+     "name": "ద.కొరియా మాజీ అధ్యక్షుడికి జీవిత ఖైదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మార్షల్ లా",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "యూన్ సుక్ యోల్",
+     "type": "Person",
+     "english_name": "Yoon Suk-yeol"
+    },
+    {
+     "name": "కిమ్ యోంగ్ హ్యూన్",
+     "type": "Person",
+     "english_name": "Kim Yong-hyun"
+    },
+    {
+     "name": "బ్రిటన్ రాజు సోదరుడు ఆండ్రూ అరెస్ట్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎప్ స్టీన్ సెక్స్ రాకెట్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆండ్రూ మౌంట్ బాటెన్ విండ్సర్",
+     "type": "Person",
+     "english_name": "Andrew Mountbatten-Windsor"
+    },
+    {
+     "name": "బ్రిటన్ రాజు ఛార్లెస్",
+     "type": "Person",
+     "english_name": "Charles"
+    }
+   ],
+   "relations": [
+    {
+     "source": "యూన్ సుక్ యోల్",
+     "relation": "MAKES_CLAIM",
+     "target": "ద.కొరియా మాజీ అధ్యక్షుడికి జీవిత ఖైదు",
+     "evidence": "ద.కొరియా మాజీ అధ్యక్షుడికి జీవిత ఖైదు పడింది."
+    },
+    {
+     "source": "కిమ్ యోంగ్ హ్యూన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ద.కొరియా మాజీ అధ్యక్షుడికి జీవిత ఖైదు",
+     "evidence": "రక్షణశాఖ మాజీ మంత్రి కిమ్ యోంగ్ హ్యూన్కు 30 ఏళ్ల జైలు శిక్ష పడింది."
+    },
+    {
+     "source": "యూన్ సుక్ యోల్",
+     "relation": "MAKES_CLAIM",
+     "target": "బ్రిటన్ రాజు సోదరుడు ఆండ్రూ అరెస్ట్",
+     "evidence": "బ్రిటన్ రాజు సోదరుడు ఆండ్రూ మౌంట్ బాటెన్ విండ్సర్ పేరు కూడా ఉండటంతో అక్కడ రాజకీయంగా దుమారం రేగుతోంది."
+    },
+    {
+     "source": "ఆండ్రూ మౌంట్ బాటెన్ విండ్సర్",
+     "relation": "MAKES_CLAIM",
+     "target": "బ్రిటన్ రాజు సోదరుడు ఆండ్రూ అరెస్ట్",
+     "evidence": "బ్రిటన్ రాజు ఛార్లెస్కు స్వయాన సోదరుడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "74991fef77b9f2991114bcf0739e751a16813f12": {
+   "entities": [
+    {
+     "name": "నైజీరియాలోని ఓ గనిలో తీవ్ర విషాదం చోటుచేసుకుంది",
+     "type": "Claim",
+     "english_name": "Tragedy in a mine in Nigeria"
+    },
+    {
+     "name": "37మంది ప్రాణాలు కోల్పోయారు",
+     "type": "Claim",
+     "english_name": "37 people lost their lives"
+    },
+    {
+     "name": "మరో 26మంది ఆసుపత్రిలో చికిత్స పొందుతున్నట్టు స్థానిక పోలీసులు వెల్లడించారు",
+     "type": "Claim",
+     "english_name": "26 people are receiving treatment in hospital"
+    },
+    {
+     "name": "ప్లాటూ రాష్ట్రంలోని కంపానీ జురాక్ ప్రాంతంలో ఈ ప్రమాదం చోటుచేసుకున్నట్టు తెలుస్తోంది",
+     "type": "Claim",
+     "english_name": "The incident occurred in the Compagnie Zourou area of Plateau state"
+    },
+    {
+     "name": "గనుల మంత్రి",
+     "type": "Person",
+     "english_name": "Mining Minister"
+    },
+    {
+     "name": "నైజీరియా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government of Nigeria"
+    },
+    {
+     "name": "కరాచీలో గ్యాస్ లీకేజీ",
+     "type": "Claim",
+     "english_name": "Gas leakage in Karachi"
+    },
+    {
+     "name": "పేలుడులో 16మంది మృతి.. 14మందికి గాయాలు",
+     "type": "Claim",
+     "english_name": "16 dead and 14 injured in explosion"
+    },
+    {
+     "name": "పాకిస్థాన్లోని కరాచీలో పేలుడు ఘటన సంభవించింది",
+     "type": "Claim",
+     "english_name": "Explosion incident occurred in Karachi, Pakistan"
+    },
+    {
+     "name": "ఓ రెసిడెన్షియల్ బిల్డింగ్‌లో గ్యాస్ లీకేజీవల్ల పేలుడు చోటు చేసుకుంది",
+     "type": "Claim",
+     "english_name": "Gas leakage in a residential building caused the explosion"
+    },
+    {
+     "name": "ఏఐపై ఏటా అంతర్జాతీయ సదస్సు: గుటెరస్",
+     "type": "Claim",
+     "english_name": "Annual international conference on AI: Guterres"
+    },
+    {
+     "name": "ఐరాస పని కాదని, కానీ ఏటా అన్ని దేశాలు,పౌర సమాజాలు, ప్రైవేటు కంపెనీలతో కలిసి అంతర్జాతీయ ఏఐ సదస్సు నిర్వహించాలని నిర్ణయించామని ఐక్యరాజ్య సమితి ప్రధాన కార్యదర్శి ఆంటోనియో గుటెరస్ అభిప్రాయపడ్డారు",
+     "type": "Claim",
+     "english_name": "UN Secretary-General Antonio Guterres said it is not the UN's job to regulate AI, but to organize an annual international conference with all countries, civil society, and private companies"
+    },
+    {
+     "name": "అంతర్జాతీయ ఏఐ నిర్మాణంలో 3 కీలక వ్యవస్థలను గుర్తించామన్నారు",
+     "type": "Claim",
+     "english_name": "Identified 3 key systems in the international AI architecture"
+    },
+    {
+     "name": "అత్యున్నత స్థాయి స్వతంత్ర అంతర్జాతీయ సైంటిఫిక్ ప్యానల్",
+     "type": "Organization",
+     "english_name": "High-level independent international scientific panel"
+    },
+    {
+     "name": "అంతర్జాతీయ సదస్సు",
+     "type": "Scheme",
+     "english_name": "International conference"
+    }
+   ],
+   "relations": [
+    {
+     "source": "గనుల మంత్రి",
+     "relation": "MAKES_CLAIM",
+     "target": "37మంది ప్రాణాలు కోల్పోయారు",
+     "evidence": "గనుల మంత్రి పేర్కొన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

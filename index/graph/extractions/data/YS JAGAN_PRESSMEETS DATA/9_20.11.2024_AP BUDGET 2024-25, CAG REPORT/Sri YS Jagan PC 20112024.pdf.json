@@ -1,0 +1,635 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "faba8260330ee44d20978f7db29ff16d69275b4b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "baacc3d6cb6afd17a139dfd501acb426abc49937": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3a9b6facf8d09de863771966282ce22bdf7016f1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ae84e18189ef333e50c94b3de80f2de54de5f65d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "77e0e0a6454279d7425cbbbdeed9a3f110f6d89f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "624c11baca270003f0948a03291b5aea66a01b84": {
+   "entities": [
+    {
+     "name": "Pending payments by previous TDP Govt. 2014-19",
+     "type": "Issue",
+     "english_name": "Pending payments by previous TDP Govt. 2014-19"
+    },
+    {
+     "name": "Consumer affairs food & civil supplies",
+     "type": "Organization",
+     "english_name": "Consumer affairs food & civil supplies"
+    },
+    {
+     "name": "Transport Department",
+     "type": "Organization",
+     "english_name": "Transport Department"
+    },
+    {
+     "name": "Women & Child Welfare Department",
+     "type": "Organization",
+     "english_name": "Women & Child Welfare Department"
+    },
+    {
+     "name": "Handlooms & Textiles",
+     "type": "Organization",
+     "english_name": "Handlooms & Textiles"
+    },
+    {
+     "name": "Agriculture Department",
+     "type": "Organization",
+     "english_name": "Agriculture Department"
+    },
+    {
+     "name": "AP State Seed Development Corporation Limited",
+     "type": "Organization",
+     "english_name": "AP State Seed Development Corporation Limited"
+    },
+    {
+     "name": "Horticulture Department",
+     "type": "Organization",
+     "english_name": "Horticulture Department"
+    },
+    {
+     "name": "Animal Husbandry Department",
+     "type": "Organization",
+     "english_name": "Animal Husbandry Department"
+    },
+    {
+     "name": "Fisheries Department",
+     "type": "Organization",
+     "english_name": "Fisheries Department"
+    },
+    {
+     "name": "Industries and Commerce (Sugar) Department",
+     "type": "Organization",
+     "english_name": "Industries and Commerce (Sugar) Department"
+    },
+    {
+     "name": "Dairy Development",
+     "type": "Organization",
+     "english_name": "Dairy Development"
+    },
+    {
+     "name": "School Education (Mid-day meals)",
+     "type": "Organization",
+     "english_name": "School Education (Mid-day meals)"
+    },
+    {
+     "name": "Roads and Buildings",
+     "type": "Organization",
+     "english_name": "Roads and Buildings"
+    },
+    {
+     "name": "All Welfare Departments (RTF and MTF)",
+     "type": "Organization",
+     "english_name": "All Welfare Departments (RTF and MTF)"
+    },
+    {
+     "name": "APMSIDC",
+     "type": "Organization",
+     "english_name": "APMSIDC"
+    },
+    {
+     "name": "Health (Aarogyasri)",
+     "type": "Organization",
+     "english_name": "Health (Aarogyasri)"
+    },
+    {
+     "name": "Health (EHS)",
+     "type": "Organization",
+     "english_name": "Health (EHS)"
+    },
+    {
+     "name": "Social Welfare Department",
+     "type": "Organization",
+     "english_name": "Social Welfare Department"
+    },
+    {
+     "name": "Commissioner Panchayat Raj (Electricity Charges)",
+     "type": "Organization",
+     "english_name": "Commissioner Panchayat Raj (Electricity Charges)"
+    },
+    {
+     "name": "Commissioner Panchayat Raj (Engineering)",
+     "type": "Organization",
+     "english_name": "Commissioner Panchayat Raj (Engineering)"
+    },
+    {
+     "name": "Commissioner Rural Development (MGNERGS)",
+     "type": "Organization",
+     "english_name": "Commissioner Rural Development (MGNERGS)"
+    },
+    {
+     "name": "RWS",
+     "type": "Organization",
+     "english_name": "RWS"
+    },
+    {
+     "name": "Tribal Welfare",
+     "type": "Organization",
+     "english_name": "Tribal Welfare"
+    },
+    {
+     "name": "Energy",
+     "type": "Organization",
+     "english_name": "Energy"
+    },
+    {
+     "name": "Water resources department",
+     "type": "Organization",
+     "english_name": "Water resources department"
+    },
+    {
+     "name": "TDP Govt.",
+     "type": "Party",
+     "english_name": "TDP Govt."
+    },
+    {
+     "name": "AP BUDGET 2024-25",
+     "type": "Scheme",
+     "english_name": "AP Budget 2024-25"
+    },
+    {
+     "name": "CAG REPORT",
+     "type": "Organization",
+     "english_name": "CAG Report"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a452e2f52f2e3f85e5627e5ad6284a6de61fec81": {
+   "entities": [
+    {
+     "name": "రాష్ట్రంలో రోడ్ల నిర్మాణం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "2014-19 టీడీపీ పాలన",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "2019-24 వైయస్సార్ సీపీ పాలన",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రోడ్ల మరమ్మతులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర జిల్లా ప్రధాన రహదారుల నిర్మాణం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పంచాయతీ రాజ్ రోడ్ల నిర్మాణం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జాతీయ రహదారుల నిర్మాణం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మొత్తం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2c00ad4d8c8b638ec99c4e5a3cc205d533f35bcd": {
+   "entities": [
+    {
+     "name": "Dr NTR Vaidya Seva Scheme",
+     "type": "Scheme",
+     "english_name": "Dr NTR Vaidya Seva Scheme"
+    },
+    {
+     "name": "Employees Health Scheme",
+     "type": "Scheme",
+     "english_name": "Employees Health Scheme"
+    },
+    {
+     "name": "Working Journalists Health Scheme",
+     "type": "Scheme",
+     "english_name": "Working Journalists Health Scheme"
+    },
+    {
+     "name": "Information and Public Relations (I&PR) Department",
+     "type": "Organization",
+     "english_name": "Information and Public Relations Department"
+    },
+    {
+     "name": "SOCIO ECONOMIC SURVEY 2023-24",
+     "type": "Organization",
+     "english_name": "Socio Economic Survey 2023-24"
+    },
+    {
+     "name": "Health Camps",
+     "type": "Organization",
+     "english_name": "Health Camps"
+    },
+    {
+     "name": "Dr NTR Vaidya Seva",
+     "type": "Organization",
+     "english_name": "Dr NTR Vaidya Seva"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a3080e4d5051dcbd254e67f823e9513797cd9ba6": {
+   "entities": [
+    {
+     "name": "Trust for Working Journalists",
+     "type": "Organization",
+     "english_name": "Trust for Working Journalists"
+    },
+    {
+     "name": "Amaravati Residents Health Scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "CRDA",
+     "type": "Organization",
+     "english_name": "CRDA"
+    },
+    {
+     "name": "Dr NTR Vaidya Seva Scheme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Aarogya Raksha",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Mee-Seva",
+     "type": "Organization",
+     "english_name": "Mee-Seva"
+    },
+    {
+     "name": "Amrutha Health Scheme for Orphans and destitute",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms. No.452 Revenue (CMRF) Department",
+     "type": "Organization",
+     "english_name": "G.O.Ms. No.452 Revenue (CMRF) Department"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "822abe7c35cd4cb48f9b0e0061f8b1e67a98d034": {
+   "entities": [
+    {
+     "name": "TDP-JSP",
+     "type": "Party",
+     "english_name": "TDP-JSP"
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "CAG Report",
+     "type": "Organization",
+     "english_name": "CAG Report"
+    },
+    {
+     "name": "Socio economic survey",
+     "type": "Organization",
+     "english_name": "Socio economic survey"
+    },
+    {
+     "name": "Industry sector GVA",
+     "type": "Scheme",
+     "english_name": "Industry sector GVA"
+    },
+    {
+     "name": "Mining & Quarrying GVA",
+     "type": "Scheme",
+     "english_name": "Mining & Quarrying GVA"
+    },
+    {
+     "name": "Manufacturing GVA",
+     "type": "Scheme",
+     "english_name": "Manufacturing GVA"
+    },
+    {
+     "name": "Electricity, Gas & Others GVA",
+     "type": "Scheme",
+     "english_name": "Electricity, Gas & Others GVA"
+    },
+    {
+     "name": "Construction GVA",
+     "type": "Scheme",
+     "english_name": "Construction GVA"
+    },
+    {
+     "name": "Industry sector GVA",
+     "type": "Scheme",
+     "english_name": "Industry sector GVA"
+    },
+    {
+     "name": "CAGR (2014-19)",
+     "type": "Scheme",
+     "english_name": "CAGR (2014-19)"
+    },
+    {
+     "name": "CAGR (2019-24)",
+     "type": "Scheme",
+     "english_name": "CAGR (2019-24)"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Socio economic survey",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Socio economic survey presented by State Government in November 2024"
+    },
+    {
+     "source": "CAG Report",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Press meet: 9_20.11.2024_AP BUDGET 2024-25, CAG REPORT"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "15791d5b0a9b7a09763cfa6e9235a781fd37fe6e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1cadd527c9cdaac9b03799b7b0a23cd14b8f5ca3": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ శాసన పరిషత్తు",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Legislative Council"
+    },
+    {
+     "name": "46వ సమావేశం",
+     "type": "Organization",
+     "english_name": "46th Session"
+    },
+    {
+     "name": "పాన్నపు రెడ్డి రామ సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "Panapu Reddy Ram Subba Reddy"
+    },
+    {
+     "name": "డా. మొండితోక అరుణ కుణార్",
+     "type": "Person",
+     "english_name": "Dr. Mondithoka Aruna Kunar"
+    },
+    {
+     "name": "రాజగోళ్ళ రమేష్ యాదవ్",
+     "type": "Person",
+     "english_name": "Rajagolla Ramesh Yadav"
+    },
+    {
+     "name": "ఎం.ఎల్.సి.లు",
+     "type": "Person",
+     "english_name": "MLCs"
+    },
+    {
+     "name": "సాంఘిక సంక్షేమం, దివ్యాంగుల మరియు వయోవృద్ధుల సంక్షేమం, గ్రామ సచివాలయం & గ్రామ వాలంటీర్ శాఖ మంత్రిగారు",
+     "type": "Person",
+     "english_name": "Minister for Social Welfare, Disabled and Senior Citizens Welfare, Village Secretariat & Village Volunteers Department"
+    },
+    {
+     "name": "జిఎస్డబ్ల్యు శాఖ",
+     "type": "Organization",
+     "english_name": "GSW Department"
+    },
+    {
+     "name": "యు.డి.నోటు.నెం.2622959/జిడబ్ల్యుఎస్01/2024",
+     "type": "Organization",
+     "english_name": "UD Note No.2622959/GWS01/2024"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "20718fe433270080468ac1ef86b50ceb5574e75f": {
+   "entities": [
+    {
+     "name": "Sri Duvvada Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sri Tumati Madhava Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sri Rajagolla Ramesh Yadav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hon'ble Minister for Excise",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Legislative Council",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue (Excise) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "New Liquor Policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SUMO CLASSIC WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "BANGALORE WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ROYAL LANCER WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "TROPICANA VSOP BRANDY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SHOT WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "BRANDY 99",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "KERALA MALTED FINE WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tender Committee",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "New Liquor Policy",
+     "evidence": "Yes Sir."
+    },
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUMO CLASSIC WHISKY",
+     "evidence": "SUMO CLASSIC WHISKY 99"
+    },
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "BANGALORE WHISKY",
+     "evidence": "BANGALORE WHISKY 99"
+    },
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ROYAL LANCER WHISKY",
+     "evidence": "ROYAL LANCER WHISKY 99"
+    },
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "TROPICANA VSOP BRANDY",
+     "evidence": "TROPICANA VSOP BRANDY 99"
+    },
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SHOT WHISKY",
+     "evidence": "SHOT WHISKY 99"
+    },
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "BRANDY 99",
+     "evidence": "BRANDY 99 99"
+    },
+    {
+     "source": "Hon'ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "KERALA MALTED FINE WHISKY",
+     "evidence": "KERALA MALTED FINE WHISKY 99"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "270f45f76e73f26f3e03e47e0efbf158e7a3b3d9": {
+   "entities": [
+    {
+     "name": "Sri Bathula Balaramakrishna",
+     "type": "Person",
+     "english_name": "Bathula Balaramakrishna"
+    },
+    {
+     "name": "Smt. Reddappa Gari Madhavi",
+     "type": "Person",
+     "english_name": "Reddappa Gari Madhavi"
+    },
+    {
+     "name": "Smt. Vemireddy Prashanthi Reddy",
+     "type": "Person",
+     "english_name": "Vemireddy Prashanthi Reddy"
+    },
+    {
+     "name": "Minister for Home and Disaster Management",
+     "type": "Organization",
+     "english_name": "Minister for Home and Disaster Management"
+    },
+    {
+     "name": "Home (Arms) Department",
+     "type": "Organization",
+     "english_name": "Home (Arms) Department"
+    },
+    {
+     "name": "Anti-Human Trafficking Units",
+     "type": "Organization",
+     "english_name": "Anti-Human Trafficking Units"
+    },
+    {
+     "name": "G.O.Ms.No.165, Home (PS & CA2) Dept., dated:25.06.2011",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.165"
+    },
+    {
+     "name": "G.O.Ms.No.47, Home (Services-III) Dept., dated:18.05.2021",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.47"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

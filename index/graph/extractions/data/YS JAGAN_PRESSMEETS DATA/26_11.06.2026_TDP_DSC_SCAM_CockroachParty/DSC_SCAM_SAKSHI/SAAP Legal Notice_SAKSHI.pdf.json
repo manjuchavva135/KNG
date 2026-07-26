@@ -1,0 +1,399 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f2282ce7a1586e6706443ce8ca842de52d1d03ce": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dcf1ff2820aee2f02f770fd89521b5e19d963f45": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af7e5a644a983cb80c7af46d2fb171175e8dea9a": {
+   "entities": [
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "Commissioner of Police, Vijayawada City",
+     "type": "Organization",
+     "english_name": "Commissioner of Police, Vijayawada City"
+    },
+    {
+     "name": "Vijayawada Cyber Crime Police",
+     "type": "Organization",
+     "english_name": "Vijayawada Cyber Crime Police"
+    },
+    {
+     "name": "FIR No.75/2025",
+     "type": "Organization",
+     "english_name": "FIR No.75/2025"
+    },
+    {
+     "name": "Sections 319(2) BNS",
+     "type": "Organization",
+     "english_name": "Sections 319(2) BNS"
+    },
+    {
+     "name": "Information Technology Act, 2000",
+     "type": "Organization",
+     "english_name": "Information Technology Act, 2000"
+    },
+    {
+     "name": "SMT. KATILA VENKATA LAKSHMI",
+     "type": "Person",
+     "english_name": "Smt. Katila Venkata Lakshmi"
+    },
+    {
+     "name": "Citizen Trust",
+     "type": "Organization",
+     "english_name": "Citizen Trust"
+    },
+    {
+     "name": "Commissioner, School Education Department, Guntur",
+     "type": "Organization",
+     "english_name": "Commissioner, School Education Department, Guntur"
+    },
+    {
+     "name": "District Educational Officer, Vizianagaram",
+     "type": "Organization",
+     "english_name": "District Educational Officer, Vizianagaram"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4473d7a1f1b8e4b28e30ba1ffd24f2d9fbf16fd0": {
+   "entities": [
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "Sports DSC-2025 recruitments",
+     "type": "Scheme",
+     "english_name": "Sports DSC-2025 recruitments"
+    },
+    {
+     "name": "Sports Mega DSC-2025 recruitments",
+     "type": "Scheme",
+     "english_name": "Sports Mega DSC-2025 recruitments"
+    },
+    {
+     "name": "Mobile No.9440755843",
+     "type": "Person",
+     "english_name": "Mobile No.9440755843"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9af77118a6929119410a9958714c8ceb8e2be619": {
+   "entities": [
+    {
+     "name": "G. SAI NARAYANA RAO",
+     "type": "Person",
+     "english_name": "G. Sai Narayana Rao"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh (SAAP)",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh (SAAP)"
+    },
+    {
+     "name": "Sakshi Daily Newspaper",
+     "type": "Organization",
+     "english_name": "Sakshi Daily Newspaper"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Sports DSC-2025 recruitment process",
+     "type": "Issue",
+     "english_name": "Sports DSC-2025 recruitment process"
+    },
+    {
+     "name": "Notification dated 01.05.2025",
+     "type": "Scheme",
+     "english_name": "Notification dated 01.05.2025"
+    },
+    {
+     "name": "Mega DSC posts",
+     "type": "Scheme",
+     "english_name": "Mega DSC posts"
+    },
+    {
+     "name": "Sports Quota",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sports Authority of Andhra Pradesh (SAAP)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "a statutory authority functioning under the Government of Andhra Pradesh"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6844a18256addfb4d60caaeeea335678a88a56e8": {
+   "entities": [
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sports DSC recruitments",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Bharatiya Nyaya Sanhita, 2023",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "School Education Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bf06d29dcb7a564096086de544db61222cad9c73": {
+   "entities": [
+    {
+     "name": "DSC-2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "Sports Quota",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "Weightlifting Association/Federation",
+     "type": "Organization",
+     "english_name": "Weightlifting Association/Federation"
+    },
+    {
+     "name": "Board of Secondary Education, Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Board of Secondary Education, Andhra Pradesh"
+    },
+    {
+     "name": "Z.P. High School, Kondavelagada",
+     "type": "Organization",
+     "english_name": "Z.P. High School, Kondavelagada"
+    },
+    {
+     "name": "School Games Federation of India",
+     "type": "Organization",
+     "english_name": "School Games Federation of India"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Tahsildar, Nellimarla Mandal, Vizianagaram District",
+     "type": "Organization",
+     "english_name": "Tahsildar, Nellimarla Mandal, Vizianagaram District"
+    },
+    {
+     "name": "Aadhaar Card",
+     "type": "Organization",
+     "english_name": "Aadhaar Card"
+    },
+    {
+     "name": "candidate",
+     "type": "Person",
+     "english_name": "candidate"
+    },
+    {
+     "name": "W.P. No.26540 of 2025",
+     "type": "Organization",
+     "english_name": "W.P. No.26540 of 2025"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "05e35546ad1423f1afd89e91ca496569ca17310f": {
+   "entities": [
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "Superintendent of Police, Vizianagaram District",
+     "type": "Organization",
+     "english_name": "Superintendent of Police, Vizianagaram District"
+    },
+    {
+     "name": "W.P. No.25463 of 2025",
+     "type": "Issue",
+     "english_name": "W.P. No.25463 of 2025"
+    },
+    {
+     "name": "School Assistant (Physical Education)",
+     "type": "Scheme",
+     "english_name": "School Assistant (Physical Education)"
+    },
+    {
+     "name": "Kurnool District",
+     "type": "Place",
+     "english_name": "Kurnool District"
+    },
+    {
+     "name": "Article 371-D",
+     "type": "Issue",
+     "english_name": "Article 371-D"
+    },
+    {
+     "name": "Presidential Order, 1975",
+     "type": "Scheme",
+     "english_name": "Presidential Order, 1975"
+    },
+    {
+     "name": "School Education Department",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "Hon'ble High Court",
+     "type": "Organization",
+     "english_name": "Hon'ble High Court"
+    },
+    {
+     "name": "I.A. No.1 of 2025",
+     "type": "Issue",
+     "english_name": "I.A. No.1 of 2025"
+    }
+   ],
+   "relations": [
+    {
+     "source": "SAAP",
+     "relation": "LOCATED_IN",
+     "target": "Kurnool District",
+     "evidence": "The role of SAAP in the recruitment process is confined to verification of sports merit and indicating the Local/Non-Local status of candidates based on the certificates and records submitted by candidates and competent authorities."
+    },
+    {
+     "source": "School Assistant (Physical Education)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "W.P. No.25463 of 2025",
+     "evidence": "That out of 190 vacancies notified for School Assistant (Physical Education) in Kurnool District, only five (5) posts were earmarked under the Sports Quota."
+    },
+    {
+     "source": "School Education Department",
+     "relation": "LOCATED_IN",
+     "target": "Kurnool District",
+     "evidence": "The issue raised in the said Writ Petition pertains to reservation and allotment aspects, which are matters considered by the School Education Department in accordance with applicable rules and the Presidential Order, 1975."
+    },
+    {
+     "source": "Hon'ble High Court",
+     "relation": "LOCATED_IN",
+     "target": "Kurnool District",
+     "evidence": "The Hon'ble High Court, in I.A. No.1 of 2025 in W.P. No.25463 of 2025, directed the respondents to examine the grievance of the petitioner regarding local/non-local"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5129dcf87173ec536154089c4916fec74aae54d4": {
+   "entities": [
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "G. Sai Narayana Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sri Nilaya Apartments",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Loyola College Auditorium",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Venkateswara Colony",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sri Nilaya Apartments",
+     "relation": "LOCATED_IN",
+     "target": "Venkateswara Colony",
+     "evidence": "Flat.No.105,Sri Nilaya Apartments, Opp Loyola College Auditorium, Venkateswara Colony, Vijayawada – 520008"
+    },
+    {
+     "source": "Loyola College Auditorium",
+     "relation": "LOCATED_IN",
+     "target": "Venkateswara Colony",
+     "evidence": "Flat.No.105,Sri Nilaya Apartments, Opp Loyola College Auditorium, Venkateswara Colony, Vijayawada – 520008"
+    },
+    {
+     "source": "Venkateswara Colony",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Flat.No.105,Sri Nilaya Apartments, Opp Loyola College Auditorium, Venkateswara Colony, Vijayawada – 520008"
+    },
+    {
+     "source": "Sakshi",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Sakshi"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

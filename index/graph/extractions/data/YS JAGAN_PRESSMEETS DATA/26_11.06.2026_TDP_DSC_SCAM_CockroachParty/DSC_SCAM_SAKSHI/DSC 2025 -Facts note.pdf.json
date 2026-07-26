@@ -1,0 +1,340 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4de874560f1ef1e5b9618fc15e1d9d6ec6655c23": {
+   "entities": [
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "గొడ్డలి పార్టీ",
+     "type": "Party",
+     "english_name": "Goddali Party"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "Computer Based Test (CBT)",
+     "type": "Scheme",
+     "english_name": "Computer Based Test (CBT)"
+    },
+    {
+     "name": "TCS iON CBT system",
+     "type": "Organization",
+     "english_name": "TCS iON CBT system"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నారా లోకేష్",
+     "relation": "DEFENDS",
+     "target": "మెగా డీఎస్సీ-2025",
+     "evidence": "సమర్థవంతంగా నిర్వహించారు."
+    },
+    {
+     "source": "నారా లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Computer Based Test (CBT)",
+     "evidence": "Computer Based Test (CBT) విధానంలో నిర్వహించబడ్డాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6418fa1ef86b397e3244ec1508ecc50789970252": {
+   "entities": [
+    {
+     "name": "డేటా డిలీట్ చేశారు",
+     "type": "Claim",
+     "english_name": "Data deleted claim"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "TCS",
+     "type": "Organization",
+     "english_name": "TCS"
+    },
+    {
+     "name": "నవీన్",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "SCERT",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "మెరిట్ లిస్టులు",
+     "type": "Claim",
+     "english_name": "Merit lists"
+    },
+    {
+     "name": "మహిళల రిజర్వేషన్",
+     "type": "Scheme",
+     "english_name": "Women reservation"
+    },
+    {
+     "name": "దివ్యాంగుల రిజర్వేషన్",
+     "type": "Scheme",
+     "english_name": "Differently abled reservation"
+    },
+    {
+     "name": "ఎక్స్ సర్వీస్ మెన్ కోటా",
+     "type": "Scheme",
+     "english_name": "Ex service men quota"
+    },
+    {
+     "name": "సోషర్స్ కోటా",
+     "type": "Scheme",
+     "english_name": "Social quota"
+    },
+    {
+     "name": "ఎస్సీ సబ్ క్లాసిఫికేషన్",
+     "type": "Scheme",
+     "english_name": "SC sub classification"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eccd6a125047fe197864af5dd87b38e78bbf49ad": {
+   "entities": [
+    {
+     "name": "స్పోర్ట్స్ కోటాలో అక్రమాలు జరిగాయి",
+     "type": "Claim",
+     "english_name": "Allegations of irregularities in sports quota"
+    },
+    {
+     "name": "3% స్పోర్ట్స్ రిజర్వేషన్",
+     "type": "Scheme",
+     "english_name": "3% sports reservation"
+    },
+    {
+     "name": "421 పోస్టులు",
+     "type": "Claim",
+     "english_name": "421 posts"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "నియామక నిబంధనలు",
+     "type": "Claim",
+     "english_name": "recruitment rules"
+    },
+    {
+     "name": "ఓపెన్ కాంపిటిషన్",
+     "type": "Claim",
+     "english_name": "open competition"
+    },
+    {
+     "name": "కంప్యూటర్ ఆటోమేటెడ్",
+     "type": "Organization",
+     "english_name": "Computer automated"
+    },
+    {
+     "name": "తాత్కాలిక జాబితా",
+     "type": "Claim",
+     "english_name": "provisional list"
+    },
+    {
+     "name": "1:1 నిష్పత్తి",
+     "type": "Claim",
+     "english_name": "1:1 ratio"
+    },
+    {
+     "name": "జిల్లా సెలక్షన్ కమిటీలు",
+     "type": "Organization",
+     "english_name": "District Selection Committees"
+    },
+    {
+     "name": "ఫిజికల్ వెరిఫికేషన్",
+     "type": "Claim",
+     "english_name": "physical verification"
+    },
+    {
+     "name": "స్పోర్ట్స్, దివ్యాంగులు (PWBD)",
+     "type": "Scheme",
+     "english_name": "Sports and Persons with Disabilities (PWBD)"
+    },
+    {
+     "name": "హారిజాంటల్ రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": "Horizontal reservations"
+    },
+    {
+     "name": "జనరల్ మెరిట్ స్థానాలు",
+     "type": "Claim",
+     "english_name": "General merit positions"
+    },
+    {
+     "name": "హారిజాంటల్ రోస్టర్",
+     "type": "Claim",
+     "english_name": "Horizontal roster"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports associations"
+    },
+    {
+     "name": "జెన్యూనిటీ సర్టిఫికెట్",
+     "type": "Claim",
+     "english_name": "genuineness certificate"
+    },
+    {
+     "name": "డీఎస్సీ నోటిఫికేషన్ రూల్ 20(vi)",
+     "type": "Claim",
+     "english_name": "DSSC Notification Rule 20(vi)"
+    },
+    {
+     "name": "Next Merit Candidates",
+     "type": "Claim",
+     "english_name": "Next Merit Candidates"
+    },
+    {
+     "name": "గొడ్డలి పార్టీ",
+     "type": "Party",
+     "english_name": "Goddali Party"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "91167ec4d872cc3c4ec5dbaf487d094427ab1b3e": {
+   "entities": [
+    {
+     "name": "గొడ్డలి పార్టీ",
+     "type": "Party",
+     "english_name": "Cockroach Party"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "మంత్రి నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Minister Nara Lokesh"
+    },
+    {
+     "name": "యువత భవిత",
+     "type": "Issue",
+     "english_name": "Future of Youth"
+    },
+    {
+     "name": "16,347 teacher posts",
+     "type": "Scheme",
+     "english_name": "16,347 teacher posts"
+    },
+    {
+     "name": "77 lakh applications",
+     "type": "Claim",
+     "english_name": "77 lakh applications"
+    },
+    {
+     "name": "3.36 lakh candidates",
+     "type": "Claim",
+     "english_name": "3.36 lakh candidates"
+    },
+    {
+     "name": "154 examination centres",
+     "type": "Claim",
+     "english_name": "154 examination centres"
+    },
+    {
+     "name": "8% candidates",
+     "type": "Claim",
+     "english_name": "8% candidates"
+    },
+    {
+     "name": "first preference district centres",
+     "type": "Claim",
+     "english_name": "first preference district centres"
+    },
+    {
+     "name": "148 days",
+     "type": "Claim",
+     "english_name": "148 days"
+    },
+    {
+     "name": "Mega DSC-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మంత్రి నారా లోకేష్",
+     "relation": "DEFENDS",
+     "target": "మెగా డీఎస్సీ-2025",
+     "evidence": "కానీ వాటిని సమర్థవంతంగా మంత్రి నారా లోకేష్ ఎదుర్కొన్నారు.. తిప్పికొట్టారు.. అద్భుతంగా మెగా డీఎస్సీ నిర్వహించారు.. రిక్రూట్మెంట్ చేపట్టారు."
+    },
+    {
+     "source": "Chief Minister",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "16,347 teacher posts",
+     "evidence": "ముఖ్యమంత్రి మొదటి ఫైల్గా 16,347 టీచర్ పోస్టుల భర్తీకి ఆమోదం"
+    },
+    {
+     "source": "Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "77 lakh applications",
+     "evidence": "77 లక్షల అప్లికేషన్లు స్వీకరించబడ్డాయి."
+    },
+    {
+     "source": "Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "3.36 lakh candidates",
+     "evidence": "3.36 లక్షల మంది అభ్యర్థులు పోటీ పడ్డారు."
+    },
+    {
+     "source": "Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "154 examination centres",
+     "evidence": "154 పరీక్షా కేంద్రాలు ఏర్పాటు చేశారు."
+    },
+    {
+     "source": "Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "8% candidates",
+     "evidence": "8% అభ్యర్థులకు వారు కోరుకున్న మొదటి ప్రాధాన్యత జిల్లా కేంద్రాలే కేటాయించారు."
+    },
+    {
+     "source": "Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "148 days",
+     "evidence": "మొత్తం ప్రక్రియను కేవలం 148 రోజుల్లో పూర్తి చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

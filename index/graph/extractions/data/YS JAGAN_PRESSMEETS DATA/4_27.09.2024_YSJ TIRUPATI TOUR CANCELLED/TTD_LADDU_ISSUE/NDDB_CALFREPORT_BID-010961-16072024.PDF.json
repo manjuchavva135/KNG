@@ -1,0 +1,38 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "98244ecb541cabd5841c4aa72656015db307b998": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1a1ad1b145cc755c434065be49aa0333925d5bc7": {
+   "entities": [
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Anand, Gujarat",
+     "type": "Place",
+     "english_name": "Anand, Gujarat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Anand, Gujarat",
+     "evidence": "All disputes are subject to the Anand, Gujarat jurisdiction only."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3110149252a71d4aeb9564f17b31b42c43a3bb28": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

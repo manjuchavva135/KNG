@@ -1,0 +1,863 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5e03cd7599e41fc82be4cebabfc0f7cb42ec36e9": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a46a25e1c97aa42d1a1543ceebdc5cfba5a8fcef": {
+   "entities": [
+    {
+     "name": "Governor",
+     "type": "Person",
+     "english_name": "Governor"
+    },
+    {
+     "name": "IMF L",
+     "type": "Organization",
+     "english_name": "IMF L"
+    },
+    {
+     "name": "state excise",
+     "type": "Organization",
+     "english_name": "state excise"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fff6f23d92ee2f8a1e633714996bab9c6ea97091": {
+   "entities": [
+    {
+     "name": "Reasons for delay in 1C passing the Budget",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Placing budget will require disclosure of all the data",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The details of Government debt should be disclosed in Volume VI / V",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "The details of Guarantees should be disclosed in Volume V",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": "TDP alliance"
+    },
+    {
+     "name": "debt is Rs. 13 lakh crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "commitments of super six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "debt is nowher close to Rs. 13 lakh crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "debt is indeed less than 7.5 lakh crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Babu",
+     "type": "Person",
+     "english_name": "Mr. Babu"
+    },
+    {
+     "name": "Budget presentation",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "commitments of super six",
+     "evidence": "commitments of super six was made"
+    },
+    {
+     "source": "Mr. Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "debt is nowher close to Rs. 13 lakh crores",
+     "evidence": "Now with the disclosure of data, public would know that debt is nowher close to Rs. 13 lakh crores"
+    },
+    {
+     "source": "Mr. Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "debt is indeed less than 7.5 lakh crores",
+     "evidence": "it is indeed less than 7.5 lakh crores even if all forms of liabilities are taken into consideration"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1b668d4245119ecf20c334b3fc5c6537602dcf80": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP regime",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP regime",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of direct Government debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of State Government guaranteed liabilities",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of power sector liabilities",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of aggregate of all liabilities",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2b546498da89f225534f37f7f45b32f82dfd0233": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "35161dc3eb46ebfeeb6b6b97e54559a3f00ce722": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "726cb202bbfd54d5dc5d63c9eee8550a9c8ed87e": {
+   "entities": [
+    {
+     "name": "State debt 1E",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Economic Survey 2023-24",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Overview of State Government Finances",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Comptroller and Auditor General of India",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Bihar",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chhattisgarh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Goa",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Haryana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Himachal Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jharkhand",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Madhya Pradesh",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f993af8fc435cc689a3d0579305dbf843eab82f1": {
+   "entities": [
+    {
+     "name": "Extraordinary circumstances during 2019-24 (I)",
+     "type": "Issue",
+     "english_name": "Extraordinary circumstances during 2019-24 (I)"
+    },
+    {
+     "name": "Growth in Union Gross Tax Revenues (all figures in INR Crores)",
+     "type": "Issue",
+     "english_name": "Growth in Union Gross Tax Revenues (all figures in INR Crores)"
+    },
+    {
+     "name": "Union Gross Tax Revenues",
+     "type": "Organization",
+     "english_name": "Union Gross Tax Revenues"
+    },
+    {
+     "name": "Mr. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "Union Budget documents",
+     "type": "Organization",
+     "english_name": "Union Budget documents"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5e5367938faf5a9a8375ebbde8d61a5a8acc551f": {
+   "entities": [
+    {
+     "name": "AP State's Share in Central Taxes as a % of GSDP",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Extraordinary circumstances during 2019-24 (II)",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Union Budget documents",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3ecdec5dddb463efafb6c7a8b82c30e002869b36": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP regime",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP regime",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of direct Government debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of State Government guaranteed liabilities",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of power sector liabilities",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of growth of aggregate of all liabilities",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "152dd4c5e6aa283d49e31a4a3a8d0f6a8555e303": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "నెల్లూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Nellore District"
+    },
+    {
+     "name": "సత్యవేన జలశక్తి",
+     "type": "Organization",
+     "english_name": "Satyavena Jalashakti"
+    },
+    {
+     "name": "BUGGANA RAJENDRANATH",
+     "type": "Person",
+     "english_name": "Buggana Rajendranath"
+    },
+    {
+     "name": "Minister for Finance",
+     "type": "Organization",
+     "english_name": "Minister for Finance"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d557c284d9fd7a7b0ac46d094b1f01a3c7f0945f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1297907e58d416b6e56b4494248cde61dcba2493": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7541dfb70b833e7b8be44c4827189abd95a67ee5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "363adab2ae2c296ab411d0c5cbe7686558a5da49": {
+   "entities": [
+    {
+     "name": "బ్యాంకుకు హామీలేఖ రాసారు",
+     "type": "Claim",
+     "english_name": "Letter of guarantee to the bank"
+    },
+    {
+     "name": "బహిరంగ మార్కెట్ రుణానికి ఇప్పుడు అస్కారం లేకుండా పోయింది",
+     "type": "Claim",
+     "english_name": "No access to open market borrowing"
+    },
+    {
+     "name": "ప్రతి నెలా తాలుత జితాల చెల్లింపులకే ప్రాధాన్యత ఇస్తూ వస్తున్నారు",
+     "type": "Claim",
+     "english_name": "Priority given to monthly salary payments"
+    },
+    {
+     "name": "అధికారులు విశ్లేషిస్తున్నారు",
+     "type": "Claim",
+     "english_name": "Officials analyze"
+    },
+    {
+     "name": "రూ 1500 కోట్ల వరకు వడ్డీల చెల్లింపులకు సర్దుబాటు చేశారు",
+     "type": "Claim",
+     "english_name": "Interest payments adjusted up to Rs 1500 crore"
+    },
+    {
+     "name": "రిజర్వు బ్యాంకు నేరుగా ఆ మొత్తాలు మినహాయించుకుని మిగిలిన చెల్లింపులు చేసింది",
+     "type": "Claim",
+     "english_name": "Reserve Bank directly deducted amounts and made remaining payments"
+    },
+    {
+     "name": "ప్రతి వారం జీఎస్టీ కింద రూ.500 కోట్ల వరకు రాష్ట్రానికి వస్తుంది",
+     "type": "Claim",
+     "english_name": "GST revenue up to Rs 500 crore per week"
+    },
+    {
+     "name": "ఉపాధి హామీ పథకం కింద రూ.590 కోట్లు వచ్చినా, ఆ మొత్తాలు ఖర్చయిపోయాయి",
+     "type": "Claim",
+     "english_name": "MGNREGA funds received Rs 590 crore but spent"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c6ba98ee2608c2cbf4ef4d6483627885aa2b9f72": {
+   "entities": [
+    {
+     "name": "Solar Energy Corporation of India Limited",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India Limited"
+    },
+    {
+     "name": "Atulya Kumar Naik",
+     "type": "Person",
+     "english_name": "Atulya Kumar Naik"
+    },
+    {
+     "name": "General Manager (PT)",
+     "type": "Person",
+     "english_name": "General Manager (PT)"
+    },
+    {
+     "name": "NBCC Office Block Tow",
+     "type": "Organization",
+     "english_name": "NBCC Office Block Tow"
+    },
+    {
+     "name": "East Kidwai Nagar, New Delhi-110023",
+     "type": "Place",
+     "english_name": "East Kidwai Nagar, New Delhi-110023"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "793e0d232b4deb37e9805c0f40407e2305d32fd1": {
+   "entities": [
+    {
+     "name": "Power Sector",
+     "type": "Issue",
+     "english_name": "Power Sector"
+    },
+    {
+     "name": "DISCOMs",
+     "type": "Organization",
+     "english_name": "DISCOMs"
+    },
+    {
+     "name": "APSPDCL",
+     "type": "Organization",
+     "english_name": "APSPDCL"
+    },
+    {
+     "name": "APEPDCL",
+     "type": "Organization",
+     "english_name": "APEPDCL"
+    },
+    {
+     "name": "APCPDCL",
+     "type": "Organization",
+     "english_name": "APCPDCL"
+    },
+    {
+     "name": "CAGR of losses",
+     "type": "Claim",
+     "english_name": "CAGR of losses"
+    },
+    {
+     "name": "Debt in the books of power sector PSUs",
+     "type": "Claim",
+     "english_name": "Debt in the books of power sector PSUs"
+    },
+    {
+     "name": "Financial support from Govt. to sector 2014-19",
+     "type": "Claim",
+     "english_name": "Financial support from Govt. to sector 2014-19"
+    },
+    {
+     "name": "Financial support from Govt. to sector 2019-24",
+     "type": "Claim",
+     "english_name": "Financial support from Govt. to sector 2019-24"
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": "TDP Government"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "622295a71db7720e877b3fa81163b5876e087b75": {
+   "entities": [
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": "Ministry of Power"
+    },
+    {
+     "name": "Shram Shakti Bhawan, Rafi Marg, New Delhi",
+     "type": "Place",
+     "english_name": "Shram Shakti Bhawan, Rafi Marg, New Delhi"
+    },
+    {
+     "name": "Central Electricity Authority",
+     "type": "Organization",
+     "english_name": "Central Electricity Authority"
+    },
+    {
+     "name": "CERC",
+     "type": "Organization",
+     "english_name": "CERC"
+    },
+    {
+     "name": "MNRE",
+     "type": "Organization",
+     "english_name": "MNRE"
+    },
+    {
+     "name": "State Governments/UTs",
+     "type": "Organization",
+     "english_name": "State Governments/UTs"
+    },
+    {
+     "name": "State Electricity Regulatory Commissions/Joint Electricity Regulatory Commissions",
+     "type": "Organization",
+     "english_name": "State Electricity Regulatory Commissions/Joint Electricity Regulatory Commissions"
+    },
+    {
+     "name": "Solar Energy Corporation of India",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "NTPC Limited",
+     "type": "Organization",
+     "english_name": "NTPC Limited"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ministry of Power",
+     "relation": "LOCATED_IN",
+     "target": "Shram Shakti Bhawan, Rafi Marg, New Delhi",
+     "evidence": "Shram Shakti Bhawan, Rafi Marg, New Delhi"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5348c92a90b9fddd5cf3b8a59b5291678dd4c127": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "667c4d6a9271fe473d5e4e6b2df14c918c5e4fd2": {
+   "entities": [
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "GoAP",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Dr. Srikant Nagulapalli, IAS",
+     "type": "Person",
+     "english_name": "Dr. Srikant Nagulapalli"
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Scheme",
+     "english_name": "ISTS waiver"
+    },
+    {
+     "name": "Solar Manufacturing tender",
+     "type": "Scheme",
+     "english_name": "Solar Manufacturing tender"
+    },
+    {
+     "name": "9,000 MW solar park infrastructure",
+     "type": "Scheme",
+     "english_name": "9,000 MW solar park infrastructure"
+    },
+    {
+     "name": "AP DISCOMs",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh DISCOMs"
+    },
+    {
+     "name": "STU",
+     "type": "Organization",
+     "english_name": "State Transmission Utility"
+    },
+    {
+     "name": "Atma Nirbhar Bharat Abhiyan",
+     "type": "Scheme",
+     "english_name": "Atma Nirbhar Bharat Abhiyan"
+    },
+    {
+     "name": "Rs. 2.49/kWh",
+     "type": "Scheme",
+     "english_name": "Rs. 2.49/kWh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c19334e527fe705ade71122c018179baed311b31": {
+   "entities": [
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": "Ministry of Power"
+    },
+    {
+     "name": "Order No. 23/12/2016-R&R dated 13.2.2018",
+     "type": "Organization",
+     "english_name": "Order No. 23/12/2016-R&R dated 13.2.2018"
+    },
+    {
+     "name": "Order No. 23/12/2016-R&R dated 6th November,2019",
+     "type": "Organization",
+     "english_name": "Order No. 23/12/2016-R&R dated 6th November,2019"
+    },
+    {
+     "name": "Order No. 23/12/2016-R&R dated 5th August 2020",
+     "type": "Organization",
+     "english_name": "Order No. 23/12/2016-R&R dated 5th August 2020"
+    },
+    {
+     "name": "inter-state transmission charges",
+     "type": "Scheme",
+     "english_name": "inter-state transmission charges"
+    },
+    {
+     "name": "solar and wind sources of energy",
+     "type": "Scheme",
+     "english_name": "solar and wind sources of energy"
+    },
+    {
+     "name": "solar-wind hybrid power plants",
+     "type": "Scheme",
+     "english_name": "solar-wind hybrid power plants"
+    },
+    {
+     "name": "distribution licensees",
+     "type": "Organization",
+     "english_name": "distribution licensees"
+    },
+    {
+     "name": "RPO",
+     "type": "Organization",
+     "english_name": "RPO"
+    },
+    {
+     "name": "storage",
+     "type": "Scheme",
+     "english_name": "storage"
+    },
+    {
+     "name": "Hydro pumped storage plants",
+     "type": "Scheme",
+     "english_name": "Hydro pumped storage plants"
+    },
+    {
+     "name": "Force Majeure",
+     "type": "Organization",
+     "english_name": "Force Majeure"
+    },
+    {
+     "name": "Government Agency",
+     "type": "Organization",
+     "english_name": "Government Agency"
+    },
+    {
+     "name": "Renewable Energy generation capacity",
+     "type": "Organization",
+     "english_name": "Renewable Energy generation capacity"
+    },
+    {
+     "name": "ISTS waiver",
+     "type": "Scheme",
+     "english_name": "ISTS waiver"
+    },
+    {
+     "name": "MNRE's Central Public Sector Undertaking (CPSU) Scheme Phase-II (Government Producer Scheme) dated 5.3.2019",
+     "type": "Scheme",
+     "english_name": "MNRE's Central Public Sector Undertaking (CPSU) Scheme Phase-II (Government Producer Scheme) dated 5.3.2019"
+    },
+    {
+     "name": "SECI Tender for manufacturing linked capacity scheme (RFS No SECI/C&P/RfS/2GW Manufacturing/P-3/R1/062019dated",
+     "type": "Scheme",
+     "english_name": "SECI Tender for manufacturing linked capacity scheme (RFS No SECI/C&P/RfS/2GW Manufacturing/P-3/R1/062019dated"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1cf6ab0e98890167f753e7ea35c2801fa77cebb2": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "రాష్ట్ర అజానా",
+     "type": "Organization",
+     "english_name": "State Treasury"
+    },
+    {
+     "name": "ఆర్థికశాఖ",
+     "type": "Organization",
+     "english_name": "Finance Department"
+    },
+    {
+     "name": "పసుపు-కుంకుమ",
+     "type": "Scheme",
+     "english_name": "Pasupu-Kumkuma"
+    },
+    {
+     "name": "అన్నదాతా సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "ఓవర్ డ్రాఫ్ట్",
+     "type": "Scheme",
+     "english_name": "Overdraft"
+    },
+    {
+     "name": "ఆర్థికశాఖ అధికారులు",
+     "type": "Person",
+     "english_name": "Finance Department officials"
+    },
+    {
+     "name": "రిజర్వు బ్యాంకు",
+     "type": "Organization",
+     "english_name": "Reserve Bank"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వ సెక్యూరిటీలు",
+     "type": "Organization",
+     "english_name": "State Government Securities"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "సామాజిక సంక్షేమం",
+     "type": "Scheme",
+     "english_name": "Social Welfare"
+    },
+    {
+     "name": "ఓవర్ డ్రాఫ్ట్",
+     "type": "Issue",
+     "english_name": "Overdraft"
+    },
+    {
+     "name": "చేబదుళ్లు",
+     "type": "Issue",
+     "english_name": "Cheques"
+    },
+    {
+     "name": "ఓపెన్ మార్కెట్ రుణాలు",
+     "type": "Scheme",
+     "english_name": "Open Market Loans"
+    },
+    {
+     "name": "రిజర్వు బ్యాంకు అనుమతి",
+     "type": "Scheme",
+     "english_name": "Reserve Bank Permission"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాష్ట్ర అజానా",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈనాడు - అమరావతి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,474 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e49c885fd6d586658b7ea09133c15ccdacd493d5": {
+   "entities": [
+    {
+     "name": "ITEM NO.73, 72 & 68",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "COURT NO.3",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SECTION PIL-W",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SUPREME COURT OF INDIA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "WRIT PETITION(S)(CIVIL) NO(S). 622/2024",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "DR. SUBRAMANIAN SWAMY",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "THE STATE OF ANDHRA PRADESH & ORS.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IA No.222573/2024-PERMISSION TO APPEAR AND ARGUE IN PERSON",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "W.P.(C) No. 628/2024 (PIL-W) (FOR ADMISSION)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "W.P.(C) No. 630/2024 (PIL-W) (FOR ADMISSION)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "WRIT PETITION(S)(CIVIL) NO(S). 645/2024 (X)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "WRIT PETITION(S)(CIVIL) NO(S). 640/2024 (PIL-W)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "IA No. 225192/2024 - PERMISSION TO APPEAR AND ARGUE IN PERSON",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "04-10-2024",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "HON'BLE MR. JUSTICE B.R. GAVAI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "HON'BLE MR. JUSTICE K.V. VISWANATHAN",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Shri Tushar Mehta, Solicitor General",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Kapil Sibal, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Baani Khanna, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Robin Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Palak Bishnoi, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rohit Kumar, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Govinda Choudhary, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rajshekhar Rao, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Ajay Sabharwal, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Sonali Jain, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Sonia Mathur, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Satayam Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6ef7e92c0a237cd6a5fbc9113ee4b67538a0add9": {
+   "entities": [
+    {
+     "name": "Mr. Rajeev Ranjan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Sanchita Beniwal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Sanjeev Gupta",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Shivam Singh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rishikesh Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Dipanshu Krishan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rishi Singh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Ronika Tater",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Tusharika Sharma",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Mudabbera Zaheen",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Alok Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Gunjan Singh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Nikhil Chandra Jaiswal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Shubhi Bhardwaj",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Madhumitha Kesavan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Nikhil Beniwal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Raghav Awasthi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Mukesh Sharma",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Dinesh Sharma",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Akash",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Abhinav Kumar Garg",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Dr. Nitin Sharma",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Ashish Pandey",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Petitioner-in-person",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Dr. M Sathya Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Mukul Rohatgi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. D. Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Siddharth Aggarwal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Guntur Pramod Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Dhruv Yadav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Samarth Luthra",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Siddharth Luthra",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. V. Lakshmi Kumaran",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Guntur Prabhakar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Charanya Lakshmikumaran",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Prerna Singh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Anmol Kheta",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Rajni Gupta",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Anshula Verma",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. K.S. Jaggi",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "471fd1c029c82763f2bc4db71ff2a380b03c3e9a": {
+   "entities": [
+    {
+     "name": "Authority of India (FSSAI)",
+     "type": "Organization",
+     "english_name": "Authority of India (FSSAI)"
+    },
+    {
+     "name": "Director of CBI",
+     "type": "Person",
+     "english_name": "Director of CBI"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Andhra Pradesh Police",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Police"
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Chairperson of the FSAAI",
+     "type": "Person",
+     "english_name": "Chairperson of the FSAAI"
+    },
+    {
+     "name": "Narendra Prasad",
+     "type": "Person",
+     "english_name": "Narendra Prasad"
+    },
+    {
+     "name": "Anju Kapoor",
+     "type": "Person",
+     "english_name": "Anju Kapoor"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "87e53fe936ac117458b9c49eb1751c8be36e3595": {
+   "entities": [
+    {
+     "name": "allegations contained against the manufacture/preparation of prasadam and the Trust",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "FIR",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ghee received in two tankers supplied on 06.07.2024 and two tankers supplied on 12.07.2024 by the same supplier found to be adulterated",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "adulterated ghee",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "manufacture/preparation of prasadam/laddoos",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Shri Tushar Mehta, learned Solicitor General of India",
+     "type": "Person",
+     "english_name": "Tushar Mehta"
+    },
+    {
+     "name": "Special Investigation Team (SIT)",
+     "type": "Organization",
+     "english_name": "Special Investigation Team"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CBI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Food Safety and Standards",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

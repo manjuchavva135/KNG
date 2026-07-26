@@ -1,0 +1,46 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2fb2c2d6455ec96b3ef839c7a8928ef5fc197c3f": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Dr.YSR Free Crop Insurance scheme",
+     "type": "Scheme",
+     "english_name": "Dr.YSR Free Crop Insurance scheme"
+    },
+    {
+     "name": "PMFBY",
+     "type": "Scheme",
+     "english_name": "PMFBY"
+    },
+    {
+     "name": "Dr YSR Free Crop Ins",
+     "type": "Scheme",
+     "english_name": "Dr YSR Free Crop Ins"
+    },
+    {
+     "name": "Dr YSR FCI-PMFBY Yield & Weather Based",
+     "type": "Scheme",
+     "english_name": "Dr YSR FCI-PMFBY Yield & Weather Based"
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "54.55 lakh farmers",
+     "type": "Person",
+     "english_name": "54.55 lakh farmers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

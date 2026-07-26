@@ -1,0 +1,1256 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bd267f9d0cfbc0c29981d2b8d1f5e4ddbc750ff1": {
+   "entities": [
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment Allowance"
+    },
+    {
+     "name": "యువగళం",
+     "type": "Scheme",
+     "english_name": "Yuva Hithalu"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "స్త్రీశక్తి",
+     "type": "Scheme",
+     "english_name": "Stree Shakti"
+    },
+    {
+     "name": "హి ఈజ్ యాన్ హాబిచ్యువల్ అఫెండర్",
+     "type": "Claim",
+     "english_name": "He is an habitual offender"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వం ప్రవేశపెట్టిన మూడు బడ్జెట్లలో తానిచ్చిన నిరుద్యోగ భృతి పథకానికి సంబంధించి కించిత్ ప్రస్తావన ఎక్కడైనా ఉ?"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు నాయుడు",
+     "evidence": "అందుకే యువతకు చంద్రబాబు నాయుడు నిత్య మోసగాడు.. నిత్య వంచకుడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "హి ఈజ్ యాన్ హాబిచ్యువల్ అఫెండర్",
+     "evidence": "'హి ఈజ్ యాన్ హాబిచ్యువల్ అఫెండర్'."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5e4e5ecfe1ee1b9156acc3b0a9cf783abb999a95": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "సూపర్ సిక్స్ సూపర్ సెవెన్ల",
+     "type": "Scheme",
+     "english_name": "Super Six Super Sevens"
+    },
+    {
+     "name": "పింఛన్లు",
+     "type": "Scheme",
+     "english_name": "Pensions"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్ సూపర్ సెవెన్ల",
+     "evidence": "చంద్రబాబునాయుడు సూపర్ సిక్స్ సూపర్ సెవెన్ల పేరుతో ప్రవేశపెట్టిన ఈ మూడు బడ్జెట్లలో కూడా ఈ మూడు ప్రధాన హామీలకు అతీగతీ లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a8f1e9c17c335b035165fdf8dc3784019d530174": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "స్త్రీ శక్తి",
+     "type": "Scheme",
+     "english_name": "Stree Shakti"
+    },
+    {
+     "name": "సూపర్ సిక్స్ సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Six Super Seven"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "పెన్షన్లు",
+     "type": "Scheme",
+     "english_name": "Pensions"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్త్రీ శక్తి",
+     "evidence": "స్త్రీ శక్తి హామీ పేరిట నెలకు రూ.1500 చొప్పున ఏడాదికి రూ.18 వేలు ఇస్తామని చెప్పాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్ సూపర్ సెవెన్",
+     "evidence": "సూపర్ సిక్స్ సూపర్ సెవెన్లో చంద్రబాబు ఇచ్చిన మరో ముఖ్యమైన హామీ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4c2b768860944be55306ee64f7b4c3e409dedc0b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Maternal Veneration"
+    },
+    {
+     "name": "తల్లికి వంచన",
+     "type": "Scheme",
+     "english_name": "Maternal Deception"
+    },
+    {
+     "name": "యూడీఐఎస్ఈ",
+     "type": "Organization",
+     "english_name": "UDISE"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Issue",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d7580ad3f3e016e02dcd7f05079e41cdee499d87": {
+   "entities": [
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "రైతు భరోసా పథకం",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa Scheme"
+    },
+    {
+     "name": "పీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ",
+     "evidence": "ఈ పథకంలో ప్రతిరైతు కుటుంబానికి పీఎం కిసాన్ కాకుండా అన్నదాత సుఖీభవ పేరుతో పెట్టుబడి సహాయం కింద రూ.20 వేలు ఇస్తానన్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e64236d6a49262853a119834d812f32bbe06d1fe": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "రైతు భరోసా పథకం",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa Scheme"
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "వ్యవసాయ శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Agriculture Minister"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Issue",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ",
+     "evidence": "చంద్రబాబు ఇవ్వాలి. అంటే రూ.10,717 కోట్లు సంవత్సరానికి ఇవ్వాలి."
+    },
+    {
+     "source": "వైఎస్సార్ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా పథకం",
+     "evidence": "వైఎస్సార్ సీపీ హయాంలో 53.58 లక్షల మందికి రైతు భరోసా పథకం ద్వారా మనం మేలు చేస్తే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f5bc66a0c41ee307ea944f06e0acf60499f8d8da": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4257cfd1496011ea87d4ce0fe746d932151ec96e": {
+   "entities": [
+    {
+     "name": "కౌలు రైతులు",
+     "type": "Issue",
+     "english_name": "Tenant farmers"
+    },
+    {
+     "name": "రైతు భరోసా పథకం",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa scheme"
+    },
+    {
+     "name": "గిరిజనులు",
+     "type": "Issue",
+     "english_name": "Tribal people"
+    },
+    {
+     "name": "పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Crop insurance"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Issue",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా పథకం",
+     "evidence": "వైఎస్సార్సీపీ హయాంలో కౌలు రైతులకు రైతు భరోసా పథకం అందించి ఆదుకున్నాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b8b031e6bb50a014195b3ccf1fb97ea7bc8cc06d": {
+   "entities": [
+    {
+     "name": "మొంథా తుఫాన్",
+     "type": "Issue",
+     "english_name": "Monga storm"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "farmers"
+    },
+    {
+     "name": "ఇన్‌పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "input subsidy"
+    },
+    {
+     "name": "గిట్టుబాటు ధరలు",
+     "type": "Issue",
+     "english_name": "fair prices"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కనీస మద్దతు ధర",
+     "type": "Scheme",
+     "english_name": "minimum support price"
+    },
+    {
+     "name": "వరి",
+     "type": "Issue",
+     "english_name": "paddy"
+    },
+    {
+     "name": "ధాన్యం కొనుగోలు",
+     "type": "Scheme",
+     "english_name": "grain procurement"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5153d66be530ad1b424a87a946930bb271d7b060": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ఆర్బీకేలు",
+     "type": "Organization",
+     "english_name": "RBKs"
+    },
+    {
+     "name": "ఈక్రాప్",
+     "type": "Organization",
+     "english_name": "eCrop"
+    },
+    {
+     "name": "కోవిడ్",
+     "type": "Issue",
+     "english_name": "COVID"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free Crop Insurance"
+    },
+    {
+     "name": "గిట్టుబాటు ధరలు",
+     "type": "Issue",
+     "english_name": "Fair Prices"
+    },
+    {
+     "name": "దళారీ వ్యవస్థ",
+     "type": "Issue",
+     "english_name": "Middlemen System"
+    },
+    {
+     "name": "ఆత్మహత్యలు",
+     "type": "Issue",
+     "english_name": "Suicides"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు క్రియేట్ చేసిన మ్యాన్ మేడ్ సంక్షోభం వల్ల రైతులకు గిట్టుబాటు ధరలు రావడం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆర్బీకేలు",
+     "evidence": "ఆర్బీకేలు నిర్వీర్యం అయ్యాయి.. ఈ క్రాప్ లేకుండా పోయింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈక్రాప్",
+     "evidence": "ఈ క్రాప్ లేకుండా పోయింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు చేసిన మోసం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ఆత్మహత్య చేసుకున్న రైతు కుటుంబాల పట్ల చంద్రబాబు పరిహారం కూడా ఇవ్వడం లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bce4d409be7547650107cc51663fff2c1ecdce71": {
+   "entities": [
+    {
+     "name": "2025-26 బడ్జెట్",
+     "type": "Issue",
+     "english_name": "2025-26 Budget"
+    },
+    {
+     "name": "రూ.300 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.300 crores"
+    },
+    {
+     "name": "రూ.342 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.342 crores"
+    },
+    {
+     "name": "రూ.500 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.500 crores"
+    },
+    {
+     "name": "రూ.3000 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.3000 crores"
+    },
+    {
+     "name": "రూ.7,756 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.7,756 crores"
+    },
+    {
+     "name": "CM app (కంట్యున్యుయస్ మోనిటరింగ్ ఆఫ్ అగ్రికల్చర్ ప్రైస్ అండ్ ప్రొడ్యూస్)",
+     "type": "Organization",
+     "english_name": "CM app (Continuous Monitoring of Agriculture Price and Produce)"
+    },
+    {
+     "name": "జాయింట్ కలెక్టర్",
+     "type": "Person",
+     "english_name": "Joint Collector"
+    },
+    {
+     "name": "మార్క్ ఫెడ్ జాయింట్ ఎండీ",
+     "type": "Person",
+     "english_name": "Markfed Joint MD"
+    },
+    {
+     "name": "ఆర్బీకే",
+     "type": "Organization",
+     "english_name": "RBK"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వ్యవసాయం నిర్వీర్యం",
+     "type": "Issue",
+     "english_name": "Agriculture sabotage"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.300 కోట్లు",
+     "evidence": "2025-26 బడ్జెట్ లో వీళ్లు పెట్టింది రూ.300 కోట్లు.. ఖర్చు చేసింది రివైజ్డ్ ఎస్టిమేట్లో రూ.342 కోట్లు అంటున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.500 కోట్లు",
+     "evidence": "2026-27 బడ్జెట్ లో పెట్టింది రూ.500 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.3000 కోట్లు",
+     "evidence": "మా హయాంలో రూ.3000 కోట్లు ధరల స్థిరీకరణ నిధి పెట్టి ఐదేళ్లలో ఏకంగారూ.7756 కోట్లు ఖర్చు పెట్టి మార్కెట్ లో కాంపిటీషన్ క్రియేట్ చేశాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.7,756 కోట్లు",
+     "evidence": "ఏకంగా ధరల స్థిరీకరణ నిధి ద్వారా రూ.7,756 కోట్లు ఖర్చు చేసి ప్రైజెస్ నిలబడేట్లు చేశాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9e83986d6e9220e08914d9b6cb725a0deefc6faf": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వానికి మానవత్వం అన్నది ఏ స్థాయిలో ఉందన్నది చెప్పడానికి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.2 లక్షలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.7 లక్షలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కలెక్టర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జాయింట్ కలెక్టర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "లోకల్ ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "1320 మంది రైతు కుటుంబాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "474 రైతుల కుటుంబాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.5 లక్షల పరిహారం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్ మెంట్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "9 త్రైమాసికాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "త్రైమాసికానికి రూ.700 కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2024 జనవరి, ఫిబ్రవరి, మార్చి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏప్రిల్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జనవరి, ఫిబ్రవరి, మార్చి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మార్చి 16, 2024",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మే 13న ఎన్నికలు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb040ec2b00afa65afcb840c6e852b5bf1601d79": {
+   "entities": [
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "2024-25",
+     "type": "Issue",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025-26",
+     "type": "Issue",
+     "english_name": "2025-26"
+    },
+    {
+     "name": "2026-27",
+     "type": "Issue",
+     "english_name": "2026-27"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9f99da518a974d29cc8e336230a9937e66341132": {
+   "entities": [
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "లడ్డూ హెరిటేజ్ ఇందుపూర్",
+     "type": "Place",
+     "english_name": "Laddoo Heritage Indhapur"
+    },
+    {
+     "name": "బోలేబాబా",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    },
+    {
+     "name": "డ్వాక్రా అక్కచెల్లెమ్మలకు మోసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డ్వాక్రా మహిళలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "స్వయం సహాయక సంఘాలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు మేనిఫెస్టో",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్ చేయూత పథకం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్ ఆసరా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్ కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్ ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ff6c552733c11a2973625969641d56aadfd0a909": {
+   "entities": [
+    {
+     "name": "పథకం",
+     "type": "Scheme",
+     "english_name": "Scheme"
+    },
+    {
+     "name": "రూ.9,668 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 9,668 crores"
+    },
+    {
+     "name": "రూ. 8,456 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 8,456 crores"
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Scheme",
+     "english_name": "Free bus"
+    },
+    {
+     "name": "ఏపీఎస్ ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": "APS RTC"
+    },
+    {
+     "name": "రూ.3,200 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.3,200 crores"
+    },
+    {
+     "name": "రూ.1040 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.1,040 crores"
+    },
+    {
+     "name": "రూ.1420 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.1,420 crores"
+    },
+    {
+     "name": "రూ.9,600 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.9,600 crores"
+    },
+    {
+     "name": "రూ.7,140 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.7,140 crores"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "db9881cc12357fc7b5d2def2d178c3a1d71b35e7": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Jagananna colonies",
+     "type": "Organization",
+     "english_name": "Jagananna colonies"
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "PMAYU",
+     "type": "Organization",
+     "english_name": "PMAYU"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Savings associations credit reduced",
+     "type": "Issue",
+     "english_name": "Savings associations credit reduced"
+    }
+   ],
+   "relations": [
+    {
+     "source": "PMAYU",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "ఆంధ్రప్రదేశ్లో 5 సంవత్సరాల పీరియడ్కు సంబంధించి పీఎంఏవైయూ కింద వాళ్లు ఇచ్చినది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "525c98a946ad875eec9d84e5d0ce93b49a5be186": {
+   "entities": [
+    {
+     "name": "పొదుపు సంఘాలు",
+     "type": "Organization",
+     "english_name": "Self Help Groups"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "ప్రభుత్వ స్కూళ్లు",
+     "type": "Organization",
+     "english_name": "Government Schools"
+    },
+    {
+     "name": "ప్రభుత్వ ఆసుపత్రులు",
+     "type": "Organization",
+     "english_name": "Government Hospitals"
+    },
+    {
+     "name": "ముఖ్యమంత్రి గారి సుపుత్రుడు",
+     "type": "Person",
+     "english_name": "Chief Minister's son"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వ స్కూళ్లు",
+     "evidence": "నాడు-నేడు కార్యక్రమం... చంద్రబాబు తన చేతులతో ఉరివేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వ ఆసుపత్రులు",
+     "evidence": "నాడు-నేడు కార్యక్రమం... చంద్రబాబు తన చేతులతో ఉరివేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ముఖ్యమంత్రి గారి సుపుత్రుడు",
+     "evidence": "నాడు-నేడు పనుల కోసం 2024-25లో పెట్టిన ఖర్చు కేవలం రూ.285 కోట్లు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ea1af7b85d63d74ef95bd4a59f359bfec28859e5": {
+   "entities": [
+    {
+     "name": "2024-25",
+     "type": "Issue",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025-26",
+     "type": "Issue",
+     "english_name": "2025-26"
+    },
+    {
+     "name": "2026-27",
+     "type": "Issue",
+     "english_name": "2026-27"
+    },
+    {
+     "name": "ప్రభుత్వ పాఠశాలలు",
+     "type": "Organization",
+     "english_name": "Government schools"
+    },
+    {
+     "name": "ఆర్థిక మంత్రి",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "Times of India",
+     "type": "Organization",
+     "english_name": "Times of India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆర్థిక మంత్రి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నాడు-నేడు",
+     "evidence": "ఆర్థిక మంత్రే బడ్జెట్ ప్రసంగం ద్వారా ప్రకటించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ea8a2729f5adfa8975bbeb396e0e421ae91403a3": {
+   "entities": [
+    {
+     "name": "జీపీఎఫ్",
+     "type": "Organization",
+     "english_name": "GPF"
+    },
+    {
+     "name": "ఏపీ జీఎల్ఐ",
+     "type": "Organization",
+     "english_name": "AP GLI"
+    },
+    {
+     "name": "మెడికల్ రీయింబర్స్మెంట్",
+     "type": "Organization",
+     "english_name": "Medical Reimbursement"
+    },
+    {
+     "name": "రిటైర్మెంట్ బెనిఫిట్స్",
+     "type": "Organization",
+     "english_name": "Retirement Benefits"
+    },
+    {
+     "name": "సరెండర్ లీవ్స్",
+     "type": "Organization",
+     "english_name": "Surrender Leaves"
+    },
+    {
+     "name": "2024-25",
+     "type": "Organization",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025-26",
+     "type": "Organization",
+     "english_name": "2025-26"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cd47b312dd1a3f16d733ca99009f5761e9eba919": {
+   "entities": [
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Organization",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "రూ.8 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 8 thousand crores"
+    },
+    {
+     "name": "రూ.2259 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 2259 crores"
+    },
+    {
+     "name": "రూ.3వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 3 thousand crores"
+    },
+    {
+     "name": "రూ.2600 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 2600 crores"
+    },
+    {
+     "name": "రూ.3,150 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 3150 crores"
+    },
+    {
+     "name": "రూ.4 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 4 thousand crores"
+    },
+    {
+     "name": "రూ.7,150 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 7150 crores"
+    },
+    {
+     "name": "రూ.2,200 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 2200 crores"
+    },
+    {
+     "name": "పీఆర్సీ",
+     "type": "Scheme",
+     "english_name": "PRC"
+    },
+    {
+     "name": "ఐఆర్",
+     "type": "Scheme",
+     "english_name": "IR"
+    },
+    {
+     "name": "డీఏలు",
+     "type": "Scheme",
+     "english_name": "DA"
+    },
+    {
+     "name": "బకాయిలు",
+     "type": "Claim",
+     "english_name": "pending amounts"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6957a418f1c75a0e78c0aa7e877284fc6147ff63": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "శ్రీకారం",
+     "type": "Scheme",
+     "english_name": "Srikaram"
+    },
+    {
+     "name": "960 కోట్లు",
+     "type": "Claim",
+     "english_name": "960 crores"
+    },
+    {
+     "name": "ధాన్యం కొనుగోలు",
+     "type": "Issue",
+     "english_name": "Paddy procurement"
+    },
+    {
+     "name": "మిల్లర్లు",
+     "type": "Organization",
+     "english_name": "Millers"
+    },
+    {
+     "name": "మధ్యవర్తులు",
+     "type": "Organization",
+     "english_name": "Intermediaries"
+    },
+    {
+     "name": "మొక్కజొన్న",
+     "type": "Issue",
+     "english_name": "Corn"
+    },
+    {
+     "name": "అరటి",
+     "type": "Issue",
+     "english_name": "Banana"
+    },
+    {
+     "name": "కొబ్బరి",
+     "type": "Issue",
+     "english_name": "Coconut"
+    },
+    {
+     "name": "కందులు",
+     "type": "Issue",
+     "english_name": "Tur dal"
+    },
+    {
+     "name": "మినుములు",
+     "type": "Issue",
+     "english_name": "Moong dal"
+    },
+    {
+     "name": "పెసలు",
+     "type": "Issue",
+     "english_name": "Gram"
+    },
+    {
+     "name": "శనగలు",
+     "type": "Issue",
+     "english_name": "Chana"
+    },
+    {
+     "name": "సజ్జలు",
+     "type": "Issue",
+     "english_name": "Sorghum"
+    },
+    {
+     "name": "మిర్చి",
+     "type": "Issue",
+     "english_name": "Chilli"
+    },
+    {
+     "name": "టమోటో",
+     "type": "Issue",
+     "english_name": "Tomato"
+    },
+    {
+     "name": "చీనీ",
+     "type": "Issue",
+     "english_name": "Chinee"
+    },
+    {
+     "name": "పత్తి",
+     "type": "Issue",
+     "english_name": "Cotton"
+    },
+    {
+     "name": "శనక్కాయలు",
+     "type": "Issue",
+     "english_name": "Gram"
+    },
+    {
+     "name": "బెల్లం",
+     "type": "Issue",
+     "english_name": "Jaggery"
+    },
+    {
+     "name": "శనగ",
+     "type": "Issue",
+     "english_name": "Gram"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilization Fund"
+    },
+    {
+     "name": "2024-25 బడ్జెట్",
+     "type": "Organization",
+     "english_name": "2024-25 Budget"
+    },
+    {
+     "name": "రూ.300 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.300 crores"
+    },
+    {
+     "name": "రూ.50.4",
+     "type": "Claim",
+     "english_name": "Rs.50.4"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e57431322e39cf895d44976956af45d70ca51b10": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "అక్కచెల్లెమ్మల",
+     "type": "Person",
+     "english_name": "Akka Chellemmala"
+    },
+    {
+     "name": "ఇళ్ల స్థలాలు",
+     "type": "Issue",
+     "english_name": "House sites"
+    },
+    {
+     "name": "ఇళ్ల నిర్మాణం",
+     "type": "Issue",
+     "english_name": "House construction"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Organization",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "Budget 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Scheme",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "BHOLEBABA",
+     "type": "Person",
+     "english_name": "BHOLEBABA"
+    },
+    {
+     "name": "2024-25",
+     "type": "Issue",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025-26",
+     "type": "Issue",
+     "english_name": "2025-26"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,942 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c10b6fe36b23874f0ae648aea7a88e025a2cc857": {
+   "entities": [
+    {
+     "name": "LiveLaw",
+     "type": "Organization",
+     "english_name": "LiveLaw"
+    },
+    {
+     "name": "LiveLaw.in",
+     "type": "Organization",
+     "english_name": "LiveLaw.in"
+    },
+    {
+     "name": "DRISHTI JUDICIARY",
+     "type": "Organization",
+     "english_name": "DRISHTI JUDICIARY"
+    },
+    {
+     "name": "DRISHTI IAS",
+     "type": "Organization",
+     "english_name": "DRISHTI IAS"
+    },
+    {
+     "name": "LiveLaw Academy",
+     "type": "Organization",
+     "english_name": "LiveLaw Academy"
+    },
+    {
+     "name": "Bharatiya Sakshya Adhiniyam, 2023",
+     "type": "Scheme",
+     "english_name": "Bharatiya Sakshya Adhiniyam, 2023"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Claim",
+     "english_name": "Ghee Adulteration Allegation"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6b3de4f22b30b80c1bd78a07aa41cb5b01f29b3c": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "Special Investigation Team",
+     "type": "Organization",
+     "english_name": "Special Investigation Team"
+    },
+    {
+     "name": "Andhra Pradesh Government",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "Central Bureau of Investigation",
+     "type": "Organization",
+     "english_name": "Central Bureau of Investigation"
+    },
+    {
+     "name": "Andhra Pradesh State Police",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State Police"
+    },
+    {
+     "name": "Food Safety and Standards Authority of India",
+     "type": "Organization",
+     "english_name": "Food Safety and Standards Authority of India"
+    },
+    {
+     "name": "Tirumala Tirupati Temple",
+     "type": "Place",
+     "english_name": "Tirumala Tirupati Temple"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "ghee adulteration allegation",
+     "type": "Claim",
+     "english_name": "ghee adulteration allegation"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e970b6503a4ebf356f32d940a444a6c6b8069458": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "703515cac26190a392258c5be10e93f825599ec9": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "Special Investigation Team"
+    },
+    {
+     "name": "CBI Director",
+     "type": "Organization",
+     "english_name": "CBI Director"
+    },
+    {
+     "name": "Tirumala temple deity",
+     "type": "Place",
+     "english_name": "Tirumala temple deity"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Justices BR Gavai and KV Viswanathan",
+     "type": "Person",
+     "english_name": "Justices BR Gavai and KV Viswanathan"
+    },
+    {
+     "name": "AP Chief Minister Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "AP Chief Minister Chandrababu Naidu"
+    },
+    {
+     "name": "Solicitor General of India Tushar Mehta",
+     "type": "Person",
+     "english_name": "Solicitor General of India Tushar Mehta"
+    }
+   ],
+   "relations": [
+    {
+     "source": "AP Chief Minister Chandrababu Naidu",
+     "relation": "ACCUSES",
+     "target": "Supreme Court",
+     "evidence": "after criticising the public comments made by AP Chief Minister Chandrababu Naidu"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c0e814aa40e512f718ca408bc2403912ef39fdf": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "Senior Advocate Siddharth Luthra",
+     "type": "Person",
+     "english_name": "Siddharth Luthra"
+    },
+    {
+     "name": "Tirupati Tirumala Devasthanam (TTD)",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Andhra Pradesh Chief Minister",
+     "type": "Person",
+     "english_name": "Andhra Pradesh Chief Minister"
+    },
+    {
+     "name": "Senior Advocate Kapil Sibal",
+     "type": "Person",
+     "english_name": "Kapil Sibal"
+    },
+    {
+     "name": "Rajya Sabha MP and Ex-TTD Chairman YV Subba Reddy",
+     "type": "Person",
+     "english_name": "YV Subba Reddy"
+    },
+    {
+     "name": "Chief Minister Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Senior Advocate Mukul Rohatgi",
+     "type": "Person",
+     "english_name": "Mukul Rohatgi"
+    },
+    {
+     "name": "National Dairy Development Board (NDDB)",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "ghee adulteration allegation",
+     "type": "Claim",
+     "english_name": "ghee adulteration allegation"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee adulteration allegation",
+     "evidence": "he has no objection to any investigation ordered by the Court."
+    },
+    {
+     "source": "Senior Advocate Kapil Sibal",
+     "relation": "ACCUSES",
+     "target": "State Government",
+     "evidence": "the State SIT can't be expected to carry out an independent investigation in the light of the prior statements made by the Chief Minister Chandrababu Naidu."
+    },
+    {
+     "source": "Chief Minister Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee adulteration allegation",
+     "evidence": "the Chief Minister made the statement in September."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ead05cce00f7ec3bb749d2bb09baa20c08dcc874": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a0923cfb00f19c9826bcf6d475d7398e7ce2aa15": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "CBI",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "State Police",
+     "type": "Organization",
+     "english_name": "State Police"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Andhra Pradesh Chief Minister",
+     "type": "Person",
+     "english_name": "Andhra Pradesh Chief Minister"
+    },
+    {
+     "name": "Solicitor General Tushar Mehta",
+     "type": "Person",
+     "english_name": "Tushar Mehta"
+    },
+    {
+     "name": "Andhra Pradesh government",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh government"
+    },
+    {
+     "name": "Tirupati temple",
+     "type": "Place",
+     "english_name": "Tirupati temple"
+    },
+    {
+     "name": "YSRCP government",
+     "type": "Organization",
+     "english_name": "YSRCP government"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "ghee adulteration allegation",
+     "type": "Claim",
+     "english_name": "ghee adulteration allegation"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh Chief Minister",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee adulteration allegation",
+     "evidence": "lab report made public by Andhra Pradesh Chief Minister N Chandrababu Naidu, as per which, samples of ghee supplied to Tirupati temple for preparation of laddus during the term of the previous YSRCP government were found to contain foreign fats (including beef fat and fish oil)."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "34a59c50e1b68051a3ce45e5120d08218814e13e": {
+   "entities": [
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Claim",
+     "english_name": "Ghee Adulteration Allegation"
+    },
+    {
+     "name": "Dr Subramanian Swamy",
+     "type": "Person",
+     "english_name": "Dr Subramanian Swamy"
+    },
+    {
+     "name": "State of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "State of Andhra Pradesh"
+    },
+    {
+     "name": "Justice BR Gavai",
+     "type": "Person",
+     "english_name": "Justice BR Gavai"
+    },
+    {
+     "name": "Justice KV Viswanathan",
+     "type": "Person",
+     "english_name": "Justice KV Viswanathan"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "N Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N Chandrababu Naidu"
+    },
+    {
+     "name": "Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Dr Subramanian Swamy",
+     "relation": "MAKES_CLAIM",
+     "target": "Ghee Adulteration Allegation",
+     "evidence": "Dr Subramanian Swamy v. State of Andhra Pradesh and Others"
+    },
+    {
+     "source": "N Chandrababu Naidu",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "N Chandrababu Naidu"
+    },
+    {
+     "source": "Jagan Mohan Reddy",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "Jagan Mohan Reddy"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d51c3ee1d83f7aa6d19297183c4a8c203beba0e7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "11cf567556175f37467e77a2d6895b202cd89f8d": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Issue",
+     "english_name": "Ghee Adulteration Allegation"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7ed9d70b7d9bbab995a341e1a63e14f64ffab59f": {
+   "entities": [
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Issue",
+     "english_name": "Ghee Adulteration Allegation"
+    },
+    {
+     "name": "Abhishek Upadhyay",
+     "type": "Person",
+     "english_name": "Abhishek Upadhyay"
+    },
+    {
+     "name": "Uttar Pradesh State Administration",
+     "type": "Organization",
+     "english_name": "Uttar Pradesh State Administration"
+    },
+    {
+     "name": "Hrishikesh Roy",
+     "type": "Person",
+     "english_name": "Hrishikesh Roy"
+    },
+    {
+     "name": "SVN Bhatti",
+     "type": "Person",
+     "english_name": "SVN Bhatti"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2de9b9177b180982d13e2c0eed7bad3f0ff37410": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Issue",
+     "english_name": "Ghee Adulteration Allegation"
+    },
+    {
+     "name": "Sub-Classification Of Schedule Castes",
+     "type": "Issue",
+     "english_name": "Sub-Classification Of Schedule Castes"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "013de7fefc961868fe22fbcba6c0cb396eedb4d0": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Bombay High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b46e399cc4907b8ee43c8c81bdd89ee74b2d4a2c": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "CBI",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "State SIT",
+     "type": "Organization",
+     "english_name": "State SIT"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Dr.Subramanian Swamy",
+     "type": "Person",
+     "english_name": "Dr. Subramanian Swamy"
+    },
+    {
+     "name": "ex-TTD Chairman YV Subba Reddy",
+     "type": "Person",
+     "english_name": "YV Subba Reddy"
+    },
+    {
+     "name": "Suresh Chavhanke",
+     "type": "Person",
+     "english_name": "Suresh Chavhanke"
+    },
+    {
+     "name": "Dr.Vikram Sampath",
+     "type": "Person",
+     "english_name": "Dr. Vikram Sampath"
+    },
+    {
+     "name": "Tushar Mehta",
+     "type": "Person",
+     "english_name": "Tushar Mehta"
+    },
+    {
+     "name": "TTD Chairman",
+     "type": "Person",
+     "english_name": "TTD Chairman"
+    },
+    {
+     "name": "Sibal",
+     "type": "Person",
+     "english_name": "Sibal"
+    },
+    {
+     "name": "Rohatgi",
+     "type": "Person",
+     "english_name": "Rohatgi"
+    },
+    {
+     "name": "Justice Viswanathan",
+     "type": "Person",
+     "english_name": "Justice Viswanathan"
+    },
+    {
+     "name": "Luthra",
+     "type": "Person",
+     "english_name": "Luthra"
+    },
+    {
+     "name": "Justice Gavai",
+     "type": "Person",
+     "english_name": "Justice Gavai"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "ghee adulteration allegation",
+     "type": "Issue",
+     "english_name": "ghee adulteration allegation"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sibal",
+     "relation": "ACCUSES",
+     "target": "TTD Chairman",
+     "evidence": "\"How does he know lard was used?\" Sibal asked in return."
+    },
+    {
+     "source": "Luthra",
+     "relation": "ACCUSES",
+     "target": "TTD Chairman",
+     "evidence": "Luthra however said that the ghee consingments which reached the hill on July 6 and 12th were contaminated."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a2dd4baa2a94056e8f35ab56c7f4402ef71fe113": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana DGP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Counsel for State of Telangana",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Prosecution",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6996a74ca056b9306dfac87d54f130aff9b8de91": {
+   "entities": [
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Claim",
+     "english_name": "Ghee Adulteration Allegation"
+    },
+    {
+     "name": "Delhi LG",
+     "type": "Person",
+     "english_name": "Delhi LG"
+    },
+    {
+     "name": "MCD Standing Committee Election Matter",
+     "type": "Issue",
+     "english_name": "MCD Standing Committee Election Matter"
+    },
+    {
+     "name": "Shelly Oberoi",
+     "type": "Person",
+     "english_name": "Shelly Oberoi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3ac6e18dd0dec897a4206aee5d87a662cd349df0": {
+   "entities": [
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Claim",
+     "english_name": "Ghee Adulteration Allegation"
+    },
+    {
+     "name": "Emergency",
+     "type": "Scheme",
+     "english_name": "Emergency"
+    },
+    {
+     "name": "Bombay High Court",
+     "type": "Organization",
+     "english_name": "Bombay High Court"
+    },
+    {
+     "name": "Burgess Colabawalla",
+     "type": "Person",
+     "english_name": "Burgess Colabawalla"
+    },
+    {
+     "name": "Firdosh Pooniwalla",
+     "type": "Person",
+     "english_name": "Firdosh Pooniwalla"
+    },
+    {
+     "name": "Central",
+     "type": "Organization",
+     "english_name": "Central"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "731fa7eeda96afebbfd39feee747e0a3649313a4": {
+   "entities": [
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Claim",
+     "english_name": "Ghee Adulteration Allegation"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "63213a98a9a049d49f4dc5e48627f07286541537": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "Somnath",
+     "type": "Place",
+     "english_name": "Somnath"
+    },
+    {
+     "name": "Gir Somnath",
+     "type": "Place",
+     "english_name": "Gir Somnath"
+    },
+    {
+     "name": "Muslim religious and residential places",
+     "type": "Place",
+     "english_name": "Muslim religious and residential places"
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu Row"
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Issue",
+     "english_name": "Ghee Adulteration Allegation"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Supreme Court",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "The Supreme Court on October 4 (Friday) sought the response of the State of Gujarat"
+    },
+    {
+     "source": "Supreme Court",
+     "relation": "LOCATED_IN",
+     "target": "Somnath",
+     "evidence": "The Supreme Court on October 4 (Friday) sought the response of the State of Gujarat on a contem| petition alleging illegal demolition of Muslim religious and residential places by authorities on September 28 at Gir Somnath."
+    },
+    {
+     "source": "Supreme Court",
+     "relation": "LOCATED_IN",
+     "target": "Gir Somnath",
+     "evidence": "The Supreme Court on October 4 (Friday) sought the response of the State of Gujarat on a contem| petition alleging illegal demolition of Muslim religious and residential places by authorities on September 28 at Gir Somnath."
+    },
+    {
+     "source": "Supreme Court",
+     "relation": "LOCATED_IN",
+     "target": "Muslim religious and residential places",
+     "evidence": "The Supreme Court on October 4 (Friday) sought the response of the State of Gujarat on a contem| petition alleging illegal demolition of Muslim religious and residential places by authorities on September 28 at Gir Somnath."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "29e43e5e85fe894f08c1221aad3285428ce97c2c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "636462c47584bea5b77f3b29c4e89840cfeaf64a": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Arnesh Kumar v. State of Bihar (2014)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amanatullah Khan v. The Commissioner of Police, Delhi (2024)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Denotified Tribes",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati Laddu Row",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Ghee Adulteration Allegation",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

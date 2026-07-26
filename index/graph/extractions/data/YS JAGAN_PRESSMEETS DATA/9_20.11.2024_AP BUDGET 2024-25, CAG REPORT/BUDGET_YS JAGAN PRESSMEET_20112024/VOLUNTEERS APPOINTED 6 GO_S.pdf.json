@@ -1,0 +1,917 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fa65985f0e05393dfbce499e6454145919f9f723": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5b3205e7401507799aa3e54978af9233aee56b99": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d2b4ba40dde43345584ad020313ec42a7210ac62": {
+   "entities": [
+    {
+     "name": "Panchayat Raj and Rural Development Department",
+     "type": "Organization",
+     "english_name": "Panchayat Raj and Rural Development Department"
+    },
+    {
+     "name": "NAVARATHNALU",
+     "type": "Scheme",
+     "english_name": "NAVARATHNALU"
+    },
+    {
+     "name": "Village Volunteers",
+     "type": "Scheme",
+     "english_name": "Village Volunteers"
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Tadepalli",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "Gram Panchayat",
+     "type": "Organization",
+     "english_name": "Gram Panchayat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Panchayat Raj and Rural Development Department",
+     "relation": "LOCATED_IN",
+     "target": "Tadepalli",
+     "evidence": "From the Commissioner, PR & RD, Tadepalli, Guntur"
+    },
+    {
+     "source": "Panchayat Raj and Rural Development Department",
+     "relation": "LOCATED_IN",
+     "target": "Guntur",
+     "evidence": "From the Commissioner, PR & RD, Tadepalli, Guntur"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3cbf70dbfa8f4449072466f5d6975e08d6c0b2ee": {
+   "entities": [
+    {
+     "name": "XV. PERFORMANCE APPRAISAL COMMITTEE CUM GRIEVANCE CELL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Collector",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "XVI. PROVISION FOR DISCHARGE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Village Volunteer",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "XVII. TENTATIVE TIME LINE",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Notification inviting applications",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Receipt of application",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Scrutiny of applications",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Interviews by Selection Committee",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Intimation letters to selected Volunteers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Induction and training programme",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Positioning of volunteers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, Panchayat Raj and Rural Development",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "L.V.SUBRAHMANYAM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CHIEF SECRETARYTO GOVERNMENT",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "The Commissioner, PR & RD Department, AP, Tadepalli, Guntur District",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The PS to Secretary to Chief Minister, AP Secretariat, Velagapudi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The PS to Chief Secretary to Government, AP Secretariat, Velagapudi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "The PS to Principal Secretary, PR&RD Department, Secretariat, Velagapudi",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6f8c554556d56fa724f008d365be921988706b3b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7d780ed15200b12eb23537800880c1c230e4547d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "27676324c72a69b001614df7bde66b743fb276a8": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Municipal Administration & Urban Development",
+     "type": "Organization",
+     "english_name": "Municipal Administration & Urban Development"
+    },
+    {
+     "name": "UBS Department",
+     "type": "Organization",
+     "english_name": "UBS Department"
+    },
+    {
+     "name": "G.O.MS.No. 201",
+     "type": "Organization",
+     "english_name": "G.O.MS.No. 201"
+    },
+    {
+     "name": "Commissioner & Director of Municipal Administration",
+     "type": "Organization",
+     "english_name": "Commissioner & Director of Municipal Administration"
+    },
+    {
+     "name": "Navarathnalu",
+     "type": "Scheme",
+     "english_name": "Navarathnalu"
+    },
+    {
+     "name": "Ward Volunteers",
+     "type": "Scheme",
+     "english_name": "Ward Volunteers"
+    },
+    {
+     "name": "Urban Local Body (ULB)",
+     "type": "Organization",
+     "english_name": "Urban Local Body (ULB)"
+    },
+    {
+     "name": "Rs.32 lakhs",
+     "type": "Organization",
+     "english_name": "Rs.32 lakhs"
+    },
+    {
+     "name": "Rs.3.44 Crores",
+     "type": "Organization",
+     "english_name": "Rs.3.44 Crores"
+    },
+    {
+     "name": "Rs.243.00 Crores",
+     "type": "Organization",
+     "english_name": "Rs.243.00 Crores"
+    },
+    {
+     "name": "Rs.5,000/- per volunteer per month",
+     "type": "Organization",
+     "english_name": "Rs.5,000/- per volunteer per month"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "73c9eeb4d2eed6b5905efb72a48f33df13bea6a0": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "948932b266cdf1e242c1fe2b1587c62bbc12a215": {
+   "entities": [
+    {
+     "name": "Municipal Commissioner",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tahasildar",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PO / TMC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MEPMA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Collector",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner & Director of Municipal Administration, AP, Guntur",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ward Volunteer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Notification inviting applications",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Receipt of application",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Scrutiny of applications",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Interviews by Selection Committee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Intimation letters to selected Volunteers",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Induction and training programme",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Positioning of volunteers",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "88a94abbddabd26e911cd6f3f424f639ce192ac9": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9811747049dc1590f4f2e722cc955bf7b435b41d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1f8b08b5b254516772783a12f22af5fd2c1f38ad": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "174538aa42ac22ab012bd57f18c02c236e2a229e": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Municipal Administration & Urban Development",
+     "type": "Organization",
+     "english_name": "Municipal Administration & Urban Development"
+    },
+    {
+     "name": "G.O.MS.No. 254",
+     "type": "Organization",
+     "english_name": "G.O.MS.No. 254"
+    },
+    {
+     "name": "G.O. Ms. No. 201",
+     "type": "Organization",
+     "english_name": "G.O. Ms. No. 201"
+    },
+    {
+     "name": "Commissioner and Director of Municipal Administration, Guntur",
+     "type": "Organization",
+     "english_name": "Commissioner and Director of Municipal Administration, Guntur"
+    },
+    {
+     "name": "Government Memo No.2631211/UBS/2019",
+     "type": "Organization",
+     "english_name": "Government Memo No.2631211/UBS/2019"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7f9a91a634e0c1d9cc76b86a50079869d71063c5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d445d8727a0fece348808fa1ae9e07fbcb48c653": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aeb3c6777e389beb9cfaeb968aa320653442547d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "94c3cabb43d21447f8933aa722fe02be00cc6805": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d6f6974c792de2a1d7ffaf213bcd181b0f937300": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7e1f84d5c3c3293bbd6fa58aad9a30ec7403afd0": {
+   "entities": [
+    {
+     "name": "RESERVATION",
+     "type": "Scheme",
+     "english_name": "Reservation"
+    },
+    {
+     "name": "AGE",
+     "type": "Scheme",
+     "english_name": "Age"
+    },
+    {
+     "name": "HOW TO APPLY",
+     "type": "Scheme",
+     "english_name": "How to Apply"
+    },
+    {
+     "name": "METHOD OF SELECTION",
+     "type": "Scheme",
+     "english_name": "Method of Selection"
+    },
+    {
+     "name": "HONORARIUM",
+     "type": "Scheme",
+     "english_name": "Honorarium"
+    },
+    {
+     "name": "TRAINING",
+     "type": "Scheme",
+     "english_name": "Training"
+    },
+    {
+     "name": "POSITIONING",
+     "type": "Scheme",
+     "english_name": "Positioning"
+    },
+    {
+     "name": "gramavolunteer.ap.gov.in",
+     "type": "Organization",
+     "english_name": "gramavolunteer.ap.gov.in"
+    },
+    {
+     "name": "Selection Committee",
+     "type": "Organization",
+     "english_name": "Selection Committee"
+    },
+    {
+     "name": "MPDO",
+     "type": "Organization",
+     "english_name": "MPDO"
+    },
+    {
+     "name": "Tahsildar",
+     "type": "Organization",
+     "english_name": "Tahsildar"
+    },
+    {
+     "name": "EO(PR&RD)",
+     "type": "Organization",
+     "english_name": "EO(PR&RD)"
+    },
+    {
+     "name": "Village Volunteers",
+     "type": "Organization",
+     "english_name": "Village Volunteers"
+    },
+    {
+     "name": "Rs.5,000/- per month",
+     "type": "Scheme",
+     "english_name": "Rs.5,000/- per month"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bc911d5f1d481bee0e22368e006035de58692c3d": {
+   "entities": [
+    {
+     "name": "Village Volunteers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RoR taking District",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Commissioner, Panchayat Raj &Rural Development",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3b48dd04c2ef1783609cae765aaf1b6ad9faf6c5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ecb003f2dc4feaf185346c553c476b1665d45296": {
+   "entities": [
+    {
+     "name": "Volunteers",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "Panchayat Raj & Rural Development",
+     "type": "Organization",
+     "english_name": "Panchayat Raj & Rural Development"
+    },
+    {
+     "name": "Village Volunteers",
+     "type": "Organization",
+     "english_name": "Village Volunteers"
+    },
+    {
+     "name": "State",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "G.O 1ˢᵗ",
+     "type": "Scheme",
+     "english_name": "G.O 1ˢᵗ"
+    },
+    {
+     "name": "Telugu Daily News Papers",
+     "type": "Organization",
+     "english_name": "Telugu Daily News Papers"
+    },
+    {
+     "name": "District Collectors",
+     "type": "Organization",
+     "english_name": "District Collectors"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Panchayat Raj & Rural Development",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "in all Villages of the State"
+    },
+    {
+     "source": "Volunteers",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "positioning of Volunteers @ one per around 50 households in the State"
+    },
+    {
+     "source": "Village Volunteers",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "in all Villages of the State"
+    },
+    {
+     "source": "District Collectors",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "by the District Collectors concerned"
+    },
+    {
+     "source": "Telugu Daily News Papers",
+     "relation": "LOCATED_IN",
+     "target": "State",
+     "evidence": "issued in Telugu in two Telugu Daily News Papers"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "31adbbe0365ee3b00dc31c8099a4d1c4e6e9ebeb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e4611bd7f597d543828217d76426e321cd2894c3": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c17a340b6579216d08524f80c1ba1ae3341cbd7b": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Municipal Administration & Urban Development",
+     "type": "Organization",
+     "english_name": "Municipal Administration & Urban Development"
+    },
+    {
+     "name": "UBS Department",
+     "type": "Organization",
+     "english_name": "UBS Department"
+    },
+    {
+     "name": "G.O.MS.No. 279",
+     "type": "Organization",
+     "english_name": "G.O.MS.No. 279"
+    },
+    {
+     "name": "G.O.Ms.No.201",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.201"
+    },
+    {
+     "name": "G.O.Ms.No.254",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.254"
+    },
+    {
+     "name": "Commissioner and Director of Municipal Administration, Guntur",
+     "type": "Organization",
+     "english_name": "Commissioner and Director of Municipal Administration, Guntur"
+    },
+    {
+     "name": "Ward Volunteers",
+     "type": "Organization",
+     "english_name": "Ward Volunteers"
+    },
+    {
+     "name": "Urban Local Body (ULB)",
+     "type": "Organization",
+     "english_name": "Urban Local Body (ULB)"
+    },
+    {
+     "name": "Rs.5000/- per month",
+     "type": "Scheme",
+     "english_name": "Rs.5000/- per month"
+    },
+    {
+     "name": "51718 Ward Volunteers",
+     "type": "Organization",
+     "english_name": "51718 Ward Volunteers"
+    },
+    {
+     "name": "70888 volunteer posts",
+     "type": "Organization",
+     "english_name": "70888 volunteer posts"
+    },
+    {
+     "name": "19,170 posts",
+     "type": "Organization",
+     "english_name": "19,170 posts"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "175935cc5d07c58b1fc04370fd76d961cf42208d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c3bc071a2bd199ddbd97d1aff07b728848933d8e": {
+   "entities": [
+    {
+     "name": "J.SYAMALA RAO",
+     "type": "Person",
+     "english_name": "J. Syamala Rao"
+    },
+    {
+     "name": "Secretary to Government",
+     "type": "Person",
+     "english_name": "Secretary to Government"
+    },
+    {
+     "name": "Commissioner and Director of Municipal Administration, Guntur",
+     "type": "Organization",
+     "english_name": "Commissioner and Director of Municipal Administration, Guntur"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8ca4f5adda8cf1b361ba0cfdcff2f84d3e439635": {
+   "entities": [
+    {
+     "name": "Village Volunteer",
+     "type": "Organization",
+     "english_name": "Village Volunteer"
+    },
+    {
+     "name": "MPDO",
+     "type": "Organization",
+     "english_name": "MPDO"
+    },
+    {
+     "name": "Panchayat Secretary",
+     "type": "Organization",
+     "english_name": "Panchayat Secretary"
+    },
+    {
+     "name": "District Collector",
+     "type": "Organization",
+     "english_name": "District Collector"
+    },
+    {
+     "name": "Mandal Level",
+     "type": "Place",
+     "english_name": "Mandal Level"
+    },
+    {
+     "name": "Village Level",
+     "type": "Place",
+     "english_name": "Village Level"
+    },
+    {
+     "name": "District Level",
+     "type": "Place",
+     "english_name": "District Level"
+    },
+    {
+     "name": "Notification inviting applications",
+     "type": "Scheme",
+     "english_name": "Notification inviting applications"
+    },
+    {
+     "name": "Receipt of application",
+     "type": "Scheme",
+     "english_name": "Receipt of application"
+    },
+    {
+     "name": "Scrutiny of applications",
+     "type": "Scheme",
+     "english_name": "Scrutiny of applications"
+    },
+    {
+     "name": "Interviews by Selection Committee",
+     "type": "Scheme",
+     "english_name": "Interviews by Selection Committee"
+    },
+    {
+     "name": "Intimation letters to selected Volunteers",
+     "type": "Scheme",
+     "english_name": "Intimation letters to selected Volunteers"
+    },
+    {
+     "name": "Induction and Training Programme",
+     "type": "Scheme",
+     "english_name": "Induction and Training Programme"
+    },
+    {
+     "name": "Positioning of volunteers",
+     "type": "Scheme",
+     "english_name": "Positioning of volunteers"
+    },
+    {
+     "name": "Re-notifications",
+     "type": "Scheme",
+     "english_name": "Re-notifications"
+    },
+    {
+     "name": "Mandal Selection Committee",
+     "type": "Organization",
+     "english_name": "Mandal Selection Committee"
+    },
+    {
+     "name": "Full Additional Charge (FAC)",
+     "type": "Scheme",
+     "english_name": "Full Additional Charge (FAC)"
+    }
+   ],
+   "relations": [
+    {
+     "source": "MPDO",
+     "relation": "LOCATED_IN",
+     "target": "Mandal Level",
+     "evidence": "MPDO at Mandal Level"
+    },
+    {
+     "source": "Panchayat Secretary",
+     "relation": "LOCATED_IN",
+     "target": "Village Level",
+     "evidence": "Panchayat Secretary at Village Level"
+    },
+    {
+     "source": "District Collector",
+     "relation": "LOCATED_IN",
+     "target": "District Level",
+     "evidence": "Performance appraisal at District Level will be done by the District Collector"
+    },
+    {
+     "source": "Mandal Selection Committee",
+     "relation": "LOCATED_IN",
+     "target": "Mandal Level",
+     "evidence": "Mandal Selection Committee under the supervision of District Collector"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "02d3e5bccc442b9684e30d34a3ab3952a66ebd95": {
+   "entities": [
+    {
+     "name": "Ward Volunteers",
+     "type": "Organization",
+     "english_name": "Ward Volunteers"
+    },
+    {
+     "name": "ULBs",
+     "type": "Organization",
+     "english_name": "ULBs"
+    },
+    {
+     "name": "Municipal Commissioner",
+     "type": "Person",
+     "english_name": "Municipal Commissioner"
+    },
+    {
+     "name": "District Collector",
+     "type": "Person",
+     "english_name": "District Collector"
+    },
+    {
+     "name": "Notification inviting applications",
+     "type": "Scheme",
+     "english_name": "Notification inviting applications"
+    },
+    {
+     "name": "Receipt of application",
+     "type": "Scheme",
+     "english_name": "Receipt of application"
+    },
+    {
+     "name": "Scrutiny of applications",
+     "type": "Scheme",
+     "english_name": "Scrutiny of applications"
+    },
+    {
+     "name": "Interviews by Selection Committee",
+     "type": "Scheme",
+     "english_name": "Interviews by Selection Committee"
+    },
+    {
+     "name": "Intimation letters to selected Volunteers",
+     "type": "Scheme",
+     "english_name": "Intimation letters to selected Volunteers"
+    },
+    {
+     "name": "Induction and Training Programme",
+     "type": "Scheme",
+     "english_name": "Induction and Training Programme"
+    },
+    {
+     "name": "Positioning of volunteers",
+     "type": "Scheme",
+     "english_name": "Positioning of volunteers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "668159d636ee43b66133909146854a5c701fc20a": {
+   "entities": [
+    {
+     "name": "General Administration Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Department of Gram Volunteers/Ward Volunteers and Village Secretariats /Ward Secretariats",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Government Business Rules,2018",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NILAM SAWHNEY",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CHIEF SECRETARY TO GOVERNMENT",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Finance (BG) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pay and Accounts Officer, AP, Ibrahimpatnam, Vijayawada",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Law(C) Department",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9d1dfb24871e23656ecf5f0fdbb6e4c0a9f8b35f": {
+   "entities": [
+    {
+     "name": "అన్నమయ్య",
+     "type": "Place",
+     "english_name": "Annamayya"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "స్కూల్ అసిస్టెంట్ బయాలజీ (ఉర్దూ మీడియం)",
+     "type": "Organization",
+     "english_name": "School Assistant Biology (Urdu Medium)"
+    },
+    {
+     "name": "మెగా DSC-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "ఫిబ్రవరి-2024 DSC నోటిఫికేషన్ (6100)",
+     "type": "Scheme",
+     "english_name": "February-2024 DSC Notification (6100)"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "Computer Based Test (CBT)",
+     "type": "Organization",
+     "english_name": "Computer Based Test (CBT)"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c5113c77cc325290e7f9816498574368e338486c": {
+   "entities": [
+    {
+     "name": "DSC exams",
+     "type": "Organization",
+     "english_name": "DSC exams"
+    },
+    {
+     "name": "SCERT",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "Rule 20(vi)",
+     "type": "Organization",
+     "english_name": "Rule 20(vi)"
+    },
+    {
+     "name": "Horizontal Reservation",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "State Office",
+     "type": "Organization",
+     "english_name": "State Office"
+    },
+    {
+     "name": "DEO Offices",
+     "type": "Organization",
+     "english_name": "DEO Offices"
+    },
+    {
+     "name": "RJDSEs",
+     "type": "Organization",
+     "english_name": "RJDSEs"
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c31b4a5592e711247994caf3bbf3d8be224a5de2": {
+   "entities": [
+    {
+     "name": "Joint Director (TET)",
+     "type": "Organization",
+     "english_name": "Joint Director (TET)"
+    },
+    {
+     "name": "AP TET-July, 2024",
+     "type": "Scheme",
+     "english_name": "AP TET July 2024"
+    },
+    {
+     "name": "SCERT Director",
+     "type": "Organization",
+     "english_name": "SCERT Director"
+    },
+    {
+     "name": "Mega DSC-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC 2025"
+    },
+    {
+     "name": "Director, School Education Department",
+     "type": "Organization",
+     "english_name": "Director, School Education Department"
+    },
+    {
+     "name": "Andhra Pradesh Government",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ff0ad55777d9897921f2d9bcfb3f319156465b84": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "పి. నవీన్",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ హైకోర్టు",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh High Court"
+    },
+    {
+     "name": "గ్రీవెన్స్ రెడ్రెస్సల్ కమిటీ",
+     "type": "Organization",
+     "english_name": "Grievance Redressal Committee"
+    },
+    {
+     "name": "జిల్లా సెలక్షన్ కమిటీ",
+     "type": "Organization",
+     "english_name": "District Selection Committee"
+    },
+    {
+     "name": "జోన్ లెవల్ కమిటీ",
+     "type": "Organization",
+     "english_name": "Zonal Level Committee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,2757 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cefe8916de9025f4c2c0f9169bba8a0f722c260a": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్ జగన్",
+     "type": "Person",
+     "english_name": "Sri Y.S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "రాష్ట్ర వార్షిక బడ్జెట్",
+     "type": "Issue",
+     "english_name": "State Annual Budget"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu"
+    },
+    {
+     "name": "ఇందాపూర్ డెయిరీ హెరిటేజ్",
+     "type": "Issue",
+     "english_name": "Indapur Dairy Heritage"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మోసానికి షర్ట్, ప్యాంట్ వేస్తే అది చంద్రబాబు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5a62a81a0ba2ab91f95c3e1d4f2fadf91dbc870e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "లడ్డూ హెరిటేజ్ ఇందుపూర్",
+     "type": "Scheme",
+     "english_name": "Laddoo Heritage Indhapur"
+    },
+    {
+     "name": "బొలేబాబా",
+     "type": "Scheme",
+     "english_name": "Bhole Baba"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8895959c88dd5670c2587550fd7a2388f4a137ab": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "రాష్ట్ర వార్షిక బడ్జెట్",
+     "type": "Issue",
+     "english_name": "State Annual Budget"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu"
+    },
+    {
+     "name": "ఇందాపూర్ డెయిరీ హెరిటేజ్ లింక్",
+     "type": "Issue",
+     "english_name": "Indapur Dairy Heritage Link"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "శ్రీ వైయస్ జగన్",
+     "evidence": "చంద్రబాబుగారు రాష్ట్రానికి, ప్రజలకు ఏం మంచి చేశారని, చేస్తారని పరిశీలిస్తే ఎక్కడా మంచి కనపడదు. మోసమే కనిపిస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "శ్రీ వైయస్ జగన్",
+     "evidence": "ప్రజలను వరుసగా వెన్నుపోటు పొడుస్తూ, వారిని వంచిస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fe001068d7af83e9ed0d8b707cbcc9c26da08808": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSR Government"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "లడ్డూ హెరిటేజ్ ఇందుపూర్",
+     "type": "Scheme",
+     "english_name": "Laddoo Heritage Indhapur"
+    },
+    {
+     "name": "బొలెబబా",
+     "type": "Scheme",
+     "english_name": "Bholebaba"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మోసానికి షర్ట్, ప్యాంట్ వేస్తే అది చంద్రబాబు.. అబద్ధానికి రెక్కలు తొడిగితే అవి చంద్రబాబు మాటలు"
+    },
+    {
+     "source": "శ్రీ వైయస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్ ప్రభుత్వం",
+     "evidence": "ఆ మేరకు రెండు జీఓలు జారీ చేసిన వైయస్సార్ ప్రభుత్వం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బడ్జెట్ 2026-27",
+     "evidence": "ఈ ఏడాది బడ్జెట్లోనూ అన్నీ తప్పుడు గణాంకాలు, మొత్తం కాకి లెక్కలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లడ్డూ హెరిటేజ్ ఇందుపూర్",
+     "evidence": "లడ్డూ హెరిటేజ్ ఇందుపూర్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బొలెబబా",
+     "evidence": "బొలెబబా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0115255623af87948bbb0bb980f267f6578ce4a9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Organization",
+     "english_name": "Budget"
+    },
+    {
+     "name": "గణాంకాలు",
+     "type": "Organization",
+     "english_name": "Statistics"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్సీపీ",
+     "evidence": "అదే అంతకు ముందు ఏడాది, 2023-24లో అంటే వైయస్సార్సీపీ ప్రభుత్వ చివరి ఏడాదిలో రాష్ట్ర సొంత ఆదాయం (ఎస్ఓఆర్) రూ.93,354 కోట్లు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "062bea49c5765dd4b2031edf305bab4f2fa79167": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "రాష్ట్ర సొంత ఆదాయాలు",
+     "type": "Claim",
+     "english_name": "State own revenues"
+    },
+    {
+     "name": "జీఎస్డీపీ",
+     "type": "Claim",
+     "english_name": "GSDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర సొంత ఆదాయాలు",
+     "evidence": "రాష్ట్ర సొంత ఆదాయాలు, 2023-24 నుంచి ఇప్పటి వరకు రెండేళ్ల 9 నెలల్లో పెరుగుదల కేవలం 1.97 శాతం మాత్రమే."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "జీఎస్డీపీ",
+     "evidence": "జీఎస్డీపీలో మనం దూసుకుపోతున్నాం. దేశంకన్నా ఇంకా పైస్థానంలో ఉన్నాం అంటాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "47db1b5808efca8d2cf95ae5f90a162dcc5d905f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆదాయం",
+     "type": "Claim",
+     "english_name": "Revenue"
+    },
+    {
+     "name": "ఆర్థిక సంవత్సరం",
+     "type": "Claim",
+     "english_name": "Financial year"
+    },
+    {
+     "name": "బడ్జెట్ రివైజ్డ్ ఎస్టిమేట్",
+     "type": "Claim",
+     "english_name": "Budget revised estimate"
+    },
+    {
+     "name": "రాష్ట్ర సొంత ఆదాయం",
+     "type": "Claim",
+     "english_name": "State own revenue"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "2026-27",
+     "type": "Scheme",
+     "english_name": "2026-27"
+    },
+    {
+     "name": "గత బడ్జెట్",
+     "type": "Claim",
+     "english_name": "Previous budget"
+    },
+    {
+     "name": "వృద్ధి రేటు",
+     "type": "Claim",
+     "english_name": "Growth rate"
+    },
+    {
+     "name": "సీఏజీఆర్",
+     "type": "Claim",
+     "english_name": "CAGR"
+    },
+    {
+     "name": "ఆదాయ అట్టడుగున",
+     "type": "Issue",
+     "english_name": "Revenue at the bottom"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆదాయం",
+     "evidence": "మరి చంద్రబాబుగారు ప్రొజెక్ట్ చేసిన రూ.1,27,703 కోట్ల ఆదాయాన్ని ఈ ఆర్థిక సంవత్సరం ముగిసేలోపు సవరించినా, వాస్తవం చాలా దూరంలో ఉంది."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర సొంత ఆదాయం",
+     "evidence": "రాష్ట్ర సొంత ఆదాయాన్ని ఏకంగా రూ.1,37,320 కోట్లుగా చూపుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "వృద్ధి రేటు",
+     "evidence": "గత బడ్జెట్లో కూడా ఇలాగే చూపిస్తే, వచ్చిన వృద్ధి రేటు కేవలం 3.4 శాతం మాత్రమే."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "సీఏజీఆర్",
+     "evidence": "ఈ రెండేళ్లకు సంబంధించిన సీఏజీఆర్ (వార్షిక వృద్ధి రేటు) కేవలం 1.97 శాతం మాత్రమే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "776a9f8c83b1093b81a3bbc242b203ebc59a7171": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు",
+     "type": "Issue",
+     "english_name": "State Debt"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "గోబెల్స్ ప్రచారం",
+     "type": "Claim",
+     "english_name": "Goebbels propaganda"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "గోబెల్స్ ప్రచారం",
+     "evidence": "రాష్ట్ర అప్పులపై అవే గోబెల్స్ ప్రచారాలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "40ca771a123aff684bf37b0e184c2ea6a134296f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పవన్కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "రాష్ట్రానికి ఆదాయాలు",
+     "type": "Claim",
+     "english_name": "State revenues"
+    },
+    {
+     "name": "ఇసుక, మట్టి, లిక్కర్, లేటరైట్, గ్రానైట్, లిక్కర్ మాఫియా",
+     "type": "Organization",
+     "english_name": "Sand, soil, liquor, laterite, granite, liquor mafia"
+    },
+    {
+     "name": "ప్రభుత్వ భూములు",
+     "type": "Organization",
+     "english_name": "Government lands"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఇసుక, మట్టి, లిక్కర్, లేటరైట్, గ్రానైట్, లిక్కర్ మాఫియా",
+     "evidence": "రాష్ట్రానికి సంబంధించిన ఆదాయాలు ఇసుక, మట్టి, లిక్కర్, లేటరైట్, గ్రానైట్, లిక్కర్ మాఫియా. అంతా ఎక్కడికక్కడ దోపిడి."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వ భూములు",
+     "evidence": "ప్రభుత్వ భూములు ఎడాపెడా నచ్చిన వారికి నచ్చిన రేటుకు ఎడాపెడా అమ్మే పరిస్థితి."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రానికి ఆదాయాలు",
+     "evidence": "అసలు చంద్రబాబునాయుడు పాలనలో రాష్ట్రానికి ఆదాయాలు రావడం లేదు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రానికి ఆదాయాలు",
+     "evidence": "రాష్ట్రానికి వచ్చే ఆదాయాలు తగ్గుముఖంలో ఉన్నాయి."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రానికి ఆదాయాలు",
+     "evidence": "పెరుగుదల మిగతా రాష్ట్రాలతో పోలిస్తే మనం ఎందుకు పెరగడం లేదు? కారణం రాష్ట్రానికి సంబంధించిన ఆదాయాలు రాష్ట్రానికి రావడం లేదు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రానికి ఆదాయాలు",
+     "evidence": "పక్కదోవ పట్టి చంద్రబాబునాయుడి జేబులోకి ఇంత, ఆయనకు సంబంధించిన ఎమ్మెల్యేలకు ఇంత, బినామీలకు ఇంత.. అందరూ పంచుకుంటున్నారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రానికి ఆదాయాలు",
+     "evidence": "దోచుకో, పంచుకో, తినుకో అన్నట్టుగా."
+    },
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రానికి ఆదాయాలు",
+     "evidence": "ఆయనకు మద్దతుస్తున్న డిప్యూటీ సీఎం పవన్కళ్యాణ్గారికి ఒక విమానం, ఒక హెలికాప్టర్."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e000ebdc23ab35b576d63af20dad19f9004d85e4": {
+   "entities": [
+    {
+     "name": "2024-25 బడ్జెట్",
+     "type": "Scheme",
+     "english_name": "2024-25 Budget"
+    },
+    {
+     "name": "2023-24 కాగ్ నివేదిక",
+     "type": "Organization",
+     "english_name": "2023-24 CAG Report"
+    },
+    {
+     "name": "రాష్ట్ర అప్పు",
+     "type": "Issue",
+     "english_name": "State Debt"
+    },
+    {
+     "name": "వైయస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాష్ట్ర విభజన",
+     "type": "Issue",
+     "english_name": "State Division"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    }
+   ],
+   "relations": [
+    {
+     "source": "2024-25 బడ్జెట్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రాష్ట్ర అప్పు",
+     "evidence": "2024-25 బడ్జెట్ డాక్యుమెంట్స్లోనే క్లియర్‌గా రాష్ట్రానికి అప్పులెంత ఉన్నాయనేది రాశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్ సీపీ",
+     "evidence": "చంద్రబాబు తన హయాంలో 2014-19 మధ్య రూ.2,49,350 కోట్లు అప్పు చేశాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "de84ec3abdc89fbf2ce1cb4885b0be6e4ebab8b8": {
+   "entities": [
+    {
+     "name": "2025-26 ఆర్థిక సంవత్సరానికి సవరించిన ఎస్టిమేట్స్",
+     "type": "Claim",
+     "english_name": "Revised Estimates for 2025-26"
+    },
+    {
+     "name": "రూ.80,567 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 80,567 crores"
+    },
+    {
+     "name": "రూ.90,768 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 90,768 crores"
+    },
+    {
+     "name": "ఉద్యోగులకు రూ.35 వేల కోట్ల బకాయిలు",
+     "type": "Claim",
+     "english_name": "Rs 35,000 crore dues to employees"
+    },
+    {
+     "name": "మూలధన వ్యయం",
+     "type": "Claim",
+     "english_name": "Capital Expenditure"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fc8e71326fdc2adf859ab3051200697db5987805": {
+   "entities": [
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "సూపర్ సిక్సులు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్ సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రజలు",
+     "type": "Person",
+     "english_name": "People"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "92200583b94d8ecdc25f2cdf6c602946d387be92": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "టేప్ రికార్డర్ ఆన్.. గోబెల్స్ ప్రచారం ఆన్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అన్ని రకాల అప్పులూ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.7,21,917 కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.9.74 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "20 నెలల్లో రికార్డుస్థాయిలో అప్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ప్రభుత్వం చేసిన అప్పులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు అధికారంలోకి వచ్చిన ఈ 20 నెలల్లోనే చేసిన అప్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.3,17,448 కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేము 5 ఏళ్లలో రూ.3,31,671 కోట్ల అప్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ డాక్యుమెంట్స్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ పుస్తకాలు",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "టేప్ రికార్డర్ ఆన్.. గోబెల్స్ ప్రచారం ఆన్",
+     "evidence": "చంద్రబాబునాయుడు మాత్రం టేప్ రికార్డర్ ఆన్.. గోబెల్స్ ప్రచారం ఆన్."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "అన్ని రకాల అప్పులూ",
+     "evidence": "అన్ని రకాల అప్పులూ రాష్ట్రంలో మేం దిగిపోయే నాటికి రూ.7,21,917 కోట్లే కనిపిస్తుంటే.. నిన్న కూడా మాకు అప్పు ఇంత మిగిల్చి పోయారు రూ.9.74 లక్షల కోట్లు అని మళ్లీ అబద్ధాలు ఆడుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.7,21,917 కోట్లు",
+     "evidence": "అన్ని రకాల అప్పులూ రాష్ట్రంలో మేం దిగిపోయే నాటికి రూ.7,21,917 కోట్లే కనిపిస్తుంటే.."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.9.74 లక్షల కోట్లు",
+     "evidence": "నిన్న కూడా మాకు అప్పు ఇంత మిగిల్చి పోయారు రూ.9.74 లక్షల కోట్లు అని మళ్లీ అబద్ధాలు ఆడుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "20 నెలల్లో రికార్డుస్థాయిలో అప్పు",
+     "evidence": "20 నెలల్లో రికార్డుస్థాయిలో అప్పు, పారదర్శకత లేదు:"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ ప్రభుత్వం చేసిన అప్పులు",
+     "evidence": "ఇప్పుడు ఈ ప్రభుత్వం చేసిన అప్పులు చాలా దారుణంగా ఉన్నాయి."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబునాయుడు అధికారంలోకి వచ్చిన ఈ 20 నెలల్లోనే చేసిన అప్పు",
+     "evidence": "చంద్రబాబునాయుడు అధికారంలోకి వచ్చిన ఈ 20 నెలల్లోనే చేసిన అప్పు ఏకంగా రూ.3,17,448 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.3,17,448 కోట్లు",
+     "evidence": "చంద్రబాబునాయుడు అధికారంలోకి వచ్చిన ఈ 20 నెలల్లోనే చేసిన అప్పు ఏకంగా రూ.3,17,448 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "మేము 5 ఏళ్లలో రూ.3,31,671 కోట్ల అప్పు",
+     "evidence": "మేము 5 ఏళ్లలో రూ.3,31,671 కోట్ల అప్పు చేస్తే చంద్రబాబు 20 నెలల్లోనే రూ.3,17,448 కోట్ల అప్పు చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e775934ef81b61a5cb92d13519d49147568efa9d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "స్త్రీశక్తి",
+     "type": "Scheme",
+     "english_name": "Stree Shakti"
+    },
+    {
+     "name": "సూపర్ సిక్స్ సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Six Super Seven"
+    },
+    {
+     "name": "అమ్మవారి",
+     "type": "Organization",
+     "english_name": "Amma Vari"
+    },
+    {
+     "name": "రాష్ట్రంతో 18 ఏళ్లు పైబడి 60 ఏళ్ల లోపు వయసున్న మహిళలు",
+     "type": "Organization",
+     "english_name": "Women aged 18-60 in the state"
+    },
+    {
+     "name": "పెన్షన్ల బాకీ",
+     "type": "Issue",
+     "english_name": "Pension arrears"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "అమ్మవారి",
+     "evidence": "అమ్మవారి పేరుతో మోసం"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్త్రీశక్తి",
+     "evidence": "స్త్రీ శక్తి బాకీ అక్షరాలా రూ.97,200 కోట్లు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్ సూపర్ సెవెన్",
+     "evidence": "సూపర్ సిక్స్ సూపర్ సెవెన్‌లో చంద్రబాబు ఇచ్చిన మరో ముఖ్యమైన హామీ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "179bd15c59712b9f64b9feb7de75a59060fb476a": {
+   "entities": [
+    {
+     "name": "Babbu",
+     "type": "Person",
+     "english_name": "Babbu"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Kunchit Prastavam",
+     "type": "Claim",
+     "english_name": "Kunchit Prastavam"
+    },
+    {
+     "name": "Unemployment benefit scheme",
+     "type": "Scheme",
+     "english_name": "Unemployment benefit scheme"
+    },
+    {
+     "name": "Yuva Galam",
+     "type": "Scheme",
+     "english_name": "Yuva Galam"
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "Coaliation government",
+     "type": "Organization",
+     "english_name": "Coaliation government"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Babbu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "PM Kisan",
+     "evidence": "పీఎం కిసాన్తో కలిపి రైతుకు ఏడాదికి రూ.26 వేలు ఇస్తామని ఊదరగొట్టారు."
+    },
+    {
+     "source": "Babbu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Unemployment benefit scheme",
+     "evidence": "నిరుద్యోగ భృతి పథకానికి సంబంధించి కంచిత్ ప్రస్తావన ఎక్కడైనా ఉందా?"
+    },
+    {
+     "source": "Babbu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Yuva Galam",
+     "evidence": "యువగళం పేరుతో ఆయన, ఆయన కొడుకు రాష్ట్రమంతా తిరిగి ఎక్కడ యువకుడు కనపడినా నిరుద్యోగ భృతి పేరు చెప్పి నెలకు రూ.3 వేలు చొప్పున ఏడాదికి రూ.36 వేలు ఇస్తామని వారి భావోద్వేగాలతో ఆడుకున్నారు."
+    },
+    {
+     "source": "Babbu",
+     "relation": "MAKES_CLAIM",
+     "target": "Kunchit Prastavam",
+     "evidence": "త్రికరణ శుద్ధితో పచ్చి మోసం: ఇదంతా కాకుండా బాబు ష్యూరిటీ భవిష్యత్తు గ్యారెంటీ అంటూ త్రికరణ శుద్ధితో ప్రమాణం చేశారు."
+    },
+    {
+     "source": "Pawan Kalyan",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "చంద్రబాబు, పవన్కళ్యాణ్ ఇద్దరూ సంతకాలు చేసిన బాండ్లు పంపించారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "‘హి ఈజ్ యాన్ హాబిచ్యువల్ అఫెండర్’. తాను గెలిచిన టీడీపీ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "76bfeb650f018cebe710810e614ce999916468ca": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "పింఛన్లు",
+     "type": "Claim",
+     "english_name": "Pensions"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Issue",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పింఛన్లు",
+     "evidence": "ఏకంగా 5,38 లక్షల పింఛన్లు కత్తరించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "daffd621504169132497cca7e088d1c0f32cd2e9": {
+   "entities": [
+    {
+     "name": "సూపర్ సిక్స్క్లో మరో ముఖ్యమైన హామీ 50 ఏళ్లకే పింఛన్లు",
+     "type": "Scheme",
+     "english_name": "50 years pension scheme"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "సూపర్ సిక్స్ సూపర్ సెవెన్ల పేరుతో ప్రవేశపెట్టిన ఈ మూడు బడ్జెట్లలో కూడా ఈ మూడు ప్రధాన హామీలకు అతీగతీ లేదు",
+     "type": "Claim",
+     "english_name": "Claim about Super Six and Super Seven budgets lacking main promises"
+    },
+    {
+     "name": "ప్రతి నెలా 25 వేల పెన్షన్లు కట్",
+     "type": "Claim",
+     "english_name": "Claim about cutting 25,000 pensions each month"
+    },
+    {
+     "name": "TTD Laddu Heritage Indhapur",
+     "type": "Issue",
+     "english_name": "TTD Laddu Heritage Indhapur"
+    },
+    {
+     "name": "Bhole Baba",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్క్లో మరో ముఖ్యమైన హామీ 50 ఏళ్లకే పింఛన్లు",
+     "evidence": "చంద్రబాబునాయుడు సూపర్ సిక్స్ సూపర్ సెవెన్ల పేరుతో ప్రవేశపెట్టిన ఈ మూడు బడ్జెట్లలో కూడా ఈ మూడు ప్రధాన హామీలకు అతీగతీ లేదు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి నెలా 25 వేల పెన్షన్లు కట్",
+     "evidence": "ప్రతి నెలా 25 వేల పెన్షన్లు కట్"
+    },
+    {
+     "source": "సూపర్ సిక్స్క్లో మరో ముఖ్యమైన హామీ 50 ఏళ్లకే పింఛన్లు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "TTD Laddu Heritage Indhapur",
+     "evidence": "సూపర్ సిక్స్క్లో మరో ముఖ్యమైన హామీ 50 ఏళ్లకే పింఛన్లు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "11cf57835376311bcd77fa5e12c1393f1d2a2353": {
+   "entities": [
+    {
+     "name": "ఈ పథకాన్ని అమలు చేయాలంటే ఏడాదికి రూ.3,200 కోట్లు ఖర్చు చేయాలి",
+     "type": "Scheme",
+     "english_name": "Scheme implementation cost"
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    },
+    {
+     "name": "అన్నదాతా సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "గ్యాస్ లైటింగ్",
+     "type": "Issue",
+     "english_name": "Gas lighting"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Organization",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దీపం పథకం",
+     "evidence": "దీపం పథకం పేరుతో కూడా మోసాలే."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాతా సుఖీభవ",
+     "evidence": "అన్నదాతా సుఖీభవ. రైతులకు పచ్చి దగా:"
+    },
+    {
+     "source": "దీపం పథకం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "గ్యాస్ లైటింగ్",
+     "evidence": "గ్యాస్ లైటింగ్ ఏ స్థాయిలో ఉందంటే...: దీపం పథకం పేరుతో కూడా మోసాలే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "420241bf9faaefa9802083793d186834db7c751f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "బీసీలకు యాభై ఏళ్లకే పింఛన్",
+     "type": "Scheme",
+     "english_name": "BC pension at fifty"
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉద్యోగాలు",
+     "type": "Scheme",
+     "english_name": "20 lakh jobs for youth"
+    },
+    {
+     "name": "యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment allowance of Rs.3000 per month under YuvaGalam"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు",
+     "type": "Scheme",
+     "english_name": "Rs.20,000 per year under Annadata Sukhibhava"
+    },
+    {
+     "name": "ప్రతి మహిళకు నెలకు రూ.1500",
+     "type": "Scheme",
+     "english_name": "Rs.1500 per month for every woman"
+    },
+    {
+     "name": "స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు",
+     "type": "Scheme",
+     "english_name": "Rs.15,000 per year for each school-going student"
+    },
+    {
+     "name": "ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు",
+     "type": "Scheme",
+     "english_name": "3 free gas cylinders per year per family"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "ఎన్నికల మేనిఫెస్టోల గురించి సూపర్ సిక్స్లు, సూపర్ సెవెన్లు అంటూ వారి కరపత్రికల్లో ఒకటే యాడ్లు ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవెన్",
+     "evidence": "ఎన్నికల మేనిఫెస్టోల గురించి సూపర్ సిక్స్లు, సూపర్ సెవెన్లు అంటూ వారి కరపత్రికల్లో ఒకటే యాడ్లు ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీలకు యాభై ఏళ్లకే పింఛన్",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువతకు 20 లక్షల ఉద్యోగాలు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి మహిళకు నెలకు రూ.1500",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీలకు యాభై ఏళ్లకే పింఛన్",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువతకు 20 లక్షల ఉద్యోగాలు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి మహిళకు నెలకు రూ.1500",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "బీసీలకు యాభై ఏళ్లకే పింఛన్, యువతకు 20 లక్షల ఉద్యోగాలు, యువగళం పేరుతో ప్రతినెలా రూ.3 వేల నిరుద్యోగ భృతి, ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు, ప్రతి మహిళకు నెలకు రూ.1500, స్కూల్కి వెళ్లే ప్రతి విద్యార్థికి ఏటా రూ.15 వేలు, ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు.. అని చెప్పడమే కాకుండా చంద్రబాబు, పవన్ కళ్యాణ్ల"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "763dbc16e1bf3830ea09b0518d40fdb290bc4103": {
+   "entities": [
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhav"
+    },
+    {
+     "name": "రైతు భరోసా పథకం",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa Scheme"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వ్యవసాయ శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Agriculture Minister"
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Issue",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ",
+     "evidence": "నేను రూ.20 వేలు ఇస్తాను అన్నదాత సుఖీభవ పేరుతో అని స్పెసిఫిక్గా చెప్పాడు."
+    },
+    {
+     "source": "వైఎస్సార్ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా పథకం",
+     "evidence": "వైఎస్సార్ సీపీ హయాంలో 53.58 లక్షల మందికి రైతు భరోసా పథకం ద్వారా మనం మేలు చేస్తే."
+    },
+    {
+     "source": "PM Kisan",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2026-27",
+     "evidence": "పీఎం కిసాన్ కాకుండా రూ.20 వేలు చంద్రబాబు ఇవ్వాలి."
+    },
+    {
+     "source": "అన్నదాత సుఖీభవ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బడ్జెట్ 2026-27",
+     "evidence": "అన్నదాత సుఖీభవ పేరుతో పెట్టుబడి సహాయం కింద రూ.20 వేలు ఇస్తానన్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eb81028a138844aba2e0051187e54e07a5266350": {
+   "entities": [
+    {
+     "name": "రైతు",
+     "type": "Person",
+     "english_name": "Farmer"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కౌలు రైతులకు రైతు భరోసా పథకం",
+     "type": "Scheme",
+     "english_name": "Tenant Farmer Rythu Bharosa Scheme"
+    },
+    {
+     "name": "గిరిజనులకు రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Tribal Rythu Bharosa"
+    },
+    {
+     "name": "పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Crop Insurance"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఇది వాస్తవం అయితే.. బడ్జెట్‌లో నువ్వు రూ.6,309 కోట్లు ఇచ్చానని చదువుతున్నావ్.. ఎట్లా అబద్ధాలు అడుగుతున్నావ్ నువ్వు.. మోసం చేయడానికి మనసు ఎలా వస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రభుత్వం వీరిని ఆదుకోవడంలో ఘోరంగా విఫలమైంది."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కౌలు రైతులకు రైతు భరోసా పథకం",
+     "evidence": "కేంద్రం ఇవ్వకపోయినా కూడా వైఎస్సార్సీపీ హయాంలో కౌలు రైతులకు రైతు భరోసా పథకం అందించి ఆదుకున్నాం."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గిరిజనులకు రైతు భరోసా",
+     "evidence": "వీళ్లకే కాదు.. ఆర్ఓఎఫ్ఆర్ పట్టాలున్న గిరిజనులకు పట్టాలిచ్చి మరీ రైతు భరోసా సొమ్ము ఇచ్చాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పంటల బీమా",
+     "evidence": "మా ప్రభుత్వంలో ఉచిత పంటల బీమా పెట్టి రైతులకు అన్ని రకాలుగా ఆదుకున్నాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ac6b8e61a4359e0cf5c073b5a78e8c34ba7a61ce": {
+   "entities": [
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "గిట్టుబాటు ధరలు",
+     "type": "Issue",
+     "english_name": "Fair price"
+    },
+    {
+     "name": "కనీస మద్దతు ధర",
+     "type": "Issue",
+     "english_name": "MSP"
+    },
+    {
+     "name": "వరి",
+     "type": "Issue",
+     "english_name": "Paddy"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1385d7f032250722c13ec705b1a65df520f3a376": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Crop Insurance"
+    },
+    {
+     "name": "బడ్జెట్ 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "ఇన్సూరెన్స్ కంపెనీలు",
+     "type": "Organization",
+     "english_name": "Insurance Companies"
+    },
+    {
+     "name": "ఖరీఫ్",
+     "type": "Issue",
+     "english_name": "Kharif"
+    },
+    {
+     "name": "రబీ",
+     "type": "Issue",
+     "english_name": "Rabi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8f97f440cb837638e9b2fa047d9104804c120353": {
+   "entities": [
+    {
+     "name": "ఒక్కోపిల్లాడికి ఏడాదికి రూ.15 వేలు ఇస్తామన్నారు",
+     "type": "Scheme",
+     "english_name": "Rs 15,000 per child per year"
+    },
+    {
+     "name": "యూడీఐఎస్ఈ (యూనిఫైడ్ డిస్ట్రిక్ట్ ఇన్ఫర్మేషన్ సిస్టమ్ ఫర్ ఎడ్యుకేషన్)",
+     "type": "Organization",
+     "english_name": "UDISE"
+    },
+    {
+     "name": "87,41,885 మంది బడికి వెళ్లే పిల్లలు",
+     "type": "Claim",
+     "english_name": "87,41,885 school-going children"
+    },
+    {
+     "name": "రూ.13,112 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 13,112 crores"
+    },
+    {
+     "name": "మొదటి ఏడాది ఈ పథకాన్ని పూర్తిగా ఎగ్గొట్టారు",
+     "type": "Claim",
+     "english_name": "First year scheme fully evaded"
+    },
+    {
+     "name": "రెండో ఏడాది రూ.13112 కోట్లకు గాను కేవలం రూ.8,389 కోట్లు మాత్రమే ఇచ్చారు",
+     "type": "Claim",
+     "english_name": "Second year only Rs 8,389 crores given out of Rs 13,112 crores"
+    },
+    {
+     "name": "20 లక్షల మంది పిల్లలకు ఎగ్గొట్టారు",
+     "type": "Claim",
+     "english_name": "20 lakh children evaded"
+    },
+    {
+     "name": "కేవలం 67 లక్షల మందికి మాత్రమే అరకొరగా ఇచ్చారు",
+     "type": "Claim",
+     "english_name": "Only 67 lakh people given partially"
+    },
+    {
+     "name": "రూ.8 వేలు, రూ.10 వేలు",
+     "type": "Claim",
+     "english_name": "Rs 8,000 and Rs 10,000"
+    },
+    {
+     "name": "తాజా బడ్జెట్ ప్రసంగంలోనే పథకానికి రూ.9,668 కోట్లు ఖర్చు చేస్తామని చెప్పారు",
+     "type": "Claim",
+     "english_name": "Latest budget speech said Rs 9,668 crores for scheme"
+    },
+    {
+     "name": "కేటాయించింది రూ. 8,456 కోట్లు మాత్రమే",
+     "type": "Claim",
+     "english_name": "Allocated only Rs 8,456 crores"
+    },
+    {
+     "name": "ఉచిత బస్సు..తుస్సు",
+     "type": "Scheme",
+     "english_name": "Free bus scheme"
+    },
+    {
+     "name": "కడప నుంచి వైజాగ్కు వెళ్లి రావచ్చు",
+     "type": "Claim",
+     "english_name": "Could travel from Kadapa to Vizag"
+    },
+    {
+     "name": "శ్రీకాకుళం వాళ్లు తిరుపతి వెళ్లి దర్శనం చేసుకోవచ్చు",
+     "type": "Claim",
+     "english_name": "Srikakulam people could visit Tirupati"
+    },
+    {
+     "name": "ఏపీఎస్ ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": "APSRTC"
+    },
+    {
+     "name": "16 రకాల సర్వీసులు",
+     "type": "Claim",
+     "english_name": "16 types of services"
+    },
+    {
+     "name": "6 రకాల సర్వీసులకు మాత్రమే ఈ పథకం పరిమితం చేశారు",
+     "type": "Claim",
+     "english_name": "Scheme limited to 6 types of services"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0cbd0fdea6af83d367bbcd15460451591d46bd5d": {
+   "entities": [
+    {
+     "name": "కొనుగోలు చేసి.. ఎంఎస్పీ వ్వడమే కాకుండా జీఎల్‌టీ.. గన్ని బ్యాగులు, లేబర్, ట్రాన్స్ పోర్టు ఖర్చులు కూడా ఇచ్చాం. ప్రతి క్వింటాలుకు అదనంగా రూ.252 మేలు జరిగింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈరోజు రైతులు దళారులకు అమ్ముకునే దుస్థితి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం ఆర్బీకేల ద్వారా కొనుగోలు చేసే కార్యక్రమం నుంచి పక్కకు తప్పుకోవడం వల్ల ప్రతి రైతు రూ.300 నుంచి రూ,.400 వరకు తక్కువకు అమ్ముకోవాల్సిన పరిస్థితి నెలకొంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధాన్యం కొనుగోలు చేసిన 21 రోజుల్లోపు డబ్బులు చెల్లించే విధానాన్ని మా ప్రభుత్వ హయాంలో తీసుకువచ్చాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకారం చుట్టింది మా ప్రభుత్వం హయాంలో.. వారు గతంలో 960 కోట్లు బకాయిలు పెడితే మేము వాటిని క్లియర్ చేశాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధాన్యం కొనుగోలు చేసిన రెండు వారాల్లో డబ్బులు ఇస్తున్నట్లు.. అదేదో వీళ్లు చేసినట్లు గొప్పగా చెప్పుకుంటున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అసలు వీరు ధాన్యం కొనుగోళ్లు నేరుగా చేయడం లేదు.. రైతుల నుంచి మొదట మిల్లర్లు కొంటున్నారు.. మధ్యవర్తులు కొంటున్నారు.. ఆ మిల్లర్ల దగ్గరకు వెళ్లిన తర్వాత రెండు వారాలకు అప్ లోడు చేస్తున్నారు. అప్ లోడ్ చేసిన తర్వాత కానీ డబ్బులు రిలీజ కావడం లేదు. రైతుల నుంచి ధాన్యం కొనుగోలు చేసిన తేదీ నుంచి కాదుమిల్లర్లు అప్ లోడ్ చేసిన తేదీ నుంచి ఇస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏ పంట తీసుకున్నా కానీ.. మొక్కజొన్న, అరటి, కొబ్బరి, కందులు, మినుములు, పెసలు, శనగలు, సజ్జలు, మిర్చి, టమోటో, చీనీ, పత్తి ధరలు పూర్తిగా పడిపోయినా కూడా రైతులను ఆదుకోవడానికి ప్రభుత్వం విదిల్చింది శనక్కాయలు, బెల్లానికి కూడా చాలడం లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అంత దారుణంగా రైతుల జీవితాలతో",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "11efdc4b98d564881424d6fa9d1d8462c672af7a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆర్బీకేలు",
+     "type": "Organization",
+     "english_name": "RBKs"
+    },
+    {
+     "name": "ఈక్రాప్",
+     "type": "Organization",
+     "english_name": "eCrop"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free Crop Insurance"
+    },
+    {
+     "name": "ఇన్ పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input Subsidy"
+    },
+    {
+     "name": "దళారీ వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Dalari System"
+    },
+    {
+     "name": "సీయం యాప్",
+     "type": "Organization",
+     "english_name": "CM App"
+    },
+    {
+     "name": "2025",
+     "type": "Person",
+     "english_name": "2025"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆర్బీకేలు",
+     "evidence": "ఆయన క్రియేట్ చేసిన సంక్షోభం వల్ల.. ఆయన క్రియేట్ చేసిన సంక్షోభం అని నేను కేటగేరికల్ గా చెబుతున్నా.. ఆయన ఒక పద్ధతి ప్రకారం ఆర్బీకేలను నిర్వీర్యం చేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈక్రాప్",
+     "evidence": "ఆయన ఒక పద్ధతి ప్రకారం ఈ క్రాప్ ను నిర్వీర్యం చేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దళారీ వ్యవస్థ",
+     "evidence": "ఒక పద్ధతి ప్రకారం దళారీ వ్యవస్థను తీసుకువచ్చాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సీయం యాప్",
+     "evidence": "సీయం యాప్ తెచ్చి ప్రైజెస్ ను మోనిటర్ చేశాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దళారీ వ్యవస్థ",
+     "evidence": "దళారీ వ్యవస్థ మళ్లీ పిక్చర్ లోకి వచ్చింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆర్బీకేలు",
+     "evidence": "ఆర్బీకేలు నిర్వీర్యం అయ్యాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈక్రాప్",
+     "evidence": "ఈ క్రాప్ లేకుండా పోయింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af0b4986f34eafc340ff2b42f5b2c4b6ca57eb12": {
+   "entities": [
+    {
+     "name": "రైతు కూలీలు",
+     "type": "Person",
+     "english_name": "farmers and labourers"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వ",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "db257b6dd49bc7506a82964c1c204a2b041282fd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "2024-25",
+     "type": "Issue",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025-26",
+     "type": "Issue",
+     "english_name": "2025-26"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ed2372c591ebebaa9b53bcfe503f1daf6078b8f0": {
+   "entities": [
+    {
+     "name": "రెండేళ్లకు రూ.2071 కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పిల్లలకు ఇవ్వాల్సింది ఈ రెండేళ్లకు ఎంత?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "డ్వాక్రా అక్కచెల్లెమ్మలకు మోసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డ్వాక్రా మహిళలు",
+     "type": "Organization",
+     "english_name": "DWCR Women"
+    },
+    {
+     "name": "చంద్రబాబు మేనిఫెస్టో",
+     "type": "Organization",
+     "english_name": "Chandrababu Manifesto"
+    },
+    {
+     "name": "స్వయం సహాయక సంఘాలు",
+     "type": "Organization",
+     "english_name": "Self Help Groups"
+    },
+    {
+     "name": "వైయస్సార్ చేయూత పథకం",
+     "type": "Scheme",
+     "english_name": "YSR Cheyutha Scheme"
+    },
+    {
+     "name": "వైయస్సార్ ఆసరా",
+     "type": "Scheme",
+     "english_name": "YSR Aasara"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "02a3f424b407139244413749c14bec48ccf7552c": {
+   "entities": [
+    {
+     "name": "Budget 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Scheme",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "BHOLEBABA",
+     "type": "Scheme",
+     "english_name": "BHOLEBABA"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Jagannanna colonies",
+     "type": "Organization",
+     "english_name": "Jagannanna colonies"
+    },
+    {
+     "name": "PMAYU",
+     "type": "Scheme",
+     "english_name": "PMAYU"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Budget 2026-27",
+     "evidence": "బడ్జెట్ లో వీళ్లు పెట్టింది రూ.4,012 కోట్లు ఇస్తామని."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "LADDU HERITAGE INDHAPUR",
+     "evidence": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "BHOLEBABA",
+     "evidence": "BHOLEBABA"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c6fe75dda6a014751de1f823f6574fa3fad089e9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పొదుపు సంఘాల పరపతి",
+     "type": "Issue",
+     "english_name": "Savings Association Credit"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "ప్రభుత్వ స్కూళ్లు",
+     "type": "Organization",
+     "english_name": "Government Schools"
+    },
+    {
+     "name": "ప్రభుత్వ ఆసుపత్రులు",
+     "type": "Organization",
+     "english_name": "Government Hospitals"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వ స్కూళ్లు",
+     "evidence": "నాడు-నేడు పనులు చేశాం"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వ ఆసుపత్రులు",
+     "evidence": "నాడు-నేడు పనులు చేశాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ea1391fbc756b74f2fe9b69f506c7c0a694b0b43": {
+   "entities": [
+    {
+     "name": "శనగలకు రేటు లేక అగచాట్లు",
+     "type": "Claim",
+     "english_name": "Claim about lack of rate for chickpeas"
+    },
+    {
+     "name": "శనగ కనీస మద్దతు ధర రూ.5,875",
+     "type": "Claim",
+     "english_name": "Minimum support price for chickpeas Rs.5,875"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilization Fund"
+    },
+    {
+     "name": "2024-25 బడ్జెట్",
+     "type": "Organization",
+     "english_name": "2024-25 Budget"
+    },
+    {
+     "name": "2025-26 బడ్జెట్",
+     "type": "Organization",
+     "english_name": "2025-26 Budget"
+    },
+    {
+     "name": "2026-27 బడ్జెట్",
+     "type": "Organization",
+     "english_name": "2026-27 Budget"
+    },
+    {
+     "name": "రూ.300 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.300 crores"
+    },
+    {
+     "name": "రూ.50.4 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.50.4 crores"
+    },
+    {
+     "name": "రూ.342 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.342 crores"
+    },
+    {
+     "name": "రూ.500 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.500 crores"
+    },
+    {
+     "name": "రూ.3000 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.3000 crores"
+    },
+    {
+     "name": "రూ.7,756 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.7,756 crores"
+    },
+    {
+     "name": "ఆర్బీకే",
+     "type": "Organization",
+     "english_name": "RBK"
+    },
+    {
+     "name": "జాయింట్ కలెక్టర్",
+     "type": "Person",
+     "english_name": "Joint Collector"
+    },
+    {
+     "name": "జాయింట్ ఎండీ",
+     "type": "Person",
+     "english_name": "Joint MD"
+    },
+    {
+     "name": "సీఎం యాప్ (కంట్యున్యుయస్ మోనిటరింగ్ ఆఫ్ అగ్రికల్చర్ ప్రెస్ అండ్ ప్రొడ్యూస్)",
+     "type": "Organization",
+     "english_name": "CM App (Continuous Monitoring of Agriculture Press and Produce)"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "457903842adff09ba1a57ee5fe94b5a458ed88f1": {
+   "entities": [
+    {
+     "name": "రూ.25,570 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.25,570 crores"
+    },
+    {
+     "name": "వైయస్సార్ కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "YSR Kapu Nestham"
+    },
+    {
+     "name": "3,58,613 మంది అక్కచెల్లెమ్మలకు",
+     "type": "Claim",
+     "english_name": "3,58,613 sisters"
+    },
+    {
+     "name": "రూ.2,029 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.2,029 crores"
+    },
+    {
+     "name": "వైయస్సార్ ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "YSR EBC Nestham"
+    },
+    {
+     "name": "4,95,269 మంది అక్కచెల్లెమ్మలకు",
+     "type": "Claim",
+     "english_name": "4,95,269 sisters"
+    },
+    {
+     "name": "మరో రూ.1876 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.1876 crores"
+    },
+    {
+     "name": "స్త్రీ శక్తి",
+     "type": "Issue",
+     "english_name": "Women empowerment"
+    },
+    {
+     "name": "వైయస్సార్ సీపీ ప్రభుత్వమే",
+     "type": "Organization",
+     "english_name": "YSRCP government"
+    },
+    {
+     "name": "ఇళ్ల స్థలాలు",
+     "type": "Issue",
+     "english_name": "House sites"
+    },
+    {
+     "name": "31 లక్షల ఇళ్లపట్టాలు",
+     "type": "Claim",
+     "english_name": "31 lakh house sites"
+    },
+    {
+     "name": "21 లక్షల ఇల్లు మంజూరు",
+     "type": "Claim",
+     "english_name": "21 lakh houses sanctioned"
+    },
+    {
+     "name": "10 లక్షల ఇల్లు పూర్తి",
+     "type": "Claim",
+     "english_name": "10 lakh houses completed"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పట్టణాల్లో 2 సెంట్లు",
+     "type": "Claim",
+     "english_name": "2 cents in urban areas"
+    },
+    {
+     "name": "గ్రామాల్లో 3 సెంట్లు",
+     "type": "Claim",
+     "english_name": "3 cents in rural areas"
+    },
+    {
+     "name": "మేనిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "బడ్జెట్లు",
+     "type": "Issue",
+     "english_name": "Budgets"
+    },
+    {
+     "name": "గృహ నిర్మాణం",
+     "type": "Issue",
+     "english_name": "Housing construction"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "పట్టణాల్లో 2 సెంట్లు",
+     "evidence": "పట్టణాల్లో 2 సెంట్లు, గ్రామాల్లో 3 సెంట్లు ఇస్తామనిమేనిఫెస్టోలో చెప్పాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "గ్రామాల్లో 3 సెంట్లు",
+     "evidence": "పట్టణాల్లో 2 సెంట్లు, గ్రామాల్లో 3 సెంట్లు ఇస్తామనిమేనిఫెస్టోలో చెప్పాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1d33f43c548bfe1d17658d68c65f4661b755f34f": {
+   "entities": [
+    {
+     "name": "చైర్మన్",
+     "type": "Person",
+     "english_name": "Chairman"
+    },
+    {
+     "name": "పీఆర్సీ",
+     "type": "Scheme",
+     "english_name": "PRC"
+    },
+    {
+     "name": "ఐఆర్",
+     "type": "Scheme",
+     "english_name": "IR"
+    },
+    {
+     "name": "డీఏలు",
+     "type": "Scheme",
+     "english_name": "DA"
+    },
+    {
+     "name": "జీపీఎఫ్",
+     "type": "Scheme",
+     "english_name": "GPF"
+    },
+    {
+     "name": "ఏపీ జీఎల్ఐ",
+     "type": "Scheme",
+     "english_name": "AP GLI"
+    },
+    {
+     "name": "మెడికల్ రీయింబర్స్మెంట్",
+     "type": "Scheme",
+     "english_name": "Medical Reimbursement"
+    },
+    {
+     "name": "రిటైర్మెంట్ బెనిఫిట్స్",
+     "type": "Scheme",
+     "english_name": "Retirement Benefits"
+    },
+    {
+     "name": "సరెండర్ లీవ్స్",
+     "type": "Scheme",
+     "english_name": "Surrender Leaves"
+    },
+    {
+     "name": "రూ. 35 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 35,000 crores"
+    },
+    {
+     "name": "2024-25",
+     "type": "Issue",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025-26",
+     "type": "Issue",
+     "english_name": "2025-26"
+    },
+    {
+     "name": "రూ.62,806 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 62,806 crores"
+    },
+    {
+     "name": "రూ. 61,111 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 61,111 crores"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "ఇందాపూర్",
+     "type": "Place",
+     "english_name": "Indapur"
+    },
+    {
+     "name": "హెరిటేజ్ కంపెనీ",
+     "type": "Organization",
+     "english_name": "Heritage Company"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "హెరిటేజ్ కంపెనీ",
+     "evidence": "ఇందాపూర్ రూపంలో బయటపడ్డ చంద్రబాబు కుట్ర"
+    },
+    {
+     "source": "చైర్మన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ. 35 వేల కోట్లు",
+     "evidence": "దాదాపు రూ. 35 వేల కోట్ల బకాయిలు"
+    },
+    {
+     "source": "చైర్మన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.62,806 కోట్లు",
+     "evidence": "2024-25లో ఉద్యోగుల జీతాల కోసం కేటాయించిన బడ్జెట్ రూ.62,806 కోట్లు"
+    },
+    {
+     "source": "చైర్మన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ. 61,111 కోట్లు",
+     "evidence": "2025-26 రివైజ్డ్ ఎస్టిమేట్స్ ప్రకారం జీతాలు రూ. 61,111 కోట్లకు తగ్గాయి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6d7f349e4bd484d91297b087b195f61b99ad96a4": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వమే",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ముఖ్యమంత్రి గారి సుపుత్రుడి శాఖ",
+     "type": "Organization",
+     "english_name": "Chief Minister's son's department"
+    },
+    {
+     "name": "2024-25",
+     "type": "Organization",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025-26",
+     "type": "Organization",
+     "english_name": "2025-26"
+    },
+    {
+     "name": "2026-27",
+     "type": "Organization",
+     "english_name": "2026-27"
+    },
+    {
+     "name": "పాఠశాల విద్యా వ్యవస్థ",
+     "type": "Issue",
+     "english_name": "School education system"
+    },
+    {
+     "name": "ప్రభుత్వ పాఠశాలలు",
+     "type": "Organization",
+     "english_name": "Government schools"
+    },
+    {
+     "name": "సీబీఎస్ఈ",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Organization",
+     "english_name": "IB"
+    },
+    {
+     "name": "టోఫెల్",
+     "type": "Organization",
+     "english_name": "TOEFL"
+    },
+    {
+     "name": "ఆర్థిక మంత్రి",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "బడ్జెట్ ప్రసంగం",
+     "type": "Organization",
+     "english_name": "Budget speech"
+    },
+    {
+     "name": "ఇంగ్లీష్ మీడియం",
+     "type": "Scheme",
+     "english_name": "English medium"
+    },
+    {
+     "name": "ట్యాబులు",
+     "type": "Organization",
+     "english_name": "Tablets"
+    },
+    {
+     "name": "సబ్జెక్ట్ టీచర్ కాన్సెప్టు",
+     "type": "Organization",
+     "english_name": "Subject teacher concept"
+    },
+    {
+     "name": "మధ్యాహ్న భోజనం",
+     "type": "Scheme",
+     "english_name": "Midday meal"
+    },
+    {
+     "name": "గోరుముద్ద కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "Gorimudda program"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Organization",
+     "english_name": "Naadu-Nedu"
+    },
+    {
+     "name": "కలుషిత నీరు",
+     "type": "Organization",
+     "english_name": "Contaminated water"
+    },
+    {
+     "name": "జాతీయ పత్రికలు",
+     "type": "Organization",
+     "english_name": "National newspapers"
+    },
+    {
+     "name": "టైమ్స్ ఆఫ్ ఇండియా",
+     "type": "Organization",
+     "english_name": "Times of India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నాడు-నేడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పాఠశాల విద్యా వ్యవస్థ",
+     "evidence": "ఈ ప్రభుత్వం వచ్చిన తర్వాత నాడు-నేడు గాలికి వదిలేయడం వల్ల కలుషిత నీరు తాగి, క్వాలిటీ ఆఫ్ ఫుడ్ కూడా బాగోలేకపోవడం వల్ల 900 మంది పిల్లలు ఆస్పత్రుల్లో చేరారు అని జాతీయ పత్రికలు రాస్తున్నాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6e8dcc260a685feb7150e6cc859a910db0a5f49b": {
+   "entities": [
+    {
+     "name": "ఆంధ్ర రాష్ట్రం",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Organization",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "బడి పిల్లలు",
+     "type": "Claim",
+     "english_name": "School children"
+    },
+    {
+     "name": "విద్యారంగం",
+     "type": "Claim",
+     "english_name": "Education sector"
+    },
+    {
+     "name": "పీఆర్సీ",
+     "type": "Scheme",
+     "english_name": "PRC"
+    },
+    {
+     "name": "ఐఆర్",
+     "type": "Scheme",
+     "english_name": "IR"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d9252e779b5f568f8629c73d3add12925479e1b6": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బోలేబాబా",
+     "type": "Organization",
+     "english_name": "Bhole Baba"
+    },
+    {
+     "name": "హర్ష్ ఫ్రెష్ డెయిరీ",
+     "type": "Organization",
+     "english_name": "Harsh Fresh Dairy"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "హెరిటేజ్",
+     "type": "Organization",
+     "english_name": "Heritage"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e2ae9d1387ca6c72475589775c85e72e8fc199ea": {
+   "entities": [
+    {
+     "name": "ఇందాపూర్ డెయిరీ",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "హెరిటేజ్ ఫుడ్స్",
+     "type": "Organization",
+     "english_name": "Heritage Foods"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "మార్కానందశాస్త్రి",
+     "type": "Person",
+     "english_name": "Markanandashastri"
+    },
+    {
+     "name": "ల్యాబ్ టెస్ట్లు",
+     "type": "Claim",
+     "english_name": "Lab tests"
+    },
+    {
+     "name": "కల్తీ",
+     "type": "Claim",
+     "english_name": "Adulteration"
+    },
+    {
+     "name": "టెండర్",
+     "type": "Claim",
+     "english_name": "Tender"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "హెరిటేజ్ ఫుడ్స్",
+     "evidence": "చంద్రబాబు 2015లో అధికారంలో ఉండగా టీటీడీ నెయ్యి వ్యవహారాల్లోకి హెరిటేజ్ యూనిట్, ఇందాపూర్ డెయిరీ నుంచి కిలో నెయ్యి రూ.278లకే సరఫరా చేసింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఇందాపూర్ డెయిరీ",
+     "evidence": "చంద్రబాబు 2015లో అధికారంలో ఉండగా టీటీడీ నెయ్యి వ్యవహారాల్లోకి హెరిటేజ్ యూనిట్, ఇందాపూర్ డెయిరీ నుంచి కిలో నెయ్యి రూ.278లకే సరఫరా చేసింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఇందాపూర్ డెయిరీ",
+     "evidence": "2016 మార్చి 18న ల్యాబ్ టెస్ట్ల్లో ఇందాపూర్ డెయిరీ నెయ్యి ఫెయిల్ అయ్యి డిస్క్వాలిఫై అయింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఇందాపూర్ డెయిరీ",
+     "evidence": "డిస్క్వాలిఫై అయిన 3 నెలల్లోనే అంటే మళ్లీ ఏప్రిల్ 26, 2016న ఇందాపూర్ డెయిరీకి మళ్లీ అర్హత కల్పించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఇందాపూర్ డెయిరీ",
+     "evidence": "నవంబర్ 27, 2018న హెరిటేజ్ మాన్యుఫాక్చరింగ్ యూనిట్ ఇందాపూర్ డెయిరీకి టెండర్ దక్కింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఇందాపూర్ డెయిరీ",
+     "evidence": "2024లో చంద్రబాబు అధికారంలోకి రాగానే మళ్లీ చక్రం తిప్పిన హెరిటేజ్ మాన్యుఫ్యాక్షరింగ్ యూనిట్ ఇందాపూర్ డెయిరీకి డిసెంబర్ 16, 2025న టెండర్ ఖరారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఇందాపూర్ డెయిరీ",
+     "evidence": "కేజీ రూ.320కే గతంలో అమ్మిన ఇదే హెరిటేజ్ యూనిట్, ఇప్పుడు కేజీ రూ.658కి టెండర్ ఖరారు చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "65ea96b9ec2bfd8422260d7654f96b71f440f5bf": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్ సీపీ",
+     "evidence": "నువ్వు ఎందుకు 2019లో ఆపుతున్నావు? 2014 దాకా ఎందుకు చేయడం లేదు ఎంక్వైరీ?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8e5b9117c80ed6871087d9f913c89afd0e7b049b": {
+   "entities": [
+    {
+     "name": "AR Dairy",
+     "type": "Organization",
+     "english_name": "AR Dairy"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Sri Kalahasti",
+     "type": "Place",
+     "english_name": "Sri Kalahasti"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Uttarakhand",
+     "type": "Place",
+     "english_name": "Uttarakhand"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Scheme",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "BHOLEBABA",
+     "type": "Scheme",
+     "english_name": "BHOLEBABA"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "AR Dairy",
+     "evidence": "Chandrababu accused that there was animal fat and fish fat in the ghee."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "df52c6e7b8b7bc44716f7879e64664b9345093f2": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "వైయస్సార్గారి",
+     "type": "Person",
+     "english_name": "Y. S. Rajasekhara Reddy"
+    },
+    {
+     "name": "శ్రీ వైయస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "చంద్రబాబునాయుడు ఏ పార్టీతో ఉంటే ఆ పార్టీ పాట పాడతాడు."
+    },
+    {
+     "source": "శ్రీ వైయస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "తిరుమల కొండలపై వైయస్సార్గారిపై పచ్చి అబద్ధాలు చెబుతూ నిందిస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3cf31ac1d2f42c8aaf69fd6d939fb8ac599809f2": {
+   "entities": [
+    {
+     "name": "Premier Dairy",
+     "type": "Organization",
+     "english_name": "Premier Dairy"
+    },
+    {
+     "name": "Premier Agruffoods",
+     "type": "Organization",
+     "english_name": "Premier Agruffoods"
+    },
+    {
+     "name": "CBI SIT",
+     "type": "Organization",
+     "english_name": "CBI SIT"
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "Bhole Baba",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    },
+    {
+     "name": "Indapur",
+     "type": "Place",
+     "english_name": "Indapur"
+    },
+    {
+     "name": "Heritage",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandra Babu",
+     "relation": "ACCUSES",
+     "target": "Premier Dairy",
+     "evidence": "Premier Dairy కూడా వారి హయాంలోనే: ఆరోపణ ఎదుర్కొంటున్న ప్రీమియర్ డెయిరీ టైమ్ లైన్."
+    },
+    {
+     "source": "Chandra Babu",
+     "relation": "ACCUSES",
+     "target": "Premier Agruffoods",
+     "evidence": "సీబీఐ సిట్ చార్జిషీటులో ఆరోపణలు ఎదుర్కొంటున్న ప్రీమియర్ అగ్రిఫుడ్స్."
+    },
+    {
+     "source": "Chandra Babu",
+     "relation": "ACCUSES",
+     "target": "Heritage",
+     "evidence": "అసలు చంద్రబాబు అనే వ్యక్తిని, హెరిటేజ్ అనే సంస్థ ఈ రెండూ తప్పు చేసినట్లు ఇంత ప్రస్ఫుటంగా కనిపిస్తున్నప్పుడు."
+    },
+    {
+     "source": "Chandra Babu",
+     "relation": "ACCUSES",
+     "target": "Bhole Baba",
+     "evidence": "ఇంతకు ముందు నేను చెప్పా కనెక్షన్.. భోలేబాబాకు ఉన్న కనెక్షన్."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ba3cfa55a35cc7cf55682faecd8b1ed158c8c088": {
+   "entities": [
+    {
+     "name": "నాలుగు వేళ్లు తమవైపు చూపిస్తుంటే ఒకవైపు ఇలా వేలెత్తి ఇంకొకరి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దేవునితో చంద్రబాబు అబద్ధాలతో మోసాలతో దేవుడితో చెలగాటం ఆడాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మీడియా ప్రతినిధుల ప్రశ్నలకు సమాధానాలిస్తూ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "తిరుమలలో ఏడు కొండలపై వైయస్సార్ గారే జీఓ ఇచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీవో నెం:746, 747",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రాజశేఖరరెడ్డి గారు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "7 కొండలుగా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నాన్న",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "350 కిలోమీటర్లకు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అన్యమత ప్రార్థనలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "19 గుడుల",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బిజెపి",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ముస్లిం ఓట్లు",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "క్రిస్టియన్ ఓట్లు",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "2009",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "బిజెపి",
+     "evidence": "చంద్రబాబునాయుడు అప్పట్లో బీజేపీతో లేడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ముస్లిం ఓట్లు",
+     "evidence": "ముస్లిం ఓట్లతో పని పడింది."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "క్రిస్టియన్ ఓట్లు",
+     "evidence": "క్రిస్టియన్ ఓట్లతో పని పడింది."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "రాజశేఖరరెడ్డి గారు",
+     "evidence": "చంద్రబాబు ఏమన్నాడు 2009లో.. 746, 747 జీవో వైయస్సార్ ఇచ్చారు, మేం వచ్చాక క్యాన్సిల్ చేస్తామన్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

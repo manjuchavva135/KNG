@@ -1,0 +1,450 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "eec07329273e0e127f27eaaf9f53cbb6924b4332": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2b69fe21f58903a234dd0d489827ab6edf8fa91e": {
+   "entities": [
+    {
+     "name": "YAT&C (Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "YAT&C (Sports & Youth Services) Department"
+    },
+    {
+     "name": "Sports Policy 2024-29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "G.O.MS.No. 4",
+     "type": "Organization",
+     "english_name": "G.O.MS.No. 4"
+    },
+    {
+     "name": "G.O.Ms.No.74 YAT&C(Sports) Department dt.09.08.2012",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.74 YAT&C(Sports) Department dt.09.08.2012"
+    },
+    {
+     "name": "G.O.Ms.No.8 YAT&C(Sports) Department dt.23.11.2020",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.8 YAT&C(Sports) Department dt.23.11.2020"
+    },
+    {
+     "name": "G.O.Ms.No.18 YAT&C (Sports & YS) Department dt:10.12.2024",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.18 YAT&C (Sports & YS) Department dt:10.12.2024"
+    },
+    {
+     "name": "Vice Chairman & Managing Director, Sports Authority of Andhra Pradesh",
+     "type": "Person",
+     "english_name": "Vice Chairman & Managing Director, Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Secretary, Andhra Pradesh Public Service Commission",
+     "type": "Person",
+     "english_name": "Secretary, Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "Swarna Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Swarna Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Vice Chairman & Managing Director, Sports Authority of Andhra Pradesh",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Sports Policy 2024-29",
+     "evidence": "has submitted a proposal, along with draft guidelines, for implementation of three percent (3%) horizontal reservation for eligible meritorious sportspersons of Andhra Pradesh in direct recruitment"
+    },
+    {
+     "source": "Sports Authority of Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": "Vice Chairman & Managing Director, Sports Authority of Andhra Pradesh, Vijayawada"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4e9238cb7577db144203ca58799e4b065460da35": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2bcd8d2e102c98e93a7d3d4dd1c589d3782237f2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "73eeb181fb81ce6a2f868d4126c63c536709a437": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb16c334dd28a799ca169e385b845e6e11f9042a": {
+   "entities": [
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "Andhra Pradesh Gazette",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Gazette"
+    },
+    {
+     "name": "G.O.Ms.No.18",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.18"
+    },
+    {
+     "name": "Youth Advancement Tourism and Culture (Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "Youth Advancement Tourism and Culture (Sports & Youth Services) Department"
+    },
+    {
+     "name": "Sports Policy 2024-29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission (APPSC)",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission (APPSC)"
+    },
+    {
+     "name": "State Level Committee",
+     "type": "Organization",
+     "english_name": "State Level Committee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eb72690e9bb9190d6d125291e70a4e49c39a9e40": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh Public Service Commission (APPSC)",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission (APPSC)"
+    },
+    {
+     "name": "District Selection Committee (DSC)",
+     "type": "Organization",
+     "english_name": "District Selection Committee (DSC)"
+    },
+    {
+     "name": "Group-I services",
+     "type": "Organization",
+     "english_name": "Group-I services"
+    },
+    {
+     "name": "Group-II services",
+     "type": "Organization",
+     "english_name": "Group-II services"
+    },
+    {
+     "name": "Group-III services",
+     "type": "Organization",
+     "english_name": "Group-III services"
+    },
+    {
+     "name": "Physical Education Teachers (PET)",
+     "type": "Organization",
+     "english_name": "Physical Education Teachers (PET)"
+    },
+    {
+     "name": "Coaches",
+     "type": "Organization",
+     "english_name": "Coaches"
+    },
+    {
+     "name": "B.PEd",
+     "type": "Organization",
+     "english_name": "B.PEd"
+    },
+    {
+     "name": "Diploma in Coaching (NIS Regular)",
+     "type": "Organization",
+     "english_name": "Diploma in Coaching (NIS Regular)"
+    },
+    {
+     "name": "sports quota",
+     "type": "Scheme",
+     "english_name": "sports quota"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "efb99178b8dac4911ca36c15c93c012ad4ab2954": {
+   "entities": [
+    {
+     "name": "Sports Authority of Andhra Pradesh (SAAP)",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission (APPSC)",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "District Selection Committee (DSC)",
+     "type": "Organization",
+     "english_name": "District Selection Committee"
+    },
+    {
+     "name": "3% horizontal reservation for meritorious sportspersons",
+     "type": "Scheme",
+     "english_name": "3% horizontal reservation for meritorious sportspersons"
+    },
+    {
+     "name": "33 1/3% horizontal reservation for eligible women meritorious sportspersons",
+     "type": "Scheme",
+     "english_name": "33 1/3% horizontal reservation for eligible women meritorious sportspersons"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3a02487530ac9fb4ab24f5987207a29be73a011a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fa6447d783b54a829a26993d75e5a732fdc7a4ed": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cbc1d68a88680a820f3691f873942f2a91e17206": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7ed0c4d31f2e4ba19e5bbd704d2b9f424c8e52a2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ea69def247595bf17f747660d7a1c3314a1d04b7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3616b22862efb96273ffef7f3ffc00c24837902b": {
+   "entities": [
+    {
+     "name": "Committee",
+     "type": "Organization",
+     "english_name": "Committee"
+    },
+    {
+     "name": "Screening Committee",
+     "type": "Organization",
+     "english_name": "Screening Committee"
+    },
+    {
+     "name": "VC & MD, SAAP",
+     "type": "Organization",
+     "english_name": "VC & MD, SAAP"
+    },
+    {
+     "name": "State Level Committee (SLC)",
+     "type": "Organization",
+     "english_name": "State Level Committee (SLC)"
+    },
+    {
+     "name": "APPSC",
+     "type": "Organization",
+     "english_name": "APPSC"
+    },
+    {
+     "name": "Selection Board",
+     "type": "Organization",
+     "english_name": "Selection Board"
+    },
+    {
+     "name": "Department concerned",
+     "type": "Organization",
+     "english_name": "Department concerned"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "Competent Authority",
+     "type": "Organization",
+     "english_name": "Competent Authority"
+    },
+    {
+     "name": "Sports Association/Federation",
+     "type": "Organization",
+     "english_name": "Sports Association/Federation"
+    },
+    {
+     "name": "Ministry of Sports and Youth Welfare, Government of India",
+     "type": "Organization",
+     "english_name": "Ministry of Sports and Youth Welfare, Government of India"
+    },
+    {
+     "name": "Sports Authority of India",
+     "type": "Organization",
+     "english_name": "Sports Authority of India"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "sportsperson",
+     "type": "Person",
+     "english_name": "sportsperson"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8b23298c5bcfd75f5b65e91825624ffaf64914bb": {
+   "entities": [
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "State Level Committee",
+     "type": "Organization",
+     "english_name": "State Level Committee"
+    },
+    {
+     "name": "YAT&C(Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "YAT&C(Sports & Youth Services) Department"
+    },
+    {
+     "name": "Services & HRM",
+     "type": "Organization",
+     "english_name": "Services & HRM"
+    },
+    {
+     "name": "General Administration Department",
+     "type": "Organization",
+     "english_name": "General Administration Department"
+    },
+    {
+     "name": "Recruiting Department",
+     "type": "Organization",
+     "english_name": "Recruiting Department"
+    },
+    {
+     "name": "Vice Chairman & Managing Director",
+     "type": "Person",
+     "english_name": "Vice Chairman & Managing Director"
+    },
+    {
+     "name": "Screening Committee",
+     "type": "Organization",
+     "english_name": "Screening Committee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ca5a3c5e9f904dbefc631cbecd47c1da6b6601d8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1ddf4d0170030da8c1d06d3f488d57a543a2ba75": {
+   "entities": [
+    {
+     "name": "K.VIJAYANAND",
+     "type": "Person",
+     "english_name": "K. Vijayanand"
+    },
+    {
+     "name": "CHIEF SECRETARY TO GOVERNMENT",
+     "type": "Organization",
+     "english_name": "Chief Secretary to Government"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": "Finance Department"
+    },
+    {
+     "name": "Commissioner Printing, Stationery & Stores Purchase, A.P.",
+     "type": "Organization",
+     "english_name": "Commissioner Printing, Stationery & Stores Purchase, A.P."
+    },
+    {
+     "name": "A.P. Gazette",
+     "type": "Organization",
+     "english_name": "A.P. Gazette"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "86e5b0a2be1738f90f4486062b24d1cebc9ece21": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fc885d9bac8bb8d16e6c9dd76b5d02bba1d48117": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "790ca32658df1111060f751cca6d297f189a44bf": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bfeed8856910338cb7f2d432e9eac500c7e32668": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e950e975d8a73e7a76f94d03293bc457352416ee": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3dbe055a2fb5bcb532e54a9675e503c277da1e05": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

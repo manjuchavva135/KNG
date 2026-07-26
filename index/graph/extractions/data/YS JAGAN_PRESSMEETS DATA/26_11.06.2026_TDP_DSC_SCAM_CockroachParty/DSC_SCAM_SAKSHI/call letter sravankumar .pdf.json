@@ -1,0 +1,69 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "888045a45483f4ded3ccaae5f4eb628a8fb7110f": {
+   "entities": [
+    {
+     "name": "HT No.: MDSC0002696",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YERIPILLI SRAVANKUMAR",
+     "type": "Person",
+     "english_name": "YeriPilli Sravankumar"
+    },
+    {
+     "name": "Sri PENTAYYA",
+     "type": "Person",
+     "english_name": "Sri Pentayya"
+    },
+    {
+     "name": "Mega DSC – 2025",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "vsk_committee_18",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Visakha Vimala Vidyalayam",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ukkunagaram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Gajuwaka Mandal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "apdsc.apcfss.in",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Visakha Vimala Vidyalayam",
+     "relation": "LOCATED_IN",
+     "target": "Ukkunagaram",
+     "evidence": "Venue: vsk_committee_18, Visakha Vimala Vidyalayam, Ukkunagaram"
+    },
+    {
+     "source": "apdsc.apcfss.in",
+     "relation": "LOCATED_IN",
+     "target": "Ukkunagaram",
+     "evidence": "upload all relevant certificates/documents at candidate login (apdsc.apcfss.in)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

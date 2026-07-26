@@ -1,0 +1,2122 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7a114466d17c9ab6b1bdd11bfaba78d4f74bc995": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Department",
+     "type": "Organization",
+     "english_name": "Marketing Department"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "M/s A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "Dindigul",
+     "type": "Place",
+     "english_name": "Dindigul"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Agmark special grade",
+     "type": "Scheme",
+     "english_name": "Agmark special grade"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "Dy. Exe. Officer (WH)",
+     "type": "Person",
+     "english_name": "Dy. Exe. Officer (WH)"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "TTD, Tirupati"
+    },
+    {
+     "source": "M/s A R Dairy Food Private Limited",
+     "relation": "LOCATED_IN",
+     "target": "Dindigul",
+     "evidence": "Dindigul"
+    },
+    {
+     "source": "M/s A R Dairy Food Private Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tamil Nadu",
+     "evidence": "Tamil Nadu"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1f9121b66ee49f0c18bd009ef0522f19641eef48": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "M/s A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "CALF",
+     "type": "Organization",
+     "english_name": "CALF"
+    },
+    {
+     "name": "NABL",
+     "type": "Organization",
+     "english_name": "NABL"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Lord Venkateshwara swamy",
+     "type": "Person",
+     "english_name": "Lord Venkateshwara swamy"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "943f3730c1164dc31f192b717236222b6fafba2b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "df18f4386bcce5adb9f0235d6834228a77132c00": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "clause.47",
+     "type": "Claim",
+     "english_name": "clause.47"
+    },
+    {
+     "name": "clause. 49",
+     "type": "Claim",
+     "english_name": "clause. 49"
+    },
+    {
+     "name": "clause. 65",
+     "type": "Claim",
+     "english_name": "clause. 65"
+    },
+    {
+     "name": "clause. 74",
+     "type": "Claim",
+     "english_name": "clause. 74"
+    },
+    {
+     "name": "clause. 76",
+     "type": "Claim",
+     "english_name": "clause. 76"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2e473a59e4f3ddc9567c32dac625db3b6d51815f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cdf4bf8f51f450a842d85ab41a089e05a2e12f73": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eedf4efb32c9ced3a83309674ca60b61d16ab6b8": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Food and Water Laboratory",
+     "type": "Organization",
+     "english_name": "Food and Water Laboratory"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Anand",
+     "type": "Place",
+     "english_name": "Anand"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "FSSR",
+     "type": "Organization",
+     "english_name": "FSSR"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    },
+    {
+     "name": "Table-2",
+     "type": "Organization",
+     "english_name": "Table-2"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "The test report was received from the NDDB CALF Ltd, Anand, Gujarat"
+    },
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Anand",
+     "evidence": "The test report was received from the NDDB CALF Ltd, Anand, Gujarat"
+    },
+    {
+     "source": "Anand",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "The test report was received from the NDDB CALF Ltd, Anand, Gujarat"
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "The test report was received from the NDDB CALF Ltd, Anand, Gujarat"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ee357e5f50d25402137debca19952a43b4f8bc34": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0c1e51c84213a0b7bb9e013e9e373b89a6443439": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cc2395bee6b09598cd67e06deb9c96d2d61bbfa0": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Show Cause notice",
+     "type": "Claim",
+     "english_name": "Show Cause notice"
+    },
+    {
+     "name": "ghee sample",
+     "type": "Claim",
+     "english_name": "ghee sample"
+    },
+    {
+     "name": "lab test report",
+     "type": "Claim",
+     "english_name": "lab test report"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "65cc945128999a83b76345cc358b75db6c9f2522": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Our Company",
+     "type": "Organization",
+     "english_name": "Our Company"
+    },
+    {
+     "name": "Clause No.40",
+     "type": "Claim",
+     "english_name": "Clause No.40"
+    },
+    {
+     "name": "Clause No.26",
+     "type": "Claim",
+     "english_name": "Clause No.26"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b8b0a0eb7e05d9c326e4de104682fdf1d48c4dd3": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "AR Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "AR Dairy Food Private Limited"
+    },
+    {
+     "name": "M/s AR Dairy Food Private Limited, Dindigul",
+     "type": "Organization",
+     "english_name": "AR Dairy Food Private Limited, Dindigul"
+    },
+    {
+     "name": "M/s A.R.Dairy Foods Private Limited, Milk",
+     "type": "Organization",
+     "english_name": "M/s A.R.Dairy Foods Private Limited, Milk"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Food Safety and Standards Regulation, 2011",
+     "type": "Scheme",
+     "english_name": "Food Safety and Standards Regulation, 2011"
+    },
+    {
+     "name": "FSS Regulation, 2011",
+     "type": "Scheme",
+     "english_name": "FSS Regulation, 2011"
+    },
+    {
+     "name": "β-Sitosterol",
+     "type": "Claim",
+     "english_name": "β-Sitosterol"
+    },
+    {
+     "name": "adulterated ghee",
+     "type": "Claim",
+     "english_name": "adulterated ghee"
+    },
+    {
+     "name": "show cause notice",
+     "type": "Claim",
+     "english_name": "show cause notice"
+    },
+    {
+     "name": "blacklisting",
+     "type": "Claim",
+     "english_name": "blacklisting"
+    },
+    {
+     "name": "EMD & SD amounts",
+     "type": "Claim",
+     "english_name": "EMD & SD amounts"
+    },
+    {
+     "name": "penalty of 5%",
+     "type": "Claim",
+     "english_name": "penalty of 5%"
+    },
+    {
+     "name": "ISO/IEC 17025:2017",
+     "type": "Scheme",
+     "english_name": "ISO/IEC 17025:2017"
+    },
+    {
+     "name": "contract agreement",
+     "type": "Scheme",
+     "english_name": "contract agreement"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "64631f92c02ae9ce6a899e42f9c3d5073f5fc8a8": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Executive Officer/General Manager (Procurement)",
+     "type": "Person",
+     "english_name": "Executive Officer/General Manager (Procurement)"
+    },
+    {
+     "name": "company",
+     "type": "Organization",
+     "english_name": "company"
+    },
+    {
+     "name": "clause.47",
+     "type": "Scheme",
+     "english_name": "clause.47"
+    },
+    {
+     "name": "clause. 49",
+     "type": "Scheme",
+     "english_name": "clause. 49"
+    },
+    {
+     "name": "clause. 65",
+     "type": "Scheme",
+     "english_name": "clause. 65"
+    },
+    {
+     "name": "clause. 74",
+     "type": "Scheme",
+     "english_name": "clause. 74"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3f9e6e1a35d481c23c4f4746118c675bf078a7db": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    },
+    {
+     "name": "Clause 76",
+     "type": "Claim",
+     "english_name": "Clause 76"
+    },
+    {
+     "name": "Clause 26",
+     "type": "Claim",
+     "english_name": "Clause 26"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "54a02d583e3d2bd08eadd502e75eaa891773b81c": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Food and Water Laboratory",
+     "type": "Organization",
+     "english_name": "Food and Water Laboratory"
+    },
+    {
+     "name": "FSSR",
+     "type": "Organization",
+     "english_name": "FSSR"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    },
+    {
+     "name": "company",
+     "type": "Organization",
+     "english_name": "company"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4c87f31934e2a36fa038fe8a8b9cf1c16b46f7a8": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "E.M.D.",
+     "type": "Organization",
+     "english_name": "E.M.D."
+    },
+    {
+     "name": "Security Deposit",
+     "type": "Organization",
+     "english_name": "Security Deposit"
+    },
+    {
+     "name": "Company",
+     "type": "Organization",
+     "english_name": "Company"
+    },
+    {
+     "name": "FSSR",
+     "type": "Organization",
+     "english_name": "FSSR"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    },
+    {
+     "name": "Food and Water Laboratory",
+     "type": "Organization",
+     "english_name": "Food and Water Laboratory"
+    },
+    {
+     "name": "AP 26 TC 4779",
+     "type": "Organization",
+     "english_name": "AP 26 TC 4779"
+    },
+    {
+     "name": "TN02 BA 9459",
+     "type": "Organization",
+     "english_name": "TN02 BA 9459"
+    },
+    {
+     "name": "TN 02 BB 2070",
+     "type": "Organization",
+     "english_name": "TN 02 BB 2070"
+    },
+    {
+     "name": "TN 02 BB 2151",
+     "type": "Organization",
+     "english_name": "TN 02 BB 2151"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2abc522c33654ead50e64b41ac680b4ea43430ff": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Lord Venkateshwara swamy",
+     "type": "Person",
+     "english_name": "Lord Venkateshwara swamy"
+    },
+    {
+     "name": "Food and Water Laboratory of TTD",
+     "type": "Organization",
+     "english_name": "Food and Water Laboratory of TTD"
+    },
+    {
+     "name": "FSSR",
+     "type": "Organization",
+     "english_name": "FSSR"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "TTD Ware House",
+     "type": "Organization",
+     "english_name": "TTD Ware House"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala",
+     "evidence": "witnessed and signed, during the sampling process at Marketing Godown at Tirumala"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9023be2dd72ff6f00b51af04d66200feda330e01": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Food and water analysis lab",
+     "type": "Organization",
+     "english_name": "Food and water analysis lab"
+    },
+    {
+     "name": "Senior officer from O/o the ware house",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sanitary inspector from Health department",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Superintendent/ Sr.Asst, Padi Potu and Asst, Ghee tank",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "AVSO/VI from Vigilance Department",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Agent",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "tanker Driver",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Company A.R. Food Private Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FSSAI authorities",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NABL accredited/FSSAI lab",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "outsourced laboratory",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "32ed511e457fb4d10b21ae01e981a103ab82c278": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "M/s A.R Dairy Foods private Ltd",
+     "type": "Organization",
+     "english_name": "M/s A.R Dairy Foods private Ltd"
+    },
+    {
+     "name": "NDDB CALF",
+     "type": "Organization",
+     "english_name": "NDDB CALF"
+    },
+    {
+     "name": "Food and water analysis lab",
+     "type": "Organization",
+     "english_name": "Food and water analysis lab"
+    },
+    {
+     "name": "Senior officer from O/o the Ware House",
+     "type": "Person",
+     "english_name": "Senior officer from O/o the Ware House"
+    },
+    {
+     "name": "Sanitary Inspector from Health Department",
+     "type": "Person",
+     "english_name": "Sanitary Inspector from Health Department"
+    },
+    {
+     "name": "Superintendent/ Sr.Asst, Padi Potu and Asst, Ghee tank",
+     "type": "Person",
+     "english_name": "Superintendent/ Sr.Asst, Padi Potu and Asst, Ghee tank"
+    },
+    {
+     "name": "AVSO/VI from Vigilance Department",
+     "type": "Person",
+     "english_name": "AVSO/VI from Vigilance Department"
+    },
+    {
+     "name": "Agent",
+     "type": "Person",
+     "english_name": "Agent"
+    },
+    {
+     "name": "tanker Driver",
+     "type": "Person",
+     "english_name": "tanker Driver"
+    },
+    {
+     "name": "Clause 76 of the agreement",
+     "type": "Claim",
+     "english_name": "Clause 76 of the agreement"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "211af6047d69d38ba79c7f04c6d2482d199e5153": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "96053f04edfde85ed7ec83cd3e3fa426e58286c7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9404334084df8ed3c38023a8ccbd852f6d08e25f": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "Water And Food Analysis Laboratory-TTD Lab",
+     "type": "Organization",
+     "english_name": "Water And Food Analysis Laboratory - TTD Lab"
+    },
+    {
+     "name": "Shri Sreenivasa Swamy",
+     "type": "Person",
+     "english_name": "Shri Sreenivasa Swamy"
+    },
+    {
+     "name": "Ghee",
+     "type": "Claim",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "AP26TC4779",
+     "type": "Claim",
+     "english_name": "AP26TC4779"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fe2a07f3166887529214d58d90138f552b3e5f28": {
+   "entities": [
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala-517504",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Deputy Executive Officer (W.H)"
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanams",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "FSO",
+     "type": "Person",
+     "english_name": "FSO"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Water and Food Analysis Laboratory",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala-517504",
+     "evidence": "Water and Food Analysis Laboratory\nTTD, Marketing Godown, Tirumala-517504, A.P."
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala-517504",
+     "evidence": "Water and Food Analysis Laboratory\nTTD, Marketing Godown, Tirumala-517504, A.P."
+    },
+    {
+     "source": "Marketing Godown",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala-517504",
+     "evidence": "Water and Food Analysis Laboratory\nTTD, Marketing Godown, Tirumala-517504, A.P."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8b0050f81ea8f6f82759fcd693f8b8402e61bab1": {
+   "entities": [
+    {
+     "name": "தமிழ் நாடு அரசு",
+     "type": "Organization",
+     "english_name": "Tamil Nadu Government"
+    },
+    {
+     "name": "அரசுத் துறை வங்கிகள்",
+     "type": "Organization",
+     "english_name": "Government Department Banks"
+    },
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala-517 504, A.P.",
+     "type": "Place",
+     "english_name": "Tirumala, Andhra Pradesh"
+    },
+    {
+     "name": "The Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Deputy Executive Officer (W.H)"
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanams",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "ULR No. TC41001900000001205",
+     "type": "Organization",
+     "english_name": "ULR No. TC41001900000001205"
+    },
+    {
+     "name": "Lab Reference No.: G/357/2024",
+     "type": "Organization",
+     "english_name": "Lab Reference No.: G/357/2024"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "FSO",
+     "type": "Person",
+     "english_name": "FSO"
+    },
+    {
+     "name": "Marketing godown, Tirupathi",
+     "type": "Place",
+     "english_name": "Marketing godown, Tirupathi"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Water and Food Analysis Laboratory",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala-517 504, A.P.",
+     "evidence": "TTD, Marketing Godown, Tirumala-517 504, A.P."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2aa5ed98f3f7b0b42aadbe853ce96c139d1395b4": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93af77d1988cfc6434988bcdcb10c00425dc31ef": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b6418eb37202948f7b2f540808a78790c69a44af": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "79fa454d8c8e1ac8d258143c7647591f7264807b": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "CALF",
+     "type": "Organization",
+     "english_name": "CALF"
+    },
+    {
+     "name": "Swati Patil",
+     "type": "Person",
+     "english_name": "Swati Patil"
+    },
+    {
+     "name": "Nilay Yadav",
+     "type": "Person",
+     "english_name": "Nilay Yadav"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "IS 548 (Part 2): 1876",
+     "type": "Organization",
+     "english_name": "IS 548 (Part 2): 1876"
+    },
+    {
+     "name": "Test Report",
+     "type": "Claim",
+     "english_name": "Test Report"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Swati Patil",
+     "relation": "MAKES_CLAIM",
+     "target": "Test Report",
+     "evidence": "The above sample complies to the requirements of Specification FSSAI for the tested parameters."
+    },
+    {
+     "source": "Nilay Yadav",
+     "relation": "MAKES_CLAIM",
+     "target": "Test Report",
+     "evidence": "The above sample complies to the requirements of Specification FSSAI for the tested parameters."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "501c8ed438134a6b9c670f205bde46fc81b7291e": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "company",
+     "type": "Organization",
+     "english_name": "company"
+    },
+    {
+     "name": "FSSR 2011",
+     "type": "Organization",
+     "english_name": "Food Safety and Standards (Regulation) 2011"
+    },
+    {
+     "name": "EMD & SD amounts",
+     "type": "Organization",
+     "english_name": "EMD & SD amounts"
+    },
+    {
+     "name": "Andur",
+     "type": "Person",
+     "english_name": "Andur"
+    },
+    {
+     "name": "GENERAL MANAGER (P)",
+     "type": "Person",
+     "english_name": "General Manager (Procurement)"
+    },
+    {
+     "name": "DLO.",
+     "type": "Organization",
+     "english_name": "DLO"
+    },
+    {
+     "name": "Dy.Exe.Officer (WH)",
+     "type": "Person",
+     "english_name": "Deputy Executive Officer (WH)"
+    },
+    {
+     "name": "Superintendent-I",
+     "type": "Person",
+     "english_name": "Superintendent-I"
+    },
+    {
+     "name": "PS to Executive Officer",
+     "type": "Person",
+     "english_name": "PS to Executive Officer"
+    },
+    {
+     "name": "Joint Executive Officer (H&E)",
+     "type": "Person",
+     "english_name": "Joint Executive Officer (H&E)"
+    },
+    {
+     "name": "CEO, TTDC",
+     "type": "Person",
+     "english_name": "CEO, TTDC"
+    },
+    {
+     "name": "FA&CAO",
+     "type": "Person",
+     "english_name": "FA&CAO"
+    },
+    {
+     "name": "M11 Clerk",
+     "type": "Person",
+     "english_name": "M11 Clerk"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "664a55ea63b1f820d4bb3f154dbfd8f607ae30a8": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "Water And Food Analysis Laboratory-TTD Lab",
+     "type": "Organization",
+     "english_name": "Water And Food Analysis Laboratory - TTD Lab"
+    },
+    {
+     "name": "Shri Sreenivasa Swamy",
+     "type": "Person",
+     "english_name": "Shri Sreenivasa Swamy"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Ghee",
+     "type": "Claim",
+     "english_name": "Ghee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b4b672761c2fccd2c49e5d05e5c7b98e51ee030b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5a8dd775d3096717a9ca14a513761cb31b7ff18c": {
+   "entities": [
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Anand, Gujarat",
+     "type": "Place",
+     "english_name": "Anand, Gujarat"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Anand, Gujarat",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    },
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    },
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c4f64dbe3e4a0503f542a5d27a55c0340c955473": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3b3aa40c0325174fadde9410a580781206ec2137": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d156d24a07d2c9f4ebd3d3de5bc3ef6e236b8003": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1372de1e92cb2cff3946cc5bcfbbd14e18f3cbd7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3d1381b8dba8ce375e123524e9460a97f1fe36b5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6b0685790c1e7105e7d4f073187e927f52b6b5fe": {
+   "entities": [
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Anand, Gujarat",
+     "type": "Place",
+     "english_name": "Anand, Gujarat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Anand, Gujarat",
+     "evidence": "All disputes are subject to the Anand, Gujarat jurisdiction only."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "303235f5cb62085969bc80ea81c7feed20a658ca": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "359a771b3574e96790ecdb59295cdd95baf35cab": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3b472672368b90e44e42a6d68bf804c8cd2fe379": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d4db4de50963fb4894fd3e5312a074f986504dd9": {
+   "entities": [
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala-517 504, A.P.",
+     "type": "Place",
+     "english_name": "Tirumala, Andhra Pradesh"
+    },
+    {
+     "name": "The Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Deputy Executive Officer (W.H)"
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanams",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "ULR No. TC41001900000001203",
+     "type": "Organization",
+     "english_name": "ULR No. TC41001900000001203"
+    },
+    {
+     "name": "Lab Reference No.: G/360/2024",
+     "type": "Organization",
+     "english_name": "Lab Reference No.: G/360/2024"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "FSO",
+     "type": "Person",
+     "english_name": "FSO"
+    },
+    {
+     "name": "Marketing godown, Tirupathi",
+     "type": "Place",
+     "english_name": "Marketing godown, Tirupathi"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "92c6affbd2ae420e1c3b00d782549b8d0fcd9352": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6eace2cfa94996e910b178741a037f399202b529": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3ccdd570ab2f1d7899e7be6e021bad116b48beb4": {
+   "entities": [
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala-517504",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Dy. E.O (W.H)"
+    },
+    {
+     "name": "Tirupati-517507",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ULR No. TC41001900000001203",
+     "type": "Organization",
+     "english_name": "ULR No. TC41001900000001203"
+    },
+    {
+     "name": "Lab Reference No.: G/360/2024",
+     "type": "Organization",
+     "english_name": "Lab Reference No.: G/360/2024"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "FSO, Marketing Godown, Tirumala",
+     "type": "Person",
+     "english_name": "FSO, Marketing Godown, Tirumala"
+    },
+    {
+     "name": "Marketing godown, Tirupathi",
+     "type": "Place",
+     "english_name": "Marketing godown, Tirupathi"
+    },
+    {
+     "name": "Moisture % by Wt.",
+     "type": "Claim",
+     "english_name": "Moisture % by Wt."
+    },
+    {
+     "name": "Butyro Refractometer Reading at 40°C",
+     "type": "Claim",
+     "english_name": "Butyro Refractometer Reading at 40°C"
+    },
+    {
+     "name": "Free Fatty Acids (as %Oleic acid )",
+     "type": "Claim",
+     "english_name": "Free Fatty Acids (as %Oleic acid )"
+    },
+    {
+     "name": "R.M.",
+     "type": "Claim",
+     "english_name": "R.M."
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b1a09f746f4da430e60565e46e4ea27670a6d788": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5cb0622b78c5bdcf89970c48e1cd7da494f5e7be": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9095841ff10f0f38ab5995703e9daacbb3d354a7": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Water And Food Analysis Laboratory-TTD Lab",
+     "type": "Organization",
+     "english_name": "Water And Food Analysis Laboratory - TTD Lab"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ghee",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d5e38758939f3b02345b5efd4442b5b897743e68": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3e03161d720c248f955b11b95206b2ebe1d2edd2": {
+   "entities": [
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Anand",
+     "type": "Place",
+     "english_name": "Anand"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Anand",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    },
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    },
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "22fbf8193b0217a2f7d87c32077fb99e9d93f3cc": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "badef2d37283468556b6609404a8242e9fa1e355": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "68e3b1b9af6abb76308c9bf5797cda9c40c2078e": {
+   "entities": [
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala-517504",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Dy. E.O (W.H)"
+    },
+    {
+     "name": "Tirupati-517507",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2f67d8ebc65293d3084e57124aa6891f2e7390f5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5cd5ca97e34239e2942253a441bb609bbc3c0140": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ece2dbf5ee6ed00d7221764ce4788ed526718784": {
+   "entities": [
+    {
+     "name": "శ్రీ కృష్ణదేవరాయలు విశ్వవిశ్వనాథ విద్యాలయము",
+     "type": "Organization",
+     "english_name": "Sri Krishnadevaraya Vishwavidyalaya"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "తెలుగు విశ్వవిద్యాలయం",
+     "type": "Organization",
+     "english_name": "Telugu University"
+    },
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "T.T.D Marketing Godown",
+     "type": "Organization",
+     "english_name": "T.T.D Marketing Godown"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "The Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Deputy Executive Officer (W.H)"
+    },
+    {
+     "name": "ULR No. TC41001900000001256",
+     "type": "Organization",
+     "english_name": "ULR No. TC41001900000001256"
+    },
+    {
+     "name": "Lab Reference No.: G/372/2024",
+     "type": "Organization",
+     "english_name": "Lab Reference No.: G/372/2024"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "FSO, Marketing Godown, Tirumala",
+     "type": "Person",
+     "english_name": "FSO, Marketing Godown, Tirumala"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bcfae8a719bc9472bfe82b4298ca24db265a8948": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "CALF",
+     "type": "Organization",
+     "english_name": "CALF"
+    },
+    {
+     "name": "NABL",
+     "type": "Organization",
+     "english_name": "NABL"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "IS 548 (Part 2): 1876",
+     "type": "Organization",
+     "english_name": "IS 548 (Part 2): 1876"
+    },
+    {
+     "name": "LOQ",
+     "type": "Organization",
+     "english_name": "LOQ"
+    },
+    {
+     "name": "V.No",
+     "type": "Organization",
+     "english_name": "V.No"
+    },
+    {
+     "name": "M",
+     "type": "Organization",
+     "english_name": "M"
+    },
+    {
+     "name": "Nilay Yadav",
+     "type": "Person",
+     "english_name": "Nilay Yadav"
+    },
+    {
+     "name": "Anandalaya School",
+     "type": "Place",
+     "english_name": "Anandalaya School"
+    },
+    {
+     "name": "Anand",
+     "type": "Place",
+     "english_name": "Anand"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "NDDB",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "NDDB CALF Ltd Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    },
+    {
+     "source": "CALF",
+     "relation": "LOCATED_IN",
+     "target": "Anand",
+     "evidence": "NDDB CALF Ltd Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    },
+    {
+     "source": "CALF",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "NDDB CALF Ltd Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    },
+    {
+     "source": "Anandalaya School",
+     "relation": "LOCATED_IN",
+     "target": "Anand",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a4fc0ddbbdb4cfb321c70acfd9d148e592ed4b97": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "53b91bafea030aee6d12ff19ef2e6ee437db2f16": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "Water and Food Analysis Laboratory TTD Lab",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory TTD Lab"
+    },
+    {
+     "name": "Shri Shreenivasa Swamy",
+     "type": "Person",
+     "english_name": "Shri Shreenivasa Swamy"
+    },
+    {
+     "name": "Ghee",
+     "type": "Scheme",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "COW GHEE",
+     "type": "Scheme",
+     "english_name": "COW GHEE"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "84c1b00610e0e79426b4b140e0e0c9ab2c7a95af": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c5121ae5f6b019732a0ac051852442483d9bd329": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fbd8dd5e2548a3e752ccfa203c4616ac7e316b41": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CALF",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TC-11516",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NABL Scope",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pentadecanoic acid (C15:0)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "r-Linolenic acid (C18:3n6)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Stearic acid (C18:0)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tricosanoic acid (C23:0)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tridecanoic acid (C13:0)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Undecanoic acid (C11:0)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Test for Rancidity",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Melting Point",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Avanee Digitally signed by Avanee Macwan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kailash Chandra Behera",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6ea6069ff7ec4b31861c1c6ed46ea55cf82dec0a": {
+   "entities": [
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Anand, Gujarat",
+     "type": "Place",
+     "english_name": "Anand, Gujarat"
+    },
+    {
+     "name": "Anandalaya School",
+     "type": "Place",
+     "english_name": "Anandalaya School"
+    }
+   ],
+   "relations": [
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Anand, Gujarat",
+     "evidence": "All disputes are subject to the Anand, Gujarat jurisdiction only."
+    },
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Anandalaya School",
+     "evidence": "Beside Anandalaya School, Anand - 388001, Gujarat, India"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cf1a3c6a274902a71703b97e1fa1c21f622784ae": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "614111afbde0a878f8fef620183c7b774b1fea28": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7e3de31062323e9164660b47fc78c8d80118991e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e9074ab8a0eff55d5510fb4889971f674d3852b1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2a955edcdc96c95a445281fcf8ea66694452cd1e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9ac049ae655d047b8e921e2d158e9fe128fc2c0a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "775b37e4207ac11fbd0b3611a9e1f522d036dbf0": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0387871421ac7f0aef90e33909ab8850d5b60e35": {
+   "entities": [
+    {
+     "name": "శ్రీకాంతేశ్వర దేవస్థానములు",
+     "type": "Organization",
+     "english_name": "Srikantha Easwara Devasthanams"
+    },
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala-517 504",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "The Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Deputy Executive Officer (W.H)"
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanams",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "ULR No. TC41001900000001243",
+     "type": "Organization",
+     "english_name": "ULR No. TC41001900000001243"
+    },
+    {
+     "name": "Lab Reference No.: G/373/2024",
+     "type": "Organization",
+     "english_name": "Lab Reference No.: G/373/2024"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "FSO",
+     "type": "Person",
+     "english_name": "FSO"
+    },
+    {
+     "name": "Marketing godown",
+     "type": "Place",
+     "english_name": "Marketing godown"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "092bfc1910a80544f923833c88c033da17c66876": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "Water and Food Analysis Laboratory TTD Lab",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory TTD Lab"
+    },
+    {
+     "name": "Shri Shreenivasa Swamy",
+     "type": "Person",
+     "english_name": "Shri Shreenivasa Swamy"
+    },
+    {
+     "name": "Ghee",
+     "type": "Scheme",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "IS 3509 : 1966",
+     "type": "Organization",
+     "english_name": "IS 3509 : 1966"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "819251b843d85be080bea6a09e6320ee94d89f37": {
+   "entities": [
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Dy. E.O (W.H)"
+    },
+    {
+     "name": "FSO",
+     "type": "Person",
+     "english_name": "FSO"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Water and Food Analysis Laboratory",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala",
+     "evidence": "Water and Food Analysis Laboratory\nTTD, Marketing Godown, Tirumala-517504, A.P."
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala",
+     "evidence": "TTD, Marketing Godown, Tirumala-517504, A.P."
+    },
+    {
+     "source": "Marketing Godown",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala",
+     "evidence": "TTD, Marketing Godown, Tirumala-517504, A.P."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "52fcaa2bba3379c3c73f7fa95bf7e6afc5280bd3": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

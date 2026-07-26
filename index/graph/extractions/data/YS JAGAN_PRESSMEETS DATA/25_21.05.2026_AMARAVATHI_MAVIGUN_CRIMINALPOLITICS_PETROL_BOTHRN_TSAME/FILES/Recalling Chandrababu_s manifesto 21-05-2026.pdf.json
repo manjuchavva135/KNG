@@ -1,0 +1,401 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d235990c4daf0f3f76adcd53af413f4e2f08c170": {
+   "entities": [
+    {
+     "name": "MEHARAJ BEGAM SHAIK",
+     "type": "Person",
+     "english_name": "Meharaj Begam Shaik"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    }
+   ],
+   "relations": [
+    {
+     "source": "MEHARAJ BEGAM SHAIK",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "MEHARAJ BEGAM SHAIK, బాబు ష్యూరిటీ - భవిష్యత్తుకు గ్యారెంటీలో"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8856755a4f26e149721825c8e4e579ae57986b9a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c36c7ee3ff8dc3cab7017c23ff7966d1c3ebae86": {
+   "entities": [
+    {
+     "name": "MEHARAJ BEGAM SHAIK",
+     "type": "Person",
+     "english_name": "Meharaj Begam Shaik"
+    },
+    {
+     "name": "MS_logo",
+     "type": "Scheme",
+     "english_name": "MS_logo"
+    },
+    {
+     "name": "Mahashakti",
+     "type": "Scheme",
+     "english_name": "Mahashakti"
+    },
+    {
+     "name": "Adabidda",
+     "type": "Scheme",
+     "english_name": "Adabidda"
+    },
+    {
+     "name": "Nidhi",
+     "type": "Scheme",
+     "english_name": "Nidhi"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Annadata",
+     "type": "Scheme",
+     "english_name": "Annadata"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "Free Bus Travel",
+     "type": "Scheme",
+     "english_name": "Free Bus Travel"
+    },
+    {
+     "name": "Rajampet",
+     "type": "Place",
+     "english_name": "Rajampet"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6bbe4d8c46a47b7e8acf541759b29d1fc40cb968": {
+   "entities": [
+    {
+     "name": "భవిష్యత్తుకు గ్యారెంట్",
+     "type": "Scheme",
+     "english_name": "Future Guarantee"
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Babbu"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "మనోహరన్",
+     "type": "Person",
+     "english_name": "Manoharan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తుకు గ్యారెంట్",
+     "evidence": "2024లో టీడీపీ అధికారంలోకి వచ్చాక 'భవిష్యత్తుకు గ్యారెంటీ'లోని వాగ్దానాలను ఎటువంటి వివక్ష లేకుండా, నిబంధనలు విధించకుండా అమలు చేయడంతో పాటు మన రాష్ట్ర అభివృద్ధికి పునరకితమవుతానని ప్రతిజ్ఞ చేస్తున్నాను."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "2024లో టీడీపీ అధికారంలోకి వచ్చాక"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0acd0cbfc465856ca67059b1e5f76aa388a61eea": {
+   "entities": [
+    {
+     "name": "భవిష్యత్తుకు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": "Bhavishyatthu Ki Guarantee"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "తెలుగుదేశం బర్ కమిటీ అధ్యక్షుడు",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party Committee President"
+    },
+    {
+     "name": "ప్రకాశం జిల్లా కొండపి నియోజకవర్గం పొన్నలూరు మండలం పెదవెంకన్నపాలెం",
+     "type": "Place",
+     "english_name": "Pedavenkannapalem, Ponnaluru Mandal, Kondapi Constituency, Prakasam District"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తుకు గ్యారెంటీ",
+     "evidence": "భవిష్యత్తుకు గ్యారెంటీ - ఇది బాబు గ్యారెంటీ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b30aca4177c841bd14058e3f62b0ee0ba4dd37d0": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "భవిష్యత్తు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": "Future Guarantee"
+    },
+    {
+     "name": "TRuS-జనసేనల సంయుక్త పార్టీ",
+     "type": "Party",
+     "english_name": "TRS-Janasena Alliance"
+    },
+    {
+     "name": "మంచే సుమదేవి",
+     "type": "Person",
+     "english_name": "Manche Sumadevi"
+    },
+    {
+     "name": "పశ్చిమగోదావరి",
+     "type": "Place",
+     "english_name": "West Godavari"
+    },
+    {
+     "name": "పాలకొల్లు",
+     "type": "Place",
+     "english_name": "Palakollu"
+    },
+    {
+     "name": "తెలుగుదేశం బాత్ కమిటీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Bath Committee"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "మేమిద్దరం 'భవిష్యత్తు గ్యారెంటీ'లోని వాగ్దానాలను అమలుచేయడంతో పాటు"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "మేమిద్దరం 'భవిష్యత్తు గ్యారెంటీ'లోని వాగ్దానాలను అమలుచేయడంతో పాటు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "TRuS-జనసేనల సంయుక్త పార్టీ",
+     "evidence": "2024లో టీఆర్ఎస్-జనసేనల సంయుక్త పార్టీ అధికారంలోకి వచ్చేక మేమిద్దరం"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MEMBER_OF",
+     "target": "TRuS-జనసేనల సంయుక్త పార్టీ",
+     "evidence": "2024లో టీఆర్ఎస్-జనసేనల సంయుక్త పార్టీ అధికారంలోకి వచ్చేక మేమిద్దరం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "36592bd44352b077ca3e9c098883357d01d52689": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "02c64e1ecacd3af0e9ab73e84080c63d5cf4dc37": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "04055296335e62a29c0c44bf54809b4e78193595": {
+   "entities": [
+    {
+     "name": "భవిష్యత్తుకు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": "Bhavishyatthu Ki Guarantee"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "R. Namburi Gir",
+     "type": "Person",
+     "english_name": "R. Namburi Gir"
+    },
+    {
+     "name": "George",
+     "type": "Person",
+     "english_name": "George"
+    },
+    {
+     "name": "మహాశక్తి",
+     "type": "Scheme",
+     "english_name": "Mahashakti"
+    },
+    {
+     "name": "ఆదర్శ నిధి",
+     "type": "Scheme",
+     "english_name": "Adarsha Nidhi"
+    },
+    {
+     "name": "తల్లికి పంచడం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "అన్నదాత",
+     "type": "Scheme",
+     "english_name": "Annadata"
+    },
+    {
+     "name": "యువగకం",
+     "type": "Scheme",
+     "english_name": "Yuva Galam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తుకు గ్యారెంటీ",
+     "evidence": "భవిష్యత్తుకు గ్యారెంటీ - ఇది బాబు గ్యారెంటీ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "255ec092b8cc8bef8128dfa9a452d5a4bcd29214": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "పవన్ కబ్జా",
+     "type": "Person",
+     "english_name": "Pawan Kabbza"
+    },
+    {
+     "name": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "type": "Party",
+     "english_name": "TDP-Janasena Alliance"
+    },
+    {
+     "name": "భవిష్యత్తు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": "Future Guarantee"
+    },
+    {
+     "name": "బెటూన్ సాగి భూషకం పెద్ది",
+     "type": "Person",
+     "english_name": "Betun Sagi Bhushakam Peddi"
+    },
+    {
+     "name": "బేటం నల్లి నాగిరెడ్డి",
+     "type": "Person",
+     "english_name": "Betam Nalli Nagireddy"
+    },
+    {
+     "name": "శ్రీమనోరు",
+     "type": "Place",
+     "english_name": "Srimannur"
+    },
+    {
+     "name": "కెర్కులు",
+     "type": "Place",
+     "english_name": "Kerkulu"
+    },
+    {
+     "name": "కోయమూరు",
+     "type": "Place",
+     "english_name": "Koyamooru"
+    },
+    {
+     "name": "ఆదిగారిది",
+     "type": "Scheme",
+     "english_name": "Adigari"
+    },
+    {
+     "name": "ఉల్లికించందనం",
+     "type": "Scheme",
+     "english_name": "Onion"
+    },
+    {
+     "name": "వ్యవసాయ",
+     "type": "Scheme",
+     "english_name": "Agriculture"
+    },
+    {
+     "name": "యునిఫారమ్",
+     "type": "Scheme",
+     "english_name": "Uniform"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "2024లో టీడీపీ-జనసేనల సంయుక్త పార్టీ అధికారంలోకి వచ్చాక మేమిద్దరం 'భవిష్యత్తు గ్యారెంటీ'లోని వాగ్దానాలను అమలుచేయడంతో పాటు"
+    },
+    {
+     "source": "పవన్ కబ్జా",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "2024లో టీడీపీ-జనసేనల సంయుక్త పార్టీ అధికారంలోకి వచ్చాక మేమిద్దరం 'భవిష్యత్తు గ్యారెంటీ'లోని వాగ్దానాలను అమలుచేయడంతో పాటు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "evidence": "2024లో టీడీపీ-జనసేనల సంయుక్త పార్టీ అధికారంలోకి వచ్చాక"
+    },
+    {
+     "source": "పవన్ కబ్జా",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ-జనసేనల సంయుక్త పార్టీ",
+     "evidence": "2024లో టీడీపీ-జనసేనల సంయుక్త పార్టీ అధికారంలోకి వచ్చాక"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2c828cb7e6824a1daa02d5cb5ebe0c8e7ccbda59": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6fa321bc2ba08bcff6c566995face374ea22f3a6": {
+   "entities": [
+    {
+     "name": "B. KARUNAKAR REDDY",
+     "type": "Person",
+     "english_name": "B. Karunakar Reddy"
+    },
+    {
+     "name": "TTD BOARD",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "Purchase Committee",
+     "type": "Organization",
+     "english_name": "Purchase Committee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "714e5489a6aab70fb6d063d7ee9fe124e5d5bc07": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Department (Procurement Wing)",
+     "type": "Organization",
+     "english_name": "Marketing Department (Procurement Wing)"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "Laddu prasadams",
+     "type": "Scheme",
+     "english_name": "Laddu prasadams"
+    },
+    {
+     "name": "e-procurement platform of AP",
+     "type": "Organization",
+     "english_name": "e-procurement platform of AP"
+    },
+    {
+     "name": "National Dairies",
+     "type": "Organization",
+     "english_name": "National Dairies"
+    },
+    {
+     "name": "AP State Dairies",
+     "type": "Organization",
+     "english_name": "AP State Dairies"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "FSSAI license",
+     "type": "Scheme",
+     "english_name": "FSSAI license"
+    },
+    {
+     "name": "ISO22000 certification",
+     "type": "Scheme",
+     "english_name": "ISO22000 certification"
+    },
+    {
+     "name": "Agmark certification",
+     "type": "Scheme",
+     "english_name": "Agmark certification"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala",
+     "evidence": "for a quantity of 10,00,000 kgs for 4 months period tenders are being invited."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "959dd18830ac295714731ed6723b3c76b701e022": {
+   "entities": [
+    {
+     "name": "Hon’ble TTD Board Members",
+     "type": "Organization",
+     "english_name": "Hon'ble TTD Board Members"
+    },
+    {
+     "name": "Executive Officer",
+     "type": "Person",
+     "english_name": "Executive Officer"
+    },
+    {
+     "name": "ghee Committee members",
+     "type": "Organization",
+     "english_name": "ghee Committee members"
+    },
+    {
+     "name": "Dairy experts",
+     "type": "Organization",
+     "english_name": "Dairy experts"
+    },
+    {
+     "name": "National tenders",
+     "type": "Scheme",
+     "english_name": "National tenders"
+    },
+    {
+     "name": "1500 kms radius tenders",
+     "type": "Scheme",
+     "english_name": "1500 kms radius tenders"
+    },
+    {
+     "name": "A.P tenders",
+     "type": "Scheme",
+     "english_name": "A.P tenders"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

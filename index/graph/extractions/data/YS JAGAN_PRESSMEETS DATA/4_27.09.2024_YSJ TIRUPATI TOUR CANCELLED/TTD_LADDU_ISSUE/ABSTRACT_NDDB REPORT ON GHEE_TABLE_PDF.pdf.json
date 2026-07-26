@@ -1,0 +1,46 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d50034d9fac2bc7469d4002f1b9245e9948e5ecb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f3d308f9e72650e5598614273bdbdd79f7138427": {
+   "entities": [
+    {
+     "name": "NDDB CALF report",
+     "type": "Organization",
+     "english_name": "NDDB CALF report"
+    },
+    {
+     "name": "Annexure 1",
+     "type": "Organization",
+     "english_name": "Annexure 1"
+    },
+    {
+     "name": "S-Value",
+     "type": "Scheme",
+     "english_name": "S-Value"
+    },
+    {
+     "name": "Lauric acid levels",
+     "type": "Claim",
+     "english_name": "Lauric acid levels"
+    },
+    {
+     "name": "Coconut oil",
+     "type": "Organization",
+     "english_name": "Coconut oil"
+    },
+    {
+     "name": "Vegetable oils",
+     "type": "Organization",
+     "english_name": "Vegetable oils"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

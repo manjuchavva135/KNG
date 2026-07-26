@@ -1,0 +1,79 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a285fdb2ef9dc82a86eb4d5fc5abda868affb502": {
+   "entities": [
+    {
+     "name": "తెలంగాణ రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Telangana State Government"
+    },
+    {
+     "name": "Telugu Desam Party",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "జగన్ మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "విజయ రాజశేఖర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Vijaya Rajasekhara Reddy"
+    },
+    {
+     "name": "AndhraPradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a1e8161d3d5d2c742331d2cbee6103737cd94fed": {
+   "entities": [
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Y. S. Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Vipin Rao Saltkar Reddy",
+     "type": "Person",
+     "english_name": "Vipin Rao Saltkar Reddy"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "సోషల్ మీడియా",
+     "type": "Organization",
+     "english_name": "Social Media"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Vipin Rao Saltkar Reddy",
+     "relation": "MEMBER_OF",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "45 Vipin Rao Saltkar Reddy"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

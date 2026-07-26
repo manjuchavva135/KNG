@@ -1,0 +1,158 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8a45f58314ce049bbbe18849eb4465b2eb6b0f43": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a3a6cba389bbc5a0f446f89598bac47122157501": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8bcaa5fd5726f2919f667c7647a4bd825c5bc8ab": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cf8ac4a911c7f05ef61cbcdaa25b6e4a146a0c19": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aa82575c925da6df32531510219c9fc5ccd4e63c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b2f0932fe8086b8f5ce41d7fd1a5e5bd01a3505d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b1fffdb75129e41a0cdc89cc28a316b3a3d0f181": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fb9a6b00cb20b74a79863817791769216f3b5118": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "583157dc9e04cb3387a8aadd4d4fbfdb3bf31588": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cad8860847ab5970e999d34861dd052d1008d4ea": {
+   "entities": [
+    {
+     "name": "SMS LABS SERVICES PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": "SMS LABS SERVICES PRIVATE LIMITED"
+    },
+    {
+     "name": "M/s. A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "M/s. A R Dairy Food Private Limited"
+    },
+    {
+     "name": "Raaj Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Raaj Cow Ghee"
+    },
+    {
+     "name": "Beta Sitosterol",
+     "type": "Claim",
+     "english_name": "Beta Sitosterol"
+    },
+    {
+     "name": "Food Safety and Standards Regulation 2011",
+     "type": "Organization",
+     "english_name": "Food Safety and Standards Regulation 2011"
+    },
+    {
+     "name": "A. Manikandan",
+     "type": "Person",
+     "english_name": "A. Manikandan"
+    },
+    {
+     "name": "Chennai",
+     "type": "Place",
+     "english_name": "Chennai"
+    }
+   ],
+   "relations": [
+    {
+     "source": "SMS LABS SERVICES PRIVATE LIMITED",
+     "relation": "LOCATED_IN",
+     "target": "Chennai",
+     "evidence": "Laboratory Address: 39/6, Thiruvallur High Road, Puduchatram Post, Thirumazhisai Via, Poonamallee Taluk, Chennai - 600124."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "94648bd85844c1952973ecaedd968decdcb4bc97": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fa850c0796d4b7908cb75cec8a89ca5a22117231": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "23fbad50167d2175ab3563de9837a32398e6684b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9b10e2d30451909613258fa29e63cab8e9f92aed": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9b9c7cf445e2b158dd27d0c1b5c6cf5a54219c40": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cabc5092fac6136197d342aea7c67fb0fa520ce8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5eaaa131fbbe965c450dd3f825a68fa97db0882d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "12fec2cc0ff8b0fe8ad6b1df516c5086f987dd0c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8ca6bbf232409e7dd5e8092006208deb035c3f26": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1b23480bdb853284228ae51f849792f4db93d5e1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "743bdf75b8cddff2b0ab7cfbe2ce98377d87b8ae": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8878a1027afe9392d348a0ac194c301b1b944e0f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

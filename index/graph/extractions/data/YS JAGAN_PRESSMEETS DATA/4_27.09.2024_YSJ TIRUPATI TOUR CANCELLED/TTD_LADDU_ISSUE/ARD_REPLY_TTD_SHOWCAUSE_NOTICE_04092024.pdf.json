@@ -1,0 +1,182 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "24910a5e5b7f6e31d7c24b932ec35c8992646e56": {
+   "entities": [
+    {
+     "name": "Raaj® Milk",
+     "type": "Organization",
+     "english_name": "Raaj Milk"
+    },
+    {
+     "name": "A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A R Dairy Food Private Limited"
+    },
+    {
+     "name": "TSD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "Section 76",
+     "type": "Scheme",
+     "english_name": "Section 76"
+    },
+    {
+     "name": "NABL",
+     "type": "Organization",
+     "english_name": "NABL"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0ac7c553ee88962bc9ac5f07a50f460eedecb0e8": {
+   "entities": [
+    {
+     "name": "Raaj® Milk",
+     "type": "Organization",
+     "english_name": "Raaj Milk"
+    },
+    {
+     "name": "A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A R Dairy Food Private Limited"
+    },
+    {
+     "name": "General Manager ( Procurement)",
+     "type": "Person",
+     "english_name": "General Manager (Procurement)"
+    },
+    {
+     "name": "Marketing Department",
+     "type": "Organization",
+     "english_name": "Marketing Department"
+    },
+    {
+     "name": "Office of the General Manager",
+     "type": "Organization",
+     "english_name": "Office of the General Manager"
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanams",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "Show Cause Notice No. TTD-34022 (31)/250/2023/PROCUREMENT/SEC-TTD",
+     "type": "Claim",
+     "english_name": "Show Cause Notice No. TTD-34022 (31)/250/2023/PROCUREMENT/SEC-TTD"
+    },
+    {
+     "name": "ghee supply specifications",
+     "type": "Issue",
+     "english_name": "ghee supply specifications"
+    },
+    {
+     "name": "NDDB lab",
+     "type": "Organization",
+     "english_name": "NDDB lab"
+    },
+    {
+     "name": "NABL-accredited lab",
+     "type": "Organization",
+     "english_name": "NABL-accredited lab"
+    },
+    {
+     "name": "Tanker No. AP26TC 4779",
+     "type": "Organization",
+     "english_name": "Tanker No. AP26TC 4779"
+    },
+    {
+     "name": "Tanker No. TN02 BA 9459",
+     "type": "Organization",
+     "english_name": "Tanker No. TN02 BA 9459"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "983d052a9a0ee7939c4ec466b0df242e09a474a4": {
+   "entities": [
+    {
+     "name": "A.R. Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A.R. Dairy Food Private Limited"
+    },
+    {
+     "name": "R. Rajasekaran",
+     "type": "Person",
+     "english_name": "R. Rajasekaran"
+    },
+    {
+     "name": "NABL Lab Reports",
+     "type": "Claim",
+     "english_name": "NABL Lab Reports"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "blacklisting",
+     "type": "Claim",
+     "english_name": "blacklisting"
+    },
+    {
+     "name": "Clause 57 of the agreement",
+     "type": "Scheme",
+     "english_name": "Clause 57 of the agreement"
+    }
+   ],
+   "relations": [
+    {
+     "source": "R. Rajasekaran",
+     "relation": "MAKES_CLAIM",
+     "target": "NABL Lab Reports",
+     "evidence": "Discrepancies in NABL Lab Reports"
+    },
+    {
+     "source": "R. Rajasekaran",
+     "relation": "MAKES_CLAIM",
+     "target": "blacklisting",
+     "evidence": "we strongly object to the proposed blacklisting and forfeiture of deposits and penalties"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5866505ac4fe76d1cb83a47a9a064be3233131dd": {
+   "entities": [
+    {
+     "name": "A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A R Dairy Food Private Limited"
+    },
+    {
+     "name": "Raaj",
+     "type": "Organization",
+     "english_name": "Raaj Milk"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

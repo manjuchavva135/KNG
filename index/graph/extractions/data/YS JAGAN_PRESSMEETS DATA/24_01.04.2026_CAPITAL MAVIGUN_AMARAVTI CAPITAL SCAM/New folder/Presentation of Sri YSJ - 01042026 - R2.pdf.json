@@ -1,0 +1,300 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e4205375e6c4e42502358175efbd5e6e5af2d708": {
+   "entities": [
+    {
+     "name": "Integrated Government Complex",
+     "type": "Organization",
+     "english_name": "Integrated Government Complex"
+    },
+    {
+     "name": "General Administration Department",
+     "type": "Organization",
+     "english_name": "General Administration Department"
+    },
+    {
+     "name": "Andhra Pradesh State Secretariat",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State Secretariat"
+    },
+    {
+     "name": "Head of Department (HoD)",
+     "type": "Organization",
+     "english_name": "Head of Department (HoD)"
+    },
+    {
+     "name": "Andhra Pradesh Capital Region Development Authority (APCRDA)",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Capital Region Development Authority (APCRDA)"
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Capital City",
+     "type": "Place",
+     "english_name": "Capital City"
+    },
+    {
+     "name": "The Hindu",
+     "type": "Organization",
+     "english_name": "The Hindu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Integrated Government Complex",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Iconic Integrated Amaravati Government Complex with five towers to come up in 32 acres"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "528d935c47e463b3e824849ee15aad91cf7395cb": {
+   "entities": [
+    {
+     "name": "CAPITAL MAVIGUN_AMARAVTI CAPITAL SCAM",
+     "type": "Issue",
+     "english_name": "Capital Mavigun Amaravati Capital Scam"
+    },
+    {
+     "name": "Rs. 3,514 crores",
+     "type": "Claim",
+     "english_name": "Rs. 3,514 crores"
+    },
+    {
+     "name": "Rs. 3,673 crores",
+     "type": "Claim",
+     "english_name": "Rs. 3,673 crores"
+    },
+    {
+     "name": "Rs. 681 crores",
+     "type": "Claim",
+     "english_name": "Rs. 681 crores"
+    },
+    {
+     "name": "Rs. 2,316 cr.",
+     "type": "Claim",
+     "english_name": "Rs. 2,316 cr."
+    },
+    {
+     "name": "Rs. 1,053 cr.",
+     "type": "Claim",
+     "english_name": "Rs. 1,053 cr."
+    },
+    {
+     "name": "Rs. 7,723.1 crores",
+     "type": "Claim",
+     "english_name": "Rs. 7,723.1 crores"
+    },
+    {
+     "name": "Rs. 14,795",
+     "type": "Claim",
+     "english_name": "Rs. 14,795"
+    },
+    {
+     "name": "APCRDA",
+     "type": "Organization",
+     "english_name": "APCRDA"
+    },
+    {
+     "name": "Palavagu",
+     "type": "Place",
+     "english_name": "Palavagu"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "GO RT 316 dt. 16/03/2026",
+     "type": "Organization",
+     "english_name": "GO RT 316 dt. 16/03/2026"
+    },
+    {
+     "name": "GO RT 628 dt. 26/06/2025",
+     "type": "Organization",
+     "english_name": "GO RT 628 dt. 26/06/2025"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a28f7586a55ae137c2f304b96767473e60413782": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d288e896f0866cc7ee9838e40f9d3bce29c884de": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8159ad8bb2bc7adac52224577ef50898d5c47ce4": {
+   "entities": [
+    {
+     "name": "Municipal Administration & Urban Development (CRDA) Department",
+     "type": "Organization",
+     "english_name": "Municipal Administration & Urban Development (CRDA) Department"
+    },
+    {
+     "name": "G.O.RT.No. 628",
+     "type": "Organization",
+     "english_name": "G.O.RT.No. 628"
+    },
+    {
+     "name": "Resolution No.554/2025",
+     "type": "Organization",
+     "english_name": "Resolution No.554/2025"
+    },
+    {
+     "name": "APCRDA Authority Meeting",
+     "type": "Organization",
+     "english_name": "APCRDA Authority Meeting"
+    },
+    {
+     "name": "Commissioner, APCRDA, Vijayawada",
+     "type": "Person",
+     "english_name": "Commissioner, APCRDA, Vijayawada"
+    },
+    {
+     "name": "Amaravati Government Complex area",
+     "type": "Place",
+     "english_name": "Amaravati Government Complex area"
+    },
+    {
+     "name": "Amaravati Capital City",
+     "type": "Place",
+     "english_name": "Amaravati Capital City"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": "Finance Department"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Municipal Administration & Urban Development (CRDA) Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh"
+    },
+    {
+     "source": "G.O.RT.No. 628",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh"
+    },
+    {
+     "source": "Amaravati Government Complex area",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati Capital City",
+     "evidence": "Amaravati Government Complex area in Amaravati Capital City"
+    },
+    {
+     "source": "Amaravati Capital City",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Amaravati Capital City, Andhra Pradesh"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "79614c29b495537c045233f5a319981361f2d5e9": {
+   "entities": [
+    {
+     "name": "Municipal Administration & Urban Development (CRDA) Department",
+     "type": "Organization",
+     "english_name": "Municipal Administration & Urban Development (CRDA) Department"
+    },
+    {
+     "name": "Rs.2316.88 Crores",
+     "type": "Claim",
+     "english_name": "Rs.2316.88 Crores"
+    },
+    {
+     "name": "MEP works of “ High side Electrical, HVAC, Fire Protection System, Lifts, Fire Alarm & Public Address System and Plumbing works in Integrated Andhra Pradesh State Secretariat & HoD Offices (GAD Tower, Towers 3 & 4 and Towers 1 & 2) in Amaravati Government Complex, Andhra Pradesh",
+     "type": "Scheme",
+     "english_name": "MEP works of “ High side Electrical, HVAC, Fire Protection System, Lifts, Fire Alarm & Public Address System and Plumbing works in Integrated Andhra Pradesh State Secretariat & HoD Offices (GAD Tower, Towers 3 & 4 and Towers 1 & 2) in Amaravati Government Complex, Andhra Pradesh"
+    },
+    {
+     "name": "G.O.Rt.No.316",
+     "type": "Organization",
+     "english_name": "G.O.Rt.No.316"
+    },
+    {
+     "name": "Resolution No.638/2026 of 59th APCRDA Authority Meeting",
+     "type": "Organization",
+     "english_name": "Resolution No.638/2026 of 59th APCRDA Authority Meeting"
+    },
+    {
+     "name": "Commissioner, APCRDA, Vijayawada",
+     "type": "Person",
+     "english_name": "Commissioner, APCRDA, Vijayawada"
+    },
+    {
+     "name": "Managing Director, Amaravati Growth and Infrastructure Corporation Limited (AGICL), Vijayawada",
+     "type": "Person",
+     "english_name": "Managing Director, Amaravati Growth and Infrastructure Corporation Limited (AGICL), Vijayawada"
+    },
+    {
+     "name": "S SURESH KUMAR",
+     "type": "Person",
+     "english_name": "S SURESH KUMAR"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Amaravati Government Complex",
+     "type": "Place",
+     "english_name": "Amaravati Government Complex"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Municipal Administration & Urban Development (CRDA) Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Municipal Administration & Urban Development (CRDA) Department – Administrative sanction for an amount of Rs.2316.88 Crores towards the MEP works of “ High side Electrical, HVAC, Fire Protection System, Lifts, Fire Alarm & Public Address System and Plumbing works in Integrated Andhra Pradesh State Secretariat & HoD Offices (GAD Tower, Towers 3 & 4 and Towers 1 & 2) in Amaravati Government Complex,"
+    },
+    {
+     "source": "Commissioner, APCRDA, Vijayawada",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs.2316.88 Crores",
+     "evidence": "the Government hereby accords administrative sanction for an amount of Rs.2316.88 Crores towards the MEP works of “ High side Electrical, HVAC, Fire Protection System, Lifts, Fire Alarm & Public Address System and Plumbing works in Integrated Andhra Pradesh State Secretariat & HoD Offices (GAD Tower, Towers 3 & 4 and Towers 1 & 2) in Amaravati Government Complex, Andhra Pradesh”"
+    },
+    {
+     "source": "S SURESH KUMAR",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs.2316.88 Crores",
+     "evidence": "the Government hereby accords administrative sanction for an amount of Rs.2316.88 Crores towards the MEP works of “ High side Electrical, HVAC, Fire Protection System, Lifts, Fire Alarm & Public Address System and Plumbing works in Integrated Andhra Pradesh State Secretariat & HoD Offices (GAD Tower, Towers 3 & 4 and Towers 1 & 2) in Amaravati Government Complex, Andhra Pradesh”"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

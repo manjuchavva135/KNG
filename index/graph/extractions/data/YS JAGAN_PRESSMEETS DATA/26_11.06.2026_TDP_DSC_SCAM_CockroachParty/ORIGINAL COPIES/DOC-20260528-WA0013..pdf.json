@@ -1,0 +1,651 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "583e6b494bba497b54906253bd205c38eca63e97": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "70b3c9041503a3d56cd6047237f1e270f074a139": {
+   "entities": [
+    {
+     "name": "YOUTH SERVICES & SPORTS",
+     "type": "Organization",
+     "english_name": "Youth Services & Sports Department"
+    },
+    {
+     "name": "Sports Policy",
+     "type": "Scheme",
+     "english_name": "Sports Policy"
+    },
+    {
+     "name": "G.O.Ms.No.74",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 74"
+    },
+    {
+     "name": "G.O.Ms.No.84",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 84"
+    },
+    {
+     "name": "VC&MD, SAAP",
+     "type": "Organization",
+     "english_name": "Vice Chairman & Managing Director, Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "APPSC",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    }
+   ],
+   "relations": [
+    {
+     "source": "APPSC",
+     "relation": "LOCATED_IN",
+     "target": "Hyderabad",
+     "evidence": "addressed to Secretary, APPSC, Nampally, Hyderabad."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fe34ae8d44e5eb670cf638b7a13e30ac0ab86fea": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d5e146420183dfd956080beec1eb98015f77c229": {
+   "entities": [
+    {
+     "name": "Annexure-II",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Annexure-I",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SSC Board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CBSE Board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ICSE Board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "School",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sports Association",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh State and Subordinate Service Rules, 1996",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Special Rules",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7c9cad5945f268f8213619748c62397db52babf6": {
+   "entities": [
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Committee",
+     "type": "Organization",
+     "english_name": "Committee"
+    },
+    {
+     "name": "Youth Advancement, Tourism and Culture (Sports) Department",
+     "type": "Organization",
+     "english_name": "Youth Advancement, Tourism and Culture (Sports) Department"
+    },
+    {
+     "name": "Recruiting Agency / Appointing Authority",
+     "type": "Organization",
+     "english_name": "Recruiting Agency / Appointing Authority"
+    },
+    {
+     "name": "Andhra Pradesh Olympic Association",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Olympic Association"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d602426f5513f57a76388435d66b2ea56a8399c4": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh State and Subordinate Service Rules, 1996",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sports Quota",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "APPSC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Selection Committees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh (Regulation of Appointments to Public Services and Rationalization of Staff Pattern and Pay Structure), Act, 1994 (Act 2/1994)",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0f0979919138dbd96137616784692fb26359e70b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9ddc124f7862c28cc03ab49d8289792959add530": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "104df9153f287e23d5bffabfee4650f212da3408": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "775eb4cdde221b5b34b6334228d1a3c662b5b3f6": {
+   "entities": [
+    {
+     "name": "General Administration (Ser-D) Department",
+     "type": "Organization",
+     "english_name": "General Administration (Ser-D) Department"
+    },
+    {
+     "name": "Andhra Pradesh State and Subordinate Services Rules, 1996",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State and Subordinate Services Rules, 1996"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission Regulations, 1963",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission Regulations, 1963"
+    },
+    {
+     "name": "Andhra Pradesh (Regulation of Appointments to Public services and Rationalisation of Staff Pattern and Pay Structure) Act, 1994 (Act 2 of 1994)",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh (Regulation of Appointments to Public services and Rationalisation of Staff Pattern and Pay Structure) Act, 1994"
+    },
+    {
+     "name": "Andhra Pradesh State and Subordinate Rules 1996",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State and Subordinate Rules 1996"
+    },
+    {
+     "name": "appointing authorities",
+     "type": "Organization",
+     "english_name": "appointing authorities"
+    },
+    {
+     "name": "Sports Reservation",
+     "type": "Scheme",
+     "english_name": "Sports Reservation"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "Finance (PC.III) Department",
+     "type": "Organization",
+     "english_name": "Finance (PC.III) Department"
+    },
+    {
+     "name": "VASUDHA MISHRA",
+     "type": "Person",
+     "english_name": "Vasudha Mishra"
+    },
+    {
+     "name": "Commissioner Printing, Stationery & Stores purchase",
+     "type": "Organization",
+     "english_name": "Commissioner Printing, Stationery & Stores purchase"
+    },
+    {
+     "name": "A.P. Gazette",
+     "type": "Organization",
+     "english_name": "A.P. Gazette"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fe6dd440a9682c76c43d5945d717c527a21b6919": {
+   "entities": [
+    {
+     "name": "ANNEXURE TO G.O.Ms.No.74, YOUTH ADVANCEMENT, TOURISM & CULTURE (SPORTS) DEPARTMENT Dated:09-08-2012",
+     "type": "Organization",
+     "english_name": "Annexure to G.O.Ms.No.74, Youth Advancement, Tourism & Culture (Sports) Department"
+    },
+    {
+     "name": "LIST OF RECOGNISED SPORTS DISCIPLINES FOR TWO PERCENT (2%) RESERVATION IN DIRECT RECRUITMENT IN GOVERNMENT DEPARTMENTS / GOVERNMENT INSTITUTIONS",
+     "type": "Scheme",
+     "english_name": "List of Recognised Sports Disciplines for Two Percent (2%) Reservation in Direct Recruitment in Government Departments / Government Institutions"
+    },
+    {
+     "name": "FOOTBALL",
+     "type": "Scheme",
+     "english_name": "Football"
+    },
+    {
+     "name": "HOCKEY",
+     "type": "Scheme",
+     "english_name": "Hockey"
+    },
+    {
+     "name": "VOLLEYBALL",
+     "type": "Scheme",
+     "english_name": "Volleyball"
+    },
+    {
+     "name": "HANDBALL",
+     "type": "Scheme",
+     "english_name": "Handball"
+    },
+    {
+     "name": "BASKET BALL",
+     "type": "Scheme",
+     "english_name": "Basketball"
+    },
+    {
+     "name": "TENNIS",
+     "type": "Scheme",
+     "english_name": "Tennis"
+    },
+    {
+     "name": "TABLE TENNIS",
+     "type": "Scheme",
+     "english_name": "Table Tennis"
+    },
+    {
+     "name": "SHUTTLE BADMINTON",
+     "type": "Scheme",
+     "english_name": "Shuttle Badminton"
+    },
+    {
+     "name": "KABBADI",
+     "type": "Scheme",
+     "english_name": "Kabbadi"
+    },
+    {
+     "name": "ATHLETICS",
+     "type": "Scheme",
+     "english_name": "Athletics"
+    },
+    {
+     "name": "SWIMMING",
+     "type": "Scheme",
+     "english_name": "Swimming"
+    },
+    {
+     "name": "GYMNASTICS",
+     "type": "Scheme",
+     "english_name": "Gymnastics"
+    },
+    {
+     "name": "WEIGHTLIFTING",
+     "type": "Scheme",
+     "english_name": "Weightlifting"
+    },
+    {
+     "name": "WRESTLING",
+     "type": "Scheme",
+     "english_name": "Wrestling"
+    },
+    {
+     "name": "BOXING",
+     "type": "Scheme",
+     "english_name": "Boxing"
+    },
+    {
+     "name": "CYCLING",
+     "type": "Scheme",
+     "english_name": "Cycling"
+    },
+    {
+     "name": "ROWING",
+     "type": "Scheme",
+     "english_name": "Rowing"
+    },
+    {
+     "name": "SHOOTING",
+     "type": "Scheme",
+     "english_name": "Shooting"
+    },
+    {
+     "name": "FENCING",
+     "type": "Scheme",
+     "english_name": "Fencing"
+    },
+    {
+     "name": "ROLLER SKATING",
+     "type": "Scheme",
+     "english_name": "Roller Skating"
+    },
+    {
+     "name": "SAILING / YATCHING",
+     "type": "Scheme",
+     "english_name": "Sailing / Yachting"
+    },
+    {
+     "name": "ARCHERY",
+     "type": "Scheme",
+     "english_name": "Archery"
+    },
+    {
+     "name": "CRICKET",
+     "type": "Scheme",
+     "english_name": "Cricket"
+    },
+    {
+     "name": "CHESS",
+     "type": "Scheme",
+     "english_name": "Chess"
+    },
+    {
+     "name": "KHO-KHO",
+     "type": "Scheme",
+     "english_name": "Kho-Kho"
+    },
+    {
+     "name": "JUDO",
+     "type": "Scheme",
+     "english_name": "Judo"
+    },
+    {
+     "name": "TEAKWANDO",
+     "type": "Scheme",
+     "english_name": "Teakwando"
+    },
+    {
+     "name": "SOFTBALL",
+     "type": "Scheme",
+     "english_name": "Softball"
+    },
+    {
+     "name": "BODY BUILDING (Uniform Services like Police, Excise etc)",
+     "type": "Scheme",
+     "english_name": "Body Building (Uniform Services like Police, Excise etc)"
+    },
+    {
+     "name": "VASUDHA MISHRA",
+     "type": "Person",
+     "english_name": "Vasudha Mishra"
+    },
+    {
+     "name": "PRINCIPAL SECRETARY TO GOVERNMENT",
+     "type": "Organization",
+     "english_name": "Principal Secretary to Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d896351f1ba063ae0c228164a9aee6a6d0566e39": {
+   "entities": [
+    {
+     "name": "ANNEXURE TO G.O.Ms.No.74, YOUTH ADVANCEMENT, TOURISM & CULTURE (SPORTS) DEPARTMENT Dated:09-08-2012",
+     "type": "Organization",
+     "english_name": "Annexure to G.O.Ms.No.74, Youth Advancement, Tourism & Culture (Sports) Department"
+    },
+    {
+     "name": "FORM - 1",
+     "type": "Organization",
+     "english_name": "Form - 1"
+    },
+    {
+     "name": "NATIONAL FEDERATION/NATIONAL ASSOCIATION OF ________",
+     "type": "Organization",
+     "english_name": "National Federation/National Association"
+    },
+    {
+     "name": "Shri/Smt./Kumari ________________________Son/Wife/Daughter of Shri ____________________________________ resident of (complete address) ____________________________________represented the Country in the game/event of ____________________ in ____________________ Competition/ Tournament held at ____________________ from ____________________ to __________",
+     "type": "Person",
+     "english_name": "Shri/Smt./Kumari ________________________"
+    },
+    {
+     "name": "VASUDHA MISHRA",
+     "type": "Person",
+     "english_name": "Vasudha Mishra"
+    },
+    {
+     "name": "PRINCIPAL SECRETARY TO GOVERNMENT",
+     "type": "Organization",
+     "english_name": "Principal Secretary to Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a3000eb8a4f3c331eda51bbd04d9ea5454c41328": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "542f8e1cc48b0d69357a0dded89d4c64772f7516": {
+   "entities": [
+    {
+     "name": "FORM - 3",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "University of _________________________",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shri/Smt./Kumari ________________________",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Shri ____________________________________",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "VASUDHA MISHRA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PRINCIPAL SECRETARY TO GOVERNMENT",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6e23b05c0fc055356749934a9d38dbbb3cdc1c20": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ff304960a9993d63ad76338cd135610391595299": {
+   "entities": [
+    {
+     "name": "FORM - 4",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Educational Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Govt. of A.P.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Sports Development officers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Sports Authority",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shri/Smt./Kumari ________________________Son/Wife/Daughter of Shri ________________________ resident of (complete address)____________________________________",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "National Games for School children",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Regional & State level",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Last Grade Service",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Govt. Institutions",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Place",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Signature",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Date",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Name",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Designation",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Address",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Seal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Note",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Educational Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "District Sports Development Officer",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "VASUDHA MISHRA",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PRINCIPAL SECRETARY TO GOVERNMENT",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6a82a14f00c4629f13d468bbe5417f6b68df5748": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

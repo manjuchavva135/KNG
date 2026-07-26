@@ -1,0 +1,103 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d0788e4c5d9c44076b4e34a6e9388568ca976249": {
+   "entities": [
+    {
+     "name": "Directorate of Enforcement (ED)",
+     "type": "Organization",
+     "english_name": "Directorate of Enforcement"
+    },
+    {
+     "name": "Hyderabad Zonal Office",
+     "type": "Organization",
+     "english_name": "Hyderabad Zonal Office"
+    },
+    {
+     "name": "Andhra Pradesh State Skill Development Corporation (APSSDC)",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State Skill Development Corporation"
+    },
+    {
+     "name": "Siemens Project",
+     "type": "Organization",
+     "english_name": "Siemens Project"
+    },
+    {
+     "name": "Prevention of Money laundering Act (PMLA), 2002",
+     "type": "Scheme",
+     "english_name": "Prevention of Money laundering Act"
+    },
+    {
+     "name": "AP CID",
+     "type": "Organization",
+     "english_name": "AP CID"
+    },
+    {
+     "name": "M/s Designtech Systems Private Limited (DTSPL)",
+     "type": "Organization",
+     "english_name": "Designtech Systems Private Limited"
+    },
+    {
+     "name": "Vikas Vinayak Khanvelkar",
+     "type": "Person",
+     "english_name": "Vikas Vinayak Khanvelkar"
+    },
+    {
+     "name": "Soumyadri Sekhar Bose alias Suman Bose",
+     "type": "Person",
+     "english_name": "Soumyadri Sekhar Bose"
+    },
+    {
+     "name": "Mukul Chandra Agarwal",
+     "type": "Person",
+     "english_name": "Mukul Chandra Agarwal"
+    },
+    {
+     "name": "Suresh Goyal",
+     "type": "Person",
+     "english_name": "Suresh Goyal"
+    },
+    {
+     "name": "ED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "M/s DTSPL",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ld. Adjudicating Authority (PMLA)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Suman Bose",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble Special Court (PMLA)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Hon’ble Special Court (PMLA)",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam",
+     "evidence": "Hon’ble Special Court (PMLA), Visakhapatnam"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

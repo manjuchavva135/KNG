@@ -1,0 +1,180 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2d910703fdeafba505f4d8c46a37aa23480317ab": {
+   "entities": [
+    {
+     "name": "నెల నెలా ఇంటివద్దకే రూ.4,000ల పింఛన్",
+     "type": "Scheme",
+     "english_name": "Monthly Home Pension of Rs.4,000"
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "type": "Scheme",
+     "english_name": "20 Lakh Employment Opportunities for Youth"
+    },
+    {
+     "name": "నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment Allowance of Rs.3,000 per month"
+    },
+    {
+     "name": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Scheme",
+     "english_name": "Rs.15,000 per student per year"
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం",
+     "type": "Scheme",
+     "english_name": "Rs.20,000 annual financial assistance for each farmer"
+    },
+    {
+     "name": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "type": "Scheme",
+     "english_name": "3 free gas cylinders per household per year"
+    },
+    {
+     "name": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "type": "Scheme",
+     "english_name": "Rs.1,500 per month for each woman"
+    },
+    {
+     "name": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "type": "Scheme",
+     "english_name": "Free bus travel for women"
+    },
+    {
+     "name": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్",
+     "type": "Scheme",
+     "english_name": "Pension at age 50 for BC, SC, ST, Muslim minorities"
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "type": "Party",
+     "english_name": "TDP-Jana Sena BJP Alliance"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెల నెలా ఇంటివద్దకే రూ.4,000ల పింఛన్",
+     "evidence": "నెల నెలా ఇంటివద్దకే రూ.4,000ల పింఛన్"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "evidence": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "evidence": "నెలకు రూ.3,000 నిరుద్యోగ భృతి"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "evidence": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం",
+     "evidence": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "evidence": "ప్రతి మహిళకు నెలకు రూ.1,500"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "evidence": "మహిళలకు ఉచిత బస్సు ప్రయాణం"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్",
+     "evidence": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెల నెలా ఇంటివద్దకే రూ.4,000ల పింఛన్",
+     "evidence": "నెల నెలా ఇంటివద్దకే రూ.4,000ల పింఛన్"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "evidence": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "evidence": "నెలకు రూ.3,000 నిరుద్యోగ భృతి"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "evidence": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం",
+     "evidence": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "evidence": "ప్రతి మహిళకు నెలకు రూ.1,500"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "evidence": "మహిళలకు ఉచిత బస్సు ప్రయాణం"
+    },
+    {
+     "source": "టీడీపీ-జనసేన బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్",
+     "evidence": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

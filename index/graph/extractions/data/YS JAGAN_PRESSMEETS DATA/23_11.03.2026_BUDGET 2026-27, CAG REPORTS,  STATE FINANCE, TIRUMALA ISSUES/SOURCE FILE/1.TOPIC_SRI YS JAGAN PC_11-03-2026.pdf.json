@@ -1,0 +1,847 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7ee703080db544c12be7705fc3cd7a1d61fa9fb8": {
+   "entities": [
+    {
+     "name": "Accounts Summary",
+     "type": "Organization",
+     "english_name": "Accounts Summary"
+    },
+    {
+     "name": "Revenue Expenditure",
+     "type": "Organization",
+     "english_name": "Revenue Expenditure"
+    },
+    {
+     "name": "Capital Expenditure",
+     "type": "Organization",
+     "english_name": "Capital Expenditure"
+    },
+    {
+     "name": "Loans and advances disbursed",
+     "type": "Organization",
+     "english_name": "Loans and advances disbursed"
+    },
+    {
+     "name": "Total Expenditure & Adjustments",
+     "type": "Organization",
+     "english_name": "Total Expenditure & Adjustments"
+    },
+    {
+     "name": "Revenue Receipts",
+     "type": "Organization",
+     "english_name": "Revenue Receipts"
+    },
+    {
+     "name": "State's own tax revenues",
+     "type": "Organization",
+     "english_name": "State's own tax revenues"
+    },
+    {
+     "name": "State's non-tax revenues",
+     "type": "Organization",
+     "english_name": "State's non-tax revenues"
+    },
+    {
+     "name": "Share in Central Taxes",
+     "type": "Organization",
+     "english_name": "Share in Central Taxes"
+    },
+    {
+     "name": "Grants in aid from CG",
+     "type": "Organization",
+     "english_name": "Grants in aid from CG"
+    },
+    {
+     "name": "Capital Receipts & Adjustments",
+     "type": "Organization",
+     "english_name": "Capital Receipts & Adjustments"
+    },
+    {
+     "name": "Total Receipts",
+     "type": "Organization",
+     "english_name": "Total Receipts"
+    },
+    {
+     "name": "Revenue Deficit",
+     "type": "Organization",
+     "english_name": "Revenue Deficit"
+    },
+    {
+     "name": "Fiscal Deficit",
+     "type": "Organization",
+     "english_name": "Fiscal Deficit"
+    },
+    {
+     "name": "Finance Accounts by CAG",
+     "type": "Organization",
+     "english_name": "Finance Accounts by CAG"
+    },
+    {
+     "name": "TDP alliance regime",
+     "type": "Party",
+     "english_name": "TDP alliance regime"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f94c3d1e5744f245bd1f3d3e0e4f1814d909cca3": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "MOSPI",
+     "type": "Organization",
+     "english_name": "MOSPI"
+    },
+    {
+     "name": "Union Finance Commission",
+     "type": "Organization",
+     "english_name": "Union Finance Commission"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9a1d8f9477297c5b53481b79317f829ffd9ff3a9": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Public Debt and Public Account (Direct Government Debt)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of Direct Government debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government guaranteed debt of public sector corporations (Contingent Liability)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of Government Guaranteed debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Total State Government debt and State Government guaranteed debt",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of Direct Debt & Other Contingent Liabilities",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Non-guaranteed liability of State PSU (Power sector)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of Non-Guaranteed liabilities of State PSUs",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Grand Total of liabilities including guaranteed and non-guaranteed liabilities",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liabilities increase during periods of different regimes",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CAGR of Govt. debt and guaranteed and non-guaranteed liabilities of PSUs",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fbb1efaccbd3238040956487c02cf8971d8d7bf0": {
+   "entities": [
+    {
+     "name": "Borrowings beyond Finance Commission recommendations",
+     "type": "Issue",
+     "english_name": "Borrowings beyond Finance Commission recommendations"
+    },
+    {
+     "name": "2014-15",
+     "type": "Claim",
+     "english_name": "2014-15"
+    },
+    {
+     "name": "2015-16",
+     "type": "Claim",
+     "english_name": "2015-16"
+    },
+    {
+     "name": "2016-17",
+     "type": "Claim",
+     "english_name": "2016-17"
+    },
+    {
+     "name": "2017-18",
+     "type": "Claim",
+     "english_name": "2017-18"
+    },
+    {
+     "name": "2018-19",
+     "type": "Claim",
+     "english_name": "2018-19"
+    },
+    {
+     "name": "2019-20",
+     "type": "Claim",
+     "english_name": "2019-20"
+    },
+    {
+     "name": "2020-21",
+     "type": "Claim",
+     "english_name": "2020-21"
+    },
+    {
+     "name": "2021-22",
+     "type": "Claim",
+     "english_name": "2021-22"
+    },
+    {
+     "name": "2022-23",
+     "type": "Claim",
+     "english_name": "2022-23"
+    },
+    {
+     "name": "2023-24",
+     "type": "Claim",
+     "english_name": "2023-24"
+    },
+    {
+     "name": "2024-25",
+     "type": "Claim",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "GSDP",
+     "type": "Organization",
+     "english_name": "GSDP"
+    },
+    {
+     "name": "Fiscal Deficit",
+     "type": "Organization",
+     "english_name": "Fiscal Deficit"
+    },
+    {
+     "name": "Fiscal Deficit (total)",
+     "type": "Organization",
+     "english_name": "Fiscal Deficit (total)"
+    },
+    {
+     "name": "Fiscal Deficit (after exclusions)",
+     "type": "Organization",
+     "english_name": "Fiscal Deficit (after exclusions)"
+    },
+    {
+     "name": "Finance Commission permitted Fiscal Deficit",
+     "type": "Organization",
+     "english_name": "Finance Commission permitted Fiscal Deficit"
+    },
+    {
+     "name": "FD FC permitted (Total)",
+     "type": "Organization",
+     "english_name": "FD FC permitted (Total)"
+    },
+    {
+     "name": "Over borrowing (Adjusted for exclusions)",
+     "type": "Organization",
+     "english_name": "Over borrowing (Adjusted for exclusions)"
+    },
+    {
+     "name": "UDAY bonds",
+     "type": "Scheme",
+     "english_name": "UDAY bonds"
+    },
+    {
+     "name": "Special Assistance for Capital Expenditure",
+     "type": "Scheme",
+     "english_name": "Special Assistance for Capital Expenditure"
+    },
+    {
+     "name": "GST compensation loans",
+     "type": "Scheme",
+     "english_name": "GST compensation loans"
+    },
+    {
+     "name": "State borrowing ceiling",
+     "type": "Scheme",
+     "english_name": "State borrowing ceiling"
+    },
+    {
+     "name": "NBC (Net borrowing Ceiling)",
+     "type": "Scheme",
+     "english_name": "NBC (Net borrowing Ceiling)"
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": "TDP Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "State borrowing ceiling",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Borrowings beyond Finance Commission recommendations",
+     "evidence": "Both these were not part of the State borrowing ceiling."
+    },
+    {
+     "source": "NBC (Net borrowing Ceiling)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Borrowings beyond Finance Commission recommendations",
+     "evidence": "On the basis of these recommendations, Central Government stipulates NBC (Net borrowing Ceiling)."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6417b2f0fd47bf575619e642f4f80f87e0ed3901": {
+   "entities": [
+    {
+     "name": "RBI facility utilization",
+     "type": "Organization",
+     "english_name": "RBI facility utilization"
+    },
+    {
+     "name": "Financial year",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "55660d15260fd3bf49694b09b5a8e1e43f7c1a77": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "81c0882a99be0bfc141f38c513b4c36d9c73016f": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Legislative Council",
+     "type": "Organization",
+     "english_name": "Legislative Council"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "FY 2024-25",
+     "type": "Scheme",
+     "english_name": "FY 2024-25"
+    },
+    {
+     "name": "FY 2025-26",
+     "type": "Scheme",
+     "english_name": "FY 2025-26"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fa26fc1def853a6dd66be6936eec61dd37df5d8b": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "PSUs",
+     "type": "Organization",
+     "english_name": "PSUs"
+    },
+    {
+     "name": "State Government Budget documents",
+     "type": "Organization",
+     "english_name": "State Government Budget documents"
+    },
+    {
+     "name": "Fiscal deficit for FY 25",
+     "type": "Claim",
+     "english_name": "Fiscal deficit for FY 25"
+    },
+    {
+     "name": "Fiscal deficit up to January in FY 26",
+     "type": "Claim",
+     "english_name": "Fiscal deficit up to January in FY 26"
+    },
+    {
+     "name": "SDL issuances in Feb 2026 and Mar 2026 to date",
+     "type": "Claim",
+     "english_name": "SDL issuances in Feb 2026 and Mar 2026 to date"
+    },
+    {
+     "name": "Off-budget borrowings through Civil Supplies Corp.",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through Civil Supplies Corp."
+    },
+    {
+     "name": "Off-budget borrowings through Markfed",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through Markfed"
+    },
+    {
+     "name": "Off-budget borrowings through APMDC",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through APMDC"
+    },
+    {
+     "name": "Off-budget borrowings through APPFC",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through APPFC"
+    },
+    {
+     "name": "Off-budget borrowings through APDISCOMs & APPDCL",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through APDISCOMs & APPDCL"
+    },
+    {
+     "name": "Off-budget borrowings through APAIDL",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through APAIDL"
+    },
+    {
+     "name": "Off-budget borrowings through JJM corp.",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through JJM corp."
+    },
+    {
+     "name": "Off-budget borrowings through APIIC",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through APIIC"
+    },
+    {
+     "name": "Off-budget borrowings through AP Beverages Corporation",
+     "type": "Claim",
+     "english_name": "Off-budget borrowings through AP Beverages Corporation"
+    },
+    {
+     "name": "Off-budget borroiwngs through AP TIDCO",
+     "type": "Claim",
+     "english_name": "Off-budget borroiwngs through AP TIDCO"
+    },
+    {
+     "name": "Borrowings for capital city construction",
+     "type": "Claim",
+     "english_name": "Borrowings for capital city construction"
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": "TDP alliance Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eadd16d88eba15fe8844f377c16307f933553535": {
+   "entities": [
+    {
+     "name": "Aadabidda Nidhi",
+     "type": "Scheme",
+     "english_name": "Aadabidda Nidhi"
+    },
+    {
+     "name": "Dipam",
+     "type": "Scheme",
+     "english_name": "Dipam"
+    },
+    {
+     "name": "Free Bus Travel",
+     "type": "Scheme",
+     "english_name": "Free Bus Travel"
+    },
+    {
+     "name": "Annadata Sukhibhava",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "Thalliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Thalliki Vandanam"
+    },
+    {
+     "name": "Pension age reduction to 50 years for SCs & BCs",
+     "type": "Scheme",
+     "english_name": "Pension age reduction to 50 years for SCs & BCs"
+    },
+    {
+     "name": "Nirudyoga Bhruthi",
+     "type": "Scheme",
+     "english_name": "Nirudyoga Bhruthi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ce35a2a95dff24dca8cbff2c04b1626e7cd76767": {
+   "entities": [
+    {
+     "name": "Total amount required for implementation of schemes – Rs. 79,867 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Amount incurred as per RE for FY 2025-26 – Rs. 18,231 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "702fcf5cda86c848627703a510ee4aec96d67510": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0b139f731e8f7037ff284bac5d50730df5a7ce69": {
+   "entities": [
+    {
+     "name": "నెల నెలా ఇంటివద్దకే రూ.4,000ల పింఛన్",
+     "type": "Scheme",
+     "english_name": "Monthly Rs.4,000 pension at home"
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "type": "Scheme",
+     "english_name": "20 lakh employment opportunities for youth"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment allowance"
+    },
+    {
+     "name": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Scheme",
+     "english_name": "Rs.15,000 per student per year"
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం",
+     "type": "Scheme",
+     "english_name": "Rs.20,000 annual financial assistance for each farmer"
+    },
+    {
+     "name": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "type": "Scheme",
+     "english_name": "3 free gas cylinders per household per year"
+    },
+    {
+     "name": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "type": "Scheme",
+     "english_name": "Rs.1,500 per month for each woman"
+    },
+    {
+     "name": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "type": "Scheme",
+     "english_name": "Free bus travel for women"
+    },
+    {
+     "name": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్",
+     "type": "Scheme",
+     "english_name": "Pension at age 50 for BC, SC, ST, Muslim minorities"
+    },
+    {
+     "name": "తెలుగుదేశం",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "type": "Party",
+     "english_name": "TDP-Janasena-BJP alliance"
+    },
+    {
+     "name": "సర్వజన సంక్షేమ రాజ్యం",
+     "type": "Scheme",
+     "english_name": "Universal welfare kingdom"
+    }
+   ],
+   "relations": [
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెల నెలా ఇంటివద్దకే రూ.4,000ల పింఛన్",
+     "evidence": "పింఛన్ తెచ్చింది తెలుగుదేశం"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "evidence": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నిరుద్యోగ భృతి",
+     "evidence": "లేదా నెలకు రూ.3,000 నిరుద్యోగ భృతి"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "evidence": "స్కూలుకి వెళ్ళే ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం",
+     "evidence": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "evidence": "ప్రతి మహిళకు నెలకు రూ.1,500"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "evidence": "మహిళలకు ఉచిత బస్సు ప్రయాణం"
+    },
+    {
+     "source": "తెలుగుదేశం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్",
+     "evidence": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సర్వజన సంక్షేమ రాజ్యం",
+     "evidence": "టీడీపీ-జనసేన-బీజేపీ కూటమికి ఓటేద్దాం - సర్వజన సంక్షేమ రాజ్యాన్ని తెచ్చుకుందాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1f427a1c6dc9cd2a1622fa4689f4a8a979421bcc": {
+   "entities": [
+    {
+     "name": "Election Commission of India",
+     "type": "Organization",
+     "english_name": "Election Commission of India"
+    },
+    {
+     "name": "State Election",
+     "type": "Organization",
+     "english_name": "State Election"
+    },
+    {
+     "name": "Aadabidda Nidhi",
+     "type": "Scheme",
+     "english_name": "Aadabidda Nidhi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b57f41d4b9be1f03337116168644ca2a2826605a": {
+   "entities": [
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": "Thallikivandanam"
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": "TDP alliance"
+    },
+    {
+     "name": "Rs. 9,668 crores",
+     "type": "Claim",
+     "english_name": "Rs. 9,668 crores"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Thallikivandanam",
+     "evidence": "the benefits under scheme Thallikivandanam, would be available to every child."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3a69466f85031345709d045ebb3b7d04ecbee238": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "216120fbf69db936e524d89947b5b851a395d0c7": {
+   "entities": [
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": "Thallikivandanam"
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": "TDP alliance"
+    },
+    {
+     "name": "Rs. 9,668 crores",
+     "type": "Claim",
+     "english_name": "Rs. 9,668 crores"
+    },
+    {
+     "name": "Rs. 8,456 crores",
+     "type": "Claim",
+     "english_name": "Rs. 8,456 crores"
+    },
+    {
+     "name": "Rs. 13,112 crores",
+     "type": "Claim",
+     "english_name": "Rs. 13,112 crores"
+    },
+    {
+     "name": "87,41,885 students",
+     "type": "Claim",
+     "english_name": "87,41,885 students"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Thallikivandanam",
+     "evidence": "The promise of TDP alliance was that, the benefits under scheme Thallikivandanam, would be available to every child."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "984a7c6a8ecc5d7df24aa657d860dff0ef249385": {
+   "entities": [
+    {
+     "name": "Dipam scheme",
+     "type": "Scheme",
+     "english_name": "Dipam scheme"
+    },
+    {
+     "name": "LPG cylinder price",
+     "type": "Claim",
+     "english_name": "LPG cylinder price"
+    },
+    {
+     "name": "PMUY",
+     "type": "Scheme",
+     "english_name": "PMUY"
+    },
+    {
+     "name": "Budget 2026-27",
+     "type": "Organization",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "CAG Reports",
+     "type": "Organization",
+     "english_name": "CAG Reports"
+    },
+    {
+     "name": "State Finance",
+     "type": "Organization",
+     "english_name": "State Finance"
+    },
+    {
+     "name": "TIRUMALA ISSUES",
+     "type": "Issue",
+     "english_name": "TIRUMALA ISSUES"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "PPAC",
+     "type": "Organization",
+     "english_name": "PPAC"
+    },
+    {
+     "name": "MOPNG",
+     "type": "Organization",
+     "english_name": "MOPNG"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

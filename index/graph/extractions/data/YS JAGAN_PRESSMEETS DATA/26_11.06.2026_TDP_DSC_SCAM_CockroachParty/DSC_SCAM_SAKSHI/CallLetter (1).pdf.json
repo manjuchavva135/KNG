@@ -1,0 +1,113 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c35603efae28132da7d2c96f80c0760777ea6689": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b172de72f86cd8a3016abccbcb87b4c272ae1052": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6fd51c40640c7007fc1db258835e6864719a752b": {
+   "entities": [
+    {
+     "name": "KANDA NAGABABU",
+     "type": "Person",
+     "english_name": "Kanda Nagababu"
+    },
+    {
+     "name": "KONDARAO",
+     "type": "Person",
+     "english_name": "Kondarao"
+    },
+    {
+     "name": "Mega DSC – 2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC – 2025"
+    },
+    {
+     "name": "apdsc.apcfss.in",
+     "type": "Organization",
+     "english_name": "apdsc.apcfss.in"
+    },
+    {
+     "name": "ADARSHA ENGINEERING COLLEGE",
+     "type": "Organization",
+     "english_name": "Adarsha Engineering College"
+    },
+    {
+     "name": "CHEBROLU",
+     "type": "Place",
+     "english_name": "Chebrolu"
+    },
+    {
+     "name": "GOLLAPROLU MANDAL",
+     "type": "Place",
+     "english_name": "Gollaprolu Mandal"
+    },
+    {
+     "name": "KAKINADA DISTRICT",
+     "type": "Place",
+     "english_name": "Kakinada District"
+    },
+    {
+     "name": "SSC",
+     "type": "Organization",
+     "english_name": "SSC"
+    },
+    {
+     "name": "Intermediate",
+     "type": "Organization",
+     "english_name": "Intermediate"
+    },
+    {
+     "name": "Degree Or Post-Graduation",
+     "type": "Organization",
+     "english_name": "Degree Or Post-Graduation"
+    },
+    {
+     "name": "D.Ed.",
+     "type": "Organization",
+     "english_name": "D.Ed."
+    },
+    {
+     "name": "Spl.D.Ed",
+     "type": "Organization",
+     "english_name": "Spl.D.Ed"
+    },
+    {
+     "name": "B.Ed",
+     "type": "Organization",
+     "english_name": "B.Ed"
+    },
+    {
+     "name": "Spl.B.Ed",
+     "type": "Organization",
+     "english_name": "Spl.B.Ed"
+    },
+    {
+     "name": "UGDPE",
+     "type": "Organization",
+     "english_name": "UGDPE"
+    },
+    {
+     "name": "B.P.Ed.",
+     "type": "Organization",
+     "english_name": "B.P.Ed."
+    }
+   ],
+   "relations": [
+    {
+     "source": "apdsc.apcfss.in",
+     "relation": "LOCATED_IN",
+     "target": "KAKINADA DISTRICT",
+     "evidence": "candidate login (apdsc.apcfss.in)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

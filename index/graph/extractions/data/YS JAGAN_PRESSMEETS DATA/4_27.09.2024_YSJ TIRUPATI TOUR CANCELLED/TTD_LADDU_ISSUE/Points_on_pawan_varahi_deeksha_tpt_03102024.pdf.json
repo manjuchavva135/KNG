@@ -1,0 +1,390 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d9c3506115db5c85d3fd3e9ec1bdc59e393ad32f": {
+   "entities": [
+    {
+     "name": "ఈవో",
+     "type": "Person",
+     "english_name": "EO"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సుబ్బారెడ్డిగారు",
+     "type": "Person",
+     "english_name": "Subba Reddy"
+    },
+    {
+     "name": "భూమన కరుణాకర్ రెడ్డిగారు",
+     "type": "Person",
+     "english_name": "Bhuma K. Reddy"
+    },
+    {
+     "name": "శ్రీవారి సాక్షి",
+     "type": "Organization",
+     "english_name": "Srivari Sakshi"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "NDDB ల్యాబ్",
+     "type": "Organization",
+     "english_name": "NDDB Lab"
+    },
+    {
+     "name": "తిరుమల లడ్డూ",
+     "type": "Organization",
+     "english_name": "Tirumala Laddu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "73c2754341a444156b8cfdc6a146394724eb4ce7": {
+   "entities": [
+    {
+     "name": "పవన్కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిరుమల వేంకటేశ్వర స్వామి లడ్డూలు",
+     "type": "Organization",
+     "english_name": "Tirumala Venkateswara Swamy Laddus"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ఈవో",
+     "type": "Organization",
+     "english_name": "EO"
+    },
+    {
+     "name": "వారాహి సభ",
+     "type": "Organization",
+     "english_name": "Varahi Sabha"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును ఇవ్వాల్టీకీ ఒక్క ఆధారం కూడా చూపలేకపోయారు."
+    },
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "తిరుమల వేంకటేశ్వర స్వామి లడ్డూలు",
+     "evidence": "తిరుమల వేంకటేశ్వర స్వామి లడ్డూలు కల్లీ నేయితో తయారు చేశారని తప్పుడు ఆరోపణలు చేసి తిరుమలక్షేత్ర పవిత్రతను, లడ్డూ విశిష్టతను ప్రపంచవ్యాప్తంగా దెబ్బతీసిన చంద్రబాబును ఇవ్వాల్టీకీ ఒక్క ఆధారం కూడా చూపలేకపోయారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5a3d534e10a277d7bf1cfb17b5dd8cc56ad4afdd": {
+   "entities": [
+    {
+     "name": "రాముడి ధర్మం",
+     "type": "Claim",
+     "english_name": "Rama's righteousness"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "హిందూత్వం",
+     "type": "Issue",
+     "english_name": "Hindutva"
+    },
+    {
+     "name": "సనాతనం",
+     "type": "Issue",
+     "english_name": "Sanatana"
+    },
+    {
+     "name": "దుర్గగుడి",
+     "type": "Place",
+     "english_name": "Durga Gudi"
+    },
+    {
+     "name": "అయ్యప్ప స్వామి",
+     "type": "Place",
+     "english_name": "Ayyappa Swamy"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "200 కోట్లు",
+     "type": "Scheme",
+     "english_name": "200 crores"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబుని ఎందుకు ప్రశ్నించలేదు?"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "దుర్గగుడిలో క్షుద్ర పూజలు చేసిన చంద్రబాబుని ఎందుకు నిలదీయలేదు"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అయ్యప్ప స్వామి మాలలు వేసి మద్యం ఆదాయం తగ్గిస్తున్నారని...మాట్లాడిన చంద్రబాబుని ఎందుకు కడిగేయలేదు"
+    },
+    {
+     "source": "జగన్మోహన్ రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "200 కోట్లు",
+     "evidence": "జగన్మోహన్ రెడ్డి 200 కోట్లు మంజూరు చేశారు"
+    },
+    {
+     "source": "జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాముడి ధర్మం",
+     "evidence": "జగన్మోహన్ రెడ్డిగారు రాష్ట్ర వ్యాప్తంగావందల దేవాలయాలను నిర్మాణం చేయించారు...మరి ధర్మాన్ని పాటిస్తున్నది ఎవరు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b808fd9fe4feec3b7cfddb4a05d819725a9f0bd3": {
+   "entities": [
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పవన్కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Person",
+     "english_name": "MLAs"
+    },
+    {
+     "name": "ఇసుక స్టాక్ యార్డులు",
+     "type": "Organization",
+     "english_name": "Sand Stock Yards"
+    },
+    {
+     "name": "గుటకాయ స్వాహా",
+     "type": "Organization",
+     "english_name": "Gutaka Swaha"
+    },
+    {
+     "name": "ఉచితం",
+     "type": "Scheme",
+     "english_name": "Uchitham"
+    },
+    {
+     "name": "కొత్త మద్యం పాలసీ",
+     "type": "Scheme",
+     "english_name": "New Liquor Policy"
+    },
+    {
+     "name": "సిండికేట్",
+     "type": "Organization",
+     "english_name": "Syndicate"
+    },
+    {
+     "name": "శ్రీవాణి ట్రస్టు",
+     "type": "Organization",
+     "english_name": "Srivani Trust"
+    },
+    {
+     "name": "టీటీడీ ఈవో",
+     "type": "Organization",
+     "english_name": "TTD EO"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్.జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్సీపీ",
+     "evidence": "మా హయాంలో ఆలయాల్లో విగ్రహాలు ధ్వంసం చేస్తే వైయస్సార్సీపీదే అంటారు."
+    },
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "ఎమ్మెల్యేలు",
+     "evidence": "పవన్కళ్యాణ్కు చెందిన ఎమ్మెల్యేలు... ఇసుక స్టాక్ యార్డులను గుటకాయ స్వాహా చేశారు."
+    },
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "సిండికేట్",
+     "evidence": "సిండికేట్కు దారులు తెరిచారు."
+    },
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "శ్రీవాణి ట్రస్టు",
+     "evidence": "శ్రీవాణి ట్రస్టు పేరుతో అవినీతి జరిగిందని పదేపదే తప్పుడు ఆరోపణలు పవన్కళ్యాణ్ చేస్తున్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fb294f6ddc53d11cbe79e5ea89c5af2253b40279": {
+   "entities": [
+    {
+     "name": "పవన్కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిరుమల లడ్డూ వ్యవహారం",
+     "type": "Issue",
+     "english_name": "Tirumala Laddu Issue"
+    },
+    {
+     "name": "వారాహి సభ",
+     "type": "Scheme",
+     "english_name": "Varahi Sabha"
+    },
+    {
+     "name": "వైయస్సార్ కాంగ్రెస్ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "వైయస్.జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "బాష్టిస్టును",
+     "type": "Person",
+     "english_name": "Basist"
+    },
+    {
+     "name": "సెక్యులర్ వాదినని",
+     "type": "Person",
+     "english_name": "Secularist"
+    },
+    {
+     "name": "కమ్యూనిస్టునని",
+     "type": "Person",
+     "english_name": "Communist"
+    },
+    {
+     "name": "హేతువాదినని",
+     "type": "Person",
+     "english_name": "Rationalist"
+    },
+    {
+     "name": "సనాతన వాదినని",
+     "type": "Person",
+     "english_name": "Traditionalist"
+    },
+    {
+     "name": "చంద్రబాబును",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వారాహి సభ",
+     "evidence": "పవన్కళ్యాణ్ చేసిన ప్రయత్నమే తిపతిలో ఇవ్వాళ్టి వారాహి సభ."
+    },
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "రాజకీయ సభ కాదంటూనే వైయస్సార్ కాంగ్రెస్ పార్టీ అధ్యక్షుడు వైయస్.జగన్మోహన్ రెడ్డి సహా పార్టీ నాయకుల మీద అబద్ధాలతో మరోసారి ఆరోపణలు చేశారు."
+    },
+    {
+     "source": "పవన్కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "వైయస్.జగన్మోహన్ రెడ్డి",
+     "evidence": "ఏం చేసినా, ఏం మాట్లాడినా తన లక్ష్యం వైయస్.జగన్ మాత్రమే."
+    },
+    {
+     "source": "వారాహి సభ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "తిరుమల లడ్డూ వ్యవహారం",
+     "evidence": "పవన్కళ్యాణ్ చేసిన ప్రయత్నమే తిపతిలో ఇవ్వాళ్టి వారాహి సభ."
+    },
+    {
+     "source": "చంద్రబాబును",
+     "relation": "ACCUSES",
+     "target": "పవన్కళ్యాణ్",
+     "evidence": "చంద్రబాబును రక్షణకోసమే. చంద్రబాబు ప్రయోజనాల కోసమే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d7947c20918ce5ed0195fdef1ab6e6453c241fb7": {
+   "entities": [
+    {
+     "name": "SUPREME COURT OF INDIA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DR. SUBRAMANIAN SWAMY",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "THE STATE OF ANDHRA PRADESH & ORS.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HON'BLE MR. JUSTICE B.R. GAVAI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "HON'BLE MR. JUSTICE K.V. VISWANATHAN",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rajshekhar Rao, Sr. Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Ajay Agarwal, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Sonalj Jain, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Sonia Mathur, Sr. Adv",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Satyam Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rajiv Ranjan, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Sanjeev Gupta, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Mudabbera Zaheen, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Shivam Singh, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Rishikesh Kumar, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Dipanshu Krushna",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Ronika Taker, Adv.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ms. Vipasha Jain",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Alok Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Gunjan Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Nikhil Beniwal, AOR",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Mukesh Sharma, Adv.",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2ecbdbd395219d09b159e8205e2d66793f3067cf": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb4d3e0c5692e618293dc076ce275220548cfb5a": {
+   "entities": [
+    {
+     "name": "Executive Officer",
+     "type": "Person",
+     "english_name": "Executive Officer"
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanam Trust",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Sidharth Luthra",
+     "type": "Person",
+     "english_name": "Sidharth Luthra"
+    },
+    {
+     "name": "National Dairy Development Board's Centre for Analysis and Learning in Livestock and Food",
+     "type": "Organization",
+     "english_name": "NDDB CALF"
+    },
+    {
+     "name": "writ petitions",
+     "type": "Claim",
+     "english_name": "writ petitions"
+    },
+    {
+     "name": "independent enquiry",
+     "type": "Claim",
+     "english_name": "independent enquiry"
+    },
+    {
+     "name": "regulatory frameworks",
+     "type": "Claim",
+     "english_name": "regulatory frameworks"
+    },
+    {
+     "name": "prasadam",
+     "type": "Claim",
+     "english_name": "prasadam"
+    },
+    {
+     "name": "ghee",
+     "type": "Claim",
+     "english_name": "ghee"
+    },
+    {
+     "name": "tankers",
+     "type": "Claim",
+     "english_name": "tankers"
+    },
+    {
+     "name": "adulterated ghee",
+     "type": "Claim",
+     "english_name": "adulterated ghee"
+    },
+    {
+     "name": "laddus",
+     "type": "Claim",
+     "english_name": "laddus"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Executive Officer",
+     "relation": "MAKES_CLAIM",
+     "target": "adulterated ghee",
+     "evidence": "adulterated ghee was never used"
+    },
+    {
+     "source": "Sidharth Luthra",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee",
+     "evidence": "the ghee which was supplied in the tankers in June, 2024 upto 04.07.2024, were not sent for analysis pertaining to the adulteration."
+    },
+    {
+     "source": "Sidharth Luthra",
+     "relation": "MAKES_CLAIM",
+     "target": "ghee",
+     "evidence": "it is only the ghee received in the two tankers supplied on 06.07.2024 and in the two tankers supplied on 12.07.2024 which were supplied by the same supplier, that were sent to the National Dairy Development Board's Centre for Analysis and Learning in Livestock and Food (for short ‘NDDB CALF’). He submits that in all the four samples, the ghee was found to be adulterated."
+    },
+    {
+     "source": "Sidharth Luthra",
+     "relation": "MAKES_CLAIM",
+     "target": "adulterated ghee",
+     "evidence": "the ghee was found to be adulterated."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

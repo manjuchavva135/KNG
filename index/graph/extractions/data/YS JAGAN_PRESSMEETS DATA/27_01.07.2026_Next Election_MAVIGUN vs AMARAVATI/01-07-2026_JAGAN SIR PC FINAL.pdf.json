@@ -1,0 +1,463 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6d674f293348279b117d528443f4d78f6ad95bde": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ పోలీస్ శాఖ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Police Department"
+    },
+    {
+     "name": "NTR కమిషనరేట్",
+     "type": "Place",
+     "english_name": "NTR Commissionerate"
+    },
+    {
+     "name": "శ్రీనగర్‌క్రాం-క్రైమ్",
+     "type": "Place",
+     "english_name": "Srinagar Crime"
+    },
+    {
+     "name": "WEB/NTR/KRILNKCRM/280526/00001",
+     "type": "Organization",
+     "english_name": "WEB/NTR/KRILNKCRM/280526/00001"
+    },
+    {
+     "name": "హత్య",
+     "type": "Issue",
+     "english_name": "Murder"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fd64c4994e857c135d7032e0f9fa638ad9d35f8f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f81206260d69470a260db2b5383d6d595529dae2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0b461e9a8486f3cb44a64312310704c5d8d5e4f8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3835382103cb982c10ad928a0628d70f5522d4f2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4767c7ff88814db2d78adeef01c4dd86878cb2e5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b995a3d9e085e4b80467ebc09b2e2ae0d69ba15f": {
+   "entities": [
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "పెంచలయ్య",
+     "type": "Person",
+     "english_name": "Penchayya"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af24b3f4781fe6d57cc5afd55357b71461b8f04c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "48511ab81df756972d3c2cb82d54887025849913": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "04c408d0ac27c1f7fe2cee70c12a6b1f27191889": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b1365d33660bc9837777df60d733c1c1d42c48f3": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "22de78752923d6763ed4d11804963b41dcc62e65": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c7a504e7445a2987caa452ab49d59c8416d9ccd7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c2d8c4a2f11a11d7294923e114ec3c6295382760": {
+   "entities": [
+    {
+     "name": "Central Government General Pool Residential and Office Accommodation (Cabinet decision)",
+     "type": "Organization",
+     "english_name": "Central Government General Pool Residential and Office Accommodation"
+    },
+    {
+     "name": "Cabinet Committee on Economic Affairs (CCEA)",
+     "type": "Organization",
+     "english_name": "Cabinet Committee on Economic Affairs"
+    },
+    {
+     "name": "Prime Minister Shri Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "General Pool Residential Accommodation (GPRA)",
+     "type": "Scheme",
+     "english_name": "General Pool Residential Accommodation"
+    },
+    {
+     "name": "New Capital City, Amaravati, Andhra Pradesh",
+     "type": "Place",
+     "english_name": "New Capital City, Amaravati, Andhra Pradesh"
+    },
+    {
+     "name": "PIB Delhi",
+     "type": "Organization",
+     "english_name": "Press Information Bureau Delhi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Central Government General Pool Residential and Office Accommodation (Cabinet decision)",
+     "relation": "LOCATED_IN",
+     "target": "New Capital City, Amaravati, Andhra Pradesh",
+     "evidence": "the project is located in the capital city of Amaravati, Andhra Pradesh"
+    },
+    {
+     "source": "PIB Delhi",
+     "relation": "LOCATED_IN",
+     "target": "New Capital City, Amaravati, Andhra Pradesh",
+     "evidence": "Posted On: 10 JUN 2026 1:52PM by PIB Delhi"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c509f6a869b7e1b8a757285420d9d7c9c99438c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1eb8322e5bc7dbe378ccfb97921845410efb2b61": {
+   "entities": [
+    {
+     "name": "GOVERNMENT OF INDIA",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+     "type": "Organization",
+     "english_name": "Ministry of Road Transport and Highways"
+    },
+    {
+     "name": "LOK SABHA",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "Sri, Nithin Gadkari ji",
+     "type": "Person",
+     "english_name": "Nithin Gadkari"
+    },
+    {
+     "name": "Hon’ble Minister of Road Transport and Highways",
+     "type": "Person",
+     "english_name": "Hon’ble Minister of Road Transport and Highways"
+    },
+    {
+     "name": "ADV PRIYA SAROJ",
+     "type": "Person",
+     "english_name": "ADV PRIYA SAROJ"
+    },
+    {
+     "name": "SHRI PUSHPENDRA SAROJ",
+     "type": "Person",
+     "english_name": "SHRI PUSHPENDRA SAROJ"
+    },
+    {
+     "name": "Bharatmala Phase-I",
+     "type": "Scheme",
+     "english_name": "Bharatmala Phase-I"
+    },
+    {
+     "name": "National Highways",
+     "type": "Organization",
+     "english_name": "National Highways"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ddf3961df57bf94418efa909ae93f33805f58b68": {
+   "entities": [
+    {
+     "name": "Government complex cost",
+     "type": "Issue",
+     "english_name": "Government complex cost"
+    },
+    {
+     "name": "Construction Contract",
+     "type": "Claim",
+     "english_name": "Construction Contract"
+    },
+    {
+     "name": "Monetary value of reimbursable",
+     "type": "Claim",
+     "english_name": "Monetary value of reimbursable"
+    },
+    {
+     "name": "Sanction for MEP works",
+     "type": "Claim",
+     "english_name": "Sanction for MEP works"
+    },
+    {
+     "name": "Sanction for other infra works",
+     "type": "Claim",
+     "english_name": "Sanction for other infra works"
+    },
+    {
+     "name": "Sanction for glass works",
+     "type": "Claim",
+     "english_name": "Sanction for glass works"
+    },
+    {
+     "name": "Design cost",
+     "type": "Claim",
+     "english_name": "Design cost"
+    },
+    {
+     "name": "Total",
+     "type": "Claim",
+     "english_name": "Total"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "708bd664041ef06be533046c1a8a4087fa4bed37": {
+   "entities": [
+    {
+     "name": "Central Govt.",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "GPRA Campus",
+     "type": "Organization",
+     "english_name": "General Pool Residential Accommodation Campus"
+    },
+    {
+     "name": "New Capital City, Amaravati",
+     "type": "Place",
+     "english_name": "New Capital City, Amaravati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "General Pool Residential Accommodation",
+     "type": "Scheme",
+     "english_name": "General Pool Residential Accommodation"
+    },
+    {
+     "name": "General Pool Office Accommodation",
+     "type": "Scheme",
+     "english_name": "General Pool Office Accommodation"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Central Govt.",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Central Govt.'s cost of establishing premises"
+    },
+    {
+     "source": "GPRA Campus",
+     "relation": "LOCATED_IN",
+     "target": "New Capital City, Amaravati",
+     "evidence": "PROPOSED GENERAL POOL RESIDENTIAL ACCOMMODATION (GPRA)CAMPUS AT NEW CAPITAL CITY, AMARAVATI, ANDHRA PRADESH"
+    },
+    {
+     "source": "GPRA Campus",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "PROPOSED GENERAL POOL RESIDENTIAL ACCOMMODATION (GPRA)CAMPUS AT NEW CAPITAL CITY, AMARAVATI, ANDHRA PRADESH"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "112a7d070922ee51f7d7422ab9341b41e56e8792": {
+   "entities": [
+    {
+     "name": "వైయస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "దళిత క్రైస్తవులకు రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": "Reservations for Dalit Christians"
+    },
+    {
+     "name": "ప్రభుత్వ తీర్మానాలు",
+     "type": "Organization",
+     "english_name": "Government Resolutions"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దళిత క్రైస్తవులకు రిజర్వేషన్లు",
+     "evidence": "దళిత క్రైస్తవులకు రిజర్వేషన్లు ఇవ్వాలని తీర్మానం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "66f35dc870d2a62b4613ba1595f62ea13eac445a": {
+   "entities": [
+    {
+     "name": "Union Ministry of Commerce",
+     "type": "Organization",
+     "english_name": "Union Ministry of Commerce"
+    },
+    {
+     "name": "Azadi Ka Amrit Mahotsav",
+     "type": "Scheme",
+     "english_name": "Azadi Ka Amrit Mahotsav"
+    },
+    {
+     "name": "Ministry of Commerce & Industry",
+     "type": "Organization",
+     "english_name": "Ministry of Commerce & Industry"
+    },
+    {
+     "name": "FCV Tobacco Season",
+     "type": "Scheme",
+     "english_name": "FCV Tobacco Season"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "NLS",
+     "type": "Organization",
+     "english_name": "NLS"
+    },
+    {
+     "name": "SBS",
+     "type": "Organization",
+     "english_name": "SBS"
+    },
+    {
+     "name": "SLS",
+     "type": "Organization",
+     "english_name": "SLS"
+    },
+    {
+     "name": "Tobacco Board",
+     "type": "Organization",
+     "english_name": "Tobacco Board"
+    },
+    {
+     "name": "Chief Minister’s Relief Fund",
+     "type": "Organization",
+     "english_name": "Chief Minister’s Relief Fund"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Union Ministry of Commerce",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Union Ministry of Commerce Press release"
+    },
+    {
+     "source": "Ministry of Commerce & Industry",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Ministry of Commerce & Industry"
+    },
+    {
+     "source": "Tobacco Board",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Tobacco Board employees and growers also contributed"
+    },
+    {
+     "source": "Chief Minister’s Relief Fund",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Chief Minister’s Relief Fund to support victims of recent cyclones in Andhra Pradesh"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "faf30325aeded73ed1d5fb9e669f8b8f74df31aa": {
+   "entities": [
+    {
+     "name": "డా.మేరుగు నాగార్జున",
+     "type": "Person",
+     "english_name": "Dr. Merugu Nagarjuna"
+    },
+    {
+     "name": "MINISTER FOR SOCIAL WELFARE",
+     "type": "Organization",
+     "english_name": "Minister for Social Welfare"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "భారత ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "భారత రాజ్యాంగం",
+     "type": "Organization",
+     "english_name": "Constitution of India"
+    },
+    {
+     "name": "షెడ్యూల్డు కులం",
+     "type": "Organization",
+     "english_name": "Scheduled Caste"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

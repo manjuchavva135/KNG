@@ -1,0 +1,51 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "17c7eded05063368bfedf489d76198d93fa23f92": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "437c5143fcf2068aea694d20449c7d1eac39de47": {
+   "entities": [
+    {
+     "name": "HT No.: MDSC0159489",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ADIREDDY VENKATARAO",
+     "type": "Person",
+     "english_name": "Adireddy Venkatarao"
+    },
+    {
+     "name": "DALIVALASA, Dali valasa, K KOTAPADU, Visakhapatnam-531034",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mega DSC – 2025",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "vsk_committee_4, Visakha Vimala Vidyalayam, Ukkunagaram, Gajuwaka Mandal",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "apdsc.apcfss.in",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "abf16eefeb21ae8ed3b00518070b7aa17e1cf227": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

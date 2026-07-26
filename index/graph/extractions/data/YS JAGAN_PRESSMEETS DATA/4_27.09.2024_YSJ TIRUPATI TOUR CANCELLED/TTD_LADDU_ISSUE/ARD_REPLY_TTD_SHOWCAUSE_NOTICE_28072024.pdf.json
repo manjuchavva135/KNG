@@ -1,0 +1,334 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "690d746419af75e4b663d719652c398e05fdfb08": {
+   "entities": [
+    {
+     "name": "Raaj® Milk",
+     "type": "Organization",
+     "english_name": "Raaj Milk"
+    },
+    {
+     "name": "A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A R Dairy Food Private Limited"
+    },
+    {
+     "name": "DANDI GUILDAIRY FOOD (P) LTD",
+     "type": "Organization",
+     "english_name": "DANDI GUILDAIRY FOOD (P) LTD"
+    },
+    {
+     "name": "ISO 22000:2018",
+     "type": "Scheme",
+     "english_name": "ISO 22000:2018"
+    },
+    {
+     "name": "FSSAI Lic no: 10014042001610",
+     "type": "Scheme",
+     "english_name": "FSSAI License"
+    },
+    {
+     "name": "Rs. 200 crore",
+     "type": "Claim",
+     "english_name": "Rs. 200 crore"
+    },
+    {
+     "name": "500 staff members",
+     "type": "Claim",
+     "english_name": "500 staff members"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2e1b157e4eb64685eeb316be520284087afdd163": {
+   "entities": [
+    {
+     "name": "Raaj® Milk A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "Raaj Milk"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "AP26 TC 4779",
+     "type": "Place",
+     "english_name": "AP26 TC 4779"
+    },
+    {
+     "name": "TN02 BA 9459",
+     "type": "Place",
+     "english_name": "TN02 BA 9459"
+    },
+    {
+     "name": "TN02 BB 2070",
+     "type": "Place",
+     "english_name": "TN02 BB 2070"
+    },
+    {
+     "name": "TN02 BB 2151",
+     "type": "Place",
+     "english_name": "TN02 BB 2151"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4a9d3b3ddbb710ac39c2a9442dd971cbce9b3a43": {
+   "entities": [
+    {
+     "name": "Raaj® Milk A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "Raaj Milk A R Dairy Food Private Limited"
+    },
+    {
+     "name": "P. Murali Krishna, M.I.E",
+     "type": "Person",
+     "english_name": "P. Murali Krishna"
+    },
+    {
+     "name": "General Manager (Procurement)",
+     "type": "Organization",
+     "english_name": "General Manager (Procurement)"
+    },
+    {
+     "name": "T.T. Devasthanams, Tirupati",
+     "type": "Organization",
+     "english_name": "T.T. Devasthanams, Tirupati"
+    },
+    {
+     "name": "Show Cause Notice",
+     "type": "Claim",
+     "english_name": "Show Cause Notice"
+    },
+    {
+     "name": "Supply of Cow Ghee in Tanker No. AP26TC 4779",
+     "type": "Claim",
+     "english_name": "Supply of Cow Ghee in Tanker No. AP26TC 4779"
+    },
+    {
+     "name": "Supply of Cow Ghee in Tanker No. TN02 BA 9459",
+     "type": "Claim",
+     "english_name": "Supply of Cow Ghee in Tanker No. TN02 BA 9459"
+    },
+    {
+     "name": "Supply of Cow Ghee in Tanker No. TN02 BB 2070",
+     "type": "Claim",
+     "english_name": "Supply of Cow Ghee in Tanker No. TN02 BB 2070"
+    },
+    {
+     "name": "Supply of Cow Ghee in Tanker No. TN02 BB 2151",
+     "type": "Claim",
+     "english_name": "Supply of Cow Ghee in Tanker No. TN02 BB 2151"
+    },
+    {
+     "name": "Letter No ROC.No.MG4/04/DYEO(WH)/MRKT/2023",
+     "type": "Claim",
+     "english_name": "Letter No ROC.No.MG4/04/DYEO(WH)/MRKT/2023"
+    }
+   ],
+   "relations": [
+    {
+     "source": "P. Murali Krishna, M.I.E",
+     "relation": "MAKES_CLAIM",
+     "target": "Show Cause Notice",
+     "evidence": "Show Cause Notice issued vide even No. TTD-34022(31)/250/2023-PROCUREMENT SEC-TTD dated 22.07.2024"
+    },
+    {
+     "source": "P. Murali Krishna, M.I.E",
+     "relation": "MAKES_CLAIM",
+     "target": "Supply of Cow Ghee in Tanker No. AP26TC 4779",
+     "evidence": "against the Supply of Cow Ghee in Tanker No. AP26TC 4779"
+    },
+    {
+     "source": "P. Murali Krishna, M.I.E",
+     "relation": "MAKES_CLAIM",
+     "target": "Supply of Cow Ghee in Tanker No. TN02 BA 9459",
+     "evidence": "against the Supply of Cow Ghee in Tanker No. TN02 BA 9459"
+    },
+    {
+     "source": "P. Murali Krishna, M.I.E",
+     "relation": "MAKES_CLAIM",
+     "target": "Supply of Cow Ghee in Tanker No. TN02 BB 2070",
+     "evidence": "against the Supply of Cow Ghee in Tanker No. TN02 BB 2070"
+    },
+    {
+     "source": "P. Murali Krishna, M.I.E",
+     "relation": "MAKES_CLAIM",
+     "target": "Supply of Cow Ghee in Tanker No. TN02 BB 2151",
+     "evidence": "against the Supply of Cow Ghee in Tanker No. TN02 BB 2151"
+    },
+    {
+     "source": "P. Murali Krishna, M.I.E",
+     "relation": "MAKES_CLAIM",
+     "target": "Letter No ROC.No.MG4/04/DYEO(WH)/MRKT/2023",
+     "evidence": "Letter No ROC.No.MG4/04/DYEO(WH)/MRKT/2023 dated 25-07-2024"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4971a14614b9fe46addac86aed6e437ea7192915": {
+   "entities": [
+    {
+     "name": "Raaj® Milk A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "Raaj Milk A R Dairy Food Private Limited"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Dindigul",
+     "type": "Place",
+     "english_name": "Dindigul"
+    },
+    {
+     "name": "Tamilnadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "ISO 22000 Certified Company",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GSTIN : 33AADCA4426G1Z4",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CIN : U40200TZ1995PTC006115",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FSSAI Lic no: 10014042001610",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Clause No. 40",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Clause No. 26",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Clause No. 57",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Raaj® Milk A R Dairy Food Private Limited",
+     "relation": "LOCATED_IN",
+     "target": "Dindigul",
+     "evidence": "Dindigul"
+    },
+    {
+     "source": "Raaj® Milk A R Dairy Food Private Limited",
+     "relation": "LOCATED_IN",
+     "target": "Tamilnadu",
+     "evidence": "Tamilnadu"
+    },
+    {
+     "source": "Raaj® Milk A R Dairy Food Private Limited",
+     "relation": "LOCATED_IN",
+     "target": "India",
+     "evidence": "India"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d6c279ebd6664ba662bf538257fd8f139da66863": {
+   "entities": [
+    {
+     "name": "Raaj® Milk A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "Raaj Milk A R Dairy Food Private Limited"
+    },
+    {
+     "name": "A.R. DAIRY FOOD PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": "A.R. Dairy Food Private Limited"
+    },
+    {
+     "name": "R. RAJASEKARAN",
+     "type": "Person",
+     "english_name": "R. Rajasekaran"
+    },
+    {
+     "name": "Clause 57 of the agreement",
+     "type": "Claim",
+     "english_name": "Clause 57 of the agreement"
+    },
+    {
+     "name": "FSSAI lab",
+     "type": "Organization",
+     "english_name": "FSSAI lab"
+    },
+    {
+     "name": "Prasadam",
+     "type": "Issue",
+     "english_name": "Prasadam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "R. RAJASEKARAN",
+     "relation": "MAKES_CLAIM",
+     "target": "Clause 57 of the agreement",
+     "evidence": "We respectfully request that a fresh consignment be allowed to replace the disputed one, in accordance with Clause 57 of the agreement."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d8cf4d0face716d4a5e1982d3ddf86d5105a2e54": {
+   "entities": [
+    {
+     "name": "Raaj® Milk A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "Raaj Milk"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Clause 10",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "adulteration",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

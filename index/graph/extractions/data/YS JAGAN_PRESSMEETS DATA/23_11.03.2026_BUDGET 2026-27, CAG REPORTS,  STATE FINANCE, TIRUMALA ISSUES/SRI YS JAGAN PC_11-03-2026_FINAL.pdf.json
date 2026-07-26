@@ -1,0 +1,214 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8b35c8afaa6a705604e1c562e5e0fc441a7c3028": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Legislative Council",
+     "type": "Organization",
+     "english_name": "Legislative Council"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "Finance Accounts",
+     "type": "Organization",
+     "english_name": "Finance Accounts"
+    },
+    {
+     "name": "GOAP",
+     "type": "Organization",
+     "english_name": "GOAP"
+    },
+    {
+     "name": "FY 2024-25",
+     "type": "Organization",
+     "english_name": "FY 2024-25"
+    },
+    {
+     "name": "FY 2025-26",
+     "type": "Organization",
+     "english_name": "FY 2025-26"
+    },
+    {
+     "name": "Internal Debt",
+     "type": "Organization",
+     "english_name": "Internal Debt"
+    },
+    {
+     "name": "Loans from GoI",
+     "type": "Organization",
+     "english_name": "Loans from GoI"
+    },
+    {
+     "name": "SASCI",
+     "type": "Organization",
+     "english_name": "SASCI"
+    },
+    {
+     "name": "Rs. 60,485.40 crores",
+     "type": "Claim",
+     "english_name": "Rs. 60,485.40 crores"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3a69466f85031345709d045ebb3b7d04ecbee238": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1adf0ed2ae209198638cf3d37b248d45328b1875": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d842e86d0702d750ba52b1182d904df29e6d38fb": {
+   "entities": [
+    {
+     "name": "SHGs Bank Credit Linkage",
+     "type": "Scheme",
+     "english_name": "SHGs Bank Credit Linkage"
+    },
+    {
+     "name": "Union Bank of India",
+     "type": "Organization",
+     "english_name": "Union Bank of India"
+    },
+    {
+     "name": "SLBC of AP",
+     "type": "Organization",
+     "english_name": "State Level Bankers Committee of Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e8b1d4419a5d138248380cc89d7ccd732b0c6cfc": {
+   "entities": [
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Premier Agri Foods Dairy",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka Coop Milk Producers Federation (KMF)",
+     "type": "Organization",
+     "english_name": "Karnataka Cooperative Milk Producers Federation"
+    },
+    {
+     "name": "Alpha Milk Foods",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dauji Milk Food Pvt Ltd, Rajasthan",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sangam Milk Producers Company Ltd, Guntur",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mother Dairy Fruit & Vegetable Pvt Ltd, Tirupati",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Indapur Milk & Product Ltd, Pune",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dd04bc9b63c982ab3a6fffc9381b76e4e9bcacd7": {
+   "entities": [
+    {
+     "name": "Dipam scheme",
+     "type": "Scheme",
+     "english_name": "Dipam scheme"
+    },
+    {
+     "name": "LPG cylinder price",
+     "type": "Claim",
+     "english_name": "LPG cylinder price"
+    },
+    {
+     "name": "PMUY",
+     "type": "Scheme",
+     "english_name": "PMUY"
+    },
+    {
+     "name": "PM Ujwal Yojana",
+     "type": "Scheme",
+     "english_name": "PM Ujwal Yojana"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "Lakshadweep",
+     "type": "Place",
+     "english_name": "Lakshadweep"
+    },
+    {
+     "name": "Puducherry",
+     "type": "Place",
+     "english_name": "Puducherry"
+    },
+    {
+     "name": "Budget 2026-27",
+     "type": "Issue",
+     "english_name": "Budget 2026-27"
+    },
+    {
+     "name": "CAG Reports",
+     "type": "Issue",
+     "english_name": "CAG Reports"
+    },
+    {
+     "name": "State Finance",
+     "type": "Issue",
+     "english_name": "State Finance"
+    },
+    {
+     "name": "Tirumala Issues",
+     "type": "Issue",
+     "english_name": "Tirumala Issues"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

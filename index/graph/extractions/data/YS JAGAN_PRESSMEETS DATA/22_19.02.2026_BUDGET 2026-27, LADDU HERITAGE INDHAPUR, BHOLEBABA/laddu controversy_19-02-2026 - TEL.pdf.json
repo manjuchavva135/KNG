@@ -1,0 +1,1092 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f231465e9ac72fabc92f158b66b59fb64760dc43": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3ef205446272e3ad7bda86bc14cee5717867afe5": {
+   "entities": [
+    {
+     "name": "Heritage Foods Limited",
+     "type": "Organization",
+     "english_name": "Heritage Foods Limited"
+    },
+    {
+     "name": "Makarand Shastri",
+     "type": "Person",
+     "english_name": "Makarand Shastri"
+    },
+    {
+     "name": "SEBI",
+     "type": "Organization",
+     "english_name": "SEBI"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "256558010705b4c6fb45dae54144856f641867c0": {
+   "entities": [
+    {
+     "name": "HERITAGE NOVANDIE FOODS LTD",
+     "type": "Organization",
+     "english_name": "Heritage Novandie Foods Ltd"
+    },
+    {
+     "name": "INDAPUR DAIRY AND MILK PRODUCTS LTD",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Products Ltd"
+    },
+    {
+     "name": "REGAL HEALTHY FINE FOODS PVT LTD",
+     "type": "Organization",
+     "english_name": "Regal Healthy Fine Foods Pvt Ltd"
+    },
+    {
+     "name": "SCHREIBER DYNAMIX DAIRIES PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": "Schreiber Dynamix Dairies Private Limited"
+    },
+    {
+     "name": "MILKY FRESH FOODS PRIVATE LIMITED",
+     "type": "Organization",
+     "english_name": "Milky Fresh Foods Private Limited"
+    },
+    {
+     "name": "Indapur Dairy",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "HERITAGE NOVANDIE FOODS LTD Official Website",
+     "type": "Organization",
+     "english_name": "Heritage Novandie Foods Ltd Official Website"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "564099f8346c43655346a9eeff8e5e681009df81": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2d755d9a420e0d3315625e63792ff9d40fcfdc0f": {
+   "entities": [
+    {
+     "name": "Indapur Dairy",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "Heritage",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Indapur Dairy and Milk Products Ltd",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Products Ltd"
+    },
+    {
+     "name": "Indapur",
+     "type": "Place",
+     "english_name": "Indapur"
+    },
+    {
+     "name": "Baramati",
+     "type": "Place",
+     "english_name": "Baramati"
+    },
+    {
+     "name": "Palghar",
+     "type": "Place",
+     "english_name": "Palghar"
+    },
+    {
+     "name": "Shamirpet",
+     "type": "Place",
+     "english_name": "Shamirpet"
+    },
+    {
+     "name": "Uppal",
+     "type": "Place",
+     "english_name": "Uppal"
+    },
+    {
+     "name": "Narketpalle",
+     "type": "Place",
+     "english_name": "Narketpalle"
+    },
+    {
+     "name": "Kallur",
+     "type": "Place",
+     "english_name": "Kallur"
+    },
+    {
+     "name": "Aleap",
+     "type": "Place",
+     "english_name": "Aleap"
+    },
+    {
+     "name": "Baramati",
+     "type": "Place",
+     "english_name": "Baramati"
+    },
+    {
+     "name": "Maharashtra",
+     "type": "Place",
+     "english_name": "Maharashtra"
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "Medchal-Malkajgiri",
+     "type": "Place",
+     "english_name": "Medchal-Malkajgiri"
+    },
+    {
+     "name": "Nalgonda",
+     "type": "Place",
+     "english_name": "Nalgonda"
+    },
+    {
+     "name": "Khammam",
+     "type": "Place",
+     "english_name": "Khammam"
+    },
+    {
+     "name": "Rangareddy",
+     "type": "Place",
+     "english_name": "Rangareddy"
+    },
+    {
+     "name": "Indapur Dairy and Milk Products Ltd",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Products Ltd"
+    },
+    {
+     "name": "Indapur Dairy",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "Heritage Novandie Foods Ltd",
+     "type": "Organization",
+     "english_name": "Heritage Novandie Foods Ltd"
+    },
+    {
+     "name": "Regal Health Fine Foods Pvt Ltd",
+     "type": "Organization",
+     "english_name": "Regal Health Fine Foods Pvt Ltd"
+    },
+    {
+     "name": "Schreiber Dynamix Dairies Private Limited",
+     "type": "Organization",
+     "english_name": "Schreiber Dynamix Dairies Private Limited"
+    },
+    {
+     "name": "Milky Fresh Foods Private Limited",
+     "type": "Organization",
+     "english_name": "Milky Fresh Foods Private Limited"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "Heritage",
+     "evidence": "Indapur Dairy in the form of Heritage plant"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Indapur",
+     "evidence": "Indapur Dairy and Milk Products Ltd"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Maharashtra",
+     "evidence": "Maharashtra - 401403"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Palghar",
+     "evidence": "Palghar Tahashil, Palghar"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Shamirpet",
+     "evidence": "Shamirpet"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Uppal",
+     "evidence": "Uppal"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Narketpalle",
+     "evidence": "Narketpalle"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Kallur",
+     "evidence": "Kallur"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Aleap",
+     "evidence": "Aleap"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Baramati",
+     "evidence": "Baramati"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Maharashtra",
+     "evidence": "Maharashtra - 413133"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Telangana",
+     "evidence": "Telangana"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Medchal-Malkajgiri",
+     "evidence": "Medchal-Malkajgiri"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Nalgonda",
+     "evidence": "Nalgonda"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Khammam",
+     "evidence": "Khammam"
+    },
+    {
+     "source": "Heritage",
+     "relation": "LOCATED_IN",
+     "target": "Rangareddy",
+     "evidence": "Rangareddy"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c6567727c9487efc24a565650da68444859b6b6a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5da38f8d60ca094670589a74bb4545a45e98ae01": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a9743e51d7246588a1bf170a2a2b4eb0d2743550": {
+   "entities": [
+    {
+     "name": "SEBI",
+     "type": "Organization",
+     "english_name": "SEBI"
+    },
+    {
+     "name": "Regulation 16(1)(d) of SEBI Listing Regulations",
+     "type": "Organization",
+     "english_name": "Regulation 16(1)(d) of SEBI Listing Regulations"
+    },
+    {
+     "name": "Heritage VP&Head National sales Markand Shastri",
+     "type": "Person",
+     "english_name": "Markand Shastri"
+    },
+    {
+     "name": "Indapur",
+     "type": "Place",
+     "english_name": "Indapur"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4c432fabba2f1bd00f71a045b4d258d32dfccbca": {
+   "entities": [
+    {
+     "name": "Heritage Manufacturing Unit",
+     "type": "Organization",
+     "english_name": "Heritage Manufacturing Unit"
+    },
+    {
+     "name": "Indapur Dairy and Milk Products Limited",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Products Limited"
+    },
+    {
+     "name": "Karanataka Co-op Milk Producers Federation Limited",
+     "type": "Organization",
+     "english_name": "Karanataka Co-op Milk Producers Federation Limited"
+    },
+    {
+     "name": "Mother Dairy Fruit and Vegetable Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": "Mother Dairy Fruit and Vegetable Pvt. Ltd."
+    },
+    {
+     "name": "Sangam Milk Producer Company Ltd",
+     "type": "Organization",
+     "english_name": "Sangam Milk Producer Company Ltd"
+    },
+    {
+     "name": "GRB Dairy Foods Pvt. Ltd",
+     "type": "Organization",
+     "english_name": "GRB Dairy Foods Pvt. Ltd"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "Chairman",
+     "type": "Person",
+     "english_name": "Chairman"
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d9b2b132252f802be5dcd71320e3436115100a60": {
+   "entities": [
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "Marketing Department (Procurement Wing)",
+     "type": "Organization",
+     "english_name": "Marketing Department (Procurement Wing)"
+    },
+    {
+     "name": "Govind Milk and Milk Product Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": "Govind Milk and Milk Product Pvt. Ltd."
+    },
+    {
+     "name": "The Salem District Co-operative Milk Producer Union Ltd.",
+     "type": "Organization",
+     "english_name": "The Salem District Co-operative Milk Producer Union Ltd."
+    },
+    {
+     "name": "Sri Vijaya Visakha Milk Producers Company Ltd.",
+     "type": "Organization",
+     "english_name": "Sri Vijaya Visakha Milk Producers Company Ltd."
+    },
+    {
+     "name": "Jalgaon Jilha Sahakari Dudh Utpadak Sangh Maryadit",
+     "type": "Organization",
+     "english_name": "Jalgaon Jilha Sahakari Dudh Utpadak Sangh Maryadit"
+    },
+    {
+     "name": "Karnataka Co-operative Milk Producers Federation Ltd.",
+     "type": "Organization",
+     "english_name": "Karnataka Co-operative Milk Producers Federation Ltd."
+    },
+    {
+     "name": "Kolhapur Zilla Sahakari Dudh Utpadak Sangh Ltd.",
+     "type": "Organization",
+     "english_name": "Kolhapur Zilla Sahakari Dudh Utpadak Sangh Ltd."
+    },
+    {
+     "name": "GRB Dairy Foods Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": "GRB Dairy Foods Pvt. Ltd."
+    },
+    {
+     "name": "Cavinkare Private Limited",
+     "type": "Organization",
+     "english_name": "Cavinkare Private Limited"
+    },
+    {
+     "name": "Indapur Dairy and Milk Producers Limited",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Producers Limited"
+    },
+    {
+     "name": "Indapur Dairy",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "Lab reports",
+     "type": "Claim",
+     "english_name": "Lab reports"
+    },
+    {
+     "name": "Disqualified in technical evaluation",
+     "type": "Claim",
+     "english_name": "Disqualified in technical evaluation"
+    },
+    {
+     "name": "Disqualified in Lab",
+     "type": "Claim",
+     "english_name": "Disqualified in Lab"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "539ac7c1516e65de0cd88fca1265b0a2736b77a5": {
+   "entities": [
+    {
+     "name": "TTD - Marketing Department – Procurement wing",
+     "type": "Organization",
+     "english_name": "TTD Marketing Department - Procurement Wing"
+    },
+    {
+     "name": "Indapur Dairy and Milk Products Limited",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Products Limited"
+    },
+    {
+     "name": "M/s Premier Agri Foods Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": "M/s Premier Agri Foods Pvt. Ltd."
+    },
+    {
+     "name": "M/s Govind Milk and Milk Product Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": "M/s Govind Milk and Milk Product Pvt. Ltd."
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "L2",
+     "type": "Claim",
+     "english_name": "L2"
+    },
+    {
+     "name": "L1",
+     "type": "Claim",
+     "english_name": "L1"
+    },
+    {
+     "name": "L3",
+     "type": "Claim",
+     "english_name": "L3"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "L2",
+     "evidence": "ఇందాపూర్కు మళ్లీ అర్హత కల్పించిన చంద్రబాబు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "77960d73383e54871cc112cc4e4792217a279722": {
+   "entities": [
+    {
+     "name": "Heritage Manufacturing Unit",
+     "type": "Organization",
+     "english_name": "Heritage Manufacturing Unit"
+    },
+    {
+     "name": "Indapur Dairy and Milk products Ltd.",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk products Ltd."
+    },
+    {
+     "name": "M/s Indapur Dairy and Milk products Ltd., Indapur, M.H",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk products Ltd."
+    },
+    {
+     "name": "M/s Premier Agri Foods Pvt., Ltd., Bareilly",
+     "type": "Organization",
+     "english_name": "M/s Premier Agri Foods Pvt., Ltd."
+    },
+    {
+     "name": "M/s Karnataka co-operative Milk producers Federation Ltd., Bangalore.",
+     "type": "Organization",
+     "english_name": "M/s Karnataka co-operative Milk producers Federation Ltd."
+    },
+    {
+     "name": "M/s Tamilnadu Cooperative Milk producers Federation, Tamilnadu",
+     "type": "Organization",
+     "english_name": "M/s Tamilnadu Cooperative Milk producers Federation"
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Scheme",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "Budget 2026-27",
+     "type": "Issue",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f0bb3e4209bcd77afbd891254e102a0b474ce701": {
+   "entities": [
+    {
+     "name": "Bhole Baba Organic Dairymilk Private Limited",
+     "type": "Organization",
+     "english_name": "Bhole Baba Organic Dairymilk Private Limited"
+    },
+    {
+     "name": "Harsh Fresh Dairy Products Private Limited",
+     "type": "Organization",
+     "english_name": "Harsh Fresh Dairy Products Private Limited"
+    },
+    {
+     "name": "CRISIL Ratings Limited",
+     "type": "Organization",
+     "english_name": "CRISIL Ratings Limited"
+    },
+    {
+     "name": "Rating Committee",
+     "type": "Organization",
+     "english_name": "Rating Committee"
+    },
+    {
+     "name": "Board of Directors",
+     "type": "Organization",
+     "english_name": "Board of Directors"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4d43d693889cc1908bb16877d7d50ebcea48e1ea": {
+   "entities": [
+    {
+     "name": "Marketing Department (Procurement Wing)",
+     "type": "Organization",
+     "english_name": "Marketing Department (Procurement Wing)"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Harsh Fresh Dairy Products Pvt., Ltd.",
+     "type": "Organization",
+     "english_name": "Harsh Fresh Dairy Products Pvt., Ltd."
+    },
+    {
+     "name": "Uttarakhand",
+     "type": "Place",
+     "english_name": "Uttarakhand"
+    },
+    {
+     "name": "Farmgate Agro Milch Pvt., Ltd.",
+     "type": "Organization",
+     "english_name": "Farmgate Agro Milch Pvt., Ltd."
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": "New Delhi"
+    },
+    {
+     "name": "Chairman",
+     "type": "Person",
+     "english_name": "Chairman"
+    },
+    {
+     "name": "బోలేబాబా",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Harsh Fresh Dairy Products Pvt., Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Uttarakhand",
+     "evidence": "M/s Harsh Fresh Dairy Products Pvt., Ltd.,Uttarakhand"
+    },
+    {
+     "source": "Farmgate Agro Milch Pvt., Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "New Delhi",
+     "evidence": "M/s Farmgate Agro Milch Pvt., Ltd., New Delhi"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2ba7e8099e5c82868a96cab57b5a8d534fb241be": {
+   "entities": [
+    {
+     "name": "Heritage Manufacturing Unit",
+     "type": "Organization",
+     "english_name": "Heritage Manufacturing Unit"
+    },
+    {
+     "name": "Indapur Dairy and Milk Product Limited",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Product Limited"
+    },
+    {
+     "name": "M/s Indapur Dairy and Milk Product Limited, Indapur",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Product Limited"
+    },
+    {
+     "name": "M/s Mother Dairy Fruit & Vegetable Private Limited, Tirupati",
+     "type": "Organization",
+     "english_name": "Mother Dairy Fruit & Vegetable Private Limited"
+    },
+    {
+     "name": "M/s Karnataka Coop Milk Producers Federation Ltd., Bangalore",
+     "type": "Organization",
+     "english_name": "Karnataka Coop Milk Producers Federation Ltd."
+    },
+    {
+     "name": "TTD Board",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "B.R. Naidu",
+     "type": "Person",
+     "english_name": "B.R. Naidu"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Heritage Manufacturing Unit",
+     "type": "Organization",
+     "english_name": "Heritage Manufacturing Unit"
+    },
+    {
+     "name": "Indapur Dairy",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7875000c89e62bfce4489de616e1129fb9ba01d3": {
+   "entities": [
+    {
+     "name": "చంద్రబాబే",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "భోలేబాబాకు",
+     "type": "Person",
+     "english_name": "Bholebaba"
+    },
+    {
+     "name": "M/s Harsh Fresh dairy Products Pvt Ltd",
+     "type": "Organization",
+     "english_name": "M/s Harsh Fresh Dairy Products Pvt Ltd"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Shri P. Jagadeeswara Reddy",
+     "type": "Person",
+     "english_name": "P. Jagadeeswara Reddy"
+    },
+    {
+     "name": "Shri S Prasad",
+     "type": "Person",
+     "english_name": "S Prasad"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4aad3b1dba67fbe8af33d940f36101cb1125a6e0": {
+   "entities": [
+    {
+     "name": "M/s Harsh Fresh dairy Products Pvt Ltd",
+     "type": "Organization",
+     "english_name": "M/s Harsh Fresh Dairy Products Pvt Ltd"
+    },
+    {
+     "name": "బోలేబాబాకు",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93b46be71d714ee9d451a39884b3465064ba9b6e": {
+   "entities": [
+    {
+     "name": "Bhole Baba Milk Food Industries Limited",
+     "type": "Organization",
+     "english_name": "Bhole Baba Milk Food Industries Limited"
+    },
+    {
+     "name": "Heritage foods",
+     "type": "Organization",
+     "english_name": "Heritage Foods"
+    },
+    {
+     "name": "Indiamart",
+     "type": "Organization",
+     "english_name": "Indiamart"
+    },
+    {
+     "name": "Dholpur Fresh",
+     "type": "Scheme",
+     "english_name": "Dholpur Fresh"
+    },
+    {
+     "name": "Jaiko Maharo Rajashtan Ko",
+     "type": "Claim",
+     "english_name": "Jaiko Maharo Rajashtan Ko"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a9a38db49484b8749aa8376b8d0861a97956f0c5": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "CBI-SIT",
+     "type": "Organization",
+     "english_name": "CBI-SIT"
+    },
+    {
+     "name": "Srikalahasti",
+     "type": "Place",
+     "english_name": "Srikalahasti"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Scheme",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "Budget 2026-27",
+     "type": "Scheme",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "TTD",
+     "evidence": "Chandrababu made allegations about animal fat, beef tallow, pork fat, fish oil"
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Srikalahasti",
+     "evidence": "Rejected 4 tankers parked near a stone crusher in Srikalahasti"
+    },
+    {
+     "source": "CBI-SIT",
+     "relation": "LOCATED_IN",
+     "target": "Srikalahasti",
+     "evidence": "per CBI-SIT Chargesheet Pg no 35"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "31575787b1fc4302aa4b3f033d6ead68b04bc2f2": {
+   "entities": [
+    {
+     "name": "Premier Agri Foods (2013–2019)",
+     "type": "Organization",
+     "english_name": "Premier Agri Foods"
+    },
+    {
+     "name": "M/s Premier Agri Foods Pvt. Ltd., Bareilly",
+     "type": "Organization",
+     "english_name": "Premier Agri Foods Pvt. Ltd."
+    },
+    {
+     "name": "M/s Premier Agri Foods Pvt. Ltd",
+     "type": "Organization",
+     "english_name": "Premier Agri Foods Pvt. Ltd"
+    },
+    {
+     "name": "M/s Karnataka Coop Milk Producers Federation Ltd., Bangalore.",
+     "type": "Organization",
+     "english_name": "Karnataka Coop Milk Producers Federation Ltd."
+    },
+    {
+     "name": "M/s Indapur Dairy and Milk Products Limited, Maharashtra.",
+     "type": "Organization",
+     "english_name": "Indapur Dairy and Milk Products Limited"
+    },
+    {
+     "name": "M/s Kolhapur Zilla Sahakari Doodh utpadak Sangh Limited, Maharastra.",
+     "type": "Organization",
+     "english_name": "Kolhapur Zilla Sahakari Doodh utpadak Sangh Limited"
+    },
+    {
+     "name": "CBI-SIT",
+     "type": "Organization",
+     "english_name": "CBI-SIT"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "Premier Agri Foods (2013–2019)",
+     "evidence": "CBI-SIT ఛార్జిషీటులో ఆరోపణలు ఎదుర్కొంటున్న ప్రీమియర్ అగ్రి ఫుడ్స్ 2013 నుంచి 2014-19 మధ్య చంద్రబాబు హయాంలో వరుసగా టెండర్ దక్కించుకుంటూ నెయ్యి సప్లై చేసింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "63d3a76af76f208364213909c1ef511fad48fe44": {
+   "entities": [
+    {
+     "name": "బోలే బాబా",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    },
+    {
+     "name": "ఇందాపూర్",
+     "type": "Place",
+     "english_name": "Indapur"
+    },
+    {
+     "name": "హెరిటేజ్",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Premier Dairy",
+     "type": "Organization",
+     "english_name": "Premier Dairy"
+    },
+    {
+     "name": "TTD Tender",
+     "type": "Organization",
+     "english_name": "TTD Tender"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c6122f2521802bf06c2dcc320e522d80492eadcd": {
+   "entities": [
+    {
+     "name": "M/s A R Dairy Food Private Limited (A-1)",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "M/s Sri Vyshnavi Dairy Specialties Private Limited (A-6)",
+     "type": "Organization",
+     "english_name": "M/s Sri Vyshnavi Dairy Specialties Private Limited"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Vinaykanth Chavda (A-5)",
+     "type": "Person",
+     "english_name": "Vinaykanth Chavda"
+    },
+    {
+     "name": "Shabbil Kalimulla Khan @ Sameer (A-8)",
+     "type": "Person",
+     "english_name": "Shabbil Kalimulla Khan"
+    },
+    {
+     "name": "Sri Raghavendra Crusher",
+     "type": "Place",
+     "english_name": "Sri Raghavendra Crusher"
+    },
+    {
+     "name": "CBI SIT Charge Sheet",
+     "type": "Claim",
+     "english_name": "CBI SIT Charge Sheet"
+    },
+    {
+     "name": "rejected 4 tankers of M/s A R Dairy Food Private Limited (A-1)",
+     "type": "Claim",
+     "english_name": "rejected 4 tankers of M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "adulterated ghee",
+     "type": "Claim",
+     "english_name": "adulterated ghee"
+    },
+    {
+     "name": "LADDU HERITAGE INDHAPUR",
+     "type": "Issue",
+     "english_name": "LADDU HERITAGE INDHAPUR"
+    },
+    {
+     "name": "BHOLEBABA",
+     "type": "Issue",
+     "english_name": "BHOLEBABA"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Vinaykanth Chavda (A-5)",
+     "relation": "ACCUSES",
+     "target": "Shabbil Kalimulla Khan @ Sameer (A-8)",
+     "evidence": "Vinaykanth Chavda (A-5) and Shabbil Kalimulla Khan @ Sameer (A-8), instead of directing the rejected four tankers to M/s A R Dairy Food Private Limited (A-1), they directed four drivers of M/s Sri Vyshnavi Dairy Specialties Private Limited (A-6) to conceal four rejected tankers"
+    },
+    {
+     "source": "Shabbil Kalimulla Khan @ Sameer (A-8)",
+     "relation": "ACCUSES",
+     "target": "M/s Sri Vyshnavi Dairy Specialties Private Limited (A-6)",
+     "evidence": "Shabbil Kalimulla Khan @ Sameer (A-8) ... directed four drivers of M/s Sri Vyshnavi Dairy Specialties Private Limited (A-6) to conceal four rejected tankers"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "69df73a001bedbb251f57a1fac6c7497bdffd1bb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f5587dcde9a4bb0be53b3fd5fa2b2051247a7e65": {
+   "entities": [
+    {
+     "name": "AR Dairy",
+     "type": "Organization",
+     "english_name": "AR Dairy"
+    },
+    {
+     "name": "A-1",
+     "type": "Organization",
+     "english_name": "A-1"
+    },
+    {
+     "name": "Dindigul",
+     "type": "Place",
+     "english_name": "Dindigul"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    }
+   ],
+   "relations": [
+    {
+     "source": "AR Dairy",
+     "relation": "LOCATED_IN",
+     "target": "Dindigul",
+     "evidence": "Dindigul by supplying"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

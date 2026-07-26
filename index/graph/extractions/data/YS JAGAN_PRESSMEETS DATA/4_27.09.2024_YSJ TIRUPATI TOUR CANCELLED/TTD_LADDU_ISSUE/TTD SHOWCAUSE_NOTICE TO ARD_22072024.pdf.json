@@ -1,0 +1,350 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e7e170f1f49ae5f71a9da93a541f1689438e36a5": {
+   "entities": [
+    {
+     "name": "P.MURALI KRISHNA, M.I.E.",
+     "type": "Person",
+     "english_name": "P. Murali Krishna, M.I.E."
+    },
+    {
+     "name": "General Manager (Procurement)",
+     "type": "Organization",
+     "english_name": "General Manager (Procurement)"
+    },
+    {
+     "name": "T.T.Devasthanams, Tirupati",
+     "type": "Organization",
+     "english_name": "T.T. Devasthanams, Tirupati"
+    },
+    {
+     "name": "M/s A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "TRINITY COLLEGE CALCUTTA",
+     "type": "Organization",
+     "english_name": "Trinity College Calcutta"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Show Cause Notice",
+     "type": "Claim",
+     "english_name": "Show Cause Notice"
+    },
+    {
+     "name": "Cow Ghee with Agmark special grade",
+     "type": "Scheme",
+     "english_name": "Cow Ghee with Agmark special grade"
+    }
+   ],
+   "relations": [
+    {
+     "source": "P.MURALI KRISHNA, M.I.E.",
+     "relation": "MAKES_CLAIM",
+     "target": "Show Cause Notice",
+     "evidence": "SHOW CAUSE NOTICE"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "90b6efa03bfe9d368e782e64ca7fec938b71916b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c7159ba4511934c7bd26a78c664753e6fccbc081": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Baudouin Test",
+     "type": "Claim",
+     "english_name": "Baudouin Test"
+    },
+    {
+     "name": "Iodine Value",
+     "type": "Claim",
+     "english_name": "Iodine Value"
+    },
+    {
+     "name": "Saponification Value",
+     "type": "Claim",
+     "english_name": "Saponification Value"
+    },
+    {
+     "name": "Presence of β-sitosterol",
+     "type": "Claim",
+     "english_name": "Presence of β-sitosterol"
+    },
+    {
+     "name": "Fatty Acid Composition",
+     "type": "Claim",
+     "english_name": "Fatty Acid Composition"
+    },
+    {
+     "name": "Added Colour",
+     "type": "Claim",
+     "english_name": "Added Colour"
+    },
+    {
+     "name": "Melting Point, °C",
+     "type": "Claim",
+     "english_name": "Melting Point, °C"
+    },
+    {
+     "name": "Mineral Oil",
+     "type": "Claim",
+     "english_name": "Mineral Oil"
+    },
+    {
+     "name": "Rancidity",
+     "type": "Claim",
+     "english_name": "Rancidity"
+    },
+    {
+     "name": "Physical Appearance",
+     "type": "Claim",
+     "english_name": "Physical Appearance"
+    },
+    {
+     "name": "Sensory parameters",
+     "type": "Claim",
+     "english_name": "Sensory parameters"
+    },
+    {
+     "name": "Vide clause.47 of the agreement",
+     "type": "Claim",
+     "english_name": "Vide clause.47 of the agreement"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4b60e09a2dc1448f6bc37911f161d5b7aaf8fcd8": {
+   "entities": [
+    {
+     "name": "M/s A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "CALF",
+     "type": "Organization",
+     "english_name": "CALF"
+    },
+    {
+     "name": "NABL",
+     "type": "Organization",
+     "english_name": "NABL"
+    },
+    {
+     "name": "Lord Venkateswara swamy",
+     "type": "Person",
+     "english_name": "Lord Venkateswara swamy"
+    },
+    {
+     "name": "clause.10",
+     "type": "Claim",
+     "english_name": "clause.10"
+    },
+    {
+     "name": "clause.23",
+     "type": "Claim",
+     "english_name": "clause.23"
+    },
+    {
+     "name": "Table - 1",
+     "type": "Claim",
+     "english_name": "Table - 1"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9b68bdf8fabedc909f19614a57ee89ccb3216a51": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "FSSR",
+     "type": "Organization",
+     "english_name": "FSSR"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    },
+    {
+     "name": "clause 49",
+     "type": "Claim",
+     "english_name": "clause 49"
+    },
+    {
+     "name": "clause 65",
+     "type": "Claim",
+     "english_name": "clause 65"
+    },
+    {
+     "name": "clause 74",
+     "type": "Claim",
+     "english_name": "clause 74"
+    },
+    {
+     "name": "Fatty acid Profile",
+     "type": "Claim",
+     "english_name": "Fatty acid Profile"
+    },
+    {
+     "name": "β-Sitosterol",
+     "type": "Claim",
+     "english_name": "β-Sitosterol"
+    },
+    {
+     "name": "Purity of Milk Fat",
+     "type": "Claim",
+     "english_name": "Purity of Milk Fat"
+    },
+    {
+     "name": "Butyric acid (C4:0)",
+     "type": "Claim",
+     "english_name": "Butyric acid (C4:0)"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7cd7b6d0ed07b810b17f27d1f4d88ca7a408b589": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "General Manager (Procurement)",
+     "type": "Person",
+     "english_name": "General Manager (Procurement)"
+    },
+    {
+     "name": "Dy.Exe.Officer (WH)",
+     "type": "Person",
+     "english_name": "Dy.Exe.Officer (WH)"
+    },
+    {
+     "name": "firm",
+     "type": "Organization",
+     "english_name": "firm"
+    }
+   ],
+   "relations": [
+    {
+     "source": "General Manager (Procurement)",
+     "relation": "ACCUSES",
+     "target": "firm",
+     "evidence": "the firm has violated the terms and conditions of the contract agreement by not adhering to the specifications as per prescribed standards of FSSR and Agmark special grade vide clause No.23 and 74 of agreement and therefore under clause 47,49 and 65 of the agreement you are liable for blacklisting."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fe2bd1c0abf7c70bcc2eda61865efcb666027979": {
+   "entities": [
+    {
+     "name": "ghee samples",
+     "type": "Claim",
+     "english_name": "ghee samples"
+    },
+    {
+     "name": "Tanker No. AP26 TC 4779",
+     "type": "Organization",
+     "english_name": "Tanker No. AP26 TC 4779"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Food Safety and Standards Regulation",
+     "type": "Organization",
+     "english_name": "Food Safety and Standards Regulation"
+    },
+    {
+     "name": "NABL-accredited laboratory",
+     "type": "Organization",
+     "english_name": "NABL-accredited laboratory"
+    },
+    {
+     "name": "ISO/IEC 17025:2017",
+     "type": "Organization",
+     "english_name": "ISO/IEC 17025:2017"
+    },
+    {
+     "name": "β-sitosterol",
+     "type": "Claim",
+     "english_name": "β-sitosterol"
+    },
+    {
+     "name": "vegetable origin",
+     "type": "Claim",
+     "english_name": "vegetable origin"
+    },
+    {
+     "name": "fatty acid profile",
+     "type": "Claim",
+     "english_name": "fatty acid profile"
+    },
+    {
+     "name": "triglyceride composition pattern",
+     "type": "Claim",
+     "english_name": "triglyceride composition pattern"
+    },
+    {
+     "name": "Food Safety and Standards Regulation, 2011",
+     "type": "Organization",
+     "english_name": "Food Safety and Standards Regulation, 2011"
+    },
+    {
+     "name": "Agmark special grade standards",
+     "type": "Organization",
+     "english_name": "Agmark special grade standards"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

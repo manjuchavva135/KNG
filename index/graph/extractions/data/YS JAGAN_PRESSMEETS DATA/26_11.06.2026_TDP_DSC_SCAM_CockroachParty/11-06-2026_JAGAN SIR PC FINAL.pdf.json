@@ -1,0 +1,1017 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6d039ef7fcbfe9411177d4c8fa7cc1344137f5c3": {
+   "entities": [
+    {
+     "name": "NAVEEN PURAMA",
+     "type": "Person",
+     "english_name": "Naveen Purama"
+    },
+    {
+     "name": "KOLA RAMANJANEYULU",
+     "type": "Person",
+     "english_name": "Kola Ramanjaneyulu"
+    },
+    {
+     "name": "GOLLA HEMA KUMARI",
+     "type": "Person",
+     "english_name": "Golla Hema Kumari"
+    },
+    {
+     "name": "NAGENDRA BABU TALLURI",
+     "type": "Person",
+     "english_name": "Nagendra Babu Talluri"
+    },
+    {
+     "name": "MEDISETTI RANGAPRASAD",
+     "type": "Person",
+     "english_name": "Medisetti Rangaprasad"
+    },
+    {
+     "name": "PRASAD PULIVARTHI",
+     "type": "Person",
+     "english_name": "Prasad Pulivarthi"
+    },
+    {
+     "name": "AP Mega DSC-2025",
+     "type": "Organization",
+     "english_name": "AP Mega DSC-2025"
+    },
+    {
+     "name": "SA(NL) - SOCIAL STUDIES",
+     "type": "Organization",
+     "english_name": "SA(NL) - Social Studies"
+    },
+    {
+     "name": "KRISHNA",
+     "type": "Place",
+     "english_name": "Krishna"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d4dd0dca9c5e99713ba61ebd10f955fe059d9288": {
+   "entities": [
+    {
+     "name": "AP Mega DSC-2025 - Merit List",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "KOLA RAMANJANEYULU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SUBBARARAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "GOLLA HEMA KUMARI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "GOLLA SUBBA RAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NAGENDRA BABU TALLURI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "NAGABHUSHANAM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MEDISETTI RANGAPRASAD",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "MEDISETTI RAVI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PRASAD PULIVARTHI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PULIVARTHI BHASKARA RAO",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "A V V NAGALAKSHMI",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "RADHA KRISHNA",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2373125d5decc083d254920d48189737367c750c": {
+   "entities": [
+    {
+     "name": "Purama Naveen",
+     "type": "Person",
+     "english_name": "Purama Naveen"
+    },
+    {
+     "name": "DSC candidate login blocked",
+     "type": "Claim",
+     "english_name": "DSC candidate login blocked"
+    },
+    {
+     "name": "mdsc MDSC0156824",
+     "type": "Organization",
+     "english_name": "MDSC0156824"
+    },
+    {
+     "name": "dscgrievances@apschooledu.in",
+     "type": "Organization",
+     "english_name": "dscgrievances@apschooledu.in"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Purama Naveen",
+     "relation": "MAKES_CLAIM",
+     "target": "DSC candidate login blocked",
+     "evidence": "I am p. Naveen my maga dsc id mdsc MDSC0156824 is not login from 26.08.2025 to till now 03.09.2025 so I couldn't receive the call letter."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7fab1a007f663ec8dfa4a32f97918355629959cb": {
+   "entities": [
+    {
+     "name": "నవీన్కు",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "School Assistant (Social Studies)",
+     "type": "Scheme",
+     "english_name": "School Assistant (Social Studies)"
+    },
+    {
+     "name": "TGT (Telugu)",
+     "type": "Scheme",
+     "english_name": "TGT (Telugu)"
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "Zone-II",
+     "type": "Place",
+     "english_name": "Zone-II"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9824f00e7a208a6f8db0d29f23a74086f049619b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4ced5499e0a15c561998ef27f8b9388f4505204a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d7346cbda5fa1b8d26fdff7faaadb1dc695fa522": {
+   "entities": [
+    {
+     "name": "P.Naveen",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "M.V.Krishna Reddy Garu",
+     "type": "Person",
+     "english_name": "M. V. Krishna Reddy"
+    },
+    {
+     "name": "DEO office Krishna",
+     "type": "Organization",
+     "english_name": "DEO Office Krishna"
+    },
+    {
+     "name": "Vidya Bhavan",
+     "type": "Organization",
+     "english_name": "Vidya Bhavan"
+    },
+    {
+     "name": "Mega DSC-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "DSC Scam",
+     "type": "Issue",
+     "english_name": "DSC Scam"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b46eac167444c065b0c764a15fc2fbc9dd0983c3": {
+   "entities": [
+    {
+     "name": "GO - Scheme of Selection Rules Notified",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "GOVERNMENT OF ANDHRA PRADESH",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "School Education - Mega DSC-2025 - The Andhra Pradesh Teacher Recruitment Test (AP TRT)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Principals",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Post Graduate Teachers (PGTs)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Trained Graduate Teachers (TGTs)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Physical Education Teachers (PETs)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "AP Model Schools",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MJPAPBCWREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APSWREIS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "APTWREIS (Gurukulam) Schools",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "G.O.Ms.No:16",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "School Education (Services-I) Department",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "School Education (Services-I) Department",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "in Andhra Pradesh and such other categories of teacher posts in such other schools as may be notified by the Government from time to time."
+    },
+    {
+     "source": "G.O.Ms.No:16",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Dated:19.04.2025"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c45f2b4fc842ffb722900992226951e998d6659b": {
+   "entities": [
+    {
+     "name": "G.O.Ms.No.23",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.23"
+    },
+    {
+     "name": "G.O.Ms.No.18",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.18"
+    },
+    {
+     "name": "G.O.Ms.No.4",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.4"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Sports Policy 2024-29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "Governor of Andhra Pradesh",
+     "type": "Person",
+     "english_name": "Governor of Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c323fd11553b9e561676a600df5934205d30144f": {
+   "entities": [
+    {
+     "name": "G.O.Ms.No. 74",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No. 74"
+    },
+    {
+     "name": "YOUTH SERVICES & SPORTS",
+     "type": "Organization",
+     "english_name": "YOUTH SERVICES & SPORTS"
+    },
+    {
+     "name": "YOUTH ADVANCEMENT, TOURISM & CULTURE (SPORTS) DEPARTMENT",
+     "type": "Organization",
+     "english_name": "YOUTH ADVANCEMENT, TOURISM & CULTURE (SPORTS) DEPARTMENT"
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "36628ecb7064109e8c4532fb82b17d44cc8efb48": {
+   "entities": [
+    {
+     "name": "3% horizontal reservation",
+     "type": "Scheme",
+     "english_name": "3% horizontal reservation"
+    },
+    {
+     "name": "direct recruitment",
+     "type": "Scheme",
+     "english_name": "direct recruitment"
+    },
+    {
+     "name": "Government Departments",
+     "type": "Organization",
+     "english_name": "Government Departments"
+    },
+    {
+     "name": "Local Bodies",
+     "type": "Organization",
+     "english_name": "Local Bodies"
+    },
+    {
+     "name": "PSUs",
+     "type": "Organization",
+     "english_name": "PSUs"
+    },
+    {
+     "name": "Uniform Services",
+     "type": "Organization",
+     "english_name": "Uniform Services"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "Excise",
+     "type": "Organization",
+     "english_name": "Excise"
+    },
+    {
+     "name": "Forest Departments",
+     "type": "Organization",
+     "english_name": "Forest Departments"
+    },
+    {
+     "name": "meritorious sportspersons",
+     "type": "Person",
+     "english_name": "meritorious sportspersons"
+    },
+    {
+     "name": "Grade III coaches",
+     "type": "Scheme",
+     "english_name": "Grade III coaches"
+    },
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "National/International medallists",
+     "type": "Person",
+     "english_name": "National/International medallists"
+    },
+    {
+     "name": "selection board",
+     "type": "Organization",
+     "english_name": "selection board"
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Party",
+     "english_name": "TDP alliance Government"
+    },
+    {
+     "name": "GO passed by the TDP alliance Government on 10th December, 2024",
+     "type": "Scheme",
+     "english_name": "GO passed by the TDP alliance Government on 10th December, 2024"
+    },
+    {
+     "name": "qualifying marks in the exams",
+     "type": "Claim",
+     "english_name": "qualifying marks in the exams"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance Government",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "3% horizontal reservation",
+     "evidence": "Provision of a 3% horizontal reservation in direct recruitment across Government Departments, Local Bodies, PSUs, and Uniform Services such as Police, Excise, and Forest Departments etc., for meritorious sportspersons, who qualify in the prescribed recruitment examinations conducted by the recruiting agencies."
+    },
+    {
+     "source": "TDP alliance Government",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "direct recruitment",
+     "evidence": "Provision of a 3% horizontal reservation in direct recruitment across Government Departments, Local Bodies, PSUs, and Uniform Services such as Police, Excise, and Forest Departments etc., for meritorious sportspersons, who qualify in the prescribed recruitment examinations conducted by the recruiting agencies."
+    },
+    {
+     "source": "TDP alliance Government",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Grade III coaches",
+     "evidence": "Provision of 50% of Grade III coaches in SAAP shall be filled by National/International medallists recruited through the selection board."
+    },
+    {
+     "source": "TDP alliance Government",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "GO passed by the TDP alliance Government on 10th December, 2024",
+     "evidence": "The GO passed by the TDP alliance Government on 10th December, 2024, enabling the direct recruitment without examination was subsequently modified and the requirement of securing qualifying marks in the exams was reintroduced."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "738e04be52c02b0ff7dfe7c25fc3f358dbf1dc88": {
+   "entities": [
+    {
+     "name": "G.O.Ms.No.18 Youth Advancement, Tourism & Culture (Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.18 Youth Advancement, Tourism & Culture (Sports & Youth Services) Department"
+    },
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "AndhraPradesh Gazette",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Gazette"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "919fc3d8acb4d5e9a54ebccd2707cbe4389a99ee": {
+   "entities": [
+    {
+     "name": "G.O.MS.No. 4",
+     "type": "Organization",
+     "english_name": "Government Order No. 4"
+    },
+    {
+     "name": "G.O.MS.No. 47",
+     "type": "Organization",
+     "english_name": "Government Order No. 47"
+    },
+    {
+     "name": "YAT&C (Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "Youth Affairs and Tourism (Sports & Youth Services) Department"
+    },
+    {
+     "name": "YOUTH ADVANCEMENT, TOURISM & CULTURE (Sports & Youth Services) DEPARTMENT",
+     "type": "Organization",
+     "english_name": "Youth Advancement, Tourism & Culture (Sports & Youth Services) Department"
+    },
+    {
+     "name": "GENERAL ADMINISTATION (SERVICES.D) DEPARTMENT",
+     "type": "Organization",
+     "english_name": "General Administration (Services.D) Department"
+    },
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Andhra Pradesh State and Subordinate Service Rules, 1996",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State and Subordinate Service Rules, 1996"
+    },
+    {
+     "name": "Sports Policy 2024-29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "DSC Scam",
+     "type": "Issue",
+     "english_name": "DSC Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sports Policy 2024-29",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "DSC Scam",
+     "evidence": "DSC Scam"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "97eed3f4f94e6ec169db07df7313a6fe5b1822e6": {
+   "entities": [
+    {
+     "name": "YAT&C (Sps& YS) Department",
+     "type": "Organization",
+     "english_name": "Youth Advancement Tourism & Culture Department"
+    },
+    {
+     "name": "Sports Policy 2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024–29"
+    },
+    {
+     "name": "G.O.Ms.No.23",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 23"
+    },
+    {
+     "name": "G.O.Ms.No.18",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 18"
+    },
+    {
+     "name": "G.O.Ms.No.4",
+     "type": "Organization",
+     "english_name": "Government Order Ms. No. 4"
+    },
+    {
+     "name": "Sports Authority of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh"
+    },
+    {
+     "name": "Vice Chairman & Managing Director",
+     "type": "Person",
+     "english_name": "Vice Chairman & Managing Director"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "G.O.Ms.No.23",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Government of Andhra Pradesh issued the Sports Policy 2024–29"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b6c9a61c441f677376616c8625cfe8a795ea1251": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1a4e4a424fa13b86588d553a3351db809d8e96b8": {
+   "entities": [
+    {
+     "name": "YAT&C (Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "YAT&C (Sports & Youth Services) Department"
+    },
+    {
+     "name": "Sports Policy 2024-29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "Swarna Andhra Pradesh",
+     "type": "Scheme",
+     "english_name": "Swarna Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "39edbe618dc3e0b34b27f4bbe6f7f2410684b250": {
+   "entities": [
+    {
+     "name": "Sports Policy 2024-29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "G.O.Ms.No.18",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.18"
+    },
+    {
+     "name": "Youth Advancement, Tourism & Culture (Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "Youth Advancement, Tourism & Culture (Sports & Youth Services) Department"
+    },
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "Andhra Pradesh Gazette",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Gazette"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "077fa471b956e44d3cfb3665a923702285d92b24": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ స్పోర్ట్స్ కోటా ఉద్యోగాల్లో బేరసారాలపై తూతూ మంత్రంగా FIR..",
+     "type": "Claim",
+     "english_name": "FIR on DSC Sports Quota Job Bargaining"
+    },
+    {
+     "name": "FIRST INFORMATION REPORT",
+     "type": "Organization",
+     "english_name": "First Information Report"
+    },
+    {
+     "name": "A.P.P.M. Orders 470,500",
+     "type": "Organization",
+     "english_name": "A.P.P.M. Orders 470,500"
+    },
+    {
+     "name": "NTR",
+     "type": "Place",
+     "english_name": "NTR"
+    },
+    {
+     "name": "P.S. Cyber Crime",
+     "type": "Organization",
+     "english_name": "Police Station Cyber Crime"
+    },
+    {
+     "name": "2025",
+     "type": "Organization",
+     "english_name": "2025"
+    },
+    {
+     "name": "FIR No. 75/2025",
+     "type": "Organization",
+     "english_name": "FIR No. 75/2025"
+    },
+    {
+     "name": "25/08/2025",
+     "type": "Organization",
+     "english_name": "25/08/2025"
+    },
+    {
+     "name": "319(2) BNS,66-D ITA-2000-2008",
+     "type": "Organization",
+     "english_name": "319(2) BNS,66-D ITA-2000-2008"
+    },
+    {
+     "name": "R Venkata Ramana Naik",
+     "type": "Person",
+     "english_name": "R Venkata Ramana Naik"
+    },
+    {
+     "name": "Ramulu late",
+     "type": "Person",
+     "english_name": "Ramulu late"
+    },
+    {
+     "name": "Sugalis (Lambadis)",
+     "type": "Organization",
+     "english_name": "Sugalis (Lambadis)"
+    },
+    {
+     "name": "Govt. official Gazetted",
+     "type": "Organization",
+     "english_name": "Govt. official Gazetted"
+    },
+    {
+     "name": "Sports Authority Of Andhra Vijayawada Urban IGMC Stadium, Mg Road",
+     "type": "Organization",
+     "english_name": "Sports Authority Of Andhra Vijayawada Urban IGMC Stadium, Mg Road"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f330298386bcc1be8398936276d4c06acf48ce9f": {
+   "entities": [
+    {
+     "name": "బేరసారాలు చేసిన",
+     "type": "Claim",
+     "english_name": "Bargaining done"
+    },
+    {
+     "name": "వాట్సాప్ నెంబర్",
+     "type": "Organization",
+     "english_name": "WhatsApp number"
+    },
+    {
+     "name": "ప్రభుత్వ రాజముద్రను వాట్సాప్ డీపీగా పెట్టుకొని డీఎస్సీ అభ్యర్థులతో బేరసారాలు",
+     "type": "Claim",
+     "english_name": "Bargaining with DSC candidates using government seal as WhatsApp DP"
+    },
+    {
+     "name": "Bontha Rosaiah",
+     "type": "Person",
+     "english_name": "Bontha Rosaiah"
+    },
+    {
+     "name": "Peddabbai",
+     "type": "Person",
+     "english_name": "Peddabbai"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Chirala",
+     "type": "Place",
+     "english_name": "Chirala"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    },
+    {
+     "name": "Budget/CAG",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వాట్సాప్ నెంబర్",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh"
+    },
+    {
+     "source": "Bontha Rosaiah",
+     "relation": "MAKES_CLAIM",
+     "target": "బేరసారాలు చేసిన",
+     "evidence": "బేరసారాలు చేసిన"
+    },
+    {
+     "source": "Peddabbai",
+     "relation": "MAKES_CLAIM",
+     "target": "బేరసారాలు చేసిన",
+     "evidence": "బేరసారాలు చేసిన"
+    },
+    {
+     "source": "బేరసారాలు చేసిన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "DSC scam",
+     "evidence": "బేరసారాలు చేసిన"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "22bbad3be4b931750a8d4044a48377080d3ea706": {
+   "entities": [
+    {
+     "name": "R.Venkata Ramana Naik",
+     "type": "Person",
+     "english_name": "R. Venkata Ramana Naik"
+    },
+    {
+     "name": "Sports Authorities of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authorities of Andhra Pradesh"
+    },
+    {
+     "name": "Nallam Durga Prasad",
+     "type": "Person",
+     "english_name": "Nallam Durga Prasad"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ad128756d66a279915a228b42c2732d8f67401d7": {
+   "entities": [
+    {
+     "name": "Government of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Public Services - Andhra Pradesh State and Subordinate Service Rules, 1996",
+     "type": "Organization",
+     "english_name": "Public Services - Andhra Pradesh State and Subordinate Service Rules, 1996"
+    },
+    {
+     "name": "G.O.Ms.No. 56",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No. 56"
+    },
+    {
+     "name": "GENERAL ADMINISTRATION (SERVICES-D) DEPARTMENT",
+     "type": "Organization",
+     "english_name": "GENERAL ADMINISTRATION (SERVICES-D) DEPARTMENT"
+    },
+    {
+     "name": "G.O.Ms.No.04",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.04"
+    },
+    {
+     "name": "YAT&C (Sports & Youth Services) Department",
+     "type": "Organization",
+     "english_name": "YAT&C (Sports & Youth Services) Department"
+    },
+    {
+     "name": "G.O.Ms.No.47",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.47"
+    },
+    {
+     "name": "G.O.Ms.No.25",
+     "type": "Organization",
+     "english_name": "G.O.Ms.No.25"
+    },
+    {
+     "name": "Andhra Pradesh Public Service Commission",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "three percent (3%) horizontal reservation",
+     "type": "Scheme",
+     "english_name": "three percent (3%) horizontal reservation"
+    },
+    {
+     "name": "meritorious sportspersons",
+     "type": "Person",
+     "english_name": "meritorious sportspersons"
+    },
+    {
+     "name": "Direct Recruitment",
+     "type": "Scheme",
+     "english_name": "Direct Recruitment"
+    },
+    {
+     "name": "Government Departments",
+     "type": "Organization",
+     "english_name": "Government Departments"
+    },
+    {
+     "name": "Local Bodies",
+     "type": "Organization",
+     "english_name": "Local Bodies"
+    },
+    {
+     "name": "Public Sector Undertakings (PSUs)",
+     "type": "Organization",
+     "english_name": "Public Sector Undertakings (PSUs)"
+    },
+    {
+     "name": "Uniformed Services",
+     "type": "Organization",
+     "english_name": "Uniformed Services"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "Excise",
+     "type": "Organization",
+     "english_name": "Excise"
+    },
+    {
+     "name": "Forest Departments",
+     "type": "Organization",
+     "english_name": "Forest Departments"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7487e441c713ab82b26ebc281933d7cae5f193a1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3776af70d4333e712ba201f3a8f9df5b9f097972": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b2e4d9b2927cf26f10f7fd1a1841a5f5e694ee6d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

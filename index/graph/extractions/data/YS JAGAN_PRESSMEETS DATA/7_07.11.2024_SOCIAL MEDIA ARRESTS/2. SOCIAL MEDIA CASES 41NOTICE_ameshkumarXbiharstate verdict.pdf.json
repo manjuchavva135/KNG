@@ -1,0 +1,125 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b99392df92e41b188b435f8117698ff68fa0cb45": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "940fd71159700f52c755e81b96e7880a9ab447a8": {
+   "entities": [
+    {
+     "name": "Arnesh Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "State Of Bihar & Anr",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Secretaries",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Director Generals of Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Union Territories",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Registrar General",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "J (CHANDRAMAULI KR. PRASAD)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "J (PINAKI CHANDRA GHOSE)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Indian Kanoon",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Arnesh Kumar",
+     "relation": "ACCUSES",
+     "target": "State Of Bihar & Anr",
+     "evidence": "Arnesh Kumar vs State Of Bihar & Anr on 2 July, 2014"
+    },
+    {
+     "source": "High Court",
+     "relation": "LOCATED_IN",
+     "target": "Delhi",
+     "evidence": "DELHI, July 2, 2014."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4ceb8fa9509dd93bff39ec803669659c2778eac6": {
+   "entities": [
+    {
+     "name": "Arnesh Kumar vs State Of Bihar & Anr",
+     "type": "Claim",
+     "english_name": "Arnesh Kumar vs State Of Bihar & Anr"
+    },
+    {
+     "name": "Section 41 Cr.PC",
+     "type": "Scheme",
+     "english_name": "Section 41 Cr.PC"
+    },
+    {
+     "name": "Section 498-A of the IPC",
+     "type": "Scheme",
+     "english_name": "Section 498-A of the IPC"
+    },
+    {
+     "name": "State Governments",
+     "type": "Organization",
+     "english_name": "State Governments"
+    },
+    {
+     "name": "police officers",
+     "type": "Organization",
+     "english_name": "police officers"
+    },
+    {
+     "name": "Magistrate",
+     "type": "Organization",
+     "english_name": "Magistrate"
+    },
+    {
+     "name": "Superintendent of police of the district",
+     "type": "Organization",
+     "english_name": "Superintendent of police of the district"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

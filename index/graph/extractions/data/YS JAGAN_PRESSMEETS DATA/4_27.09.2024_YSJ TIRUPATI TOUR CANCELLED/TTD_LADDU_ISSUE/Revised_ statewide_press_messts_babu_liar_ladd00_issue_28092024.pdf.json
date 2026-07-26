@@ -1,0 +1,315 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c15e05fa487b40ae58cd378ab4ed14accd5a5e3d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "మైసూర్లోని CFTRI",
+     "type": "Organization",
+     "english_name": "CFTRI Mysore"
+    },
+    {
+     "name": "గుజరాత్లోని NDDB",
+     "type": "Organization",
+     "english_name": "NDDB Gujarat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "చంద్రబాబు పాపాలను ఎండగట్టడంతో పాటు, అన్ని వాస్తవాలను జగన్గారు తన ప్రెస్మీట్లో తేటతెల్లం చేశారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పాపాలను ఎండగట్టడంతో పాటు, అన్ని వాస్తవాలను జగన్గారు తన ప్రెస్మీట్లో తేటతెల్లం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2b0122a7391bf4bf16ec645a6c5e8ffa3d4861cb": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిరుమల లడ్డూ వ్యవహారం",
+     "type": "Issue",
+     "english_name": "Tirumala Laddu affair"
+    },
+    {
+     "name": "వైయస్సార్ కాంగ్రెస్ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "వైయస్.జగన్మోహన్రెడ్డిగారి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "వేంకటేశ్వరస్వామి",
+     "type": "Person",
+     "english_name": "Venkateswara Swamy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "వైయస్సార్ కాంగ్రెస్ పార్టీమీద బురదజల్లాలనే ప్రయత్నంలో ఏకంగా కలియుగ వైకుంఠంగా పిలిచే తిరుమల క్షేత్రంమీదే చంద్రబాబు బురదజల్లి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్.జగన్మోహన్రెడ్డిగారి",
+     "evidence": "వైయస్సార్ కాంగ్రెస్ పార్టీమీద, వైయస్.జగన్మోహన్రెడ్డిగారిమీద బురదజల్లాలనే ప్రయత్నంలో ఏకంగా కలియుగ వైకుంఠంగా పిలిచే తిరుమల క్షేత్రంమీదే చంద్రబాబు బురదజల్లి."
+    },
+    {
+     "source": "వైయస్.జగన్మోహన్రెడ్డిగారి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "వైయస్సార్ కాంగ్రెస్ పార్టీమీద, వైయస్.జగన్మోహన్రెడ్డిగారిమీద బురదజల్లాలనే ప్రయత్నంలో ఏకంగా కలియుగ వైకుంఠంగా పిలిచే తిరుమల క్షేత్రంమీదే చంద్రబాబు బురదజల్లి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "37dc47a1736e3433a5d9f34026a5d1134fa1622f": {
+   "entities": [
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జగన్గారు",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఈఓ",
+     "type": "Person",
+     "english_name": "EO"
+    },
+    {
+     "name": "నెయ్యి",
+     "type": "Scheme",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "వనస్పతి",
+     "type": "Scheme",
+     "english_name": "Vanaspati"
+    },
+    {
+     "name": "Vegetable fat",
+     "type": "Scheme",
+     "english_name": "Vegetable fat"
+    },
+    {
+     "name": "Animal fat",
+     "type": "Scheme",
+     "english_name": "Animal fat"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "TTD",
+     "evidence": "చంద్రబాబుగారు ఆ నెయ్యిని వాడారని రాష్ట్ర NDA నేతల సమావేశంలో ఎందుకు అన్నారు?"
+    },
+    {
+     "source": "జగన్గారు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబుగారు",
+     "evidence": "జగన్గారు ఆ వీడియోలను ప్రదర్శించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "42b46d9686624720fd28ca75aa1505bc563505c4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారూ",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సత్యమేవ జయతే",
+     "type": "Claim",
+     "english_name": "Satyameva Jayate"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారూ",
+     "relation": "MAKES_CLAIM",
+     "target": "సత్యమేవ జయతే",
+     "evidence": "సత్యమేవ జయతే"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "acd5861a7096983106c15d79ddff08512f2a5fac": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "సిట్",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "ఐజీ",
+     "type": "Person",
+     "english_name": "IG"
+    },
+    {
+     "name": "పచ్చచొక్కా వేసుకున్న వ్యక్తి",
+     "type": "Person",
+     "english_name": "Pachcha shirt person"
+    },
+    {
+     "name": "వైయస్సార్సీపీ పార్టీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "జగన్గారు",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ప్రధానమంత్రి",
+     "type": "Person",
+     "english_name": "Prime Minister"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "నేయి కల్తీ అయ్యిందంటూ చంద్రబాబుగారు ఆరోపణలు చేస్తున్న"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ఐజీ",
+     "evidence": "ఆ సిట్లో కూడా చంద్రబాబు చేతిలోనే మనిషినే పెట్టారు. ఐజీగా ఉన్న వ్యక్తి.."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "పచ్చచొక్కా వేసుకున్న వ్యక్తి",
+     "evidence": "ఎన్నికల ముందు, ఎన్నికల తర్వాత పల్నాడులో ఎంతటి అరాచకానికి కారకుడు అయ్యాడో, పచ్చచొక్కా వేసుకున్న వ్యక్తిలా ఎలా పనిచేశాడో లోకం అంతా చూసింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "72896fde4d10694e59fdc4d06712a64231e4abf6": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్గారు",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "National Dairy Development Board"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "రాక్షస రాజ్యం",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "కల్తీ నెయ్యి వాడారని చెప్పారు."
+    },
+    {
+     "source": "జగన్గారు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబుగారు",
+     "evidence": "కల్తీ నెయ్యి వాడారని చెప్పారు. ఆ వీడియోను కూడా జగన్గారు ప్లే చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

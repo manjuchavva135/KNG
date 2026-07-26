@@ -1,0 +1,202 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "135c85be93d52a4959194f5fdc0f7e059255e882": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "089f7d895a6e20e7f3ad8b6abfae4a1d0ac88fc0": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a20b198277a963d27f56401c8c630fa1cfc66e34": {
+   "entities": [
+    {
+     "name": "P.MURALI KRISHNA, M.I.E.",
+     "type": "Person",
+     "english_name": "P. Murali Krishna, M.I.E."
+    },
+    {
+     "name": "General Manager (Procurement)",
+     "type": "Organization",
+     "english_name": "General Manager (Procurement)"
+    },
+    {
+     "name": "M/s A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Department",
+     "type": "Organization",
+     "english_name": "Marketing Department"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "Cow Ghee with Agmark special grade",
+     "type": "Scheme",
+     "english_name": "Cow Ghee with Agmark special grade"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "T.T.Devasthanams, Tirupati"
+    },
+    {
+     "source": "NDDB CALF Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Tamil Nadu",
+     "evidence": "Lab test report of NDDB CALF Ltd dt.23.07.2024."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9d95886fb31d75a74c3500904a9d369b925170a7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "da1249876caf0535a37f43fc1897d060734d3fb2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3465df5849839e985dc6de71bdb8ddafa7462a8d": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB CALF Ltd",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "85fb330790491f3448ba788be8e35ac865f4363d": {
+   "entities": [
+    {
+     "name": "TTD-34022(31)/250/2023-PROCURMENT SEC-TTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "General Manager (Procurement)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Dy.Exe.Officer (WH)",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Anideel",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "21b60bd0cae4329f102d25dc314775774125a6cb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9f16ae8867cccf1d08edd916a1eee8cf6a22a399": {
+   "entities": [
+    {
+     "name": "M/s A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Food Private Limited"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "CALF",
+     "type": "Organization",
+     "english_name": "CALF"
+    },
+    {
+     "name": "National Accreditation Board for Testing and Calibration Laboratories (NABL)",
+     "type": "Organization",
+     "english_name": "National Accreditation Board for Testing and Calibration Laboratories (NABL)"
+    },
+    {
+     "name": "Lord Venkateswara swamy",
+     "type": "Person",
+     "english_name": "Lord Venkateswara swamy"
+    },
+    {
+     "name": "clause.10",
+     "type": "Claim",
+     "english_name": "clause.10"
+    },
+    {
+     "name": "clause.23",
+     "type": "Claim",
+     "english_name": "clause.23"
+    },
+    {
+     "name": "Agmark Special grade",
+     "type": "Scheme",
+     "english_name": "Agmark Special grade"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "36bafd88f933abbe04ebdf0b9a1a4800c80e4cec": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

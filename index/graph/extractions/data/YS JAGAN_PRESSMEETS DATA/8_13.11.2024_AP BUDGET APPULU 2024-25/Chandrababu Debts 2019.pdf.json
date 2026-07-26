@@ -1,0 +1,81 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "dd391ef02ba254962ceb422e1ce6b11c0cd5c043": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వర్కుల బిల్లుల పెండింగ్",
+     "type": "Claim",
+     "english_name": "Pending works bills"
+    },
+    {
+     "name": "విద్యుత్ డిస్కంలకు బకాయిలు",
+     "type": "Claim",
+     "english_name": "Dues to power discoms"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్మెంట్ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Fee reimbursement dues"
+    },
+    {
+     "name": "ధాన్యం సేకరణ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Grain procurement dues"
+    },
+    {
+     "name": "విత్తనాల సబ్సిడీ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Seed subsidy dues"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈలకు బకాయిలు",
+     "type": "Claim",
+     "english_name": "Dues to MSMEs"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ బకాయిలు",
+     "type": "Claim",
+     "english_name": "HealthSri dues"
+    },
+    {
+     "name": "రైతుల విద్యుత్ సబ్సిడీ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Farmers' power subsidy dues"
+    },
+    {
+     "name": "రైతుల సున్నా వడ్డీ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Farmers' zero interest dues"
+    },
+    {
+     "name": "ఇన్‌పుట్ సబ్సిడీ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Input subsidy dues"
+    },
+    {
+     "name": "మరణించిన రైతులకు చెల్లించాల్సిన ఎక్స్‌గ్రేషియా బకాయిలు",
+     "type": "Claim",
+     "english_name": "Dues for ex-gratia to deceased farmers"
+    },
+    {
+     "name": "గ్రామ పచాయతీలకు చెల్లించాల్సిన కరెంటు బిల్లు బకాయిలు",
+     "type": "Claim",
+     "english_name": "Dues for electricity bills to gram panchayats"
+    },
+    {
+     "name": "అగ్రిగోల్డ్ బకాయిలు",
+     "type": "Claim",
+     "english_name": "AgriGold dues"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

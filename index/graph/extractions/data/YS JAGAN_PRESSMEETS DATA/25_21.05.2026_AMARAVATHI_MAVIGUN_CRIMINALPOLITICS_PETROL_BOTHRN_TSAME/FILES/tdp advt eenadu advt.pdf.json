@@ -1,0 +1,121 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "aba25e05381e722d794adfe8444143166efed817": {
+   "entities": [
+    {
+     "name": "Eenadu",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "Y.S. Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "N.D.A. Party",
+     "type": "Party",
+     "english_name": "N.D.A. Party"
+    },
+    {
+     "name": "Super Hit",
+     "type": "Scheme",
+     "english_name": "Super Hit"
+    },
+    {
+     "name": "Panchasathi",
+     "type": "Scheme",
+     "english_name": "Panchasathi"
+    },
+    {
+     "name": "Panchayathi",
+     "type": "Scheme",
+     "english_name": "Panchayathi"
+    },
+    {
+     "name": "Nalanalu",
+     "type": "Scheme",
+     "english_name": "Nalanalu"
+    },
+    {
+     "name": "Youth",
+     "type": "Scheme",
+     "english_name": "Youth"
+    }
+   ],
+   "relations": [
+    {
+     "source": "N.D.A. Party",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Hit",
+     "evidence": "First Umbrella Meeting of the N.D.A. Party Leaders."
+    },
+    {
+     "source": "N.D.A. Party",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "సూపర్ సిక్స్ - సూపర్ హిట్"
+    },
+    {
+     "source": "Narendra Modi",
+     "relation": "MEMBER_OF",
+     "target": "N.D.A. Party",
+     "evidence": "portraits of three prominent Indian leaders: Narendra Modi, Y.S. Jagan Mohan Reddy, and Chandrababu Naidu."
+    },
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "MEMBER_OF",
+     "target": "N.D.A. Party",
+     "evidence": "portraits of three prominent Indian leaders: Narendra Modi, Y.S. Jagan Mohan Reddy, and Chandrababu Naidu."
+    },
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "MEMBER_OF",
+     "target": "N.D.A. Party",
+     "evidence": "portraits of three prominent Indian leaders: Narendra Modi, Y.S. Jagan Mohan Reddy, and Chandrababu Naidu."
+    },
+    {
+     "source": "N.D.A. Party",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Panchasathi",
+     "evidence": "lists various welfare schemes and benefits, including financial aid for farmers, free cooking gas cylinders, free tablets for the elderly, and free travel for women."
+    },
+    {
+     "source": "N.D.A. Party",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Panchayathi",
+     "evidence": "lists various welfare schemes and benefits, including financial aid for farmers, free cooking gas cylinders, free tablets for the elderly, and free travel for women."
+    },
+    {
+     "source": "N.D.A. Party",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Nalanalu",
+     "evidence": "lists various welfare schemes and benefits, including financial aid for farmers, free cooking gas cylinders, free tablets for the elderly, and free travel for women."
+    },
+    {
+     "source": "N.D.A. Party",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Youth",
+     "evidence": "lists various welfare schemes and benefits, including financial aid for farmers, free cooking gas cylinders, free tablets for the elderly, and free travel for women."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

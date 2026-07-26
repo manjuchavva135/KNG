@@ -1,0 +1,472 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f1e3ab7a4e11c9f2b98a3685391c52e83373b026": {
+   "entities": [
+    {
+     "name": "G.సాగర్రావు",
+     "type": "Person",
+     "english_name": "G. Sagar Rao"
+    },
+    {
+     "name": "వై.యస్.ఆర్ జగనన్న",
+     "type": "Person",
+     "english_name": "Y. S. R. Jagannanna"
+    },
+    {
+     "name": "శాశ్వత భూహక్కు మరియు భూరక్ష పథకం",
+     "type": "Scheme",
+     "english_name": "Permanent Land Rights and Land Protection Scheme"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం - రెవెన్యూ శాఖ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government - Revenue Department"
+    },
+    {
+     "name": "జగనన్న భూహక్కు పత్రము",
+     "type": "Scheme",
+     "english_name": "Jagananna Bhoomi Patram"
+    },
+    {
+     "name": "భూయాజమాన్యపు హక్కుపత్రం మరియు పట్టాదారు పాసు పుస్తకం",
+     "type": "Scheme",
+     "english_name": "Land Ownership Certificate and Pattadar Pass Book"
+    },
+    {
+     "name": "రైతులు - రైతు కూలీల సంక్షేమమే ప్రభుత్వ ధ్యేయం!!",
+     "type": "Claim",
+     "english_name": "Farmers - the welfare of farmers and agricultural laborers is the government's goal!!"
+    }
+   ],
+   "relations": [
+    {
+     "source": "G.సాగర్రావు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులు - రైతు కూలీల సంక్షేమమే ప్రభుత్వ ధ్యేయం!!",
+     "evidence": "రైతులు - రైతు కూలీల సంక్షేమమే ప్రభుత్వ ధ్యేయం!!"
+    },
+    {
+     "source": "వై.యస్.ఆర్ జగనన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "శాశ్వత భూహక్కు మరియు భూరక్ష పథకం",
+     "evidence": "శాశ్వత భూహక్కు మరియు భూరక్ష పథకం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ce372705e0298d787266568cfab1508aae1b40fd": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4ca89cfb2abb2790da1434729b24eb111c7cafb0": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం - రెవెన్యూ శాఖ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government - Revenue Department"
+    },
+    {
+     "name": "Title deed Cum Pattadar Passbook",
+     "type": "Scheme",
+     "english_name": "Title deed Cum Pattadar Passbook"
+    },
+    {
+     "name": "District : Krishna",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "Division : Machilipatnam",
+     "type": "Place",
+     "english_name": "Machilipatnam Division"
+    },
+    {
+     "name": "Mandal : MACHILIPATNAM",
+     "type": "Place",
+     "english_name": "Machilipatnam Mandal"
+    },
+    {
+     "name": "Village : POTLAPALEM",
+     "type": "Place",
+     "english_name": "Potlapalem Village"
+    },
+    {
+     "name": "Khata No : 170",
+     "type": "Place",
+     "english_name": "Khata No 170"
+    },
+    {
+     "name": "Passbook Issue Date : 21-04-2023",
+     "type": "Place",
+     "english_name": "Passbook Issue Date 21-04-2023"
+    },
+    {
+     "name": "Pattadar Name : gajula naga raju ,Gajula Nagaraju",
+     "type": "Person",
+     "english_name": "Gajula Nagaraju"
+    },
+    {
+     "name": "Father/Husband Name : gajula,mamillu",
+     "type": "Person",
+     "english_name": "Gajula Mamillu"
+    },
+    {
+     "name": "Address 1- : 57,521002,MACHILIPATNAM,POTLAPA LEM",
+     "type": "Place",
+     "english_name": "Address 57,521002,Machilipatnam,Potlapalem"
+    },
+    {
+     "name": "Caste : OC",
+     "type": "Place",
+     "english_name": "Caste OC"
+    },
+    {
+     "name": "Aadhaar No. : 941660480043",
+     "type": "Place",
+     "english_name": "Aadhaar No 941660480043"
+    },
+    {
+     "name": "Mobile No. : 9290710635,9542650893",
+     "type": "Place",
+     "english_name": "Mobile No 9290710635,9542650893"
+    },
+    {
+     "name": "జిల్లా : కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "మండలము : మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam Mandal"
+    },
+    {
+     "name": "డివిజన్ : మచిలీపట్టణం",
+     "type": "Place",
+     "english_name": "Machilipatnam Division"
+    },
+    {
+     "name": "గ్రామము : పొట్లపాలెం",
+     "type": "Place",
+     "english_name": "Potlapalem Village"
+    },
+    {
+     "name": "భూ భాగ్యపు సంఖ్య (ఎల్ పి నెం.)",
+     "type": "Place",
+     "english_name": "Land Parcel Number"
+    },
+    {
+     "name": "పూర్వ సర్వే. నెం./సబ్ డివిజన్",
+     "type": "Place",
+     "english_name": "Previous Survey Number/Subdivision"
+    },
+    {
+     "name": "భూమి యొక్క పూర్తి విస్తీర్ణం (ఎకరాలు - సెంట్లు)",
+     "type": "Place",
+     "english_name": "Total Extent of Land (Acres - Cents)"
+    },
+    {
+     "name": "వర్గీకరణ (మాగాణి/మెట్ట/ఆరుతడి)",
+     "type": "Place",
+     "english_name": "Classification (Magani/Mett/Aaruddi)"
+    },
+    {
+     "name": "ఏ విధంగా సంక్రమించింది 1. అనువంశికము లేదా 2. కొనుగోలు లేదా 3. ఇతర లావాదేవీ ద్వారా",
+     "type": "Place",
+     "english_name": "Mode of Acquisition"
+    },
+    {
+     "name": "ఏ ఉత్తర్వుల ప్రకారం",
+     "type": "Place",
+     "english_name": "Under which orders"
+    },
+    {
+     "name": "పూర్తి విస్తీర్ణం",
+     "type": "Place",
+     "english_name": "Total Extent"
+    },
+    {
+     "name": "D. Sim Bhadram",
+     "type": "Person",
+     "english_name": "D. Sim Bhadram"
+    },
+    {
+     "name": "Tahsildar Signature",
+     "type": "Person",
+     "english_name": "Tahsildar Signature"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e3376b56caf8d37dff023c950b5eb6c0d649a105": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3aae3a570cad4d0f8a13cbb52231a52b5adba4da": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Revenue Department - Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Revenue Department - Andhra Pradesh"
+    },
+    {
+     "name": "Title deed Cum Pattadar Passbook",
+     "type": "Scheme",
+     "english_name": "Title deed Cum Pattadar Passbook"
+    },
+    {
+     "name": "KRISHNA",
+     "type": "Place",
+     "english_name": "KRISHNA"
+    },
+    {
+     "name": "MACHILIPATNAM",
+     "type": "Place",
+     "english_name": "MACHILIPATNAM"
+    },
+    {
+     "name": "POTLAPALEM",
+     "type": "Place",
+     "english_name": "POTLAPALEM"
+    },
+    {
+     "name": "Bhu-Shodhak App",
+     "type": "Organization",
+     "english_name": "Bhu-Shodhak App"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2e545f7c1bde6d73bebd33f1e4adb77ffba94e99": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "08bb2dc9b14eb640de6b5f948b42446576f9187c": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "రెవెన్యూశాఖ",
+     "type": "Organization",
+     "english_name": "Revenue Department"
+    },
+    {
+     "name": "జగనన్న భూయాజమాన్యపు హక్కు పత్రం",
+     "type": "Scheme",
+     "english_name": "Jagananna Bhooyajamanya Hakkupatra"
+    },
+    {
+     "name": "పట్టాదారు పాసు పుస్తకం",
+     "type": "Scheme",
+     "english_name": "Patthadar Pass Book"
+    },
+    {
+     "name": "జిల్లా : కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "డివిజన్ : మచిలీపట్టణం",
+     "type": "Place",
+     "english_name": "Machilipatnam Division"
+    },
+    {
+     "name": "మండలం : మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam Mandal"
+    },
+    {
+     "name": "గ్రామం : పొట్లపాలెం",
+     "type": "Place",
+     "english_name": "Potlapalem Village"
+    },
+    {
+     "name": "ఖాతా నెంబరు : 170",
+     "type": "Place",
+     "english_name": "Account Number 170"
+    },
+    {
+     "name": "పాసు పుస్తకము",
+     "type": "Scheme",
+     "english_name": "Pass Book"
+    },
+    {
+     "name": "పట్టాదారు పేరు : gajula naga raju,గాజుల నాగరాజు",
+     "type": "Person",
+     "english_name": "Gajula Naga Raju"
+    },
+    {
+     "name": "తండ్రి / భర్త పేరు : gajula,మామిళ్ళు",
+     "type": "Person",
+     "english_name": "Gajula Mamillu"
+    },
+    {
+     "name": "స్త్రీ / పురుషుడు : పురుషుడు",
+     "type": "Person",
+     "english_name": "Male"
+    },
+    {
+     "name": "చిరునామా : 1-57 పొట్లపాలెం - 521002,పొట్లపాలెం - 521002",
+     "type": "Place",
+     "english_name": "1-57 Potlapalem - 521002"
+    },
+    {
+     "name": "కులము : OC",
+     "type": "Person",
+     "english_name": "OC"
+    },
+    {
+     "name": "ఆధార్ నెంబరు : 941660480043",
+     "type": "Person",
+     "english_name": "941660480043"
+    },
+    {
+     "name": "మొబైల్ నెంబరు : 9290710635,9542650893",
+     "type": "Person",
+     "english_name": "9290710635,9542650893"
+    },
+    {
+     "name": "డి. సింహాచలం",
+     "type": "Person",
+     "english_name": "D. Simhachalam"
+    },
+    {
+     "name": "తహశీల్దార్ సంతకం",
+     "type": "Person",
+     "english_name": "Tahsildar Signature"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డివిజన్ : మచిలీపట్టణం",
+     "relation": "LOCATED_IN",
+     "target": "జిల్లా : కృష్ణా",
+     "evidence": "డివిజన్ : మచిలీపట్టణం"
+    },
+    {
+     "source": "మండలం : మచిలీపట్నం",
+     "relation": "LOCATED_IN",
+     "target": "డివిజన్ : మచిలీపట్టణం",
+     "evidence": "మండలం : మచిలీపట్నం"
+    },
+    {
+     "source": "గ్రామం : పొట్లపాలెం",
+     "relation": "LOCATED_IN",
+     "target": "మండలం : మచిలీపట్నం",
+     "evidence": "గ్రామం : పొట్లపాలెం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2bb43b0c66f864329f1a190014c3432e9f2cc368": {
+   "entities": [
+    {
+     "name": "ఆర్ జగనన్న శాశ్వత భూహక్కు మరియు భూరక్ష - 2020",
+     "type": "Scheme",
+     "english_name": "Jagananna Bhoomi Raksha - 2020"
+    },
+    {
+     "name": "సర్వే మరియు భూమి రికార్డుల శాఖ",
+     "type": "Organization",
+     "english_name": "Survey and Land Records Department"
+    },
+    {
+     "name": "కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "పొట్లపాలెం",
+     "type": "Place",
+     "english_name": "Potlapalem"
+    },
+    {
+     "name": "భూ కమత పటము - 71",
+     "type": "Place",
+     "english_name": "Bhumi Kamata Patamu - 71"
+    },
+    {
+     "name": "విశిష్ట సంఖ్య : 787FLJDE5H7FH0",
+     "type": "Place",
+     "english_name": "Visheshank Number: 787FLJDE5H7FH0"
+    },
+    {
+     "name": "విస్తీర్ణము :ఎ-సెంట్లు :హె-ఏర్స్ 0.83",
+     "type": "Place",
+     "english_name": "Vistheernam: E-cents: He-ares 0.83"
+    },
+    {
+     "name": "DATUM: WGS84",
+     "type": "Place",
+     "english_name": "Datum: WGS84"
+    },
+    {
+     "name": "Projection: UTM Zone 44N",
+     "type": "Place",
+     "english_name": "Projection: UTM Zone 44N"
+    },
+    {
+     "name": "గ్రామ సర్వేయరు సంతకం డిశేదీ",
+     "type": "Place",
+     "english_name": "Gram Surveyor Signature"
+    },
+    {
+     "name": "పేరు:",
+     "type": "Place",
+     "english_name": "Name:"
+    },
+    {
+     "name": "స్కేలు 1:500",
+     "type": "Place",
+     "english_name": "Scale 1:500"
+    },
+    {
+     "name": "Point_ID",
+     "type": "Place",
+     "english_name": "Point_ID"
+    },
+    {
+     "name": "Easting_X",
+     "type": "Place",
+     "english_name": "Easting_X"
+    },
+    {
+     "name": "Northing_Y",
+     "type": "Place",
+     "english_name": "Northing_Y"
+    },
+    {
+     "name": "5",
+     "type": "Place",
+     "english_name": "5"
+    },
+    {
+     "name": "06S37QR013 4 06S37QR013",
+     "type": "Place",
+     "english_name": "06S37QR013 4 06S37QR013"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

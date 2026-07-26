@@ -1,0 +1,178 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a91fad147099362665fe2bd50dfb0beb815d2a2a": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "15941 ఉపాధ్యాయ పోస్టులు",
+     "type": "Claim",
+     "english_name": "15941 teacher posts"
+    },
+    {
+     "name": "పారదర్శకం",
+     "type": "Claim",
+     "english_name": "transparent"
+    },
+    {
+     "name": "పరువు నష్టం నోటీసులు",
+     "type": "Claim",
+     "english_name": "defamation notices"
+    },
+    {
+     "name": "క్రిమినల్ కేసులు",
+     "type": "Claim",
+     "english_name": "criminal cases"
+    },
+    {
+     "name": "దుష్ప్రచారం",
+     "type": "Issue",
+     "english_name": "misinformation"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f72c8e42173916517bd3183d5ee53714dd71df18": {
+   "entities": [
+    {
+     "name": "ప్రజలను",
+     "type": "Person",
+     "english_name": "People"
+    },
+    {
+     "name": "అభ్యర్థులను",
+     "type": "Person",
+     "english_name": "Candidates"
+    },
+    {
+     "name": "మీడియా సంస్థలు",
+     "type": "Organization",
+     "english_name": "Media Organizations"
+    },
+    {
+     "name": "సోషల్ మీడియా వేదికలు",
+     "type": "Organization",
+     "english_name": "Social Media Platforms"
+    },
+    {
+     "name": "వ్యక్తులు",
+     "type": "Person",
+     "english_name": "Individuals"
+    },
+    {
+     "name": "ప్రజలకు",
+     "type": "Person",
+     "english_name": "People"
+    },
+    {
+     "name": "విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "డైరెక్టర్, పాఠశాల విద్యాశాఖ",
+     "type": "Person",
+     "english_name": "Director of School Education"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e5c8f9ed15e035ab02a1b25d50cad8c303224380": {
+   "entities": [
+    {
+     "name": "ప్రశ్నాపత్రాల లీకేజీ",
+     "type": "Claim",
+     "english_name": "Question paper leak"
+    },
+    {
+     "name": "మెరిట్ జాబితాలు ప్రచురించలేదు",
+     "type": "Claim",
+     "english_name": "Merit lists not published"
+    },
+    {
+     "name": "అక్రమ ఎంపికలు",
+     "type": "Claim",
+     "english_name": "Illegal selections"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "పారదర్శకంగా ప్రచురించబడ్డాయి",
+     "type": "Claim",
+     "english_name": "Published transparently"
+    },
+    {
+     "name": "మెరిట్",
+     "type": "Claim",
+     "english_name": "Merit"
+    },
+    {
+     "name": "రిజర్వేషన్ రోస్టర్",
+     "type": "Claim",
+     "english_name": "Reservation roster"
+    },
+    {
+     "name": "అనేక స్థాయుల ధృవీకరణ వ్యవస్థలు",
+     "type": "Claim",
+     "english_name": "Multi-level verification systems"
+    },
+    {
+     "name": "సురక్షితమైన డిజిటల్ విధానం",
+     "type": "Claim",
+     "english_name": "Secure digital process"
+    },
+    {
+     "name": "అక్రమాలకు తావులేదు",
+     "type": "Claim",
+     "english_name": "No scope for irregularities"
+    },
+    {
+     "name": "అబద్ధపు ప్రచారాలు",
+     "type": "Claim",
+     "english_name": "False propaganda"
+    },
+    {
+     "name": "పరువు నష్టం నోటీసులు",
+     "type": "Claim",
+     "english_name": "Defamation notices"
+    },
+    {
+     "name": "క్రిమినల్ కేసులు",
+     "type": "Claim",
+     "english_name": "Criminal cases"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1b2b8d434f53a6607b412d2adce26cebc541ef74": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "196188d59429d5f3f8df2b2e9c2ca05302cf6e23": {
+   "entities": [
+    {
+     "name": "Digital India Land Records Modernisation Programme",
+     "type": "Scheme",
+     "english_name": "Digital India Land Records Modernisation Programme"
+    },
+    {
+     "name": "Platinum Grading Scheme",
+     "type": "Scheme",
+     "english_name": "Platinum Grading Scheme"
+    },
+    {
+     "name": "Department of Land Resources",
+     "type": "Organization",
+     "english_name": "Department of Land Resources"
+    },
+    {
+     "name": "Ministry of Rural Development",
+     "type": "Organization",
+     "english_name": "Ministry of Rural Development"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "West Bengal",
+     "type": "Place",
+     "english_name": "West Bengal"
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": "Assam"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Bihar",
+     "type": "Place",
+     "english_name": "Bihar"
+    },
+    {
+     "name": "Chhattisgarh",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "Jharkhand",
+     "type": "Place",
+     "english_name": "Jharkhand"
+    },
+    {
+     "name": "Madhya Pradesh",
+     "type": "Place",
+     "english_name": "Madhya Pradesh"
+    },
+    {
+     "name": "Maharashtra",
+     "type": "Place",
+     "english_name": "Maharashtra"
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": "Rajasthan"
+    },
+    {
+     "name": "Tripura",
+     "type": "Place",
+     "english_name": "Tripura"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "157 Districts",
+     "type": "Organization",
+     "english_name": "157 Districts"
+    },
+    {
+     "name": "14 States",
+     "type": "Organization",
+     "english_name": "14 States"
+    }
+   ],
+   "relations": [
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "West Bengal",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Bihar",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Chhattisgarh",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Jharkhand",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Madhya Pradesh",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Maharashtra",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Odisha",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Rajasthan",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Tripura",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Tamil Nadu",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    },
+    {
+     "source": "157 Districts",
+     "relation": "LOCATED_IN",
+     "target": "Uttar Pradesh",
+     "evidence": "157 Districts in 14 States (Assam, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Tripura, Tamil Nadu, Uttar Pradesh and West Bengal) have qualified for Platinum Grading"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

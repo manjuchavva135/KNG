@@ -1,0 +1,5908 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ab54ff9b61617c3278a56f57a2445500414014ea": {
+   "entities": [
+    {
+     "name": "CCS",
+     "type": "Organization",
+     "english_name": "Cabinet Committee on Security"
+    },
+    {
+     "name": "Indian Oil Corporation",
+     "type": "Organization",
+     "english_name": "Indian Oil Corporation"
+    },
+    {
+     "name": "ATF",
+     "type": "Organization",
+     "english_name": "Aviation Turbine Fuel"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "391af142bd066cc8c71efb211347a93ca3ef06ff": {
+   "entities": [
+    {
+     "name": "DECCAN Chronicle",
+     "type": "Organization",
+     "english_name": "Deccan Chronicle"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "Madhya Pradesh High Court",
+     "type": "Organization",
+     "english_name": "Madhya Pradesh High Court"
+    },
+    {
+     "name": "Bhojshala Temple-Kamal Maula Mosque complex",
+     "type": "Place",
+     "english_name": "Bhojshala Temple-Kamal Maula Mosque complex"
+    },
+    {
+     "name": "HPV",
+     "type": "Scheme",
+     "english_name": "HPV vaccination programme"
+    },
+    {
+     "name": "Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "Cabinet Committee on Security",
+     "type": "Organization",
+     "english_name": "Cabinet Committee on Security"
+    },
+    {
+     "name": "West Asia conflict",
+     "type": "Issue",
+     "english_name": "West Asia conflict"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Modi",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "HPV",
+     "evidence": "The government has administered Human Papillomavirus (HPV) to 1.02 lakh girls aged upto 14 years against the target of 3.45 lakh girls in the state so far."
+    },
+    {
+     "source": "Modi",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "HPV",
+     "evidence": "AP has started the HPV vaccination programme on February 28."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2d1b959027710b440774a3f513a965af7400eedf": {
+   "entities": [
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Chief Minister N. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "BJP MP Ram",
+     "type": "Person",
+     "english_name": "Ram"
+    },
+    {
+     "name": "Union Minister of Home Affairs Amit Shah",
+     "type": "Person",
+     "english_name": "Amit Shah"
+    },
+    {
+     "name": "The Andhra Pradesh Reorganisation (Amendment) Act",
+     "type": "Scheme",
+     "english_name": "Andhra Pradesh Reorganisation (Amendment) Act"
+    },
+    {
+     "name": "Rajya Sabha",
+     "type": "Organization",
+     "english_name": "Rajya Sabha"
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "Union Cabinet",
+     "type": "Organization",
+     "english_name": "Union Cabinet"
+    },
+    {
+     "name": "President",
+     "type": "Organization",
+     "english_name": "President"
+    },
+    {
+     "name": "Tenneti Krishnaprasad",
+     "type": "Person",
+     "english_name": "Tenneti Krishnaprasad"
+    },
+    {
+     "name": "Jana Sena",
+     "type": "Party",
+     "english_name": "Jana Sena"
+    },
+    {
+     "name": "BJP MP Pemmasani Chandrasekhar",
+     "type": "Person",
+     "english_name": "Pemmasani Chandrasekhar"
+    }
+   ],
+   "relations": [
+    {
+     "source": "BJP MP Ram",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "The Andhra Pradesh Reorganisation (Amendment) Act",
+     "evidence": "Legislation ends three-capital row: BJP MP Ram"
+    },
+    {
+     "source": "Union Minister of Home Affairs Amit Shah",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "The Andhra Pradesh Reorganisation (Amendment) Act",
+     "evidence": "Union Minister of Home Affairs Amit Shah introduced the 'The Andhra Pradesh Reorganisation (Amendment) Act' Bill in the Lok Sabha."
+    },
+    {
+     "source": "Tenneti Krishnaprasad",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "The Andhra Pradesh Reorganisation (Amendment) Act",
+     "evidence": "Presiding officer, Tenneti Krishnaprasad, announced the Lok Sabha’s approval."
+    },
+    {
+     "source": "BJP MP Pemmasani Chandrasekhar",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "The Andhra Pradesh Reorganisation (Amendment) Act",
+     "evidence": "BJP MP Pemmasani Chandrasekhar also credited Jana Sena"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7b1dfb985ccd6f49256b683d006a4746695c28b2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "58c709d958e2acf737416e81dca9f8daf73b658a": {
+   "entities": [
+    {
+     "name": "ATF price up, to hit airfares",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Indian Oil Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "US may exit war: Trump",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Washington, Tel Aviv, Cairo",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Donald Trump",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nato",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "LS clears Bill to name Amaravati as capital",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "MD ILYAS | DC",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "VIJAYAWADA, APRIL 1",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Nityanand Rai",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Reorganisation (Amendment) Act",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tenneti Krishnaprasad",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pemmasani Chandrasekhar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Amit Shah",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Donald Trump",
+     "relation": "MAKES_CLAIM",
+     "target": "US may exit war: Trump",
+     "evidence": "The United States will end its war on Iran fairly soon and could return for “spot hits” if needed."
+    },
+    {
+     "source": "Tenneti Krishnaprasad",
+     "relation": "MAKES_CLAIM",
+     "target": "LS clears Bill to name Amaravati as capital",
+     "evidence": "The presiding officer, Tenneti Krishnaprasad, later announced the Lok Sabha's approval."
+    },
+    {
+     "source": "Pemmasani Chandrasekhar",
+     "relation": "MAKES_CLAIM",
+     "target": "LS clears Bill to name Amaravati as capital",
+     "evidence": "Opening the debate, Union minister of state for rural development and communications Pemmasani Chandrasekhar said the amendment would end all uncertainty surrounding Amaravati's status."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "249ee16f5cbd19e744c768da3897eb9a397c6ac8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af22cc05a9beee20df2f051661ed9d47b80dd2ee": {
+   "entities": [
+    {
+     "name": "President",
+     "type": "Person",
+     "english_name": "President"
+    },
+    {
+     "name": "Andhra Pradesh Chief Secretary",
+     "type": "Person",
+     "english_name": "Andhra Pradesh Chief Secretary"
+    },
+    {
+     "name": "AP Legislative Assembly Deputy Speaker K. Raghu Ramakrishna Raju",
+     "type": "Person",
+     "english_name": "K. Raghu Ramakrishna Raju"
+    },
+    {
+     "name": "Jai Bheem Rao Bharat party",
+     "type": "Party",
+     "english_name": "Jai Bheem Rao Bharat party"
+    },
+    {
+     "name": "P. Suresh Kumar",
+     "type": "Person",
+     "english_name": "P. Suresh Kumar"
+    },
+    {
+     "name": "AP Deputy Speaker",
+     "type": "Person",
+     "english_name": "AP Deputy Speaker"
+    },
+    {
+     "name": "N. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "PM Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "YS Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "AP Reorganisation Act",
+     "type": "Organization",
+     "english_name": "AP Reorganisation Act"
+    },
+    {
+     "name": "Decentralisation Bill",
+     "type": "Scheme",
+     "english_name": "Decentralisation Bill"
+    },
+    {
+     "name": "APCRDA Repeal Bill",
+     "type": "Scheme",
+     "english_name": "APCRDA Repeal Bill"
+    },
+    {
+     "name": "Three Capitals",
+     "type": "Issue",
+     "english_name": "Three Capitals"
+    }
+   ],
+   "relations": [
+    {
+     "source": "President",
+     "relation": "ACCUSES",
+     "target": "AP Legislative Assembly Deputy Speaker K. Raghu Ramakrishna Raju",
+     "evidence": "The office of the President has sent a communiqué to Andhra Pradesh Chief Secretary to take up an inquiry against AP Legislative Assembly Deputy Speaker K. Raghu Ramakrishna Raju for making political statements despite holding a constitutional post."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e2d2aadebdbf4cbff5618d64263d3ed7661df1ce": {
+   "entities": [
+    {
+     "name": "CBI special counsel T. Srujan Kumar Reddy",
+     "type": "Person",
+     "english_name": "T. Srujan Kumar Reddy"
+    },
+    {
+     "name": "State of Telangana",
+     "type": "Organization",
+     "english_name": "State of Telangana"
+    },
+    {
+     "name": "Andhra Pradesh Municipal Corporations (Fixation of Strength of Elected members) Rules, 2005",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Municipal Corporations (Fixation of Strength of Elected members) Rules, 2005"
+    },
+    {
+     "name": "Municipal Administration department of AP",
+     "type": "Organization",
+     "english_name": "Municipal Administration department of AP"
+    },
+    {
+     "name": "Dr. P. Sampath Kumar",
+     "type": "Person",
+     "english_name": "Dr. P. Sampath Kumar"
+    },
+    {
+     "name": "GVMC",
+     "type": "Organization",
+     "english_name": "GVMC"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "Nellore",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "Eluru",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "Anantapur",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "Ongole",
+     "type": "Place",
+     "english_name": "Ongole"
+    },
+    {
+     "name": "Vizianagaram",
+     "type": "Place",
+     "english_name": "Vizianagaram"
+    },
+    {
+     "name": "Chittoor",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "Machilipatnam",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CBI special counsel T. Srujan Kumar Reddy",
+     "relation": "ACCUSES",
+     "target": "State of Telangana",
+     "evidence": "CBI special counsel T. Srujan Kumar Reddy opposed the plea, stating that alternative remedies were available."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4f2fd1a55b9124b13665d33acd5236ae27a0d2c8": {
+   "entities": [
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Naidu",
+     "type": "Person",
+     "english_name": "Naidu"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "Krishna river",
+     "type": "Place",
+     "english_name": "Krishna river"
+    },
+    {
+     "name": "Velagapudi",
+     "type": "Place",
+     "english_name": "Velagapudi"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "capital city project",
+     "type": "Scheme",
+     "english_name": "capital city project"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "capital city project",
+     "evidence": "Naidu has accelerated efforts to revive and expand the capital city project."
+    },
+    {
+     "source": "Amaravati",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The need for a new capital arose following the bifurcation of Andhra Pradesh in 2014."
+    },
+    {
+     "source": "Amaravati",
+     "relation": "LOCATED_IN",
+     "target": "Krishna river",
+     "evidence": "In 2015, then chief minister Chandrababu Naidu unveiled Amaravati as a futuristic, world-class capital city on the banks of the Krishna river."
+    },
+    {
+     "source": "Velagapudi",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "Between 2016 and 2019, Amaravati functioned as the de facto administrative hub, with the secretariat and legislative assembly operating from Velagapudi."
+    },
+    {
+     "source": "Hyderabad",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The need for a new capital arose following the bifurcation of Andhra Pradesh in 2014, when Hyderabad was designated as a common capital for ten years."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7a2c29a0b767a9dd426ff819d25b49137f2c5158": {
+   "entities": [
+    {
+     "name": "Amaravati Bill",
+     "type": "Scheme",
+     "english_name": "Amaravati Bill"
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "N. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Telugu Desam",
+     "type": "Party",
+     "english_name": "Telugu Desam"
+    },
+    {
+     "name": "NDA",
+     "type": "Party",
+     "english_name": "NDA"
+    },
+    {
+     "name": "Jana Sena",
+     "type": "Party",
+     "english_name": "Jana Sena"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    }
+   ],
+   "relations": [
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Amaravati Bill",
+     "evidence": "The passage of the Amaravati Bill in the Lok Sabha has come as a significant political and administrative boost for Chief Minister N. Chandrababu Naidu"
+    },
+    {
+     "source": "Pawan Kalyan",
+     "relation": "MEMBER_OF",
+     "target": "Jana Sena",
+     "evidence": "Deputy CM Pawan Kalyan and BJP leaders have extended strong support to Naidu's vision"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9b29646258695511b274b2ade3da4505bb77c563": {
+   "entities": [
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "Krishna river",
+     "type": "Place",
+     "english_name": "Krishna river"
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Y.S. Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "YSRC government",
+     "type": "Organization",
+     "english_name": "YSRC government"
+    },
+    {
+     "name": "three-capital plan",
+     "type": "Scheme",
+     "english_name": "three-capital plan"
+    },
+    {
+     "name": "AP high court",
+     "type": "Organization",
+     "english_name": "AP high court"
+    },
+    {
+     "name": "capital scam",
+     "type": "Issue",
+     "english_name": "capital scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "three-capital plan",
+     "evidence": "In 2015, then chief minister Chandrababu Naidu unveiled Amaravati as a futuristic, world-class capital city on the banks of the Krishna river."
+    },
+    {
+     "source": "Y.S. Jagan Mohan Reddy",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "three-capital plan",
+     "evidence": "In December 2019, the administration announced a three-capital plan, designating Amaravati as the legislative capital, Visakhapatnam as the executive capital and Kurnool as the judicial capital."
+    },
+    {
+     "source": "AP high court",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "In March 2022, when the AP high court directed the government to continue developing Amaravati as the capital city, emphasising the obligations arising from the land pooling agreements."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "444cbcebd7605ce62143d549fd3a8487259e462f": {
+   "entities": [
+    {
+     "name": "Lokesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": "New Delhi"
+    },
+    {
+     "name": "Rajya Sabha",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pedala Sevalo",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Vinjamoor",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "SPSR Nellore district",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Capital Bill",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Prime Minister Narendra Modi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "home minister Amit Shah",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "vice president and chairman of the Rajya Sabha, C.P. Radhakrishnan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "AP people",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pemmasani Chandrasekhar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jana Sena chief K. Pawan Kalyan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YSRC",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "BJP MP C.M. Ramesh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "three-capital debate",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "alliance government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "MAVIGUN",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Machilipatnam",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Telugu Desam-led alliance government",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Minister N. Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Capital Bill",
+     "evidence": "granting legal status to Amaravati."
+    },
+    {
+     "source": "Pemmasani Chandrasekhar",
+     "relation": "ACCUSES",
+     "target": "YSRC",
+     "evidence": "alleged “suppression” under the YSRC term"
+    },
+    {
+     "source": "Jagan Mohan Reddy",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "MAVIGUN",
+     "evidence": "revived his “MAVIGUN” growth corridor"
+    },
+    {
+     "source": "Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Telugu Desam-led alliance government",
+     "evidence": "vehemently criticising Chief Minister N. Chandrababu"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "63005beb6f2678d43c2c510967d4ffa41516846b": {
+   "entities": [
+    {
+     "name": "Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "YSRC",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "TD",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "MAVIGUN",
+     "type": "Scheme",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "Machilipatnam",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "capital scam",
+     "type": "Issue",
+     "english_name": "capital scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Naidu",
+     "evidence": "Jagan Mohan Reddy accused Chandrababu Naidu of pursuing an “impractical” plan of building a capital across one lakh acres with an estimated expenditure of ₹2 lakh crore on basic infrastructure alone."
+    },
+    {
+     "source": "Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "MAVIGUN",
+     "evidence": "We suggest constructing the required buildings in this corridor, instead of indulging in scams by insisting on Amaravati. MAVIGUN will save nearly ?1.9 lakh crore, which can be used for developmental purposes."
+    },
+    {
+     "source": "MAVIGUN",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "capital scam",
+     "evidence": "MAVIGUN will save nearly ?1.9 lakh crore, which can be used for developmental purposes."
+    },
+    {
+     "source": "Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "Amaravati",
+     "evidence": "the TD-led government is prioritising its “benami land interests” over welfare and balanced development of Andhra Pradesh."
+    },
+    {
+     "source": "Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada and its surrounding areas already house nearly 20 lakh people."
+    },
+    {
+     "source": "Guntur",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "while Guntur has around 10 lakh and Machilipatnam about 3–4 lakh."
+    },
+    {
+     "source": "Machilipatnam",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Machilipatnam about 3–4 lakh."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9f6183a216f32abcf12181fd80a50b0d3334edbb": {
+   "entities": [
+    {
+     "name": "N. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Nara Bhuvane-swari",
+     "type": "Person",
+     "english_name": "Nara Bhuvane-swari"
+    },
+    {
+     "name": "Nara Devansh",
+     "type": "Person",
+     "english_name": "Nara Devansh"
+    },
+    {
+     "name": "Lord Kodandarama",
+     "type": "Person",
+     "english_name": "Lord Kodandarama"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Sri Sitarama Kalyanotsavam",
+     "type": "Scheme",
+     "english_name": "Sri Sitarama Kalyanotsavam"
+    },
+    {
+     "name": "Vontimitta Sri Kodandarama Swamy temple",
+     "type": "Place",
+     "english_name": "Vontimitta Sri Kodandarama Swamy temple"
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "Rama Rajya",
+     "type": "Claim",
+     "english_name": "Rama Rajya"
+    }
+   ],
+   "relations": [
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Sri Sitarama Kalyanotsavam",
+     "evidence": "The annual Sri Sitarama Kalyanotsavam at the historic Vontimitta Sri Kodandarama Swamy temple was held with grandeur on Wednesday, with Chief Minister N. Chandrababu Naidu being the main presence at the wedding ceremony"
+    },
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "Rama Rajya",
+     "evidence": "Chief Minister N. Chandrababu Naidu expressed confidence that “Rama Rajya” would be established in the state with the blessings of Lord Rama and Lord Venkateswara."
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Vontimitta Sri Kodandarama Swamy temple",
+     "evidence": "It is customary for TTD to present such offerings to its affiliated temples."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93c77751d8dd4794caebd94ff8aeb7c668ee971e": {
+   "entities": [
+    {
+     "name": "Juvv-aladinne Fishing Harbour",
+     "type": "Scheme",
+     "english_name": "Juvv-aladinne Fishing Harbour"
+    },
+    {
+     "name": "Polavaram project",
+     "type": "Scheme",
+     "english_name": "Polavaram project"
+    },
+    {
+     "name": "Somasila canal",
+     "type": "Scheme",
+     "english_name": "Somasila canal"
+    },
+    {
+     "name": "Vinjamoor's Patha Cheruvu",
+     "type": "Scheme",
+     "english_name": "Vinjamoor's Patha Cheruvu"
+    },
+    {
+     "name": "N. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "SPSR Nellore district",
+     "type": "Place",
+     "english_name": "SPSR Nellore district"
+    },
+    {
+     "name": "Mangalagiri",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "Sanjeevini",
+     "type": "Scheme",
+     "english_name": "Sanjeevini"
+    }
+   ],
+   "relations": [
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Juvv-aladinne Fishing Harbour",
+     "evidence": "the Juvv-aladinne Fishing Harbour project is being executed at a cost of ₹285 crore."
+    },
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Polavaram project",
+     "evidence": "the centre has released ₹1,300 crore for the Polavaram project, which will be dedicated to the nation before the Godavari Pushkaralu in 2027."
+    },
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Somasila canal",
+     "evidence": "He announced ₹34 crore to bring water from the Somasila canal to Vinjamoor's Patha Cheruvu by October 2026."
+    },
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Sanjeevini",
+     "evidence": "He added that the government is planning a “Sanjeevini” initiative aimed at promoting public health, beginning with mental well-being."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bfc28c54b20872741a98335d0f9baad4d03576b6": {
+   "entities": [
+    {
+     "name": "The Bill",
+     "type": "Scheme",
+     "english_name": "The Bill"
+    },
+    {
+     "name": "Rajya Sabha",
+     "type": "Organization",
+     "english_name": "Rajya Sabha"
+    },
+    {
+     "name": "Reorganisation Act, 2014",
+     "type": "Organization",
+     "english_name": "Reorganisation Act, 2014"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "BJP MP Pemmasani Chandrasekhar",
+     "type": "Person",
+     "english_name": "Pemmasani Chandrasekhar"
+    },
+    {
+     "name": "Jana Sena",
+     "type": "Party",
+     "english_name": "Jana Sena"
+    },
+    {
+     "name": "Tenneti Krishnaprasad",
+     "type": "Person",
+     "english_name": "Tenneti Krishnaprasad"
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "Union Cabinet",
+     "type": "Organization",
+     "english_name": "Union Cabinet"
+    },
+    {
+     "name": "Presidential assent",
+     "type": "Organization",
+     "english_name": "Presidential assent"
+    },
+    {
+     "name": "N. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "K. Pawan Kalyan",
+     "type": "Person",
+     "english_name": "K. Pawan Kalyan"
+    },
+    {
+     "name": "NARA LOKESH",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "BJP MP",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "AP Re-organisation (Amendment) Bill, 2026",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Vijaya",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Page 2",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Rajya Sabha",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The legislation would be taken up in the Rajya Sabha on Thursday and then sent for Union Cabinet ratification and Presidential assent."
+    },
+    {
+     "source": "N. Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "AP Re-organisation (Amendment) Bill, 2026",
+     "evidence": "Expressing happiness over the passage of the AP Re-organisation (Amendment) Bill, 2026, in Parliament"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c09bc7e31a55dfe628f4783f8f9abd9851219444": {
+   "entities": [
+    {
+     "name": "STATE",
+     "type": "Organization",
+     "english_name": "STATE"
+    },
+    {
+     "name": "DECCAN CHRONICLE",
+     "type": "Organization",
+     "english_name": "DECCAN CHRONICLE"
+    },
+    {
+     "name": "VIJAYAWADA",
+     "type": "Place",
+     "english_name": "VIJAYAWADA"
+    },
+    {
+     "name": "MARKAPURAM",
+     "type": "Place",
+     "english_name": "MARKAPURAM"
+    },
+    {
+     "name": "DR. DRIVER",
+     "type": "Person",
+     "english_name": "Driver"
+    },
+    {
+     "name": "OWNER",
+     "type": "Person",
+     "english_name": "Owner"
+    },
+    {
+     "name": "Hari Krishna Travels",
+     "type": "Organization",
+     "english_name": "Hari Krishna Travels"
+    },
+    {
+     "name": "Jagtial",
+     "type": "Place",
+     "english_name": "Jagtial"
+    },
+    {
+     "name": "Kaligiri",
+     "type": "Place",
+     "english_name": "Kaligiri"
+    },
+    {
+     "name": "Pappana Haribabu",
+     "type": "Person",
+     "english_name": "Pappana Haribabu"
+    },
+    {
+     "name": "Deputy Chief Signal and Telecomm Engineer (Construction)",
+     "type": "Organization",
+     "english_name": "Deputy Chief Signal and Telecomm Engineer (Construction)"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Rajahmundry Railway Station",
+     "type": "Place",
+     "english_name": "Rajahmundry Railway Station"
+    },
+    {
+     "name": "e-TENDER",
+     "type": "Scheme",
+     "english_name": "e-TENDER"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Deputy Chief Signal and Telecomm Engineer (Construction)",
+     "relation": "LOCATED_IN",
+     "target": "VIJAYAWADA",
+     "evidence": "Deputy Chief Signal and Telecomm Engineer (Construction), Vijayawada invites e-Tender"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2ec2843dc959403864de6a28d9d772dc51e5f6a3": {
+   "entities": [
+    {
+     "name": "NMDC Limited",
+     "type": "Organization",
+     "english_name": "NMDC Limited"
+    },
+    {
+     "name": "Khanij Bhavan",
+     "type": "Place",
+     "english_name": "Khanij Bhavan"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "WORKS DIVISION",
+     "type": "Organization",
+     "english_name": "WORKS DIVISION"
+    },
+    {
+     "name": "CONTRACTS DEPARTMENT",
+     "type": "Organization",
+     "english_name": "CONTRACTS DEPARTMENT"
+    },
+    {
+     "name": "Tender Enquiry No: HO(Contracts)/ Haul Road/ Dep. 14 & 11C / KDL / 2026 / 316",
+     "type": "Organization",
+     "english_name": "Tender Enquiry No: HO(Contracts)/ Haul Road/ Dep. 14 & 11C / KDL / 2026 / 316"
+    },
+    {
+     "name": "Estimated cost including GST is ₹ 213.52 Crore",
+     "type": "Organization",
+     "english_name": "Estimated cost including GST is ₹ 213.52 Crore"
+    },
+    {
+     "name": "NAVARATNA",
+     "type": "Organization",
+     "english_name": "NAVARATNA"
+    },
+    {
+     "name": "Ministry of Steel",
+     "type": "Organization",
+     "english_name": "Ministry of Steel"
+    },
+    {
+     "name": "Govt. of India",
+     "type": "Organization",
+     "english_name": "Govt. of India"
+    },
+    {
+     "name": "Construction of haul road along with service road including associated supplies for Deposits 14 & 11C at Bailadila Iron Ore Mine, Kirandul Complex, Chhattisgarh",
+     "type": "Scheme",
+     "english_name": "Construction of haul road along with service road including associated supplies for Deposits 14 & 11C at Bailadila Iron Ore Mine, Kirandul Complex, Chhattisgarh"
+    },
+    {
+     "name": "NMDC website",
+     "type": "Organization",
+     "english_name": "NMDC website"
+    },
+    {
+     "name": "Central Public Procurement Portal (CPP PORTAL)",
+     "type": "Organization",
+     "english_name": "Central Public Procurement Portal (CPP PORTAL)"
+    },
+    {
+     "name": "MSTC portal",
+     "type": "Organization",
+     "english_name": "MSTC portal"
+    },
+    {
+     "name": "Tender Event No. NMDC/Head Office/Contract/1/26-27/ET/6",
+     "type": "Organization",
+     "english_name": "Tender Event No. NMDC/Head Office/Contract/1/26-27/ET/6"
+    },
+    {
+     "name": "vendor guide",
+     "type": "Organization",
+     "english_name": "vendor guide"
+    },
+    {
+     "name": "Pre Bid meetings",
+     "type": "Organization",
+     "english_name": "Pre Bid meetings"
+    },
+    {
+     "name": "Consultant's office",
+     "type": "Organization",
+     "english_name": "Consultant's office"
+    },
+    {
+     "name": "Kolkata",
+     "type": "Place",
+     "english_name": "Kolkata"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a31ae1165bbede8d65b99252c40e84216d6f3705": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e7d7dc13c020b5efcab510b3c7361f1f0ddc14fd": {
+   "entities": [
+    {
+     "name": "Senior Divisional Electrical Engineer / Maintenance / Guntakal",
+     "type": "Person",
+     "english_name": "Senior Divisional Electrical Engineer / Maintenance / Guntakal"
+    },
+    {
+     "name": "The President of India",
+     "type": "Person",
+     "english_name": "The President of India"
+    },
+    {
+     "name": "Guntakal Division-1",
+     "type": "Organization",
+     "english_name": "Guntakal Division-1"
+    },
+    {
+     "name": "VPL",
+     "type": "Organization",
+     "english_name": "VPL"
+    },
+    {
+     "name": "BLL",
+     "type": "Organization",
+     "english_name": "BLL"
+    },
+    {
+     "name": "VP",
+     "type": "Organization",
+     "english_name": "VP"
+    },
+    {
+     "name": "HGI",
+     "type": "Organization",
+     "english_name": "HGI"
+    },
+    {
+     "name": "BNL",
+     "type": "Organization",
+     "english_name": "BNL"
+    },
+    {
+     "name": "KDT",
+     "type": "Organization",
+     "english_name": "KDT"
+    },
+    {
+     "name": "NKDO",
+     "type": "Organization",
+     "english_name": "NKDO"
+    },
+    {
+     "name": "GPU",
+     "type": "Organization",
+     "english_name": "GPU"
+    },
+    {
+     "name": "IMAM",
+     "type": "Organization",
+     "english_name": "IMAM"
+    },
+    {
+     "name": "TIM",
+     "type": "Organization",
+     "english_name": "TIM"
+    },
+    {
+     "name": "SNKG",
+     "type": "Organization",
+     "english_name": "SNKG"
+    },
+    {
+     "name": "TKBN",
+     "type": "Organization",
+     "english_name": "TKBN"
+    },
+    {
+     "name": "Hanuman Circle Station",
+     "type": "Organization",
+     "english_name": "Hanuman Circle Station"
+    },
+    {
+     "name": "DSC (Digital Signature Certificate)",
+     "type": "Scheme",
+     "english_name": "Digital Signature Certificate"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "551923e64fd6ac0a072e8f041fec6ea48f4d3431": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5dbdb9ab7852492324b093ceca411e66f7cca430": {
+   "entities": [
+    {
+     "name": "HPV vaccination programme",
+     "type": "Scheme",
+     "english_name": "HPV vaccination programme"
+    },
+    {
+     "name": "Andhra Pradesh government",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh government"
+    },
+    {
+     "name": "HPV",
+     "type": "Scheme",
+     "english_name": "HPV"
+    },
+    {
+     "name": "Cervical cancer",
+     "type": "Issue",
+     "english_name": "Cervical cancer"
+    },
+    {
+     "name": "Genital warts",
+     "type": "Issue",
+     "english_name": "Genital warts"
+    },
+    {
+     "name": "Class X examinations",
+     "type": "Issue",
+     "english_name": "Class X examinations"
+    },
+    {
+     "name": "ICMR",
+     "type": "Organization",
+     "english_name": "ICMR"
+    }
+   ],
+   "relations": [
+    {
+     "source": "HPV vaccination programme",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Cervical cancer",
+     "evidence": "This is a safeguard against cervical and other types of cancers and the genital warts affecting women."
+    },
+    {
+     "source": "HPV vaccination programme",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Genital warts",
+     "evidence": "This is a safeguard against cervical and other types of cancers and the genital warts affecting women."
+    },
+    {
+     "source": "HPV vaccination programme",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Class X examinations",
+     "evidence": "With the Class X examinations being in progress, there is some delay in administering the vaccine, as the girls are busy preparing for the exams."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0ae001621ffc4fdac1fd5738d943d2b832013237": {
+   "entities": [
+    {
+     "name": "AP",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "HPV",
+     "type": "Scheme",
+     "english_name": "HPV vaccine"
+    },
+    {
+     "name": "World Allergy Foundation",
+     "type": "Organization",
+     "english_name": "World Allergy Foundation"
+    },
+    {
+     "name": "Prime Minister’s Office",
+     "type": "Organization",
+     "english_name": "Prime Minister’s Office"
+    },
+    {
+     "name": "Dr Vyakarnam Nageshwar",
+     "type": "Person",
+     "english_name": "Dr Vyakarnam Nageshwar"
+    },
+    {
+     "name": "Dr K Padmavathi",
+     "type": "Person",
+     "english_name": "Dr K Padmavathi"
+    },
+    {
+     "name": "Aswini Allergy Centre",
+     "type": "Organization",
+     "english_name": "Aswini Allergy Centre"
+    },
+    {
+     "name": "Hyderabad",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "Kasauli",
+     "type": "Place",
+     "english_name": "Kasauli"
+    },
+    {
+     "name": "Andhra Pradesh health director",
+     "type": "Person",
+     "english_name": "Andhra Pradesh health director"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "17627cd8cc2921666219ef94a72765932a23516e": {
+   "entities": [
+    {
+     "name": "Dr Shobha",
+     "type": "Person",
+     "english_name": "Dr Shobha"
+    },
+    {
+     "name": "Gandhi Hospital",
+     "type": "Organization",
+     "english_name": "Gandhi Hospital"
+    },
+    {
+     "name": "BLHS Devi",
+     "type": "Person",
+     "english_name": "BLHS Devi"
+    },
+    {
+     "name": "APSPDCL",
+     "type": "Organization",
+     "english_name": "APSPDCL"
+    },
+    {
+     "name": "TIRUPATI",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Rama-durgam Hill temple",
+     "type": "Place",
+     "english_name": "Rama-durgam Hill temple"
+    },
+    {
+     "name": "Rajamahendravaram",
+     "type": "Place",
+     "english_name": "Rajamahendravaram"
+    },
+    {
+     "name": "Kakinada",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "Papikonda National Park",
+     "type": "Place",
+     "english_name": "Papikonda National Park"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5fc89edbac0b3f535f6977abebca0ff0ced0a44d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "30c4da93b968dc01d22d756de05234c5a802110f": {
+   "entities": [
+    {
+     "name": "AP Reorganisation Act",
+     "type": "Organization",
+     "english_name": "AP Reorganisation Act"
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Lokesh",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "Swarna Andhra Pradesh",
+     "type": "Scheme",
+     "english_name": "Swarna Andhra Pradesh"
+    },
+    {
+     "name": "Pedala Sevalo",
+     "type": "Scheme",
+     "english_name": "Pedala Sevalo"
+    },
+    {
+     "name": "Vinjamoor",
+     "type": "Place",
+     "english_name": "Vinjamoor"
+    },
+    {
+     "name": "SPSR Nellore district",
+     "type": "Place",
+     "english_name": "SPSR Nellore district"
+    },
+    {
+     "name": "Capital Bill",
+     "type": "Scheme",
+     "english_name": "Capital Bill"
+    },
+    {
+     "name": "Chief Minister",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "Naidu",
+     "type": "Person",
+     "english_name": "Naidu"
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": "New Delhi"
+    },
+    {
+     "name": "Rajya Sabha",
+     "type": "Organization",
+     "english_name": "Rajya Sabha"
+    },
+    {
+     "name": "Prime Minister Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "home minister Amit Shah",
+     "type": "Person",
+     "english_name": "Amit Shah"
+    },
+    {
+     "name": "vice president and chairman of the Rajya Sabha, C.P. Radhakrishnan",
+     "type": "Person",
+     "english_name": "C.P. Radhakrishnan"
+    },
+    {
+     "name": "AP people",
+     "type": "Person",
+     "english_name": "AP people"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Swarna Andhra Pradesh",
+     "evidence": "building a “Swarna Andhra Pradesh.”"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f3feb1e6ddee5a806996cf73c7610a3c2fa2675e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "62cb6fb57de818bff0655ceac46285ac00c86f04": {
+   "entities": [
+    {
+     "name": "orthopaedic doctor",
+     "type": "Person",
+     "english_name": "orthopaedic doctor"
+    },
+    {
+     "name": "Kadapa RIMS",
+     "type": "Organization",
+     "english_name": "Kadapa RIMS"
+    },
+    {
+     "name": "private hospitals",
+     "type": "Organization",
+     "english_name": "private hospitals"
+    },
+    {
+     "name": "government hospitals",
+     "type": "Organization",
+     "english_name": "government hospitals"
+    },
+    {
+     "name": "authorities",
+     "type": "Organization",
+     "english_name": "authorities"
+    },
+    {
+     "name": "SUMMER | TIME Crop concerns flagged; officials stress on need for preparedness",
+     "type": "Issue",
+     "english_name": "Crop concerns"
+    },
+    {
+     "name": "Heatwave conditions likely in state",
+     "type": "Issue",
+     "english_name": "Heatwave conditions"
+    },
+    {
+     "name": "IMD",
+     "type": "Organization",
+     "english_name": "IMD"
+    },
+    {
+     "name": "DC",
+     "type": "Organization",
+     "english_name": "DC"
+    },
+    {
+     "name": "DC CORRESPONDENT",
+     "type": "Organization",
+     "english_name": "DC CORRESPONDENT"
+    },
+    {
+     "name": "RAMACHANDRA REDDY",
+     "type": "Person",
+     "english_name": "Ramachandra Reddy"
+    },
+    {
+     "name": "GUNDAM",
+     "type": "Place",
+     "english_name": "GUNDAM"
+    },
+    {
+     "name": "KURNOOL",
+     "type": "Place",
+     "english_name": "KURNOOL"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "India meteorological department",
+     "type": "Organization",
+     "english_name": "India meteorological department"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0b31882bfe29fd31a233f5ac3bf19672bd83601c": {
+   "entities": [
+    {
+     "name": "Ramayapatnam Port",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Dugarajapatnam Shipbuilding Centre",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IFFCO SEZ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Juvvadinne Fishing Harbour",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Polavaram project",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Somasila canal",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Patha Cheruvu",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP CM",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DC CORRESPONDENT",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3f55e5f2eeea39e71601f3325d966df124775e4d": {
+   "entities": [
+    {
+     "name": "Rama-durgam Hill temple",
+     "type": "Place",
+     "english_name": "Rama-durgam Hill temple"
+    },
+    {
+     "name": "Rajamahendravaram",
+     "type": "Place",
+     "english_name": "Rajamahendravaram"
+    },
+    {
+     "name": "Kakinada",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "Papikonda National Park",
+     "type": "Place",
+     "english_name": "Papikonda National Park"
+    },
+    {
+     "name": "Andhra Pradesh Southern Power Distribution Company Limited",
+     "type": "Organization",
+     "english_name": "APSPDCL"
+    },
+    {
+     "name": "CMD Shiva Shankar Lotheti",
+     "type": "Person",
+     "english_name": "Shiva Shankar Lotheti"
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "Kurnool",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "Chittoor",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "Nellore",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Anantapur",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "Annamayya",
+     "type": "Place",
+     "english_name": "Annamayya"
+    },
+    {
+     "name": "CMD",
+     "type": "Person",
+     "english_name": "CMD"
+    },
+    {
+     "name": "DC CORRESPONDENT",
+     "type": "Person",
+     "english_name": "DC Correspondent"
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "NTR",
+     "type": "Person",
+     "english_name": "NTR"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a49b3382b8a497492572e151a2f69c82be295764": {
+   "entities": [
+    {
+     "name": "Babu",
+     "type": "Person",
+     "english_name": "Babu"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "Special Investigation Team"
+    },
+    {
+     "name": "S. Suresh Kumar",
+     "type": "Person",
+     "english_name": "S. Suresh Kumar"
+    },
+    {
+     "name": "Kakinada district",
+     "type": "Place",
+     "english_name": "Kakinada district"
+    },
+    {
+     "name": "Vetlapalem",
+     "type": "Place",
+     "english_name": "Vetlapalem"
+    },
+    {
+     "name": "Sivakasi",
+     "type": "Place",
+     "english_name": "Sivakasi"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "SIT",
+     "relation": "LOCATED_IN",
+     "target": "Kakinada district",
+     "evidence": "The Special Investigation Team (SIT) probing the fire-works fire at Vetlapalem in Kakinada district"
+    },
+    {
+     "source": "SIT",
+     "relation": "LOCATED_IN",
+     "target": "AP",
+     "evidence": "introduce such systems in AP too"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "39b7163950f1ec36b9085a73a58d1ec947a358ed": {
+   "entities": [
+    {
+     "name": "Mumtaz Begum",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Riza Ahamed",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Shakira Banu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pakthini Mohammad Meera Hussain",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Pakthini Mohammad Muzammil",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "G.P.A. Holder",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Maharaja Sri Vijayawada 7th Additional District Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "O.S. No: 123/2023",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "NTR District",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada Municipal Corporation Area",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada Patamatalanka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada Village Portion",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Batthula Venkateswarlu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Nalukurthi Kalpana",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Paleti Girish",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Chaparala Veedhi",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Satharamapuram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Maharaja Sri Vijayawada 7th Additional District Court",
+     "relation": "LOCATED_IN",
+     "target": "Vijayawada",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2ffd40f9102af3a3f0d02d6fc53b7ebcbdae3550": {
+   "entities": [
+    {
+     "name": "Late Amir Ahmad Khan",
+     "type": "Person",
+     "english_name": "Late Amir Ahmad Khan"
+    },
+    {
+     "name": "Muhammad Ayub Khan",
+     "type": "Person",
+     "english_name": "Muhammad Ayub Khan"
+    },
+    {
+     "name": "Shabana Bano Syed",
+     "type": "Person",
+     "english_name": "Shabana Bano Syed"
+    },
+    {
+     "name": "P.Karimunnisa",
+     "type": "Person",
+     "english_name": "P.Karimunnisa"
+    },
+    {
+     "name": "Akberunisa Pakthini",
+     "type": "Person",
+     "english_name": "Akberunisa Pakthini"
+    },
+    {
+     "name": "Rahimunnisa",
+     "type": "Person",
+     "english_name": "Rahimunnisa"
+    },
+    {
+     "name": "Zehra Jabeen",
+     "type": "Person",
+     "english_name": "Zehra Jabeen"
+    },
+    {
+     "name": "Abdul Waris Sakvai Salam",
+     "type": "Person",
+     "english_name": "Abdul Waris Sakvai Salam"
+    },
+    {
+     "name": "Nazeema Kowser",
+     "type": "Person",
+     "english_name": "Nazeema Kowser"
+    },
+    {
+     "name": "S.Nazeera Kowse",
+     "type": "Person",
+     "english_name": "S.Nazeera Kowse"
+    },
+    {
+     "name": "Nasira Kowser",
+     "type": "Person",
+     "english_name": "Nasira Kowser"
+    },
+    {
+     "name": "Sakavi Rayees Ahmed",
+     "type": "Person",
+     "english_name": "Sakavi Rayees Ahmed"
+    },
+    {
+     "name": "S. Nahida Kawser",
+     "type": "Person",
+     "english_name": "S. Nahida Kawser"
+    },
+    {
+     "name": "S.Mudasir Nadeem",
+     "type": "Person",
+     "english_name": "S.Mudasir Nadeem"
+    },
+    {
+     "name": "Mubashir Nadeem Sakvai",
+     "type": "Person",
+     "english_name": "Mubashir Nadeem Sakvai"
+    },
+    {
+     "name": "Sakvai Tahir Ahmed",
+     "type": "Person",
+     "english_name": "Sakvai Tahir Ahmed"
+    },
+    {
+     "name": "Khamrunnisa S",
+     "type": "Person",
+     "english_name": "Khamrunnisa S"
+    },
+    {
+     "name": "S.Tanveer Ahmedn",
+     "type": "Person",
+     "english_name": "S.Tanveer Ahmedn"
+    },
+    {
+     "name": "S Muthaheer Ahmed",
+     "type": "Person",
+     "english_name": "S Muthaheer Ahmed"
+    },
+    {
+     "name": "S.Tafseer Ahmed",
+     "type": "Person",
+     "english_name": "S.Tafseer Ahmed"
+    },
+    {
+     "name": "Sakvai Siddique Ahmed",
+     "type": "Person",
+     "english_name": "Sakvai Siddique Ahmed"
+    },
+    {
+     "name": "Meera Hussain Sakvai",
+     "type": "Person",
+     "english_name": "Meera Hussain Sakvai"
+    },
+    {
+     "name": "Sara Banu",
+     "type": "Person",
+     "english_name": "Sara Banu"
+    },
+    {
+     "name": "S.Mohseena Banu",
+     "type": "Person",
+     "english_name": "S.Mohseena Banu"
+    },
+    {
+     "name": "Mubeena Banu S",
+     "type": "Person",
+     "english_name": "Mubeena Banu S"
+    },
+    {
+     "name": "Mumtaz Begum",
+     "type": "Person",
+     "english_name": "Mumtaz Begum"
+    },
+    {
+     "name": "Riza Ahamed",
+     "type": "Person",
+     "english_name": "Riza Ahamed"
+    },
+    {
+     "name": "Shakira Banu",
+     "type": "Person",
+     "english_name": "Shakira Banu"
+    },
+    {
+     "name": "Pakthini Mohammad Meera Hussain",
+     "type": "Person",
+     "english_name": "Pakthini Mohammad Meera Hussain"
+    },
+    {
+     "name": "Pakthini Mohammad Muzammil",
+     "type": "Person",
+     "english_name": "Pakthini Mohammad Muzammil"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4b1aaf82020a4b80720e97f8641e1e1f0be65d2b": {
+   "entities": [
+    {
+     "name": "Congress MPs",
+     "type": "Person",
+     "english_name": "Congress MPs"
+    },
+    {
+     "name": "Janpath",
+     "type": "Place",
+     "english_name": "Janpath"
+    },
+    {
+     "name": "Congress leader Sonia Gandhi",
+     "type": "Person",
+     "english_name": "Sonia Gandhi"
+    },
+    {
+     "name": "CPM",
+     "type": "Party",
+     "english_name": "CPM"
+    },
+    {
+     "name": "Mr Gandhi",
+     "type": "Person",
+     "english_name": "Mr Gandhi"
+    },
+    {
+     "name": "Mr Modi",
+     "type": "Person",
+     "english_name": "Mr Modi"
+    },
+    {
+     "name": "CPM-BJP deal",
+     "type": "Issue",
+     "english_name": "CPM-BJP deal"
+    },
+    {
+     "name": "I.N.D.I.A. bloc",
+     "type": "Party",
+     "english_name": "I.N.D.I.A. bloc"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr Gandhi",
+     "relation": "MEMBER_OF",
+     "target": "I.N.D.I.A. bloc",
+     "evidence": "If Mr Gandhi is serious about his allegation, then he should start the process of evicting the Left parties from the I.N.D.I.A. bloc."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8cd7b5251882d933dc675c9552cd30d6c147f998": {
+   "entities": [
+    {
+     "name": "Rekulakunta weather research centre",
+     "type": "Organization",
+     "english_name": "Rekulakunta weather research centre"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Babu A",
+     "type": "Person",
+     "english_name": "Babu A"
+    },
+    {
+     "name": "GST",
+     "type": "Organization",
+     "english_name": "GST"
+    },
+    {
+     "name": "GST 2.0 reforms",
+     "type": "Scheme",
+     "english_name": "GST 2.0 reforms"
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "SGST",
+     "type": "Organization",
+     "english_name": "SGST"
+    },
+    {
+     "name": "IGST",
+     "type": "Organization",
+     "english_name": "IGST"
+    },
+    {
+     "name": "Professional tax",
+     "type": "Organization",
+     "english_name": "Professional tax"
+    },
+    {
+     "name": "Petroleum VAT",
+     "type": "Organization",
+     "english_name": "Petroleum VAT"
+    },
+    {
+     "name": "Babu",
+     "type": "Person",
+     "english_name": "Babu"
+    },
+    {
+     "name": "GST collections",
+     "type": "Claim",
+     "english_name": "GST collections"
+    },
+    {
+     "name": "commercial taxes department",
+     "type": "Organization",
+     "english_name": "commercial taxes department"
+    },
+    {
+     "name": "Aadhaar-based authentication",
+     "type": "Scheme",
+     "english_name": "Aadhaar-based authentication"
+    },
+    {
+     "name": "UPI analytics",
+     "type": "Scheme",
+     "english_name": "UPI analytics"
+    },
+    {
+     "name": "IGST input tax credit reversals",
+     "type": "Scheme",
+     "english_name": "IGST input tax credit reversals"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Rekulakunta weather research centre",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "An official from the Rekulakunta weather research centre said"
+    },
+    {
+     "source": "Babu",
+     "relation": "MAKES_CLAIM",
+     "target": "GST collections",
+     "evidence": "Babu stated, “Measures such as Aadhaar-based authentication, UPI analytics to identify over 20,000 unregistered entities, and targeted action in sectors like construction, mining, scrap, and restaurants improved compliance. Focus on IGST input tax credit reversals and recovery from defaulters also boosted revenues.”"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8599d9da45a2be9988566c1bc471a284f5270430": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1b26d936319fa49c3868539da244c15ac025d2d4": {
+   "entities": [
+    {
+     "name": "Mr Gandhi",
+     "type": "Person",
+     "english_name": "Mr Gandhi"
+    },
+    {
+     "name": "I.N.D.I.A. bloc",
+     "type": "Party",
+     "english_name": "I.N.D.I.A. bloc"
+    },
+    {
+     "name": "Left parties",
+     "type": "Party",
+     "english_name": "Left parties"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "oil marketing companies (OMCs)",
+     "type": "Organization",
+     "english_name": "oil marketing companies (OMCs)"
+    },
+    {
+     "name": "Indian Oil Corporation",
+     "type": "Organization",
+     "english_name": "Indian Oil Corporation"
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "US",
+     "type": "Place",
+     "english_name": "US"
+    },
+    {
+     "name": "Israel",
+     "type": "Place",
+     "english_name": "Israel"
+    },
+    {
+     "name": "Iran",
+     "type": "Place",
+     "english_name": "Iran"
+    },
+    {
+     "name": "commercial LPG",
+     "type": "Scheme",
+     "english_name": "commercial LPG"
+    },
+    {
+     "name": "premium petrol",
+     "type": "Scheme",
+     "english_name": "premium petrol"
+    },
+    {
+     "name": "premium diesel",
+     "type": "Scheme",
+     "english_name": "premium diesel"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr Gandhi",
+     "relation": "ACCUSES",
+     "target": "I.N.D.I.A. bloc",
+     "evidence": "to accuse his own party’s allies on the national platform formed to fight the BJP of being in cahoots with the same saffron party defies logic."
+    },
+    {
+     "source": "oil marketing companies (OMCs)",
+     "relation": "LOCATED_IN",
+     "target": "Delhi",
+     "evidence": "State-run Indian Oil Corporation initially doubled ATF prices in Delhi to ₹2.07 lakh per kilolitre for April, only to roll them back within hours to ₹1.04 lakh/kl following government intervention."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b7884cc6e4efc23714c53ac230bbbddff1c6577e": {
+   "entities": [
+    {
+     "name": "Coimbatore",
+     "type": "Place",
+     "english_name": "Coimbatore"
+    },
+    {
+     "name": "Deccan Chronicle Holdings Limited",
+     "type": "Organization",
+     "english_name": "Deccan Chronicle Holdings Limited"
+    },
+    {
+     "name": "Sengalipalayam Road",
+     "type": "Place",
+     "english_name": "Sengalipalayam Road"
+    },
+    {
+     "name": "N.G.G.O Colony Post",
+     "type": "Place",
+     "english_name": "N.G.G.O Colony Post"
+    },
+    {
+     "name": "Kurudampalayam village",
+     "type": "Place",
+     "english_name": "Kurudampalayam village"
+    },
+    {
+     "name": "Sunanda K. Datta-Ray",
+     "type": "Person",
+     "english_name": "Sunanda K. Datta-Ray"
+    },
+    {
+     "name": "Viksit Bharat",
+     "type": "Scheme",
+     "english_name": "Viksit Bharat"
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Narendra Modi",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Viksit Bharat",
+     "evidence": "the “Viksit Bharat” of Prime Minister Narendra Modi’s dreams shows that as a result of the reforms now being undertaken"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b3c12e99addccfb00539550625dcd3d6d014a126": {
+   "entities": [
+    {
+     "name": "Indian Emigration Act of 1859",
+     "type": "Organization",
+     "english_name": "Indian Emigration Act of 1859"
+    },
+    {
+     "name": "Assam’s tea plantation labourers",
+     "type": "Person",
+     "english_name": "Assam tea plantation labourers"
+    },
+    {
+     "name": "Overseas Mobility (Facilitation and Welfare) Bill, 2025",
+     "type": "Scheme",
+     "english_name": "Overseas Mobility (Facilitation and Welfare) Bill, 2025"
+    },
+    {
+     "name": "Ministry of West Asian Migration",
+     "type": "Organization",
+     "english_name": "Ministry of West Asian Migration"
+    },
+    {
+     "name": "Protector of Emigrants",
+     "type": "Organization",
+     "english_name": "Protector of Emigrants"
+    },
+    {
+     "name": "1983 Emigration Act",
+     "type": "Organization",
+     "english_name": "1983 Emigration Act"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1499f91b1ea984be8085f8c2b6f3d1dd5fed9d8e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5766bc0aa39cc5d97bd90ab460467ba05cc4a091": {
+   "entities": [
+    {
+     "name": "Overseas Mobility (Facilitation and Welfare) Bill, 2025",
+     "type": "Scheme",
+     "english_name": "Overseas Mobility (Facilitation and Welfare) Bill, 2025"
+    },
+    {
+     "name": "Emigration Act",
+     "type": "Scheme",
+     "english_name": "Emigration Act"
+    },
+    {
+     "name": "Protector of Emigrants",
+     "type": "Organization",
+     "english_name": "Protector of Emigrants"
+    },
+    {
+     "name": "Overseas Mobility and Welfare Council",
+     "type": "Organization",
+     "english_name": "Overseas Mobility and Welfare Council"
+    },
+    {
+     "name": "Director-General of Overseas Mobility",
+     "type": "Organization",
+     "english_name": "Director-General of Overseas Mobility"
+    },
+    {
+     "name": "Protector-General of Emigrants",
+     "type": "Organization",
+     "english_name": "Protector-General of Emigrants"
+    },
+    {
+     "name": "external affairs ministry",
+     "type": "Organization",
+     "english_name": "External Affairs Ministry"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a00cedac36c1c45ef3bc0deed4b3f08f39e3eb68": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "489a8e68e726421a1a262c34a2092d03ac6848a7": {
+   "entities": [
+    {
+     "name": "employer pays principle",
+     "type": "Scheme",
+     "english_name": "employer pays principle"
+    },
+    {
+     "name": "TRUMP'S REMARKS",
+     "type": "Claim",
+     "english_name": "TRUMP'S REMARKS"
+    },
+    {
+     "name": "Parthasarathy Mandadi",
+     "type": "Person",
+     "english_name": "Parthasarathy Mandadi"
+    },
+    {
+     "name": "PAMPERING MAOISTS",
+     "type": "Claim",
+     "english_name": "PAMPERING MAOISTS"
+    },
+    {
+     "name": "M. Chandrasekhar",
+     "type": "Person",
+     "english_name": "M. Chandrasekhar"
+    },
+    {
+     "name": "QUANTUM FUTURE",
+     "type": "Claim",
+     "english_name": "QUANTUM FUTURE"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Parthasarathy Mandadi",
+     "relation": "MAKES_CLAIM",
+     "target": "TRUMP'S REMARKS",
+     "evidence": "As you sow, so you reap (Trump chides allies, Pak, China moot 5-point plan, April 1)."
+    },
+    {
+     "source": "M. Chandrasekhar",
+     "relation": "MAKES_CLAIM",
+     "target": "PAMPERING MAOISTS",
+     "evidence": "It is meaningless that while state government employees in states like Andhra Pradesh are denied the basic right of rise in Dearness Allowance and other minimum benefits for many years despite big rise in inflation, the surrendered Maoists who have committed unpardonable crimes for a long time are being offered rehabilitation packages."
+    },
+    {
+     "source": "M. Chandrasekhar",
+     "relation": "MAKES_CLAIM",
+     "target": "QUANTUM FUTURE",
+     "evidence": "The state government's motive to step up and carry forward responsibility for future generations is commendable (*India's first open quantum computer on April 14: CM, April*)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "edf01767a2e187f57f0775066cda6a9e1b7a1b81": {
+   "entities": [
+    {
+     "name": "Rajn Kalloo",
+     "type": "Person",
+     "english_name": "Rajn Kalloo"
+    },
+    {
+     "name": "Raju Kolluru",
+     "type": "Person",
+     "english_name": "Raju Kolluru"
+    },
+    {
+     "name": "Dilip Cherian",
+     "type": "Person",
+     "english_name": "Dilip Cherian"
+    },
+    {
+     "name": "Delhi court",
+     "type": "Organization",
+     "english_name": "Delhi court"
+    },
+    {
+     "name": "Central Bureau of Investigation",
+     "type": "Organization",
+     "english_name": "Central Bureau of Investigation"
+    },
+    {
+     "name": "Coal block allocation case",
+     "type": "Issue",
+     "english_name": "Coal block allocation case"
+    },
+    {
+     "name": "In Service of the Republic",
+     "type": "Scheme",
+     "english_name": "In Service of the Republic"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a801c0b0edd11bacd5a1110b8df89b1e7e64d10e": {
+   "entities": [
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "Yogi Adityanath",
+     "type": "Person",
+     "english_name": "Yogi Adityanath"
+    },
+    {
+     "name": "₹25,000 crore AI MoU",
+     "type": "Scheme",
+     "english_name": "₹25,000 crore AI MoU"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Yogi Adityanath",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "₹25,000 crore AI MoU",
+     "evidence": "clarification by Uttar Pradesh Chief Minister Yogi Adityanath that a ₹25,000 crore AI MoU is merely “preliminary” and “not binding”"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "74f645822f4a3ab2dfe2d7a99674c0bec2692073": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4238ce07ecbad7bdfeb7cd1e1c8e0cfae422f2d0": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "51941855745b9b5fe8d0ffa4d17412f9f908656e": {
+   "entities": [
+    {
+     "name": "ANMs",
+     "type": "Organization",
+     "english_name": "ANMs"
+    },
+    {
+     "name": "Nellore GGH",
+     "type": "Organization",
+     "english_name": "Nellore GGH"
+    },
+    {
+     "name": "Kadapa RIMS",
+     "type": "Organization",
+     "english_name": "Kadapa RIMS"
+    },
+    {
+     "name": "Anantapur",
+     "type": "Organization",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "GGH",
+     "type": "Organization",
+     "english_name": "GGH"
+    },
+    {
+     "name": "Kakinada GGH",
+     "type": "Organization",
+     "english_name": "Kakinada GGH"
+    },
+    {
+     "name": "Kurnool GGH",
+     "type": "Organization",
+     "english_name": "Kurnool GGH"
+    },
+    {
+     "name": "Dr. Venkateswarlu",
+     "type": "Person",
+     "english_name": "Dr. Venkateswarlu"
+    },
+    {
+     "name": "NTR Vaidya Seva Trust",
+     "type": "Organization",
+     "english_name": "NTR Vaidya Seva Trust"
+    },
+    {
+     "name": "Nandyal Government Hospital",
+     "type": "Organization",
+     "english_name": "Nandyal Government Hospital"
+    },
+    {
+     "name": "private hospitals",
+     "type": "Organization",
+     "english_name": "private hospitals"
+    },
+    {
+     "name": "public healthcare institutions",
+     "type": "Organization",
+     "english_name": "public healthcare institutions"
+    },
+    {
+     "name": "orthopaedic doctor",
+     "type": "Person",
+     "english_name": "orthopaedic doctor"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "721cd6596120057f90c388820e2b7ec5741d12d0": {
+   "entities": [
+    {
+     "name": "Srinivasa Rao",
+     "type": "Person",
+     "english_name": "Srinivasa Rao"
+    },
+    {
+     "name": "Anala Chanti",
+     "type": "Person",
+     "english_name": "Anala Chanti"
+    },
+    {
+     "name": "AP hotels association",
+     "type": "Organization",
+     "english_name": "AP hotels association"
+    },
+    {
+     "name": "commercial LPG",
+     "type": "Scheme",
+     "english_name": "commercial LPG"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ea6293f40f0005b00170b693064603f3f1913c62": {
+   "entities": [
+    {
+     "name": "MoU",
+     "type": "Scheme",
+     "english_name": "MoU"
+    },
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "Samant Goel",
+     "type": "Person",
+     "english_name": "Samant Goel"
+    },
+    {
+     "name": "Ajit Doval",
+     "type": "Person",
+     "english_name": "Ajit Doval"
+    },
+    {
+     "name": "Jake Sullivan",
+     "type": "Person",
+     "english_name": "Jake Sullivan"
+    },
+    {
+     "name": "Iran",
+     "type": "Place",
+     "english_name": "Iran"
+    },
+    {
+     "name": "Russia",
+     "type": "Place",
+     "english_name": "Russia"
+    },
+    {
+     "name": "Central Asia",
+     "type": "Place",
+     "english_name": "Central Asia"
+    },
+    {
+     "name": "Afghanistan",
+     "type": "Place",
+     "english_name": "Afghanistan"
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": "Delhi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "96bc6ca006973e938fd858cbef73ff95812d988a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4996daadd0dc59489dfac2717c471060197c8cf7": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4694fe4a2229a37aa756ea1fcd68260bdfef59d3": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8bab2843e7c8c19ae3ea0540781fd5a4f4203af9": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh High Court",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Justice Manavendranath Roy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Justice Gedela Tuhin Kumar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sheikh Shahina",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kumar Viswajith",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DGP Harish Kumar Gupta",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Prakasam SP Harshavardhan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ongole Taluk police station SHO T. Vijaya Krishna",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "US-Iran conflict",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "LPG",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Construction materials",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c9c1a803e309755dead3f279b363029f378fefec": {
+   "entities": [
+    {
+     "name": "LPG cylinder",
+     "type": "Organization",
+     "english_name": "LPG cylinder"
+    },
+    {
+     "name": "distributor networks",
+     "type": "Organization",
+     "english_name": "distributor networks"
+    },
+    {
+     "name": "Liquified Natural Gas (LNG)",
+     "type": "Organization",
+     "english_name": "Liquified Natural Gas (LNG)"
+    },
+    {
+     "name": "electric induction tops",
+     "type": "Organization",
+     "english_name": "electric induction tops"
+    },
+    {
+     "name": "Dimethyl Ether (DME)",
+     "type": "Organization",
+     "english_name": "Dimethyl Ether (DME)"
+    },
+    {
+     "name": "Bureau of Indian Standards (BIS)",
+     "type": "Organization",
+     "english_name": "Bureau of Indian Standards (BIS)"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "63aed5055e4231e3d55d63f84dbb3804ecc38c02": {
+   "entities": [
+    {
+     "name": "Cement",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Steel",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Electric wires",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ceramics",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Plastics",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PVC pipes",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hardware",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Flats",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Home buyers",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Builder Anala Chanti",
+     "type": "Person",
+     "english_name": "Anala Chanti"
+    },
+    {
+     "name": "Microgrids",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Solar stoves",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gram Swaraj",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "Deccan Chronicle",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "S. UMAMAHESHWAR",
+     "type": "Person",
+     "english_name": "S. Umamaheswar"
+    },
+    {
+     "name": "PPAC",
+     "type": "Organization",
+     "english_name": "Petroleum Planning & Analysis Cell"
+    },
+    {
+     "name": "LPG",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a2d296c129d1716c06db57e6bad3dff0f096d6fb": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "CPM",
+     "type": "Party",
+     "english_name": "CPM"
+    },
+    {
+     "name": "Left Democratic Front",
+     "type": "Organization",
+     "english_name": "Left Democratic Front"
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "Assembly election",
+     "type": "Issue",
+     "english_name": "Assembly election"
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "United Democratic Front",
+     "type": "Organization",
+     "english_name": "United Democratic Front"
+    },
+    {
+     "name": "I.N.D.I.A. bloc",
+     "type": "Organization",
+     "english_name": "I.N.D.I.A. bloc"
+    },
+    {
+     "name": "Pinarayi Vijayan",
+     "type": "Person",
+     "english_name": "Pinarayi Vijayan"
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "Sabarimala",
+     "type": "Place",
+     "english_name": "Sabarimala"
+    },
+    {
+     "name": "Aam Aadmi Party",
+     "type": "Party",
+     "english_name": "Aam Aadmi Party"
+    },
+    {
+     "name": "Delhi excise policy case",
+     "type": "Issue",
+     "english_name": "Delhi excise policy case"
+    },
+    {
+     "name": "Arvind Kejriwal",
+     "type": "Person",
+     "english_name": "Arvind Kejriwal"
+    },
+    {
+     "name": "Mr Gandhi",
+     "type": "Person",
+     "english_name": "Mr Gandhi"
+    },
+    {
+     "name": "Kerala CM",
+     "type": "Person",
+     "english_name": "Kerala Chief Minister"
+    },
+    {
+     "name": "Enforcement Directorate",
+     "type": "Organization",
+     "english_name": "Enforcement Directorate"
+    },
+    {
+     "name": "Mr Vijayan",
+     "type": "Person",
+     "english_name": "Mr Vijayan"
+    },
+    {
+     "name": "gold smuggling case",
+     "type": "Issue",
+     "english_name": "gold smuggling case"
+    },
+    {
+     "name": "CPM leader",
+     "type": "Person",
+     "english_name": "CPM leader"
+    },
+    {
+     "name": "former Kerala finance minister Thomas Isaac",
+     "type": "Person",
+     "english_name": "Thomas Isaac"
+    },
+    {
+     "name": "Central agency",
+     "type": "Organization",
+     "english_name": "Central agency"
+    },
+    {
+     "name": "Sabarimala case",
+     "type": "Issue",
+     "english_name": "Sabarimala case"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Rahul Gandhi",
+     "relation": "ACCUSES",
+     "target": "BJP",
+     "evidence": "The repeated statements of former Congress president and the Leader of the Opposition in the Lok Sabha Rahul Gandhi that the CPM-led Left Democratic Front (LDF) in Kerala is facing the Assembly election after striking a secret deal with the BJP against the Congress-led United Democratic Front (UDF) have the potential to undermine the very legitimacy of the I.N.D.I.A. bloc, which fights the BJP at "
+    },
+    {
+     "source": "Rahul Gandhi",
+     "relation": "ACCUSES",
+     "target": "CPM",
+     "evidence": "The repeated statements of former Congress president and the Leader of the Opposition in the Lok Sabha Rahul Gandhi that the CPM-led Left Democratic Front (LDF) in Kerala is facing the Assembly election after striking a secret deal with the BJP against the Congress-led United Democratic Front (UDF) have the potential to undermine the very legitimacy of the I.N.D.I.A. bloc, which fights the BJP at "
+    },
+    {
+     "source": "Mr Gandhi",
+     "relation": "ACCUSES",
+     "target": "CPM",
+     "evidence": "Mr Gandhi has every right to make the CPM accountable in the case."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c953f86961c413430a2c741bc888cc238d4c1e45": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f95880598b999f51998f8ad12a23858e25638f64": {
+   "entities": [
+    {
+     "name": "DME",
+     "type": "Scheme",
+     "english_name": "DME"
+    },
+    {
+     "name": "LPG",
+     "type": "Scheme",
+     "english_name": "LPG"
+    },
+    {
+     "name": "DC CORRESPONDENT",
+     "type": "Person",
+     "english_name": "DC Correspondent"
+    },
+    {
+     "name": "HYDERABAD",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "Covid lockdown",
+     "type": "Issue",
+     "english_name": "Covid lockdown"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "794e266edb18fa3b9d2d21f4dce0ad0a5b5da529": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ee147515635792ce8212ad58c5fb08197f1cb9a8": {
+   "entities": [
+    {
+     "name": "Dimethyl Ether",
+     "type": "Scheme",
+     "english_name": "Dimethyl Ether"
+    },
+    {
+     "name": "LPG",
+     "type": "Scheme",
+     "english_name": "LPG"
+    },
+    {
+     "name": "Bureau of Indian Standards",
+     "type": "Organization",
+     "english_name": "Bureau of Indian Standards"
+    },
+    {
+     "name": "CSIR-National Chemical Laboratory",
+     "type": "Organization",
+     "english_name": "CSIR-National Chemical Laboratory"
+    },
+    {
+     "name": "Pune",
+     "type": "Place",
+     "english_name": "Pune"
+    },
+    {
+     "name": "Green Hydrogen",
+     "type": "Scheme",
+     "english_name": "Green Hydrogen"
+    },
+    {
+     "name": "Green Revolution",
+     "type": "Issue",
+     "english_name": "Green Revolution"
+    },
+    {
+     "name": "DC Correspondent",
+     "type": "Person",
+     "english_name": "DC Correspondent"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Bureau of Indian Standards",
+     "relation": "LOCATED_IN",
+     "target": "Pune",
+     "evidence": "the limit currently allowed by the Bureau of Indian Standards (BIS)"
+    },
+    {
+     "source": "CSIR-National Chemical Laboratory",
+     "relation": "LOCATED_IN",
+     "target": "Pune",
+     "evidence": "CSIR-National Chemical Laboratory (NCL) in Pune has already developed a patented indigenous catalyst for DME production."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0c0b504a3bd9093eaf4bb332928bd63a096820cf": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "43bf6dc382a8825212bbcf8bd16a0cf14f33468e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9c2a5aea3dcd8b87642d9c7c6fdd22e5f79578c7": {
+   "entities": [
+    {
+     "name": "Trend Dynamics",
+     "type": "Claim",
+     "english_name": "Trend Dynamics"
+    },
+    {
+     "name": "Key Data Events",
+     "type": "Claim",
+     "english_name": "Key Data Events"
+    },
+    {
+     "name": "Comparative Reasoning",
+     "type": "Claim",
+     "english_name": "Comparative Reasoning"
+    },
+    {
+     "name": "Anomalies & Distribution",
+     "type": "Claim",
+     "english_name": "Anomalies & Distribution"
+    },
+    {
+     "name": "Analytical Narrative",
+     "type": "Claim",
+     "english_name": "Analytical Narrative"
+    },
+    {
+     "name": "Hydrogen",
+     "type": "Claim",
+     "english_name": "Hydrogen"
+    },
+    {
+     "name": "Grey hydrogen",
+     "type": "Claim",
+     "english_name": "Grey hydrogen"
+    },
+    {
+     "name": "Green Hydrogen",
+     "type": "Claim",
+     "english_name": "Green Hydrogen"
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "UP",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "Bihar",
+     "type": "Place",
+     "english_name": "Bihar"
+    },
+    {
+     "name": "West Bengal",
+     "type": "Place",
+     "english_name": "West Bengal"
+    },
+    {
+     "name": "Coal gasification",
+     "type": "Claim",
+     "english_name": "Coal gasification"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "342898618fe9653ff69313e46d6e049c4e3f5af8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bd6fd940d64cae610fb8fbc05de6d7894aa61be3": {
+   "entities": [
+    {
+     "name": "Sunil Tatkare",
+     "type": "Person",
+     "english_name": "Sunil Tatkare"
+    },
+    {
+     "name": "Ajit Pawar",
+     "type": "Person",
+     "english_name": "Ajit Pawar"
+    },
+    {
+     "name": "Sharad Pawar",
+     "type": "Person",
+     "english_name": "Sharad Pawar"
+    },
+    {
+     "name": "NCP",
+     "type": "Party",
+     "english_name": "NCP"
+    },
+    {
+     "name": "BJP-led NDA",
+     "type": "Party",
+     "english_name": "BJP-led NDA"
+    },
+    {
+     "name": "NCP (SP)",
+     "type": "Party",
+     "english_name": "NCP (SP)"
+    },
+    {
+     "name": "Shashtikant Shinde",
+     "type": "Person",
+     "english_name": "Shashtikant Shinde"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "Madhya Pradesh high court",
+     "type": "Organization",
+     "english_name": "Madhya Pradesh high court"
+    },
+    {
+     "name": "Archeological Survey of India",
+     "type": "Organization",
+     "english_name": "Archeological Survey of India"
+    },
+    {
+     "name": "Bhojshala Temple-Kamal Maula Mosque",
+     "type": "Place",
+     "english_name": "Bhojshala Temple-Kamal Maula Mosque"
+    },
+    {
+     "name": "Maulana Kamaluddin Welfare Society",
+     "type": "Organization",
+     "english_name": "Maulana Kamaluddin Welfare Society"
+    },
+    {
+     "name": "TVK",
+     "type": "Party",
+     "english_name": "TVK"
+    },
+    {
+     "name": "Vijay",
+     "type": "Person",
+     "english_name": "Vijay"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e1acf3355dffc32dc0232ef4b03240fc9680b705": {
+   "entities": [
+    {
+     "name": "Tamilaga Vettri Kazhagam",
+     "type": "Organization",
+     "english_name": "Tamilaga Vettri Kazhagam"
+    },
+    {
+     "name": "C. T. R. Nirmal Kumar",
+     "type": "Person",
+     "english_name": "C. T. R. Nirmal Kumar"
+    },
+    {
+     "name": "Union Home Minister Amit Shah",
+     "type": "Person",
+     "english_name": "Amit Shah"
+    },
+    {
+     "name": "Vijay",
+     "type": "Person",
+     "english_name": "Vijay"
+    },
+    {
+     "name": "Perambur",
+     "type": "Place",
+     "english_name": "Perambur"
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "Modi",
+     "type": "Person",
+     "english_name": "Modi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Modi",
+     "relation": "ACCUSES",
+     "target": "Congress",
+     "evidence": "Congress a patron of infiltrators, says Modi"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2c3d07b22c7ec907edaaa5e6bd5be7c8c3e97c62": {
+   "entities": [
+    {
+     "name": "Union Home Minister Amit Shah",
+     "type": "Person",
+     "english_name": "Amit Shah"
+    },
+    {
+     "name": "Tamilaga Vettri Kazhagam",
+     "type": "Organization",
+     "english_name": "Tamilaga Vettri Kazhagam"
+    },
+    {
+     "name": "C. T. R. Nirmal Kumar",
+     "type": "Person",
+     "english_name": "C. T. R. Nirmal Kumar"
+    },
+    {
+     "name": "Vijay",
+     "type": "Person",
+     "english_name": "Vijay"
+    },
+    {
+     "name": "Perambur",
+     "type": "Place",
+     "english_name": "Perambur"
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": "Assam"
+    },
+    {
+     "name": "Gogamukh",
+     "type": "Place",
+     "english_name": "Gogamukh"
+    },
+    {
+     "name": "Behali",
+     "type": "Place",
+     "english_name": "Behali"
+    },
+    {
+     "name": "NDA",
+     "type": "Party",
+     "english_name": "NDA"
+    }
+   ],
+   "relations": [
+    {
+     "source": "C. T. R. Nirmal Kumar",
+     "relation": "ACCUSES",
+     "target": "Union Home Minister Amit Shah",
+     "evidence": "expressed concern over the alleged security lapse for Vijay during the election campaign in Perambur"
+    },
+    {
+     "source": "Modi",
+     "relation": "ACCUSES",
+     "target": "Congress",
+     "evidence": "accusing the Opposition party of being the patron of infiltrators"
+    },
+    {
+     "source": "Modi",
+     "relation": "ACCUSES",
+     "target": "Congress",
+     "evidence": "Accusing that the Congress intends to turn the majority community into a minority and create a permanent votebank of infiltrators"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e76e0d10a5a24831bd27298815236b3e3dce1513": {
+   "entities": [
+    {
+     "name": "Revanth Reddy",
+     "type": "Person",
+     "english_name": "Revanth Reddy"
+    },
+    {
+     "name": "Congress-led UDF",
+     "type": "Party",
+     "english_name": "Congress-led UDF"
+    },
+    {
+     "name": "K S Sabarinathan",
+     "type": "Person",
+     "english_name": "K S Sabarinathan"
+    },
+    {
+     "name": "Mohanlal",
+     "type": "Person",
+     "english_name": "Mohanlal"
+    },
+    {
+     "name": "Pinarayi Vijayan",
+     "type": "Person",
+     "english_name": "Pinarayi Vijayan"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "Deepa Dash Munshi",
+     "type": "Person",
+     "english_name": "Deepa Dash Munshi"
+    },
+    {
+     "name": "AICC",
+     "type": "Organization",
+     "english_name": "AICC"
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "Nemom",
+     "type": "Place",
+     "english_name": "Nemom"
+    },
+    {
+     "name": "Constitution",
+     "type": "Issue",
+     "english_name": "Constitution"
+    },
+    {
+     "name": "Secularism",
+     "type": "Issue",
+     "english_name": "Secularism"
+    },
+    {
+     "name": "Development",
+     "type": "Issue",
+     "english_name": "Development"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e7accafe5262384bacf66a791b728dbcbd43de8a": {
+   "entities": [
+    {
+     "name": "7-8 GW gas-based power plants",
+     "type": "Organization",
+     "english_name": "7-8 GW gas-based power plants"
+    },
+    {
+     "name": "coal rake availability",
+     "type": "Organization",
+     "english_name": "coal rake availability"
+    },
+    {
+     "name": "thermal plants",
+     "type": "Organization",
+     "english_name": "thermal plants"
+    },
+    {
+     "name": "PMO",
+     "type": "Organization",
+     "english_name": "PMO"
+    },
+    {
+     "name": "retail food prices",
+     "type": "Organization",
+     "english_name": "retail food prices"
+    },
+    {
+     "name": "Control rooms",
+     "type": "Organization",
+     "english_name": "Control rooms"
+    },
+    {
+     "name": "States",
+     "type": "Organization",
+     "english_name": "States"
+    },
+    {
+     "name": "Union Territories",
+     "type": "Organization",
+     "english_name": "Union Territories"
+    },
+    {
+     "name": "Essential Commodities Act",
+     "type": "Organization",
+     "english_name": "Essential Commodities Act"
+    },
+    {
+     "name": "CCS",
+     "type": "Organization",
+     "english_name": "CCS"
+    },
+    {
+     "name": "Owaisi",
+     "type": "Person",
+     "english_name": "Asaduddin Owaisi"
+    },
+    {
+     "name": "Didi",
+     "type": "Person",
+     "english_name": "Mamata Banerjee"
+    },
+    {
+     "name": "Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "West Bengal Assembly Election",
+     "type": "Issue",
+     "english_name": "West Bengal Assembly Election"
+    },
+    {
+     "name": "Murshidabad",
+     "type": "Place",
+     "english_name": "Murshidabad"
+    },
+    {
+     "name": "AIMIM",
+     "type": "Organization",
+     "english_name": "AIMIM"
+    },
+    {
+     "name": "Hyderabad MP",
+     "type": "Person",
+     "english_name": "Hyderabad MP"
+    },
+    {
+     "name": "Trinamul Congress",
+     "type": "Party",
+     "english_name": "Trinamul Congress"
+    },
+    {
+     "name": "Humayun Kabir",
+     "type": "Person",
+     "english_name": "Humayun Kabir"
+    },
+    {
+     "name": "Aam Janata Unnyan Party",
+     "type": "Party",
+     "english_name": "Aam Janata Unnyan Party"
+    },
+    {
+     "name": "AJUP",
+     "type": "Party",
+     "english_name": "AJUP"
+    },
+    {
+     "name": "Nowda assembly seat",
+     "type": "Place",
+     "english_name": "Nowda assembly seat"
+    },
+    {
+     "name": "TMC",
+     "type": "Party",
+     "english_name": "TMC"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "Revanth",
+     "type": "Person",
+     "english_name": "Revanth"
+    },
+    {
+     "name": "Kerala CM",
+     "type": "Person",
+     "english_name": "Kerala CM"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Owaisi",
+     "relation": "ACCUSES",
+     "target": "Didi",
+     "evidence": "Owaisi ... accused chief minister Mamata Banerjee and Prime Minister Narendra Modi of having a “setting.”"
+    },
+    {
+     "source": "Owaisi",
+     "relation": "ACCUSES",
+     "target": "Modi",
+     "evidence": "Owaisi ... accused chief minister Mamata Banerjee and Prime Minister Narendra Modi of having a “setting.”"
+    },
+    {
+     "source": "Didi",
+     "relation": "MEMBER_OF",
+     "target": "TMC",
+     "evidence": "The TMC supremo"
+    },
+    {
+     "source": "Modi",
+     "relation": "MEMBER_OF",
+     "target": "BJP",
+     "evidence": "the BJP MLAs’ strength grew here from 3 in 2016 to 77 in 2021."
+    },
+    {
+     "source": "Humayun Kabir",
+     "relation": "MEMBER_OF",
+     "target": "Aam Janata Unnyan Party",
+     "evidence": "former Trinamul Congress MLA Humayun Kabir's new outfit Aam Janata Unnyan Party (AJUP)"
+    },
+    {
+     "source": "Revanth",
+     "relation": "ACCUSES",
+     "target": "Kerala CM",
+     "evidence": "Revanth tells Kerala CM ‘Po Mone Vijaya’"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af1b1cd879a5c1e464d215d28715e0532163539f": {
+   "entities": [
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "Muslim League",
+     "type": "Party",
+     "english_name": "Muslim League"
+    },
+    {
+     "name": "Modi",
+     "type": "Person",
+     "english_name": "Modi"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Gaurav Gogoi",
+     "type": "Person",
+     "english_name": "Gaurav Gogoi"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "Uniform Civil Code",
+     "type": "Scheme",
+     "english_name": "Uniform Civil Code"
+    },
+    {
+     "name": "Sixth Schedule",
+     "type": "Scheme",
+     "english_name": "Sixth Schedule"
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": "Assam"
+    },
+    {
+     "name": "Maninder Kaur Dwivedi",
+     "type": "Person",
+     "english_name": "Maninder Kaur Dwivedi"
+    },
+    {
+     "name": "Agriculture Ministry",
+     "type": "Organization",
+     "english_name": "Agriculture Ministry"
+    },
+    {
+     "name": "Prime Minister’s Office",
+     "type": "Organization",
+     "english_name": "Prime Minister’s Office"
+    },
+    {
+     "name": "PMO",
+     "type": "Organization",
+     "english_name": "PMO"
+    },
+    {
+     "name": "CCS",
+     "type": "Organization",
+     "english_name": "CCS"
+    },
+    {
+     "name": "Piped Natural Gas",
+     "type": "Scheme",
+     "english_name": "Piped Natural Gas"
+    },
+    {
+     "name": "Essential Commodities Act",
+     "type": "Scheme",
+     "english_name": "Essential Commodities Act"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Modi",
+     "relation": "ACCUSES",
+     "target": "Congress",
+     "evidence": "The Opposition party has been trying to divide the country."
+    },
+    {
+     "source": "Modi",
+     "relation": "ACCUSES",
+     "target": "Rahul Gandhi",
+     "evidence": "For the Congress, there are two families – one in Delhi and another in Assam, and their priority is the interest of their families and not that of the people."
+    },
+    {
+     "source": "Modi",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Uniform Civil Code",
+     "evidence": "if the BJP returns to power, it will \"implement the Uniform Civil Code\""
+    },
+    {
+     "source": "Modi",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Sixth Schedule",
+     "evidence": "safeguard tribals under the Sixth Schedule to protect Assam's identity"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "86bd9b7a14c94e390464eecbf2410deb0939c6ee": {
+   "entities": [
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "UP",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "Bihar",
+     "type": "Place",
+     "english_name": "Bihar"
+    },
+    {
+     "name": "West Bengal",
+     "type": "Place",
+     "english_name": "West Bengal"
+    },
+    {
+     "name": "Coal gasification",
+     "type": "Scheme",
+     "english_name": "Coal gasification"
+    },
+    {
+     "name": "hydrogen",
+     "type": "Scheme",
+     "english_name": "hydrogen"
+    },
+    {
+     "name": "urea",
+     "type": "Scheme",
+     "english_name": "urea"
+    },
+    {
+     "name": "Urea",
+     "type": "Scheme",
+     "english_name": "Urea"
+    },
+    {
+     "name": "DIAMMMONIUM PHOSPHATE",
+     "type": "Scheme",
+     "english_name": "Diammonium Phosphate"
+    },
+    {
+     "name": "Diammonium Phosphate",
+     "type": "Scheme",
+     "english_name": "Diammonium Phosphate"
+    },
+    {
+     "name": "Rock phosphate",
+     "type": "Scheme",
+     "english_name": "Rock phosphate"
+    },
+    {
+     "name": "sulfuric acid",
+     "type": "Scheme",
+     "english_name": "sulfuric acid"
+    },
+    {
+     "name": "ammonia",
+     "type": "Scheme",
+     "english_name": "ammonia"
+    },
+    {
+     "name": "India",
+     "type": "Place",
+     "english_name": "India"
+    },
+    {
+     "name": "Morocco",
+     "type": "Place",
+     "english_name": "Morocco"
+    },
+    {
+     "name": "Egypt",
+     "type": "Place",
+     "english_name": "Egypt"
+    },
+    {
+     "name": "Jordan",
+     "type": "Place",
+     "english_name": "Jordan"
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": "Rajasthan"
+    },
+    {
+     "name": "Madhya Pradesh",
+     "type": "Place",
+     "english_name": "Madhya Pradesh"
+    },
+    {
+     "name": "struvite reactors",
+     "type": "Scheme",
+     "english_name": "struvite reactors"
+    },
+    {
+     "name": "Sewage Treatment Plants",
+     "type": "Organization",
+     "english_name": "Sewage Treatment Plants"
+    },
+    {
+     "name": "STPs",
+     "type": "Organization",
+     "english_name": "STPs"
+    },
+    {
+     "name": "Saudi Arabia",
+     "type": "Place",
+     "english_name": "Saudi Arabia"
+    },
+    {
+     "name": "Tunisia",
+     "type": "Place",
+     "english_name": "Tunisia"
+    },
+    {
+     "name": "China",
+     "type": "Place",
+     "english_name": "China"
+    },
+    {
+     "name": "Russia",
+     "type": "Place",
+     "english_name": "Russia"
+    },
+    {
+     "name": "US",
+     "type": "Place",
+     "english_name": "US"
+    },
+    {
+     "name": "Brazil",
+     "type": "Place",
+     "english_name": "Brazil"
+    },
+    {
+     "name": "MURIATE OF POTASH",
+     "type": "Scheme",
+     "english_name": "Muriate of Potash"
+    },
+    {
+     "name": "Potash Derived from Molasses",
+     "type": "Scheme",
+     "english_name": "Potash Derived from Molasses"
+    },
+    {
+     "name": "PDM",
+     "type": "Scheme",
+     "english_name": "PDM"
+    },
+    {
+     "name": "Nutrient-Based Subsidy",
+     "type": "Scheme",
+     "english_name": "Nutrient-Based Subsidy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Rajasthan",
+     "evidence": "About 10 per cent of the demand is met from local mines in Rajasthan"
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Madhya Pradesh",
+     "evidence": "About 10 per cent of the demand is met from local mines in Rajasthan and Madhya Pradesh"
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Morocco",
+     "evidence": "India is one of the world's largest producers of sulfur. But it does not have high-quality rock phosphate, and it is imported from Morocco, Egypt and Jordan."
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Egypt",
+     "evidence": "India is one of the world's largest producers of sulfur. But it does not have high-quality rock phosphate, and it is imported from Morocco, Egypt and Jordan."
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Jordan",
+     "evidence": "India is one of the world's largest producers of sulfur. But it does not have high-quality rock phosphate, and it is imported from Morocco, Egypt and Jordan."
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Saudi Arabia",
+     "evidence": "Saudi Arabia, Egypt, Tunisia, and it cannot be controlled by any group of countries."
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Tunisia",
+     "evidence": "Saudi Arabia, Egypt, Tunisia, and it cannot be controlled by any group of countries."
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "China",
+     "evidence": "Rock phosphate is available in various countries such as China, Morocco, Russia, the US, Brazil,"
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Russia",
+     "evidence": "Rock phosphate is available in various countries such as China, Morocco, Russia, the US, Brazil,"
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "US",
+     "evidence": "Rock phosphate is available in various countries such as China, Morocco, Russia, the US, Brazil,"
+    },
+    {
+     "source": "India",
+     "relation": "LOCATED_IN",
+     "target": "Brazil",
+     "evidence": "Rock phosphate is available in various countries such as China, Morocco, Russia, the US, Brazil,"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "91ac17834cd233874b3ef9dbf5033e0bee064e59": {
+   "entities": [
+    {
+     "name": "Ernakulam Sub Jail",
+     "type": "Place",
+     "english_name": "Ernakulam Sub Jail"
+    },
+    {
+     "name": "Kaliraj Mahesh Kumar",
+     "type": "Person",
+     "english_name": "Kaliraj Mahesh Kumar"
+    },
+    {
+     "name": "Ko-chi city police commissioner",
+     "type": "Organization",
+     "english_name": "Kochi City Police Commissioner"
+    },
+    {
+     "name": "Madhusudan Sahoo",
+     "type": "Person",
+     "english_name": "Madhusudan Sahoo"
+    },
+    {
+     "name": "Indian Oil Corporation",
+     "type": "Organization",
+     "english_name": "Indian Oil Corporation"
+    },
+    {
+     "name": "J Sujata Sharma",
+     "type": "Person",
+     "english_name": "J Sujata Sharma"
+    },
+    {
+     "name": "Asangba Chuba Ao",
+     "type": "Person",
+     "english_name": "Asangba Chuba Ao"
+    },
+    {
+     "name": "K. Rammohan Naidu",
+     "type": "Person",
+     "english_name": "K. Rammohan Naidu"
+    },
+    {
+     "name": "Ajay Singh",
+     "type": "Person",
+     "english_name": "Ajay Singh"
+    },
+    {
+     "name": "SpiceJet",
+     "type": "Organization",
+     "english_name": "SpiceJet"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ko-chi city police commissioner",
+     "relation": "LOCATED_IN",
+     "target": "Ernakulam Sub Jail",
+     "evidence": "lodged a complaint with Ko-chi city police commissioner Kaliraj Mahesh Kumar and provided a confidential statement."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4b12ea6f1711a448c293cfe062693ab92f68d369": {
+   "entities": [
+    {
+     "name": "UDF",
+     "type": "Party",
+     "english_name": "UDF"
+    },
+    {
+     "name": "Indira guarantees",
+     "type": "Scheme",
+     "english_name": "Indira guarantees"
+    },
+    {
+     "name": "Oommen Chandy",
+     "type": "Person",
+     "english_name": "Oommen Chandy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "UDF",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Indira guarantees",
+     "evidence": "The UDF has pledged five Indira guarantees including free travel for all women on Kerala state transport buses, monthly assistance of ₹1,000 to college-going girl students and a hike in the welfare pensions to ₹3,000 per month."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "14467f117a64bd538bf4677a8fa3a73fbc183b4d": {
+   "entities": [
+    {
+     "name": "Li Xiong",
+     "type": "Person",
+     "english_name": "Li Xiong"
+    },
+    {
+     "name": "Huione Pay",
+     "type": "Organization",
+     "english_name": "Huione Pay"
+    },
+    {
+     "name": "Chen Zhi",
+     "type": "Person",
+     "english_name": "Chen Zhi"
+    },
+    {
+     "name": "CCTV",
+     "type": "Organization",
+     "english_name": "CCTV"
+    },
+    {
+     "name": "Sandhu Ponnachan",
+     "type": "Person",
+     "english_name": "Sandhu Ponnachan"
+    },
+    {
+     "name": "Derbyshire Police",
+     "type": "Organization",
+     "english_name": "Derbyshire Police"
+    },
+    {
+     "name": "Southern Derbyshire Magistrates' Court",
+     "type": "Organization",
+     "english_name": "Southern Derbyshire Magistrates' Court"
+    },
+    {
+     "name": "Bishop Blaise pub",
+     "type": "Place",
+     "english_name": "Bishop Blaise pub"
+    },
+    {
+     "name": "Friar Gate",
+     "type": "Place",
+     "english_name": "Friar Gate"
+    },
+    {
+     "name": "Derby",
+     "type": "Place",
+     "english_name": "Derby"
+    },
+    {
+     "name": "Punjab",
+     "type": "Place",
+     "english_name": "Punjab"
+    },
+    {
+     "name": "Iran",
+     "type": "Place",
+     "english_name": "Iran"
+    },
+    {
+     "name": "Kuwait",
+     "type": "Place",
+     "english_name": "Kuwait"
+    },
+    {
+     "name": "Qatar",
+     "type": "Place",
+     "english_name": "Qatar"
+    },
+    {
+     "name": "Beirut",
+     "type": "Place",
+     "english_name": "Beirut"
+    },
+    {
+     "name": "UAE",
+     "type": "Place",
+     "english_name": "UAE"
+    },
+    {
+     "name": "Israel",
+     "type": "Place",
+     "english_name": "Israel"
+    },
+    {
+     "name": "Hezbollah",
+     "type": "Organization",
+     "english_name": "Hezbollah"
+    },
+    {
+     "name": "US",
+     "type": "Organization",
+     "english_name": "US"
+    },
+    {
+     "name": "Donald Trump",
+     "type": "Person",
+     "english_name": "Donald Trump"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Li Xiong",
+     "relation": "ACCUSES",
+     "target": "Huione Pay",
+     "evidence": "Li was a former chairman of the board at Huione Pay."
+    },
+    {
+     "source": "Li Xiong",
+     "relation": "ACCUSES",
+     "target": "Chen Zhi",
+     "evidence": "He is accused of being a core member of Chinese-Cambodian businessman Chen Zhi's criminal syndicate."
+    },
+    {
+     "source": "Sandhu Ponnachan",
+     "relation": "ACCUSES",
+     "target": "Derbyshire Police",
+     "evidence": "Derbyshire Police said."
+    },
+    {
+     "source": "Sandhu Ponnachan",
+     "relation": "ACCUSES",
+     "target": "Southern Derbyshire Magistrates' Court",
+     "evidence": "On Wednesday, he appeared at Southern Derbyshire Magistrates' Court, when police said he showed no emotion."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a2b95c2c4f3750666a4724352b95e75fab40c6bd": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "32d9d550cfb95f036d469dbe4208249e40c47389": {
+   "entities": [
+    {
+     "name": "Yamaraja",
+     "type": "Person",
+     "english_name": "Yamaraja"
+    },
+    {
+     "name": "Gandhi",
+     "type": "Person",
+     "english_name": "Gandhi"
+    },
+    {
+     "name": "UDF",
+     "type": "Party",
+     "english_name": "UDF"
+    },
+    {
+     "name": "Indira guarantees",
+     "type": "Scheme",
+     "english_name": "Indira guarantees"
+    },
+    {
+     "name": "Oommen Chandy",
+     "type": "Person",
+     "english_name": "Oommen Chandy"
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "Samuthirakani",
+     "type": "Person",
+     "english_name": "Samuthirakani"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "type": "Person",
+     "english_name": "Gautham Vasudev Menon"
+    },
+    {
+     "name": "Carmeni Selvam",
+     "type": "Scheme",
+     "english_name": "Carmeni Selvam"
+    },
+    {
+     "name": "Ram Chakri",
+     "type": "Person",
+     "english_name": "Ram Chakri"
+    },
+    {
+     "name": "Arun Rangraju",
+     "type": "Person",
+     "english_name": "Arun Rangraju"
+    },
+    {
+     "name": "Sree Seeravann",
+     "type": "Person",
+     "english_name": "Sree Seeravann"
+    },
+    {
+     "name": "Yuvraj Dakshan",
+     "type": "Person",
+     "english_name": "Yuvraj Dakshan"
+    },
+    {
+     "name": "Shankar",
+     "type": "Person",
+     "english_name": "Shankar"
+    },
+    {
+     "name": "GKM Media",
+     "type": "Organization",
+     "english_name": "GKM Media"
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "Gogamukh",
+     "type": "Place",
+     "english_name": "Gogamukh"
+    },
+    {
+     "name": "Assam",
+     "type": "Place",
+     "english_name": "Assam"
+    },
+    {
+     "name": "AIMIM",
+     "type": "Party",
+     "english_name": "AIMIM"
+    },
+    {
+     "name": "Asaduddin Owaisi",
+     "type": "Person",
+     "english_name": "Asaduddin Owaisi"
+    },
+    {
+     "name": "Aam Janata Unnayan Party",
+     "type": "Party",
+     "english_name": "Aam Janata Unnayan Party"
+    },
+    {
+     "name": "Humayun Kabir",
+     "type": "Person",
+     "english_name": "Humayun Kabir"
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "A. Revanth Reddy",
+     "type": "Person",
+     "english_name": "A. Revanth Reddy"
+    },
+    {
+     "name": "Deepa Dash Munshi",
+     "type": "Person",
+     "english_name": "Deepa Dash Munshi"
+    },
+    {
+     "name": "UDF Nemom candidate K.S. Sabarinathan",
+     "type": "Person",
+     "english_name": "K.S. Sabarinathan"
+    },
+    {
+     "name": "Thiruvananthapuram",
+     "type": "Place",
+     "english_name": "Thiruvananthapuram"
+    },
+    {
+     "name": "Hardeep Singh Puri",
+     "type": "Person",
+     "english_name": "Hardeep Singh Puri"
+    },
+    {
+     "name": "HS Phoolka",
+     "type": "Person",
+     "english_name": "HS Phoolka"
+    },
+    {
+     "name": "New Delhi",
+     "type": "Place",
+     "english_name": "New Delhi"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "UDF",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Indira guarantees",
+     "evidence": "The UDF has pledged five Indira guarantees including free travel for all women on Kerala state transport buses, monthly assistance of ₹1,000 to college-going girl students and a hike in the welfare pensions to ₹3,000 per month."
+    },
+    {
+     "source": "Oommen Chandy",
+     "relation": "MEMBER_OF",
+     "target": "UDF",
+     "evidence": "health insurance scheme in the name of former chief minister Oommen Chandy"
+    },
+    {
+     "source": "Asaduddin Owaisi",
+     "relation": "MEMBER_OF",
+     "target": "AIMIM",
+     "evidence": "AIMIM chief Asaduddin Owaisi"
+    },
+    {
+     "source": "Humayun Kabir",
+     "relation": "MEMBER_OF",
+     "target": "Aam Janata Unnayan Party",
+     "evidence": "Aam Janata Unnayan Party chief Humayun Kabir."
+    },
+    {
+     "source": "A. Revanth Reddy",
+     "relation": "MEMBER_OF",
+     "target": "UDF",
+     "evidence": "Telangana Chief Minister A. Revanth Reddy with AICC general secretary in charge of Kerala, Deepa Dash Munshi and UDF Nemom candidate K.S. Sabarinathan in Thiruvananthapuram."
+    },
+    {
+     "source": "Deepa Dash Munshi",
+     "relation": "MEMBER_OF",
+     "target": "UDF",
+     "evidence": "Telangana Chief Minister A. Revanth Reddy with AICC general secretary in charge of Kerala, Deepa Dash Munshi and UDF Nemom candidate K.S. Sabarinathan in Thiruvananthapuram."
+    },
+    {
+     "source": "Hardeep Singh Puri",
+     "relation": "MEMBER_OF",
+     "target": "UDF",
+     "evidence": "Union minister Hardeep Singh Puri with senior Supreme Court advocate HS Phoolka at the party headquarters, in New Delhi."
+    },
+    {
+     "source": "HS Phoolka",
+     "relation": "MEMBER_OF",
+     "target": "UDF",
+     "evidence": "Union minister Hardeep Singh Puri with senior Supreme Court advocate HS Phoolka at the party headquarters, in New Delhi."
+    },
+    {
+     "source": "Rahul Gandhi",
+     "relation": "MEMBER_OF",
+     "target": "UDF",
+     "evidence": "Senior Congress leader Rahul Gandhi, sits in a bus in Kerala along with a man dressed as Yamaraj, the Hindu god of death."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "41d356e0787447d83208a4239a8a70bdbe69bd00": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d0c4519a65303d89fef6d792f22e75a70195c05f": {
+   "entities": [
+    {
+     "name": "Israel",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hezbollah",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Youssef Hashem",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Trump",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "United States",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Iran",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Nato",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Washington",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tel Aviv",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Cairo",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pakistan",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Strait of Hormuz",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Pakistan",
+     "relation": "LOCATED_IN",
+     "target": "Strait of Hormuz",
+     "evidence": "Two security sources from Pakistan, which is mediating in the conflict, earlier said Islamabad had proposed a temporary ceasefire to both sides but had not heard back from either."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d05ee7b0c1a086148b7ff77aca2d6a3ca995d54e": {
+   "entities": [
+    {
+     "name": "African governments",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Iran war",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "International Energy Agency",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Fatih Birol",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Strait of Hormuz",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Keir Starmer",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Britain",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "European Union",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Donald Trump",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Winston Churchill",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "British police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Jewish community ambulances",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "London",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "BSE mid-cap index",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BSE small-cap index",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FIIs",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Donald Trump",
+     "relation": "ACCUSES",
+     "target": "Keir Starmer",
+     "evidence": "Trump has repeatedly insulted Starmer, calling him cowardly because of his unwillingness to join the US war on Iran, saying he was “No Winston Churchill” and describing Britain’s aircraft carriers as “toys”."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "56256f0b5cd1d40cfd6c945383cf0562b546e9e2": {
+   "entities": [
+    {
+     "name": "Brent crude oil futures",
+     "type": "Organization",
+     "english_name": "Brent crude oil futures"
+    },
+    {
+     "name": "Bank stocks",
+     "type": "Organization",
+     "english_name": "Bank stocks"
+    },
+    {
+     "name": "PSU banks",
+     "type": "Organization",
+     "english_name": "PSU banks"
+    },
+    {
+     "name": "Indian equity markets",
+     "type": "Organization",
+     "english_name": "Indian equity markets"
+    },
+    {
+     "name": "PONMUDI R.",
+     "type": "Person",
+     "english_name": "Ponmudi R."
+    },
+    {
+     "name": "CEO",
+     "type": "Organization",
+     "english_name": "CEO"
+    },
+    {
+     "name": "Enrich Money",
+     "type": "Organization",
+     "english_name": "Enrich Money"
+    },
+    {
+     "name": "Sensex",
+     "type": "Organization",
+     "english_name": "Sensex"
+    },
+    {
+     "name": "Nifty 50",
+     "type": "Organization",
+     "english_name": "Nifty 50"
+    },
+    {
+     "name": "S&P 500",
+     "type": "Organization",
+     "english_name": "S&P 500"
+    },
+    {
+     "name": "Dollar (₹)",
+     "type": "Organization",
+     "english_name": "Dollar (₹)"
+    },
+    {
+     "name": "Pound Sterling (₹)",
+     "type": "Organization",
+     "english_name": "Pound Sterling (₹)"
+    },
+    {
+     "name": "Euro (₹)",
+     "type": "Organization",
+     "english_name": "Euro (₹)"
+    },
+    {
+     "name": "Gold (10gm)* (₹)",
+     "type": "Organization",
+     "english_name": "Gold (10gm)* (₹)"
+    },
+    {
+     "name": "Brent crude ($/bbl)*",
+     "type": "Organization",
+     "english_name": "Brent crude ($/bbl)*"
+    },
+    {
+     "name": "IN 10-Yr bond yield",
+     "type": "Organization",
+     "english_name": "IN 10-Yr bond yield"
+    },
+    {
+     "name": "US 10-Yr T-bill yield*",
+     "type": "Organization",
+     "english_name": "US 10-Yr T-bill yield*"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d1ffb7dbc6d021c0bbf494547f884804b79a04f9": {
+   "entities": [
+    {
+     "name": "Bankex",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SBI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Union Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IndusInd Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PNB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Canara Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Axis Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HDFC Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ponmudi R.",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Enrich Money",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "73f0043e740ddde71da8693ddff87e0c3eb50d84": {
+   "entities": [
+    {
+     "name": "Burra Vamsi Rama Mohan",
+     "type": "Person",
+     "english_name": "Burra Vamsi Rama Mohan"
+    },
+    {
+     "name": "Power Grid Corporation of India",
+     "type": "Organization",
+     "english_name": "Power Grid Corporation of India"
+    },
+    {
+     "name": "PGCIL",
+     "type": "Organization",
+     "english_name": "PGCIL"
+    },
+    {
+     "name": "Ministry of Power",
+     "type": "Organization",
+     "english_name": "Ministry of Power"
+    },
+    {
+     "name": "US President Trump",
+     "type": "Person",
+     "english_name": "US President Trump"
+    },
+    {
+     "name": "Sensex",
+     "type": "Organization",
+     "english_name": "Sensex"
+    },
+    {
+     "name": "Nifty-50",
+     "type": "Organization",
+     "english_name": "Nifty-50"
+    },
+    {
+     "name": "BSE",
+     "type": "Organization",
+     "english_name": "BSE"
+    },
+    {
+     "name": "Kospi",
+     "type": "Organization",
+     "english_name": "Kospi"
+    },
+    {
+     "name": "Taiex",
+     "type": "Organization",
+     "english_name": "Taiex"
+    },
+    {
+     "name": "Nikkei",
+     "type": "Organization",
+     "english_name": "Nikkei"
+    },
+    {
+     "name": "Brent crude oil futures",
+     "type": "Organization",
+     "english_name": "Brent crude oil futures"
+    },
+    {
+     "name": "BSE Mid-cap index",
+     "type": "Organization",
+     "english_name": "BSE Mid-cap index"
+    },
+    {
+     "name": "BSE Small-cap index",
+     "type": "Organization",
+     "english_name": "BSE Small-cap index"
+    },
+    {
+     "name": "Nifty Bank index",
+     "type": "Organization",
+     "english_name": "Nifty Bank index"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "27e090dea4afb349b365b697215950f0d2c1d0e3": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "898a31e3bc223f601a479bfa2ea219be7b215281": {
+   "entities": [
+    {
+     "name": "Asangba Chuba Ao",
+     "type": "Person",
+     "english_name": "Asangba Chuba Ao"
+    },
+    {
+     "name": "K. Rammohan Naidu",
+     "type": "Person",
+     "english_name": "K. Rammohan Naidu"
+    },
+    {
+     "name": "Ajay Singh",
+     "type": "Person",
+     "english_name": "Ajay Singh"
+    },
+    {
+     "name": "SpiceJet",
+     "type": "Organization",
+     "english_name": "SpiceJet"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Yamaraj",
+     "type": "Person",
+     "english_name": "Yamaraj"
+    },
+    {
+     "name": "UDF",
+     "type": "Party",
+     "english_name": "UDF"
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "Balussery",
+     "type": "Place",
+     "english_name": "Balussery"
+    },
+    {
+     "name": "Oommen Chandy Health Insurance Scheme",
+     "type": "Scheme",
+     "english_name": "Oommen Chandy Health Insurance Scheme"
+    },
+    {
+     "name": "Gandhi",
+     "type": "Person",
+     "english_name": "Gandhi"
+    },
+    {
+     "name": "Keralam",
+     "type": "Place",
+     "english_name": "Keralam"
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "₹25 lakh health coverage",
+     "type": "Claim",
+     "english_name": "₹25 lakh health coverage"
+    }
+   ],
+   "relations": [
+    {
+     "source": "UDF",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Oommen Chandy Health Insurance Scheme",
+     "evidence": "UDF's proposed health insurance Scheme under which the alliance has promised ₹25 lakh health coverage for every household in Kerala."
+    },
+    {
+     "source": "Gandhi",
+     "relation": "MAKES_CLAIM",
+     "target": "₹25 lakh health coverage",
+     "evidence": "With ₹25 lakh coverage, we're ensuring that illness never robs a family of its dignity, its savings or its future."
+    },
+    {
+     "source": "Gandhi",
+     "relation": "ACCUSES",
+     "target": "Yamaraj",
+     "evidence": "UDF's Oommen Chandy Health Insurance Scheme promises ₹25 lakh health coverage for every household — this is going to put Yamaraj out of work but we'll find him another job soon."
+    },
+    {
+     "source": "Gandhi",
+     "relation": "MEMBER_OF",
+     "target": "UDF",
+     "evidence": "the leader of opposition (LoP) in the Lok Sabha said on X."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f6169ae1942ac6482478aa0fec9354d04284e27f": {
+   "entities": [
+    {
+     "name": "Nifty Bank index",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BSE Bankex",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SBI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Union Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "IndusInd Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "PNB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Canara Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Axis Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "HDFC Bank",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Ponmudi R.",
+     "type": "Person",
+     "english_name": "Ponmudi R."
+    },
+    {
+     "name": "Enrich Money",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SANGEETH G.",
+     "type": "Person",
+     "english_name": "SANGEETH G."
+    },
+    {
+     "name": "Icra",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "India Ratings",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MADHUSUDAN SAHOO",
+     "type": "Person",
+     "english_name": "Madhusudan Sahoo"
+    },
+    {
+     "name": "GST",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fae045dcef57aff631afc164e747a8b74641201b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fa95c60efcb5bc22fff1f905c94c0fc5875d7103": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c0775be47b0793bbca63353748e9f9a8d86a8c33": {
+   "entities": [
+    {
+     "name": "Deepa Dash Munshi",
+     "type": "Person",
+     "english_name": "Deepa Dash Munshi"
+    },
+    {
+     "name": "Telangana Chief Minister",
+     "type": "Person",
+     "english_name": "Telangana Chief Minister"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "H.S. Phoolka",
+     "type": "Person",
+     "english_name": "H.S. Phoolka"
+    },
+    {
+     "name": "Aam Aadmi Party",
+     "type": "Party",
+     "english_name": "Aam Aadmi Party"
+    },
+    {
+     "name": "Punjab Assembly elections",
+     "type": "Issue",
+     "english_name": "Punjab Assembly elections"
+    },
+    {
+     "name": "1984 anti-Sikh violence",
+     "type": "Issue",
+     "english_name": "1984 anti-Sikh violence"
+    },
+    {
+     "name": "Narendra Modi",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "Rajnath",
+     "type": "Person",
+     "english_name": "Rajnath"
+    },
+    {
+     "name": "Singh",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "LDF",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Lord Ayyappa",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Judas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jesus Christ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "United Democratic Front",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "UDF",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Ranjith Balakrishnan",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Kochi police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "young actor",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Deepa Dash Munshi",
+     "relation": "MEMBER_OF",
+     "target": "BJP",
+     "evidence": "Deepa Dash Munshi joined the Telangana Chief Minister during the campaign."
+    },
+    {
+     "source": "H.S. Phoolka",
+     "relation": "MEMBER_OF",
+     "target": "BJP",
+     "evidence": "Senior advocate H.S. Phoolka joined the BJP on Wednesday ahead of the Punjab Assembly elections next year."
+    },
+    {
+     "source": "H.S. Phoolka",
+     "relation": "MEMBER_OF",
+     "target": "Aam Aadmi Party",
+     "evidence": "Phoolka, known for representing victims of the 1984 anti-Sikh violence, described his earlier association with the Aam Aadmi Party as a “mistake”."
+    },
+    {
+     "source": "Singh",
+     "relation": "ACCUSES",
+     "target": "LDF",
+     "evidence": "the LDF betrayed Lord Ayyappa for a few pieces of gold"
+    },
+    {
+     "source": "Singh",
+     "relation": "ACCUSES",
+     "target": "United Democratic Front",
+     "evidence": "accused the Left Democratic Front (LDF) and the United Democratic Front (UDF) of betraying the people of Kerala"
+    },
+    {
+     "source": "Ranjith Balakrishnan",
+     "relation": "ACCUSES",
+     "target": "Kochi police",
+     "evidence": "was arrested by Kochi police on charges of rape and sexual assault"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3f9ee33ab2a28ea6bb7dc53dea6aca40166310cb": {
+   "entities": [
+    {
+     "name": "Deloitte India partner M S Mani",
+     "type": "Person",
+     "english_name": "M S Mani"
+    },
+    {
+     "name": "GST collections",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Maharashtra",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "FY26",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Maruti Suzuki",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Mahindra & Mahindra",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Tata Motors Passenger Vehicles",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Toyota Kirloskar Motor",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Hyundai",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SUV segment",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Maruti Suzuki Dzire",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kani Qirzhala",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Erbil",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kurdistan region",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Kuwait",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ministry of Finance",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Kani Qirzhala",
+     "relation": "LOCATED_IN",
+     "target": "Erbil",
+     "evidence": ""
+    },
+    {
+     "source": "Erbil",
+     "relation": "LOCATED_IN",
+     "target": "Kurdistan region",
+     "evidence": ""
+    },
+    {
+     "source": "Kuwait",
+     "relation": "LOCATED_IN",
+     "target": "Kuwait",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9c0f616c0dacaafbe8b8bb9c4453d6da1b07fb76": {
+   "entities": [
+    {
+     "name": "Stadium wicket",
+     "type": "Place",
+     "english_name": "Stadium wicket"
+    },
+    {
+     "name": "LSG unit",
+     "type": "Organization",
+     "english_name": "LSG unit"
+    },
+    {
+     "name": "Connolly",
+     "type": "Person",
+     "english_name": "Connolly"
+    },
+    {
+     "name": "Ponting",
+     "type": "Person",
+     "english_name": "Ponting"
+    },
+    {
+     "name": "Shreyas Iyer",
+     "type": "Person",
+     "english_name": "Shreyas Iyer"
+    },
+    {
+     "name": "JioStar",
+     "type": "Organization",
+     "english_name": "JioStar"
+    },
+    {
+     "name": "Mullanpur",
+     "type": "Place",
+     "english_name": "Mullanpur"
+    },
+    {
+     "name": "Punjab Kings",
+     "type": "Organization",
+     "english_name": "Punjab Kings"
+    },
+    {
+     "name": "Gujarat Titans",
+     "type": "Organization",
+     "english_name": "Gujarat Titans"
+    },
+    {
+     "name": "IPL 2026",
+     "type": "Scheme",
+     "english_name": "IPL 2026"
+    },
+    {
+     "name": "Shaun Marsh",
+     "type": "Person",
+     "english_name": "Shaun Marsh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f1a5f113d4df19e7d5adb7e6d1985d8a2d052683": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "627c5b3b3910b5dc7ac082958fbc7ad5f2f4d302": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b271096ebcfa8b37535861d3f158f7a37cb66ccd": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "71b6459356c3b5956a191e4fcfddb2e0f79d6c67": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a5f19bfbb0fe25bc1f4ae7fa6cdb581c1f522dad": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "86546d3428d17f3610e331df5eefd528faa80aec": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3fb9c01bfcf3ea0d82e22120c17a8ae45840330f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "94b3ac3493561c2998e31c2ed1cfc7a3888f27a5": {
+   "entities": [
+    {
+     "name": "Connolly",
+     "type": "Person",
+     "english_name": "Cooper Connolly"
+    },
+    {
+     "name": "Punjab Kings",
+     "type": "Organization",
+     "english_name": "Punjab Kings"
+    },
+    {
+     "name": "Shaun Marsh",
+     "type": "Person",
+     "english_name": "Shaun Marsh"
+    },
+    {
+     "name": "Shreyas Iyer",
+     "type": "Person",
+     "english_name": "Shreyas Iyer"
+    },
+    {
+     "name": "Gujarat Titans",
+     "type": "Organization",
+     "english_name": "Gujarat Titans"
+    },
+    {
+     "name": "PBKS",
+     "type": "Organization",
+     "english_name": "Punjab Kings"
+    },
+    {
+     "name": "GT",
+     "type": "Organization",
+     "english_name": "Gujarat Titans"
+    },
+    {
+     "name": "IPL",
+     "type": "Organization",
+     "english_name": "Indian Premier League"
+    },
+    {
+     "name": "Article 2.22",
+     "type": "Claim",
+     "english_name": "Article 2.22"
+    },
+    {
+     "name": "slow-over rate",
+     "type": "Issue",
+     "english_name": "slow over-rate"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "74a6a9427acab7b3caa64b24a393cb7afc441896": {
+   "entities": [
+    {
+     "name": "Sameer Rizvi",
+     "type": "Person",
+     "english_name": "Sameer Rizvi"
+    },
+    {
+     "name": "Lucknow Super Giants",
+     "type": "Organization",
+     "english_name": "Lucknow Super Giants"
+    },
+    {
+     "name": "Delhi Capitals",
+     "type": "Organization",
+     "english_name": "Delhi Capitals"
+    },
+    {
+     "name": "Tristan Stubbs",
+     "type": "Person",
+     "english_name": "Tristan Stubbs"
+    },
+    {
+     "name": "Mohammed Shami",
+     "type": "Person",
+     "english_name": "Mohammed Shami"
+    },
+    {
+     "name": "Mohsin Khan",
+     "type": "Person",
+     "english_name": "Mohsin Khan"
+    },
+    {
+     "name": "Prince Yadav",
+     "type": "Person",
+     "english_name": "Prince Yadav"
+    },
+    {
+     "name": "Anrich Nortje",
+     "type": "Person",
+     "english_name": "Anrich Nortje"
+    },
+    {
+     "name": "Shahbaz Ahmed",
+     "type": "Person",
+     "english_name": "Shahbaz Ahmed"
+    },
+    {
+     "name": "Aiden Markram",
+     "type": "Person",
+     "english_name": "Aiden Markram"
+    },
+    {
+     "name": "K. L. Rahul",
+     "type": "Person",
+     "english_name": "K. L. Rahul"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,805 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a094ef8014a37f8af0eda64bbe62d25a18e6e36e": {
+   "entities": [
+    {
+     "name": "శ్రీ విశ్వనాథ కళాశాల ముద్ర",
+     "type": "Organization",
+     "english_name": "Sri Viswanatha College Seal"
+    },
+    {
+     "name": "NTVP",
+     "type": "Organization",
+     "english_name": "NTVP"
+    },
+    {
+     "name": "V6",
+     "type": "Organization",
+     "english_name": "V6"
+    },
+    {
+     "name": "A.P.B.M.",
+     "type": "Organization",
+     "english_name": "A.P.B.M."
+    },
+    {
+     "name": "Palnadu",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "Vinukonda",
+     "type": "Place",
+     "english_name": "Vinukonda"
+    },
+    {
+     "name": "Nissankara Srinivasarao",
+     "type": "Person",
+     "english_name": "Nissankara Srinivasarao"
+    },
+    {
+     "name": "Musalaiah",
+     "type": "Person",
+     "english_name": "Musalaiah"
+    },
+    {
+     "name": "Sannapaneni Venkata Rao Chowdary",
+     "type": "Person",
+     "english_name": "Sannapaneni Venkata Rao Chowdary"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "14fa8970afd4f4f422976662e8ce5e3b3e7c19ca": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4f5c8acca1491a3545df51ec4be5c034cd23133d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b100c045f2c78a6edd3a28b4aca34a487948acdc": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "529b7d0a2f287b5c0725a51b7f692783c87977d4": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "da6b6dc9e6782aa5197a46fdb1a072f98a111941": {
+   "entities": [
+    {
+     "name": "Nissankara Srinivasarao S/o Musalaiah",
+     "type": "Person",
+     "english_name": "Nissankara Srinivasarao S/o Musalaiah"
+    },
+    {
+     "name": "Janasena Party",
+     "type": "Party",
+     "english_name": "Janasena Party"
+    },
+    {
+     "name": "Sannapaneni Venkata Rao Chowdary",
+     "type": "Person",
+     "english_name": "Sannapaneni Venkata Rao Chowdary"
+    },
+    {
+     "name": "YVP Social Media Convener",
+     "type": "Organization",
+     "english_name": "YVP Social Media Convener"
+    },
+    {
+     "name": "Honble Dy.CM of AP Sri. Konidala Pavan Kalyan",
+     "type": "Person",
+     "english_name": "Konidala Pavan Kalyan"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "NTV news channel",
+     "type": "Organization",
+     "english_name": "NTV news channel"
+    },
+    {
+     "name": "V6 news channel",
+     "type": "Organization",
+     "english_name": "V6 news channel"
+    },
+    {
+     "name": "Vinukonda Mandal",
+     "type": "Place",
+     "english_name": "Vinukonda Mandal"
+    },
+    {
+     "name": "Karampudi Road, Vinukonda town",
+     "type": "Place",
+     "english_name": "Karampudi Road, Vinukonda town"
+    },
+    {
+     "name": "Guntur District",
+     "type": "Place",
+     "english_name": "Guntur District"
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sannapaneni Venkata Rao Chowdary",
+     "relation": "ACCUSES",
+     "target": "Honble Dy.CM of AP Sri. Konidala Pavan Kalyan",
+     "evidence": "abusing the Honble Dy.CM of AP Sri. Konidala Pavan Kalyan"
+    },
+    {
+     "source": "Sannapaneni Venkata Rao Chowdary",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "\"జనసేన సతలతో బలవంతంగా కాళ్ళు పట్టించుకున్న నేతలు TDP\""
+    },
+    {
+     "source": "Nissankara Srinivasarao S/o Musalaiah",
+     "relation": "MEMBER_OF",
+     "target": "Janasena Party",
+     "evidence": "complainant is combined Guntur District Secretary of Janasena Party"
+    },
+    {
+     "source": "NTV news channel",
+     "relation": "LOCATED_IN",
+     "target": "AP",
+     "evidence": "streamed in NTV news channel"
+    },
+    {
+     "source": "V6 news channel",
+     "relation": "LOCATED_IN",
+     "target": "AP",
+     "evidence": "streamed in V6 news channel"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9d125b1d23f3ce1bbe2177bc57bf0a3b3084c910": {
+   "entities": [
+    {
+     "name": "B.Mohan",
+     "type": "Person",
+     "english_name": "B. Mohan"
+    },
+    {
+     "name": "Kadiri Rural (U/G) PS",
+     "type": "Organization",
+     "english_name": "Kadiri Rural (U/G) Police Station"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "03b99a93ef3903a2e53fc8dc4cda6db81290d688": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "080a0c03fb72befbb3d8f5bd85d9630ab4fcbd1b": {
+   "entities": [
+    {
+     "name": "Malaka Amarnath Reddy",
+     "type": "Person",
+     "english_name": "Malaka Amarnath Reddy"
+    },
+    {
+     "name": "YSRCP Candidate",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TDP party",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Hon'ble AP CM",
+     "type": "Person",
+     "english_name": "AP CM"
+    },
+    {
+     "name": "Shaik Mahammad Juned",
+     "type": "Person",
+     "english_name": "Shaik Mahammad Juned"
+    },
+    {
+     "name": "Bramhanapalli Village",
+     "type": "Place",
+     "english_name": "Bramhanapalli Village"
+    },
+    {
+     "name": "Kadiri Mandal",
+     "type": "Place",
+     "english_name": "Kadiri Mandal"
+    },
+    {
+     "name": "Facebook Social media platform",
+     "type": "Organization",
+     "english_name": "Facebook"
+    },
+    {
+     "name": "Rajendra Prasad Street",
+     "type": "Place",
+     "english_name": "Rajendra Prasad Street"
+    },
+    {
+     "name": "Kadiri Town",
+     "type": "Place",
+     "english_name": "Kadiri Town"
+    },
+    {
+     "name": "social media arrests",
+     "type": "Issue",
+     "english_name": "Social Media Arrests"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Malaka Amarnath Reddy",
+     "relation": "ACCUSES",
+     "target": "TDP party",
+     "evidence": "posted absences photos and comments in his face book account ... against TDP party and the Hon'ble AP CM"
+    },
+    {
+     "source": "Malaka Amarnath Reddy",
+     "relation": "ACCUSES",
+     "target": "Hon'ble AP CM",
+     "evidence": "posted absences photos and comments in his face book account ... against TDP party and the Hon'ble AP CM"
+    },
+    {
+     "source": "Shaik Mahammad Juned",
+     "relation": "ACCUSES",
+     "target": "Malaka Amarnath Reddy",
+     "evidence": "requested to take necessary actions against him"
+    },
+    {
+     "source": "Malaka Amarnath Reddy",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP Candidate",
+     "evidence": "who is the YSRCP Candidate"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6c58e87a2ae7fb13aaa381127d223114662187c2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "353b921989366e440f500a618ac8d37f84082772": {
+   "entities": [
+    {
+     "name": "Vijayawada Floods",
+     "type": "Issue",
+     "english_name": "Vijayawada Floods"
+    },
+    {
+     "name": "FIRST INFORMATION REPORT",
+     "type": "Claim",
+     "english_name": "FIRST INFORMATION REPORT"
+    },
+    {
+     "name": "A.P.P.M. Orders 470,500",
+     "type": "Claim",
+     "english_name": "A.P.P.M. Orders 470,500"
+    },
+    {
+     "name": "Prakasam P.S. : Markapur Town",
+     "type": "Place",
+     "english_name": "Prakasam Police Station, Markapur Town"
+    },
+    {
+     "name": "2024",
+     "type": "Issue",
+     "english_name": "2024"
+    },
+    {
+     "name": "FIR No. 277/2024",
+     "type": "Claim",
+     "english_name": "FIR No. 277/2024"
+    },
+    {
+     "name": "21/10/2024",
+     "type": "Issue",
+     "english_name": "21/10/2024"
+    },
+    {
+     "name": "196(1),353(2) BNS",
+     "type": "Claim",
+     "english_name": "196(1),353(2) BNS"
+    },
+    {
+     "name": "Kunchala Yaswanth",
+     "type": "Person",
+     "english_name": "Kunchala Yaswanth"
+    },
+    {
+     "name": "Lakshmanudu",
+     "type": "Person",
+     "english_name": "Lakshmanudu"
+    },
+    {
+     "name": "Vaddars/Kallu/Mannu",
+     "type": "Claim",
+     "english_name": "Vaddars/Kallu/Mannu"
+    },
+    {
+     "name": "X social media platform by the user of Nani Connects",
+     "type": "Organization",
+     "english_name": "X social media platform by the user of Nani Connects"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "07303549ca2a8ba63fb34ff2461011a2ca00ebbb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3955311615a19692bc51961431d869f7c3cbed58": {
+   "entities": [
+    {
+     "name": "Markapur Town PS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Kunchala Yaswanth s/o Lakshmanudu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "YNani Connectz",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CM CHANDRA BABU",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "DCM PAWAN KALYAN",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "VijayaWada Floods",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Saidu Babu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sub-Inspector",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c7251c52aa927c76f66ba64b9d9ada9a27a9e662": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4c921c840b049b2b74e9878b1d8ea45e959ed4a3": {
+   "entities": [
+    {
+     "name": "గౌరవనీయులైన గారు",
+     "type": "Person",
+     "english_name": "Respected Sir"
+    },
+    {
+     "name": "మంత్రి శ్రీమతి సీతారామరాజు",
+     "type": "Person",
+     "english_name": "Minister Smt. Seetharama Raju"
+    },
+    {
+     "name": "అధ్యక్షులు శ్రీమతి రాధాకృష్ణమూర్తి",
+     "type": "Person",
+     "english_name": "President Smt. Radhakrishnamurthy"
+    },
+    {
+     "name": "అయ్యప్ప",
+     "type": "Person",
+     "english_name": "Ayyappa"
+    },
+    {
+     "name": "వసుంధరా",
+     "type": "Person",
+     "english_name": "Vasundhara"
+    },
+    {
+     "name": "@NanlConnects",
+     "type": "Organization",
+     "english_name": "NanlConnects"
+    }
+   ],
+   "relations": [
+    {
+     "source": "గౌరవనీయులైన గారు",
+     "relation": "ACCUSES",
+     "target": "@NanlConnects",
+     "evidence": "అక్కను పక్కలేక, తప్పుడు వాదనలతో దుష్ప్రచారం చేస్తూ, ప్రభుత్వాన్ని అప్రతిహతమైన పన్నుతున్న @NanlConnects పై తక్షణమే కేసులు నమోదు చేయాలి."
+    },
+    {
+     "source": "గౌరవనీయులైన గారు",
+     "relation": "ACCUSES",
+     "target": "@NanlConnects",
+     "evidence": "ఎక్స్ వేదికగా సోషల్ మీడియాను దుర్వినియోగం చేస్తూ, ప్రజల్లో అపోహలు రేకెత్తించి సమాజంలో అశాంతి సృష్టించే కుట్రలకు పాల్పడుతున్నా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "92c3984ea0ada18dd7de183fc940bd250541a57c": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7c8643491a463e9d5e5b35b8f7ebf08688cdddbc": {
+   "entities": [
+    {
+     "name": "Emaru Timupat",
+     "type": "Person",
+     "english_name": "Emaru Timupat"
+    },
+    {
+     "name": "A.P.P.M.",
+     "type": "Organization",
+     "english_name": "A.P.P.M."
+    },
+    {
+     "name": "District Tirupathi P.S. Tirumala I Town",
+     "type": "Organization",
+     "english_name": "District Tirupathi Police Station Tirumala I Town"
+    },
+    {
+     "name": "FIR No.75/2024",
+     "type": "Organization",
+     "english_name": "FIR No.75/2024"
+    },
+    {
+     "name": "Acts & Section(s) : 196,298,299,353(2) r/w 49 BNS",
+     "type": "Organization",
+     "english_name": "Acts & Section(s) : 196,298,299,353(2) r/w 49 BNS"
+    },
+    {
+     "name": "S Padmanabhan",
+     "type": "Person",
+     "english_name": "S Padmanabhan"
+    },
+    {
+     "name": "Sundaresha Pillai",
+     "type": "Person",
+     "english_name": "Sundaresha Pillai"
+    },
+    {
+     "name": "Indian",
+     "type": "Organization",
+     "english_name": "Indian"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ea340708e876bdbe23b84e3ff8b8351b0783420c": {
+   "entities": [
+    {
+     "name": "రామశ్రీ గౌరవినియు",
+     "type": "Person",
+     "english_name": "Ramashri Gauraviniyu"
+    },
+    {
+     "name": "కదిరి టౌన్",
+     "type": "Place",
+     "english_name": "Kadiripalli"
+    },
+    {
+     "name": "రాజేంద్ర ప్రసాద్",
+     "type": "Person",
+     "english_name": "Rajendra Prasad"
+    },
+    {
+     "name": "జెట్ లో",
+     "type": "Place",
+     "english_name": "Jet Lo"
+    },
+    {
+     "name": "షేక్ మహమ్మడ్ జునేద్",
+     "type": "Person",
+     "english_name": "Shiek Mohammed Juned"
+    },
+    {
+     "name": "Age-24 సం,లు s/o S. మాహి",
+     "type": "Person",
+     "english_name": "Age-24 son of S. Mahi"
+    },
+    {
+     "name": "TDP పార్టీ",
+     "type": "Party",
+     "english_name": "TDP Party"
+    },
+    {
+     "name": "iTDP Social Media & General",
+     "type": "Organization",
+     "english_name": "iTDP Social Media & General"
+    },
+    {
+     "name": "కాంగ్రెసు",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "I.TP",
+     "type": "Organization",
+     "english_name": "I.TP"
+    },
+    {
+     "name": "నియోజక అధ్యక్షుడు J.S. మన్సుర్",
+     "type": "Person",
+     "english_name": "J.S. Mansur"
+    },
+    {
+     "name": "Facebook",
+     "type": "Organization",
+     "english_name": "Facebook"
+    },
+    {
+     "name": "Malaka Ammaiah Ready",
+     "type": "Organization",
+     "english_name": "Malaka Ammaiah Ready"
+    },
+    {
+     "name": "విద్యవద్ద మధ్యం యుద్ధ",
+     "type": "Claim",
+     "english_name": "Education war"
+    },
+    {
+     "name": "నాన్నకు పుళ్లు అమ్ముకునిల్లు",
+     "type": "Claim",
+     "english_name": "Sell grass to father"
+    },
+    {
+     "name": "రాజధానిగా అమరావతి పనిరాదు",
+     "type": "Claim",
+     "english_name": "Amaravati should not be capital"
+    },
+    {
+     "name": "నిర్మాణాలు చేపట్టవద్దు",
+     "type": "Claim",
+     "english_name": "Do not start constructions"
+    },
+    {
+     "name": "ప్రపంచ జ్యోంకు ప్రస్తుతం A.P. CM చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "A.P. CM Chandrababu Naidu"
+    },
+    {
+     "name": "డ్రగ్స్‌తో బయటపడిన జాంగలత",
+     "type": "Claim",
+     "english_name": "Exposed with drugs"
+    },
+    {
+     "name": "అడ్డంగా దొరికిన TDP నేటి",
+     "type": "Claim",
+     "english_name": "Caught TDP today"
+    },
+    {
+     "name": "TDP నాయకులు దామచర్ల సత్య",
+     "type": "Person",
+     "english_name": "Damacharla Satya"
+    },
+    {
+     "name": "లావు కృష్ణదేవరాయలు",
+     "type": "Person",
+     "english_name": "Lavu Krishnadevarayalu"
+    },
+    {
+     "name": "రాయపాటి జీవనాలతో",
+     "type": "Person",
+     "english_name": "Rayapati Jeevan"
+    },
+    {
+     "name": "నిందతుడు కోటయ్య చౌదరికి",
+     "type": "Person",
+     "english_name": "Kotayya Choudary"
+    },
+    {
+     "name": "రోకేష్",
+     "type": "Person",
+     "english_name": "Rokesh"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "TDP వాట్సీది చేడు అభిప్రాయంతో",
+     "type": "Claim",
+     "english_name": "TDP with bad opinion"
+    },
+    {
+     "name": "మలక-రిమర్ నాధీరెడ్డి",
+     "type": "Person",
+     "english_name": "Malaka-Rimer Nadiredi"
+    },
+    {
+     "name": "Face book",
+     "type": "Organization",
+     "english_name": "Facebook"
+    },
+    {
+     "name": "TDP పార్టీ నాయకులు",
+     "type": "Party",
+     "english_name": "TDP Party leaders"
+    },
+    {
+     "name": "శ్రీ C.M. చంద్రబాబునాయుడే",
+     "type": "Person",
+     "english_name": "Sri C.M. Chandrababu Naidu"
+    },
+    {
+     "name": "రెండు రాజకీయ పార్టీల మధ్య",
+     "type": "Issue",
+     "english_name": "Two political parties"
+    },
+    {
+     "name": "కడిరి శారదల్ U/G PS",
+     "type": "Organization",
+     "english_name": "Kadiri Saradal U/G PS"
+    },
+    {
+     "name": "బ్రహ్మణపల్లి గ్రామ",
+     "type": "Place",
+     "english_name": "Brahmanapalli village"
+    },
+    {
+     "name": "మలక-అమీర్ నాడీ రెడ్డి",
+     "type": "Person",
+     "english_name": "Malaka-Ameer Nadiredi"
+    },
+    {
+     "name": "YCP",
+     "type": "Party",
+     "english_name": "YCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రామశ్రీ గౌరవినియు",
+     "relation": "MAKES_CLAIM",
+     "target": "విద్యవద్ద మధ్యం యుద్ధ",
+     "evidence": "విద్యవద్ద మధ్యం యుద్ధ"
+    },
+    {
+     "source": "రామశ్రీ గౌరవినియు",
+     "relation": "MAKES_CLAIM",
+     "target": "నాన్నకు పుళ్లు అమ్ముకునిల్లు",
+     "evidence": "నాన్నకు పుళ్లు అమ్ముకునిల్లు"
+    },
+    {
+     "source": "రామశ్రీ గౌరవినియు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాజధానిగా అమరావతి పనిరాదు",
+     "evidence": "రాజధానిగా అమరావతి పనిరాదు"
+    },
+    {
+     "source": "రామశ్రీ గౌరవినియు",
+     "relation": "MAKES_CLAIM",
+     "target": "నిర్మాణాలు చేపట్టవద్దు",
+     "evidence": "నిర్మాణాలు చేపట్టవద్దు"
+    },
+    {
+     "source": "రామశ్రీ గౌరవినియు",
+     "relation": "MAKES_CLAIM",
+     "target": "డ్రగ్స్‌తో బయటపడిన జాంగలత",
+     "evidence": "డ్రగ్స్‌తో బయటపడిన జాంగలత"
+    },
+    {
+     "source": "రామశ్రీ గౌరవినియు",
+     "relation": "MAKES_CLAIM",
+     "target": "అడ్డంగా దొరికిన TDP నేటి",
+     "evidence": "అడ్డంగా దొరికిన TDP నేటి"
+    },
+    {
+     "source": "రామశ్రీ గౌరవినియు",
+     "relation": "MAKES_CLAIM",
+     "target": "TDP వాట్సీది చేడు అభిప్రాయంతో",
+     "evidence": "TDP వాట్సీది చేడు అభిప్రాయంతో"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "84a76c9f4d2d4c6dc74d04a7f23c95ba8a4bee25": {
+   "entities": [
+    {
+     "name": "S.Padmanabhan",
+     "type": "Person",
+     "english_name": "S. Padmanabhan"
+    },
+    {
+     "name": "Chaitanya",
+     "type": "Person",
+     "english_name": "Chaitanya"
+    },
+    {
+     "name": "Sri Nara Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Lavanya Apartments",
+     "type": "Place",
+     "english_name": "Lavanya Apartments"
+    },
+    {
+     "name": "R.C.Road",
+     "type": "Place",
+     "english_name": "R.C. Road"
+    },
+    {
+     "name": "P ramalakshmi reddy",
+     "type": "Person",
+     "english_name": "P. Ramalakshmi Reddy"
+    },
+    {
+     "name": "Sub-Inspector",
+     "type": "Person",
+     "english_name": "Sub-Inspector"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chaitanya",
+     "relation": "ACCUSES",
+     "target": "Sri Nara Chandrababu Naidu",
+     "evidence": "posted a false post / short video of Sri Nara Chandrababu Naidu, Honble Chief Minister of A.P. having Pattu Vasthram on the head in view of honouring Pattu Vasthram to the Lord Sri Venkateswara Swamy at Tirumala captioning It is clear that god doesnt like it, and again telling there is life danger with the symbols of emoji laughing, in his account https://x.com/Blind_Mannn/status/18422402712178118"
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala",
+     "evidence": "Occ: AV & SO, Vigilance Wing, TTD, Tirumala"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

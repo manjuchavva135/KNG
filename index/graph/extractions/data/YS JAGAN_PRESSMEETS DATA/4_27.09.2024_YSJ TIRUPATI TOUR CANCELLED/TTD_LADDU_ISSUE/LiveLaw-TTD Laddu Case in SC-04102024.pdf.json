@@ -1,0 +1,112 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c61603f55445760b4da09f3a1e6f3867ba1f3e24": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "Tirupati Temple Laddu issue",
+     "type": "Issue",
+     "english_name": "Tirupati Temple Laddu issue"
+    },
+    {
+     "name": "Justices BR Gavai and KV Viswanathan",
+     "type": "Person",
+     "english_name": "Justices BR Gavai and KV Viswanathan"
+    },
+    {
+     "name": "Solicitor General",
+     "type": "Person",
+     "english_name": "Solicitor General"
+    },
+    {
+     "name": "Mukul Rohatgi",
+     "type": "Person",
+     "english_name": "Mukul Rohatgi"
+    },
+    {
+     "name": "Siddharth Luthra",
+     "type": "Person",
+     "english_name": "Siddharth Luthra"
+    },
+    {
+     "name": "SG Tushar Mehta",
+     "type": "Person",
+     "english_name": "SG Tushar Mehta"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "CM",
+     "type": "Person",
+     "english_name": "CM"
+    },
+    {
+     "name": "Kapil Sibal",
+     "type": "Person",
+     "english_name": "Kapil Sibal"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "NDTV",
+     "type": "Organization",
+     "english_name": "NDTV"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Chairman",
+     "type": "Person",
+     "english_name": "Chairman"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e8a0b68b79f1c47b18d9944963268e0c566e74ba": {
+   "entities": [
+    {
+     "name": "J Gavai",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CBI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP state police",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

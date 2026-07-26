@@ -1,0 +1,71 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bbcf6c9f8388882413c8272469733efbd07b77fb": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "473c831b2c05f1b3d6ef3e75ce51a3c8347682a5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3d9c0575d36a4f202402bf4be251d9d2a8d11793": {
+   "entities": [
+    {
+     "name": "HT No.: MDSC0196512",
+     "type": "Person",
+     "english_name": "HT No.: MDSC0196512"
+    },
+    {
+     "name": "BADE ADILAKSHMI",
+     "type": "Person",
+     "english_name": "Bade Adilakshmi"
+    },
+    {
+     "name": "PURNA HINDI VIDYALAYAM",
+     "type": "Organization",
+     "english_name": "Purna Hindi Vidyalayam"
+    },
+    {
+     "name": "AVANIGADDA",
+     "type": "Place",
+     "english_name": "Avanigadda"
+    },
+    {
+     "name": "Krishna-521121",
+     "type": "Place",
+     "english_name": "Krishna-521121"
+    },
+    {
+     "name": "krish_committee_24",
+     "type": "Organization",
+     "english_name": "krish_committee_24"
+    },
+    {
+     "name": "Noble College",
+     "type": "Organization",
+     "english_name": "Noble College"
+    },
+    {
+     "name": "Machilipatnam",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "Krishna District",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "apdsc.apcfss.in",
+     "type": "Organization",
+     "english_name": "apdsc.apcfss.in"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

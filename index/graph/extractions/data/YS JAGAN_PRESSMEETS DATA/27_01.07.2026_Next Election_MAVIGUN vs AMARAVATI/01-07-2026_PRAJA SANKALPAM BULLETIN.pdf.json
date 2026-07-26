@@ -1,0 +1,2675 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "12d509ba1d15e16dcaaba4146045dd6888151514": {
+   "entities": [
+    {
+     "name": "టీడీపీ గూండాలు దాడిచేసిన దృశ్యాలను చూపుతున్న వైయస్ జగన్",
+     "type": "Claim",
+     "english_name": "Scenes of YSRCP goons attacking TDP"
+    },
+    {
+     "name": "రాళ్లు విసురుతున్న టీడీపీ గూండా రాయపూడి కిరణ్",
+     "type": "Claim",
+     "english_name": "TDP goon Rayapudi Kiran throwing stones"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "661e730e308aeb18712d4f84633e5f9b23cc4648": {
+   "entities": [
+    {
+     "name": "MAVIGUN",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Redbook constitution",
+     "type": "Issue",
+     "english_name": "Redbook constitution"
+    },
+    {
+     "name": "custodial deaths",
+     "type": "Issue",
+     "english_name": "custodial deaths"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c56fed962f995ecb058f7e087d3469d46d39cc7b": {
+   "entities": [
+    {
+     "name": "PRAJA SANKALPAM",
+     "type": "Scheme",
+     "english_name": "Praja Sankalpam"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Rayapudi Kiran",
+     "type": "Person",
+     "english_name": "Rayapudi Kiran"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Kranthi Kumar",
+     "type": "Person",
+     "english_name": "Kranthi Kumar"
+    },
+    {
+     "name": "Ganga",
+     "type": "Person",
+     "english_name": "Ganga"
+    },
+    {
+     "name": "Tenali",
+     "type": "Place",
+     "english_name": "Tenali"
+    },
+    {
+     "name": "Srikakulam",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "Sankavita",
+     "type": "Place",
+     "english_name": "Sankavita"
+    },
+    {
+     "name": "Kala Vathi",
+     "type": "Person",
+     "english_name": "Kala Vathi"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "అమరావతిలో వైయస్సార్సీపీ నేతలపై జరిగిన దాడులు అధికార పార్టీ ప్రణాళిక ప్రకారం జరిగినట్టు జగన్ మండిపడ్డారు."
+    },
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "అరాచక రెడ్బుక్ రాజ్యాంగాన్ని ప్రతిపక్ష పార్టీపైన, సోషల్మీడియా యాక్టవిస్టులపైనా, జర్నలిస్టులపైనా అందరిపైనా ప్రయోగించాడు."
+    },
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "చంద్రబాబు నడుపుతున్న జంగిల్‌రాజ్కు ఇవన్నీకూడా అద్దంపడతాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "86c4edb61b236e0702452a9cf58afd6239ec415f": {
+   "entities": [
+    {
+     "name": "ప్రజాసంకల్పం",
+     "type": "Scheme",
+     "english_name": "Praja Sankalpam"
+    },
+    {
+     "name": "మావిగన్",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వైయస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "టీవీ9 నెట్‌వర్క్",
+     "type": "Organization",
+     "english_name": "TV9 Network"
+    },
+    {
+     "name": "99టీవీ",
+     "type": "Organization",
+     "english_name": "99TV"
+    },
+    {
+     "name": "కృష్ణలంక పోలీస్ స్టేషన్",
+     "type": "Place",
+     "english_name": "Krishnalanka Police Station"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "పంట బీమా",
+     "type": "Scheme",
+     "english_name": "Crop Insurance"
+    },
+    {
+     "name": "ఇన్‌పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input Subsidy"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilization Fund"
+    },
+    {
+     "name": "ఇసుక మాఫియా",
+     "type": "Organization",
+     "english_name": "Sand Mafia"
+    },
+    {
+     "name": "మట్టి మాఫియా",
+     "type": "Organization",
+     "english_name": "Clay Mafia"
+    },
+    {
+     "name": "మైనింగ్ మాఫియా",
+     "type": "Organization",
+     "english_name": "Mining Mafia"
+    },
+    {
+     "name": "రేషన్ బియ్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Ration Rice Mafia"
+    },
+    {
+     "name": "లిక్కర్ మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "కులాలు, మతాల విద్వేషాలు",
+     "type": "Issue",
+     "english_name": "Caste and Religious Tensions"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మావిగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రజాసంకల్పం",
+     "evidence": "వచ్చే ఎన్నికల్లో అమరావతి వర్సెస్ మావిగన్ పైనే వెళ్తామని ఉద్ఘాటన"
+    },
+    {
+     "source": "వైయస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "మావిగన్",
+     "evidence": "రాష్ట్రంలో ప్రజాస్వామ్యం, మానవ హక్కులకు తీవ్ర విఘాతం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "77c1133bd17956c6efbf550f70acbc10d44d11af": {
+   "entities": [
+    {
+     "name": "మేరుగ నాగురావు",
+     "type": "Person",
+     "english_name": "Dr. Merugu Nagaraju"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "మావిగన్",
+     "type": "Place",
+     "english_name": "Mavigun"
+    },
+    {
+     "name": "కృష్ణలంక పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Krishnankota Police Station"
+    },
+    {
+     "name": "పోలీస్ కమిషనర్",
+     "type": "Organization",
+     "english_name": "Police Commissioner"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Organization",
+     "english_name": "DGP"
+    },
+    {
+     "name": "సాయికృష్ణ",
+     "type": "Person",
+     "english_name": "Sai Krishna"
+    },
+    {
+     "name": "క్రాంతికుమార్",
+     "type": "Person",
+     "english_name": "Krantikumar"
+    },
+    {
+     "name": "గంగమ్మ",
+     "type": "Person",
+     "english_name": "Gangamma"
+    },
+    {
+     "name": "తిరుపతమ్మ",
+     "type": "Person",
+     "english_name": "Tirupatamma"
+    },
+    {
+     "name": "కళావతి",
+     "type": "Person",
+     "english_name": "Kalavathi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మేరుగ నాగురావు",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్సీపీ",
+     "evidence": "డా.మేరుగ నాగురావు (DR.MERUGU Dr.NAGARJUNA)(MINISTER FOR SOCIAL WELFARE)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f32aa0d15f6d694fbc6e50ffc7bb67c7b21dc48c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "మాజీ మంత్రులు",
+     "type": "Person",
+     "english_name": "former ministers"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు",
+     "type": "Person",
+     "english_name": "MLCs"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "farmers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ వాళ్లు దాడులు చేస్తున్న వీడియోలు, ఫొటోలు ఉన్నా, వారిని ఎందుకు వెంటనే అరెస్ట్ చేయలేదు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మాజీ మంత్రులు",
+     "evidence": "దాడులకు గురైన మా మాజీ మంత్రులను, ఎమ్మెల్సీలు, మా పార్టీ నాయకులను రౌడీ షీటర్లు అని అంటున్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎమ్మెల్సీలు",
+     "evidence": "దాడులకు గురైన మా మాజీ మంత్రులను, ఎమ్మెల్సీలు, మా పార్టీ నాయకులను రౌడీ షీటర్లు అని అంటున్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రైతులు",
+     "evidence": "అమరావతి పేరుతో ఇప్పటికే వేలాది ఎకరాలు తీసుకున్నారు.., ఇంకా భూములు ఎందుకు కావాలి? ఎవరి కోసం కావాలి? అని రైతులు అడుగుతున్నారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5a7614077f13209acda36b744d883065e18f8e01": {
+   "entities": [
+    {
+     "name": "PRAJA SANKALPAM",
+     "type": "Organization",
+     "english_name": "Praja Sankalpam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సాయికృష్ణ",
+     "type": "Person",
+     "english_name": "Sai Krishna"
+    },
+    {
+     "name": "మార్కాపురం",
+     "type": "Place",
+     "english_name": "Markapuram"
+    },
+    {
+     "name": "కృష్ణలంక పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Krishna Lanka Police Station"
+    },
+    {
+     "name": "టాస్క్ఫోర్స్ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Taskforce Police"
+    },
+    {
+     "name": "విజయవాడ CP",
+     "type": "Organization",
+     "english_name": "Vijayawada CP"
+    },
+    {
+     "name": "DGP",
+     "type": "Organization",
+     "english_name": "DGP"
+    },
+    {
+     "name": "క్రాంతికుమార్",
+     "type": "Person",
+     "english_name": "Krantikumar"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "MAVIGUN",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "చంద్రబాబు చేస్తున్న దారుణాలకు బలైపోతున్న రైతులకు తోడుగా నిలవడం తప్పు అవుతుందా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "MAVIGUN",
+     "evidence": "చంద్రబాబు చేస్తున్న దారుణాలకు బలైపోతున్న రైతులకు తోడుగా నిలవడం తప్పు అవుతుందా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సాయికృష్ణ",
+     "evidence": "సాయికృష్ణ కేసు రిమాండ్ రిపోర్టు చూసినా, వీళ్లు చేస్తున్న దర్యాప్తు తీరును చూసినా, కేసును వీక్చేసి ఎలా నడుపుతున్నారో, పైవాళ్లను ఎలా కాపాడుతున్నారో చాలా స్పష్టంగా బయటపడుతోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "క్రాంతికుమార్",
+     "evidence": "క్రాంతికుమార్ మరణ వాంగ్మూలానికి విలువ లేదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "విజయవాడ CP",
+     "evidence": "తన కొడుకును పోలీసులు తీసుకొచ్చారని, ఇప్పటివరకూ ఏ కోర్టులోనూ ప్రవేశపెట్టలేదని, లాకప్డెత్ చేశారన్న అనుమానాలు ఉన్నాయని, అత్యవసరంగా ఈ కేసులో జోక్యంచేసుకోమని అడిగితే, మరి CP ఎందుకు పట్టించుకోలేదు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "DGP",
+     "evidence": "తర్వాత సాయికృష్ణ బంధువులు DGP చెప్పినా ఎందుకు ఆయన ఎందుకు పట్టించుకోలేదు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టాస్క్ఫోర్స్ పోలీసులు",
+     "evidence": "సాయికృష్ణని మార్కాపురం నుంచి తీసుకు వచ్చింది టాస్క్ఫోర్స్ పోలీసులు అని రిమాండ్ రిపోర్టులో చెప్పారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కృష్ణలంక పోలీస్ స్టేషన్",
+     "evidence": "వాళ్లు కృష్ణలంక పోలీస్ స్టేషన్కు అప్పగించిన తర్వాత అకనాలెడ్జ్మెంట్ కూడా తీసుకున్నారని చెప్పారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c17233a4af01bca22b963a0a3c5b596a18a3449f": {
+   "entities": [
+    {
+     "name": "Rule of law",
+     "type": "Claim",
+     "english_name": "Rule of law"
+    },
+    {
+     "name": "Rule of Fear",
+     "type": "Claim",
+     "english_name": "Rule of Fear"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైయస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "రైతన్న",
+     "type": "Issue",
+     "english_name": "Farmers' crisis"
+    },
+    {
+     "name": "పొగాకు",
+     "type": "Issue",
+     "english_name": "Tobacco"
+    },
+    {
+     "name": "రొయ్యలు",
+     "type": "Issue",
+     "english_name": "Shrimp"
+    },
+    {
+     "name": "మామిడి",
+     "type": "Issue",
+     "english_name": "Mango"
+    },
+    {
+     "name": "యూరియా",
+     "type": "Issue",
+     "english_name": "Urea"
+    },
+    {
+     "name": "సబ్సిడీ విత్తనాలు",
+     "type": "Issue",
+     "english_name": "Subsidized seeds"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "ఉచిత పంట బీమా",
+     "type": "Scheme",
+     "english_name": "Free crop insurance"
+    },
+    {
+     "name": "ఇన్పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input subsidy"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price stabilization fund"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Issue",
+     "english_name": "Sand mafia"
+    },
+    {
+     "name": "మట్టి",
+     "type": "Issue",
+     "english_name": "Clay mafia"
+    },
+    {
+     "name": "మైనింగ్",
+     "type": "Issue",
+     "english_name": "Mining mafia"
+    },
+    {
+     "name": "రేషన్ బియ్యం",
+     "type": "Issue",
+     "english_name": "Ration rice mafia"
+    },
+    {
+     "name": "లిక్కర్ మాఫియాలు",
+     "type": "Issue",
+     "english_name": "Liquor mafias"
+    },
+    {
+     "name": "ఓటర్ల జాబితా సమగ్ర సవరణ",
+     "type": "Issue",
+     "english_name": "Special Intensive Revision of voters list"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "MAVIGUN",
+     "type": "Organization",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "Rule of Fear",
+     "evidence": "Rule of law స్థానంలో Rule of Fear"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "68e391175d17e1ba6ef33efb43f83e41302c5390": {
+   "entities": [
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "ఉచిత పంట బీమా",
+     "type": "Scheme",
+     "english_name": "Free Crop Insurance"
+    },
+    {
+     "name": "ఇన్పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input Subsidy"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilization Fund"
+    },
+    {
+     "name": "ఇసుక మాఫియా",
+     "type": "Organization",
+     "english_name": "Sand Mafia"
+    },
+    {
+     "name": "మట్టి మాఫియా",
+     "type": "Organization",
+     "english_name": "Clay Mafia"
+    },
+    {
+     "name": "మైనింగ్ మాఫియా",
+     "type": "Organization",
+     "english_name": "Mining Mafia"
+    },
+    {
+     "name": "రేషన్ బియ్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Ration Rice Mafia"
+    },
+    {
+     "name": "లిక్కర్ మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "ఓటర్ల జాబితా సమగ్ర సవరణ (ఎస్ఐఆర్)",
+     "type": "Scheme",
+     "english_name": "Voter List Comprehensive Revision (SIR)"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "దళిత క్రైస్తవులు",
+     "type": "Person",
+     "english_name": "Dalit Christians"
+    },
+    {
+     "name": "సాయికృష్ణ",
+     "type": "Person",
+     "english_name": "Sai Krishna"
+    },
+    {
+     "name": "మొండితోక అరుణ్ కుమార్",
+     "type": "Person",
+     "english_name": "Mondithoka Arun Kumar"
+    },
+    {
+     "name": "దేవినేని అవినాష్",
+     "type": "Person",
+     "english_name": "Devineni Avinash"
+    },
+    {
+     "name": "అంబటి రాంబాబు",
+     "type": "Person",
+     "english_name": "Ambati Rambabu"
+    },
+    {
+     "name": "పెంచలయ్య",
+     "type": "Person",
+     "english_name": "Penchayya"
+    },
+    {
+     "name": "నాగరాజు",
+     "type": "Person",
+     "english_name": "Nagaraju"
+    },
+    {
+     "name": "ముమ్మిడి సత్యనారాయణ",
+     "type": "Person",
+     "english_name": "Mummidi Satyanarayana"
+    },
+    {
+     "name": "రాయపాటి కిరణ్",
+     "type": "Person",
+     "english_name": "Rayapati Kiran"
+    },
+    {
+     "name": "ఇట్టా పెంచలయ్య",
+     "type": "Person",
+     "english_name": "Itcha Penchayya"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ప్రభుత్వం నిర్వీర్యం చేసిందని విమర్శించారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "ఇసుక మాఫియా",
+     "evidence": "ఇసుక, మట్టి, మైనింగ్, రేషన్ బియ్యం, లిక్కర్ మాఫియాలు విచ్చలవిడిగా పెరిగిపోయాయని జగన్ ఆరోపించారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "మట్టి మాఫియా",
+     "evidence": "ఇసుక, మట్టి, మైనింగ్, రేషన్ బియ్యం, లిక్కర్ మాఫియాలు విచ్చలవిడిగా పెరిగిపోయాయని జగన్ ఆరోపించారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "మైనింగ్ మాఫియా",
+     "evidence": "ఇసుక, మట్టి, మైనింగ్, రేషన్ బియ్యం, లిక్కర్ మాఫియాలు విచ్చలవిడిగా పెరిగిపోయాయని జగన్ ఆరోపించారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "రేషన్ బియ్యం మాఫియా",
+     "evidence": "ఇసుక, మట్టి, మైనింగ్, రేషన్ బియ్యం, లిక్కర్ మాఫియాలు విచ్చలవిడిగా పెరిగిపోయాయని జగన్ ఆరోపించారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "లిక్కర్ మాఫియా",
+     "evidence": "ఇసుక, మట్టి, మైనింగ్, రేషన్ బియ్యం, లిక్కర్ మాఫియాలు విచ్చలవిడిగా పెరిగిపోయాయని జగన్ ఆరోపించారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు నాయుడు",
+     "evidence": "దళిత క్రైస్తవుల రిజర్వేషన్లపై ముఖ్యమంత్రి చంద్రబాబు నాయుడు తన స్పష్టమైన వైఖరిని వెల్లడించాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "సాయికృష్ణ",
+     "evidence": "సాయికృష్ణని మొదట రౌడీషీటర్ అన్నారు. రౌడీషీటర్ను వెనకేసుకు వస్తారా? అని ఎదురుదాడి చేశారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "మొండితోక అరుణ్ కుమార్",
+     "evidence": "టీడీపీ గూండాల దాడిలో ధ్వంసమైన కారు.. చిత్రంలో మొండితోక అరుణ్ కుమార్, దేవినేని అవినాష్, అంబటి రాంబాబు తదితరులు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "దేవినేని అవినాష్",
+     "evidence": "టీడీపీ గూండాల దాడిలో ధ్వంసమైన కారు.. చిత్రంలో మొండితోక అరుణ్ కుమార్, దేవినేని అవినాష్, అంబటి రాంబాబు తదితరులు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "అంబటి రాంబాబు",
+     "evidence": "టీడీపీ గూండాల దాడిలో ధ్వంసమైన కారు.. చిత్రంలో మొండితోక అరుణ్ కుమార్, దేవినేని అవినాష్, అంబటి రాంబాబు తదితరులు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "పెంచలయ్య",
+     "evidence": "వైయస్సార్సీపీ నేతలపైకి రాయి విసురుతున్న టీడీపీ నేత పెంచలయ్య"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "నాగరాజు",
+     "evidence": "వైయస్సార్సీపీ నాయకుల కారుపై రాళ్లతో దాడి చేస్తున్న మట్టి మాఫియా నేత నాగరాజు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "ముమ్మిడి సత్యనారాయణ",
+     "evidence": "టీడీపీ గూండాలను దాడికి పురికొల్పుతున్న లోకేష్ అనుచరుడు ముమ్మిడి సత్యనారాయణ"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "రాయపాటి కిరణ్",
+     "evidence": "పోలీసులు, వైయస్సార్ సీపీ నాయకులపై దాడి చేసిన నారా లోకేష్ అనుచరులు రాయపాటి కిరణ్, ఇట్టా పెంచలయ్య"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "ఇట్టా పెంచలయ్య",
+     "evidence": "పోలీసులు, వైయస్సార్ సీపీ నాయకులపై దాడి చేసిన నారా లోకేష్ అనుచరులు రాయపాటి కిరణ్, ఇట్టా పెంచలయ్య"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f8d12e329851e9ab15d7fb671433d93901a56260": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారి పాలన",
+     "type": "Organization",
+     "english_name": "Chandrababu's governance"
+    },
+    {
+     "name": "రెడ్బుక్ పాలన",
+     "type": "Organization",
+     "english_name": "Redbook governance"
+    },
+    {
+     "name": "జంగిల్ రాజ్",
+     "type": "Issue",
+     "english_name": "Jungle Raj"
+    },
+    {
+     "name": "ఉండవల్లి",
+     "type": "Place",
+     "english_name": "Undavalli"
+    },
+    {
+     "name": "AIR",
+     "type": "Organization",
+     "english_name": "AIR"
+    },
+    {
+     "name": "ANI",
+     "type": "Organization",
+     "english_name": "ANI"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0b2687c867934ec68bdbf912454528423cec90f1": {
+   "entities": [
+    {
+     "name": "Bharatmala Phase-I",
+     "type": "Scheme",
+     "english_name": "Bharatmala Phase-I"
+    },
+    {
+     "name": "National Highways",
+     "type": "Organization",
+     "english_name": "National Highways"
+    },
+    {
+     "name": "Sri, Nithin Gadkari ji, Hon’ble Minister of Road Transport and Highways",
+     "type": "Person",
+     "english_name": "Nithin Gadkari"
+    },
+    {
+     "name": "Lok Sabha",
+     "type": "Organization",
+     "english_name": "Lok Sabha"
+    },
+    {
+     "name": "Amaravati Government Complex",
+     "type": "Organization",
+     "english_name": "Amaravati Government Complex"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9b6e8e5079e05cc24ed0489ac2a4aea4132bfede": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "సాధికృష్ణ",
+     "type": "Person",
+     "english_name": "Saikrish"
+    },
+    {
+     "name": "క్రాంతికుమార్",
+     "type": "Person",
+     "english_name": "Krantikumar"
+    },
+    {
+     "name": "కృష్ణంలంక పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Krishnamalanka Police Station"
+    },
+    {
+     "name": "సిట్",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "కమాండ్ కంట్రోల్ సెంటర్",
+     "type": "Organization",
+     "english_name": "Command Control Center"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Organization",
+     "english_name": "DGP"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "నాగ్పూర్",
+     "type": "Place",
+     "english_name": "Nagpur"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "Matrix సిస్టమ్",
+     "type": "Organization",
+     "english_name": "Matrix System"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "చంద్రబాబు తన బినామీలు, తన నాయకులకు, తన మనుషులకు భూములు పంచడానికి తమను నాశనం చేస్తారా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "డీజీపీ",
+     "evidence": "నేరాన్ని కప్పిపెట్టి, నిందితుల్ని ప్రోత్సహించిన సీపీనీ, డీజీపీనీ ఈ చంద్రబాబుగారు ఎందుకు బాధ్యుల్ని చేయడంలేదు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సిట్",
+     "evidence": "సిట్ ఆ దిశగా ఎందుకు పనిచేయలేదు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కమాండ్ కంట్రోల్ సెంటర్",
+     "evidence": "ఇక్కడ డిలీట్ చేస్తే కమాండ్ కంట్రోల్ సెంటర్లో ఉన్న ఫుటేజీ ఏమైంది?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "Matrix సిస్టమ్",
+     "evidence": "Matrix సిస్టమ్ క్లౌడ్ సర్వర్లలో 90 రోజుల వరకు ఫుటేజీ ఉంటుందని తెలిసినా వాటిని సిట్ ఎందుకు స్వాధీనం చేసుకోవడంలేదు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రైతులు",
+     "evidence": "అమరావతి పేరుతో ఇప్పటికే వేలాది ఎకరాలు తీసుకున్నారు.., ఇంకా భూములు ఎందుకు కావాలి? ఎవరి కోసం కావాలి? అని రైతులు అడుగుతున్నారు:"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సాధికృష్ణ",
+     "evidence": "తన కొడుకోసం సాయికృష్ణ తల్లి సీపీకి చేసిన ఫిర్యాదుకు విలువ లేదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "క్రాంతికుమార్",
+     "evidence": "సాయికృష్ణ కేసు, క్రాంతికుమార్ కేసులు లేకుండా చేసేసేవాళ్లు:"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కృష్ణంలంక పోలీస్ స్టేషన్",
+     "evidence": "కృష్ణంలంక పోలీస్ స్టేషన్లో మే 1 నుంచి జూన్ 1 వరకూ సీసీ ఫుటేజీ లేదని మొదటి రిమాండ్ రిపోర్టులో చెప్పారు:"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సుప్రీంకోర్టు",
+     "evidence": "సుప్రీంకోర్టు తీర్పులు, హైకోర్టు తీర్పులు ఎందుకు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "హైకోర్టు",
+     "evidence": "సుప్రీంకోర్టు తీర్పులు, హైకోర్టు తీర్పులు ఎందుకు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "పోలీసు వ్యవస్థను ఎలా దుర్వినియోగం చేస్తున్నారో చెప్పడానికి ఇది నిదర్శనం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "241134a21b85dd0043f0ccc526f83443cba04566": {
+   "entities": [
+    {
+     "name": "Sri, Nithin Gadkari ji, Hon’ble Minister of Road Transport and Highways",
+     "type": "Person",
+     "english_name": "Nithin Gadkari"
+    },
+    {
+     "name": "Bharatmala Phase-I",
+     "type": "Scheme",
+     "english_name": "Bharatmala Phase-I"
+    },
+    {
+     "name": "National Highways",
+     "type": "Organization",
+     "english_name": "National Highways"
+    },
+    {
+     "name": "Rs. 24 crores",
+     "type": "Claim",
+     "english_name": "Rs. 24 crores"
+    },
+    {
+     "name": "Rs. 4.9 lakh Crores",
+     "type": "Claim",
+     "english_name": "Rs. 4.9 lakh Crores"
+    },
+    {
+     "name": "Rs. 45,000 Crore",
+     "type": "Claim",
+     "english_name": "Rs. 45,000 Crore"
+    },
+    {
+     "name": "34,800 Km",
+     "type": "Claim",
+     "english_name": "34,800 Km"
+    },
+    {
+     "name": "Rs. 8.3 crores",
+     "type": "Claim",
+     "english_name": "Rs. 8.3 crores"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sri, Nithin Gadkari ji, Hon’ble Minister of Road Transport and Highways",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 24 crores",
+     "evidence": "The actual average per km civil construction cost is Rs. 24 crore."
+    },
+    {
+     "source": "Sri, Nithin Gadkari ji, Hon’ble Minister of Road Transport and Highways",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 4.9 lakh Crores",
+     "evidence": "civil construction cost of about Rs. 4.9 lakh Crores was estimated to develop 34,800 Km of National Highways in Bharatmala Phase-I."
+    },
+    {
+     "source": "Sri, Nithin Gadkari ji, Hon’ble Minister of Road Transport and Highways",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 45,000 Crore",
+     "evidence": "LA cost of Rs. 45,000 Crore was estimated to develop 34,800 Km of National Highways in Bharatmala Phase-I."
+    },
+    {
+     "source": "Sri, Nithin Gadkari ji, Hon’ble Minister of Road Transport and Highways",
+     "relation": "MAKES_CLAIM",
+     "target": "34,800 Km",
+     "evidence": "to develop 34,800 Km of National Highways in Bharatmala Phase-I."
+    },
+    {
+     "source": "Sri, Nithin Gadkari ji, Hon’ble Minister of Road Transport and Highways",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs. 8.3 crores",
+     "evidence": "Land acquisition including pre-construction activities is about Rs. 8.3 crores."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d1d8808bc510e3281fbef23a5764707264d6f085": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "APSADA అప్పడా",
+     "type": "Organization",
+     "english_name": "APSADA Appada"
+    },
+    {
+     "name": "కార్టెల్",
+     "type": "Organization",
+     "english_name": "Cartel"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ad8130df8b2d2e931fd014e77d253dd1ffe495aa": {
+   "entities": [
+    {
+     "name": "PRAJA SANKALPAM",
+     "type": "Scheme",
+     "english_name": "Praja Sankalpam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "National Highways",
+     "type": "Organization",
+     "english_name": "National Highways"
+    },
+    {
+     "name": "Markfed",
+     "type": "Organization",
+     "english_name": "Markfed"
+    },
+    {
+     "name": "RBKL",
+     "type": "Organization",
+     "english_name": "RBKL"
+    },
+    {
+     "name": "పొగాకు",
+     "type": "Issue",
+     "english_name": "Tobacco"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "National Highways",
+     "evidence": "నేషనల్ హైవేల నిర్మాణంలో కిలోమీటర్కు రూ.24 కోట్లు అవుతుంటే, అమరావతిలో కిలోమీటర్కు రూ.53 కోట్లు ఖర్చు అవుతోంది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "60a511c0506bb0168f43c77977fc87e17fa6ade8": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ చరిత్రలో ఇంతటి మానవహక్కుల",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉల్లంఘన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అరాచకాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జంగిల్ రాజ్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉండవల్లి",
+     "type": "Place",
+     "english_name": "Undavalli"
+    },
+    {
+     "name": "అమరావతిలో చంద్రబాబుచేస్తున్న అవినీతి, దోపిడీ, దౌర్జన్యాలను",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మా పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "మాజీ మంత్రుల",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మెల్సీల",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మా పార్టీకి చెందిన మాజీ మంత్రుల మీద, ఎమ్మెల్సీల మీద, పార్టీ నాయకులమీద దారుణంగా దాడులు చేసి, హత్యాయత్నం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జాతీయ రహదారి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "GOVERNMENT OF INDIA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "LOK SABHA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "UNSTARRED QUESTION NO. 1025",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ANSWERED ON 5TH FEBRUARY, 2026",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "COMPLETION OF PROJECTS UNDER BHARATMALA PAHSE-I",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ADV PRIYA SAROJ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SHRI PUSHPENDRA SAROJ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సड़क परिवहन और राजमार्ग मंत्री",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "THE MINISTER OF ROAD TRANSPORT AND HIGHWAYS",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SHRI NITIN JAIRAM GADKARI",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b587536cee341e7f722c659341200220ead6d201": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b49eae62242b5671acbb69cb81cd585d804c10c8": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కులం",
+     "type": "Issue",
+     "english_name": "Caste"
+    },
+    {
+     "name": "మతం",
+     "type": "Issue",
+     "english_name": "Religion"
+    },
+    {
+     "name": "దళితులు",
+     "type": "Issue",
+     "english_name": "Dalits"
+    },
+    {
+     "name": "దళిత క్రైస్తవులు",
+     "type": "Issue",
+     "english_name": "Dalit Christians"
+    },
+    {
+     "name": "రిజర్వేషన్లు",
+     "type": "Issue",
+     "english_name": "Reservations"
+    },
+    {
+     "name": "కేజీ.బాలకృష్ణన్ కమిషన్",
+     "type": "Organization",
+     "english_name": "K.G. Balakrishnan Commission"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Center"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a5b66323df4fa008ccbc4d969c57d93b08a8d1a9": {
+   "entities": [
+    {
+     "name": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆర్బీకే వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "RBK system"
+    },
+    {
+     "name": "ఇక్రావ్",
+     "type": "Organization",
+     "english_name": "Ikrav"
+    },
+    {
+     "name": "ఇసుక మాఫియా",
+     "type": "Organization",
+     "english_name": "Sand Mafia"
+    },
+    {
+     "name": "మట్టి మాఫియా",
+     "type": "Organization",
+     "english_name": "Soil Mafia"
+    },
+    {
+     "name": "సిలికా",
+     "type": "Organization",
+     "english_name": "Silica"
+    },
+    {
+     "name": "క్వార్ట్జ్",
+     "type": "Organization",
+     "english_name": "Quartz"
+    },
+    {
+     "name": "లెటరైట్",
+     "type": "Organization",
+     "english_name": "Laterite"
+    },
+    {
+     "name": "రేషన్ బియ్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Ration Rice Mafia"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పీపీఏలు",
+     "type": "Organization",
+     "english_name": "PPAs"
+    },
+    {
+     "name": "ఎమ్మార్చీ",
+     "type": "Organization",
+     "english_name": "EMarchi"
+    },
+    {
+     "name": "బెల్టుషాపులు",
+     "type": "Organization",
+     "english_name": "Beltushapu"
+    },
+    {
+     "name": "లిక్కర్ మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "బీచ్షాక్స్కు",
+     "type": "Organization",
+     "english_name": "Beachshaksku"
+    },
+    {
+     "name": "ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": "RTC"
+    },
+    {
+     "name": "కొత్త గవర్నమెంటు కాలేజీలు",
+     "type": "Organization",
+     "english_name": "New Government Colleges"
+    },
+    {
+     "name": "పోర్టులు",
+     "type": "Organization",
+     "english_name": "Ports"
+    },
+    {
+     "name": "ఫిషింగ్ హార్బర్లన్నీ",
+     "type": "Organization",
+     "english_name": "Fishing Harbors"
+    },
+    {
+     "name": "సైవేటు",
+     "type": "Organization",
+     "english_name": "Private"
+    },
+    {
+     "name": "రెడ్బుక్ రాజ్యాంగం",
+     "type": "Organization",
+     "english_name": "Redbook Constitution"
+    },
+    {
+     "name": "తెలుగుదేశం యాప్",
+     "type": "Organization",
+     "english_name": "TDP App"
+    },
+    {
+     "name": "నారాయణ",
+     "type": "Person",
+     "english_name": "Narayan"
+    },
+    {
+     "name": "మున్సిపల్ కమిషనర్",
+     "type": "Person",
+     "english_name": "Municipal Commissioner"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మున్సిపల్ కమిషనర్",
+     "relation": "ACCUSES",
+     "target": "నారాయణ",
+     "evidence": "నెల్లూరులో మున్సిపల్ కమిషనర్ ఏకంగా మంత్రి నారాయణ, టీడీపీవాళ్లతో కుమ్మక్కై"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "52f46acfe667fd346537ac0f976a791476f6770f": {
+   "entities": [
+    {
+     "name": "General Pool Residential Accommodation (GPRA) Campus",
+     "type": "Organization",
+     "english_name": "General Pool Residential Accommodation (GPRA) Campus"
+    },
+    {
+     "name": "New Capital City of Amravati",
+     "type": "Place",
+     "english_name": "New Capital City of Amravati"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "₹1,234.91 crores",
+     "type": "Claim",
+     "english_name": "₹1,234.91 crores"
+    },
+    {
+     "name": "₹1,299.03 crores",
+     "type": "Claim",
+     "english_name": "₹1,299.03 crores"
+    }
+   ],
+   "relations": [
+    {
+     "source": "General Pool Residential Accommodation (GPRA) Campus",
+     "relation": "LOCATED_IN",
+     "target": "New Capital City of Amravati",
+     "evidence": "The General Pool Residential Accommodation (GPRA) Campus in the New Capital City of Amravati, Andhra Pradesh"
+    },
+    {
+     "source": "General Pool Residential Accommodation (GPRA) Campus",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The General Pool Residential Accommodation (GPRA) Campus in the New Capital City of Amravati, Andhra Pradesh"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "01fef02cebdc9a17909c1d347722dcfe70b72980": {
+   "entities": [
+    {
+     "name": "మావిగన్",
+     "type": "Scheme",
+     "english_name": "Mavigan"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వైయస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Cabinet Committee on Economic Affairs",
+     "type": "Organization",
+     "english_name": "Cabinet Committee on Economic Affairs"
+    },
+    {
+     "name": "General Pod Residential Accommodation (GPRA)",
+     "type": "Scheme",
+     "english_name": "GPRA"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మావిగన్",
+     "evidence": "వచ్చే అసెంబ్లీ ఎన్నికలు 'మావిగన్ వర్సెస్ అమరావతి' గా జరుగుతాయి."
+    },
+    {
+     "source": "వైయస్ జగన్",
+     "relation": "DEFENDS",
+     "target": "మావిగన్",
+     "evidence": "మేము ఇప్పటికీ మావిగన్కే కట్టుబడి ఉన్నామని, వచ్చే అసెంబ్లీ ఎన్నికలు మావిగన్ వర్సెస్ అమరావతిగా జరుగుతాయని ప్రకటించారు."
+    },
+    {
+     "source": "వైయస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్సీపీ",
+     "evidence": "'మావిగన్..వైయస్సార్సీపీ' దానికే కట్టుబడి ఉన్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్ జగన్",
+     "evidence": "చంద్రబాబు మాట్లాడుతూ, మీరు అమరావతి వ్యతిరేకులు అని, అందుకే మావిగన్ గురించి మాట్లాడుతున్నారని ఆరోపిస్తున్నారు."
+    },
+    {
+     "source": "Cabinet Committee on Economic Affairs",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "New Capital City, Amravati, Andhra Pradesh."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "16cf4175bfa9a8093b898176f832ee5e32c72bac": {
+   "entities": [
+    {
+     "name": "MAVIGUN",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": "AMARAVATI"
+    },
+    {
+     "name": "Andhra Pradesh FCV tobacco",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh FCV tobacco"
+    },
+    {
+     "name": "Tobacco Board",
+     "type": "Organization",
+     "english_name": "Tobacco Board"
+    },
+    {
+     "name": "Chief Minister’s Relief Fund",
+     "type": "Organization",
+     "english_name": "Chief Minister’s Relief Fund"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1c9ea4555762ff58d879364853d63582bf8290fa": {
+   "entities": [
+    {
+     "name": "Tobacco Board",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Chief Minister’s Relief Fund",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Scheduled Castes",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Christianity",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Tobacco Board",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Tobacco Board employees and growers also contributed ₹92.70 lakh to the Chief Minister’s Relief Fund to support victims of recent cyclones in Andhra Pradesh."
+    },
+    {
+     "source": "Chief Minister’s Relief Fund",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Tobacco Board employees and growers also contributed ₹92.70 lakh to the Chief Minister’s Relief Fund to support victims of recent cyclones in Andhra Pradesh."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dee87adde7fc2c50516e26b7a23535d4265a7485": {
+   "entities": [
+    {
+     "name": "MAVIGUN",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "Central Govt",
+     "type": "Organization",
+     "english_name": "Central Govt"
+    },
+    {
+     "name": "Azadi Ka Amrit Mahotsav",
+     "type": "Scheme",
+     "english_name": "Azadi Ka Amrit Mahotsav"
+    },
+    {
+     "name": "FCV Tobacco Season",
+     "type": "Scheme",
+     "english_name": "FCV Tobacco Season"
+    },
+    {
+     "name": "FCV tobacco farmers",
+     "type": "Person",
+     "english_name": "FCV tobacco farmers"
+    },
+    {
+     "name": "record-high production of 215.35 million kg kilograms of tobacco",
+     "type": "Claim",
+     "english_name": "record-high production of 215.35 million kg kilograms of tobacco"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Andhra Pradesh",
+     "relation": "LOCATED_IN",
+     "target": "AMARAVATI",
+     "evidence": "PROPOSED GENERAL POOL RESIDENTIAL ACCOMMODATION (GPRA)CAMPUS AT NEW CAPITAL CITY, AMARAVATI, ANDHRA PRADESH"
+    },
+    {
+     "source": "Government of India",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "The estimated cost of the project is ₹1,234.91 crores which will be funded by the Government of India through budgetary support under the Head Account: 4216 – Capital Outlay on Housing (Residential Buildings) – Voted."
+    },
+    {
+     "source": "Central Govt",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Central Govt.'s cost of establishing premises"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0191c9ebfb36ffd3ea135876aa003437cb13e1d9": {
+   "entities": [
+    {
+     "name": "వైయస్ఆర్సీపీ నాయకులు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "జమ్మలమడుగు వైయస్ఆర్ విగ్రహం",
+     "type": "Place",
+     "english_name": "Jammalamadugu YSR statue"
+    },
+    {
+     "name": "మాజీ మంత్రి సాకే శైలజానాథ్",
+     "type": "Person",
+     "english_name": "Former Minister Sakhe Sailajanath"
+    },
+    {
+     "name": "జిల్లా అధ్యక్షుడు సి. రవీంద్రనాథ్ రెడ్డి",
+     "type": "Person",
+     "english_name": "District President C. Ravindranath Reddy"
+    },
+    {
+     "name": "ఎమ్మెల్యే రాచమల్లు శివప్రసాద్ రెడ్డి",
+     "type": "Person",
+     "english_name": "MLA Rachamallu Shivaprasad Reddy"
+    },
+    {
+     "name": "మాజీ ఉప ముఖ్యమంత్రి అంజాద్ బాషా",
+     "type": "Person",
+     "english_name": "Former Deputy Chief Minister Anjad Basha"
+    },
+    {
+     "name": "రఘురామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghuramireddy"
+    },
+    {
+     "name": "ఎమ్మెల్యే దాసరి సుధా",
+     "type": "Person",
+     "english_name": "MLA Dasari Sudha"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు రామసుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "MLC Ramasubbaredy"
+    },
+    {
+     "name": "గోవిందరెడ్డి",
+     "type": "Person",
+     "english_name": "Govindareddy"
+    },
+    {
+     "name": "రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Ramachandra Reddy"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మాజీ మంత్రి సాకే శైలజానాథ్",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "జిల్లా అధ్యక్షుడు సి. రవీంద్రనాథ్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "ఎమ్మెల్యే రాచమల్లు శివప్రసాద్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "మాజీ ఉప ముఖ్యమంత్రి అంజాద్ బాషా",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "రఘురామిరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "ఎమ్మెల్యే దాసరి సుధా",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "ఎమ్మెల్సీలు రామసుబ్బారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "గోవిందరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    },
+    {
+     "source": "రామచంద్రారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్ఆర్సీపీ నాయకులు",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ce9cd6d3644dfbc9da054556894b345427242aec": {
+   "entities": [
+    {
+     "name": "PRAJA SANKALPAM",
+     "type": "Scheme",
+     "english_name": "Praja Sankalpam"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Vellampalli Srinivasarao",
+     "type": "Person",
+     "english_name": "Vellampalli Srinivasarao"
+    },
+    {
+     "name": "Vijayawada West",
+     "type": "Place",
+     "english_name": "Vijayawada West"
+    },
+    {
+     "name": "Bhavanipur",
+     "type": "Place",
+     "english_name": "Bhavanipur"
+    },
+    {
+     "name": "Konerakalla Vidhyadhararao",
+     "type": "Person",
+     "english_name": "Konerakalla Vidhyadhararao"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Jindal Steel Plant",
+     "type": "Organization",
+     "english_name": "Jindal Steel Plant"
+    },
+    {
+     "name": "YSRCP leaders",
+     "type": "Person",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "Jammalamadugu",
+     "type": "Place",
+     "english_name": "Jammalamadugu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Vellampalli Srinivasarao",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "విజయవాడ పశ్చిమ నియోజకవర్గ సమన్వయకర్త వెలంపల్లి శ్రీనివాసరావుపిలుపునిచ్చారు."
+    },
+    {
+     "source": "Konerakalla Vidhyadhararao",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "స్థానిక భవానీపురంలోని శివాలయం సెంటర్ వద్ద పార్టీ సీనియర్ నాయకుడు కొనకళ్ల విద్యాధరరావు నివాసంలో, అలాగే కలరా ఆస్పత్రి సమీపంలోని ఓ ప్రైవేట్ ఫంక్షన్ హాల్లో బుధవారం వైయస్ఆర్సీపీ బూత్ లెవల్ ఏజెంట్లతో నిర్వహించిన సమావేశంలో ఆయన మాట్లాడారు."
+    },
+    {
+     "source": "Jindal Steel Plant",
+     "relation": "LOCATED_IN",
+     "target": "Jammalamadugu",
+     "evidence": "జిందాల్ స్టీల్స్ ప్లాంట్ పరిశీలనకు బయలుదేరిన వైయస్ఆర్సీపీ నేతల బృందాన్ని పోలీసులు జమ్మలమడుగులోని వైయస్ఆర్ విగ్రహం వద్ద అడ్డుకున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8f5d74f61294da0e6bd01aba130d3717ba18ce92": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f61ddd553a4c904550e68e84333e05c03fd88b14": {
+   "entities": [
+    {
+     "name": "యూరియా, ఎరువుల సంగతి దేవుడెరుగు పీఎంకిసన్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రైతు కుటుంబానికి ఏడాదికి రూ.20వేలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మూడేళ్లలో రూ.60వేలు ఇవ్వాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.19వేలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.3,500 కోట్ల పంటల బీమా కింద ఇవ్వాల్సిన డబ్బులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉచిత పంటల బీమా రద్దుచేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏ సీజన్లో నష్టం జరిగితే, ఆసీజన్లోనే ఇచ్చే ఇన్పుట్ సబ్సిడీకి గండికొట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గతేడాది మోంథా తుఫానులో నష్టపోయిన రైతులకు 8",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కిలోకు రూ.4లు తగ్గిస్తామంటూ హడావిడి చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తన ఎల్లోమీడియాలో పెద్ద పెద్ద అక్షరాలతో రాయించుకున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తగ్గింది కేవలం రూ.2లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాళ్లు పెంచింది రూ.1416లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గత ఏడాది మామిడి ధర విషయంలో నెలకొన్న సంక్షోభం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పంట అంతా అయిపోయాక చివర్లో రైతులకు కిలోకు రూ.12లు ఇస్తామన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.4లు రాష్ట్ర ప్రభుత్వం, రూ.8లు కంపెనీలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏ కంపెనీకూడా రూ.8లు రేటు ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.4 5లతో సరిపెట్టాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇవ్వాళ్టికీ రైతులకు పూర్తిస్థాయిలో చెల్లింపులు చేయలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బంగారుపాళ్యం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తోతాపురి మామిడి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కర్ణాటక రాష్ట్రం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర సహాయసహకారాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "1.3లక్షల టన్నుల తోతాపురి మామిడి కొనుగోలుకు కిలో రూ.17.50ల చొప్పున ధర నిర్ణయిస్తూ, MIS కింద, PDPS కింద కొనుగోలుకు కేంద్రం ముందుకు వచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వంలో భాగస్వామి, కేంద్ర మంత్రి కుమార స్వామి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జూన్ 24న లేఖరాస్తే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జూన్ 25న కేంద్ర వ్యవసాయశాఖమంత్రి శివరాజ్సింగ్ చౌహాన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మామిడి కొనుగోలుకు సానుకూల స్పందన వచ్చింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కుమారస్వామి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రంలో భాగస్వామి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రంలో మంత్రులున్నారు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో రైతుల మీద చంద్రబాబుకు ఉన్న ధ్యాస",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5584e71e19c0eefd8c4ddbe807585e3a41fa7824": {
+   "entities": [
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "మన మంచి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Mana Manchi Prabhutvam"
+    },
+    {
+     "name": "ఫేస్‌బుక్",
+     "type": "Organization",
+     "english_name": "Facebook"
+    },
+    {
+     "name": "లింక్డ్‌ఇన్",
+     "type": "Organization",
+     "english_name": "LinkedIn"
+    },
+    {
+     "name": "యూట్యూబ్",
+     "type": "Organization",
+     "english_name": "YouTube"
+    },
+    {
+     "name": "ట్విట్టర్",
+     "type": "Organization",
+     "english_name": "Twitter"
+    },
+    {
+     "name": "ఇన్‌స్టాగ్రామ్",
+     "type": "Organization",
+     "english_name": "Instagram"
+    },
+    {
+     "name": "మావిగన్",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "మన మంచి ప్రభుత్వం",
+     "evidence": "పవన్ కళ్యాణ్ స్టైల్లో.. అతని డైలాగులే మాట్లాడిన అరెస్ట్ చేస్తారా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d439d612da9f58da5637aaf927ac0c89aa9c8d19": {
+   "entities": [
+    {
+     "name": "MAVIGUN",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "YS JAGAN",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "NTR",
+     "type": "Person",
+     "english_name": "NTR"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "రౌడీ షీటర్",
+     "type": "Claim",
+     "english_name": "రౌడీ షీటర్"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YS JAGAN",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఎన్టీఆర్ గారు బ్రతికి ఉంటే ఎన్టీఆర్ కూడా వీళ్ళ తప్పులను ప్రశ్నిస్తే ఆయన్ని కూడా రౌడీ షీటర్ అనే వాడు చంద్రబాబు"
+    },
+    {
+     "source": "YS JAGAN",
+     "relation": "MAKES_CLAIM",
+     "target": "రౌడీ షీటర్",
+     "evidence": "ఆ మాత్రం రౌడీ షీటర్ అనలేమా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5e313348060ae6776f48f9d495f02a06a824598c": {
+   "entities": [
+    {
+     "name": "రవీంద్రనాథ్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Ravindranath Reddy"
+    },
+    {
+     "name": "ఎమ్మెల్యే రాచమల్లు",
+     "type": "Person",
+     "english_name": "MLA Rachamallu"
+    },
+    {
+     "name": "శివప్రసాద్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Shivaprasad Reddy"
+    },
+    {
+     "name": "మాజీ ఉప ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Former Deputy Chief Minister"
+    },
+    {
+     "name": "అంజాద్ బాషా",
+     "type": "Person",
+     "english_name": "Anjaz Basha"
+    },
+    {
+     "name": "రఘురామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Raghuramireddy"
+    },
+    {
+     "name": "దాసరి సుధా",
+     "type": "Person",
+     "english_name": "Dasari Sudha"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు రామసుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "MLC Ramasubbaredy"
+    },
+    {
+     "name": "గోవిందరెడ్డి",
+     "type": "Person",
+     "english_name": "Govindareddy"
+    },
+    {
+     "name": "రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Ramachandra Reddy"
+    },
+    {
+     "name": "వైయస్ఆర్సీపీ నాయకులు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పోలీసు వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Police system"
+    },
+    {
+     "name": "భూమన కరుణాకర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Bhuma Karunakar Reddy"
+    },
+    {
+     "name": "ఉమ్మడి చిత్తూరు జిల్లా వైయస్ఆర్సీపీ అధ్యక్షుడు",
+     "type": "Party",
+     "english_name": "YSRCP President, Chittoor district"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "తిరుపతి రూరల్ మండలం అవిలాల గ్రామం",
+     "type": "Place",
+     "english_name": "Avilala village, Tirupati Rural mandal"
+    },
+    {
+     "name": "వనజా",
+     "type": "Person",
+     "english_name": "Vanaja"
+    },
+    {
+     "name": "ద్వారకానాథ్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Dwarakanath Reddy"
+    },
+    {
+     "name": "అవిలాల సర్వే నంబర్లు 176, 179",
+     "type": "Place",
+     "english_name": "Avilala Survey numbers 176, 179"
+    },
+    {
+     "name": "అనగాని సత్యప్రసాద్",
+     "type": "Person",
+     "english_name": "Anagani Satya Prasad"
+    },
+    {
+     "name": "ఎమ్మెల్యే నాని",
+     "type": "Person",
+     "english_name": "MLA Nani"
+    },
+    {
+     "name": "రిటైర్డ్ న్యాయమూర్తి",
+     "type": "Person",
+     "english_name": "Retired judge"
+    },
+    {
+     "name": "చెవిరెడ్డి భాస్కర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Chevireddy Bhaskar Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "భూమన కరుణాకర్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "అనగాని సత్యప్రసాద్",
+     "evidence": "అనగాని సత్యప్రసాద్, ఎమ్మెల్యే నాని ప్రమేయం ఉండనే ఆరోపణలు వినిపిస్తున్నాయని భూమన అన్నారు."
+    },
+    {
+     "source": "భూమన కరుణాకర్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఎమ్మెల్యే నాని",
+     "evidence": "అనగాని సత్యప్రసాద్, ఎమ్మెల్యే నాని ప్రమేయం ఉండనే ఆరోపణలు వినిపిస్తున్నాయని భూమన అన్నారు."
+    },
+    {
+     "source": "భూమన కరుణాకర్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "రిటైర్డ్ న్యాయమూర్తి",
+     "evidence": "వృద్ధ దంపతుల తరఫున వాదిస్తున్న రిటైర్డ్ న్యాయమూర్తిని ఎమ్మెల్యే నాని లక్ష్యంగా చేసుకుని అనుచిత వ్యాఖ్యలు చేయడం అత్యంత బాధాకరమని భూమన మండిపడ్డారు."
+    },
+    {
+     "source": "భూమన కరుణాకర్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చెవిరెడ్డి భాస్కర్ రెడ్డి",
+     "evidence": "చెవిరెడ్డి భాస్కర్ రెడ్డి కుటుంబాన్ని ఎమ్మెల్యే నాని లక్ష్యంగా చేసుకుని అనుచిత వ్యాఖ్యలు చేయడం అత్యంత బాధాకరమని భూమన మండిపడ్డారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2c98a11f9f79b5ba9cd791ba8fcd1f1eb05a292e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కేజీ.బాలకృష్ణన్ కమిషన్",
+     "type": "Organization",
+     "english_name": "KG. Balakrishnan Commission"
+    },
+    {
+     "name": "కర్ణాటక",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "గల్లాఫుడ్స్",
+     "type": "Organization",
+     "english_name": "Galla Foods"
+    },
+    {
+     "name": "శ్రీని ఫుడ్స్",
+     "type": "Organization",
+     "english_name": "Srinni Foods"
+    },
+    {
+     "name": "ఖరీఫ్ సబ్సీడీ",
+     "type": "Scheme",
+     "english_name": "Kharif Subsidy"
+    },
+    {
+     "name": "యూరియా",
+     "type": "Organization",
+     "english_name": "Urea"
+    },
+    {
+     "name": "MAVIGUN",
+     "type": "Party",
+     "english_name": "MAVIGUN"
+    },
+    {
+     "name": "AMARAVATI",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "రైతు భరోసా కేంద్రాలు",
+     "type": "Organization",
+     "english_name": "Rythu Bharosa Kendras"
+    },
+    {
+     "name": "యూరియా",
+     "type": "Scheme",
+     "english_name": "Urea"
+    },
+    {
+     "name": "పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Crop Insurance"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేజీ.బాలకృష్ణన్ కమిషన్",
+     "evidence": "చంద్రబాబు తన వైఖరిని చెప్పాలి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "గల్లాఫుడ్స్",
+     "evidence": "చంద్రబాబు తన వారైన గల్లాఫుడ్స్, శ్రీని ఫుడ్స్ వీరికే న్యాయం జరగాలి అన్నట్టుగా వ్యవహరిస్తాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "శ్రీని ఫుడ్స్",
+     "evidence": "చంద్రబాబు తన వారైన గల్లాఫుడ్స్, శ్రీని ఫుడ్స్ వీరికే న్యాయం జరగాలి అన్నట్టుగా వ్యవహరిస్తాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "యూరియా",
+     "evidence": "మరోవైపు యూరియా కొరత రైతులను తీవ్రంగా వేధిస్తోంది."
+    },
+    {
+     "source": "MAVIGUN",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "PM Kisan",
+     "evidence": "PMకిసన్ కాకుండా ప్రతి రైతు కుటుంబానికి ఏడాదికి రూ.20వేలు అన్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5f45136bab19a5b6e4be087fa8b8c681749258eb": {
+   "entities": [
+    {
+     "name": "అనగాని సత్యప్రసాద్",
+     "type": "Person",
+     "english_name": "Anagani Satya Prasad"
+    },
+    {
+     "name": "నాని",
+     "type": "Person",
+     "english_name": "Nani"
+    },
+    {
+     "name": "భూమన",
+     "type": "Person",
+     "english_name": "Bhuma"
+    },
+    {
+     "name": "వైయస్ఆర్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ముద్రగడ గిరి",
+     "type": "Person",
+     "english_name": "Mudragada Giri"
+    },
+    {
+     "name": "ముద్రగడ పద్మనాభం",
+     "type": "Person",
+     "english_name": "Mudragada Padmanabham"
+    },
+    {
+     "name": "వైయస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "సింధూ హాస్పిటల్",
+     "type": "Organization",
+     "english_name": "Sindhu Hospital"
+    },
+    {
+     "name": "బండి పార్ధసారథి రెడ్డి",
+     "type": "Person",
+     "english_name": "Bandla Parthasarathi Reddy"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "డాక్టర్ నోరి దత్తాత్రేయుడు",
+     "type": "Person",
+     "english_name": "Dr. Norri Dattatreya"
+    },
+    {
+     "name": "ముద్రగడ",
+     "type": "Person",
+     "english_name": "Mudragada"
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "కిర్లంపూడి",
+     "type": "Place",
+     "english_name": "Kirlampudi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "భూమన",
+     "relation": "ACCUSES",
+     "target": "నాని",
+     "evidence": "ఎమ్మెల్యే నాని లక్ష్యంగా చేసుకుని అనుచిత వ్యాఖ్యలు చేయడం అత్యంత బాధాకరమని భూమన మండిపడ్డారు."
+    },
+    {
+     "source": "వైయస్ జగన్",
+     "relation": "DEFENDS",
+     "target": "ముద్రగడ పద్మనాభం",
+     "evidence": "ముద్రగడ అనారోగ్యం బారిన పడినప్పటి నుండి ప్రతిరోజూ మాజీ సీఎం వైయస్ జగన్ తన తండ్రికి చికిత్స ఎలా జరుగుతుంది, ఏం జరుగుతుందో డాక్టరస్తో మాట్లాడుతూ ఆరా తీశారని వెల్లడించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,389 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "281c402cf52138b29a978ad862d5ecf61ba2c00e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3f20ad6e594c8a0eb0a462b46a70ce29353edbf6": {
+   "entities": [
+    {
+     "name": "Ministry of MSME",
+     "type": "Organization",
+     "english_name": "Ministry of MSME"
+    },
+    {
+     "name": "Samadhaan Portal",
+     "type": "Organization",
+     "english_name": "Samadhaan Portal"
+    },
+    {
+     "name": "AatmaNirbhar Bharat",
+     "type": "Scheme",
+     "english_name": "AatmaNirbhar Bharat"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d7fa79381aad423e905b9e6ab7ea7d3861d8b20a": {
+   "entities": [
+    {
+     "name": "Government of India",
+     "type": "Organization",
+     "english_name": "Government of India"
+    },
+    {
+     "name": "CPSEs",
+     "type": "Organization",
+     "english_name": "CPSEs"
+    },
+    {
+     "name": "Trade Receivables Discounting System",
+     "type": "Scheme",
+     "english_name": "Trade Receivables Discounting System"
+    },
+    {
+     "name": "MSMEs",
+     "type": "Organization",
+     "english_name": "MSMEs"
+    },
+    {
+     "name": "Ministry of Corporate Affairs",
+     "type": "Organization",
+     "english_name": "Ministry of Corporate Affairs"
+    },
+    {
+     "name": "Section 43B of Income Tax Act",
+     "type": "Scheme",
+     "english_name": "Section 43B of Income Tax Act"
+    },
+    {
+     "name": "Udyam registration Portal",
+     "type": "Organization",
+     "english_name": "Udyam registration Portal"
+    },
+    {
+     "name": "Udyam Assist Platform",
+     "type": "Organization",
+     "english_name": "Udyam Assist Platform"
+    },
+    {
+     "name": "ANDAMAN AND NICOBAR ISLANDS",
+     "type": "Place",
+     "english_name": "Andaman and Nicobar Islands"
+    },
+    {
+     "name": "ANDHRA PRADESH",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ARUNACHAL PRADESH",
+     "type": "Place",
+     "english_name": "Arunachal Pradesh"
+    },
+    {
+     "name": "ASSAM",
+     "type": "Place",
+     "english_name": "Assam"
+    },
+    {
+     "name": "BIHAR",
+     "type": "Place",
+     "english_name": "Bihar"
+    },
+    {
+     "name": "CHANDIGARH",
+     "type": "Place",
+     "english_name": "Chandigarh"
+    },
+    {
+     "name": "CHHATTISGARH",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "DELHI",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "GOA",
+     "type": "Place",
+     "english_name": "Goa"
+    },
+    {
+     "name": "GUJARAT",
+     "type": "Place",
+     "english_name": "Gujarat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Ministry of Corporate Affairs",
+     "relation": "LOCATED_IN",
+     "target": "ANDHRA PRADESH",
+     "evidence": "State/UT and Year wise total number of MSMEs which were registered since inception (01.07.2020) to 04.12.2023 on Udyam registration Portal (including informal micro enterprises registered on Udyam Assist Platform)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5a92cfbe417a3e28a3447d4dbd128ca9822a79dd": {
+   "entities": [
+    {
+     "name": "Press Information Bureau",
+     "type": "Organization",
+     "english_name": "Press Information Bureau"
+    },
+    {
+     "name": "Ministry of Micro, Small & Medium Enterprises",
+     "type": "Organization",
+     "english_name": "Ministry of Micro, Small & Medium Enterprises"
+    },
+    {
+     "name": "Udyam Registration Portal",
+     "type": "Organization",
+     "english_name": "Udyam Registration Portal"
+    },
+    {
+     "name": "Udyam Assist Platform",
+     "type": "Organization",
+     "english_name": "Udyam Assist Platform"
+    },
+    {
+     "name": "Micro, Small and Medium Enterprises Development (MSMED) Act, 2006",
+     "type": "Organization",
+     "english_name": "Micro, Small and Medium Enterprises Development (MSMED) Act, 2006"
+    },
+    {
+     "name": "MSEFCs",
+     "type": "Organization",
+     "english_name": "MSEFCs"
+    },
+    {
+     "name": "Samadhaan Portal",
+     "type": "Organization",
+     "english_name": "Samadhaan Portal"
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "Jammu & Kashmir",
+     "type": "Place",
+     "english_name": "Jammu & Kashmir"
+    },
+    {
+     "name": "Karnataka",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "Kerala",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "Maharashtra",
+     "type": "Place",
+     "english_name": "Maharashtra"
+    },
+    {
+     "name": "Punjab",
+     "type": "Place",
+     "english_name": "Punjab"
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": "Rajasthan"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "U.P.",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "West Bengal",
+     "type": "Place",
+     "english_name": "West Bengal"
+    }
+   ],
+   "relations": [
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Delhi",
+     "evidence": "more than one MSEFC set up in States like Delhi"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Gujarat",
+     "evidence": "more than one MSEFC set up in States like Gujarat"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Jammu & Kashmir",
+     "evidence": "more than one MSEFC set up in States like Jammu & Kashmir"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Karnataka",
+     "evidence": "more than one MSEFC set up in States like Karnataka"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Kerala",
+     "evidence": "more than one MSEFC set up in States like Kerala"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Maharashtra",
+     "evidence": "more than one MSEFC set up in States like Maharashtra"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Punjab",
+     "evidence": "more than one MSEFC set up in States like Punjab"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Rajasthan",
+     "evidence": "more than one MSEFC set up in States like Rajasthan"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Tamil Nadu",
+     "evidence": "more than one MSEFC set up in States like Tamil Nadu"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "Telangana",
+     "evidence": "more than one MSEFC set up in States like Telangana"
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "U.P.",
+     "evidence": "more than one MSEFC set up in States like U.P."
+    },
+    {
+     "source": "MSEFCs",
+     "relation": "LOCATED_IN",
+     "target": "West Bengal",
+     "evidence": "more than one MSEFC set up in States like West Bengal"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c9bba0bd6089f5d60eaf998df1b1ba73feb7770": {
+   "entities": [
+    {
+     "name": "PUDUCHERRY",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "PUNJAB",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "RAJASTHAN",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "SIKKIM",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "TAMIL NADU",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "TELANGANA",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "TRIPURA",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "UTTAR PRADESH",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "UTTARAKHAND",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "WEST BENGAL",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Total",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Shri Bhanu Pratap Singh Verma",
+     "type": "Person",
+     "english_name": "Bhanu Pratap Singh Verma"
+    },
+    {
+     "name": "Minister of State for Micro Small and Medium Enterprises",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rajya Sabha",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}
