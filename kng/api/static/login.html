@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sign in — PressMeets RAG</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="login-wrap">
+    <form class="login-card" id="form">
+      <h1>PressMeets RAG</h1>
+      <p class="sub">Grounded, cited search over the YS Jagan press-meet archive.</p>
+
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" autocomplete="username" required autofocus>
+
+      <label for="password">Password</label>
+      <input id="password" name="password" type="password" autocomplete="current-password" required>
+
+      <button class="btn-primary" type="submit" id="submit">Sign in</button>
+      <div class="error" id="error"></div>
+    </form>
+  </div>
+
+  <script>
+    const form = document.getElementById("form");
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const btn = document.getElementById("submit");
+      const err = document.getElementById("error");
+      err.textContent = "";
+      btn.disabled = true;
+      try {
+        const res = await fetch("/api/login", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            email: document.getElementById("email").value,
+            password: document.getElementById("password").value,
+          }),
+        });
+        if (res.ok) { location.href = "/"; return; }
+        const body = await res.json().catch(() => ({}));
+        // The server deliberately returns one message for every failure mode.
+        err.textContent = body.detail || "Sign-in failed.";
+      } catch (e) {
+        err.textContent = "Could not reach the server.";
+      } finally {
+        btn.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>

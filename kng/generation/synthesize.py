@@ -96,6 +96,12 @@ def build_sources(ctx: Context, max_passage_chars: int = MAX_PASSAGE_CHARS) -> l
             "kind": "passage",
             "citation": p.get("citation", ""),
             "source_file": p.get("source_file", ""),
+            # `chunk_id` and `page` are what let a UI open the *cited* passage
+            # rather than the file's first one. Without them a citation reading
+            # "p.7" opens page 1, which quietly undermines the whole point of
+            # citing exactly.
+            "chunk_id": p.get("chunk_id", ""),
+            "page": p.get("page"),
             "press_meet_id": p.get("press_meet_id", ""),
             "date": p.get("date"),
             "language": p.get("language", ""),
@@ -166,8 +172,16 @@ def _render_extras(ctx: Context) -> str:
     return "\n".join(out) + ("\n" if out else "")
 
 
-def answer_language(question: str) -> str:
-    """Configured answer language, or the question's own when set to `auto`."""
+def answer_language(question: str, override: Optional[str] = None) -> str:
+    """Answer language: explicit override, else config, else the question's own.
+
+    `override` exists because settings are frozen when `kng.config` is imported,
+    so a per-request choice (WP5's English/తెలుగు switch) cannot travel through
+    the environment. Accepts a code (`te`) or a display name (`Telugu`).
+    """
+    if override:
+        key = override.strip().lower()
+        return _LANG_NAME.get(key, override.strip())
     configured = (settings().answer_language or "auto").strip().lower()
     if configured and configured != "auto":
         return _LANG_NAME.get(configured, configured)
@@ -175,8 +189,9 @@ def answer_language(question: str) -> str:
     return _LANG_NAME.get(detect_language(question) or "en", "English")
 
 
-def build_prompt(ctx: Context, sources: list[dict]) -> tuple[str, str]:
-    system = _SYSTEM.format(language=answer_language(ctx.question))
+def build_prompt(ctx: Context, sources: list[dict],
+                 language: Optional[str] = None) -> tuple[str, str]:
+    system = _SYSTEM.format(language=answer_language(ctx.question, language))
     user = _USER.format(question=ctx.question,
                         sources=_render_sources(sources),
                         extras=_render_extras(ctx))
@@ -218,7 +233,7 @@ def verify_citations(text: str, sources: list[dict]) -> tuple[str, list[int], li
 def answer(question: str, k: int = 8, *,
            filters: Optional[hybrid.Filters] = None,
            use_graph: bool = True, graph_hops: int = 1,
-           max_tokens: int = 1600,
+           max_tokens: int = 1600, language: Optional[str] = None,
            ctx: Optional[Context] = None) -> Answer:
     """Retrieve, then synthesise a cited answer. One LLM call.
 
@@ -236,7 +251,7 @@ def answer(question: str, k: int = 8, *,
 
     from ..providers import get_llm
     llm = get_llm()
-    system, user = build_prompt(ctx, sources)
+    system, user = build_prompt(ctx, sources, language)
     raw = llm.complete(system, user, temperature=0.1, max_tokens=max_tokens)
     result.diagnostics["llm"] = {
         "model": getattr(llm, "model", "?"), "calls": getattr(llm, "calls", 0),
@@ -258,3 +273,69 @@ def answer(question: str, k: int = 8, *,
     # the rest stay in `sources` for inspection.
     result.diagnostics["sources_used"] = f"{len(cited)} of {len(sources)}"
     return result
+
+
+def stream_answer(question: str, k: int = 8, *,
+                  filters: Optional[hybrid.Filters] = None,
+                  use_graph: bool = True, graph_hops: int = 1,
+                  max_tokens: int = 1600, language: Optional[str] = None,
+                  ctx: Optional[Context] = None):
+    """Same answer, delivered in stages: `sources`, then `delta`s, then `final`.
+
+    Retrieval takes ~0.2 s and synthesis 10-30 s, so the evidence is emitted
+    first and the prose streams behind it. The reader is looking at real,
+    citable sources while the model is still writing.
+
+    **The `final` event is authoritative, not the deltas.** Citations can only be
+    verified once the text is complete, so the streamed prose is provisional and
+    `final` carries the checked version — with any `[n]` that points at no source
+    stripped and counted. A UI must replace what it streamed with `final.text`;
+    presenting the raw stream as the finished answer would show hallucinated
+    citations as though they had been validated.
+    """
+    ctx = ctx if ctx is not None else retrieve(
+        question, k=k, filters=filters, use_graph=use_graph, graph_hops=graph_hops)
+    sources = build_sources(ctx)
+    result = Answer(question=question, sources=sources, diagnostics=dict(ctx.diagnostics))
+    yield ("sources", sources)
+
+    if not sources:
+        result.text = "No passage in the archive matches this question."
+        result.diagnostics["generation"] = "skipped — nothing retrieved"
+        yield ("final", result)
+        return
+
+    from ..providers import get_llm
+    llm = get_llm()
+    system, user = build_prompt(ctx, sources, language)
+    effort = (settings().answer_reasoning_effort or "").strip().lower()
+    pieces: list[str] = []
+    try:
+        for piece in llm.complete_stream(
+                system, user, temperature=0.1, max_tokens=max_tokens,
+                reasoning_effort=None if effort in ("", "null", "none") else effort):
+            pieces.append(piece)
+            yield ("delta", piece)
+    except Exception as e:
+        result.diagnostics["generation"] = f"stream failed: {type(e).__name__}: {e}"
+        yield ("error", result.diagnostics["generation"])
+
+    raw = "".join(pieces)
+    result.diagnostics["llm"] = {
+        "model": getattr(llm, "model", "?"), "calls": getattr(llm, "calls", 0),
+        "failures": getattr(llm, "failures", 0),
+        "prompt_chars": len(system) + len(user), "answer_chars": len(raw),
+    }
+    if not raw:
+        result.diagnostics.setdefault(
+            "generation", f"empty reply — {getattr(llm, 'last_error', '') or 'no error recorded'}")
+        yield ("final", result)
+        return
+
+    clean, cited, invalid, uncited = verify_citations(raw, sources)
+    result.text = clean
+    result.cited = cited
+    result.invalid_citations = invalid
+    result.uncited_sentences = uncited
+    result.diagnostics["sources_used"] = f"{len(cited)} of {len(sources)}"
+    yield ("final", result)

@@ -222,6 +222,39 @@ class SarvamLLM(_Retrying):
         )
         return _unwrap(resp, "content", "text").strip()
 
+    def complete_stream(self, system: str, user: str, temperature: float = 0.2,
+                        max_tokens: int = 2048,
+                        reasoning_effort: Optional[str] = None):
+        """Yield answer text as it is generated. Used by WP5's chat UI.
+
+        Not retried: a stream that dies mid-answer cannot be silently restarted
+        without either duplicating text the caller already emitted or dropping
+        it. The caller sees the exception and decides — the API layer turns it
+        into an `error` event, which is honest about a partial answer.
+
+        `reasoning_effort=None` here means "send JSON null", i.e. reasoning off,
+        matching what WP3 measured as both faster and better. Pass a level
+        explicitly to turn it on.
+        """
+        from .sarvam import chat_completion_stream
+        messages = []
+        if system:
+            messages.append({"role": "system", "content": system})
+        messages.append({"role": "user", "content": user})
+        payload = {
+            "model": self.model, "messages": messages,
+            "temperature": temperature, "max_tokens": max_tokens,
+            "reasoning_effort": reasoning_effort,
+        }
+        self.calls += 1
+        try:
+            for piece in chat_completion_stream(payload):
+                yield piece
+        except Exception as e:
+            self.failures += 1
+            self.last_error = f"{type(e).__name__}: {e}"
+            raise
+
     def clean_document(self, text: str, lang_hint: str = "") -> str:
         """Reformat raw office-doc text to clean Markdown, preserving all content.
         Sized generously so long press releases are not truncated."""
@@ -370,6 +403,15 @@ class FakeLLM(_Retrying):
             sentence = " ".join(body.split())[:220]
             lines.append(f"{sentence} [{n}]")
         return "\n".join(lines)
+
+    def complete_stream(self, system: str, user: str, temperature: float = 0.2,
+                        max_tokens: int = 2048,
+                        reasoning_effort: Optional[str] = None):
+        """Chunked fixture answer, so the streaming path is testable offline."""
+        text = self.complete(system, user, temperature, max_tokens)
+        step = 40
+        for i in range(0, len(text), step):
+            yield text[i:i + step]
 
     def complete_json(self, system: str, user: str, schema: dict[str, Any], *,
                       name: str = "record", description: str = "",

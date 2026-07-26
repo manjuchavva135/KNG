@@ -74,6 +74,22 @@ class Settings:
     # behaviour
     translate_to_en: bool = _bool("TRANSLATE_TO_EN", True)
     answer_language: str = _env("ANSWER_LANGUAGE", "auto")
+    # Reasoning effort for *answer synthesis* (extraction has its own setting).
+    # Default off: WP3 measured `null` as both faster and richer for extraction,
+    # and for synthesis it also cuts time-to-first-token, which the chat UI feels
+    # directly. Set to low|medium|high to turn reasoning back on.
+    answer_reasoning_effort: str = _env("ANSWER_REASONING_EFFORT", "null")
+
+    # WP5 web app
+    api_host: str = _env("API_HOST", "127.0.0.1")
+    api_port: int = _int("API_PORT", 8000)
+    # Signing key for session cookies. No default on purpose — the app refuses to
+    # start without one rather than shipping a guessable secret.
+    session_secret: str = _env("KNG_SESSION_SECRET")
+    session_hours: int = _int("KNG_SESSION_HOURS", 12)
+    # App state that is neither source data nor a build artifact: users, chat
+    # history, query log. Git-ignored.
+    var_dir: str = _env("KNG_VAR_DIR", "var")
 
     # graph build (WP3). Concurrency is the paid-throughput knob: extraction is
     # API-bound, so raising it shortens the run without touching cluster CPU.

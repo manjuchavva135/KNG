@@ -107,8 +107,12 @@ python -m kng.answer "SECI solar tariff" -k 12 --since 2024-01-01
 python -m kng.answer "TTD laddu" --retrieval-only        # free: the evidence, no LLM call
 KNG_FAKE_LLM=1 python -m kng.answer "TTD laddu"          # free: whole path, offline fixture
 
-# 4. Serve the chat web app                      (WP5, not built yet)
-uvicorn kng.api.main:app --reload                # http://localhost:8000
+# 4. Serve the chat web app — PressMeets RAG (WP5)
+pip install -e '.[api]'
+python -m kng.api.users add --email you@example.com --admin   # prompts for password
+KNG_SESSION_SECRET=$(openssl rand -hex 32) \
+  uvicorn kng.api.main:app --host 127.0.0.1 --port 8000       # http://localhost:8000
+KNG_FAKE_LLM=1 KNG_SESSION_SECRET=… uvicorn kng.api.main:app  # free, offline UI work
 
 # 5. Export the portable index for your other system   (WP6, not built yet)
 python -m kng.pipeline.export --out kng_index.tar.gz
@@ -152,8 +156,10 @@ kng/
   store/                 # vector.py (LanceDB) · graph.py (NetworkX/Neo4j)
   retrieval/             # WP4: hybrid.py (vector+BM25+RRF) · graph_context.py
   generation/            # WP4: synthesize.py (grounded prompt + citation check)
-  api/                   # WP5
-tests/  test_wp4.py                # python -m unittest discover -s tests
+  api/                   # WP5: main.py auth.py users.py meta.py sources.py
+    static/              #      index/login/admin html + app.js + styles.css
+tests/                   # python -m unittest discover -s tests  (57 tests)
+var/                     # WP5 app state: users, history, query log (git-ignored)
 config/  ontology.yaml            # graph node/edge types + alias table
 docs/                            # WORK_PACKAGES.md + handovers/
 index/                           # portable output — copy this to the query machine
@@ -175,9 +181,9 @@ Built in independently-resumable work packages; each ends with a handover doc in
 | WP2 | Chunk → embed → LanceDB (RAG works) | ✅ done · 4267 chunks · bge-m3 (1024d) |
 | WP3 | Knowledge graph build | ✅ done · 8120 nodes / 10773 edges / 1157 communities · full corpus, all 33 meets |
 | WP4 | GraphRAG query engine (cited synopsis) | ✅ done · hybrid RRF + graph leg · 34 tests · warm 0.22 s/query |
-| WP5 | FastAPI + chat web UI | ⏳ |
+| WP5 | FastAPI + chat web UI (**PressMeets RAG**) | ✅ done · auth · streaming answers · clickable citations · history · admin |
 | WP6 | Eval, hardening, portable export | ⏳ |
 
-> **Resume point:** WP5. WP3's extraction is fully complete (4251/4251 units) —
-> entity, timeline and cross-meet questions work over the whole archive with no
-> paid work remaining. `data/` is git-ignored (not pushed to GitHub).
+> **Resume point:** WP6. The system is end-to-end usable: extraction is complete
+> (4251/4251 units), the graph spans all 33 meets, and the web app answers with
+> streamed, citation-verified text. `data/` is git-ignored (not pushed to GitHub).

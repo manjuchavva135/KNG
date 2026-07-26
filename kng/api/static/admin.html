@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin — PressMeets RAG</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="topbar">
+    <div class="brand">
+      <span class="mark">PM</span>
+      <span>PressMeets <span class="sub">RAG</span></span>
+    </div>
+    <nav class="nav">
+      <a href="/">Chat</a>
+      <a href="/admin" class="active">Admin</a>
+    </nav>
+    <div class="right">
+      <span class="avatar" id="avatar">?</span>
+      <span id="user-email"></span>
+      <button class="btn-ghost" id="signout">Sign out</button>
+    </div>
+  </div>
+
+  <div style="padding:24px 20px">
+    <div class="panel">
+      <h2>Usage</h2>
+      <div class="stat-row" id="stats"></div>
+    </div>
+
+    <div class="panel">
+      <h2>Corpus</h2>
+      <div class="stat-row" id="corpus"></div>
+    </div>
+
+    <div class="panel">
+      <h2>Users</h2>
+      <table>
+        <thead><tr><th>Email</th><th>Role</th><th>Status</th><th>Created</th><th></th></tr></thead>
+        <tbody id="users"></tbody>
+      </table>
+      <form class="inline-form" id="add-form">
+        <input type="email" id="new-email" placeholder="email" required>
+        <input type="password" id="new-password" placeholder="password (min 8 chars)" required minlength="8">
+        <select id="new-role"><option value="user">user</option><option value="admin">admin</option></select>
+        <button class="btn-small" type="submit">Add user</button>
+      </form>
+      <div class="error" id="user-error"></div>
+    </div>
+
+    <div class="panel">
+      <h2>Recent questions</h2>
+      <p class="note">Citation coverage per answer. Sentences without a citation, and
+        citations the server had to strip, are the two signals worth watching.</p>
+      <table>
+        <thead><tr><th>When</th><th>User</th><th>Question</th><th class="num">Latency</th>
+          <th class="num">Cited</th><th class="num">Uncited</th></tr></thead>
+        <tbody id="queries"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    const el = (id) => document.getElementById(id);
+
+    function stat(container, key, value) {
+      const d = document.createElement("div");
+      d.className = "stat";
+      const v = document.createElement("div");
+      v.className = "v";
+      v.textContent = value === null || value === undefined ? "—" : value;
+      const k = document.createElement("div");
+      k.className = "k";
+      k.textContent = key;
+      d.appendChild(v); d.appendChild(k);
+      container.appendChild(d);
+    }
+
+    async function boot() {
+      const me = await fetch("/api/me");
+      if (!me.ok) { location.href = "/login"; return; }
+      const { user } = await me.json();
+      el("user-email").textContent = user.email;
+      el("avatar").textContent = (user.email[0] || "?").toUpperCase();
+
+      const res = await fetch("/api/admin/stats");
+      if (res.status === 403) {
+        document.body.textContent = "Admin access required.";
+        return;
+      }
+      const { corpus, queries } = await res.json();
+
+      const s = el("stats");
+      stat(s, "questions asked", queries.queries);
+      stat(s, "mean latency (s)", queries.mean_latency_s);
+      stat(s, "mean uncited sentences", queries.mean_uncited_sentences);
+      stat(s, "answers with stripped citations", queries.answers_with_stripped_citations);
+
+      const c = el("corpus");
+      stat(c, "passages indexed", corpus.chunks.toLocaleString());
+      stat(c, "press meets", corpus.press_meets.length);
+      stat(c, "graph nodes", corpus.graph.nodes.toLocaleString());
+      stat(c, "graph edges", corpus.graph.edges.toLocaleString());
+      stat(c, "coverage", `${corpus.coverage.start} → ${corpus.coverage.end}`);
+
+      const qbody = el("queries");
+      (queries.entries || []).forEach((q) => {
+        const tr = document.createElement("tr");
+        [q.ts, q.user, q.question, q.latency_s, q.cited, q.uncited_sentences]
+          .forEach((v, i) => {
+            const td = document.createElement("td");
+            if (i >= 3) td.className = "num";
+            td.textContent = v === null || v === undefined ? "—" : v;
+            tr.appendChild(td);
+          });
+        qbody.appendChild(tr);
+      });
+
+      loadUsers();
+    }
+
+    async function loadUsers() {
+      const { users } = await (await fetch("/api/admin/users")).json();
+      const body = el("users");
+      body.textContent = "";
+      users.forEach((u) => {
+        const tr = document.createElement("tr");
+        [u.email, u.role, u.disabled ? "disabled" : "active", u.created_at]
+          .forEach((v) => {
+            const td = document.createElement("td");
+            td.textContent = v;
+            tr.appendChild(td);
+          });
+        const td = document.createElement("td");
+        const btn = document.createElement("button");
+        btn.className = u.disabled ? "btn-small" : "btn-small warn";
+        btn.textContent = u.disabled ? "Enable" : "Disable";
+        btn.onclick = async () => {
+          const res = await fetch("/api/admin/users/disable", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ email: u.email, disabled: !u.disabled }),
+          });
+          if (!res.ok) {
+            const b = await res.json().catch(() => ({}));
+            el("user-error").textContent = b.detail || "Could not change that user.";
+            return;
+          }
+          el("user-error").textContent = "";
+          loadUsers();
+        };
+        td.appendChild(btn);
+        tr.appendChild(td);
+        body.appendChild(tr);
+      });
+    }
+
+    el("add-form").addEventListener("submit", async (e) => {
+      e.preventDefault();
+      el("user-error").textContent = "";
+      const res = await fetch("/api/admin/users", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email: el("new-email").value,
+          password: el("new-password").value,
+          admin: el("new-role").value === "admin",
+        }),
+      });
+      if (!res.ok) {
+        const b = await res.json().catch(() => ({}));
+        el("user-error").textContent = b.detail || "Could not add that user.";
+        return;
+      }
+      el("new-email").value = ""; el("new-password").value = "";
+      loadUsers();
+    });
+
+    el("signout").onclick = async () => {
+      await fetch("/api/logout", { method: "POST" });
+      location.href = "/login";
+    };
+
+    boot();
+  </script>
+</body>
+</html>

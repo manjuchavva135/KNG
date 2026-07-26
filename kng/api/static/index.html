@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PressMeets RAG</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="topbar">
+    <div class="brand">
+      <span class="mark">PM</span>
+      <span>PressMeets <span class="sub">RAG</span></span>
+    </div>
+    <nav class="nav">
+      <a href="/" class="active">Chat</a>
+      <a href="#" id="nav-history">History</a>
+      <a href="/admin" id="nav-admin" hidden>Admin</a>
+    </nav>
+    <div class="right">
+      <span class="pill" id="graph-pill">graph</span>
+      <span class="avatar" id="avatar">?</span>
+      <span id="user-email"></span>
+      <button class="btn-ghost" id="signout">Sign out</button>
+    </div>
+  </div>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <button class="btn-new" id="new-chat">＋ New chat</button>
+
+      <div class="field">
+        <label>Response language</label>
+        <div class="segmented" id="lang-seg">
+          <button data-lang="" class="on">Auto</button>
+          <button data-lang="en">English</button>
+          <button data-lang="te">తెలుగు</button>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Press meet</label>
+        <select id="f-meet"><option value="">Any press meet</option></select>
+      </div>
+
+      <div class="field">
+        <label>Source type</label>
+        <select id="f-type"><option value="">Any source type</option></select>
+      </div>
+
+      <div class="field">
+        <label>Date range</label>
+        <input type="date" id="f-since">
+        <input type="date" id="f-until">
+        <p class="note" id="coverage"></p>
+      </div>
+
+      <div class="field">
+        <label>Retrieval</label>
+        <div class="checkrow">
+          <input type="checkbox" id="f-graph" checked>
+          <label for="f-graph" style="text-transform:none;letter-spacing:0;font-size:13px;font-weight:400;margin:0">Use graph facts</label>
+        </div>
+        <div style="margin-top:9px">
+          <label for="f-k" style="text-transform:none;letter-spacing:0;font-size:13px;font-weight:400">Passages (k)</label>
+          <input type="number" id="f-k" value="8" min="1" max="30">
+        </div>
+      </div>
+
+      <div class="field" id="history-field" hidden>
+        <label>Recent conversations</label>
+        <div class="history-list" id="history-list"></div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="stream" id="stream">
+        <div class="centered">
+          <div class="empty" id="empty">
+            <div class="logo">PM</div>
+            <h1>Search the press-meet archive</h1>
+            <p>Ask in <strong>English</strong> or <strong>Telugu</strong>. Every answer cites its exact source.</p>
+            <div class="chips">
+              <button class="chip">తిరుమల లడ్డూ నెయ్యి కల్తీ వివాదం గురించి జగన్ ఏమన్నారు?</button>
+              <button class="chip">మద్యం కుంభకోణం ఆరోపణలు ఏమిటి?</button>
+              <button class="chip">What did Jagan say about the SECI solar tariff?</button>
+              <button class="chip">What did the AP budget allocate, and what did he dispute?</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="composer">
+        <div class="row">
+          <textarea id="q" rows="1" placeholder="Ask in English or Telugu… (Enter to send, Shift+Enter for new line)"></textarea>
+          <button class="btn-send" id="send" title="Send">➤</button>
+        </div>
+        <p class="disclaimer">PressMeets RAG can make mistakes. Always check the cited source.</p>
+      </div>
+    </main>
+  </div>
+
+  <div class="drawer" id="drawer">
+    <header>
+      <strong id="drawer-title">Source</strong>
+      <button class="btn-x" id="drawer-close">×</button>
+    </header>
+    <div class="body">
+      <div class="kv" id="drawer-meta"></div>
+      <div class="passage" id="drawer-text"></div>
+      <div id="drawer-neighbours"></div>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

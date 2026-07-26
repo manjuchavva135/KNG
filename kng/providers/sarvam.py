@@ -6,6 +6,7 @@ not yet expose. All auth uses the `api-subscription-key` header.
 """
 from __future__ import annotations
 
+import json
 import threading
 import time
 from functools import lru_cache
@@ -138,6 +139,53 @@ def chat_completion(payload: dict) -> dict:
         raise httpx.HTTPStatusError(
             f"{r.status_code}: {r.text[:400]}", request=r.request, response=r)
     return r.json()
+
+
+def chat_completion_stream(payload: dict):
+    """POST /v1/chat/completions with `stream: true`, yielding content deltas.
+
+    WP5's chat UI needs the answer to appear as it is written: synthesis takes
+    10-30 s, and a blank page for that long reads as broken. Retrieval evidence
+    can be shown almost immediately, but the prose has to stream.
+
+    Goes through the same rate limiter and the same keep-alive-disabled client as
+    `chat_completion` — both of those were paid for in dead runs (see `_http`)
+    and apply identically here. Yields only assistant text; reasoning deltas and
+    the `[DONE]` sentinel are skipped.
+    """
+    import os
+    import sys
+
+    import httpx
+    trace = os.environ.get("KNG_LLM_TRACE", "").lower() in {"1", "true", "yes", "on"}
+    t0 = time.monotonic()
+    _limiter().acquire()
+    t1 = time.monotonic()
+    chars = 0
+    with _http().stream("POST", f"{SARVAM_BASE}/v1/chat/completions",
+                        json={**payload, "stream": True}) as r:
+        if r.status_code >= 400:
+            body = r.read().decode("utf-8", "replace")[:400]
+            raise httpx.HTTPStatusError(f"{r.status_code}: {body}",
+                                        request=r.request, response=r)
+        for line in r.iter_lines():
+            if not line or not line.startswith("data:"):
+                continue
+            data = line[len("data:"):].strip()
+            if data == "[DONE]":
+                break
+            try:
+                event = json.loads(data)
+            except ValueError:              # a keep-alive or partial frame
+                continue
+            for choice in event.get("choices") or []:
+                piece = (choice.get("delta") or {}).get("content")
+                if piece:
+                    chars += len(piece)
+                    yield piece
+    if trace:
+        print(f"[llm] wait={t1 - t0:5.1f}s stream={time.monotonic() - t1:6.1f}s "
+              f"chars={chars}", file=sys.stderr, flush=True)
 
 
 def _unwrap(resp, *names: str) -> str:

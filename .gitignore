@@ -34,5 +34,9 @@ web/dist/
 
 # run logs
 *.log
-# pid of the running pipeline pass — kill by this, never `pkill -f`
-graph.pid
+# pid files of running passes / servers — kill by these, never `pkill -f`
+*.pid
+
+# WP5 application state: password hashes, per-user chat history, query log.
+# Deployment state and real user questions — never committed, never shared.
+/var/

@@ -76,9 +76,10 @@ See [docs/WORK_PACKAGES.md](docs/WORK_PACKAGES.md) for the WP tracker and
 `~/.claude/plans/act-as-a-software-snuggly-pond.md` (Revision 1 = Sarvam-first
 universal extraction + progress tracking).
 
-**Current resume point: WP5 (FastAPI + chat UI).** WP3's paid pass is **fully
-complete — 4251/4251 units, entire corpus** — and WP4 answers with graph facts.
-No paid work remains. Pipeline state as of 2026-07-26:
+**Current resume point: WP6 (eval, hardening, export).** WP3's paid pass is
+**fully complete — 4251/4251 units, entire corpus**, WP4 answers with graph facts,
+and WP5 ships the **PressMeets RAG** web app (auth, streamed answers, clickable
+citations, history, admin). No paid work remains. State as of 2026-07-26:
 
 | stage | result |
 |---|---|
@@ -89,6 +90,7 @@ No paid work remains. Pipeline state as of 2026-07-26:
 | graph — LLM extraction (WP3, **done, full corpus**) | **4251 / 4251 units · 1 unrecoverable failure** (17KB non-JSON reply) · 4234 cached records |
 | graph — **final** in `index/graph` | **8120 nodes · 10773 edges · 1157 communities** (22 summarised — the rest are singletons or pairs below phase E's `min_size=3`) |
 | query (WP4) | `kng.answer` — hybrid RRF + graph facts + verified citations · cold 13.8 s (bge-m3 load) / **warm 0.22 s** per query |
+| app (WP5) | **PressMeets RAG** — `uvicorn kng.api.main:app` · auth, SSE token streaming, citation → passage viewer, history, admin · real answer measured at 352 deltas / 17 s with 0 invalid citations |
 
 No paid extraction work remains. To re-run after a prompt-version bump or new
 source files (re-bills only what changed — the content-hash cache is the record):
@@ -105,7 +107,16 @@ benchmark configs first with `scripts/bench_extract.py`.
 
 Handovers: [WP1b](docs/handovers/WP1b-sarvam-revision.md) ·
 [WP2](docs/handovers/WP2-index.md) · [WP3](docs/handovers/WP3-graph.md) ·
-[WP4](docs/handovers/WP4-query.md).
+[WP4](docs/handovers/WP4-query.md) · [WP5](docs/handovers/WP5-app.md).
+
+Run the app (see [WP5 handover](docs/handovers/WP5-app.md) for the security posture):
+
+```bash
+pip install -e '.[api]'
+python -m kng.api.users add --email you@example.com --admin
+KNG_SESSION_SECRET=$(openssl rand -hex 32) uvicorn kng.api.main:app --port 8000
+KNG_FAKE_LLM=1 KNG_SESSION_SECRET=dev uvicorn kng.api.main:app   # free UI work
+```
 
 ### Hard-won facts (don't rediscover these)
 
@@ -246,6 +257,30 @@ paid record under it. `_fp_acceptable` accepts any real provider/model at the
 current `PROMPT_VERSION` and always rejects `FakeLLM`, so the fixture guardrail
 survives while 105b and 30b records coexist.
 
+### WP5 app facts
+
+**The `final` SSE event is authoritative; deltas are provisional.** Citations
+cannot be verified until the model stops, so `stream_answer` streams raw text and
+then emits `final` with `verify_citations` applied. The client must replace what it
+streamed — showing the raw stream as finished would present a hallucinated `[9]`
+as validated.
+
+**Sources need `chunk_id` and `page` to be openable.** `build_sources` carries
+both; without them the viewer falls back to a file's first chunk, so a citation
+reading "p.7" silently opens p.1. Caught in WP5 verification.
+
+**`var/` is git-ignored and must stay so** — it holds scrypt password hashes,
+per-user chat history, and a query log of real questions.
+
+**`KNG_SESSION_SECRET` has no default**; the app refuses to start without it,
+because a predictable signing key lets anyone forge an admin cookie. Auth is
+app-level for a small trusted deployment: loopback by default, no TLS, no CSRF
+tokens, no password reset — put it behind an HTTPS proxy before exposing it.
+
+**`auth.var_dir()` and `auth._secret()` read the environment at call time**, not
+through `Settings`, precisely because settings freeze at import — that is what lets
+tests redirect state and supply a secret after importing the app.
+
 **The extraction cache, not the manifest, decides paid work.** They desync — a
 fixture run once marked all 635 files done and a real pass then extracted
 nothing while reporting success. Cache entries are fingerprinted by
@@ -265,9 +300,12 @@ kng/pipeline/     manifest.py metadata.py normalize.py chunk.py embed.py graph_b
 kng/pipeline/extract/  documents.py media.py
 kng/store/        vector.py(LanceDB, WP2)  graph.py(WP3)
 kng/retrieval/    hybrid.py(vector+BM25+RRF) graph_context.py   # WP4
-kng/generation/   synthesize.py(prompt + citation verification) # WP4
-kng/api/                                                        # WP5
-tests/            test_wp4.py    # python -m unittest discover -s tests
+kng/generation/   synthesize.py(prompt + citation verification, stream_answer)
+kng/api/          main.py auth.py users.py meta.py sources.py history.py  # WP5
+kng/api/static/   index.html login.html admin.html app.js styles.css
+scripts/          bench_extract.py package_index.sh
+tests/            test_wp4.py test_graph_cache.py test_api.py   # 57 tests
+var/              users.json history/ queries.jsonl   # WP5 state, git-ignored
 config/ontology.yaml   docs/   extracted/
 scripts/ package_index.sh               # tar index/+extracted/ with checksum
 index/   manifest.json stats.json chunks/ lancedb/ graph/   # committed to git
@@ -288,7 +326,7 @@ python -m kng.pipeline.run --stage graph --plan-only        # paid-pass cost rep
 python -m kng.pipeline.run --stage graph --structural-only  # free metadata graph
 python -m kng.stats                          # per-stage doc counts (WP1b+)
 python -m kng.query "Tirupati laddu" -k 5    # retrieval + citations (WP2+)
-python -m unittest discover -s tests         # WP4 pure-logic suite, 20 tests
+python -m unittest discover -s tests         # 57 tests, no network or key needed
 python -m kng.answer "TTD laddu" --retrieval-only    # WP4 evidence, no LLM call
 KNG_FAKE_LLM=1 python -m kng.answer "TTD laddu"      # WP4 end-to-end, offline
 python -m kng.graph_query stats                                # graph (WP3+)
