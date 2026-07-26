@@ -32,7 +32,11 @@ async function boot() {
 
   state.meta = await (await fetch("/api/meta")).json();
   fillFilters(state.meta);
-  loadHistory();
+  await loadHistory();
+
+  // `/?session=<id>` is how the History page continues a conversation here.
+  const wanted = new URLSearchParams(location.search).get("session");
+  if (wanted) openSession(wanted);
 }
 
 function fillFilters(meta) {
@@ -81,7 +85,15 @@ async function loadHistory() {
 
 async function openSession(id) {
   const res = await fetch(`/api/history/${encodeURIComponent(id)}`);
-  if (!res.ok) return;
+  if (!res.ok) {
+    // A deep link to a conversation that has since been deleted must say so
+    // rather than silently showing an empty chat.
+    const bar = document.createElement("div");
+    bar.className = "warnbar";
+    bar.textContent = `That conversation is no longer in your history (${res.status}).`;
+    (document.querySelector("#stream .centered") || el("stream")).prepend(bar);
+    return;
+  }
   const session = await res.json();
   state.sessionId = session.session_id;
   const stream = el("stream");
@@ -361,12 +373,6 @@ el("lang-seg").addEventListener("click", (e) => {
 el("new-chat").onclick = () => {
   state.sessionId = null;
   location.reload();
-};
-
-el("nav-history").onclick = (e) => {
-  e.preventDefault();
-  el("history-field").hidden = false;
-  loadHistory();
 };
 
 el("drawer-close").onclick = () => el("drawer").classList.remove("open");

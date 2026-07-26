@@ -113,6 +113,9 @@ python -m kng.api.users add --email you@example.com --admin   # prompts for pass
 KNG_SESSION_SECRET=$(openssl rand -hex 32) \
   uvicorn kng.api.main:app --host 127.0.0.1 --port 8000       # http://localhost:8000
 KNG_FAKE_LLM=1 KNG_SESSION_SECRET=… uvicorn kng.api.main:app  # free, offline UI work
+#    pages: /  chat · /history  search & reopen past answers · /admin  accounts + usage
+python -m kng.api.users role   --email them@example.com --role admin
+python -m kng.api.users delete --email them@example.com --yes  # + their history
 
 # 5. Export the portable index for your other system   (WP6, not built yet)
 python -m kng.pipeline.export --out kng_index.tar.gz
@@ -156,9 +159,9 @@ kng/
   store/                 # vector.py (LanceDB) · graph.py (NetworkX/Neo4j)
   retrieval/             # WP4: hybrid.py (vector+BM25+RRF) · graph_context.py
   generation/            # WP4: synthesize.py (grounded prompt + citation check)
-  api/                   # WP5: main.py auth.py users.py meta.py sources.py
-    static/              #      index/login/admin html + app.js + styles.css
-tests/                   # python -m unittest discover -s tests  (57 tests)
+  api/                   # WP5: main.py auth.py users.py meta.py sources.py history.py
+    static/              #      index/login/history/admin html + app/history/admin js
+tests/                   # python -m unittest discover -s tests  (79 tests)
 var/                     # WP5 app state: users, history, query log (git-ignored)
 config/  ontology.yaml            # graph node/edge types + alias table
 docs/                            # WORK_PACKAGES.md + handovers/
@@ -181,7 +184,7 @@ Built in independently-resumable work packages; each ends with a handover doc in
 | WP2 | Chunk → embed → LanceDB (RAG works) | ✅ done · 4267 chunks · bge-m3 (1024d) |
 | WP3 | Knowledge graph build | ✅ done · 8120 nodes / 10773 edges / 1157 communities · full corpus, all 33 meets |
 | WP4 | GraphRAG query engine (cited synopsis) | ✅ done · hybrid RRF + graph leg · 34 tests · warm 0.22 s/query |
-| WP5 | FastAPI + chat web UI (**PressMeets RAG**) | ✅ done · auth · streaming answers · clickable citations · history · admin |
+| WP5 | FastAPI + chat web UI (**PressMeets RAG**) | ✅ done · auth (sessions revocable) · streaming answers · clickable citations · History page · admin console with account deletion · 79 tests · 31 browser checks |
 | WP6 | Eval, hardening, portable export | ⏳ |
 
 > **Resume point:** WP6. The system is end-to-end usable: extraction is complete

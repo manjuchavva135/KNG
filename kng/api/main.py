@@ -19,7 +19,8 @@ import time
 from typing import Any, Optional
 
 from fastapi import Depends, FastAPI, HTTPException, Request, Response
-from fastapi.responses import FileResponse, HTMLResponse, JSONResponse, StreamingResponse
+from fastapi.responses import (FileResponse, HTMLResponse, RedirectResponse,
+                               StreamingResponse)
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
@@ -71,6 +72,27 @@ class DisableBody(BaseModel):
     disabled: bool = True
 
 
+class RoleBody(BaseModel):
+    email: str
+    role: str = Field(pattern="^(user|admin)$")
+
+
+class PasswordBody(BaseModel):
+    email: str
+    password: str = Field(min_length=8)
+
+
+class DeleteUserBody(BaseModel):
+    email: str
+    # The client must echo the address it means to delete. A mis-click on a row
+    # button should not be able to remove an account and its history.
+    confirm: str
+
+
+class RenameBody(BaseModel):
+    title: str = Field(min_length=1, max_length=120)
+
+
 # ── auth dependencies ──────────────────────────────────────────────────────────
 def current_user(request: Request) -> auth.User:
     user = auth.user_from_token(request.cookies.get(auth.COOKIE_NAME, ""))
@@ -88,16 +110,16 @@ def admin_user(user: auth.User = Depends(current_user)) -> auth.User:
 @app.post("/api/login")
 def login(body: LoginBody, request: Request, response: Response) -> dict[str, Any]:
     ip = request.client.host if request.client else "?"
-    if auth.throttled(ip):
+    if auth.throttled(ip, body.email):
         raise HTTPException(status_code=429,
                             detail="too many attempts — wait a few minutes")
     user = auth.authenticate(body.email, body.password)
     if user is None:
-        auth.record_attempt(ip)
+        auth.record_attempt(ip, body.email)
         # One message for every failure: a wrong password, an unknown address and
         # a disabled account must be indistinguishable from outside.
         raise HTTPException(status_code=401, detail="invalid email or password")
-    auth.clear_attempts(ip)
+    auth.clear_attempts(ip, body.email)
     response.set_cookie(
         auth.COOKIE_NAME, auth.issue_token(user),
         httponly=True, samesite="lax",
@@ -107,8 +129,11 @@ def login(body: LoginBody, request: Request, response: Response) -> dict[str, An
 
 
 @app.post("/api/logout")
-def logout(response: Response) -> dict[str, bool]:
-    response.delete_cookie(auth.COOKIE_NAME, path="/")
+def logout(request: Request, response: Response) -> dict[str, bool]:
+    # The attributes must match the ones the cookie was set with, or the browser
+    # keeps the original and "Sign out" only appears to work.
+    response.delete_cookie(auth.COOKIE_NAME, path="/", httponly=True,
+                           samesite="lax", secure=request.url.scheme == "https")
     return {"ok": True}
 
 
@@ -238,8 +263,15 @@ def get_raw(file: str, user: auth.User = Depends(current_user)) -> FileResponse:
 
 # ── history ────────────────────────────────────────────────────────────────────
 @app.get("/api/history")
-def get_history(user: auth.User = Depends(current_user)) -> dict[str, Any]:
-    return {"sessions": history.list_sessions(user.id)}
+def get_history(q: Optional[str] = None, limit: int = 200,
+                user: auth.User = Depends(current_user)) -> dict[str, Any]:
+    """This user's conversations, newest first. `q` searches titles *and* turns.
+
+    Scoped to `user.id` throughout — history is per account, and one user must
+    never be able to read another's questions by guessing a session id.
+    """
+    sessions = history.list_sessions(user.id, limit=max(1, min(limit, 500)), q=q)
+    return {"sessions": sessions, "query": q or ""}
 
 
 @app.get("/api/history/{session_id}")
@@ -251,10 +283,24 @@ def get_history_session(session_id: str,
     return session
 
 
+@app.patch("/api/history/{session_id}")
+def rename_history_session(session_id: str, body: RenameBody,
+                           user: auth.User = Depends(current_user)) -> dict[str, Any]:
+    title = history.rename_session(user.id, session_id, body.title)
+    if title is None:
+        raise HTTPException(status_code=404, detail="no such conversation")
+    return {"session_id": session_id, "title": title}
+
+
 @app.delete("/api/history/{session_id}")
 def delete_history_session(session_id: str,
                            user: auth.User = Depends(current_user)) -> dict[str, bool]:
     return {"deleted": history.delete_session(user.id, session_id)}
+
+
+@app.delete("/api/history")
+def clear_history(user: auth.User = Depends(current_user)) -> dict[str, int]:
+    return {"deleted": history.delete_all(user.id)}
 
 
 # ── admin ──────────────────────────────────────────────────────────────────────
@@ -277,14 +323,92 @@ def admin_add_user(body: UserBody,
 @app.post("/api/admin/users/disable")
 def admin_disable_user(body: DisableBody,
                        user: auth.User = Depends(admin_user)) -> dict[str, Any]:
-    if body.email.strip().lower() == user.email and body.disabled:
+    email = body.email.strip().lower()
+    if email == user.email and body.disabled:
         # Locking the last admin out of their own instance needs a shell to undo.
         raise HTTPException(status_code=400, detail="you cannot disable yourself")
+    if body.disabled and _would_orphan(email):
+        raise HTTPException(status_code=400,
+                            detail="that is the last enabled admin — promote "
+                                   "someone else first")
     try:
         changed = auth.set_disabled(body.email, body.disabled)
     except ValueError as e:
         raise HTTPException(status_code=404, detail=str(e))
     return {"user": changed.public()}
+
+
+def _would_orphan(email: str) -> bool:
+    """True if removing this account's admin rights leaves no way back in.
+
+    Every destructive admin action funnels through here. An instance with no
+    enabled admin can only be repaired from a shell on the host, which for a
+    deployment someone else is running means a support call.
+    """
+    target = auth.get_user(email)
+    if target is None or not target.is_admin or target.disabled:
+        return False
+    return auth.admin_count(exclude_email=email) == 0
+
+
+@app.post("/api/admin/users/role")
+def admin_set_role(body: RoleBody,
+                   user: auth.User = Depends(admin_user)) -> dict[str, Any]:
+    email = body.email.strip().lower()
+    if body.role == "user" and _would_orphan(email):
+        raise HTTPException(status_code=400,
+                            detail="that is the last enabled admin — promote "
+                                   "someone else first")
+    try:
+        changed = auth.set_role(body.email, body.role)
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    return {"user": changed.public()}
+
+
+@app.post("/api/admin/users/password")
+def admin_set_password(body: PasswordBody,
+                       user: auth.User = Depends(admin_user)) -> dict[str, Any]:
+    """Reset a password. Every session that account had stops working.
+
+    `auth.set_password` bumps the record's credential version, which every issued
+    token pins — so a cookie stolen before the reset is dead, which is the whole
+    reason an admin resets a password in the first place.
+    """
+    try:
+        changed = auth.set_password(body.email, body.password)
+    except ValueError as e:
+        code = 404 if str(e).startswith("no such user") else 400
+        raise HTTPException(status_code=code, detail=str(e))
+    return {"user": changed.public(), "sessions_revoked": True}
+
+
+@app.post("/api/admin/users/delete")
+def admin_delete_user(body: DeleteUserBody,
+                      user: auth.User = Depends(admin_user)) -> dict[str, Any]:
+    """Delete an account and its conversation history. Not reversible.
+
+    Refused in three cases: deleting yourself (an admin locking themselves out),
+    deleting the last enabled admin, and a `confirm` field that does not echo the
+    address — the UI asks the operator to type it.
+    """
+    email = body.email.strip().lower()
+    if email != body.confirm.strip().lower():
+        raise HTTPException(status_code=400,
+                            detail="type the address to confirm the deletion")
+    if email == user.email:
+        raise HTTPException(status_code=400, detail="you cannot delete your own account")
+    if _would_orphan(email):
+        raise HTTPException(status_code=400,
+                            detail="that is the last enabled admin — promote "
+                                   "someone else first")
+    try:
+        removed = auth.delete_user(body.email)
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    # The account is gone; its questions must go with it.
+    conversations = history.purge_user(removed.id)
+    return {"deleted": removed.public(), "conversations_deleted": conversations}
 
 
 @app.get("/api/admin/stats")
@@ -301,8 +425,14 @@ def _page(name: str) -> HTMLResponse:
     return HTMLResponse(fp.read_text(encoding="utf-8"))
 
 
+def _signed_in(request: Request) -> Optional[auth.User]:
+    return auth.user_from_token(request.cookies.get(auth.COOKIE_NAME, ""))
+
+
 @app.get("/login")
-def login_page() -> HTMLResponse:
+def login_page(request: Request) -> Any:
+    if _signed_in(request) is not None:
+        return RedirectResponse("/", status_code=303)
     return _page("login.html")
 
 
@@ -312,11 +442,15 @@ def admin_page() -> HTMLResponse:
     return _page("admin.html")
 
 
+@app.get("/history")
+def history_page() -> HTMLResponse:
+    return _page("history.html")
+
+
 @app.get("/")
 def index(request: Request) -> Any:
-    if auth.user_from_token(request.cookies.get(auth.COOKIE_NAME, "")) is None:
-        return JSONResponse(status_code=307, content={"redirect": "/login"},
-                            headers={"Location": "/login"})
+    if _signed_in(request) is None:
+        return RedirectResponse("/login", status_code=303)
     return _page("index.html")
 
 

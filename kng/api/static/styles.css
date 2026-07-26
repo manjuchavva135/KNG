@@ -105,7 +105,8 @@ body {
   display: block; font-size: 11px; font-weight: 700; letter-spacing: .9px;
   text-transform: uppercase; color: var(--ink-soft); margin-bottom: 7px;
 }
-.field select, .field input[type="date"], .field input[type="number"] {
+.field select, .field input[type="date"], .field input[type="number"],
+.field input[type="search"], .field input[type="text"] {
   width: 100%; padding: 8px 9px; border: 1px solid var(--line);
   border-radius: 8px; background: var(--card); color: var(--ink); font: inherit; font-size: 13px;
 }
@@ -208,6 +209,69 @@ body {
 .btn-send:disabled { background: #b9c4d4; cursor: not-allowed; }
 .disclaimer { text-align: center; font-size: 11.5px; color: var(--ink-soft); margin: 8px 0 0; }
 
+/* ── history page ────────────────────────────────────────────────────── */
+.page-head { margin-bottom: 18px; }
+.page-head h1 { font-size: 22px; margin: 0 0 4px; color: var(--navy); }
+.page-head .note { margin-top: 0; font-size: 13px; }
+
+h2.day {
+  font-size: 11px; text-transform: uppercase; letter-spacing: .9px;
+  color: var(--ink-soft); margin: 22px 0 9px; font-weight: 700;
+}
+
+.hcard {
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 14px 16px; margin-bottom: 10px; box-shadow: var(--shadow);
+}
+.hcard-head { display: flex; align-items: baseline; gap: 12px; }
+.hcard-title {
+  border: 0; background: transparent; padding: 0; cursor: pointer; text-align: left;
+  font: inherit; font-size: 15px; font-weight: 600; color: var(--navy); flex: 1;
+}
+.hcard-title:hover { color: var(--green); text-decoration: underline; }
+.hcard-when {
+  font-size: 11.5px; color: var(--ink-soft); white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.hcard-preview {
+  margin: 7px 0 10px; font-size: 13.5px; color: var(--ink-soft); line-height: 1.5;
+}
+
+.hcard-badges { display: flex; flex-wrap: wrap; gap: 6px; }
+.hbadge {
+  font-size: 11px; background: #eef3fa; color: var(--ink-soft);
+  padding: 2px 8px; border-radius: 999px; letter-spacing: .2px;
+}
+.hbadge.warn { background: #fff8e3; color: #8a6100; border: 1px solid #ffe08a; }
+
+.hcard-actions {
+  display: flex; flex-wrap: wrap; gap: 14px; margin-top: 12px;
+  padding-top: 10px; border-top: 1px solid var(--line);
+}
+.btn-link {
+  border: 0; background: transparent; padding: 0; cursor: pointer;
+  font: inherit; font-size: 13px; font-weight: 600; color: var(--green);
+}
+.btn-link:hover { text-decoration: underline; }
+.btn-link.danger { color: var(--danger); }
+
+.stat-col { display: flex; flex-direction: column; gap: 5px; }
+.stat-line {
+  display: flex; justify-content: space-between; gap: 10px;
+  font-size: 12.5px; color: var(--ink-soft);
+}
+.stat-line strong { color: var(--navy); font-variant-numeric: tabular-nums; }
+
+.empty-note {
+  display: flex; flex-direction: column; gap: 4px; padding: 26px 0;
+  color: var(--ink-soft); font-size: 14px;
+}
+.empty-note strong { color: var(--ink); }
+/* A class that sets `display` beats the UA rule behind the `hidden` attribute,
+   so `el.hidden = true` alone left "No conversations yet." on screen under a
+   full list. Anything hidden by attribute must say so louder than its class. */
+[hidden] { display: none !important; }
+
 /* ── source drawer ───────────────────────────────────────────────────── */
 .drawer {
   position: fixed; top: 0; right: 0; width: min(560px, 92vw); height: 100vh;
@@ -222,7 +286,9 @@ body {
   display: flex; align-items: center; gap: 10px;
 }
 .drawer header strong { font-size: 14px; }
-.drawer .body { padding: 16px 18px; overflow-y: auto; flex: 1; }
+/* OCR'd text contains long unbroken runs (URLs, table rows); without this they
+   push past the drawer's edge instead of wrapping inside it. */
+.drawer .body { padding: 16px 18px; overflow-y: auto; flex: 1; overflow-wrap: anywhere; }
 .drawer .passage { white-space: pre-wrap; font-size: 14px; }
 .drawer .kv { font-size: 12.5px; color: var(--ink-soft); margin-bottom: 12px; }
 .btn-x { margin-left: auto; border: 0; background: transparent; font-size: 20px; cursor: pointer; color: var(--ink-soft); }
@@ -276,6 +342,14 @@ td.num { text-align: right; font-variant-numeric: tabular-nums; }
   font: inherit; font-size: 13px; cursor: pointer;
 }
 .btn-small.warn { background: var(--danger); }
+.btn-small.ghost { background: #eef3fa; color: var(--navy); }
+.btn-small:disabled { opacity: .55; cursor: not-allowed; }
+.row-actions { display: flex; gap: 6px; flex-wrap: wrap; }
+.panel h3.sub-head {
+  font-size: 11px; text-transform: uppercase; letter-spacing: .8px;
+  color: var(--ink-soft); margin: 20px 0 4px;
+}
+.ok { color: var(--green); font-size: 13px; margin-top: 6px; min-height: 18px; }
 
 @media (max-width: 860px) {
   .sidebar { display: none; }

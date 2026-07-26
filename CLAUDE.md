@@ -90,7 +90,7 @@ citations, history, admin). No paid work remains. State as of 2026-07-26:
 | graph — LLM extraction (WP3, **done, full corpus**) | **4251 / 4251 units · 1 unrecoverable failure** (17KB non-JSON reply) · 4234 cached records |
 | graph — **final** in `index/graph` | **8120 nodes · 10773 edges · 1157 communities** (22 summarised — the rest are singletons or pairs below phase E's `min_size=3`) |
 | query (WP4) | `kng.answer` — hybrid RRF + graph facts + verified citations · cold 13.8 s (bge-m3 load) / **warm 0.22 s** per query |
-| app (WP5) | **PressMeets RAG** — `uvicorn kng.api.main:app` · auth, SSE token streaming, citation → passage viewer, history, admin · real answer measured at 352 deltas / 17 s with 0 invalid citations |
+| app (WP5) | **PressMeets RAG** — `uvicorn kng.api.main:app` · auth with revocable sessions, SSE token streaming, citation → passage viewer, **History page** (search/rename/delete/reopen), **admin console** (roles, password reset, account deletion) · real answer measured at 352 deltas / 17 s with 0 invalid citations · 79 tests + 31 browser checks |
 
 No paid extraction work remains. To re-run after a prompt-version bump or new
 source files (re-bills only what changed — the content-hash cache is the record):
@@ -275,7 +275,41 @@ per-user chat history, and a query log of real questions.
 **`KNG_SESSION_SECRET` has no default**; the app refuses to start without it,
 because a predictable signing key lets anyone forge an admin cookie. Auth is
 app-level for a small trusted deployment: loopback by default, no TLS, no CSRF
-tokens, no password reset — put it behind an HTTPS proxy before exposing it.
+tokens, no self-service password reset — put it behind an HTTPS proxy before
+exposing it.
+
+**Sessions are revoked through the user record, not a session table.** Each record
+carries `cred_version`; `issue_token` pins it as `cv` and `user_from_token`
+compares the two on every request. Without it a password reset changed only what
+the owner types — a cookie stolen beforehand kept working until it expired, while
+the admin who reset it believed the account was secured. A token with no `cv`
+counts as version 1, so adding this signed nobody out. `set_password` bumps it;
+deleting or disabling an account is caught by the same re-read.
+
+**Every login path must do one scrypt verification.** The disabled-account branch
+used to return before hashing, so it answered ~80 ms faster than a wrong password:
+the message said "invalid email or password" while the response time said "this
+account exists and is switched off". The login throttle counts per IP **and** per
+account — behind a proxy all users share one IP, and one IP spraying one password
+across many accounts never trips a per-IP counter.
+
+**Deleting an account purges its history** (`history.purge_user`). Questions must
+not outlive the account that asked them. Guards, enforced server-side and mirrored
+as disabled buttons: no deleting/disabling yourself, no removing or demoting the
+last enabled admin, and a delete must echo the address in `confirm`.
+
+**In CSS, a class that sets `display` beats the `hidden` attribute.** `el.hidden =
+true` left "No conversations yet." on screen above a full list, because
+`.empty-note { display: flex }` won. `[hidden] { display: none !important }` is in
+`styles.css` — do not remove it.
+
+**Screenshot the UI before believing it.** Both of the above were invisible to the
+API tests and obvious in a screenshot. `playwright` drives system Chrome with
+`executable_path="/usr/bin/google-chrome"` (no browser download); point it at a
+throwaway `KNG_VAR_DIR` with `KNG_FAKE_LLM=1` so a run never touches real user
+state and costs nothing. Two harness traps: drawers animate for 180 ms, so wait
+before capturing or you photograph a mid-slide panel; and a `page.once("dialog")`
+handler that never fires stays registered and hijacks the next dialog.
 
 **`auth.var_dir()` and `auth._secret()` read the environment at call time**, not
 through `Settings`, precisely because settings freeze at import — that is what lets
@@ -302,9 +336,9 @@ kng/store/        vector.py(LanceDB, WP2)  graph.py(WP3)
 kng/retrieval/    hybrid.py(vector+BM25+RRF) graph_context.py   # WP4
 kng/generation/   synthesize.py(prompt + citation verification, stream_answer)
 kng/api/          main.py auth.py users.py meta.py sources.py history.py  # WP5
-kng/api/static/   index.html login.html admin.html app.js styles.css
+kng/api/static/   index/login/history/admin .html · app.js history.js admin.js styles.css
 scripts/          bench_extract.py package_index.sh
-tests/            test_wp4.py test_graph_cache.py test_api.py   # 57 tests
+tests/            test_wp4.py test_graph_cache.py test_api.py   # 79 tests
 var/              users.json history/ queries.jsonl   # WP5 state, git-ignored
 config/ontology.yaml   docs/   extracted/
 scripts/ package_index.sh               # tar index/+extracted/ with checksum
@@ -326,7 +360,7 @@ python -m kng.pipeline.run --stage graph --plan-only        # paid-pass cost rep
 python -m kng.pipeline.run --stage graph --structural-only  # free metadata graph
 python -m kng.stats                          # per-stage doc counts (WP1b+)
 python -m kng.query "Tirupati laddu" -k 5    # retrieval + citations (WP2+)
-python -m unittest discover -s tests         # 57 tests, no network or key needed
+python -m unittest discover -s tests         # 79 tests, no network or key needed
 python -m kng.answer "TTD laddu" --retrieval-only    # WP4 evidence, no LLM call
 KNG_FAKE_LLM=1 python -m kng.answer "TTD laddu"      # WP4 end-to-end, offline
 python -m kng.graph_query stats                                # graph (WP3+)

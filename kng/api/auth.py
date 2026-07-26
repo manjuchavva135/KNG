@@ -12,9 +12,18 @@ What it does do carefully:
 * both password and session-token checks use `hmac.compare_digest`, so neither
   leaks its answer through timing;
 * sessions are HMAC-SHA256-signed tokens in an httpOnly, SameSite=Lax cookie,
-  carrying only an id, role and expiry — no server-side session table to lose;
+  carrying an id, role, expiry and **credential version** — no server-side
+  session table to lose, but still revocable (see below);
 * the signing secret has **no default**. A guessable default would let anyone
   mint an admin cookie, so the app refuses to start without `KNG_SESSION_SECRET`.
+
+**Changing a password revokes every session that account already has.** Each
+record carries a `cred_version` that `set_password` increments and every token
+pins; a token whose `cv` no longer matches the record is refused. Without it a
+password reset was cosmetic — the attacker's stolen cookie kept working until it
+expired, while the admin who reset it believed the account was secured. Deleting
+or disabling an account revokes its cookies the same way, because
+`user_from_token` re-reads the record on every request.
 
 State (`users.json`) lives under `KNG_VAR_DIR` (default `var/`), which is
 git-ignored: user records are deployment state, not project artifacts.
@@ -42,10 +51,13 @@ COOKIE_NAME = "kng_session"
 # login feels instant.
 _SCRYPT = {"n": 2 ** 14, "r": 8, "p": 1, "dklen": 32}
 
-# Login throttle: attempts per IP inside a window. Crude but enough to stop a
-# script working through a password list against a known address.
+# Login throttle: failed attempts inside a window, counted per *IP* and per
+# *account*. Per-IP alone is not enough in either direction — behind a reverse
+# proxy every user shares one address, and one address spraying a common password
+# across many accounts never trips a per-IP-and-nothing-else counter.
 _MAX_ATTEMPTS = 10
 _WINDOW_S = 300.0
+_MAX_TRACKED = 4096                          # bound the table; it is process-local
 _attempts: dict[str, deque] = defaultdict(deque)
 
 
@@ -56,6 +68,7 @@ class User:
     role: str = "user"                       # "user" | "admin"
     disabled: bool = False
     created_at: str = ""
+    cred_version: int = 1                    # bumped by set_password → revokes tokens
 
     @property
     def is_admin(self) -> bool:
@@ -137,6 +150,19 @@ def _norm_email(email: str) -> str:
     return (email or "").strip().lower()
 
 
+def _user(record: dict[str, Any]) -> User:
+    """One place that turns a stored record into a `User`.
+
+    It was five copies, and a field added to one of them (`cred_version`) would
+    have been silently missing from the others.
+    """
+    return User(id=record["id"], email=record["email"],
+                role=record.get("role", "user"),
+                disabled=bool(record.get("disabled")),
+                created_at=record.get("created_at", ""),
+                cred_version=int(record.get("cred_version", 1)))
+
+
 def add_user(email: str, password: str, role: str = "user") -> User:
     email = _norm_email(email)
     if not email or "@" not in email:
@@ -151,42 +177,89 @@ def add_user(email: str, password: str, role: str = "user") -> User:
         "id": secrets.token_hex(8), "email": email, "role": role,
         "disabled": False,
         "created_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        "salt": salt, "hash": digest,
+        "salt": salt, "hash": digest, "cred_version": 1,
     }
     data["users"].append(record)
     _save(data)
-    return User(id=record["id"], email=email, role=role,
-                created_at=record["created_at"])
+    return _user(record)
 
 
 def list_users() -> list[User]:
-    return [User(id=u["id"], email=u["email"], role=u.get("role", "user"),
-                 disabled=bool(u.get("disabled")), created_at=u.get("created_at", ""))
-            for u in _load()["users"]]
+    return [_user(u) for u in _load()["users"]]
 
 
-def set_disabled(email: str, disabled: bool) -> User:
+def get_user(email: str) -> Optional[User]:
+    email = _norm_email(email)
+    for u in _load()["users"]:
+        if _norm_email(u["email"]) == email:
+            return _user(u)
+    return None
+
+
+def admin_count(exclude_email: str = "") -> int:
+    """Enabled admins, optionally ignoring one address.
+
+    The callers use it to refuse the change that would leave the instance with no
+    way in: removing or demoting the last admin needs a shell to undo.
+    """
+    skip = _norm_email(exclude_email)
+    return sum(1 for u in _load()["users"]
+               if u.get("role") == "admin" and not u.get("disabled")
+               and _norm_email(u["email"]) != skip)
+
+
+def _mutate(email: str, change) -> User:
     email = _norm_email(email)
     data = _load()
     for u in data["users"]:
         if _norm_email(u["email"]) == email:
-            u["disabled"] = disabled
+            change(u)
             _save(data)
-            return User(id=u["id"], email=u["email"], role=u.get("role", "user"),
-                        disabled=disabled, created_at=u.get("created_at", ""))
+            return _user(u)
     raise ValueError(f"no such user: {email}")
 
 
+def set_disabled(email: str, disabled: bool) -> User:
+    return _mutate(email, lambda u: u.update({"disabled": bool(disabled)}))
+
+
+def set_role(email: str, role: str) -> User:
+    if role not in ("user", "admin"):
+        raise ValueError("role must be 'user' or 'admin'")
+    return _mutate(email, lambda u: u.update({"role": role}))
+
+
 def set_password(email: str, password: str) -> User:
+    """Change a password **and invalidate every session it had.**
+
+    Bumping `cred_version` is the whole point: otherwise a reset changes what the
+    owner types and nothing else, and a cookie taken before the reset keeps full
+    access until it expires.
+    """
+    salt, digest = hash_password(password)          # validates length before write
+
+    def change(u: dict[str, Any]) -> None:
+        u["salt"], u["hash"] = salt, digest
+        u["cred_version"] = int(u.get("cred_version", 1)) + 1
+
+    return _mutate(email, change)
+
+
+def delete_user(email: str) -> User:
+    """Remove the account. Its live cookies stop working on the next request.
+
+    Conversation history is owned by the account, so the caller is expected to
+    delete it too (`main.py` does); leaving a user's questions behind after their
+    account is gone would keep personal data nobody can reach or manage.
+    """
     email = _norm_email(email)
     data = _load()
-    for u in data["users"]:
+    for i, u in enumerate(data["users"]):
         if _norm_email(u["email"]) == email:
-            u["salt"], u["hash"] = hash_password(password)
+            removed = _user(u)
+            del data["users"][i]
             _save(data)
-            return User(id=u["id"], email=u["email"], role=u.get("role", "user"),
-                        disabled=bool(u.get("disabled")),
-                        created_at=u.get("created_at", ""))
+            return removed
     raise ValueError(f"no such user: {email}")
 
 
@@ -195,37 +268,67 @@ def authenticate(email: str, password: str) -> Optional[User]:
 
     A wrong password, an unknown address and a disabled account are
     indistinguishable to the caller on purpose — telling them apart tells an
-    attacker which addresses are worth attacking. The dummy hash keeps the
-    unknown-user path as slow as the real one so timing does not leak it either.
+    attacker which addresses are worth attacking.
+
+    Every path does one scrypt verification, including the two that already know
+    they will fail. Returning early for a disabled account skipped ~80 ms of
+    hashing, which is plainly visible in the response time: the message said
+    "invalid email or password" while the clock said "this account exists and is
+    switched off".
     """
     email = _norm_email(email)
     for u in _load()["users"]:
         if _norm_email(u["email"]) == email:
-            if u.get("disabled"):
-                return None
-            if verify_password(password, u.get("salt", ""), u.get("hash", "")):
-                return User(id=u["id"], email=u["email"], role=u.get("role", "user"),
-                            disabled=False, created_at=u.get("created_at", ""))
+            ok = verify_password(password, u.get("salt", ""), u.get("hash", ""))
+            if ok and not u.get("disabled"):
+                return _user(u)
             return None
+    # Unknown address: burn the same work so timing does not separate it either.
     hashlib.scrypt(b"dummy", salt=b"dummy-salt-16byt", **_SCRYPT)
     return None
 
 
 # ── login throttle ─────────────────────────────────────────────────────────────
-def throttled(ip: str) -> bool:
+def _keys(ip: str, email: str = "") -> list[str]:
+    keys = [f"ip:{ip or '?'}"]
+    if email:
+        keys.append(f"user:{_norm_email(email)}")
+    return keys
+
+
+def _recent(key: str) -> int:
     now = time.monotonic()
-    q = _attempts[ip or "?"]
+    q = _attempts[key]
     while q and now - q[0] > _WINDOW_S:
         q.popleft()
-    return len(q) >= _MAX_ATTEMPTS
+    if not q:
+        _attempts.pop(key, None)              # do not keep an empty deque forever
+    return len(q)
 
 
-def record_attempt(ip: str) -> None:
-    _attempts[ip or "?"].append(time.monotonic())
+def _prune() -> None:
+    """Drop expired buckets. Unpruned, one bucket per attacking IP is a slow leak."""
+    if len(_attempts) <= _MAX_TRACKED:
+        return
+    for key in list(_attempts):
+        _recent(key)
 
 
-def clear_attempts(ip: str) -> None:
-    _attempts.pop(ip or "?", None)
+def throttled(ip: str, email: str = "") -> bool:
+    """True when either this address or this account has burnt its attempts."""
+    return any(_recent(key) >= _MAX_ATTEMPTS for key in _keys(ip, email))
+
+
+def record_attempt(ip: str, email: str = "") -> None:
+    now = time.monotonic()
+    for key in _keys(ip, email):
+        _attempts[key].append(now)
+    _prune()
+
+
+def clear_attempts(ip: str, email: str = "") -> None:
+    for key in _keys(ip, email):
+        _attempts.pop(key, None)
 
 
 # ── session tokens ─────────────────────────────────────────────────────────────
@@ -241,6 +344,7 @@ def _unb64(text: str) -> bytes:
 def issue_token(user: User, hours: Optional[int] = None) -> str:
     ttl = hours if hours is not None else settings().session_hours
     payload = {"sub": user.id, "email": user.email, "role": user.role,
+               "cv": int(user.cred_version),
                "exp": int(time.time()) + int(ttl) * 3600}
     body = _b64(json.dumps(payload, separators=(",", ":")).encode("utf-8"))
     sig = hmac.new(_secret().encode("utf-8"), body.encode("ascii"),
@@ -267,10 +371,13 @@ def verify_token(token: str) -> Optional[dict]:
 
 
 def user_from_token(token: str) -> Optional[User]:
-    """Re-read the user record, so a disabled or deleted account stops working.
+    """Re-read the user record, so a revoked account stops working immediately.
 
-    The token alone would be enough to identify the caller, but trusting it
-    blindly means a revoked account keeps access until its cookie expires.
+    The signature alone would be enough to identify the caller, but trusting it
+    blindly means a disabled, deleted or password-reset account keeps access
+    until its cookie expires. Three things are re-checked against the record:
+    the account still exists, it is not disabled, and its `cred_version` still
+    matches the one the token was minted with.
     """
     payload = verify_token(token)
     if payload is None:
@@ -279,12 +386,16 @@ def user_from_token(token: str) -> Optional[User]:
         if u["id"] == payload.get("sub"):
             if u.get("disabled"):
                 return None
-            return User(id=u["id"], email=u["email"], role=u.get("role", "user"),
-                        disabled=False, created_at=u.get("created_at", ""))
+            # Missing `cv` means a token issued before versioning existed; treat
+            # it as version 1, which is what those records hold.
+            if int(u.get("cred_version", 1)) != int(payload.get("cv", 1)):
+                return None
+            return _user(u)
     return None
 
 
-__all__ = ["User", "COOKIE_NAME", "add_user", "list_users", "set_disabled",
-           "set_password", "authenticate", "issue_token", "verify_token",
+__all__ = ["User", "COOKIE_NAME", "add_user", "list_users", "get_user",
+           "admin_count", "set_disabled", "set_role", "set_password",
+           "delete_user", "authenticate", "issue_token", "verify_token",
            "user_from_token", "throttled", "record_attempt", "clear_attempts",
            "var_dir", "users_file", "hash_password", "verify_password", "asdict"]

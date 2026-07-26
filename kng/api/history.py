@@ -72,23 +72,80 @@ def append_turn(user_id: str, session_id: str, turn: dict[str, Any]) -> str:
     return session_id
 
 
-def list_sessions(user_id: str, limit: int = 50) -> list[dict[str, Any]]:
+def _summary(session: dict[str, Any], fallback_id: str) -> dict[str, Any]:
+    """The card the History page renders — enough to judge a conversation without
+    opening it, including the citation-quality numbers WP4 already computed."""
+    turns = session.get("turns", []) or []
+    last = turns[-1] if turns else {}
+    latencies = [t["latency_s"] for t in turns
+                 if isinstance(t.get("latency_s"), (int, float))]
+    return {
+        "session_id": session.get("session_id", fallback_id),
+        "title": session.get("title", ""),
+        "created_at": session.get("created_at", ""),
+        "updated_at": session.get("updated_at", ""),
+        "turns": len(turns),
+        "last_question": last.get("question", ""),
+        "preview": " ".join((last.get("answer") or "").split())[:180],
+        "cited": len(last.get("cited") or []),
+        "sources": len(last.get("sources") or []),
+        "uncited_sentences": sum(t.get("uncited_sentences") or 0 for t in turns),
+        "stripped_citations": sum(len(t.get("invalid_citations") or []) for t in turns),
+        "latency_s": round(sum(latencies) / len(latencies), 2) if latencies else None,
+    }
+
+
+def _matches(session: dict[str, Any], needle: str) -> bool:
+    """Search titles *and* the questions and answers inside a conversation.
+
+    Matching only the title would miss the follow-up questions, which is where
+    most of a conversation actually is.
+    """
+    if session.get("title", "").lower().find(needle) >= 0:
+        return True
+    for turn in session.get("turns", []) or []:
+        for field in ("question", "answer"):
+            if (turn.get(field) or "").lower().find(needle) >= 0:
+                return True
+    return False
+
+
+def list_sessions(user_id: str, limit: int = 200,
+                  q: Optional[str] = None) -> list[dict[str, Any]]:
     directory = _user_dir(user_id)
     if not directory.exists():
         return []
+    needle = (q or "").strip().lower()
     out = []
     for fp in directory.glob("*.json"):
         try:
             session = json.loads(fp.read_text(encoding="utf-8"))
         except ValueError:
             continue
-        out.append({"session_id": session.get("session_id", fp.stem),
-                    "title": session.get("title", ""),
-                    "created_at": session.get("created_at", ""),
-                    "updated_at": session.get("updated_at", ""),
-                    "turns": len(session.get("turns", []))})
+        if needle and not _matches(session, needle):
+            continue
+        out.append(_summary(session, fp.stem))
     out.sort(key=lambda s: s.get("updated_at", ""), reverse=True)
     return out[:limit]
+
+
+def rename_session(user_id: str, session_id: str, title: str) -> Optional[str]:
+    """Set a conversation's label. Returns the stored title, or None if missing."""
+    path = _session_path(user_id, session_id)
+    if not path.exists():
+        return None
+    try:
+        session = json.loads(path.read_text(encoding="utf-8"))
+    except ValueError:
+        return None
+    clean = " ".join((title or "").split())[:120]
+    if not clean:
+        return None
+    session["title"] = clean
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(session, ensure_ascii=False, indent=1), encoding="utf-8")
+    tmp.replace(path)
+    return clean
 
 
 def get_session(user_id: str, session_id: str) -> Optional[dict[str, Any]]:
@@ -107,6 +164,38 @@ def delete_session(user_id: str, session_id: str) -> bool:
         return False
     path.unlink()
     return True
+
+
+def delete_all(user_id: str) -> int:
+    """Every conversation this user has. Returns how many were removed."""
+    directory = _user_dir(user_id)
+    if not directory.exists():
+        return 0
+    removed = 0
+    for fp in list(directory.glob("*.json")) + list(directory.glob("*.tmp")):
+        try:
+            fp.unlink()
+            removed += 1
+        except OSError:
+            continue
+    return removed
+
+
+def purge_user(user_id: str) -> int:
+    """Delete a user's history directory when their account is deleted.
+
+    An account can be removed from `users.json` in a second; the questions they
+    asked would otherwise sit on disk indefinitely with no account left that can
+    reach or manage them.
+    """
+    removed = delete_all(user_id)
+    directory = _user_dir(user_id)
+    try:
+        if directory.exists() and not any(directory.iterdir()):
+            directory.rmdir()
+    except OSError:
+        pass
+    return removed
 
 
 # ── query log ──────────────────────────────────────────────────────────────────

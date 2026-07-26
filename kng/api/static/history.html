@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>History — PressMeets RAG</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="topbar">
+    <div class="brand">
+      <span class="mark">PM</span>
+      <span>PressMeets <span class="sub">RAG</span></span>
+    </div>
+    <nav class="nav">
+      <a href="/">Chat</a>
+      <a href="/history" class="active">History</a>
+      <a href="/admin" id="nav-admin" hidden>Admin</a>
+    </nav>
+    <div class="right">
+      <span class="avatar" id="avatar">?</span>
+      <span id="user-email"></span>
+      <button class="btn-ghost" id="signout">Sign out</button>
+    </div>
+  </div>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <button class="btn-new" id="new-chat">＋ New chat</button>
+
+      <div class="field">
+        <label for="search">Search history</label>
+        <input type="search" id="search" placeholder="question, answer or title">
+        <p class="note">Searches every question and answer in your conversations,
+          not only their titles.</p>
+      </div>
+
+      <div class="field">
+        <label>Your activity</label>
+        <div class="stat-col" id="totals"></div>
+      </div>
+
+      <div class="field">
+        <label>Danger zone</label>
+        <button class="btn-small warn" id="clear-all" style="width:100%">Delete all conversations</button>
+        <p class="note">Removes every conversation stored for your account. This
+          cannot be undone.</p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div class="stream" id="stream">
+        <div class="centered">
+          <div class="page-head">
+            <h1 id="page-title">History</h1>
+            <p class="note" id="page-sub">Every question you have asked, newest first.
+              Open one to continue it in Chat.</p>
+          </div>
+          <div id="groups"></div>
+          <div class="empty-note" id="empty-note" hidden>
+            <strong>No conversations yet.</strong>
+            <span>Ask something in Chat and it will appear here.</span>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div class="drawer" id="drawer">
+    <header>
+      <strong id="drawer-title">Conversation</strong>
+      <button class="btn-x" id="drawer-close">×</button>
+    </header>
+    <div class="body">
+      <div class="kv" id="drawer-meta"></div>
+      <div id="drawer-turns"></div>
+    </div>
+  </div>
+
+  <script src="/static/history.js"></script>
+</body>
+</html>
