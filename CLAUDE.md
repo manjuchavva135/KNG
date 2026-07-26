@@ -76,10 +76,9 @@ See [docs/WORK_PACKAGES.md](docs/WORK_PACKAGES.md) for the WP tracker and
 `~/.claude/plans/act-as-a-software-snuggly-pond.md` (Revision 1 = Sarvam-first
 universal extraction + progress tracking).
 
-**Current resume point: WP5 (FastAPI + chat UI).** WP3's paid pass is **complete
-for the speech corpus** and WP4 answers with graph facts. The only paid work left
-is optional: the 2528 `source_doc` (third-party evidence PDF) units, addable any
-time with nothing re-billed. Pipeline state as of 2026-07-26:
+**Current resume point: WP5 (FastAPI + chat UI).** WP3's paid pass is **fully
+complete — 4251/4251 units, entire corpus** — and WP4 answers with graph facts.
+No paid work remains. Pipeline state as of 2026-07-26:
 
 | stage | result |
 |---|---|
@@ -87,13 +86,12 @@ time with nothing re-billed. Pipeline state as of 2026-07-26:
 | chunk (WP2) | 635 files · **4267 chunks** · max 1394/8192 tokens |
 | embed (WP2) | **4267 rows** in `index/lancedb` · `bge-m3`, 1024-dim |
 | graph — structural (WP3, free) | **698 nodes · 714 edges** · all 33 meets · 634 sources |
-| graph — LLM extraction (WP3, **done, speech-first**) | **1718 / 1718 units · 0 failures** · 2300 cached records · 22.4k entities · 5.2k relations |
-| graph — **final** in `index/graph` | **4803 nodes · 6417 edges · 599 communities** (22 summarised — the rest are singletons below phase E's `min_size=3`) |
-| graph — optional remainder | **2528 `source_doc` units** unextracted by choice (`GRAPH_SOURCE_TYPES`); still searchable in LanceDB, addable with nothing re-billed |
+| graph — LLM extraction (WP3, **done, full corpus**) | **4251 / 4251 units · 1 unrecoverable failure** (17KB non-JSON reply) · 4234 cached records |
+| graph — **final** in `index/graph` | **8120 nodes · 10773 edges · 1157 communities** (22 summarised — the rest are singletons or pairs below phase E's `min_size=3`) |
 | query (WP4) | `kng.answer` — hybrid RRF + graph facts + verified citations · cold 13.8 s (bge-m3 load) / **warm 0.22 s** per query |
 
-Extend the graph to the evidence PDFs (the only paid work left; re-bills nothing
-already done — the content-hash cache is the record):
+No paid extraction work remains. To re-run after a prompt-version bump or new
+source files (re-bills only what changed — the content-hash cache is the record):
 
 ```bash
 LLM_REASONING_EFFORT=null KNG_LLM_TRACE=1 nohup .venv/bin/python \
@@ -101,9 +99,9 @@ LLM_REASONING_EFFORT=null KNG_LLM_TRACE=1 nohup .venv/bin/python \
 echo $! > graph.pid        # kill by THIS pid; never `pkill -f`
 ```
 
-Omitting `GRAPH_SOURCE_TYPES` selects all 4251 units, so ~2528 new calls (~3 h at
-the measured 15 units/min). **Use concurrency 4** — more makes latency worse
-(fact 7). Benchmark configs first with `scripts/bench_extract.py`.
+**Use concurrency 4** — more makes latency worse (fact 7). `GRAPH_SOURCE_TYPES`
+narrows to a source-type subset if only some new files should be scoped in;
+benchmark configs first with `scripts/bench_extract.py`.
 
 Handovers: [WP1b](docs/handovers/WP1b-sarvam-revision.md) ·
 [WP2](docs/handovers/WP2-index.md) · [WP3](docs/handovers/WP3-graph.md) ·

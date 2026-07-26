@@ -99,28 +99,28 @@ python -m kng.query "Tirupati laddu" -k 2     WP2 path unchanged
 | `KNG_FAKE_LLM=1` end-to-end | answer rendered, 4 of 11 sources cited, citation verification and warnings fired |
 | latency | cold 13.8 s (bge-m3 load), **warm 0.22 s/query** |
 
-Index counts this ran against: **4267 chunk rows** in `index/lancedb` (FTS index
-`text_idx` present) and **527 nodes / 592 edges / 88 communities** in
-`index/graph`.
+Index counts as of 2026-07-26 (post full-corpus extraction): **4267 chunk rows**
+in `index/lancedb` (FTS index `text_idx` present) and **8120 nodes / 10773 edges
+/ 1157 communities** in `index/graph`.
 
 ## Known gaps / what WP5 should pick up
 
-- ~~The committed graph is the partial pass's graph~~ — **resolved 2026-07-26.**
-  WP3's speech-first pass completed: `index/graph/` now holds **4803 nodes / 6417
-  edges / 599 communities** across all **33 press meets**, and the graph leg links
-  entities corpus-wide. Verified: `neighbors "Jagan"` returns 120 edges including
+- ~~The committed graph is partial~~ — **resolved 2026-07-26, twice-over.**
+  WP3's speech-first pass first brought it to 4803 nodes across all 33 meets;
+  the remaining `source_doc` (evidence-PDF) units were then extracted too,
+  bringing it to the **full-corpus** counts above — 4251/4251 units, 1 known
+  failure. Verified: `neighbors "Jagan"` returns 120 edges including
   `ACCUSES → N. Chandrababu Naidu ×37` spanning 2024-07-26→2026-05-21 with Telugu
   evidence quotes, and `kng.answer` on the laddu question links 3 entities and 17
   question-matching facts plus a 3-meet timeline.
-- ~~Community summaries are absent~~ — **resolved.** 22 of 599 communities are
-  summarised; the other 577 are singletons below phase E's `min_size=3`, so this
+- ~~Community summaries are absent~~ — **resolved.** 22 of 1157 communities are
+  summarised; the rest are singletons/pairs below phase E's `min_size=3`, so this
   is complete rather than partial. The diagnostic now distinguishes "phase E never
   ran" from "these clusters are too small to summarise".
-- **2528 `source_doc` units are unextracted by choice.** Evidence PDFs (court
-  orders, tariff sheets, merit lists) were excluded via `GRAPH_SOURCE_TYPES` to
-  cut the pass from ~17 h to 73 min. They remain searchable in LanceDB, so
-  passage retrieval already covers them; only their *graph facts* are missing.
-  Adding them re-bills nothing already done.
+- ~~2528 `source_doc` units are unextracted~~ — **resolved.** Extracted in a
+  second pass at the same `LLM_REASONING_EFFORT=null` config, ~26 units/min
+  (faster than the speech units, which average longer). Nothing from the first
+  pass was re-billed.
 - **Fact relevance is lexical and does not cross scripts.** An English question
   scores zero against Telugu evidence quotes. The `text_en` column exists but is
   unpopulated; translating evidence at index time, or scoring facts with bge-m3,

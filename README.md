@@ -173,14 +173,11 @@ Built in independently-resumable work packages; each ends with a handover doc in
 | WP1 | Multimodal extraction + Sarvam OCR/ASR + normalization | ✅ text done · OCR/ASR ready |
 | WP1b | Sarvam-first universal extraction + per-stage doc counts | ✅ done · 634/635 files · 2323 seg |
 | WP2 | Chunk → embed → LanceDB (RAG works) | ✅ done · 4267 chunks · bge-m3 (1024d) |
-| WP3 | Knowledge graph build | ✅ done · 4803 nodes / 6417 edges / 599 communities · all 33 meets |
+| WP3 | Knowledge graph build | ✅ done · 8120 nodes / 10773 edges / 1157 communities · full corpus, all 33 meets |
 | WP4 | GraphRAG query engine (cited synopsis) | ✅ done · hybrid RRF + graph leg · 34 tests · warm 0.22 s/query |
 | WP5 | FastAPI + chat web UI | ⏳ |
 | WP6 | Eval, hardening, portable export | ⏳ |
 
-> **Resume point:** WP5. The graph covers every press meet, so entity, timeline
-> and cross-meet questions work now. Optional paid work remains: 2528
-> `source_doc` units (third-party evidence PDFs) were skipped by choice via
-> `GRAPH_SOURCE_TYPES` and can be added later with nothing re-billed — see
-> [`docs/handovers/WP3-graph.md`](docs/handovers/WP3-graph.md).
-> `data/` is git-ignored (not pushed to GitHub).
+> **Resume point:** WP5. WP3's extraction is fully complete (4251/4251 units) —
+> entity, timeline and cross-meet questions work over the whole archive with no
+> paid work remaining. `data/` is git-ignored (not pushed to GitHub).

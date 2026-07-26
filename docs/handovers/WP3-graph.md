@@ -229,36 +229,40 @@ artifact stays small.
 | embed (WP2) | 4267 rows · bge-m3 1024-dim |
 | graph — structural (free) | 698 nodes · 714 edges · 21 communities |
 | graph — selection, all types | 4251 extraction units (2950 chunks + 1301 split pieces) |
-| graph — selection, **speech-first** | **1718 units** (`GRAPH_SOURCE_TYPES=press_release,news_clip,video,slide`) |
-| **graph — extraction (paid, DONE 2026-07-26)** | **2201+ records · 22,378 entities · 5,241 relations** · 1121 new calls · 0 retries · 6 failed |
-| graph — resolution | 23,477 mentions → 10,631 canonical names · 6923 mentions · 8137 relation assertions |
-| **graph — final** | **4792 nodes · 6402 edges · 599 communities** · 22 summarised |
+| graph — phase 1, **speech-first** (2026-07-26 09:17–10:30) | **1718 / 1718 units, 0 failures** — 4792 nodes / 6402 edges / 599 communities |
+| graph — phase 2, **remaining `source_doc`** (2026-07-26 10:46–12:03) | **1934 new calls, 1 retry, 1 unrecoverable failure** (17KB non-JSON reply), 2 duplicates reused |
+| **graph — extraction, FULL CORPUS (DONE 2026-07-26)** | **4251 / 4251 units · 4234 cached records · 1 known failure** |
+| graph — resolution | 36,620 mentions → 17,020 canonical names · 13,229 mentions · 15,152 relation assertions |
+| **graph — final** | **8120 nodes · 10773 edges · 1157 communities** · 22 summarised |
 
-Speech-first coverage is complete: all **33 press meets**, 633 sources, 30 dates.
-Entity types: Claim 1044, Organization 952, Person 725, Scheme 562, Place 448,
-Issue 315, Party 48. Relations: MENTIONS 3757, CITES_SOURCE 633,
-RELATED_TO_ISSUE 632, MAKES_CLAIM 361, ABOUT_ISSUE 335, LOCATED_IN 274,
-ANNOUNCED_SCHEME 165, ACCUSES 105, MEMBER_OF 49, PRECEDES 29, DEFENDS 10.
+Full-corpus coverage: all **33 press meets**, 634 sources, 30 dates. Entity types:
+Organization 2049, Claim 1775, Scheme 1053, Person 1350, Place 634, Issue 497,
+Party 64. Relations: MENTIONS 7021, RELATED_TO_ISSUE 882, CITES_SOURCE 633,
+MAKES_CLAIM 555, ABOUT_ISSUE 551, LOCATED_IN 415, ANNOUNCED_SCHEME 291,
+ACCUSES 262, MEMBER_OF 68, PRECEDES 29, DEFENDS 14.
 
-The remaining **2528 `source_doc` units** (third-party evidence PDFs) are
-deliberately unextracted — see "the two levers" below. They stay searchable in
-LanceDB and can be added later with nothing re-billed.
+The one unrecoverable unit is not worth chasing further — `--retry-split` was
+already tried and the reply still did not parse; it is 1 of 4251, and the file's
+other units still cover its meet.
 
-Community summaries are **complete, not partial**: 22 of 599 communities have the
-`min_size=3` entities that earn a paid call; the other 577 are singletons whose
-"theme" is just their member. Largest clusters read well — *Power sector policy
-and regulation* (377 entities), *Liquor Scam and Redbook in Andhra Pradesh* (324),
-*Emergency 2.0 policy and controversy* (324).
+Community summaries stayed at **22, not more**, after phase 2 — correctly: the
++558 new communities from the evidence-PDF pass are all below phase E's
+`min_size=3`, so no new paid summary calls were owed. Largest clusters —
+*Power sector policy and regulation* (377 entities), *Liquor Scam and Redbook in
+Andhra Pradesh* (324), *Emergency 2.0 policy and controversy* (324).
 
-### The two levers that took this from ~17 h to 73 min
+### The two levers that took phase 1 from ~17 h to 73 min
 
 Measured 2026-07-26 on a laptop, after the pass had been crawling at 3.06
-units/min with a 43 % truncation-salvage rate:
+units/min with a 43 % truncation-salvage rate. Phase 2 (the remaining
+`source_doc` units, run with the same `LLM_REASONING_EFFORT=null` config) went
+even faster — **~26 units/min**, since evidence-PDF units average shorter than
+speech units.
 
 | lever | effect |
 |---|---|
-| `GRAPH_SOURCE_TYPES` speech-first scope | calls to bill 3067 → **1131** |
-| `LLM_REASONING_EFFORT=null` | 3.26 → **~15 units/min**, salvage 43 % → **0 %** |
+| `GRAPH_SOURCE_TYPES` speech-first scope (phase 1 only) | calls to bill 3067 → **1131** |
+| `LLM_REASONING_EFFORT=null` | 3.26 → **15–26 units/min**, salvage 43 % → **0 %**, held for all 4251 units |
 
 `scripts/bench_extract.py` produced the evidence (13 real units per config,
 subprocess each because settings freeze at import):
@@ -386,13 +390,14 @@ directory that changes.
 
 ## Known gaps / what WP4 should pick up
 
-- **Extraction is incomplete.** ~1043 of 4251 units done. Resume with the command
-  at the top; nothing is re-billed.
+- ~~Extraction is incomplete~~ — **resolved 2026-07-26.** All 4251/4251 units
+  extracted, 1 unrecoverable failure (already retried with `--retry-split`,
+  reply still didn't parse — not worth chasing further at 1/4251).
+- ~~Community summaries have not run~~ — **resolved.** 22 of 1157 communities
+  are summarised (the rest are below `min_size=3`); confirmed complete, not
+  partial.
 - **`--retry-split N`** re-runs only chunks absent from the cache at a smaller
-  size, merging pieces back under the parent hash so it stays idempotent. Use it
-  after the main pass to recover failures.
-- **Community summaries (phase E) have not run** — they are the last paid step
-  (~50–200 calls) and produce the "god-node" titles WP4's global queries read.
+  size, merging pieces back under the parent hash so it stays idempotent.
 - **Publication metadata is thin** — only Sakshi (268 chunks) and Eenadu (7) are
   tagged across 567 news-clip chunks. A WP1 metadata gap; `COVERED_BY` stays
   sparse until fixed.
@@ -403,9 +408,12 @@ directory that changes.
   Wrongly merging two politicians misattributes quotes, which is worse than a
   duplicate node. Extend `config/ontology.yaml`'s alias table after reading real
   output.
-- **No test suite.** The pure logic added here (JSON repair, name normalisation,
-  triple validation, chunk selection, `_halve`) is the cheapest place to start.
+- ~~No test suite~~ — **resolved.** `tests/test_graph_cache.py` covers cache
+  fingerprints, source-type scope and malformed-model-output handling; 34 tests
+  total across `tests/`.
 - **The Neo4j mirror is written but untested** — `neo4j` is not installed.
-- **A tier upgrade is the highest-leverage remaining fix**: the 4096-token output
-  cap is what forces chunk splitting, truncation repair, and the retry pass. Pro
-  (60 req/min) would also cut wall-clock.
+- **`LLM_REASONING_EFFORT=null` closed the tier gap that mattered.** The
+  4096-token cap no longer forces chunk splitting or truncation repair (0
+  salvaged across all 4251 units) — see "the two levers" above. A tier upgrade
+  would still cut wall-clock via higher RPM, but is no longer needed for
+  extraction completeness.

@@ -10,7 +10,7 @@ with a **handover doc** in `docs/handovers/` and an update to the top-level
 | WP1 | Multimodal extraction: docx/pdf/pptx/xlsx + Sarvam OCR (news clips) + Sarvam ASR (videos) + normalization | [WP1-extraction.md](handovers/WP1-extraction.md) | ✅ text done · OCR/ASR ready |
 | WP1b | Sarvam-first universal extraction (all docs → Sarvam) + per-stage document counts | [WP1b-sarvam-revision.md](handovers/WP1b-sarvam-revision.md) | ✅ done · 2026-07-25: 634/635 files · 2323 seg · 7.97M chars · 651 calls · 1 skip (legacy Telugu font) 
 | WP2 | Index: chunk → embed → LanceDB vector store (plain RAG works end-to-end) | [WP2-index.md](handovers/WP2-index.md) | ✅ done · 2323 seg → 4267 chunks · bge-m3 (1024d) |
-| WP3 | Knowledge graph: LLM entity/relation extraction → resolution → graph store | [WP3-graph.md](handovers/WP3-graph.md) | ✅ done · 2026-07-26: speech-first pass complete, **1718/1718 units · 0 failures** → **4803 nodes / 6417 edges / 599 communities** across all 33 meets · 2528 `source_doc` units left by choice, addable with nothing re-billed |
+| WP3 | Knowledge graph: LLM entity/relation extraction → resolution → graph store | [WP3-graph.md](handovers/WP3-graph.md) | ✅ done · 2026-07-26: full corpus extracted, **4251/4251 units · 1 unrecoverable failure** → **8120 nodes / 10773 edges / 1157 communities** across all 33 meets |
 | WP4 | GraphRAG query engine: hybrid retrieval (vector+keyword+graph) → cited synopsis | [WP4-query.md](handovers/WP4-query.md) | ✅ done · 2026-07-25: RRF over 4267 chunks + graph facts · citation verification · 20 tests · cold 13.8 s / warm 0.22 s per query |
 | WP5 | FastAPI backend + chat web UI with citations & source viewer | — | ⏳ |
 | WP6 | Eval harness, hardening, portable export for the target system | — | ⏳ |
