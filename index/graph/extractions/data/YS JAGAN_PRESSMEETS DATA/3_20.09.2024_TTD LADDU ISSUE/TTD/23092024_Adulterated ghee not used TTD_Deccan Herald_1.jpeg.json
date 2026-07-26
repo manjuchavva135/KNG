@@ -1,0 +1,95 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "eb152d016bc193ecfd94dae054acba1e15ce958a": {
+   "entities": [
+    {
+     "name": "Adulterated ghee not used to make laddus: TTD report",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Tirumala Tirupati Devasthanams (TTD)",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Venkateshwara shrine",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Jaganmohan Reddy",
+     "type": "Person",
+     "english_name": "Jaganmohan Reddy"
+    },
+    {
+     "name": "habitual liar",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "lard",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "M/s AR Dairy Pvt Ltd, Dindigul",
+     "type": "Organization",
+     "english_name": "AR Dairy Pvt Ltd"
+    },
+    {
+     "name": "Shanti Homam",
+     "type": "Scheme",
+     "english_name": "Shanti Homam"
+    },
+    {
+     "name": "Tirumala temple",
+     "type": "Place",
+     "english_name": "Tirumala temple"
+    },
+    {
+     "name": "Syamala Rao",
+     "type": "Person",
+     "english_name": "Syamala Rao"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Shanti Homam",
+     "evidence": "A purification ritual, ‘Shanti Homam’, was held at the Tirumala temple on Monday morning to ward off ill-effects and restore the sanctity of laddu prasa-dam and other naivedyams."
+    },
+    {
+     "source": "Jaganmohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu Naidu",
+     "evidence": "former CM Jaganmohan Reddy blasted Naidu for the allegations, calling him a “habitual liar”."
+    },
+    {
+     "source": "Syamala Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Adulterated ghee not used to make laddus: TTD report",
+     "evidence": "said the report submitted by TTD executive officer Syamala Rao to the state government."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

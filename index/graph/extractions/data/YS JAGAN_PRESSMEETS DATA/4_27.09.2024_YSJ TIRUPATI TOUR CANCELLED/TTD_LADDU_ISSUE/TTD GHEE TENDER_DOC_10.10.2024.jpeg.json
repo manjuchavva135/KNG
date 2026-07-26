@@ -1,0 +1,51 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3dfe6bde94d31359ca5b51fe536af6b5fae77ddc": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "బాబు గారి 'కొవ్వు' బాగోతం బట్టబయలు",
+     "type": "Claim",
+     "english_name": "N. Chandrababu Naidu's 'fat' exposure"
+    },
+    {
+     "name": "టీటీడీ టెండర్",
+     "type": "Organization",
+     "english_name": "TTD Tender"
+    },
+    {
+     "name": "10 లక్షల టన్నుల ఆవు నెయ్యి కొనుగోలుకు నోటిఫికేషన్",
+     "type": "Scheme",
+     "english_name": "Notification for purchase of 10 lakh tonnes of cow ghee"
+    },
+    {
+     "name": "రివర్స్ టెండరింగ్తో ఆదా",
+     "type": "Claim",
+     "english_name": "Saving through reverse tendering"
+    },
+    {
+     "name": "టీటీడీ బోర్డు",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ హయాంలో రూపొందించిన నిబంధనలు",
+     "type": "Scheme",
+     "english_name": "Rules formulated during YSRCP tenure"
+    },
+    {
+     "name": "నెయ్యి సరఫరాకు టెండర్ నోటిఫికేషన్",
+     "type": "Scheme",
+     "english_name": "Tender notification for ghee supply"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

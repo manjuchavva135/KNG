@@ -1,0 +1,128 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0d666b406f683abdff2d834b1808931fd654e279": {
+   "entities": [
+    {
+     "name": "Mehraz Begum Sheikh",
+     "type": "Person",
+     "english_name": "Mehraz Begum Sheikh"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "TDP",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Mahashakti Deepam",
+     "type": "Scheme",
+     "english_name": "Mahashakti Deepam"
+    },
+    {
+     "name": "ఆడపిల్ల నిధి",
+     "type": "Scheme",
+     "english_name": "Andapilla Nidhi"
+    },
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Rajampet",
+     "type": "Place",
+     "english_name": "Rajampet"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మోసం",
+     "type": "Issue",
+     "english_name": "Fraud"
+    },
+    {
+     "name": "బాబు షూరిటీ, భవిష్యత్తు గ్యారెంటీ",
+     "type": "Claim",
+     "english_name": "Baboo's guarantee, future guarantee"
+    },
+    {
+     "name": "ఆడపిల్ల నిధి రూ.1500 చొప్పున ఇద్దరికి ఏడాదికి సహాయం రూ.36 వేలు",
+     "type": "Claim",
+     "english_name": "Andapilla Nidhi assistance Rs 1500 each per year"
+    },
+    {
+     "name": "మహాశక్తి దీపం పథకం కింద 3 ఉచిత సిలిండర్లు, ఉచిత బస్సు ప్రయాణం జూన్ 2024 నుంచి ప్రారంభం",
+     "type": "Claim",
+     "english_name": "Mahashakti Deepam provides 3 free cylinders and free bus travel from June 2024"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు అనే నేను, మన రాష్ట్ర ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని, త్రికరణ శుద్ధితో ప్రమాణం చేస్తున్నానని ఏకంగా బాండ్ ఇచ్చాడు.",
+     "type": "Claim",
+     "english_name": "Chandrababu gave a bond to repay debt with interest"
+    },
+    {
+     "name": "చంద్రబాబు చేసిన మోసం గురించి వివరిస్తున్న వైఎస్ జగన్",
+     "type": "Claim",
+     "english_name": "YS Jagan explains Chandrababu's fraud"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mehraz Begum Sheikh",
+     "relation": "MAKES_CLAIM",
+     "target": "బాబు షూరిటీ, భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "ఈమెకు బాబు షూరిటీ, భవిష్యత్తు గ్యారెంటీ అని యూనిక్ ఐడీ కోడ్ ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు నాయుడు అనే నేను, మన రాష్ట్ర ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని, త్రికరణ శుద్ధితో ప్రమాణం చేస్తున్నానని ఏకంగా బాండ్ ఇచ్చాడు.",
+     "evidence": "చంద్రబాబు నాయుడు అనే నేను, మన రాష్ట్ర ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని, త్రికరణ శుద్ధితో ప్రమాణం చేస్తున్నానని ఏకంగా బాండ్ ఇచ్చాడు."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేసిన మోసం గురించి వివరిస్తున్న వైఎస్ జగన్."
+    },
+    {
+     "source": "ఆడపిల్ల నిధి రూ.1500 చొప్పున ఇద్దరికి ఏడాదికి సహాయం రూ.36 వేలు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మోసం",
+     "evidence": "ఇంటింటా మోసం.."
+    },
+    {
+     "source": "మహాశక్తి దీపం పథకం కింద 3 ఉచిత సిలిండర్లు, ఉచిత బస్సు ప్రయాణం జూన్ 2024 నుంచి ప్రారంభం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మోసం",
+     "evidence": "ఇంటింటా మోసం.."
+    },
+    {
+     "source": "Rajampet",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh (Andhra Pradesh Main )"
+    },
+    {
+     "source": "Sakshi",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Sakshi"
+    }
+   ]
+  }
+ }
+}

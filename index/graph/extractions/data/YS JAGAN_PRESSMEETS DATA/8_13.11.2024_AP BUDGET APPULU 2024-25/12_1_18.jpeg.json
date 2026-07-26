@@ -1,0 +1,51 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "762e768aa87110e576229742251f5a7e4f32cf41": {
+   "entities": [
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉద్యోగాలు / నెలకు రూ.3 వేల",
+     "type": "Claim",
+     "english_name": "20 lakh jobs for youth / Rs.3000 per month"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Claim",
+     "english_name": "Unemployment allowance"
+    },
+    {
+     "name": "స్కూలుకి వెళ్లే ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Claim",
+     "english_name": "Rs.15,000 per year for each student attending school"
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20 వేలు ఆర్థిక సాయం",
+     "type": "Claim",
+     "english_name": "Rs.20,000 annual financial assistance for each farmer"
+    },
+    {
+     "name": "ప్రతి మహిళకి నెలకు రూ.1500 (19 సం॥ నుంచి 59 సం ॥ వరకు)",
+     "type": "Claim",
+     "english_name": "Rs.1500 per month for each woman (from 19 to 59 years)"
+    },
+    {
+     "name": "ప్రతి ఇంటికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు",
+     "type": "Claim",
+     "english_name": "3 free gas cylinders per household per year"
+    },
+    {
+     "name": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "type": "Claim",
+     "english_name": "Free bus travel for women"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

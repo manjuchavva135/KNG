@@ -1,0 +1,38 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0d11dddc53fcca2549857f2707d6b55a8742d9b0": {
+   "entities": [
+    {
+     "name": "speaker",
+     "type": "Person",
+     "english_name": "speaker"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "Court",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "Mega DSC Rules",
+     "type": "Scheme",
+     "english_name": "Mega DSC Rules"
+    }
+   ],
+   "relations": [
+    {
+     "source": "speaker",
+     "relation": "DEFENDS",
+     "target": "Mega DSC Rules",
+     "evidence": "కాండిడేట్ సర్టిఫికెట్ వెరిఫికేషన్ కి రాకపోతే హిస్ అప్పాయింట్మెంట్ విల్ నాట్ బి గివెన్."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

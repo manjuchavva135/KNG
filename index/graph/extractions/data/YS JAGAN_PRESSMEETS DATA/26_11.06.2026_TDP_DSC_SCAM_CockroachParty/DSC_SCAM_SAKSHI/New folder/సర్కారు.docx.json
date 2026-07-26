@@ -1,0 +1,265 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ec429444c6755741b66aef0f671042c29969d103": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "జిల్లా ఎంపిక కమిటీ(డీఎస్సీ)",
+     "type": "Organization",
+     "english_name": "District Selection Committee (DSC)"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ రాష్ట్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "School Education Department State Office"
+    },
+    {
+     "name": "పరీక్ష నిర్వహణ",
+     "type": "Issue",
+     "english_name": "Exam Management"
+    },
+    {
+     "name": "కాంట్రాక్టు ఉద్యోగి",
+     "type": "Person",
+     "english_name": "Contract Employee"
+    },
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "టెట్‌ కన్వీనర్‌",
+     "type": "Person",
+     "english_name": "TET Convenor"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ డైరెక్టర్‌",
+     "type": "Person",
+     "english_name": "SCERT Director"
+    },
+    {
+     "name": "రాష్ట్ర విద్యా పరిశోధన శిక్షణ మండలి (ఎస్సీఈఆర్టీ)",
+     "type": "Organization",
+     "english_name": "State Council of Educational Research and Training (SCERT)"
+    },
+    {
+     "name": "డీఎస్సీ పేపర్‌ తయారీ",
+     "type": "Claim",
+     "english_name": "DSC Paper Preparation"
+    },
+    {
+     "name": "ఉపాధ్యాయ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "Teacher Candidates"
+    },
+    {
+     "name": "ఉన్నతాధికారులు",
+     "type": "Person",
+     "english_name": "Senior Officials"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నవీన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "డీఎస్సీ పేపర్‌ తయారీ",
+     "evidence": "నవీన్‌కు కేవలం డీఎస్సీ ప్రశ్నలు తయారీతో పాటు వాటిని ఆన్‌లైన్‌ చేయడం చేసే బాధ్యతలు అప్పగించారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "adc5471e47b170fb885da24b3e3130db85933e16": {
+   "entities": [
+    {
+     "name": "అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "candidates"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "రాష్ట్ర సర్వోన్నత న్యాయస్థానం",
+     "type": "Organization",
+     "english_name": "State Supreme Court"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a6818e9a52c7961b49c4234cf86c0e314a534102": {
+   "entities": [
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "సోషల్‌ స్టడీస్‌ టాపర్‌",
+     "type": "Claim",
+     "english_name": "Social Studies Topper"
+    },
+    {
+     "name": "టీజీటీ",
+     "type": "Claim",
+     "english_name": "TGT"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "విద్యాభవన్‌",
+     "type": "Organization",
+     "english_name": "Vidya Bhavan"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వ",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "డీఎస్సీ నియామకాలు",
+     "type": "Scheme",
+     "english_name": "DSSC recruitment"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నవీన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "సోషల్‌ స్టడీస్‌ టాపర్‌",
+     "evidence": "నవీన్‌ కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గానూ, టీజీటీలో ఆరో ర్యాంకు సాధించడంతో లీకేజీ వ్యవహారం బయటపడింది."
+    },
+    {
+     "source": "నవీన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "టీజీటీ",
+     "evidence": "నవీన్‌ కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గానూ, టీజీటీలో ఆరో ర్యాంకు సాధించడంతో లీకేజీ వ్యవహారం బయటపడింది."
+    },
+    {
+     "source": "విద్యాభవన్‌",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "జిల్లా స్థాయిలో జరగాల్సిన ఎంపికల ప్రక్రియనూ తమ చేతుల్లోకి తీసుకున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f1f0dc934c84ce6af6fdffd574f5369f175d736e": {
+   "entities": [
+    {
+     "name": "జిల్లా సెలక్షన్‌ కమిటీలు",
+     "type": "Organization",
+     "english_name": "District Selection Committees"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వ",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "కాల్‌ లెటర్ల జారీ",
+     "type": "Claim",
+     "english_name": "Issuance of call letters"
+    },
+    {
+     "name": "టెస్టింగ్‌ల (ఎస్‌ఎంఎస్‌)",
+     "type": "Claim",
+     "english_name": "Testing (SMS) in call letters"
+    },
+    {
+     "name": "ఉద్యోగాలకూ ఎసరు పెట్టే ఎత్తుగడ",
+     "type": "Claim",
+     "english_name": "Attempt to spoil jobs for trained graduate teachers"
+    },
+    {
+     "name": "ఈపీటీ",
+     "type": "Claim",
+     "english_name": "English Proficiency Test"
+    },
+    {
+     "name": "ప్రతిభకు అడుగడుగునా అన్యాయం",
+     "type": "Claim",
+     "english_name": "Injustice to merit at every step"
+    },
+    {
+     "name": "డీఎస్సీ నోటిఫికేషన్‌",
+     "type": "Claim",
+     "english_name": "DSSC notification"
+    },
+    {
+     "name": "ఎస్జీటీ",
+     "type": "Claim",
+     "english_name": "SGT"
+    },
+    {
+     "name": "స్కూల్‌ అసిస్టెంట్",
+     "type": "Claim",
+     "english_name": "School Assistant"
+    },
+    {
+     "name": "టీజీటీ",
+     "type": "Claim",
+     "english_name": "TGT"
+    },
+    {
+     "name": "పీజీటీ",
+     "type": "Claim",
+     "english_name": "PGT"
+    },
+    {
+     "name": "ప్రిన్సిపల్‌ పోస్టులు",
+     "type": "Claim",
+     "english_name": "Principal posts"
+    },
+    {
+     "name": "16,347 ఉపాధ్యాయు పోస్టులు",
+     "type": "Claim",
+     "english_name": "16,347 teacher posts"
+    },
+    {
+     "name": "3,36,307 మంది అభ్యర్థులు",
+     "type": "Claim",
+     "english_name": "336,307 candidates"
+    },
+    {
+     "name": "5,77,694 దరఖాస్తులు",
+     "type": "Claim",
+     "english_name": "577,694 applications"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

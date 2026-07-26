@@ -1,0 +1,1725 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "15fdb71fc3d5e43d1ba0b5f28d6a6cb1bbdb484c": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "మ వి గన్‌ (జీయూఎన్‌)",
+     "type": "Place",
+     "english_name": "MAVIGUN (GU)"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "రాష్ట్ర రాజధాని",
+     "type": "Place",
+     "english_name": "State Capital"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "దేశంలోనే అతి పెద్ద స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Capital Scam"
+    },
+    {
+     "name": "స్కామ్‌ల రాజధాని",
+     "type": "Issue",
+     "english_name": "Capital Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అమరావతి నిర్మాణాల్లో సీఎం చంద్రబాబు అంతులేని అవినీతి చేస్తున్నారని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "42bc1c645b33fb828fa6d4d0febbc83167123811": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "మ వి గన్‌ (జీయూఎన్‌)",
+     "type": "Place",
+     "english_name": "M V Gun (GUN)"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "అమరావతి నిర్మాణాల్లో అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption in Amaravati construction"
+    },
+    {
+     "name": "రాజధాని భూసేకరణ",
+     "type": "Issue",
+     "english_name": "Capital land acquisition"
+    },
+    {
+     "name": "ప్లాన్‌–బి",
+     "type": "Scheme",
+     "english_name": "Plan-B"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అమరావతి నిర్మాణాల్లో సీఎం చంద్రబాబు అంతులేని అవినీతి చేస్తున్నారని"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్లాన్‌–బి",
+     "evidence": "అందుకే ఇప్పుడు ప్లాన్‌–బి ప్రతిపాదిస్తున్నామని వెల్లడించారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబునాయుడు వంటి వ్యక్తి రాష్ట్ర ముఖ్యమంత్రిగా ఉండటం ఆంధ్ర రాష్ట్ర ప్రజల దురదృష్టం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "29c603ba2659db6695a377630d189930c2e086f5": {
+   "entities": [
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "శాసనసభ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "మంత్రి కె.పార్థసారథి",
+     "type": "Person",
+     "english_name": "Minister K. Parthasarathi"
+    },
+    {
+     "name": "రాజ్యాంగం",
+     "type": "Organization",
+     "english_name": "Constitution"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "ఏపీ హైకోర్టు",
+     "type": "Organization",
+     "english_name": "AP High Court"
+    },
+    {
+     "name": "ఉత్తరాఖండ్",
+     "type": "Place",
+     "english_name": "Uttarakhand"
+    },
+    {
+     "name": "జార్ఖండ్",
+     "type": "Place",
+     "english_name": "Jharkhand"
+    },
+    {
+     "name": "ఛత్తీస్‌గఢ్‌",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fc7ac0739a29a0322fccdd58bc7c58df8b7dff47": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "రాజ్యాంగంలో రాష్ట్ర రాజధాని ప్రస్తావన లేదు",
+     "type": "Claim",
+     "english_name": "Constitution does not mention state capital"
+    },
+    {
+     "name": "అమరావతి నిర్మాణాల్లో అవినీతి",
+     "type": "Claim",
+     "english_name": "Corruption in Amaravati construction"
+    },
+    {
+     "name": "టెండర్లలో భారీ పెరుగుదల",
+     "type": "Claim",
+     "english_name": "Huge increase in tenders"
+    },
+    {
+     "name": "వ్యయం అంచనాలు 4.8 శాతం వరకు పెంపు",
+     "type": "Claim",
+     "english_name": "Cost estimates increased up to 4.8%"
+    },
+    {
+     "name": "ప్రభుత్వ గ్యారెంటీ",
+     "type": "Claim",
+     "english_name": "Government guarantee"
+    },
+    {
+     "name": "ప్రభుత్వ ఖజానా",
+     "type": "Claim",
+     "english_name": "Government treasury"
+    },
+    {
+     "name": "అప్పుల్లో రూ.13 వేల కోట్లు మంజూరు",
+     "type": "Claim",
+     "english_name": "Rs 13,000 crore sanctioned in loans"
+    },
+    {
+     "name": "రూ.5,500 కోట్లు మొబిలైజేషన్‌ కింద ఇచ్చారు",
+     "type": "Claim",
+     "english_name": "Rs 5,500 crore given under mobilization"
+    },
+    {
+     "name": "8 శాతం కమిషన్‌ వసూలు చేశారు",
+     "type": "Claim",
+     "english_name": "8% commission collected"
+    },
+    {
+     "name": "ఏడేళ్లలో అమరావతిలో పనుల వ్యయం రూ.8 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 8,000 crore spent on works in seven years"
+    },
+    {
+     "name": "కనీస మౌలిక వసతులకు భారీ ఖర్చు",
+     "type": "Claim",
+     "english_name": "Huge cost for basic infrastructure"
+    },
+    {
+     "name": "ఒక్కో ఎకరాకు రూ.2 కోట్లు వ్యయం",
+     "type": "Claim",
+     "english_name": "Rs 2 crore per acre cost"
+    },
+    {
+     "name": "లక్ష ఎకరాల్లో అందుకు ఏకంగా రూ.2 లక్షల కోట్ల ఖర్చు",
+     "type": "Claim",
+     "english_name": "Rs 2 lakh crore cost for one lakh acres"
+    },
+    {
+     "name": "విశాఖలో ఎగ్జిక్యూటివ్‌ క్యాపిటల్‌",
+     "type": "Scheme",
+     "english_name": "Executive capital in Visakhapatnam"
+    },
+    {
+     "name": "కర్నూలులో హైకోర్టు",
+     "type": "Scheme",
+     "english_name": "High court in Kurnool"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాజ్యాంగంలో రాష్ట్ర రాజధాని ప్రస్తావన లేదు",
+     "evidence": "రాజ్యాంగంలో ఎక్కడా రాష్ట్ర రాజ«ధాని ప్రస్తావన లేదు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతి నిర్మాణాల్లో అవినీతి",
+     "evidence": "అమరావతి నిర్మాణాల్లో అంతులేని అవినీతి"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "టెండర్లలో భారీ పెరుగుదల",
+     "evidence": "2018 నాటి టెండర్లలో భారీ పెరుగుదల"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "వ్యయం అంచనాలు 4.8 శాతం వరకు పెంపు",
+     "evidence": "వ్యయం అంచనాలు 4.8 శాతం వరకు పెంపు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ గ్యారెంటీ",
+     "evidence": "వాటికి ప్రభుత్వ గ్యారెంటీ ఎందుకిస్తున్నారు?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఖజానా",
+     "evidence": "ఇంకా ప్రభుత్వ ఖజానా నుంచి నిధులెందుకు?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అప్పుల్లో రూ.13 వేల కోట్లు మంజూరు",
+     "evidence": "ఇప్పటికే అప్పుల్లో రూ.13 వేల కోట్లు మంజూరు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.5,500 కోట్లు మొబిలైజేషన్‌ కింద ఇచ్చారు",
+     "evidence": "రూ.5,500 కోట్లు మొబిలైజేషన్‌ కింద ఇచ్చారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "8 శాతం కమిషన్‌ వసూలు చేశారు",
+     "evidence": "అందులో 8 శాతం కమిషన్‌ వసూలు చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏడేళ్లలో అమరావతిలో పనుల వ్యయం రూ.8 వేల కోట్లు",
+     "evidence": "ఏడేళ్లలో అమరావతిలో పనుల వ్యయం రూ.8 వేల కోట్లు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "కనీస మౌలిక వసతులకు భారీ ఖర్చు",
+     "evidence": "అమరావతిలో కనీస మౌలిక వసతులకు భారీ ఖర్చు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఒక్కో ఎకరాకు రూ.2 కోట్లు వ్యయం",
+     "evidence": "ఒక్కో ఎకరాకు రూ.2 కోట్లు వ్యయం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "లక్ష ఎకరాల్లో అందుకు ఏకంగా రూ.2 లక్షల కోట్ల ఖర్చు",
+     "evidence": "లక్ష ఎకరాల్లో అందుకు ఏకంగా రూ.2 లక్షల కోట్ల ఖర్చు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "విశాఖలో ఎగ్జిక్యూటివ్‌ క్యాపిటల్‌",
+     "evidence": "విశాఖలో ఎగ్జిక్యూటివ్‌ క్యాపిటల్‌."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కర్నూలులో హైకోర్టు",
+     "evidence": "కర్నూలులో హైకోర్టు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "75be7bdbb491b406f3cde6505149255a6613b60f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాజధాని",
+     "type": "Issue",
+     "english_name": "Capital"
+    },
+    {
+     "name": "అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "de1e93e173cdfec37b342d03d88a550fce56826e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అమరావతి స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Amaravati Scam"
+    },
+    {
+     "name": "మొబిలైజేషన్‌ అడ్వాన్స్‌",
+     "type": "Scheme",
+     "english_name": "Mobilization Advance"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మొబిలైజేషన్‌ అడ్వాన్స్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అమరావతి స్కామ్‌",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "99939fe01a7c1edabc7f803f9df455f55da13526": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "పవన్‌ కల్యాణ్‌",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "హైదరాబాద్‌",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "రాజధాని",
+     "type": "Place",
+     "english_name": "Capital"
+    },
+    {
+     "name": "అమరావతి ప్రాంతం",
+     "type": "Place",
+     "english_name": "Amaravati area"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "బ్యాంకులు",
+     "type": "Organization",
+     "english_name": "Banks"
+    },
+    {
+     "name": "సమగ్ర ప్రాజెక్టు నివేదిక",
+     "type": "Scheme",
+     "english_name": "Comprehensive Project Report"
+    },
+    {
+     "name": "మొదటి దశ",
+     "type": "Scheme",
+     "english_name": "First Phase"
+    },
+    {
+     "name": "రెండో దశ",
+     "type": "Scheme",
+     "english_name": "Second Phase"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌ సీపీ",
+     "evidence": "చంద్రబాబునాయుడు ఏదో కొత్తగా ప్రజలకు తెలియనట్టుగా, దాన్ని పక్కదోవ పట్టిపట్టించేట్టుగా దాన్ని విప్లవాత్మకంగా తీసుకొస్తున్నట్టుగా బిల్డప్‌ ఇస్తున్నాడు."
+    },
+    {
+     "source": "కేంద్రం",
+     "relation": "LOCATED_IN",
+     "target": "హైదరాబాద్‌",
+     "evidence": "2019 వరకు హైదరాబాద్‌ కు షటిల్‌ సర్వీస్‌ చేశారు."
+    },
+    {
+     "source": "బ్యాంకులు",
+     "relation": "LOCATED_IN",
+     "target": "హైదరాబాద్‌",
+     "evidence": "2019 వరకు హైదరాబాద్‌ కు షటిల్‌ సర్వీస్‌ చేశారు."
+    },
+    {
+     "source": "రాజధాని",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈ లెక్కన రాజధానిలో తీసుకున్న, తీసుకోబోతున్న లక్ష ఎకరాల్లో కేవలం రోడ్లు వేయడానికి, కరెంట్, నీళ్లు ఇవ్వడానికి, డ్రెయినేజీ కనెక్షన్లు ఇవ్వడానికి ఎకరాకు రూ.2 కోట్లు చొప్పున లక్ష ఎకరాలకు ఏకంగా రూ 2 లక్షల కోట్లు ఖర్చు అవుతుంది."
+    },
+    {
+     "source": "అమరావతి ప్రాంతం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి ప్రాంతంలో ఒక ఎకరంలో కనీస మౌలిక వసతులు అంటే రోడ్లు, నీరు, కరెంటు, సివరేజ్‌ ఏర్పాటుకు రూ.2 కోట్లు కావాలి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "114365d9ab1b4d8d22432d6a400c1a21d7c334d0": {
+   "entities": [
+    {
+     "name": "అమరావతి స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Amaravati Scam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్",
+     "evidence": "చంద్రబాబు ఇచ్చిన సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ హామీలు కూడా మోసాలుగా మిగిలిపోయాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌",
+     "evidence": "చంద్రబాబు ఇచ్చిన సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ హామీలు కూడా మోసాలుగా మిగిలిపోయాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af4cab8d5e5a6f155531245629f50d1655f3f331": {
+   "entities": [
+    {
+     "name": "5 టవర్ల మొత్తం బిల్డప్‌ ఏరియా",
+     "type": "Claim",
+     "english_name": "Total built-up area of 5 towers"
+    },
+    {
+     "name": "ఒక్కో ఎస్‌ఎఫ్‌టీ ఖర్చు",
+     "type": "Claim",
+     "english_name": "Cost per square foot"
+    },
+    {
+     "name": "అమరావతిలో ఒక్కో ఎస్‌ఎఫ్‌టీ నిర్మాన వ్యయం",
+     "type": "Claim",
+     "english_name": "Construction cost per square foot in Amaravati"
+    },
+    {
+     "name": "హైదరాబాద్, బెంగళూరు, చెన్నైలో ఎస్‌ఎఫ్‌టీ ఖర్చు",
+     "type": "Claim",
+     "english_name": "Cost per square foot in Hyderabad, Bengaluru, Chennai"
+    },
+    {
+     "name": "తాత్కాలిక సచివాలయం వ్యయం",
+     "type": "Claim",
+     "english_name": "Cost of temporary secretariat"
+    },
+    {
+     "name": "రూ.6671 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 6671 crores"
+    },
+    {
+     "name": "మరో రూ.1053 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 1053 crores"
+    },
+    {
+     "name": "కేసీఆర్‌గారు సచివాలయాన్ని",
+     "type": "Person",
+     "english_name": "KCR"
+    },
+    {
+     "name": "తెలంగాణలో సచివాలయాన్ని",
+     "type": "Organization",
+     "english_name": "Telangana Secretariat"
+    },
+    {
+     "name": "దేశ రాజధాని ఢిల్లీలో పార్లమెంట్‌ భవనం",
+     "type": "Organization",
+     "english_name": "Parliament building in Delhi"
+    },
+    {
+     "name": "మన సచివాలయాన్ని",
+     "type": "Organization",
+     "english_name": "Our secretariat"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "114c8443a3196c5e1c6e0785380c494c1f6ea0ae": {
+   "entities": [
+    {
+     "name": "రూ.6671 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 6671 crores"
+    },
+    {
+     "name": "రూ.1053 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 1053 crores"
+    },
+    {
+     "name": "రూ.1100 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 1100 crores"
+    },
+    {
+     "name": "కేసీఆర్‌గారు",
+     "type": "Person",
+     "english_name": "KCR"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "పార్లమెంట్‌ భవనం",
+     "type": "Organization",
+     "english_name": "Parliament building"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కొండవీటి వాగు",
+     "type": "Place",
+     "english_name": "Kondaveeti Vagu"
+    },
+    {
+     "name": "రోడ్లు",
+     "type": "Organization",
+     "english_name": "Roads"
+    },
+    {
+     "name": "ఫ్లైఓవర్",
+     "type": "Organization",
+     "english_name": "Flyover"
+    },
+    {
+     "name": "బెంజ్‌ సర్కిల్‌",
+     "type": "Place",
+     "english_name": "Benz Circle"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "నేషనల్‌ హైవే",
+     "type": "Organization",
+     "english_name": "National Highway"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కేసీఆర్‌గారు",
+     "relation": "ACCUSES",
+     "target": "సచివాలయం",
+     "evidence": "కేసీఆర్‌గారు సచివాలయాన్ని 28 ఎకరాల్లో నిర్మించారు."
+    },
+    {
+     "source": "కేసీఆర్‌గారు",
+     "relation": "ACCUSES",
+     "target": "హైకోర్టు",
+     "evidence": "ఆ 5 టవర్లతో పాటు, హైకోర్టు కోసం మరో రూ.1480 కోట్లు ఖర్చు చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రోడ్లు",
+     "evidence": "రోడ్లు అయినా, కొండవీటి వాగు వరద మళ్లింపు అయినా, ఆర్కిటెక్చర్‌ డిజైన్లు అయినా.. ప్రతి చోటా అవినీతి కనిపిస్తోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఫ్లైఓవర్",
+     "evidence": "కొండవీటి వాగు నుంచి వారధి వరకు ఫ్లైఓవర్‌ నిర్మాణానికి కి.మీ.కు రూ.170 కోట్లు ఖర్చు చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రోడ్లు",
+     "evidence": "అమరావతిలో మిగిలిన 6 లేన్‌ రోడ్ల కోసం కి.మీ.కు ఏకంగా రూ.53 కోట్లు ఖర్చు చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నేషనల్‌ హైవే",
+     "evidence": "అదే నేషనల్‌ హైవే నిర్మాణంలో కి.మీ.కు కేవలం రూ.20 కోట్లకే టెండర్లు పిలుస్తారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "684b6cf6695ddf4993ae6e2bdb63767e9bcf42ec": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    },
+    {
+     "name": "Budget/CAG",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    },
+    {
+     "name": "CAPITAL MAVIGUN",
+     "type": "Organization",
+     "english_name": "Capital Mavigun"
+    },
+    {
+     "name": "AMARAVTI CAPITAL SCAM",
+     "type": "Issue",
+     "english_name": "Amaravati Capital Scam"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Assembly",
+     "type": "Organization",
+     "english_name": "Assembly"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "YSRCP",
+     "evidence": "అసెంబ్లీ ప్రత్యేక సమావేశంలో చెప్పలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "53ed82143900339c55d38750776c6f2d245581e5": {
+   "entities": [
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "33a568b1131bbf090ef3c26e3021325308280ffd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "రాయలసీమ",
+     "type": "Place",
+     "english_name": "Rayalaseema"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "హైదరాబాద్‌",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు, ఆయన ఎల్లో మీడియా, వాళ్ల ముఠా కేవలం వారి స్వార్థం కోసం, వాళ్ల బినామీలు, వాళ్ల ఆస్తులు, వాళ్లు కొనుగోలు చేసిన ల్యాండ్‌ రేట్లు పెంచుకోవడం కోసం చెప్పని అబద్ధం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "చంద్రబాబు, ఆయన ఎల్లో మీడియా, వాళ్ల ముఠా కేవలం వారి స్వార్థం కోసం, వాళ్ల బినామీలు, వాళ్ల ఆస్తులు, వాళ్లు కొనుగోలు చేసిన ల్యాండ్‌ రేట్లు పెంచుకోవడం కోసం చెప్పని అబద్ధం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబునాయుడు ఎగ్జిక్యూటీవ్‌ క్యాపిటల్‌గా విశాఖను రద్దు చేశాడు. న్యాయ రాజధానిగా కర్నూలును రద్దు చేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "పోనీ, అమరావతిలో రూ.2 లక్షల కోట్లు ఎప్పుడు పెట్టగలడో, ఎక్కడ నుంచి తెస్తాడో చంద్రబాబు చెప్పగలడా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "అసాధ్యమని ఒకవైపున కనిపిస్తుంటే, మరోవైపున రాష్ట్ర ప్రభుత్వం బాధ్యతగా చేయాల్సిన పనులు, ప్రజలకు చేయాల్సిన మంచి ఇవన్నీ కూడా ఆగిపోతున్న పరిస్థితులు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "భవిష్యత్తులో కూడా రాష్ట్రానికి ఒక గ్రోత్‌ ఇంజిన్‌ అనేది లేకుండా చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు తన స్కాముల కోసం కుట్ర చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "వీటన్నింటికీ చంద్రబాబు బదులిస్తారా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4c880707a12e6385671ab1fada9fbc94451a32b5": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మ వి గన్‌ (జీయూఎన్‌)",
+     "type": "Scheme",
+     "english_name": "MVI GUN (GUN)"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ప్లాన్‌–ఏ",
+     "type": "Scheme",
+     "english_name": "Plan-A"
+    },
+    {
+     "name": "ప్లాన్‌–బీ",
+     "type": "Scheme",
+     "english_name": "Plan-B"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర ప్రభుత్వం",
+     "evidence": "చంద్రబాబు అప్పులు తెస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మ వి గన్‌ (జీయూఎన్‌)",
+     "evidence": "అందుకే మ వ గన్‌ (జీయూఎన్‌) ప్రతిపాదిస్తున్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్లాన్‌–ఏ",
+     "evidence": "మేము చేసిన ప్లాన్‌–ఏ ఏ మీకు నచ్చలేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్లాన్‌–బీ",
+     "evidence": "పోనీ, ప్లాన్‌–బీ ఇచ్చాం కదా.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e83a12b66a7b7dacbde848d85511736ec4cef24e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అమరావతి సెల్ఫ్‌ ఫైనాన్స్‌ ప్రాజెక్ట్‌",
+     "type": "Scheme",
+     "english_name": "Amaravati Self-Finance Project"
+    },
+    {
+     "name": "రాష్ట్ర ప్రజలు",
+     "type": "Person",
+     "english_name": "State people"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "అక్కచెల్లెమ్మలు",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "పిల్లలు",
+     "type": "Person",
+     "english_name": "Children"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu"
+    },
+    {
+     "name": "ఆరోగ్య శ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogya Sri"
+    },
+    {
+     "name": "ఉద్యోగస్తులు",
+     "type": "Person",
+     "english_name": "Employees"
+    },
+    {
+     "name": "మిగతా ప్రాంతాలు",
+     "type": "Place",
+     "english_name": "Other regions"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర ప్రజలు",
+     "evidence": "రాష్ట్ర ప్రజలు ఏం కావాలి?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రైతులు",
+     "evidence": "రైతుల పరిస్థితి ఏమిటీ?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అక్కచెల్లెమ్మలు",
+     "evidence": "అక్కచెల్లెమ్మల పరిస్థితి ఏమిటీ?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పిల్లలు",
+     "evidence": "చదువుతున్న పిల్లల పరిస్థితి ఏమిటీ?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఉద్యోగస్తులు",
+     "evidence": "ఉద్యోగస్తులకు ఇవ్వాల్సిన రూ.36 వేల కోట్ల బకాయిల పరిస్థితి ఏమిటీ?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3cd3169dbe5ea940944dde1af0f7515a74532814": {
+   "entities": [
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నారాయణ",
+     "type": "Person",
+     "english_name": "Narayan"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "ఎయిర్‌ పోర్టు",
+     "type": "Organization",
+     "english_name": "Airport"
+    },
+    {
+     "name": "రైల్వే స్టేషన్‌",
+     "type": "Organization",
+     "english_name": "Railway Station"
+    },
+    {
+     "name": "ఇంటర్నేషనల్‌ స్టేడియం",
+     "type": "Organization",
+     "english_name": "International Stadium"
+    },
+    {
+     "name": "ట్రంక్‌ ఇన్ఫ్రా",
+     "type": "Organization",
+     "english_name": "Trunk Infrastructure"
+    },
+    {
+     "name": "5 టవర్లు",
+     "type": "Organization",
+     "english_name": "5 Towers"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అసెంబ్లీ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "5 టవర్లు, అసెంబ్లీ, హైకోర్టు 2028 ఆగస్టు నాటికి పూర్తవుతాయట."
+    },
+    {
+     "source": "ఎయిర్‌ పోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఎయిర్‌ పోర్టు లేదని"
+    },
+    {
+     "source": "రైల్వే స్టేషన్‌",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "రైల్వే స్టేషన్‌ లేదని"
+    },
+    {
+     "source": "ఇంటర్నేషనల్‌ స్టేడియం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఇంటర్నేషనల్‌ స్టేడియం లేదని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d0ee84892dca882f3abbb88f49005d522201737a": {
+   "entities": [
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టెండర్లు",
+     "type": "Claim",
+     "english_name": "Tenders"
+    },
+    {
+     "name": "గూడుపుఠాని",
+     "type": "Claim",
+     "english_name": "Guduputhani"
+    },
+    {
+     "name": "మాఫియా",
+     "type": "Claim",
+     "english_name": "Mafia"
+    },
+    {
+     "name": "ల్యాండ్",
+     "type": "Claim",
+     "english_name": "Land"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Claim",
+     "english_name": "Sand"
+    },
+    {
+     "name": "కరెంట్‌ ఛార్జీల్లో రాయితీలు",
+     "type": "Claim",
+     "english_name": "Electricity charge subsidies"
+    },
+    {
+     "name": "జీఎస్టీ",
+     "type": "Claim",
+     "english_name": "GST"
+    },
+    {
+     "name": "సీనరేజీ",
+     "type": "Claim",
+     "english_name": "Seigniorage"
+    },
+    {
+     "name": "ఎన్‌ఏసీ మినహాయింపులు",
+     "type": "Claim",
+     "english_name": "NAC exemptions"
+    },
+    {
+     "name": "చదరపు అడుగుకు రూ.11 వేల నుంచి రూ.14 వేలు వ్యయం",
+     "type": "Claim",
+     "english_name": "Cost per square foot Rs 11k to Rs 14k"
+    },
+    {
+     "name": "అతి పెద్ద స్కామ్‌ క్యాపిటల్‌గా అమరావతి",
+     "type": "Issue",
+     "english_name": "Amaravati capital scam"
+    },
+    {
+     "name": "అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption"
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": "Bengaluru"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "అమరావతి అవినీతి",
+     "type": "Issue",
+     "english_name": "Amaravati Corruption"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "టెండర్లు",
+     "evidence": "అమరావతిలో టెండర్లు ఒక్కసారి గమనిస్తే, 2018లో ఏ పనులు, ఎవరు చేశారో 2024 టెండర్లు రద్దు చేసిన తర్వాత కూడా ఇప్పుడు వారికి అవే పనులకు సంబంధించిన టెండర్లు దక్కాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గూడుపుఠాని",
+     "evidence": "ఇది గూడుపుఠాని కాదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మాఫియా",
+     "evidence": "ఇది మాఫియా వ్యవహారం కాదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ల్యాండ్",
+     "evidence": "ఇక్కడ మరో ఆశ్చర్యకర విషయం ఏమిటంటే.. ఇక్కడ ల్యాండ్, ఇసుక ఫ్రీ, కరెంట్‌ ఛార్జీల్లో రాయితీలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇసుక",
+     "evidence": "ఇక్కడ మరో ఆశ్చర్యకర విషయం ఏమిటంటే.. ఇక్కడ ల్యాండ్, ఇసుక ఫ్రీ, కరెంట్‌ ఛార్జీల్లో రాయితీలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కరెంట్‌ ఛార్జీల్లో రాయితీలు",
+     "evidence": "ఇక్కడ మరో ఆశ్చర్యకర విషయం ఏమిటంటే.. ఇక్కడ ల్యాండ్, ఇసుక ఫ్రీ, కరెంట్‌ ఛార్జీల్లో రాయితీలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "జీఎస్టీ",
+     "evidence": "జీఎస్టీ, సీనరేజీ, ఎన్‌ఏసీ మినహాయింపులు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సీనరేజీ",
+     "evidence": "జీఎస్టీ, సీనరేజీ, ఎన్‌ఏసీ మినహాయింపులు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్‌ఏసీ మినహాయింపులు",
+     "evidence": "జీఎస్టీ, సీనరేజీ, ఎన్‌ఏసీ మినహాయింపులు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చదరపు అడుగుకు రూ.11 వేల నుంచి రూ.14 వేలు వ్యయం",
+     "evidence": "ఇది భయంకరమైన దోపిడీ కాదా?."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a18c1695c3bd0fd695799d5300f9dc592a7f46c4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాజధాని",
+     "type": "Issue",
+     "english_name": "Capital"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Vyas Jagan"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a3553417778b40ce10b819f91fcf88671a7a6433": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నారాయణ",
+     "type": "Person",
+     "english_name": "Narayan"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    },
+    {
+     "name": "Budget/CAG",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "Capital Mavigun",
+     "type": "Place",
+     "english_name": "Capital Mavigun"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "Machilipatnam",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "Trunk Infra",
+     "type": "Organization",
+     "english_name": "Trunk Infra"
+    },
+    {
+     "name": "Assembly",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cfa202d16303b8fcff09c5bc888bf4db323c2609": {
+   "entities": [
+    {
+     "name": "అమరావతి రాజధాని ముసుగులో ఒక పెద్ద ఆర్గనైజ్డ్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Amaravati capital scam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "5 టవర్లు",
+     "type": "Scheme",
+     "english_name": "5 towers"
+    },
+    {
+     "name": "టవర్‌–1, టవర్‌–2",
+     "type": "Scheme",
+     "english_name": "Tower-1, Tower-2"
+    },
+    {
+     "name": "హిందూ పత్రిక",
+     "type": "Organization",
+     "english_name": "Hindu newspaper"
+    },
+    {
+     "name": "2018",
+     "type": "Organization",
+     "english_name": "2018"
+    },
+    {
+     "name": "కాంట్రాక్ట్‌ వ్యయం",
+     "type": "Claim",
+     "english_name": "Contract cost"
+    },
+    {
+     "name": "రూ.932 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.932 crores"
+    },
+    {
+     "name": "రూ.1,423 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.1,423 crores"
+    },
+    {
+     "name": "4.8 శాతం",
+     "type": "Claim",
+     "english_name": "4.8 percent"
+    },
+    {
+     "name": "నజరానాగా జీఎస్టీ, సినరేజీ, ఎన్‌ఏసీ, ఇంకా పన్నుల మినహాయింపు",
+     "type": "Claim",
+     "english_name": "Exemption of GST, sinarge, NAC, and taxes as gratuity"
+    },
+    {
+     "name": "రూ.275.7 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.275.7 crores"
+    },
+    {
+     "name": "రూ.1762.81 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.1762.81 crores"
+    },
+    {
+     "name": "షాపూర్‌ పల్లంజీ",
+     "type": "Organization",
+     "english_name": "Shapoor Pallonji"
+    },
+    {
+     "name": "టవర్‌ 3, టవర్‌ 4",
+     "type": "Scheme",
+     "english_name": "Tower 3, Tower 4"
+    },
+    {
+     "name": "రూ.784.63 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.784.63 crores"
+    },
+    {
+     "name": "రూ.1,247 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.1,247 crores"
+    },
+    {
+     "name": "4.54 శాతం",
+     "type": "Claim",
+     "english_name": "4.54 percent"
+    },
+    {
+     "name": "జీఎస్టీ, సినరేజీ, ఎన్‌ఏసీ",
+     "type": "Claim",
+     "english_name": "GST, sinarge, NAC"
+    },
+    {
+     "name": "ఇంకా పన్నుల మినహాయింపు ద్వారా మరో రూ.241.7 కోట్లు లబ్ధి",
+     "type": "Claim",
+     "english_name": "Tax exemption benefit of Rs 241.7 crores"
+    },
+    {
+     "name": "రూ.1,545 కోట్లకు ఎల్‌ అండ్‌ టీకి కట్టబెట్టారు",
+     "type": "Claim",
+     "english_name": "Awarded Rs 1,545 crores to L&T"
+    },
+    {
+     "name": "జీఏడీ టవర్‌",
+     "type": "Organization",
+     "english_name": "GAD Tower"
+    },
+    {
+     "name": "రూ.554 కోట్లు",
+     "type": "Claim",
+     "english_name": "Contract value of Rs 554 crores"
+    },
+    {
+     "name": "రూ.844.22 కోట్లకు పెంచారు",
+     "type": "Claim",
+     "english_name": "Increased work value to Rs 844.22 crores"
+    },
+    {
+     "name": "రూ.163.6 కోట్ల లబ్ది",
+     "type": "Claim",
+     "english_name": "Benefit of Rs 163.6 crores"
+    },
+    {
+     "name": "రూ.4,354 కోట్లకు కాంట్రాక్టులు ఇచ్చారు",
+     "type": "Claim",
+     "english_name": "Contracts awarded for Rs 4,354 crores"
+    },
+    {
+     "name": "ఎన్‌సీసీ సంస్థకు",
+     "type": "Organization",
+     "english_name": "NCC"
+    },
+    {
+     "name": "రూ.2,316 కోట్లతో టెండర్లు పిల్చారు",
+     "type": "Claim",
+     "english_name": "Tenders called for Rs 2,316 crores"
+    },
+    {
+     "name": "రూ.6,671 కోట్లు",
+     "type": "Claim",
+     "english_name": "Total cost of 5 towers Rs 6,671 crores"
+    },
+    {
+     "name": "రూ.1,053 కోట్లు ఖర్చు చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": "Spending Rs 1,053 crores on infrastructure"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "షాపూర్‌ పల్లంజీ",
+     "evidence": "చంద్రబాబు కట్టాలనుకుంటున్న 5 టవర్లు. టెండర్లు చూస్తే.. వారి దోపిడికి వీరప్పన్‌ కూడా సరిపోడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f4b65f5ed468835fc1820c1863cdd907d6b02455": {
+   "entities": [
+    {
+     "name": "శాప్",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "అనంతపురానికి చెందిన ఓ ఫెన్సింగ్‌ క్రీడాకారిణి",
+     "type": "Person",
+     "english_name": "fencing sportswoman from Anantapur"
+    },
+    {
+     "name": "నేషనల్‌ గేమ్స్‌",
+     "type": "Scheme",
+     "english_name": "National Games"
+    },
+    {
+     "name": "సీనియర్‌ నేషనల్స్‌",
+     "type": "Scheme",
+     "english_name": "Senior Nationals"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b4b4d7f906765a4ae921b41710462c19a0620389": {
+   "entities": [
+    {
+     "name": "National Games",
+     "type": "Scheme",
+     "english_name": "National Games"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "District Sports Committee"
+    },
+    {
+     "name": "Sports",
+     "type": "Issue",
+     "english_name": "Sports"
+    },
+    {
+     "name": "A-category",
+     "type": "Scheme",
+     "english_name": "A-category"
+    },
+    {
+     "name": "B-category",
+     "type": "Scheme",
+     "english_name": "B-category"
+    },
+    {
+     "name": "SAP",
+     "type": "Organization",
+     "english_name": "SAP"
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4db031fe82b121387b9345f326d395097fbc85c5": {
+   "entities": [
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "ప్రభుత్వ క్రీడా విధానం 2024–29",
+     "type": "Scheme",
+     "english_name": "Government Sports Policy 2024-29"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "క్రీడాపాలసీ 2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "క్రీడాకారులు",
+     "type": "Person",
+     "english_name": "Sportsmen"
+    },
+    {
+     "name": "మాస్టర్‌మైండ్‌",
+     "type": "Person",
+     "english_name": "Mastermind"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీఎస్సీ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    },
+    {
+     "source": "శాప్‌",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    },
+    {
+     "source": "మాస్టర్‌మైండ్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు సర్కారు",
+     "evidence": "ముఖ్యనేత బంధువు, మాస్టర్‌మైండ్‌ పోస్టుకో రేటు పెట్టి ముడుపులు దండుకున్నారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

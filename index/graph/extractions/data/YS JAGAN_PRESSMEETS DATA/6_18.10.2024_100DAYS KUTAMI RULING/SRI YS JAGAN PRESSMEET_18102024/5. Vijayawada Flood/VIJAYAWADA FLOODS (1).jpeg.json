@@ -1,0 +1,31 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0af9953648e214d2eab89b3b492d691cd6c07ebc": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కలెক্টరేట్",
+     "type": "Place",
+     "english_name": "Collectorate"
+    },
+    {
+     "name": "బెజవాడ",
+     "type": "Place",
+     "english_name": "Bezawada"
+    },
+    {
+     "name": "బుడమేరు",
+     "type": "Place",
+     "english_name": "Budameru"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

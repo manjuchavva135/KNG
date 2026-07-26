@@ -1,0 +1,26 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d41a109c9fb34a4763af445aecf6b90a88a16602": {
+   "entities": [
+    {
+     "name": "తెలుగుదేశం",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కరెంటు రేట్లు",
+     "type": "Claim",
+     "english_name": "electricity rates"
+    },
+    {
+     "name": "నాణ్యమైన కరెంటు",
+     "type": "Claim",
+     "english_name": "quality electricity"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

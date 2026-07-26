@@ -1,0 +1,89 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "eb98c5dcbd73c7691b4f30d0e9bee6827f3daede": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": "Sri Lanka"
+    },
+    {
+     "name": "పంజాబ్",
+     "type": "Place",
+     "english_name": "Punjab"
+    },
+    {
+     "name": "Bihar",
+     "type": "Place",
+     "english_name": "Bihar"
+    },
+    {
+     "name": "Rajasthan",
+     "type": "Place",
+     "english_name": "Rajasthan"
+    },
+    {
+     "name": "UP",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "ThePrint",
+     "type": "Organization",
+     "english_name": "ThePrint"
+    },
+    {
+     "name": "ఎల్.వి.సుబ్రహ్మణ్యం",
+     "type": "Person",
+     "english_name": "L.V. Subramanyam"
+    },
+    {
+     "name": "పీవీ రమేష్",
+     "type": "Person",
+     "english_name": "P.V. Ramesh"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "ఆర్థిక సంక్షోభం",
+     "type": "Issue",
+     "english_name": "Economic Crisis"
+    },
+    {
+     "name": "రుణభారం",
+     "type": "Issue",
+     "english_name": "Debt Burden"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆంధ్రప్రదేశ్",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్కు ఉన్న మొత్తం చెల్లింపుల భారం రూ.7.76 లక్షల కోట్లు కూడా పరిగణనలోకి తీసుకుంటే జీఎస్డీపీలో మన భారాల వాటా 76 శాతంగా ఉంటుందనేది నిపుణుల లెక్కి."
+    },
+    {
+     "source": "శ్రీలంక",
+     "relation": "LOCATED_IN",
+     "target": "శ్రీలంక",
+     "evidence": "చరిత్రలో ఎన్నడూ చూడనంత ఆర్థిక సంక్షోభాన్ని శ్రీలంక ఎదుర్కొంటోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

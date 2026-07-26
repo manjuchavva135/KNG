@@ -1,0 +1,1204 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "915a68253ae0ee08b3387fe4f6cf49d2112bde7c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రేవంత్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Revanth Reddy"
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Irrigation"
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "పోతిరెడ్డిపాడు హెడ్‌ రెగ్యులేటర్‌",
+     "type": "Place",
+     "english_name": "Pothireddypadu Head Regulator"
+    },
+    {
+     "name": "రాష్ట్రాన్ని అమ్మకానికి పెట్టడం",
+     "type": "Claim",
+     "english_name": "Selling the state"
+    },
+    {
+     "name": "రహస్య ఒప్పందం",
+     "type": "Claim",
+     "english_name": "Secret agreement"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రేవంత్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబునాయుడు రాష్ట్రాన్ని ఎలా అమ్మకానికి పెట్టారన్న వాస్తవాలు అలా రేవంత్‌రెడ్డిగారు చెప్పారు."
+    },
+    {
+     "source": "రేవంత్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రాన్ని అమ్మకానికి పెట్టడం",
+     "evidence": "చంద్రబాబునాయుడు రాష్ట్రాన్ని ఎలా అమ్మకానికి పెట్టారన్న వాస్తవాలు అలా రేవంత్‌రెడ్డిగారు చెప్పారు."
+    },
+    {
+     "source": "రేవంత్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రహస్య ఒప్పందం",
+     "evidence": "రేవంత్‌రెడ్డితో చంద్రబాబుకు ఉన్న రహస్య ఒప్పందానికి ముద్ర వేసినట్లే."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌",
+     "evidence": "రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ పనులను ఆపేయాలని క్లోజ్డ్‌ డోర్‌ మీటింగ్‌లో తాను కోరితే, తన మీద ఉన్న గౌరవంతో చంద్రబాబు వెంటనే ఆ పని చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రాన్ని అమ్మకానికి పెట్టడం",
+     "evidence": "చంద్రబాబునాయుడు రాష్ట్రాన్ని ఎలా అమ్మకానికి పెట్టారన్న వాస్తవాలు అలా రేవంత్‌రెడ్డిగారు చెప్పారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రహస్య ఒప్పందం",
+     "evidence": "రేవంత్‌రెడ్డితో చంద్రబాబుకు ఉన్న రహస్య ఒప్పందానికి ముద్ర వేసినట్లే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9dda01396be7325df7ce355c9957de405a7757a9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "నాగార్జునసాగర్‌",
+     "type": "Place",
+     "english_name": "Nagarjunasagar"
+    },
+    {
+     "name": "పులిచింతల",
+     "type": "Place",
+     "english_name": "Pulichintala"
+    },
+    {
+     "name": "ఓటుకు కోట్లు కేసు",
+     "type": "Issue",
+     "english_name": "Vote for cash case"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cdd9248f9c5a651306f23b12dae05222543953d4": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీం",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Irrigation Scheme"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "భోగాపురం ఎయిర్‌పోర్టు",
+     "type": "Organization",
+     "english_name": "Bhogapuram Airport"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "రాయలసీమ",
+     "type": "Place",
+     "english_name": "Rayalaseema"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కేంద్ర మంత్రి గడ్కరీ",
+     "type": "Person",
+     "english_name": "Union Minister Gadkari"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "ఆర్బీఐ నివేదిక",
+     "type": "Organization",
+     "english_name": "RBI report"
+    },
+    {
+     "name": "రాష్ట్రాన్ని అప్పులకుప్పగా మార్చిన చంద్రబాబు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పరిశ్రమలపైనా చంద్రబాబు అసత్యాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పారిశ్రామిక పెట్టుబడులపైనా చంద్రబాబు అసత్యాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పరిశ్రమల ఏర్పాటు పేరుతోనూ అవినీతి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రాన్ని అప్పులకుప్పగా మార్చిన చంద్రబాబు",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు మాటలు హేయం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "కేంద్రంలో టీడీపీ మంత్రి ఉన్నా చేసిందేమీ లేదు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "పరిశ్రమలపైనా చంద్రబాబు అసత్యాలు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రాన్ని అప్పులకుప్పగా మార్చిన చంద్రబాబు",
+     "evidence": "18 నెలల్లోనే ఏకంగా రూ.3 లక్షల కోట్లకు పైగా అప్పు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "పరిశ్రమలపైనా చంద్రబాబు అసత్యాలు",
+     "evidence": "మా హయాంలోనే ఎక్కువ పెట్టుబడులు, ఉద్యోగాలు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "పారిశ్రామిక పెట్టుబడులపైనా చంద్రబాబు అసత్యాలు",
+     "evidence": "అన్నీ తేటతెల్లం చేసిన ఆర్బీఐ నివేదిక"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "పరిశ్రమల ఏర్పాటు పేరుతోనూ అవినీతి",
+     "evidence": "ఊరూ పేరూ లేని కంపెనీలకు అప్పనంగా భూమి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c0d65130fd9b37a4d7cf9d84779242484f452a50": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "తెలంగాణ సీఎం",
+     "type": "Person",
+     "english_name": "Telangana Chief Minister"
+    },
+    {
+     "name": "చంద్రబాబునాయుడుగారు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ఇరిగేషన్‌ మంత్రి",
+     "type": "Person",
+     "english_name": "Irrigation Minister"
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ ఇరిగేషన్‌ స్కీమ్‌",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Irrigation Scheme"
+    },
+    {
+     "name": "బొగాపురం ఎయిర్‌పోర్టు",
+     "type": "Organization",
+     "english_name": "Bhogapuram Airport"
+    },
+    {
+     "name": "రాష్ట్రంలో పారిశ్రామిక పురోగతిపై ఆర్‌బీఐ నివేదిక",
+     "type": "Organization",
+     "english_name": "RBI Report on Industrial Progress"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్‌",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "పన్నుల పేరిట బాదుడే బాదుడు",
+     "type": "Issue",
+     "english_name": "Taxation Burden"
+    },
+    {
+     "name": "రాష్ట్రానికి రావాల్సిన ఆదాయానికి గండి కొడుతూ చేస్తున్న అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption affecting state revenue"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "తెలంగాణ ముఖ్యమంత్రిగారు",
+     "type": "Person",
+     "english_name": "Telangana Chief Minister"
+    },
+    {
+     "name": "రేవంత్‌రెడ్డిగారు",
+     "type": "Person",
+     "english_name": "Revanth Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "తెలంగాణ సీఎం",
+     "evidence": "కుండబద్దలు కొట్టిన తెలంగాణ సీఎం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడుగారు",
+     "evidence": "చంద్రబాబునాయుడుగారు మాట్లాడిన మాటలు చూసినా, ఆయన క్యాబినెట్‌లో ఇరిగేషన్‌ మంత్రి మాట్లాడిన మాటలు చూసినా అసలు వీళ్లు మనుషులేనా అనిపిస్తుంది."
+    },
+    {
+     "source": "రేవంత్‌రెడ్డిగారు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబునాయుడు రాష్ట్రాన్ని ఎలా అమ్మకానికి పెట్టారన్న వాస్తవాలు అలా రేవంత్‌రెడ్డిగారు చెప్పారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "తెలంగాణ ముఖ్యమంత్రిగారు",
+     "evidence": "తన మీద ఉన్న గౌరవంతో చంద్రబాబు వెంటనే ఆ పని చేశారని, తెలంగాణ ముఖ్యమంత్రిగారు నిండు అసెంబ్లీలోనే వెల్లడించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "77848a69f270d9e41900c8df9e1b29fe555222c9": {
+   "entities": [
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "నాగార్జునసాగర్‌",
+     "type": "Place",
+     "english_name": "Nagarjunasagar"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Organization",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "కల్వకుర్తి",
+     "type": "Place",
+     "english_name": "Kalwakurthi"
+    },
+    {
+     "name": "పాలమూరు–రంగారెడ్డి పథకాలు",
+     "type": "Scheme",
+     "english_name": "Palemuru–Rangareddy schemes"
+    },
+    {
+     "name": "జాతీయ హరిత ట్రిబ్యునల్‌ (ఎన్జీటీ)",
+     "type": "Organization",
+     "english_name": "National Green Tribunal (NGT)"
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ స్కీం",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Scheme"
+    },
+    {
+     "name": "మల్యాల",
+     "type": "Place",
+     "english_name": "Malyala"
+    },
+    {
+     "name": "ముచ్చుమర్రి",
+     "type": "Place",
+     "english_name": "Muchumarri"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "తెలంగాణ",
+     "evidence": "చంద్రబాబు నోరు మెదపని పరిస్థితి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "తెలంగాణ",
+     "evidence": "తెలంగాణతో రహస్య ఒప్పందం చేసుకున్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8e449547d255c775f46c7d5cbc945dcd2d9a5db6": {
+   "entities": [
+    {
+     "name": "ఎక్స్‌పర్ట్స్‌ అప్రైజల్‌ కమిటీ",
+     "type": "Organization",
+     "english_name": "Experts Appraisal Committee"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ స్కీమ్‌",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Scheme"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "గాలేరు నగరి సుజల స్రవంతి",
+     "type": "Scheme",
+     "english_name": "Galeru Nagari Sujala Sravanthi"
+    },
+    {
+     "name": "హంద్రీ నీవా సుజల స్రవంతి",
+     "type": "Scheme",
+     "english_name": "Handri Neeva Sujala Sravanthi"
+    },
+    {
+     "name": "స్టెబిలైజేషన్‌ రిజర్వాయర్లు",
+     "type": "Scheme",
+     "english_name": "Stabilisation Reservoirs"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎక్స్‌పర్ట్స్‌ అప్రైజల్‌ కమిటీ",
+     "evidence": "కేంద్ర ప్రభుత్వానికి చెందిన ‘ఎక్స్‌పర్ట్స్‌ అప్రైజల్‌ కమిటీ’ (ఈఏసీ).. 2024 నవంబరులో, 2025 జనవరిలో.. ఇంకా ఫిబ్రవరి 27న, మొత్తం మూడుసార్లు మీటింగ్‌ పెడితే, చంద్రబాబు ప్రభుత్వం కనీసం నోరు మెదపలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "037c02840df2d20997de58db30bd695f17eb7730": {
+   "entities": [
+    {
+     "name": "సోమశిల",
+     "type": "Organization",
+     "english_name": "Somashila"
+    },
+    {
+     "name": "కండలేరు ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Kandaleru Project"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "సంగం బ్యారేజీ",
+     "type": "Organization",
+     "english_name": "Sangam Barrage"
+    },
+    {
+     "name": "నాగార్జునసాగర్‌",
+     "type": "Organization",
+     "english_name": "Nagarjunasagar"
+    },
+    {
+     "name": "పులిచింతల",
+     "type": "Organization",
+     "english_name": "Pulichintala"
+    },
+    {
+     "name": "భోగాపురం ఎయిర్‌పోర్టు",
+     "type": "Organization",
+     "english_name": "Bhogapuram Airport"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "భోగాపురం ఎయిర్‌పోర్టు",
+     "evidence": "క్రెడిట్‌ చోరీకి చంద్రబాబు పాట్లు: భోగాపురం ఎయిర్‌పోర్టుకు సంబంధించి క్రెడిట్‌ చోరీ కోసం చంద్రబాబు పడరాని పాట్లు పడుతున్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ae6c829cd1a1cd2676d758fef5406eabd348c14e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "అశోక గజపతిరాజు",
+     "type": "Person",
+     "english_name": "Ashoka Gajapathi Raju"
+    },
+    {
+     "name": "నితిన్‌ గడ్కరీ",
+     "type": "Person",
+     "english_name": "Nitin Gadkari"
+    },
+    {
+     "name": "భోగాపురం ఎయిర్‌పోర్టు",
+     "type": "Organization",
+     "english_name": "Bhogapuram Airport"
+    },
+    {
+     "name": "కృష్ణా డెల్టా",
+     "type": "Place",
+     "english_name": "Krishna Delta"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "రేలసీమ లిఫ్ట్ ఇరిగేషన్",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Irrigation"
+    },
+    {
+     "name": "అమరావతి క్యాపిటల్ ఇష్యూ",
+     "type": "Issue",
+     "english_name": "Amaravati Capital Issue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "భోగాపురం ఎయిర్‌పోర్టు",
+     "evidence": "క్రెడిట్‌ చోరీకి చంద్రబాబు పాట్లు: భోగాపురం ఎయిర్‌పోర్టుకు సంబంధించి క్రెడిట్‌ చోరీ కోసం చంద్రబాబు పడరాని పాట్లు పడుతున్నాడు."
+    },
+    {
+     "source": "భోగాపురం ఎయిర్‌పోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖపట్నం",
+     "evidence": "విశాఖపట్నం నుంచి భోగాపురం వరకు 77 మీటర్ల వెడల్పుతో కనెక్టివిటీ రోడ్డుపై ప్రణాళిక సిద్ధం చేసి, అప్పటి ఆ శాఖ కేంద్ర మంత్రి నితిన్‌ గడ్కరీని కూడా ఒప్పించాం."
+    },
+    {
+     "source": "రేలసీమ లిఫ్ట్ ఇరిగేషన్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అమరావతి క్యాపిటల్ ఇష్యూ",
+     "evidence": "రేలసీమ లిఫ్ట్ ఇరిగేషన్_భోగాపురం_అమరావతి క్యాపిటల్ ఇష్యూ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "870d1f0d9b57086a06694397b8cc01703ec16f9c": {
+   "entities": [
+    {
+     "name": "పారిశ్రామిక రాయితీలు, ప్రోత్సాహకాలు",
+     "type": "Scheme",
+     "english_name": "Industrial subsidies and incentives"
+    },
+    {
+     "name": "ఎంఎస్‌ఎం రంగం",
+     "type": "Organization",
+     "english_name": "MSME sector"
+    },
+    {
+     "name": "ఆంధ్ర రాష్ట్రం",
+     "type": "Place",
+     "english_name": "Andhra State"
+    },
+    {
+     "name": "లూలూ కంపెనీ",
+     "type": "Organization",
+     "english_name": "Lulu Company"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "గుజరాత్",
+     "type": "Place",
+     "english_name": "Gujarat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లూలూ కంపెనీ",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖ",
+     "evidence": "విశాఖలో దాదాపు రూ.2 వేల కోట్ల విలువ చేసే 14 ఎకరాల భూమి 99 ఏళ్లకు లూలూ కంపెనీకి ఇచ్చారు."
+    },
+    {
+     "source": "లూలూ కంపెనీ",
+     "relation": "LOCATED_IN",
+     "target": "గుజరాత్",
+     "evidence": "అదే లూలూ గ్రూప్‌ రూ.519 కోట్లకు 16 ఎకరాలు అహ్మదాబాద్‌లో కొనుక్కుని మాల్‌ కడుతుంటే.. ఇక్కడ 14 ఎకరాల భూమి ఫ్రీగా ఇచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5b7a37239aadd7f6b4dd3f63a255dc698c891262": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సజ్జన్‌ జిందాల్",
+     "type": "Person",
+     "english_name": "Sajjan Jindal"
+    },
+    {
+     "name": "అరవిందో",
+     "type": "Person",
+     "english_name": "Aravindo"
+    },
+    {
+     "name": "మై హోం సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "My Home Cement"
+    },
+    {
+     "name": "భారతి సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Bharati Cement"
+    },
+    {
+     "name": "శ్రీ సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Shri Cement"
+    },
+    {
+     "name": "రామ్‌కో",
+     "type": "Organization",
+     "english_name": "Ramco"
+    },
+    {
+     "name": "షిర్డి సాయి సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Shirdi Sai Cement"
+    },
+    {
+     "name": "దాల్మియా సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Dalmia Cement"
+    },
+    {
+     "name": "యూబీ కంపెనీ",
+     "type": "Organization",
+     "english_name": "UB Company"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Kootami"
+    },
+    {
+     "name": "సోషియో ఎకనామిక్‌ సర్వే",
+     "type": "Organization",
+     "english_name": "Socio Economic Survey"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "చంద్రబాబు ఏమంటాడు. ఆయనకు ఒక పైశాచిక ఆనందం. మాపై టన్నుల కొద్దీ బురద చల్లుతుంటాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కూటమి",
+     "evidence": "చంద్రబాబు మరో డ్రామా: ఇటీవల కొత్త సంవత్సరం సందర్భంగా చంద్రబాబు, ఆయన కుమారుడు విదేశాలకు వెళ్లారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5ef261c5ce56189548af809f6e6cbe215a0f99a6": {
+   "entities": [
+    {
+     "name": "మా హయాంలో",
+     "type": "Person",
+     "english_name": "Our tenure"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "సజ్జన్‌ జిందాల్",
+     "type": "Person",
+     "english_name": "Sajjan Jindal"
+    },
+    {
+     "name": "అరవిందో",
+     "type": "Person",
+     "english_name": "Aravindo"
+    },
+    {
+     "name": "మై హోం సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "My Home Cement"
+    },
+    {
+     "name": "భారతి సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Bharati Cement"
+    },
+    {
+     "name": "శ్రీ సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Shri Cement"
+    },
+    {
+     "name": "రామ్‌కో",
+     "type": "Organization",
+     "english_name": "Ramko"
+    },
+    {
+     "name": "షిర్డి సాయి సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Shirdi Sai Cement"
+    },
+    {
+     "name": "దాల్మియా సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Dalmia Cement"
+    },
+    {
+     "name": "యూబీ కంపెనీ",
+     "type": "Organization",
+     "english_name": "UB Company"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మా హయాంలో",
+     "evidence": "చంద్రబాబు ఏమంటాడు. ఆయనకు ఒక పైశాచిక ఆనందం. మాపై టన్నుల కొద్దీ బురద చల్లుతుంటాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మా హయాంలో",
+     "evidence": "చంద్రబాబుగారి హయాంలోనే పారిశ్రామికవేత్తలు పారిపోతున్నారు."
+    },
+    {
+     "source": "సజ్జన్‌ జిందాల్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "సజ్జన్‌ జిందాల్, అరవిందో, మై హోం సిమెంట్స్, భారతి సిమెంట్స్, శ్రీ సిమెంట్స్, రామ్‌కో, షిర్డి సాయి సిమెంట్స్, దాల్మియా సిమెంట్స్, యూబీ కంపెనీ.. ఇవన్నీ చంద్రబాబు వల్ల భయపడి, ఇబ్బందులు పడలేక తరలిపోయాయి."
+    },
+    {
+     "source": "అరవిందో",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అరవిందో, మై హోం సిమెంట్స్, భారతి సిమెంట్స్, శ్రీ సిమెంట్స్, రామ్‌కో, షిర్డి సాయి సిమెంట్స్, దాల్మియా సిమెంట్స్, యూబీ కంపెనీ.. ఇవన్నీ చంద్రబాబు వల్ల భయపడి, ఇబ్బందులు పడలేక తరలిపోయాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5fe4f52e1d8ac15a867554733ffd9b4cf4fb3348": {
+   "entities": [
+    {
+     "name": "Lulu company",
+     "type": "Organization",
+     "english_name": "Lulu company"
+    },
+    {
+     "name": "Satwa group",
+     "type": "Organization",
+     "english_name": "Satwa group"
+    },
+    {
+     "name": "Kapil group",
+     "type": "Organization",
+     "english_name": "Kapil group"
+    },
+    {
+     "name": "ANSR group",
+     "type": "Organization",
+     "english_name": "ANSR group"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "Telangana",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "State debt",
+     "type": "Issue",
+     "english_name": "State debt"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Government",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af85f41ed33a59d11333188326d6d05cac8e3f0c": {
+   "entities": [
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ స్కీమ్‌",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Irrigation Scheme"
+    },
+    {
+     "name": "కృష్ణా నీళ్లు",
+     "type": "Place",
+     "english_name": "Krishna River"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ప్రజా ప్రయోజన వ్యాజ్యం",
+     "type": "Claim",
+     "english_name": "Public Interest Litigation"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణ",
+     "type": "Issue",
+     "english_name": "Medical College Privatization"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "ఆ మొత్తం టీడీపీ నేతల జేబుల్లోకి పోతోంది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజా ప్రయోజన వ్యాజ్యం",
+     "evidence": "నిన్ననే (జనవరి 7వ తేదీ) హైకోర్టులో ప్రజా ప్రయోజన వ్యాజ్యం (పిల్‌) కూడా వేశాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాయలసీమ లిఫ్ట్‌ స్కీమ్‌",
+     "evidence": "రాయలసీమ లిఫ్ట్‌ స్కీమ్‌ కేవలం ఆ ప్రాంతానికే కాకుండా, రాష్ట్ర ప్రజలకు కూడా కీలకం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "DEFENDS",
+     "target": "రాయలసీమ లిఫ్ట్‌ స్కీమ్‌",
+     "evidence": "ఇంకా తాము తిరిగి అధికారంలోకి రాగానే, వాయువేగంతో రాయలసీమ లిఫ్ట్‌ స్కీం పనులన్నీ పూర్తి చేస్తామని శ్రీ వైయస్‌ జగన్‌ వివరించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e0a86fbae4c69286848d86a7174622a5ac41d327": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "బాదుడే బాదుడు",
+     "type": "Scheme",
+     "english_name": "Badude Badudu"
+    },
+    {
+     "name": "కరెంటు ఛార్జీలు",
+     "type": "Claim",
+     "english_name": "Electricity charges"
+    },
+    {
+     "name": "రిజిస్ట్రేషన్‌ ఛార్జీలు",
+     "type": "Claim",
+     "english_name": "Registration charges"
+    },
+    {
+     "name": "తాగునీటి ఛార్జీలు",
+     "type": "Claim",
+     "english_name": "Drinking water charges"
+    },
+    {
+     "name": "రోడ్‌ సెస్‌",
+     "type": "Claim",
+     "english_name": "Road cess"
+    },
+    {
+     "name": "టోల్‌ గేట్లు",
+     "type": "Claim",
+     "english_name": "Toll gates"
+    },
+    {
+     "name": "రాష్ట్ర ఆదాయం",
+     "type": "Claim",
+     "english_name": "State revenue"
+    },
+    {
+     "name": "దోపిడి",
+     "type": "Claim",
+     "english_name": "Exploitation"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Claim",
+     "english_name": "Sand"
+    },
+    {
+     "name": "మట్టి",
+     "type": "Claim",
+     "english_name": "Clay"
+    },
+    {
+     "name": "సిలికా",
+     "type": "Claim",
+     "english_name": "Silica"
+    },
+    {
+     "name": "క్వార్ట్‌›్జ",
+     "type": "Claim",
+     "english_name": "Quartz"
+    },
+    {
+     "name": "టీడీపీ నేతలు",
+     "type": "Party",
+     "english_name": "TDP leaders"
+    },
+    {
+     "name": "పీపీఏలు",
+     "type": "Claim",
+     "english_name": "PPAs"
+    },
+    {
+     "name": "పేకాట క్లబ్‌లు",
+     "type": "Claim",
+     "english_name": "Gambling clubs"
+    },
+    {
+     "name": "రేషన్‌ మాఫియా",
+     "type": "Claim",
+     "english_name": "Ration mafia"
+    },
+    {
+     "name": "లంచం",
+     "type": "Claim",
+     "english_name": "Bribe"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical colleges"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "766f206eced29f8e876dc2ce25c63d24d6587d08": {
+   "entities": [
+    {
+     "name": "గాలేరు నగరి సుజల స్రవంతి (జీఎన్‌ఎస్‌ఎస్‌)",
+     "type": "Scheme",
+     "english_name": "GNTSS"
+    },
+    {
+     "name": "గండికోట",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "హంద్రీ నీవా సుజల స్రవంతి (హెచ్‌ఎన్‌ఎస్‌ఎస్‌)",
+     "type": "Scheme",
+     "english_name": "HNSNS"
+    },
+    {
+     "name": "తంబళ్లపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మదనపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పీలేరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పుంగనూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చిత్తూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రాయచోటి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కాలేటివాగు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ముదివేడు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నేటిగుంటుపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆవులపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాయలసీమ లిఫ్ట్‌ స్కీమ్‌",
+     "type": "Scheme",
+     "english_name": "Rayalaseema Lift Scheme"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తెలుగు గంగ లింక్‌ కెనాల్‌",
+     "type": "Scheme",
+     "english_name": "Telugu Ganga Link Canal"
+    },
+    {
+     "name": "శ్రీశైలం కుడిగట్టు కాలువ (ఎస్సార్బీసీ)",
+     "type": "Scheme",
+     "english_name": "Srisailam Right Bank Canal"
+    },
+    {
+     "name": "సామర్థ్యాన్ని 30 వేల క్యూసెక్స్‌కు పెంచే పనులు చేపట్టాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిప్పులవాగు ద్వారా నెల్లూరుకు 30 వేల క్యూసెక్కులు వెళ్లేలా పనులు చేపట్టాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హెచ్‌ఎన్‌ఎస్‌ఎస్‌ కాలువ సామర్థ్యాన్ని 2 వేల క్యూసెక్కుల నుంచి 6300 క్యూసెక్కులకు పెంచే పనులు చేపట్టాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అవుకులో టన్నెళ్ల నిర్మాణంలో అన్ని సమస్యలు అధికమించి, రెండు టన్నెళ్ల ద్వారా మొత్తం 20 వేల క్యూసెక్కుల నీళ్లు పంపగలిగాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గండికోట ప్రాజెక్టులో ఆర్‌ అండ్‌ ఆర్‌ ప్యాకేజీ కింద రూ.1000 కోట్లు చెల్లించి, ప్రాజెక్టును పూర్తిస్థాయిలో 27 టీఎంసీలు నింపాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చిత్రావతి ప్రాజెక్టులో కూడా ఆర్‌ అండ్‌ ఆర్‌ ప్యాకేజీలకు రూ.280 కోట్లు చెల్లించి, తొలిసారిగా 10 టీఎంసీలు నింపగలిగాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బ్రహ్మంసాగర్‌లో లీకేజీ సమస్యను అధికమించేలా, డయాఫ్రం వాల్‌ నిర్మించాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వెలిగొండ ప్రాజెక్టులో రెండు టన్నెళ్లను పూర్తి చేసి, రెండు దశాబ్ధాల కలను నిజం చేశాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబుకి ఏనాడూ ప్రజల గురించి కనీస ధ్యాస లేదు. మొత్తం మోసం, దగా."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

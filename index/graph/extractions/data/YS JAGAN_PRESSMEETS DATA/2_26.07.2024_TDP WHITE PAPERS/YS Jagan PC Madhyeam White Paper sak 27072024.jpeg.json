@@ -1,0 +1,656 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "787fae8794fb10daf49b573bc4b93870b02798b4": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "టీడీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "డిస్టిలరీ",
+     "type": "Organization",
+     "english_name": "Distillery"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "evidence": "దీనికి చంద్రబాబు సమాధానం చెప్పగలరా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cda7c9d89052fad1d7c2fc9a8276bde5cf97f99c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "టీడీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Government"
+    },
+    {
+     "name": "డిస్టిలరీలకు అనుమతినిచ్చారు",
+     "type": "Claim",
+     "english_name": "Permission to distilleries"
+    },
+    {
+     "name": "మద్యం విక్రయాలు, ఆదాయం మరియు బీర్లు",
+     "type": "Issue",
+     "english_name": "Liquor sales, revenue and beers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "డిస్టిలరీలకు అనుమతినిచ్చారు",
+     "evidence": "చంద్రబాబు హయాంలోనే అనుమతినిచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "evidence": "దీనికి చంద్రబాబు సమాధానం చెప్పగలరా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8fb8d3496ad7f6247d5e25a3003a4c3485dddd07": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "64d31ab1e16e368620dd1c664c04b6adb2587cc9": {
+   "entities": [
+    {
+     "name": "2014-19 మధ్య లిక్కర్ అమ్మకాల్లో ఏటా 15 శాతం వృద్ధి నమోదైందన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "3.84 కోట్ల కేసుల మద్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2023-24 నాటికి లిక్కర్ విక్రయాలు గణనీయంగా పెరగాల్సి ఉండగా 3.2 కోట్ల కేసుల లిక్కర్ అమ్మకాలు తగ్గాయన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2018-19లో 2.77 కోట్ల కేసుల బీర్లు అమ్ముడు పోతే, తమ ప్రభుత్వం లో 2023-24లో 1.12 కోట్ల కేసులు మాత్రమే విక్రయించామని చెప్పారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజలు గమనిం చాలని విజ్ఞప్తి చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మద్య నియంత్రణ చర్యల్లో భాగంగా షాక్ కొట్టేలా ధరలను పెంచడంతో విక్రయాలు తగ్గినప్పటికీ ప్రభుత్వానికి ఆదాయం పెరిగింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నాణ్యత లేని మద్యం సరఫరా చేసి, ప్రజల ఆరోగ్యాన్ని దెబ్బ తీశామని తమ ప్రభుత్వంపై దుష్ప్రచారం చేశారని మండిపడ్డారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో చలామణిలో ఉన్న బ్రాం డిల్లన్నింటికీ 2014-19 మధ్య బాబు పాలనలోనే అనుమతుల ఇచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "గవర్నర్ రిజర్వ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "లెఫ్టియర్ నెపోలియన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఓక్టన్ బారెల్ ఏజ్డ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సెవెన్త్ హెవెన్ బ్లూ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రెసిడెంట్ మెడల్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "హైదరాబాద్ బ్లూ డీలక్స్ విస్కీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "హైవోల్టేజ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వోల్టేజ్ గోల్డ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SNGE 10000",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "బ్రిటీష్ ఎంపైర్ సూపర్ స్ట్రాంగ్ ప్రీమియం బీర్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "బ్రిటీష్ ఎంపైర్ అల్ట్రా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రాయల్ ప్యాలెస్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "న్యూకింగ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సైన్ అవుట్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "బిరా 91",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TI మ్యాన్షన్ హౌస్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TI కొరియర్ నెపోలియన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "20 మద్యం డిస్టిలరీలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "14 డిస్టిలరీలకు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "6 డిస్టిలరీలకు",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "2014-19 మధ్య లిక్కర్ అమ్మకాల్లో ఏటా 15 శాతం వృద్ధి నమోదైందన్నారు",
+     "evidence": "2014-19 మధ్య లిక్కర్ అమ్మకాల్లో ఏటా 15 శాతం వృద్ధి నమోదైందన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "3.84 కోట్ల కేసుల మద్యం",
+     "evidence": "ఈ లెక్కన 2018-19 నాటికి 3.84 కోట్ల కేసుల మద్యం విక్రయించారని చెప్పారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "2023-24 నాటికి లిక్కర్ విక్రయాలు గణనీయంగా పెరగాల్సి ఉండగా 3.2 కోట్ల కేసుల లిక్కర్ అమ్మకాలు తగ్గాయన్నారు",
+     "evidence": "2023-24 నాటికి లిక్కర్ విక్రయాలు గణనీయంగా పెరగాల్సి ఉండగా 3.2 కోట్ల కేసుల లిక్కర్ అమ్మకాలు తగ్గాయన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "2018-19లో 2.77 కోట్ల కేసుల బీర్లు అమ్ముడు పోతే, తమ ప్రభుత్వం లో 2023-24లో 1.12 కోట్ల కేసులు మాత్రమే విక్రయించామని చెప్పారు",
+     "evidence": "2018-19లో 2.77 కోట్ల కేసుల బీర్లు అమ్ముడు పోతే, తమ ప్రభుత్వం లో 2023-24లో 1.12 కోట్ల కేసులు మాత్రమే విక్రయించామని చెప్పారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలు గమనిం చాలని విజ్ఞప్తి చేశారు",
+     "evidence": "లంచాల కోసం అధిక పరిమాణంలో మద్యం విక్రయాలు ఎవరు పెంచారో ప్రజలు గమనిం చాలని విజ్ఞప్తి చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మద్య నియంత్రణ చర్యల్లో భాగంగా షాక్ కొట్టేలా ధరలను పెంచడంతో విక్రయాలు తగ్గినప్పటికీ ప్రభుత్వానికి ఆదాయం పెరిగింది",
+     "evidence": "మద్య నియంత్రణ చర్యల్లో భాగంగా షాక్ కొట్టేలా ధరలను పెంచడంతో విక్రయాలు తగ్గినప్పటికీ ప్రభుత్వానికి ఆదాయం పెరిగింది."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నాణ్యత లేని మద్యం సరఫరా చేసి, ప్రజల ఆరోగ్యాన్ని దెబ్బ తీశామని తమ ప్రభుత్వంపై దుష్ప్రచారం చేశారని మండిపడ్డారు",
+     "evidence": "నాణ్యత లేని మద్యం సరఫరా చేసి, ప్రజల ఆరోగ్యాన్ని దెబ్బ తీశామని తమ ప్రభుత్వంపై దుష్ప్రచారం చేశారని మండిపడ్డారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో చలామణిలో ఉన్న బ్రాం డిల్లన్నింటికీ 2014-19 మధ్య బాబు పాలనలోనే అనుమతుల ఇచ్చారు",
+     "evidence": "రాష్ట్రంలో చలామణిలో ఉన్న బ్రాం డిల్లన్నింటికీ 2014-19 మధ్య బాబు పాలనలోనే అనుమతుల ఇచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "270695f9770295f28560b87aff3aeb4089176ce0": {
+   "entities": [
+    {
+     "name": "బీర్లు",
+     "type": "Organization",
+     "english_name": "Beers"
+    },
+    {
+     "name": "0.82 (బాటిల్)",
+     "type": "Organization",
+     "english_name": "0.82 (Bottle)"
+    },
+    {
+     "name": "21,549 (బ్యాగ్)",
+     "type": "Organization",
+     "english_name": "21,549 (Bag)"
+    },
+    {
+     "name": "2021-22",
+     "type": "Organization",
+     "english_name": "2021-22"
+    },
+    {
+     "name": "ఐఎంఎల్",
+     "type": "Organization",
+     "english_name": "IML"
+    },
+    {
+     "name": "3.35 (బ్యాగ్)",
+     "type": "Organization",
+     "english_name": "3.35 (Bag)"
+    },
+    {
+     "name": "1.16 (బాటిల్)",
+     "type": "Organization",
+     "english_name": "1.16 (Bottle)"
+    },
+    {
+     "name": "23,804 (బ్యాగ్)",
+     "type": "Organization",
+     "english_name": "23,804 (Bag)"
+    },
+    {
+     "name": "25,082 (బ్యాగ్)",
+     "type": "Organization",
+     "english_name": "25,082 (Bag)"
+    },
+    {
+     "name": "2022-23",
+     "type": "Organization",
+     "english_name": "2022-23"
+    },
+    {
+     "name": "3.32 (బ్యాగ్)",
+     "type": "Organization",
+     "english_name": "3.32 (Bag)"
+    },
+    {
+     "name": "1.12 (బాటిల్)",
+     "type": "Organization",
+     "english_name": "1.12 (Bottle)"
+    },
+    {
+     "name": "2023-24",
+     "type": "Organization",
+     "english_name": "2023-24"
+    },
+    {
+     "name": "ముఖ్యమైన పరిశీలనలు",
+     "type": "Organization",
+     "english_name": "Key Observations"
+    },
+    {
+     "name": "బడి, గుడి అన్న తేడా లేకుండా మద్యం సిం",
+     "type": "Organization",
+     "english_name": "School, temple no difference alcohol syndicate"
+    },
+    {
+     "name": "పర్మిట్ రూమ్లు",
+     "type": "Organization",
+     "english_name": "Permit rooms"
+    },
+    {
+     "name": "బెల్ట్ దుకాణాలతో",
+     "type": "Organization",
+     "english_name": "Belt shops"
+    },
+    {
+     "name": "మద్యం 24 గంటలూ ఏరులై పారించారు",
+     "type": "Organization",
+     "english_name": "Alcohol 24 hours poured"
+    },
+    {
+     "name": "4,380",
+     "type": "Organization",
+     "english_name": "4,380"
+    },
+    {
+     "name": "మద్యం దుకాణాలకు",
+     "type": "Organization",
+     "english_name": "Alcohol shops"
+    },
+    {
+     "name": "43 వేలకు",
+     "type": "Organization",
+     "english_name": "43 thousand"
+    },
+    {
+     "name": "మద్యం గరిష్ట చిల్లర ధర (ఎమ్మార్పీ) కంటే 25 శాతం అధిక ధరకు",
+     "type": "Organization",
+     "english_name": "Alcohol MRP 25 percent higher"
+    },
+    {
+     "name": "నాణ్యత లేని ఆరోపణలు",
+     "type": "Organization",
+     "english_name": "Quality allegations"
+    },
+    {
+     "name": "నాణ్యత లేని మద్యం సరఫరా, వినియో",
+     "type": "Organization",
+     "english_name": "Quality liquor supply, consumption"
+    },
+    {
+     "name": "ఆరోగ్యం దెబ్బతిందంటూ",
+     "type": "Organization",
+     "english_name": "Health damage"
+    },
+    {
+     "name": "నాటి",
+     "type": "Organization",
+     "english_name": "Then"
+    },
+    {
+     "name": "మద్యంలో విషపు అవశేషాలు",
+     "type": "Organization",
+     "english_name": "Poison residues in liquor"
+    },
+    {
+     "name": "చెన్నైలోని ఎస్జీఎస్ ల్యాబొరేటరీ",
+     "type": "Organization",
+     "english_name": "SGS Laboratory in Chennai"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఆ సంస్థనే",
+     "type": "Organization",
+     "english_name": "That organization"
+    },
+    {
+     "name": "తమ నివేదికను",
+     "type": "Organization",
+     "english_name": "Their report"
+    },
+    {
+     "name": "తప్పుగా అన్వయించారని",
+     "type": "Organization",
+     "english_name": "Misinterpreted"
+    },
+    {
+     "name": "రాష్ట్ర బెవరేజస్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "State Beverages Corporation"
+    },
+    {
+     "name": "హైదరాబాద్లోని కౌన్సిల్ ఆఫ్ సైంటిఫిక్ అండ్ ఇండస్ట్రియల్ రీసెర్చ్ (సీఎస్ఐఆర్)",
+     "type": "Organization",
+     "english_name": "Council of Scientific and Industrial Research (CSIR) in Hyderabad"
+    },
+    {
+     "name": "ఇండియన్ ఇన్స్టిట్యూట్ ఆఫ్ కెమికల్ టెక్నాలజీ (ఐఐసీటీ)",
+     "type": "Organization",
+     "english_name": "Indian Institute of Chemical Technology (IICT)"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b0fe94c92fe169e22f62f263c3bbdc497c9cd19e": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "టీడీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "స్పెషల్ ఎన్ఫోర్స్మెంట్ బ్యూరో",
+     "type": "Organization",
+     "english_name": "Special Enforcement Bureau"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "డిస్టిలరీలకు అనుమతివ్వలేదు",
+     "type": "Claim",
+     "english_name": "No permission given to distilleries"
+    },
+    {
+     "name": "14 డిస్ట్రిలరీలకు అనుమతులిచ్చారు",
+     "type": "Claim",
+     "english_name": "14 distilleries were given permission"
+    },
+    {
+     "name": "మద్యం సరఫరా",
+     "type": "Claim",
+     "english_name": "Liquor supply from distilleries"
+    },
+    {
+     "name": "విషం అయిన మద్యం",
+     "type": "Claim",
+     "english_name": "Poisonous liquor in our tenure"
+    },
+    {
+     "name": "అమృతం",
+     "type": "Claim",
+     "english_name": "Amrit (pure) liquor in his tenure"
+    },
+    {
+     "name": "శ్వేతపత్రం",
+     "type": "Scheme",
+     "english_name": "White Paper"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "లిక్కర్ అమ్మకాలు",
+     "type": "Issue",
+     "english_name": "Liquor sales"
+    },
+    {
+     "name": "కమీషన్లు",
+     "type": "Issue",
+     "english_name": "Commissions"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "మాకు, వాళ్లకు మధ్య ఇదీ తేడా.. దశలవారీ మద్య నియంత్రణను వైఎస్సార్సీపీ ప్రభుత్వం సమర్థవంతంగా అమలు చేసింది."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Talliki Vandanam",
+     "evidence": "మాకు, వాళ్లకు మధ్య ఇదీ తేడా.. దశలవారీ మద్య నియంత్రణను వైఎస్సార్సీపీ ప్రభుత్వం సమర్థవంతంగా అమలు చేసింది."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Rythu Bharosa",
+     "evidence": "మాకు, వాళ్లకు మధ్య ఇదీ తేడా.. దశలవారీ మద్య నియంత్రణను వైఎస్సార్సీపీ ప్రభుత్వం సమర్థవంతంగా అమలు చేసింది."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Deepam",
+     "evidence": "మాకు, వాళ్లకు మధ్య ఇదీ తేడా.. దశలవారీ మద్య నియంత్రణను వైఎస్సార్సీపీ ప్రభుత్వం సమర్థవంతంగా అమలు చేసింది."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "ఆయన అధికారంలో ఉన్నప్పుడు, మేం అధికారం లో ఉన్నప్పుడు, ఇప్పుడు ఆ డిస్ట్రిలరీల నుంచే మద్యం సరఫరా అవుతోంది. అయితే మా హయాంలో విషం అయిన మద్యం.. చంద్రబాబు హయాంలో అమృతం అవుతుందా?"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "డిస్టిలరీలకు అనుమతివ్వలేదు",
+     "evidence": "డిస్టిలరీలకు అనుమతివ్వలేదు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "14 డిస్ట్రిలరీలకు అనుమతులిచ్చారు",
+     "evidence": "14 డిస్ట్రిలరీలకు అనుమతులిచ్చారు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మద్యం సరఫరా",
+     "evidence": "ఆ డిస్ట్రిలరీల నుంచే మద్యం సరఫరా అవుతోంది"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "విషం అయిన మద్యం",
+     "evidence": "మా హయాంలో విషం అయిన మద్యం"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అమృతం",
+     "evidence": "చంద్రబాబు హయాంలో అమృతం అవుతుందా?"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "శ్వేతపత్రం",
+     "evidence": "శ్వేతపత్రం పేరుతో అసెంబ్లీ సాక్షిగా చంద్రబాబు పచ్చి అబద్ధాలు చెప్పారని ధ్వజమెత్తారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

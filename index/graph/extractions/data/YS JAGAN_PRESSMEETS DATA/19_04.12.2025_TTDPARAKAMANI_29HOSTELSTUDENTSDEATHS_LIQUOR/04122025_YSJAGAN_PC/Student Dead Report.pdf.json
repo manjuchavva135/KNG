@@ -1,0 +1,292 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fe50e05a677accc1b8c48c06f282b99b2dc91bcd": {
+   "entities": [
+    {
+     "name": "గిరిజన సంక్షేమ గురుకుల పాఠశాల",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కురుపాం నియోజకవర్గం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తోయక కల్పన",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "గిరిజన సంక్షేమ గురుకుల పాఠశాల",
+     "relation": "LOCATED_IN",
+     "target": "కురుపాం నియోజకవర్గం",
+     "evidence": "గిరిజన సంక్షేమ గురుకుల పాఠశాల, కురుపాం నియోజకవర్గం"
+    }
+   ]
+  },
+  "90535252d401882654b09ede52c7c665a998cfc0": {
+   "entities": [
+    {
+     "name": "బి. ఈశ్వర్ రావు",
+     "type": "Person",
+     "english_name": "B. Eswar Rao"
+    },
+    {
+     "name": "పి. రాఘవ",
+     "type": "Person",
+     "english_name": "P. Raghav"
+    },
+    {
+     "name": "కె. శారద",
+     "type": "Person",
+     "english_name": "K. Sharada"
+    },
+    {
+     "name": "ఎన్. అవంతిక",
+     "type": "Person",
+     "english_name": "N. Avantiika"
+    },
+    {
+     "name": "ఎన్. నితిన్",
+     "type": "Person",
+     "english_name": "N. Nithin"
+    },
+    {
+     "name": "ఎన్. జీవన్ కుమార్",
+     "type": "Person",
+     "english_name": "N. Jeevan Kumar"
+    },
+    {
+     "name": "జి. దినేష్",
+     "type": "Person",
+     "english_name": "G. Dinesh"
+    },
+    {
+     "name": "పి. దినేష్",
+     "type": "Person",
+     "english_name": "P. Dinesh"
+    },
+    {
+     "name": "కె. తనూజా",
+     "type": "Person",
+     "english_name": "K. Tanuja"
+    },
+    {
+     "name": "బిడ్డిక కీర్తన",
+     "type": "Person",
+     "english_name": "Biddika Keerthana"
+    },
+    {
+     "name": "శాంత",
+     "type": "Person",
+     "english_name": "Santh"
+    },
+    {
+     "name": "తాడంకి పల్లవి",
+     "type": "Person",
+     "english_name": "Tadanki Pallavi"
+    },
+    {
+     "name": "తాడంకి చిన్నారి",
+     "type": "Person",
+     "english_name": "Tadanki Chinnari"
+    },
+    {
+     "name": "మండంగి కవిత",
+     "type": "Person",
+     "english_name": "Mandangi Kavitha"
+    },
+    {
+     "name": "పువ్వల అంజలి",
+     "type": "Person",
+     "english_name": "Puvvala Anjali"
+    },
+    {
+     "name": "గిరిజన బాలుర ఆశ్రమ పాఠశాల, రావడ రామభద్రపురం, జియమ్మ వలస మండలం, కురుపాం నియోజకవర్గం",
+     "type": "Organization",
+     "english_name": "Girijan Boys Ashram School, Rawada Ramabhadrapuram, Jiyyammavalasa Mandal, Kurupam Constituency"
+    },
+    {
+     "name": "గిరిజన బాలుర ఆశ్రమ పాఠశాల, రావికోన, పార్వతీపురం మండలం. పార్వతీపురం నియోజకవర్గం.",
+     "type": "Organization",
+     "english_name": "Girijan Boys Ashram School, Ravikona, Parvathipuram Mandal. Parvathipuram Constituency."
+    },
+    {
+     "name": "కే జీ బీ వీ పాఠశాల - కొమరాడ, కురుపాం నియోజకవర్గం",
+     "type": "Organization",
+     "english_name": "KG B V School - Komrada, Kurupam Constituency"
+    },
+    {
+     "name": "గిరిజన బాలికల ఆశ్రమ పాఠశాల, పీ.అమిటీ గ్రామం, గుమ్మ లక్ష్మిపురం మండలం, కురుపాం నియోజకవర్గం",
+     "type": "Organization",
+     "english_name": "Girijan Girls Ashram School, P. Amity Village, Gummalakshmipuram Mandal, Kurupam Constituency"
+    },
+    {
+     "name": "గిరిజన బాలుర ఆశ్రమ పాఠశాల, కురుపాం నియోజకవర్గం",
+     "type": "Organization",
+     "english_name": "Girijan Boys Ashram School, Kurupam Constituency"
+    },
+    {
+     "name": "గిరిజన ఆశ్రమ పాఠశాల, రావడ రామభద్ర పురం, జియమ్మ వలస మండలం. కురుపాం నియోజకవర్గం",
+     "type": "Organization",
+     "english_name": "Girijan Ashram School, Rawada Ramabhadrapuram, Jiyyammavalasa Mandal. Kurupam Constituency"
+    },
+    {
+     "name": "గిరిజన బాలుర ఆశ్రమ పాఠశాల, దొరజమ్ము గ్రామం, గుమ్మ లక్ష్మి పురం మండలం. కురుపాం నియోజకవర్గం",
+     "type": "Organization",
+     "english_name": "Girijan Boys Ashram School, Dorajammula Village, Gummalakshmipuram Mandal. Kurupam Constituency"
+    },
+    {
+     "name": "గిరిజన బాలుర ఆశ్రమ పాఠశాల, దొరజమ్ము, గుమ్మ లక్ష్మిపురం మండలం, కురుపాం నియోజకవర్గం",
+     "type": "Organization",
+     "english_name": "Girijan Boys Ashram School, Dorajammula, Gummalakshmipuram Mandal, Kurupam Constituency"
+    }
+   ],
+   "relations": []
+  },
+  "fc17e05893934f29955d703b38a64eda89248a96": {
+   "entities": [
+    {
+     "name": "అల్లూరి సీతారామరాజు",
+     "type": "Person",
+     "english_name": "Alluri Sitarama Raju"
+    },
+    {
+     "name": "పాంగి జెసికా",
+     "type": "Person",
+     "english_name": "Pangi Jessica"
+    },
+    {
+     "name": "సూకూరు అప్పలకొండ",
+     "type": "Person",
+     "english_name": "Sukuru Appala Konda"
+    },
+    {
+     "name": "శిరగం లాస్య",
+     "type": "Person",
+     "english_name": "Shiragam Lasya"
+    },
+    {
+     "name": "పూజారి లక్ష్మిప్రియ",
+     "type": "Person",
+     "english_name": "Pujari Laxmipriya"
+    },
+    {
+     "name": "శ్రద్ధ",
+     "type": "Person",
+     "english_name": "Shraddha"
+    },
+    {
+     "name": "జాషువా",
+     "type": "Person",
+     "english_name": "Joshua"
+    },
+    {
+     "name": "నిత్య",
+     "type": "Person",
+     "english_name": "Nitya"
+    },
+    {
+     "name": "మర్రి లక్ష్మి",
+     "type": "Person",
+     "english_name": "Marri Lakshmi"
+    },
+    {
+     "name": "కటారి కరుణ",
+     "type": "Person",
+     "english_name": "Katari Karuna"
+    },
+    {
+     "name": "దివ్యతేజ",
+     "type": "Person",
+     "english_name": "Divyatheja"
+    },
+    {
+     "name": "అనకాపల్లి",
+     "type": "Place",
+     "english_name": "Anakapalli"
+    },
+    {
+     "name": "ప్రకాశం జిల్లాలు",
+     "type": "Place",
+     "english_name": "Prakasam districts"
+    },
+    {
+     "name": "ఎగువశోభ పంచాయతీ, పోర్నపొదరు గ్రామం, అనంతగిరి మండలం , అరకు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Upper Sobha Panchayat, Poranpoduru village, Anantagiri mandal, Araku constituency"
+    },
+    {
+     "name": "టోకూరు గిరిజన సంక్షేమ ఆశ్రమ పాఠశాల",
+     "type": "Organization",
+     "english_name": "Tokuru Tribal Welfare Ashram School"
+    },
+    {
+     "name": "ప్రాథమిక పాఠశాల",
+     "type": "Organization",
+     "english_name": "Primary School"
+    },
+    {
+     "name": "పాడేరు జూనియర్ కళాశాల",
+     "type": "Organization",
+     "english_name": "Paderu Junior College"
+    },
+    {
+     "name": "గిరిజన ప్రాంతం కైలాసపట్నం, కోటవురట్ల మండలం, అనకాపల్లి జిల్లా",
+     "type": "Place",
+     "english_name": "Tribal area Kailasapatnam, Kotavurthala mandal, Anakapalli district"
+    },
+    {
+     "name": "జీటీడబ్ల్యూ ఏ గర్ల్స్ స్కూల్",
+     "type": "Organization",
+     "english_name": "GTWV Girls School"
+    },
+    {
+     "name": "జి.మాడుగుల మండలం",
+     "type": "Place",
+     "english_name": "G. Madugula mandal"
+    },
+    {
+     "name": "పాడేరు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Paderu constituency"
+    },
+    {
+     "name": "రాచర్లలోని బాలికల గురుకుల పాఠశాల",
+     "type": "Organization",
+     "english_name": "Girls Gurukul School in Racharlu"
+    },
+    {
+     "name": "మార్కాపురం",
+     "type": "Place",
+     "english_name": "Markapuram"
+    },
+    {
+     "name": "మారేడుమిల్లి గిరిజన సంక్షేమ ఆశ్రమ బాలికోన్నత పాఠశాల",
+     "type": "Organization",
+     "english_name": "Maredu Millli Tribal Welfare Ashram Girls High School"
+    },
+    {
+     "name": "రంపచోడవరం",
+     "type": "Place",
+     "english_name": "Rampachodavaram"
+    },
+    {
+     "name": "TTDPARAKAMANI",
+     "type": "Scheme",
+     "english_name": "TTDPARAKAMANI"
+    },
+    {
+     "name": "HOSTELSTUDENTSDEATHS_LIQUOR",
+     "type": "Issue",
+     "english_name": "Hostel student deaths due to liquor"
+    }
+   ],
+   "relations": []
+  }
+ }
+}

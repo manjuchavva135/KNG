@@ -1,0 +1,491 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "dc3413f236ad11b3faeec98c718bd1916e0ed782": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "02eec25760562c74a3644de9dbfcddbebd8c045a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ed5c98e751aac9fcdf38b31ac063d716cab48cc4": {
+   "entities": [
+    {
+     "name": "M/s A R Dairy",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "CALF Lab",
+     "type": "Organization",
+     "english_name": "CALF Lab"
+    },
+    {
+     "name": "Anand",
+     "type": "Place",
+     "english_name": "Anand"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "M/s A R dairy Food Pvt Ltd.",
+     "type": "Organization",
+     "english_name": "M/s A R dairy Food Pvt Ltd."
+    },
+    {
+     "name": "Dindigul",
+     "type": "Place",
+     "english_name": "Dindigul"
+    },
+    {
+     "name": "Swamivari Laddu",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "prasadams",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Lord Sri Venkateswara",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Anand",
+     "evidence": "sent to NDDB CALF Ltd., Anand, Gujarat confidentially for testing its quality."
+    },
+    {
+     "source": "NDDB",
+     "relation": "LOCATED_IN",
+     "target": "Anand",
+     "evidence": "sent to NDDB CALF Ltd., Anand, Gujarat confidentially for testing its quality."
+    },
+    {
+     "source": "CALF Lab",
+     "relation": "LOCATED_IN",
+     "target": "Anand",
+     "evidence": "sent to NDDB CALF Ltd., Anand, Gujarat confidentially for testing its quality."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "311a15a420a98c11d734493c5ea6decfe08271fd": {
+   "entities": [
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "FSSR",
+     "type": "Organization",
+     "english_name": "FSSR"
+    },
+    {
+     "name": "Agmark",
+     "type": "Organization",
+     "english_name": "Agmark"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1e3c1136c444095d4fa35e29177d22be9e2e285c": {
+   "entities": [
+    {
+     "name": "A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A R Dairy Food Private Limited"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Lord Venkateswara",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d00ca33434121776b0589effa4e2d9fb9d05925b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "da4da30650e32366860469c8990c828862868812": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "393246769a36673d8a39f27758f267f82102c902": {
+   "entities": [
+    {
+     "name": "P. Murali Krishna",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "M/s A R Food Private Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Lord Venkateswara",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Ghee adulteration",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "P. Murali Krishna",
+     "relation": "ACCUSES",
+     "target": "M/s A R Food Private Limited",
+     "evidence": "Supply order issued to M/s A R Food Private Limited, Dindigul Dt.15.05.2024"
+    },
+    {
+     "source": "P. Murali Krishna",
+     "relation": "ACCUSES",
+     "target": "NDDB",
+     "evidence": "NDDB CALF Test Report Dt. 12.07.2024 &16.07.2024"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0075d17d8293d0cbd854dcdd8ef4996365fc3bee": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "27494c3f189c7cd2d255359e289fbf439646b6c4": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9e2b5ee03800b592ad4adcd967b628a96cc2ccc8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cf0d9b7048d61bda3797b3a5905d4d1360f886f8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0c17be05866f8caeb533777048041d2367cceb72": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "87acd41fb6493bd27639163c5fb677203a5a2878": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "65efe04d8d11823c03c388ff3c89d36956ae03c1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "790a79e956ff3b7b6f7bf5308ea2ed10b57662e6": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5a236c1af7fdb47fe7a7093d39462522e5d0c785": {
+   "entities": [
+    {
+     "name": "Ghee",
+     "type": "Claim",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "Swamivari Laddu",
+     "type": "Claim",
+     "english_name": "Swamivari Laddu"
+    },
+    {
+     "name": "Prasadams",
+     "type": "Claim",
+     "english_name": "Prasadams"
+    },
+    {
+     "name": "Lord Sri Venkateswara",
+     "type": "Person",
+     "english_name": "Lord Sri Venkateswara"
+    },
+    {
+     "name": "A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A R Dairy Food Private Limited"
+    },
+    {
+     "name": "Dindigul",
+     "type": "Place",
+     "english_name": "Dindigul"
+    },
+    {
+     "name": "NDDB CALF Ltd.",
+     "type": "Organization",
+     "english_name": "NDDB CALF Ltd."
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "Lab report",
+     "type": "Claim",
+     "english_name": "Lab report"
+    },
+    {
+     "name": "Condition No.10",
+     "type": "Claim",
+     "english_name": "Condition No.10"
+    },
+    {
+     "name": "Condition No.23",
+     "type": "Claim",
+     "english_name": "Condition No.23"
+    },
+    {
+     "name": "Agmark Special grade",
+     "type": "Scheme",
+     "english_name": "Agmark Special grade"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Moisture",
+     "type": "Claim",
+     "english_name": "Moisture"
+    },
+    {
+     "name": "Milk Fat",
+     "type": "Claim",
+     "english_name": "Milk Fat"
+    },
+    {
+     "name": "BR Reading at 40oC",
+     "type": "Claim",
+     "english_name": "BR Reading at 40oC"
+    },
+    {
+     "name": "RM Value",
+     "type": "Claim",
+     "english_name": "RM Value"
+    },
+    {
+     "name": "Polenske Value",
+     "type": "Claim",
+     "english_name": "Polenske Value"
+    },
+    {
+     "name": "FFA (As Oleic Acid, %)",
+     "type": "Claim",
+     "english_name": "FFA (As Oleic Acid, %)"
+    },
+    {
+     "name": "Baudouin Test",
+     "type": "Claim",
+     "english_name": "Baudouin Test"
+    },
+    {
+     "name": "Iodine Value",
+     "type": "Claim",
+     "english_name": "Iodine Value"
+    },
+    {
+     "name": "Saponification Value",
+     "type": "Claim",
+     "english_name": "Saponification Value"
+    },
+    {
+     "name": "Presence of ²-sitosterol",
+     "type": "Claim",
+     "english_name": "Presence of ²-sitosterol"
+    },
+    {
+     "name": "Fatty Acid Composition",
+     "type": "Claim",
+     "english_name": "Fatty Acid Composition"
+    },
+    {
+     "name": "Added Colour",
+     "type": "Claim",
+     "english_name": "Added Colour"
+    },
+    {
+     "name": "Melting Point, oC",
+     "type": "Claim",
+     "english_name": "Melting Point, oC"
+    },
+    {
+     "name": "Mineral Oil",
+     "type": "Claim",
+     "english_name": "Mineral Oil"
+    },
+    {
+     "name": "Rancidity",
+     "type": "Claim",
+     "english_name": "Rancidity"
+    },
+    {
+     "name": "Physical Appearance",
+     "type": "Claim",
+     "english_name": "Physical Appearance"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c6a0c180b9c3d1c155a1d3b37ccdf92978e5a8b4": {
+   "entities": [
+    {
+     "name": "P. Murali Krishna",
+     "type": "Person",
+     "english_name": "P. Murali Krishna"
+    },
+    {
+     "name": "General Manager(Procurement)",
+     "type": "Organization",
+     "english_name": "General Manager(Procurement)"
+    },
+    {
+     "name": "T TDevasthanams",
+     "type": "Organization",
+     "english_name": "T TDevasthanams"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "The Station House Officer",
+     "type": "Organization",
+     "english_name": "The Station House Officer"
+    },
+    {
+     "name": "East Police Station",
+     "type": "Organization",
+     "english_name": "East Police Station"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "A R Dairy Food Private Limited",
+     "type": "Organization",
+     "english_name": "A R Dairy Food Private Limited"
+    },
+    {
+     "name": "Dindigul",
+     "type": "Place",
+     "english_name": "Dindigul"
+    },
+    {
+     "name": "NDDB CALF",
+     "type": "Organization",
+     "english_name": "NDDB CALF"
+    },
+    {
+     "name": "Laddu prasadams",
+     "type": "Scheme",
+     "english_name": "Laddu prasadams"
+    },
+    {
+     "name": "M/s A R Dairy Foods pvt Ltd.",
+     "type": "Organization",
+     "english_name": "M/s A R Dairy Foods Pvt Ltd"
+    },
+    {
+     "name": "Dindigal",
+     "type": "Place",
+     "english_name": "Dindigal"
+    },
+    {
+     "name": "Tamilnadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Supply orders",
+     "type": "Claim",
+     "english_name": "Supply orders"
+    },
+    {
+     "name": "e-tender",
+     "type": "Claim",
+     "english_name": "e-tender"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    }
+   ],
+   "relations": [
+    {
+     "source": "M/s A R Dairy Foods pvt Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Dindigal",
+     "evidence": "M/s A R Dairy Foods pvt Ltd., Dindigal, Tamilnadu."
+    },
+    {
+     "source": "M/s A R Dairy Foods pvt Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Tamilnadu",
+     "evidence": "M/s A R Dairy Foods pvt Ltd., Dindigal, Tamilnadu."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

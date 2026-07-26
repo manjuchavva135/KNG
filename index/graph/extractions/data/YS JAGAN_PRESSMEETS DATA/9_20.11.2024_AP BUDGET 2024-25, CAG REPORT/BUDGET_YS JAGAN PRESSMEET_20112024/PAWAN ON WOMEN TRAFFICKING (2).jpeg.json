@@ -1,0 +1,177 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f41c84bf14839617eb7728653637c76cc5929595": {
+   "entities": [
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఏలూరు సభ",
+     "type": "Place",
+     "english_name": "Eluru Sabha"
+    },
+    {
+     "name": "ఏలూరు జిల్లా జంగారెడ్డిగూడెం",
+     "type": "Place",
+     "english_name": "Eluru district Jangareddigudem"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "దాచేపల్లి",
+     "type": "Place",
+     "english_name": "Dachepalli"
+    },
+    {
+     "name": "ఇండియా టిక్ టాక్",
+     "type": "Organization",
+     "english_name": "India TikTok"
+    },
+    {
+     "name": "చైనా ఫేస్బుక్",
+     "type": "Organization",
+     "english_name": "China Facebook"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "మద్యాన్ని నిషేధిస్తానని మాట ఇచ్చి సీఎం పదవి పొందిన వ్యక్తి.. ఆ హామీని గాలికొదిలేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "655383b398be7eac9f78c51923bec026501dda6e": {
+   "entities": [
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Jana Sena"
+    },
+    {
+     "name": "వాలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వారాహి విజయయాత్ర",
+     "type": "Scheme",
+     "english_name": "Varahi Vijaya Yatra"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "క్రాంతి కళ్యాణమండపం",
+     "type": "Place",
+     "english_name": "Krantikalyan Mandapam"
+    },
+    {
+     "name": "పాతబస్టాండు",
+     "type": "Place",
+     "english_name": "Old Bus Stand"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "పవన్",
+     "type": "Person",
+     "english_name": "Pawan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ACCUSES",
+     "target": "వాలంటీర్లు",
+     "evidence": "రాష్ట్రంలో మహిళల అదృశ్యాలకు వాలంటీర్లే కారణం."
+    },
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "వైకాపా పాలనలో అదృశ్యమైన 30 వేల మందిలో 14 వేల మంది ఆచూకీ ఇప్పటికీ తెలియదు."
+    },
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వారాహి విజయయాత్ర",
+     "evidence": "రెండో విడత వారాహి విజయ యాత్రను ఆయన ఆదివారం ఏలూరులో ప్రారంభించారు."
+    },
+    {
+     "source": "పాతబస్టాండు",
+     "relation": "LOCATED_IN",
+     "target": "ఏలూరు",
+     "evidence": "జిల్లాకేంద్రం ఏలూరు పాతబస్టాండు సమీపంలోని."
+    },
+    {
+     "source": "పవన్",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "తెలియకుండా ప్రభుత్వం దోపిడీకి తెర తీస్తోంది."
+    },
+    {
+     "source": "పవన్",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "జగన్ను ఏకవచనంతోనే పిలుసా"
+    },
+    {
+     "source": "పవన్",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "వైకాపా నాయకులు నా తల్లిని ఇష్టం వచ్చినట్లు మాట్లాడతారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

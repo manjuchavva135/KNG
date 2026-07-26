@@ -1,0 +1,58 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a8e0de6213d436add10c54cc8f6b2ff972b9950b": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "సీబీటీ",
+     "type": "Scheme",
+     "english_name": "CBT"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "అన్నమయ్య",
+     "type": "Place",
+     "english_name": "Annamayya"
+    },
+    {
+     "name": "వైఎస్సార్ కడప",
+     "type": "Place",
+     "english_name": "YSR Kadapa"
+    },
+    {
+     "name": "పి.నవీన్",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఈనాడు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈనాడు, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

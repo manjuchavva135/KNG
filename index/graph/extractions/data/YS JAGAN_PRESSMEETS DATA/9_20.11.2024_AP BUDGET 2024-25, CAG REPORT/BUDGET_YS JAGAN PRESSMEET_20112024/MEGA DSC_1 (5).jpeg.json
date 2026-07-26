@@ -1,0 +1,79 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "edc3d98482ac3e8088223f83d33edf3dbc82c307": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "నారా లోకేశ్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పాఠశాల విద్య",
+     "type": "Organization",
+     "english_name": "School Education"
+    },
+    {
+     "name": "ఇంటర్మీడియట్ విద్య",
+     "type": "Organization",
+     "english_name": "Intermediate Education"
+    },
+    {
+     "name": "కోన శశిధర్",
+     "type": "Person",
+     "english_name": "Kona Shashi Dhar"
+    },
+    {
+     "name": "విజయరామరాజు",
+     "type": "Person",
+     "english_name": "Vijayaramaraju"
+    },
+    {
+     "name": "కృతికా శుక్లా",
+     "type": "Person",
+     "english_name": "Kritika Shukla"
+    },
+    {
+     "name": "బి. శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "B. Srinivasa Rao"
+    },
+    {
+     "name": "సమగ్ర శిక్షా అభియాన్ ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Samagra Shiksha Abhiyan Project"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నారా లోకేశ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ",
+     "evidence": "మెగా డీఎస్సీని పారదర్శకంగా, పకడ్బందీగా నిర్వహించేలా ఏర్పాట్లు చేయాలని విద్యాశాఖ మంత్రి నారా లోకేశ్ అధికారులను ఆదేశించారు."
+    },
+    {
+     "source": "ఈనాడు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈనాడు, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

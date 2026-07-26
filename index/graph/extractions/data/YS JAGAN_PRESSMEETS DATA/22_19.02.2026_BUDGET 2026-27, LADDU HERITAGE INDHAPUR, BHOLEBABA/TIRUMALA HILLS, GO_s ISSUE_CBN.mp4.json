@@ -1,0 +1,44 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b25c181a30ef5dbb1bbc0e78255ccc1ab84e8505": {
+   "entities": [
+    {
+     "name": "746",
+     "type": "Scheme",
+     "english_name": "746"
+    },
+    {
+     "name": "47",
+     "type": "Scheme",
+     "english_name": "47"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "నేను",
+     "type": "Person",
+     "english_name": "Speaker"
+    }
+   ],
+   "relations": [
+    {
+     "source": "తెలుగుదేశం పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "746",
+     "evidence": "తెలుగుదేశం పార్టీ దీనికి వ్యతిరేకంగా ఉంటాం రేపు అధికారానికి వస్తానే ఈ రెండు జీవోలు కూడా తీసేస్తాం అని చెప్పి కూడా నేను మీ అందరికీ ఆమె ఇస్తున్నాను."
+    },
+    {
+     "source": "తెలుగుదేశం పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "47",
+     "evidence": "తెలుగుదేశం పార్టీ దీనికి వ్యతిరేకంగా ఉంటాం రేపు అధికారానికి వస్తానే ఈ రెండు జీవోలు కూడా తీసేస్తాం అని చెప్పి కూడా నేను మీ అందరికీ ఆమె ఇస్తున్నాను."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

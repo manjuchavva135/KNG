@@ -1,0 +1,57 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "128f29b793799a36470b5a066e73fc25d430a99a": {
+   "entities": [
+    {
+     "name": "R.Venkata Ramana Naik",
+     "type": "Person",
+     "english_name": "R. Venkata Ramana Naik"
+    },
+    {
+     "name": "Sports Authorities of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authorities of Andhra Pradesh"
+    },
+    {
+     "name": "DSC-2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "3% sports quota",
+     "type": "Scheme",
+     "english_name": "3% sports quota"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "50572ed591d5cfbb55edf814cdf59f028a042cec": {
+   "entities": [
+    {
+     "name": "R.Venkata Ramana Naik",
+     "type": "Person",
+     "english_name": "R. Venkata Ramana Naik"
+    },
+    {
+     "name": "Sports Authorities of Andhra Pradesh",
+     "type": "Organization",
+     "english_name": "Sports Authorities of Andhra Pradesh"
+    },
+    {
+     "name": "Nallam Durga Prasad",
+     "type": "Person",
+     "english_name": "Nallam Durga Prasad"
+    },
+    {
+     "name": "Perugu Venkateswara rao",
+     "type": "Person",
+     "english_name": "Perugu Venkateswara rao"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

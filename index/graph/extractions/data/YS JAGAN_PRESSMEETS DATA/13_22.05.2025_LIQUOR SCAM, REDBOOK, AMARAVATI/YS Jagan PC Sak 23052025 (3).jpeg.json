@@ -136,6 +136,202 @@
      "evidence": "తాడేపల్లిలోని వైఎస్సార్సీపీ కేంద్ర కార్యాలయంలో గురువారం మీడియా ప్రతినిధులు అడిగిన పలు ప్రశ్నలకు వైఎస్ జగన్ సమాధానాలిచ్చారు."
     }
    ]
+  },
+  "66e0c5ad625441fca656b7cd9bee13690f7163f1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు కేసును కొట్టివేయించుకోవడానికి ప్రయత్నిస్తున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రేషన్ షాప్ డీలర్లు తెలుగుదేశం పార్టీ వారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "తప్పుడు కేసులకు అదిరేది లేదు... బెదిరేది లేదు",
+     "type": "Claim",
+     "english_name": "We are not afraid of false cases... we are not afraid"
+    },
+    {
+     "name": "అప్పట్లో టీడీపీ, కాంగ్రెస్ కుమ్మక్కై నాపై అక్రమ కేసులు పెట్టాయి",
+     "type": "Claim",
+     "english_name": "In the past TDP and Congress colluded and filed false cases against me"
+    },
+    {
+     "name": "ఎప్పుడూ ఎన్ని కేసులు పెట్టినా ప్రజల పక్షాన పోరాటం చేసి తీరుతా",
+     "type": "Claim",
+     "english_name": "No matter how many cases are filed, I will fight on the side of the people"
+    },
+    {
+     "name": "నేను విజయవాడలోనే ఉన్నా.. ఏమైనా చేసుకోవచ్చు.. ప్రశ్నించే స్వరం వినిపించకుండా చేసేందుకు అన్ని వర్గాల ప్రజలను వేధిస్తున్నారు",
+     "type": "Claim",
+     "english_name": "I am in Vijayawada... they are harassing all sections of people to silence my voice"
+    },
+    {
+     "name": "లిక్కర్ కేసులో చంద్రబాబు బెయిలై ఉన్నారు",
+     "type": "Claim",
+     "english_name": "Chandrababu is out on bail in the liquor case"
+    },
+    {
+     "name": "ఆ కేసును నీరుగార్చేందుకు అధికార దుర్వినియోగానికి పాల్పడుతున్నారు",
+     "type": "Claim",
+     "english_name": "He is misusing power to dilute that case"
+    },
+    {
+     "name": "బెయిల్ నిబంధనలను ఉల్లంఘించిన చంద్రబాబును తక్షణమే అరెస్టు చేయాలి",
+     "type": "Claim",
+     "english_name": "Chandrababu, who violated bail conditions, should be arrested immediately"
+    },
+    {
+     "name": "ఎన్ని కేసులు పెట్టినా అంతిమంగా న్యాయం, ధర్మం గెలుస్తుంది",
+     "type": "Claim",
+     "english_name": "No matter how many cases are filed, ultimately justice and righteousness will win"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు తనపై నమోదైన కేసును కొట్టివేయించుకోవడానికి... ఇప్పుడు చేస్తున్న లిక్కర్ పాలసీని సమర్థించుకోవడానికి ఏ స్కామూ లేకపోయినా జరిగినట్లుగా చిత్రీకరించి..."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "రేషన్ షాప్ డీలర్ తెలుగుదేశం పార్టీవాడు అయ్యుంటాడు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీకి... వైఎస్ జగన్కు ఈ పోరాటాలు కొత్త కాదు."
+    },
+    {
+     "source": "చంద్రబాబు కేసును కొట్టివేయించుకోవడానికి ప్రయత్నిస్తున్నాడు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor scam",
+     "evidence": "చంద్రబాబు తనపై నమోదైన కేసును కొట్టివేయించుకోవడానికి... ఇప్పుడు చేస్తున్న లిక్కర్ పాలసీని సమర్థించుకోవడానికి ఏ స్కామూ లేకపోయినా జరిగినట్లుగా చిత్రీకరించి..."
+    },
+    {
+     "source": "జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "అప్పట్లో టీడీపీ, కాంగ్రెస్ కుమ్మక్కై నాపై అక్రమ కేసులు పెట్టాయి"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, కాంగ్రెస్ కుట్రలను ఎదుర్కొని..."
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "తప్పుడు కేసులకు అదిరేది లేదు... బెదిరేది లేదు",
+     "evidence": "తప్పుడు కేసులకు అదిరేది లేదు... బెదిరేది లేదు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "అప్పట్లో టీడీపీ, కాంగ్రెస్ కుమ్మక్కై నాపై అక్రమ కేసులు పెట్టాయి",
+     "evidence": "అప్పట్లో టీడీపీ, కాంగ్రెస్ కుమ్మక్కై నాపై అక్రమ కేసులు పెట్టాయి"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎప్పుడూ ఎన్ని కేసులు పెట్టినా ప్రజల పక్షాన పోరాటం చేసి తీరుతా",
+     "evidence": "ఎప్పుడూ ఎన్ని కేసులు పెట్టినా ప్రజల పక్షాన పోరాటం చేసి తీరుతా"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నేను విజయవాడలోనే ఉన్నా.. ఏమైనా చేసుకోవచ్చు.. ప్రశ్నించే స్వరం వినిపించకుండా చేసేందుకు అన్ని వర్గాల ప్రజలను వేధిస్తున్నారు",
+     "evidence": "నేను విజయవాడలోనే ఉన్నా.. ఏమైనా చేసుకోవచ్చు.. ప్రశ్నించే స్వరం వినిపించకుండా చేసేందుకు అన్ని వర్గాల ప్రజలను వేధిస్తున్నారు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "లిక్కర్ కేసులో చంద్రబాబు బెయిలై ఉన్నారు",
+     "evidence": "లిక్కర్ కేసులో చంద్రబాబు బెయిలై ఉన్నారు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ కేసును నీరుగార్చేందుకు అధికార దుర్వినియోగానికి పాల్పడుతున్నారు",
+     "evidence": "ఆ కేసును నీరుగార్చేందుకు అధికార దుర్వినియోగానికి పాల్పడుతున్నారు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "బెయిల్ నిబంధనలను ఉల్లంఘించిన చంద్రబాబును తక్షణమే అరెస్టు చేయాలి",
+     "evidence": "బెయిల్ నిబంధనలను ఉల్లంఘించిన చంద్రబాబును తక్షణమే అరెస్టు చేయాలి"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్ని కేసులు పెట్టినా అంతిమంగా న్యాయం, ధర్మం గెలుస్తుంది",
+     "evidence": "ఎన్ని కేసులు పెట్టినా అంతిమంగా న్యాయం, ధర్మం గెలుస్తుంది"
+    }
+   ]
   }
  }
 }

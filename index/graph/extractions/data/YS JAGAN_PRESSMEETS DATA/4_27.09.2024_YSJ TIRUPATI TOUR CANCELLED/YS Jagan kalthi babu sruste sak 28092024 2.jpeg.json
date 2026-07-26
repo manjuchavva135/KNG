@@ -1,0 +1,902 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e2f58a2abba33428d3f2c0057a02ed03d47bc4ec": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "ఈవో",
+     "type": "Person",
+     "english_name": "EO"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "వనస్పతి ఆయిల్",
+     "type": "Claim",
+     "english_name": "Vanaspati oil"
+    },
+    {
+     "name": "జంతువుల కొవ్వు",
+     "type": "Claim",
+     "english_name": "Animal fat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "నీచ రాజకీయం కోసం లడ్డూల తయారీలో జంతువుల కొవ్వు కలిసిందంటూ స్వామివారిని అపవిత్రం చేశావ్."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "వనస్పతి ఆయిల్",
+     "evidence": "వాటిలో వనస్పతి ఆయిల్ కలిపినట్లు తెలిసింది"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "జంతువుల కొవ్వు",
+     "evidence": "లడ్డూల తయారీలో జంతువుల కొవ్వు కలిసిందంటూ స్వామివారిని అపవిత్రం చేశావ్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "DEFENDS",
+     "target": "లడ్డూ",
+     "evidence": "లడ్డూ ప్రసాదంపై చేస్తున్న దుష్ప్రచారాన్ని సాక్ష్యాధారాలతో కడిగి పారేశారు"
+    },
+    {
+     "source": "ఈవో",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లడ్డూ",
+     "evidence": "జూలై 23న, సెప్టెంబర్ 20న ఈవో రెండుసార్లు ప్రెస్మీట్ పెట్టి మరీ చెప్పినా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f18d98ceb8f8bebbd48b4c70005c47385a1e0ed8": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సాక్ష్యం",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "నెయ్యి",
+     "type": "Scheme",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "NABLAB",
+     "type": "Organization",
+     "english_name": "NABLAB"
+    },
+    {
+     "name": "NDRI",
+     "type": "Organization",
+     "english_name": "NDRI"
+    },
+    {
+     "name": "M/s AR Dairy Pvt Ltd",
+     "type": "Organization",
+     "english_name": "AR Dairy Pvt Ltd"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Expert Committee",
+     "type": "Organization",
+     "english_name": "Expert Committee"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబుపై నిప్పులు చెరిగారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెయ్యి",
+     "evidence": "తిరుమలకు సరఫరా చేసే నెయ్యికి సంబంధించి రొబస్ట్ విధానం ఉంటుంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "49ba8414fad54b9e9e5c58e6eb35078f772d63fe": {
+   "entities": [
+    {
+     "name": "శ్రీ రత్నం వెంకట సుల్తా రెడ్డి",
+     "type": "Person",
+     "english_name": "Sri Ratanam Venkata Sultha Reddy"
+    },
+    {
+     "name": "TYWOP నాయకులు",
+     "type": "Organization",
+     "english_name": "TYWOP Leaders"
+    },
+    {
+     "name": "దుంపలగుట్ట గ్రామం",
+     "type": "Place",
+     "english_name": "Dumpulagutta Village"
+    },
+    {
+     "name": "బాటిపిల్లు మండలం",
+     "type": "Place",
+     "english_name": "Batipillu Mandal"
+    },
+    {
+     "name": "TSR కడప",
+     "type": "Place",
+     "english_name": "TSR Kadapa"
+    },
+    {
+     "name": "8/60 కడప జిల్లా",
+     "type": "Place",
+     "english_name": "8/60 Kadapa District"
+    },
+    {
+     "name": "సత్తె నగర్",
+     "type": "Place",
+     "english_name": "Satté Nagar"
+    },
+    {
+     "name": "మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Mohan Reddy"
+    },
+    {
+     "name": "తిరుమల తిరుపతి సందర్శన",
+     "type": "Scheme",
+     "english_name": "Tirumala Tirupati Visit"
+    },
+    {
+     "name": "మాజీ సీఎం",
+     "type": "Person",
+     "english_name": "Former CM"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బిజెపి",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "ఎన్డీఏ కూటమి",
+     "type": "Party",
+     "english_name": "NDA Alliance"
+    },
+    {
+     "name": "శ్రీ వెంకటేశ్వరస్వామి",
+     "type": "Person",
+     "english_name": "Sri Venkateswara Swamy"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "సుప్రీం కోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "ప్రధాని",
+     "type": "Person",
+     "english_name": "Prime Minister"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు",
+     "type": "Person",
+     "english_name": "YS Jagan, President of YSRCP"
+    },
+    {
+     "name": "టీటీడీ ఈవో",
+     "type": "Organization",
+     "english_name": "TTD EO"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును ఎందుకు మందలించడం లేదు? ఎందుకు వెనకేసుకొస్తున్నారు? అంటే మీవాళ్లు ఏం చేసినా ఫరవాలేదు. మిగిలిన వారు ఏం చేసినా తప్పే! ఇదెక్కడి హిందుత్వం?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "బిజెపి",
+     "evidence": "హిందుత్వానికి మీరు బార్ట్స్ బేరర్స్ అంటారు. అందరూ ఆలోచించండి. హిందుత్వం అంటే మానవత్వం చూపడం...!"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును మందలించాలి. మతాన్ని, దేవుణ్ని రాజకీయాల్లోకి తేకుండా చంద్రబాబుకు సుప్రీం కోర్టు నుంచి, ప్రధాని నుంచి చీవాట్లు పడాలి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "చంద్రబాబును ఎందుకు మందలించడం లేదు? ఎందుకు వెనకేసుకొస్తున్నారు? అంటే మీవాళ్లు ఏం చేసినా ఫరవాలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "05d9df4c79b88dbe612c5ed087b1501e057a674d": {
+   "entities": [
+    {
+     "name": "నెయ్యి సరఫరా",
+     "type": "Issue",
+     "english_name": "Ghee supply"
+    },
+    {
+     "name": "నాలుగు ట్యాంకర్లు",
+     "type": "Issue",
+     "english_name": "Four tankers"
+    },
+    {
+     "name": "టీటీడీ ఈవో",
+     "type": "Organization",
+     "english_name": "TTD EO"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "సిట్",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైఎస్ఆర్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "గృహ నిర్బంధం",
+     "type": "Issue",
+     "english_name": "House arrest"
+    },
+    {
+     "name": "పోలీసు నోటీసు",
+     "type": "Issue",
+     "english_name": "Police notice"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Issue",
+     "english_name": "Laddu"
+    },
+    {
+     "name": "వెంకటేశ్వర స్వామి",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "చంద్రబాబునాయుడే తప్ప చేశాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "67bcc0307b9260df66cb0f3a7162b3a9d2b51490": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "CFTRI",
+     "type": "Organization",
+     "english_name": "CFTRI"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "చంద్రబాబు చేసిన ఈ పాపం కడగబ డాలి. అది రాష్ట్ర ప్రజల మీదకు రాకూడదు. పాపం చేసిన చంద్రబాబు మీదే కట్టడి కావాలి."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "TTD",
+     "evidence": "చంద్రబాబు సెప్టెంబరు 18న ఆరోపణలు చేస్తే ఆ మర్నాడే.. అంటే సెప్టెంబరు 19న తెలుగుదేశం పార్టీ ఆఫీసులో ఎన్డీడీబీ రిపోర్ట్ను రిలీజ్ చేశారు."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "Super Six"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Talliki Vandanam",
+     "evidence": "Talliki Vandanam"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Rythu Bharosa",
+     "evidence": "Rythu Bharosa"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Deepam",
+     "evidence": "Deepam"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0475c8ced69ffbc8a74667126b5866145135879d": {
+   "entities": [
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "టీటీడీ ఈవో",
+     "type": "Organization",
+     "english_name": "TTD EO"
+    },
+    {
+     "name": "నెయ్యి",
+     "type": "Claim",
+     "english_name": "ghee"
+    },
+    {
+     "name": "నెయ్యి నాణ్యత",
+     "type": "Claim",
+     "english_name": "ghee quality"
+    },
+    {
+     "name": "నెయ్యిని వెనక్కి పంపాము",
+     "type": "Claim",
+     "english_name": "sent back the ghee"
+    },
+    {
+     "name": "ప్రభుత్వానికి నివేదిక",
+     "type": "Claim",
+     "english_name": "report to the government"
+    },
+    {
+     "name": "కల్తీ నెయ్యి",
+     "type": "Claim",
+     "english_name": "adulterated ghee"
+    },
+    {
+     "name": "కంపెనీకి షోకాజ్ నోటీస్",
+     "type": "Claim",
+     "english_name": "show cause notice to the company"
+    },
+    {
+     "name": "ఎన్డీడీబీ రిపోర్టు",
+     "type": "Organization",
+     "english_name": "NDDB report"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0ff0b3b287ab1069184d400d6bf9b91e54232b02": {
+   "entities": [
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "వెంకటేశ్వర స్వామి",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ శ్రేణులు",
+     "type": "Party",
+     "english_name": "YSRCP cadre"
+    },
+    {
+     "name": "బీజేపీ శ్రేణులు",
+     "type": "Party",
+     "english_name": "BJP cadre"
+    },
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "కల్తీ నెయ్యి",
+     "type": "Claim",
+     "english_name": "adulterated ghee"
+    },
+    {
+     "name": "లడ్డూలు",
+     "type": "Claim",
+     "english_name": "laddus"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సీఎం చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వెంకటేశ్వర స్వామి",
+     "evidence": "చంద్రబాబు చేసిన పాపం వల్ల వెంకటేశ్వర స్వామికి కోపం వచ్చి రాష్ట్రంపై చూపకుండా, కోపం కేవలం చంద్రబాబుమీదే చూపించే విధంగా పూజలు చేయండి."
+    },
+    {
+     "source": "సీఎం చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కల్తీ నెయ్యి",
+     "evidence": "కల్తీ నెయ్యి వాడారని చెప్పారు."
+    },
+    {
+     "source": "సీఎం చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "లడ్డూలు",
+     "evidence": "జరిగిన ఘోర అవచారం, వెంకటేశ్వరస్వామిని పలుచన చేస్తూ, ఆయన ప్రసాదాన్ని లోకువ చేస్తూ.. జరగనిది జరిగినట్లుగా.. జంతువుల కొవ్వు వాడనిది వాడినట్లుగా, ఆ లడ్డూలు పంపిణీ చేసినట్లుగా పచ్చి అబద్ధాలాడుతూ ఇంత ఘోరం చేసిన వ్యక్తి చంద్రబాబు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0ac84ff94c872fc4b9c5d92ca545d14e74ee3373": {
+   "entities": [
+    {
+     "name": "నెయ్యి",
+     "type": "Claim",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "ఈవో",
+     "type": "Person",
+     "english_name": "EO"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "నివేదిక",
+     "type": "Claim",
+     "english_name": "Report"
+    },
+    {
+     "name": "టీడీపీ ఆఫీస్",
+     "type": "Organization",
+     "english_name": "TDP Office"
+    },
+    {
+     "name": "వనస్పతి",
+     "type": "Claim",
+     "english_name": "Vanaspati"
+    },
+    {
+     "name": "సప్లయర్",
+     "type": "Person",
+     "english_name": "Supplier"
+    },
+    {
+     "name": "శ్రీ వేంకటేశ్వరస్వామి",
+     "type": "Place",
+     "english_name": "Lord Venkateswara"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Claim",
+     "english_name": "Laddu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "వైఎస్సార్",
+     "type": "Person",
+     "english_name": "YSR"
+    },
+    {
+     "name": "శ్యామలరావు",
+     "type": "Person",
+     "english_name": "Syama Rao"
+    },
+    {
+     "name": "డీటీడీ ఈవో",
+     "type": "Person",
+     "english_name": "DTT EO"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఈవో",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "ట్యాంకర్లలో వచ్చిన నెయ్యిలో నాణ్యత లేదని తేలినందువల్ల ఆ నెయ్యిని వెనక్కి పంపామని, వాడలేదని చెప్పారు."
+    },
+    {
+     "source": "ఈవో",
+     "relation": "MAKES_CLAIM",
+     "target": "నివేదిక",
+     "evidence": "సెప్టెంబరు 22న ఈవో స్వయంగా సంతకం చేసి ప్రభుత్వానికి ఒక నివేదిక కూడా ఇచ్చారు."
+    },
+    {
+     "source": "సప్లయర్",
+     "relation": "MAKES_CLAIM",
+     "target": "వనస్పతి",
+     "evidence": "శాంపిల్లో అడ్జస్ట్రేషన్ ఉందని తేలింది. అందులో వెజిటబుల్ ఫ్యాట్.. అంటే వనస్పతి కలిసిందని తెలిసింది."
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "లడ్డూ",
+     "evidence": "లడ్డూ తయారీలో నెయ్యికి బదులు జంతు కొవ్వు కూడా వాదారు."
+    },
+    {
+     "source": "శ్యామలరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "అడల్టేటెడ్ నెయ్యి అని తేలిన నాలుగు ట్యాంకర్లను పక్కన పెట్టాం."
+    },
+    {
+     "source": "శ్యామలరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "నివేదిక",
+     "evidence": "రిపోర్టు వచ్చిన తర్వాత వాటిని వాడాలని నిర్ణయించాం."
+    },
+    {
+     "source": "శ్యామలరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "రిపోర్టు క్లియర్ కాకపోవడంతో వాటిని రిజెక్టు చేశాం."
+    },
+    {
+     "source": "శ్యామలరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "వాటిని తిప్పి పంపించేశాం."
+    },
+    {
+     "source": "శ్యామలరావు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "సరఫరాను నిలిపివేశాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3de660a4422d41525442d983037e964312a5f7a9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "హెరిటేజ్ డెయిరీ",
+     "type": "Organization",
+     "english_name": "Heritage Dairy"
+    },
+    {
+     "name": "తిరుమల తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirumala Tirupati"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "NDDB",
+     "evidence": "ఆ రిపోర్టులో వాళ్లే డిస్క్లెయిమర్ రాశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "హెరిటేజ్ డెయిరీ",
+     "evidence": "చంద్రబాబు తన హెరిటేజ్ డెయిరీ కోసం, పాలు కార్టల్ ఫామ్ చేసి, నెయ్యి రేట్లు పెంచేసి, ఆ కార్టల్లో చంద్రబాబునాయుడు, హెరిటేజ్ కంపెనీ లాభపదాలనే ఉద్దేశంతో, కొత్తగా రేట్లు పెంచడం కోసం మాట్లాడుతున్నాడు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "రాష్ట్రంలో గతంలో ఎన్నడూ చూడని రాక్షస రాజ్యం నడుస్తోంది.. దేవుడిని దర్శించుకునే కార్యక్రమాన్ని కూడా అడ్డుకుంటున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": ""
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Talliki Vandanam",
+     "evidence": ""
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Rythu Bharosa",
+     "evidence": ""
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Deepam",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "874721bf902370f0446ac326630806606c5cd7e7": {
+   "entities": [
+    {
+     "name": "రాజశేఖర్ రెడ్డిగారు",
+     "type": "Person",
+     "english_name": "Rajasekhara Reddy"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "87419198cbfb65def5565e206b2ef964ca78ecad": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "రాజశేఖర్ రెడ్డిగారు",
+     "type": "Person",
+     "english_name": "Rajasekhara Reddy"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Issue",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "ప్రసాదం",
+     "type": "Issue",
+     "english_name": "Prasadam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "చంద్రబాబు కావాలని అబద్దాలాడుతున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c24f899ace16608ee2b879c560f6d2a3db93355a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నందిని బ్రాండ్",
+     "type": "Organization",
+     "english_name": "Nandini Brand"
+    },
+    {
+     "name": "కేఎంఎఫ్",
+     "type": "Organization",
+     "english_name": "KMF"
+    },
+    {
+     "name": "వెంకటేశ్వర స్వామి",
+     "type": "Person",
+     "english_name": "Venkateswara Swamy"
+    },
+    {
+     "name": "లడ్డూలు",
+     "type": "Place",
+     "english_name": "Laddus"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నందిని బ్రాండ్",
+     "evidence": "నందిని బ్రాండ్ ఎందుకు వాడడం లేదని అం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వెంకటేశ్వర స్వామి",
+     "evidence": "నీ రాజకీయ స్వార్థం కోసం వెంకటేశ్వర స్వామి ప్రతిష్టను దిగజారుస్తున్నావు చంద్రబాబూ!"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

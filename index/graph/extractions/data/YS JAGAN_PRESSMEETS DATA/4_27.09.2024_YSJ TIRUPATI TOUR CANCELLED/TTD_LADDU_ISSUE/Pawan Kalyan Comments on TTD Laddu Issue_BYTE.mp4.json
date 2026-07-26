@@ -1,0 +1,43 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "1809eb6803d89ac6e30f6ddb0b10e8dd856c96eb": {
+   "entities": [
+    {
+     "name": "జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "Sanatana Dharma Parirakshana board",
+     "type": "Organization",
+     "english_name": "Sanatana Dharma Parirakshana board"
+    },
+    {
+     "name": "Prayaschit Diksha",
+     "type": "Scheme",
+     "english_name": "Prayaschit Diksha"
+    },
+    {
+     "name": "Prasad issue",
+     "type": "Issue",
+     "english_name": "Prasad issue"
+    },
+    {
+     "name": "ex-CM of the state",
+     "type": "Person",
+     "english_name": "ex-CM of the state"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prayaschit Diksha",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Prasad issue",
+     "evidence": "This is not just about one Prasad issue today, maybe it came out, maybe this was a triggering point."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

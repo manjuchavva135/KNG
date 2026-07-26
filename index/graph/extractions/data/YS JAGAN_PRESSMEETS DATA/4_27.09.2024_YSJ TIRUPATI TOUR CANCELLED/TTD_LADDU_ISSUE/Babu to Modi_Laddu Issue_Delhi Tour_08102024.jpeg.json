@@ -1,0 +1,38 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5b6d1ef6c445e15596822952f3e72f112e9399b7": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ప్రధానమంత్రి నరేంద్రమోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Narendra Modi"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Laddu"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Tirupati Laddu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లడ్డూ",
+     "evidence": "ఈ లడ్డూ లో కల్తీ లేదు. నూటికి నూరుపాళ్లు పవిత్రమైంది అని చంద్రబాబు మోదీతో చమత్కరించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

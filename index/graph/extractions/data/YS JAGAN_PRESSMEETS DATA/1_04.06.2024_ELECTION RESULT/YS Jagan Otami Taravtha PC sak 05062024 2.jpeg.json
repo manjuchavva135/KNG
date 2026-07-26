@@ -1,0 +1,291 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b1d06d9de4149e22b155b8459ca9da31ca8f638e": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "పేదల గొంతుకై నిలుస్తాం",
+     "type": "Claim",
+     "english_name": "We will stand for the voice of the poor"
+    },
+    {
+     "name": "మొదటి పేజీ తరువాయి",
+     "type": "Claim",
+     "english_name": "Next page of the first page"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Vodi"
+    },
+    {
+     "name": "31 లక్షల ఇంటి పట్టాలు",
+     "type": "Scheme",
+     "english_name": "31 lakh house plots"
+    },
+    {
+     "name": "22 లక్షల ఇళ్లు",
+     "type": "Scheme",
+     "english_name": "22 lakh houses"
+    },
+    {
+     "name": "66 లక్షల అవ్వాతాతలకు, వితంతువులకు, వికలాంగులకు",
+     "type": "Scheme",
+     "english_name": "66 lakh old age, widow, disabled pensions"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "చేయూత",
+     "type": "Scheme",
+     "english_name": "Cheyutha"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero interest"
+    },
+    {
+     "name": "కోటీ ఐదు లక్షల పొదుపు సంఘాల అక్కచెల్లెమ్మలు",
+     "type": "Scheme",
+     "english_name": "1.05 crore self-help group women"
+    },
+    {
+     "name": "26 లక్షల మంది చేయూతను అందుకుంటున్న అక్కచెల్లెమ్మలు",
+     "type": "Scheme",
+     "english_name": "26 lakh Cheyutha recipients"
+    },
+    {
+     "name": "పిల్లల చదువుల కోసం",
+     "type": "Claim",
+     "english_name": "For children's education"
+    },
+    {
+     "name": "12 లక్షల మందికి",
+     "type": "Claim",
+     "english_name": "12 lakh people"
+    },
+    {
+     "name": "54 లక్షల మంది రైతన్నలకు",
+     "type": "Claim",
+     "english_name": "54 lakh farmers"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "ఇన్పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input subsidy"
+    },
+    {
+     "name": "ఉచిత ఇన్స్యూరెన్స్",
+     "type": "Scheme",
+     "english_name": "Free insurance"
+    },
+    {
+     "name": "పగటిపూటే 9",
+     "type": "Claim",
+     "english_name": "9 hours of daylight"
+    },
+    {
+     "name": "సీఎం వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "CM YS Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "పేదల గొంతుకై నిలుస్తాం",
+     "evidence": "పేదల గొంతుకై నిలుస్తాం"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అమ్మ ఒడి",
+     "evidence": "అమ్మ ఒడి అందుకున్న 53 లక్షల మంది తల్లులకు మంచి చేశాం"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "31 లక్షల ఇంటి పట్టాలు",
+     "evidence": "31 లక్షల ఇంటి పట్టాలు అక్క చెల్లెమ్మల పేరుతో ఇచ్చాం"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "22 లక్షల ఇళ్లు",
+     "evidence": "22 లక్షల ఇళ్లు కట్టిస్తున్నాం"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "66 లక్షల అవ్వాతాతలకు, వితంతువులకు, వికలాంగులకు",
+     "evidence": "66 లక్షల మంది అవ్వాతాతలకు, వితంతువులకు, వికలాంగులకు గతంలో ఎన్నడూ జరగని విధంగా మంచి చేశాం"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆసరా",
+     "evidence": "ఆసరా, చేయూతతో తోడున్నాం"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చేయూత",
+     "evidence": "చేయూతను అందుకుంటున్న అక్కచెల్లెమ్మల ఆప్యాయత ఏమైందో తెలియదు"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సున్నా వడ్డీ",
+     "evidence": "సున్నా వడ్డీతో సైతం అండగా నిలిచాం"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కోటీ ఐదు లక్షల పొదుపు సంఘాల అక్కచెల్లెమ్మలు",
+     "evidence": "దాదాపు కోటీ ఐదు లక్షల మంది పొదుపు సంఘాల అక్కచెల్లెమ్మలకు మంచి చేస్తూ"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "26 లక్షల మంది చేయూతను అందుకుంటున్న అక్కచెల్లెమ్మలు",
+     "evidence": "26 లక్షల మంది చేయూతను అందుకుంటున్న అక్కచెల్లెమ్మల ఆప్యాయత ఏమైందో తెలియదు"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా",
+     "evidence": "రైతన్నకు తోడుగా ఉంటూ, రైతన్నలకు రైతు భరోసా ఇవ్వడం గానీ"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇన్పుట్ సబ్సిడీ",
+     "evidence": "సీజన్ ముగిసేలోగా ఇన్పుట్ సబ్సిడీ"
+    },
+    {
+     "source": "సీఎం వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉచిత ఇన్స్యూరెన్స్",
+     "evidence": "ఉచిత ఇన్స్యూరెన్స్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aefc275bba5052084991abd408edea014d97be6f": {
+   "entities": [
+    {
+     "name": "గంటల ఉచిత విద్యుత్",
+     "type": "Scheme",
+     "english_name": "Free electricity for hours"
+    },
+    {
+     "name": "వాహనమిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "నేతన్నలకు అండగా ఉం టూ నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Neethanna Nestham"
+    },
+    {
+     "name": "మత్స్యకారులకు తోడుగా ఉం టూ మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": "Matsya Kar Bharosa"
+    },
+    {
+     "name": "అక్కచెల్లెమ్మలకు",
+     "type": "Organization",
+     "english_name": "Akka Chellemmalu"
+    },
+    {
+     "name": "అన్నదమ్ములకు",
+     "type": "Organization",
+     "english_name": "Annamochu"
+    },
+    {
+     "name": "రజకులకు",
+     "type": "Organization",
+     "english_name": "Rajakulu"
+    },
+    {
+     "name": "నాయీ బ్రాహ్మణులకు",
+     "type": "Organization",
+     "english_name": "Nayee Brahminulu"
+    },
+    {
+     "name": "టైలర్లకు",
+     "type": "Organization",
+     "english_name": "Tailorulu"
+    },
+    {
+     "name": "మేనిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "ఇంటి వద్దకే సేవలు",
+     "type": "Scheme",
+     "english_name": "Inti vaddake sevalu"
+    },
+    {
+     "name": "ఇంగ్లిష్ మీడియం",
+     "type": "Scheme",
+     "english_name": "English medium"
+    },
+    {
+     "name": "టోఫెల్",
+     "type": "Scheme",
+     "english_name": "TOFEL"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Scheme",
+     "english_name": "IB"
+    },
+    {
+     "name": "CM Yagan",
+     "type": "Person",
+     "english_name": "CM Yagan"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "వలంటీర్ వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Volunteer system"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్‌",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

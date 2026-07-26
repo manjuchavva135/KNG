@@ -1,0 +1,267 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b542b10ead172f58677c8d08dc7b0a2fa44c070e": {
+   "entities": [
+    {
+     "name": "పురందేశ్వరి",
+     "type": "Person",
+     "english_name": "Purandeshwari"
+    },
+    {
+     "name": "భాజపా",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "నిర్మలా సీతారామన్",
+     "type": "Person",
+     "english_name": "Nirmala Sitharaman"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు",
+     "type": "Claim",
+     "english_name": "State debt"
+    },
+    {
+     "name": "గుత్తేదారులు",
+     "type": "Organization",
+     "english_name": "Contractors"
+    },
+    {
+     "name": "విద్యుత్తు కొనుగోలు ఒప్పందాలు",
+     "type": "Scheme",
+     "english_name": "Power purchase agreements"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పురందేశ్వరి",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "పార్లమెంటు సమాధానాన్ని అడ్డుగా పెట్టుకుని కుటుంబ మీడియా, వాలంటీర్ల సాయంతో భాజపా రాష్ట్రశాఖ ప్రతిష్ఠదెబ్బతినేలా వైకాపా ప్రచారం చేసింది."
+    },
+    {
+     "source": "పురందేశ్వరి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పులు",
+     "evidence": "రాష్ట్ర అప్పులు రూ.10.77 లక్షల కోట్లు."
+    },
+    {
+     "source": "పురందేశ్వరి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "విద్యుత్తు కొనుగోలు ఒప్పందాలు",
+     "evidence": "గుత్తేదారులు, సరఫరాదారులకు, విద్యుత్తు కొనుగోలు ఒప్పందాలకు సంబంధించి నాలుగేళ్లుగా బకాయిలు చెల్లించలేని దుస్థితికి రాష్ట్ర ఆర్ధిక పరిస్థితిని తీసుకువచ్చారు."
+    },
+    {
+     "source": "పురందేశ్వరి",
+     "relation": "MEMBER_OF",
+     "target": "భాజపా",
+     "evidence": "భాజపా రాష్ట్ర అధ్యక్షరాలు దగ్గుబాటి పురందేశ్వరి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c048f5453bbf0a208d4448ec490b0c8fbbebc0c9": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "రాష్ట్ర రుణం రూ.11 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": "State debt of Rs 11 lakh crore"
+    },
+    {
+     "name": "బిల్లులు సకాలంలో చెల్లించకపోతే 18శాతం అదనంగా",
+     "type": "Claim",
+     "english_name": "Additional 18% if bills not paid on time"
+    },
+    {
+     "name": "వసూలు చేస్తున్నప్పుడు ప్రభుత్వం సకాలంలో చెల్లించని బకాయిలపై అంతే వడ్డీ ఎందుకు చెల్లించదు అని వర్తక వాణిజ్య సంఘాలు ప్రశ్నిస్తున్నాయి",
+     "type": "Claim",
+     "english_name": "Trade and commercial associations question why same interest not paid on government's overdue receivables"
+    },
+    {
+     "name": "ఈ ఏడాది రాష్ట్ర ఆదాయం రూ.90 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "State income Rs 90,000 crore this year"
+    },
+    {
+     "name": "కేంద్ర పన్నుల్లో వాటా రూ.35 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Share of central taxes Rs 35,000 crore"
+    },
+    {
+     "name": "ఇతరాలు కలిపి మొత్తం ఆదాయం రూ.1.35 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": "Total income Rs 1.35 lakh crore including others"
+    },
+    {
+     "name": "రాష్ట్ర వ్యయం రూ.2.60 లక్షల కోట్లుగా బడ్జెట్ అంచనా",
+     "type": "Claim",
+     "english_name": "Budget estimate for state expenditure Rs 2.60 lakh crore"
+    },
+    {
+     "name": "మిగిలిన లోటు మొత్తం కేంద్ర గ్రాంట్లు, ఎఫ్ఆర్బీఎం పరిధిలో రిజర్వ్ బ్యాంక్ నుంచి తెచ్చే అప్పులు, కార్పొరేషన్ల రుణాల ద్వారానే సమకూర్చుకోవాల్సి వస్తోంది",
+     "type": "Claim",
+     "english_name": "Remaining deficit to be met through central grants, RBI loans under FRBM, and corporate loans"
+    },
+    {
+     "name": "నాలుగేళ్లుగా బడ్జెట్, అకౌంటింగు అస్తవ్యస్తంగా తయారయ్యాయి",
+     "type": "Claim",
+     "english_name": "Budget and accounting have been chaotic for four years"
+    },
+    {
+     "name": "ప్రస్తుత అప్పు సుమారు రూ.11 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": "Current debt approx Rs 11 lakh crore"
+    },
+    {
+     "name": "కనీసం 8శాతం వడ్డీ లెక్కగట్టినా ఏడాదికి రూ.88 వేల కోట్లు వడ్డీ రూపంలోనే చెల్లించాలి",
+     "type": "Claim",
+     "english_name": "At least 8% interest means Rs 88,000 crore interest annually"
+    },
+    {
+     "name": "30 ఏళ్లలో ఈ అప్ప తీర్చాలన్నా ఏడాదికి రూ.36 వేల కోట్లు అవసరం",
+     "type": "Claim",
+     "english_name": "To repay in 30 years need Rs 36,000 crore per year"
+    },
+    {
+     "name": "అంటే అప్పులు తీర్చేందుకే ఏడాదికి రూ.1.24 లక్షల కోట్లు అవసరం",
+     "type": "Claim",
+     "english_name": "Thus need Rs 1.24 lakh crore per year to repay debt"
+    },
+    {
+     "name": "రాష్ట్రంలో కోటి మంది నిత్యం నాణ్యత లేని మద్యం సేవిస్తున్నారు",
+     "type": "Claim",
+     "english_name": "One crore people consume substandard liquor daily"
+    },
+    {
+     "name": "దీని వల్ల వారి కుటుంబాలు చితికిపోవడం తోపాటు అనారోగ్యంతో గుల్లవుతున్నారు",
+     "type": "Claim",
+     "english_name": "Families suffer and health deteriorates"
+    },
+    {
+     "name": "రూ.30 వేల కోట్ల మద్యం ఆదాయం లెక్కలోకి రాకుండా పక్కకు మళ్లు తోంది",
+     "type": "Claim",
+     "english_name": "Rs 30,000 crore liquor revenue unaccounted"
+    },
+    {
+     "name": "మద్యం కంపెనీలన్నీ వైకాపాకు చెందిన వారి చేతుల్లోనే ఉన్నాయి",
+     "type": "Claim",
+     "english_name": "All liquor companies are owned by YSRCP"
+    },
+    {
+     "name": "రాష్ట్రంలోని అన్ని డిస్ట్రిలరీలతోపాటు ఈ ఆపకతవకలపై విచారణ జరిపించాలి",
+     "type": "Claim",
+     "english_name": "Investigate irregularities in all distilleries"
+    },
+    {
+     "name": "అప్పులపై",
+     "type": "Claim",
+     "english_name": "On debt"
+    },
+    {
+     "name": "Forensic audit",
+     "type": "Scheme",
+     "english_name": "Forensic audit"
+    },
+    {
+     "name": "Distilleries",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Misappropriation of funds",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Inquiry",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Parliament answer",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP false propaganda",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Union Finance Minister",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Purandeshwari",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Letter",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh financial situation",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Corruption",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Management practices",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Corporation loans",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Government guarantees",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Loans taken with other guarantees",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Central government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "White paper",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

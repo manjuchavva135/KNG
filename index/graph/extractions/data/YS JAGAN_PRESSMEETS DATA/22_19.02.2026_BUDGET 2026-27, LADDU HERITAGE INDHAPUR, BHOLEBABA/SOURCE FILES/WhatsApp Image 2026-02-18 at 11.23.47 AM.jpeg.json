@@ -1,0 +1,198 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d58d7b932de5281627fb3f9a1a16aba8cf8a5195": {
+   "entities": [
+    {
+     "name": "Suicides",
+     "type": "Issue",
+     "english_name": "Suicides"
+    },
+    {
+     "name": "Financial Distress",
+     "type": "Claim",
+     "english_name": "Financial Distress"
+    },
+    {
+     "name": "Love/Failure",
+     "type": "Claim",
+     "english_name": "Love/Failure"
+    },
+    {
+     "name": "Family/Relationship",
+     "type": "Claim",
+     "english_name": "Family/Relationship"
+    },
+    {
+     "name": "Unemployment",
+     "type": "Claim",
+     "english_name": "Unemployment"
+    },
+    {
+     "name": "Addiction to Alcohol",
+     "type": "Claim",
+     "english_name": "Addiction to Alcohol"
+    },
+    {
+     "name": "Academic Stress",
+     "type": "Claim",
+     "english_name": "Academic Stress"
+    },
+    {
+     "name": "Work Pressure",
+     "type": "Claim",
+     "english_name": "Work Pressure"
+    },
+    {
+     "name": "Multiple Reasons",
+     "type": "Claim",
+     "english_name": "Multiple Reasons"
+    },
+    {
+     "name": "Farmer",
+     "type": "Claim",
+     "english_name": "Farmer"
+    },
+    {
+     "name": "Agricultural Labour",
+     "type": "Claim",
+     "english_name": "Agricultural Labour"
+    },
+    {
+     "name": "Govt. Employee",
+     "type": "Claim",
+     "english_name": "Govt. Employee"
+    },
+    {
+     "name": "Private Employee",
+     "type": "Claim",
+     "english_name": "Private Employee"
+    },
+    {
+     "name": "Student",
+     "type": "Claim",
+     "english_name": "Student"
+    },
+    {
+     "name": "House Wife",
+     "type": "Claim",
+     "english_name": "House Wife"
+    },
+    {
+     "name": "Un-employed",
+     "type": "Claim",
+     "english_name": "Un-employed"
+    },
+    {
+     "name": "Others",
+     "type": "Claim",
+     "english_name": "Others"
+    },
+    {
+     "name": "Road Safety",
+     "type": "Issue",
+     "english_name": "Road Safety"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Financial Distress",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Financial Distress | 2,742"
+    },
+    {
+     "source": "Love/Failure",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Love/Failure | 447"
+    },
+    {
+     "source": "Family/Relationship",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Family/Relationship | 4,456"
+    },
+    {
+     "source": "Unemployment",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Unemployment | 206"
+    },
+    {
+     "source": "Addiction to Alcohol",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Addiction to Alcohol | 1,544"
+    },
+    {
+     "source": "Academic Stress",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Academic Stress | 198"
+    },
+    {
+     "source": "Work Pressure",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Work Pressure | 31"
+    },
+    {
+     "source": "Multiple Reasons",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Multiple Reasons | 4,810"
+    },
+    {
+     "source": "Farmer",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Farmer | 393"
+    },
+    {
+     "source": "Agricultural Labour",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Agricultural Labour | 2,472"
+    },
+    {
+     "source": "Govt. Employee",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Govt. Employee | 215"
+    },
+    {
+     "source": "Private Employee",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Private Employee | 1,841"
+    },
+    {
+     "source": "Student",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Student | 978"
+    },
+    {
+     "source": "House Wife",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "House Wife | 1,884"
+    },
+    {
+     "source": "Un-employed",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Un-employed | 466"
+    },
+    {
+     "source": "Others",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Suicides",
+     "evidence": "Others* (Daily-wage, Self-employed, etc.) | 8,169"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

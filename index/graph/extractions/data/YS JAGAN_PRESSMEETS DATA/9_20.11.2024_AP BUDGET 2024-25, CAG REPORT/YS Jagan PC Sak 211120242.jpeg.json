@@ -1,0 +1,1263 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d3e402ece4000091249bde5ac2a4296794b8b8d7": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వ హయాంలో వలంటీర్లకు చెల్లించిన గౌరవ వేతనం వివరాలు",
+     "type": "Claim",
+     "english_name": "Details of honorarium paid to volunteers during YSRCP government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "67aee833e0a23fb3bbbd5a7a60756f063ac68036": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సూపర్ సిక్స్లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్ సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "CC-UNICEF-Village-level-payment-of-Rs-500-per-child",
+     "type": "Scheme",
+     "english_name": "CC-UNICEF-Village-level-payment-of-Rs-500-per-child"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "CAG రిపోర్ట్",
+     "type": "Issue",
+     "english_name": "CAG Report"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రజలపై పన్నుల మోత మోగిస్తున్నారని ధ్వజమెత్తారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్లు",
+     "evidence": "ఓవైపు సూపర్ సిక్స్లు లేవు.. సూపర్ సెవెన్లు లేవు..."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవెన్లు",
+     "evidence": "ఓవైపు సూపర్ సిక్స్లు లేవు.. సూపర్ సెవెన్లు లేవు..."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "CC-UNICEF-Village-level-payment-of-Rs-500-per-child",
+     "evidence": "Volunteer payments"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "77a63d9da0b788e3500acf2c7c92a56dbe9162f2": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వ హయాంలో వలంటీర్లకు చెల్లించిన గౌరవ వేతనం వివరాలు",
+     "type": "Claim",
+     "english_name": "Honorarium details for volunteers during YSRCP government"
+    },
+    {
+     "name": "2014 15 మధ్య, 2015 24 మధ్య రాష్ట్రంలో లోకల్ నిధులు కోసం విడిచిన 20% నిధులు",
+     "type": "Claim",
+     "english_name": "20% funds released for local funds between 2014-15 and 2015-24"
+    },
+    {
+     "name": "జిల్లా కలెక్టరు ఆధ్వర్యంలో, జిల్లా పరిషత్తుల ద్వారా రాష్ట్రంలో ప్రజలకు అవసరమైన పనులు పూర్తిగా పక్కకు వెళ్లిపోయాయి",
+     "type": "Claim",
+     "english_name": "Works for people via District Collector and Zilla Parishads stopped"
+    },
+    {
+     "name": "మద్యంలో ఒక స్కామ్, ఇసుకలో ఇంకో స్కామ్, ప్రతి నియోజకవర్గంలో పేకాట క్లబ్బులు",
+     "type": "Claim",
+     "english_name": "Scams in liquor, sand, and gambling clubs in every constituency"
+    },
+    {
+     "name": "అదానీ వాళ్లి ప్లాంట్ కడుతుంటే కూటమి ఎమ్మెల్యే చంద్రబాబు ప్రోద్దలంతో బెదిరిస్తున్నారు",
+     "type": "Claim",
+     "english_name": "Coalition MLA threatening Adani plant construction under Chandrababu's direction"
+    },
+    {
+     "name": "రాష్ట్రంలో నాకింత.. నీకింత అని దోచుకోడం.. పంచుకోవడమే జరుగుతోంది",
+     "type": "Claim",
+     "english_name": "State is being looted and shared"
+    },
+    {
+     "name": "చంద్రబాబు ప్రతిపక్షంలో ఉన్నప్పుడు తన ఆఫీసులో అధికారిక ప్రతినిధితో నన్ను 'బోస్దికే' అని తిట్టిం చాడు",
+     "type": "Claim",
+     "english_name": "Chandrababu called me 'Bosdike' via official spokesperson when in opposition"
+    },
+    {
+     "name": "నా చెల్లెలు షర్మిల మీద హైదరాబాద్ జూబ్లీ హిల్స్ రోడ్ నంబర్ 36లో ఈయన బావమరిది, లోకేశ్ మామ బాలకృష్ణ సొంత టవర్ ఎన్టీకే బిర్డింగ్ నుంచి తప్పుడు రాతలు రాయించి ప్రచారం చేయలేదా",
+     "type": "Claim",
+     "english_name": "False writings about my sister Sharmila from NTRK Building by Chandrababu's relative"
+    },
+    {
+     "name": "హైదరాబాద్ పోలీసుల దర్యాప్తులో ఇది నిజమని తేలలేదా",
+     "type": "Claim",
+     "english_name": "Hyderabad police investigation confirmed it"
+    },
+    {
+     "name": "ఎన్నికలకు ముందు ల్యాండ్ టైటిలింగ్ యాక్టు, విద్యుత్ చార్జీలు, రోడ్డు",
+     "type": "Claim",
+     "english_name": "Before elections: Land Titling Act, electricity charges, road"
+    },
+    {
+     "name": "అధికారంలోకి వచ్చిన తర్వాత తిరుపతి లడ్డూ, అప్పలు, రాష్ట్ర ప్రగతి, ఇండస్ట్రీ, పారిశ్రామిక వేత్తలు",
+     "type": "Claim",
+     "english_name": "After coming to power: Tirupati laddu, appalu, state progress, industry, industrialists"
+    },
+    {
+     "name": "రాష్ట్రంలో చంద్రబాబు హయాం.. వైఎస్సార్సీపీ ప్రభుత్వ హయాంలో రహదారుల అభివృద్ధికి చేసిన ఖర్చు",
+     "type": "Claim",
+     "english_name": "Road development spending in Chandrababu's tenure vs YSRCP government"
+    },
+    {
+     "name": "స్కిల్ స్కాం కేసులో చంద్రబాబు అరెస్ట్ అక్రమమైతే, నిందితులను ఈడీ ఎందుకు అరెస్ట్ చేసింది",
+     "type": "Claim",
+     "english_name": "If Chandrababu's arrest in Skill scam is illegal, why did ED arrest others"
+    },
+    {
+     "name": "ఈడీ వాళ్ల ప్రొపర్టీస్ను అటాచ్ చేసింది",
+     "type": "Claim",
+     "english_name": "ED attached their properties"
+    },
+    {
+     "name": "స్కిల్ స్కామ్ నుంచే ఆ డబ్బులన్నీ వెళ్లడంతో పక్కాగా స్కామ్ అని తేలదంతోనే వాళ్లను ఈడీ అరెస్ట్ చేసింది",
+     "type": "Claim",
+     "english_name": "ED arrested them because money from Skill scam was traced"
+    },
+    {
+     "name": "డబ్బులు ఇచ్చింది చంద్రబాబే కదా",
+     "type": "Claim",
+     "english_name": "Chandrababu gave the money"
+    },
+    {
+     "name": "వాళ్లు 'వివేకం'పేరిట ఇష్టమొచ్చినట్టు సినిమాలు తీస్తే తప్ప లేదు",
+     "type": "Claim",
+     "english_name": "They must make movies titled 'Vivekam' as they please"
+    },
+    {
+     "name": "రాంగోపాల్ వర్మ సినిమా తీసి సెన్సార్ బోర్డు అనుమతితో రిలీజ్ చేస్తే ఆ సినిమాలో తమను కించపరిచారంటూ ఆయనపై కేసులు",
+     "type": "Claim",
+     "english_name": "Cases against Ram Gopal Varma for movie insulting them after censor board release"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c08a0c7ec66dd5ba0352c899d13bf785b593a405": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పేదల",
+     "type": "Person",
+     "english_name": "the poor"
+    },
+    {
+     "name": "అసైన్డ్ భూములు",
+     "type": "Issue",
+     "english_name": "Assigned lands"
+    },
+    {
+     "name": "నిషేధిత జాబితా (22ఏ)",
+     "type": "Issue",
+     "english_name": "Prohibited list (22A)"
+    },
+    {
+     "name": "NC Corporation",
+     "type": "Organization",
+     "english_name": "NC Corporation"
+    },
+    {
+     "name": "ఏజీ వెంకటేశ్వరరావు",
+     "type": "Person",
+     "english_name": "A.G. Venkateswara Rao"
+    },
+    {
+     "name": "ఆర్పీ రాకూర్",
+     "type": "Person",
+     "english_name": "R.P. Rakkur"
+    },
+    {
+     "name": "యోగానంద్",
+     "type": "Person",
+     "english_name": "Yoganand"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Kootami"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కూటమి",
+     "evidence": "చంద్రబాబు ఇచ్చిన ఒక మెమో ద్వారా 2.06 లక్షల ఎకరాలను ఉద్దేశపూర్వకంగా నిషేధిత జాబితా (22ఏ) లో పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పేదల",
+     "evidence": "అంతటి బృహత్తర కార్యక్రమాన్ని నిలిపి వేసినందుకు నిరుపేదలందరూ చంద్రబాబును తిట్టిన తిట్టు తిట్టకుండా తిట్టుకుంటున్నారు."
+    },
+    {
+     "source": "ఏజీ వెంకటేశ్వరరావు",
+     "relation": "MEMBER_OF",
+     "target": "కూటమి",
+     "evidence": "తనకు అనుకూలంగా ఉండే ఏజీ వెంకటేశ్వరరావు, ఆర్పీ రాకూర్, యోగానంద్ వంటి రిటైర్డ్ అధికారులను ఓ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c880eeec6ea8d79103d8c59d1fdd41cd30f4478d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సెన్సార్ బోర్డు",
+     "type": "Organization",
+     "english_name": "Censor Board"
+    },
+    {
+     "name": "సూమో క్లాసిక్ విస్కీ",
+     "type": "Scheme",
+     "english_name": "Sumo Classic Whiskey"
+    },
+    {
+     "name": "బెంగళూరు విస్కీ",
+     "type": "Scheme",
+     "english_name": "Bengaluru Whiskey"
+    },
+    {
+     "name": "రాయల్ లెన్స్టర్ విస్కీ",
+     "type": "Scheme",
+     "english_name": "Royal Luster Whiskey"
+    },
+    {
+     "name": "ట్రోపికానా వీసా బ్రాందీ",
+     "type": "Scheme",
+     "english_name": "Tropicana Visa Brandy"
+    },
+    {
+     "name": "షార్ట్ విస్కీ",
+     "type": "Scheme",
+     "english_name": "Short Whiskey"
+    },
+    {
+     "name": "బ్రాందీ 99",
+     "type": "Scheme",
+     "english_name": "Brandy 99"
+    },
+    {
+     "name": "కేరకా మార్టైడ్ ఫైన్ విస్కీ",
+     "type": "Scheme",
+     "english_name": "Karakha Martide Fine Whiskey"
+    },
+    {
+     "name": "కేరళ మాల్టైడ్ విస్కీ",
+     "type": "Scheme",
+     "english_name": "Kerala Maltide Whiskey"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూమో క్లాసిక్ విస్కీ",
+     "evidence": "సూమో క్లాసిక్ విస్కీ, బెంగళూరు విస్కీ, రాయల్ లెన్స్టర్ విస్కీ, ట్రోపికానా వీసా బ్రాందీ, షార్ట్ విస్కీ, బ్రాందీ 99, కేరకా మార్టైడ్ ఫైన్ విస్కీ.. ఇవన్నీ రూ.99 అని చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బెంగళూరు విస్కీ",
+     "evidence": "సూమో క్లాసిక్ విస్కీ, బెంగళూరు విస్కీ, రాయల్ లెన్స్టర్ విస్కీ, ట్రోపికానా వీసా బ్రాందీ, షార్ట్ విస్కీ, బ్రాందీ 99, కేరకా మార్టైడ్ ఫైన్ విస్కీ.. ఇవన్నీ రూ.99 అని చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాయల్ లెన్స్టర్ విస్కీ",
+     "evidence": "సూమో క్లాసిక్ విస్కీ, బెంగళూరు విస్కీ, రాయల్ లెన్స్టర్ విస్కీ, ట్రోపికానా వీసా బ్రాందీ, షార్ట్ విస్కీ, బ్రాందీ 99, కేరకా మార్టైడ్ ఫైన్ విస్కీ.. ఇవన్నీ రూ.99 అని చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ట్రోపికానా వీసా బ్రాందీ",
+     "evidence": "సూమో క్లాసిక్ విస్కీ, బెంగళూరు విస్కీ, రాయల్ లెన్స్టర్ విస్కీ, ట్రోపికానా వీసా బ్రాందీ, షార్ట్ విస్కీ, బ్రాందీ 99, కేరకా మార్టైడ్ ఫైన్ విస్కీ.. ఇవన్నీ రూ.99 అని చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "షార్ట్ విస్కీ",
+     "evidence": "సూమో క్లాసిక్ విస్కీ, బెంగళూరు విస్కీ, రాయల్ లెన్స్టర్ విస్కీ, ట్రోపికానా వీసా బ్రాందీ, షార్ట్ విస్కీ, బ్రాందీ 99, కేరకా మార్టైడ్ ఫైన్ విస్కీ.. ఇవన్నీ రూ.99 అని చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బ్రాందీ 99",
+     "evidence": "సూమో క్లాసిక్ విస్కీ, బెంగళూరు విస్కీ, రాయల్ లెన్స్టర్ విస్కీ, ట్రోపికానా వీసా బ్రాందీ, షార్ట్ విస్కీ, బ్రాందీ 99, కేరకా మార్టైడ్ ఫైన్ విస్కీ.. ఇవన్నీ రూ.99 అని చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కేరకా మార్టైడ్ ఫైన్ విస్కీ",
+     "evidence": "సూమో క్లాసిక్ విస్కీ, బెంగళూరు విస్కీ, రాయల్ లెన్స్టర్ విస్కీ, ట్రోపికానా వీసా బ్రాందీ, షార్ట్ విస్కీ, బ్రాందీ 99, కేరకా మార్టైడ్ ఫైన్ విస్కీ.. ఇవన్నీ రూ.99 అని చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కేరళ మాల్టైడ్ విస్కీ",
+     "evidence": "ఇదే కేరళ మాల్టైడ్ విస్కీ రూ.85కే దొరుకుతుంది. చంద్రబాబు మాత్రం రూ.99కి అమ్మనున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు మాత్రం రూ.99కి అమ్మనున్నారు. నాణ్యత తగ్గించిన మద్యాన్ని వైఎస్సార్సీపీ హయాంలో కంటే ఎక్కువ రేటుకు విక్రయిస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "82aa81393d9d630e623d987635f31c47c84de677": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "SPలు",
+     "type": "Organization",
+     "english_name": "SPs"
+    },
+    {
+     "name": "ಅಗ್ನಿಪಥ",
+     "type": "Scheme",
+     "english_name": "Agni Path"
+    },
+    {
+     "name": "ಕ್ರಿಯಾಶೀಲತೆ",
+     "type": "Scheme",
+     "english_name": "Kriyasheelata"
+    },
+    {
+     "name": "ಅಖಿಲ ಭಾರತ ಯುವ ಕಾಂಗ್ರೆಸ್",
+     "type": "Organization",
+     "english_name": "Akhil Bharatiya Yuva Congress"
+    },
+    {
+     "name": "ಮಧ್ಯಪ್ರದೇಶ",
+     "type": "Place",
+     "english_name": "Madhya Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు తన వద్ద కూర్చోబెట్టుకున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "SPలు",
+     "evidence": "తప్పుడు ఫిర్యాదులు అందగానే కనీస విచారణ లేకుండా నిబంధనలకు విరుద్ధంగా కేసులు బనాయిస్తున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కక్షకు గంతలు గట్టి రకరకాల పోలీస్ స్టేషన్లు తిప్పుతూ ధర్డ్ డిగ్రీ ప్రయోగిస్తున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "SPలు",
+     "evidence": "వీడియోలు తీసి పైనున్న ఈ జట్టు అధికారులకు పంపుతున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cff678cca7f97f7ebf345f6dc2bb0aa802254fac": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "అగ్నిపత్",
+     "type": "Scheme",
+     "english_name": "Agneepath"
+    },
+    {
+     "name": "అఖిల భారత యువ కాంగ్రెస్",
+     "type": "Organization",
+     "english_name": "Akhil Bharatiya Yuva Congress"
+    },
+    {
+     "name": "శ్రీకృష్ణదేవరాయల కాలం",
+     "type": "Place",
+     "english_name": "Sri Krishnadevaraya period"
+    },
+    {
+     "name": "బ్రిటిష్ కాలం",
+     "type": "Place",
+     "english_name": "British period"
+    },
+    {
+     "name": "ఇంగ్లీషర్ల కాలం",
+     "type": "Place",
+     "english_name": "English period"
+    },
+    {
+     "name": "వలంటీర్ల వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Volunteer system"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "CAG రిపోర్ట్",
+     "type": "Issue",
+     "english_name": "CAG Report"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్ల వ్యవస్థ",
+     "evidence": "వలంటీర్ల వ్యవస్థ ఉనికిలోనే లేదని.. వారికి గారవ వేతనం పెంపు అన్నది ఉత్పన్నమే కాదని తేల్చిచెప్పిన సర్కార్.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "09f3a8a700e945d8d6910ba5ba76561d9094fd91": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "డెప్యూటీ సీఎం",
+     "type": "Person",
+     "english_name": "Deputy CM"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "ఆర్గనైజ్డ్ క్రైమ్",
+     "type": "Issue",
+     "english_name": "Organized Crime"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్లు",
+     "evidence": "వలంటీర్లు కారణమని, మానవ అక్రమ రవాణా చేస్తు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "డెప్యూటీ సీఎం",
+     "evidence": "ఇప్పుడు డెప్యూటీ సీఎం ఊగిపోయాడు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6ac63dbca7ec1215a2f0ee4ceb5f598f68157dc5": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fa664c4189a56b2a034ea2dfd8146dcd019223fd": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "43e64c707e64c1d8c1d0aa4f4a3b83cc68357fed": {
+   "entities": [
+    {
+     "name": "Deputy CM",
+     "type": "Person",
+     "english_name": "Deputy Chief Minister"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "organized crime",
+     "type": "Issue",
+     "english_name": "organized crime"
+    },
+    {
+     "name": "human trafficking",
+     "type": "Issue",
+     "english_name": "human trafficking"
+    },
+    {
+     "name": "volunteers",
+     "type": "Issue",
+     "english_name": "volunteers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dee7117fb84af27f7b378dee2527532e7775b203": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "70426f2c34261f36d0aa0139e2abe6fbe2aaa20b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0f05b0d787f85d18f1b1e45f56698081e6c44c6a": {
+   "entities": [
+    {
+     "name": "ఆయనపై",
+     "type": "Person",
+     "english_name": "He"
+    },
+    {
+     "name": "ఎంపీ నందిగా సురేష్",
+     "type": "Person",
+     "english_name": "MP Nandiga Suresh"
+    },
+    {
+     "name": "తెలుగుదేశం ఆఫీసు",
+     "type": "Organization",
+     "english_name": "TDP Office"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లబ్ధిపార్తి",
+     "type": "Person",
+     "english_name": "Labhiparty"
+    },
+    {
+     "name": "సూపర్ సిక్లు",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Supervention"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆయనపై",
+     "relation": "ACCUSES",
+     "target": "తెలుగుదేశం ఆఫీసు",
+     "evidence": "తెలుగుదేశం ఆఫీసుపై దాడి చేశానని కేసు పెట్టారు."
+    },
+    {
+     "source": "ఎంపీ నందిగా సురేష్",
+     "relation": "ACCUSES",
+     "target": "తెలుగుదేశం ఆఫీసు",
+     "evidence": "తెలుగుదేశం ఆఫీసుపై దాడి చేశానని కేసు పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "లబ్ధిపార్తి",
+     "evidence": "లబ్ధిపార్తితో మొదలు నా వరకు ఎలా ప్రచారం చేశారో చూశాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f4dcf098e6163d168fe0578d8f9c07f74be51fd5": {
+   "entities": [
+    {
+     "name": "వలంటీర్లపై చిక్కు మాలిన అబద్ధాలాదుతు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "రూ.277 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.277 crores"
+    },
+    {
+     "name": "ఎన్నికలప్పుడు వాలంటీర్లకు రూ.5 వేలు కాదు.. రూ.10 వేలు ఇస్తామని ప్రకటించింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలవరంలో విధ్వంసం బాబు ఘనతే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అంతర్జాతీయ నిపుతుల కమిటీ",
+     "type": "Organization",
+     "english_name": "International Experts Committee"
+    },
+    {
+     "name": "గోదావరి",
+     "type": "Place",
+     "english_name": "Godavari"
+    },
+    {
+     "name": "అప్రోచ్ ఛానల్",
+     "type": "Organization",
+     "english_name": "Approach Channel"
+    },
+    {
+     "name": "స్పిల్ వే",
+     "type": "Organization",
+     "english_name": "Spill Way"
+    },
+    {
+     "name": "ఎగువ, దిగువ రాఫర్ డ్యాలు",
+     "type": "Organization",
+     "english_name": "Upper and Lower Rafer Dams"
+    },
+    {
+     "name": "ప్రధాన డ్యాం",
+     "type": "Organization",
+     "english_name": "Main Dam"
+    },
+    {
+     "name": "పునాది దయాఫ్రం వాల్",
+     "type": "Organization",
+     "english_name": "Foundation Diaphragm Wall"
+    },
+    {
+     "name": "కాంక్రీట్ పనులు",
+     "type": "Organization",
+     "english_name": "Concrete Works"
+    },
+    {
+     "name": "మట్టి పనులు",
+     "type": "Organization",
+     "english_name": "Earth Works"
+    },
+    {
+     "name": "ఎగువ, దిగువ కాఫర్ డ్యాంలు",
+     "type": "Organization",
+     "english_name": "Upper and Lower Cofferdams"
+    },
+    {
+     "name": "400 మీటర్లు, 300 మీటర్ల చొప్పున ఖాళీ ప్రదేశాలు",
+     "type": "Organization",
+     "english_name": "Empty Spaces of 400 and 300 meters"
+    },
+    {
+     "name": "2.5 కి.మీల వెడల్పున",
+     "type": "Organization",
+     "english_name": "2.5 km width"
+    },
+    {
+     "name": "డయా ఫ్రం వాల్",
+     "type": "Organization",
+     "english_name": "Diaphragm Wall"
+    },
+    {
+     "name": "మేం అధికారంలోకి వచ్చాక",
+     "type": "Organization",
+     "english_name": "After coming to power"
+    },
+    {
+     "name": "48 గేట్లతో సహా",
+     "type": "Organization",
+     "english_name": "With 48 gates"
+    },
+    {
+     "name": "గోబెల్స్",
+     "type": "Person",
+     "english_name": "Goebbels"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అంతర్జాతీయ నిపుతుల కమిటీ",
+     "evidence": "చంద్రబాబు గోబెల్స్ మాదిరిగా అబద్ధాల మీద అబద్ధాలు చెబుతూనే"
+    },
+    {
+     "source": "అంతర్జాతీయ నిపుతుల కమిటీ",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "గోదావరి ప్రవాహాన్ని మళ్లించేలా అప్రోచ్ ఛానల్, స్పిల్ వే, స్పిల్ ఛానల్, ఎగువ, దిగువ రాఫర్ డ్యాలు కట్టాక.. గోదావరి నదికి అడ్డంగా 2.5 కి.మీల పొడవునా ప్రధాన డ్యాం నిర్మిం చాలి."
+    },
+    {
+     "source": "అప్రోచ్ ఛానల్",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "గోదావరి ప్రవాహాన్ని మళ్లించేలా అప్రోచ్ ఛానల్, స్పిల్ వే, స్పిల్ ఛానల్, ఎగువ, దిగువ రాఫర్ డ్యాలు కట్టాక.. గోదావరి నదికి అడ్డంగా 2.5 కి.మీల పొడవునా ప్రధాన డ్యాం నిర్మిం చాలి."
+    },
+    {
+     "source": "స్పిల్ వే",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "గోదావరి ప్రవాహాన్ని మళ్లించేలా అప్రోచ్ ఛానల్, స్పిల్ వే, స్పిల్ ఛానల్, ఎగువ, దిగువ రాఫర్ డ్యాలు కట్టాక.. గోదావరి నదికి అడ్డంగా 2.5 కి.మీల పొడవునా ప్రధాన డ్యాం నిర్మిం చాలి."
+    },
+    {
+     "source": "ఎగువ, దిగువ రాఫర్ డ్యాలు",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "గోదావరి ప్రవాహాన్ని మళ్లించేలా అప్రోచ్ ఛానల్, స్పిల్ వే, స్పిల్ ఛానల్, ఎగువ, దిగువ రాఫర్ డ్యాలు కట్టాక.. గోదావరి నదికి అడ్డంగా 2.5 కి.మీల పొడవునా ప్రధాన డ్యాం నిర్మిం చాలి."
+    },
+    {
+     "source": "ప్రధాన డ్యాం",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "గోదావరి ప్రవాహాన్ని మళ్లించేలా అప్రోచ్ ఛానల్, స్పిల్ వే, స్పిల్ ఛానల్, ఎగువ, దిగువ రాఫర్ డ్యాలు కట్టాక.. గోదావరి నదికి అడ్డంగా 2.5 కి.మీల పొడవునా ప్రధాన డ్యాం నిర్మిం చాలి."
+    },
+    {
+     "source": "ఎగువ, దిగువ కాఫర్ డ్యాంలు",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "వరద ప్రవాహం స్పిల్ వే వైపు మళ్లించడం సాధ్యం కాకపోవడంతో కాఫర్ డ్యాంలకు ఇరువైపులా 400 మీటర్లు, 300 మీటర్ల చొప్పున ఖాళీ ప్రదేశాలు వదిలేశారు."
+    },
+    {
+     "source": "2.5 కి.మీల వెడల్పున",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "2.5 కి.మీల వెడల్పున ప్రవహిం చాల్సిన గోదావరి వరద.. కుంచించుకుపోయి ప్రవహిం చడంతో ఎగువ, దిగువ కాఫర్ డ్యాములు కోతకు గురయ్యాయి."
+    },
+    {
+     "source": "మేం అధికారంలోకి వచ్చాక",
+     "relation": "LOCATED_IN",
+     "target": "గోదావరి",
+     "evidence": "మేం అధికారంలోకి వచ్చాక గోదావరి వరదను మళ్లిందేలా స్పిల్ వేను 48 గేట్లతో సహా పూర్తి చేశాం."
+    },
+    {
+     "source": "గోబెల్స్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు గోబెల్స్ మాదిరిగా అబద్ధాల మీద అబద్ధాలు చెబుతూనే"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "65937c96dc49aeb97f771df1a42a6ba947ecdcdd": {
+   "entities": [
+    {
+     "name": "సూపర్సెవెన్లు లేవు.. మరో",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హక్కుల కోసం, న్యాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సోషల్ మీడియా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రైవేటు మాఫియా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చట్టాన్ని చేతుల్లోకి తీసుకుంటున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇష్టానుసారంగా తప్పడు కేసులు పెడుతున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అక్రమ నిర్బంధాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తీవ్రమైన మానవ హక్కుల ఉల్లంఘన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నా చెల్లిపై దుష్ప్రచారం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబే",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "షర్మిల",
+     "type": "Person",
+     "english_name": "Sharmila"
+    },
+    {
+     "name": "ఎస్బీకే బిల్డింగ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఐపీ అడ్రస్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వెబ్సైట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రో టీడీపీ",
+     "type": "Party",
+     "english_name": "Pro TDP"
+    },
+    {
+     "name": "ప్రత్యర్థిలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాలకృష్ణ",
+     "type": "Person",
+     "english_name": "Balakrishna"
+    },
+    {
+     "name": "వర్రా రవీంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Varra Ravindra Reddy"
+    },
+    {
+     "name": "ఉదయ్ భూషణ్",
+     "type": "Person",
+     "english_name": "Uday Bhushan"
+    },
+    {
+     "name": "మద్యం, ఇసుక అంతా స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "M/s ALLIED BLENDERS & Distillers Limited",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SUMO CLASSIC WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s JOHN DISTILLERIES PVT.LTD.",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BANGALORE WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s RADICO KHAITAN LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ROYAL LANCER WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s RADICO KHATTAN LIMITED",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TROPIANA VSOP BRANDY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s Tilaknagar Industries Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "SHOT WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "M/s. Radico Khaitan Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "BRANDY 99",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "S/L M/s Brindavan Marketing Agencies (In<br/>brew)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "KERALA MALTED FINE<br/>WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబే",
+     "relation": "ACCUSES",
+     "target": "ప్రో టీడీపీ",
+     "evidence": "ఈ వెబ్ సైట్లన్నీ ప్రో టీడీపీ ప్రమోట్ చేసినవే."
+    },
+    {
+     "source": "షర్మిల",
+     "relation": "MAKES_CLAIM",
+     "target": "నా చెల్లిపై దుష్ప్రచారం",
+     "evidence": "నా చెల్లిపై దుష్ప్రచారం చేసింది చంద్రబాబే."
+    },
+    {
+     "source": "షర్మిల",
+     "relation": "ACCUSES",
+     "target": "బాలకృష్ణ",
+     "evidence": "బాలకృష్ణ నా మీద నింద వేశారని, పుకార్లు పుట్టించారని, వాటిని ప్రచారం చేశారని నేను విశ్వసిస్తున్నా."
+    },
+    {
+     "source": "వర్రా రవీంద్రారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఉదయ్ భూషణ్",
+     "evidence": "వర్రా రవీంద్రారెడ్డి పెట్టిన కేసు ఆధారంగా ఫిక్రవ రిలోనే ఉదయ్ భూషణ్ను ఆధారాలతో పోలీసులు అరెస్ట్ చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "765f93f5413dbd91462d05223b5572ec505f2b86": {
+   "entities": [
+    {
+     "name": "M/s. Radico Khaitan Ltd",
+     "type": "Organization",
+     "english_name": "Radico Khaitan Ltd"
+    },
+    {
+     "name": "BRANDY 99",
+     "type": "Scheme",
+     "english_name": "BRANDY 99"
+    },
+    {
+     "name": "S/L M/s Brindavan Marketing Agencies (In<br/>brew)",
+     "type": "Organization",
+     "english_name": "Brindavan Marketing Agencies"
+    },
+    {
+     "name": "KERALA MALTED FINE<br/>WHISKY",
+     "type": "Scheme",
+     "english_name": "KERALA MALTED FINE WHISKY"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కూటమి సర్కార్",
+     "type": "Party",
+     "english_name": "Kootami Sarkar"
+    },
+    {
+     "name": "మాఫియా రాజ్యం",
+     "type": "Issue",
+     "english_name": "Mafia rule"
+    },
+    {
+     "name": "మద్యాన్ని ఎమ్మార్చీకి అమ్మకోవాలంటే పోటీ ఎందుకు?",
+     "type": "Claim",
+     "english_name": "Why is there competition to sell liquor to the MMRC?"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు మనుషులను ఎందుకు కిడ్నాప్ చేయించాలి.. ఎందుకు ఎవరినీ పొదనివ్వకుండా చేయాలి?",
+     "type": "Claim",
+     "english_name": "Why should MLAs kidnap people and not let anyone go?"
+    },
+    {
+     "name": "వేరేవాళ్లకు వచ్చినా షాపులు నడుపుకోలేని పరిస్థితికి ఎం దుకు నెట్టేయాలి?",
+     "type": "Claim",
+     "english_name": "Why push them into a situation where they cannot run shops even if they come from elsewhere?"
+    },
+    {
+     "name": "ఎమ్మార్చీ ప్లస్ మాఫియాకు కమీషన్ రావాలనే ఇదంతా చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": "All this is done so that MMRC plus mafia get commission"
+    },
+    {
+     "name": "ఇసుక పరిస్థితి కూడా అంతే. హామీ ఇచ్చినట్లు ఎక్కడా ఉచితంగా ఇవ్వడం లేదు.",
+     "type": "Claim",
+     "english_name": "The sand situation is also the same. Nowhere is it given free as promised."
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కూటమి సర్కార్",
+     "evidence": "చంద్రబాబు అధికారంలోకి వస్తే నాణ్యమైన లిక్కర్ ఇస్తానన్నారు. మద్యం రేటు తగ్గిస్తానన్నారు."
+    },
+    {
+     "source": "కూటమి సర్కార్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "BRANDY 99",
+     "evidence": "కూటమి సర్కార్ రూ.99కో తెల్లని చీప్ రిజర్వ్ బ్రాండ్లు ఇవే"
+    },
+    {
+     "source": "కూటమి సర్కార్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "KERALA MALTED FINE<br/>WHISKY",
+     "evidence": "కూటమి సర్కార్ రూ.99కో తెల్లని చీప్ రిజర్వ్ బ్రాండ్లు ఇవే"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6fa6523d35c334754ec1e47ba4b08204048e6b70": {
+   "entities": [
+    {
+     "name": "సూమో క్లాసిక్ విస్కీ",
+     "type": "Organization",
+     "english_name": "Sumo Classic Whisky"
+    },
+    {
+     "name": "బెంగళూరు విస్కీ",
+     "type": "Organization",
+     "english_name": "Bengaluru Whisky"
+    },
+    {
+     "name": "రాయల్ లెన్స్టర్ విస్కీ",
+     "type": "Organization",
+     "english_name": "Royal Leister Whisky"
+    },
+    {
+     "name": "ట్రోపికానా వీసా బ్రాందీ",
+     "type": "Organization",
+     "english_name": "Tropicana Visa Brandy"
+    },
+    {
+     "name": "షార్ట్ విస్కీ",
+     "type": "Organization",
+     "english_name": "Short Whisky"
+    },
+    {
+     "name": "బ్రాందీ 99",
+     "type": "Organization",
+     "english_name": "Brandy 99"
+    },
+    {
+     "name": "కేరకా మార్టైడ్ ఫైన్ విస్కీ",
+     "type": "Organization",
+     "english_name": "Keraka Martide Fine Whisky"
+    },
+    {
+     "name": "కేరళ మాల్టైడ్ విస్కీ",
+     "type": "Organization",
+     "english_name": "Kerala Maltide Whisky"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పీటర్స్",
+     "type": "Organization",
+     "english_name": "Peters"
+    },
+    {
+     "name": "పలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Palantir"
+    },
+    {
+     "name": "వేపరెజెస్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Veparajes Corporation"
+    },
+    {
+     "name": "ఆశా వర్కర్లు",
+     "type": "Organization",
+     "english_name": "Asha Workers"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "చంద్రబాబు హయాంలో కంటే ఎక్కువ రేటుకు విక్రయిస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పీటర్స్",
+     "evidence": "చంద్రబాబు వచ్చిన తర్వాత పీటర్స్ చైర్మన్ను బలవంతంగా రాజీనామా చేయించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వేపరెజెస్ కార్పొరేషన్",
+     "evidence": "మరో వైపు పలంటీర్లు, వేపరెజెస్ కార్పొరేషన్లో పని చేస్తున్న వారి ఉద్యోగాలను పీఠికారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆశా వర్కర్లు",
+     "evidence": "హామీలు అమలు జేయాలని ఆశా వర్కర్లు ధర్నాలు చేస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

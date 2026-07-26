@@ -1,0 +1,184 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "84da6363e71c259b60da1ad0bfc53869bd2fe431": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c0e982c3cfd1b7bc8608e040f0167fd50b29a44a": {
+   "entities": [
+    {
+     "name": "Finance Minister",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "National GDP",
+     "type": "Organization",
+     "english_name": "National GDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Finance Minister",
+     "relation": "ACCUSES",
+     "target": "YSRCP",
+     "evidence": "He alleged that, owing to the policies of the YSRCP, the economy of the State was in shackles."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "877754a917717ed3e6a10abe7d9b84424eaeaf90": {
+   "entities": [
+    {
+     "name": "GSVA (M) contribution in National GVA (M)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Manufacturing sector",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d27fe85c6ff2bea5248bc83a539e831b9437a3af": {
+   "entities": [
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "AP",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CAG",
+     "relation": "LOCATED_IN",
+     "target": "AP",
+     "evidence": "Source - CAG"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7d61894fd017d8fa361c3c4463c14e381bfc7347": {
+   "entities": [
+    {
+     "name": "Power Sector liabilities and losses",
+     "type": "Issue",
+     "english_name": "Power Sector liabilities and losses"
+    },
+    {
+     "name": "Financial support to sector 2014-19",
+     "type": "Scheme",
+     "english_name": "Financial support to sector 2014-19"
+    },
+    {
+     "name": "Financial support to sector 2019-24",
+     "type": "Scheme",
+     "english_name": "Financial support to sector 2019-24"
+    },
+    {
+     "name": "FM",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "TDP Government",
+     "type": "Party",
+     "english_name": "TDP Government"
+    },
+    {
+     "name": "DISCOMs",
+     "type": "Organization",
+     "english_name": "DISCOMs"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "FM",
+     "relation": "ACCUSES",
+     "target": "YSRCP Government",
+     "evidence": "the FM alleged that the power sector suffered due to the policies of the YSRCP Government"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93187305a8dbec32d539a5923a33b22e2f75a2ef": {
+   "entities": [
+    {
+     "name": "State budget documents",
+     "type": "Organization",
+     "english_name": "State budget documents"
+    },
+    {
+     "name": "YSRCP Government",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "super six programmes",
+     "type": "Scheme",
+     "english_name": "Super Six programmes"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP Government",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "super six programmes",
+     "evidence": "the entire expenditure was shown in a transparent way easily accessible by the public."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e97499382741357a26f64ed90e50fd409375d76d": {
+   "entities": [
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "super six commitments",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "FY 25",
+     "type": "Scheme",
+     "english_name": "FY 25"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

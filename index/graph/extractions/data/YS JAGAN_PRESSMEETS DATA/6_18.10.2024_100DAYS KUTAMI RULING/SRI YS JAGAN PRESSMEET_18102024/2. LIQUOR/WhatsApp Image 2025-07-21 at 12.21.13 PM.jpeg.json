@@ -1,0 +1,91 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b873fb7a996b7a71cb5ae2aeab9bdd80d76594ed": {
+   "entities": [
+    {
+     "name": "OFFICE OF THE COMMISSIONER OF PROHIBITION & EXCISE A.P. AMARAVATHI",
+     "type": "Organization",
+     "english_name": "Office of the Commissioner of Prohibition & Excise, Andhra Pradesh, Amaravathi"
+    },
+    {
+     "name": "VIJAYAWADA",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Sri Mukesh Kumar Meena I.A.S.",
+     "type": "Person",
+     "english_name": "Mukesh Kumar Meena"
+    },
+    {
+     "name": "Commissioner of Prohibition& Excise",
+     "type": "Person",
+     "english_name": "Commissioner of Prohibition & Excise"
+    },
+    {
+     "name": "M/s Soaring Spirits Pvt Ltd",
+     "type": "Organization",
+     "english_name": "Soaring Spirits Pvt Ltd"
+    },
+    {
+     "name": "Chebrolu (V), Unguturu(M), West Godavari District",
+     "type": "Place",
+     "english_name": "Chebrolu Village, Unguturu Mandal, West Godavari District"
+    },
+    {
+     "name": "M/s. Amber Spirits Pvt Ltd",
+     "type": "Organization",
+     "english_name": "Amber Spirits Pvt Ltd"
+    },
+    {
+     "name": "Rule 16 Distillery (Manufacture of IMFL other than beer and Wine) Rules 2006",
+     "type": "Scheme",
+     "english_name": "Rule 16 Distillery Rules 2006"
+    },
+    {
+     "name": "President",
+     "type": "Organization",
+     "english_name": "President"
+    },
+    {
+     "name": "Medal Fine",
+     "type": "Organization",
+     "english_name": "Medal Fine"
+    },
+    {
+     "name": "Whisky",
+     "type": "Organization",
+     "english_name": "Whisky"
+    }
+   ],
+   "relations": [
+    {
+     "source": "M/s Soaring Spirits Pvt Ltd",
+     "relation": "LOCATED_IN",
+     "target": "Chebrolu (V), Unguturu(M), West Godavari District",
+     "evidence": "M/s Soaring Spirits Pvt Ltd, Chebrolu (V), Unguturu(M), West Godavari District"
+    },
+    {
+     "source": "President",
+     "relation": "LOCATED_IN",
+     "target": "VIJAYAWADA",
+     "evidence": "VIJAYAWADA"
+    },
+    {
+     "source": "Medal Fine",
+     "relation": "LOCATED_IN",
+     "target": "VIJAYAWADA",
+     "evidence": "VIJAYAWADA"
+    },
+    {
+     "source": "Whisky",
+     "relation": "LOCATED_IN",
+     "target": "VIJAYAWADA",
+     "evidence": "VIJAYAWADA"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -261,6 +261,449 @@
      "evidence": "పలాసలో ... శ్రీకాకుళంలో"
     }
    ]
+  },
+  "f86a9e9cd5bc1303dcc0b752b54e777a1d552522": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "నూతన వైద్య కళాశాలల ప్రైవేటీకరణ",
+     "type": "Issue",
+     "english_name": "Privatization of new medical colleges"
+    },
+    {
+     "name": "అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు అవినీతికి ప్రభుత్వ నూతన వైద్య కళాశాలల ప్రైవేటీకరణ పరాకాష్ట",
+     "type": "Claim",
+     "english_name": "Privatization of new medical colleges is the pinnacle of corruption by the Chandrababu government"
+    },
+    {
+     "name": "ప్రభుత్వ మెడికల్ కాలేజీలను ప్రైవేటు వ్యక్తులకు అమ్మేసే టెండర్లలో ఎవరూ పాల్గొనవద్దంటూ హెచ్చరించారు",
+     "type": "Claim",
+     "english_name": "Warning not to participate in tenders to sell government medical colleges to private individuals"
+    },
+    {
+     "name": "ఒకవేళ టెండర్లలో ఎవరైనా పాల్గొని ఆ మెడికల్ కాలేజీలను చేజిక్కించుకున్నా.. తాము అధికారంలోకి రాగానే వాటిని రద్దు చేస్తామని స్పష్టం చేశారు",
+     "type": "Claim",
+     "english_name": "If anyone participates in tenders and grabs the medical colleges, they will be cancelled when we come to power"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు సర్కారు",
+     "evidence": "చంద్రబాబు సర్కారు అవినీతికి ప్రభుత్వ నూతన వైద్య కళాశాలల ప్రైవేటీకరణ పరాకాష్ట అని మాజీ ముఖ్యమంత్రి, వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్ రెడ్డి ధ్వజమెత్తారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్ రెడ్డి"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు సర్కారు అవినీతికి ప్రభుత్వ నూతన వైద్య కళాశాలల ప్రైవేటీకరణ పరాకాష్ట",
+     "evidence": "చంద్రబాబు సర్కారు అవినీతికి ప్రభుత్వ నూతన వైద్య కళాశాలల ప్రైవేటీకరణ పరాకాష్ట అని మాజీ ముఖ్యమంత్రి, వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్ రెడ్డి ధ్వజమెత్తారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ మెడికల్ కాలేజీలను ప్రైవేటు వ్యక్తులకు అమ్మేసే టెండర్లలో ఎవరూ పాల్గొనవద్దంటూ హెచ్చరించారు",
+     "evidence": "ప్రభుత్వ మెడికల్ కాలేజీలను ప్రైవేటు వ్యక్తులకు అమ్మేసే టెండర్లలో ఎవరూ పాల్గొనవద్దంటూ హెచ్చరించారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఒకవేళ టెండర్లలో ఎవరైనా పాల్గొని ఆ మెడికల్ కాలేజీలను చేజిక్కించుకున్నా.. తాము అధికారంలోకి రాగానే వాటిని రద్దు చేస్తామని స్పష్టం చేశారు",
+     "evidence": "ఒకవేళ టెండర్లలో ఎవరైనా పాల్గొని ఆ మెడికల్ కాలేజీలను చేజిక్కించుకున్నా.. తాము అధికారంలోకి రాగానే వాటిని రద్దు చేస్తామని స్పష్టం చేశారు."
+    }
+   ]
+  },
+  "4695593949a17186eb8d976bf89d4321faaec3b9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నేషనల్ మెడికల్ కమిషన్ (ఎన్ఎంసీ)",
+     "type": "Organization",
+     "english_name": "National Medical Commission (NMC)"
+    },
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": "Vijayanagaram"
+    },
+    {
+     "name": "రాజమహేంద్రవరం",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": "Nandyal"
+    },
+    {
+     "name": "పాడేరు",
+     "type": "Place",
+     "english_name": "Paderu"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "మదనపల్లి",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "మార్కాపురం",
+     "type": "Place",
+     "english_name": "Markapuram"
+    },
+    {
+     "name": "అమలాపురం",
+     "type": "Place",
+     "english_name": "Amalapuram"
+    },
+    {
+     "name": "బాపట్ల",
+     "type": "Place",
+     "english_name": "Bapatla"
+    },
+    {
+     "name": "నర్సీపట్నం",
+     "type": "Place",
+     "english_name": "Narsipatnam"
+    },
+    {
+     "name": "పార్వతీపురం",
+     "type": "Place",
+     "english_name": "Parvathipuram"
+    },
+    {
+     "name": "పాలకొల్లు",
+     "type": "Place",
+     "english_name": "Palakollu"
+    },
+    {
+     "name": "పెనుకొండ",
+     "type": "Place",
+     "english_name": "Penukonda"
+    },
+    {
+     "name": "పిడుగురాళ్ల",
+     "type": "Place",
+     "english_name": "Piduguralla"
+    },
+    {
+     "name": "ఆ సీట్లు మాకు వద్దంటూ ఎన్ఎంసీకి లేఖ రాశాడు",
+     "type": "Claim",
+     "english_name": "Refused seats to NMC"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "నెట్వర్క్ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": "Network hospitals"
+    },
+    {
+     "name": "బోర్డు",
+     "type": "Organization",
+     "english_name": "Board"
+    },
+    {
+     "name": "Claim_800_సీట్లు_భర్తీ_చేశాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ సీట్లు మాకు వద్దంటూ ఎన్ఎంసీకి లేఖ రాశాడు",
+     "evidence": "ఆ సీట్లు మాకు వద్దంటూ ఎన్ఎంసీకి లేఖ రాశాడు."
+    }
+   ]
+  },
+  "2b0216a1cbe11d0b19faad37e44a6be00c763886": {
+   "entities": [
+    {
+     "name": "ప్రైవేట్ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": "Private hospitals"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నాబార్డు",
+     "type": "Organization",
+     "english_name": "NABARD"
+    },
+    {
+     "name": "సెంట్రల్లీ స్పాన్సర్డ్ స్కీమ్",
+     "type": "Scheme",
+     "english_name": "Centrally Sponsored Scheme"
+    },
+    {
+     "name": "మంగళగిరి ఎయిమ్స్",
+     "type": "Organization",
+     "english_name": "Mangalagiri AIIMS"
+    },
+    {
+     "name": "పులివెందుల నూతన మెడికల్ కాలేజీ",
+     "type": "Organization",
+     "english_name": "Pulivendula New Medical College"
+    },
+    {
+     "name": "ఎన్ఎంసీ",
+     "type": "Organization",
+     "english_name": "National Medical Commission"
+    },
+    {
+     "name": "స్కామ్లు",
+     "type": "Issue",
+     "english_name": "Scam"
+    },
+    {
+     "name": "ఆరోగ్య రంగం",
+     "type": "Issue",
+     "english_name": "Health sector"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఐదేళ్లలో రూ.ఐదు వేల కోట్లు ఖర్చు చేయలేరా..?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేం దిగిపోయే నాటికి దాదాపుగా రూ.3 వేల కోట్ల మేర పనులు పూర్తయ్యాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పులివెందుల నూతన మెడికల్ కాలేజీలో 50 ఎంబీబీఎస్ సీట్లతో తరగతులు ప్రారంభించడానికి ఎన్ఎంసీ గతేడాది అనుమతులిస్తే, ఆ సీట్లు మాకు వద్దంటూ ఆయన లేఖ రాశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేదురుమల్లి జనార్ధన్రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రాజమహేంద్రవరం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్ కాలేజీల విలువ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.లక్ష కోట్లు దాటుతుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.25 లక్షల ఇన్సూరెన్స్ ఓ డ్రామా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.4,500 కోట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.500 కోట్లకుపైగా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "17 కొత్త మెడికల్ కాలేజీల నిర్మాణం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నాడు ఉమ్మడి రాష్ట్రంలో ముఖ్యమంత్రి హోదాలో నేదురుమల్లి జనార్ధన్రెడ్డి తీసుకున్న నిర్ణయం ఆయన్ను పదవి నుంచి బలవంతంగా తప్పించే వరకు తీసుకెళ్లింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు 10 కొత్త మెడికల్ కాలేజీలను ఆయనకు కావాల్సిన వాళ్లకు ఇచ్చేస్తున్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఐదేళ్లలో రూ.ఐదు వేల కోట్లు ఖర్చు చేయలేరా..?",
+     "evidence": "ఐదేళ్లలో రూ.ఐదు వేల కోట్లు ఖర్చు చేయలేరా..?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మేం దిగిపోయే నాటికి దాదాపుగా రూ.3 వేల కోట్ల మేర పనులు పూర్తయ్యాయి.",
+     "evidence": "మేం దిగిపోయే నాటికి దాదాపుగా రూ.3 వేల కోట్ల మేర పనులు పూర్తయ్యాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పులివెందుల నూతన మెడికల్ కాలేజీలో 50 ఎంబీబీఎస్ సీట్లతో తరగతులు ప్రారంభించడానికి ఎన్ఎంసీ గతేడాది అనుమతులిస్తే, ఆ సీట్లు మాకు వద్దంటూ ఆయన లేఖ రాశాడు.",
+     "evidence": "పులివెందుల నూతన మెడికల్ కాలేజీలో 50 ఎంబీబీఎస్ సీట్లతో తరగతులు ప్రారంభించడానికి ఎన్ఎంసీ గతేడాది అనుమతులిస్తే, ఆ సీట్లు మాకు వద్దంటూ ఆయన లేఖ రాశాడు."
+    },
+    {
+     "source": "మంగళగిరి ఎయిమ్స్",
+     "relation": "LOCATED_IN",
+     "target": "మంగళగిరి",
+     "evidence": "మంగళగిరి ఎయిమ్స్"
+    },
+    {
+     "source": "పులివెందుల నూతన మెడికల్ కాలేజీ",
+     "relation": "LOCATED_IN",
+     "target": "పులివెందుల",
+     "evidence": "పులివెందుల నూతన మెడికల్ కాలేజీ"
+    },
+    {
+     "source": "మేం దిగిపోయే నాటికి దాదాపుగా రూ.3 వేల కోట్ల మేర పనులు పూర్తయ్యాయి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "స్కామ్లు",
+     "evidence": "స్కామ్లు చేస్తూ, గవర్నమెంట్ ఆస్తులు ప్రైవేటియం చేయడానికి సిగ్గుండాలి."
+    },
+    {
+     "source": "నేదురుమల్లి జనార్ధన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "నాడు ఉమ్మడి రాష్ట్రంలో ముఖ్యమంత్రి హోదాలో నేదురుమల్లి జనార్ధన్రెడ్డి తీసుకున్న నిర్ణయం ఆయన్ను పదవి నుంచి బలవంతంగా తప్పించే వరకు తీసుకెళ్లింది",
+     "evidence": "నాడు ఉమ్మడి రాష్ట్రంలో ముఖ్యమంత్రి హోదాలో నేదురుమల్లి జనార్ధన్రెడ్డి తీసుకున్న నిర్ణయం ఆయన్ను పదవి నుంచి బలవంతంగా తప్పించే వరకు తీసుకెళ్లింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు 10 కొత్త మెడికల్ కాలేజీలను ఆయనకు కావాల్సిన వాళ్లకు ఇచ్చేస్తున్నాడు",
+     "evidence": "చంద్రబాబు సిగ్గూ ఎగ్గూ, భయం లేకుండా 10 కొత్త మెడికల్ కాలేజీలను ఆయనకు కావాల్సిన వాళ్లకు పప్పు, బెల్లానికి ఇచ్చేస్తున్నాడు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "17 కొత్త మెడికల్ కాలేజీల నిర్మాణం",
+     "evidence": "వైఎస్సార్సీపీ హయాంలో జిల్లాల సంఖ్యను పెంచి ఒకేసారి 17 కొత్త మెడికల్ కాలేజీల నిర్మాణానికి శ్రీకారం చుట్టాం."
+    }
+   ]
   }
  }
 }

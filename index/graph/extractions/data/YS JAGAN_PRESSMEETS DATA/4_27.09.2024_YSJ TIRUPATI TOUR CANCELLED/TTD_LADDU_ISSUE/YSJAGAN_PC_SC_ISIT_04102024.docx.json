@@ -1,0 +1,665 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f365b4a45d91428b540055809652b04d453b0449": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "పవన్‌",
+     "type": "Person",
+     "english_name": "Pawan"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సుప్రీంకోర్టు",
+     "evidence": "చంద్రబాబు నిజస్వరూపాన్ని సుప్రీంకోర్టు ఎత్తి చూపింది"
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు నిజస్వరూపాన్ని సుప్రీంకోర్టు ఎత్తి చూపింది"
+    },
+    {
+     "source": "సుప్రీంకోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "తాడేపల్లి",
+     "evidence": "తాడేపల్లి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8da0892717697e6c8385a3c0832752e7a9751823": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "తిరుమల లడ్డూలో జంతువుల కొవ్వు కలిపిన కల్తీ వ్యవహారం",
+     "type": "Issue",
+     "english_name": "TTD laddu adulteration case"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "జగన్‌రెడ్డి బావ ధర్మారెడ్డి",
+     "type": "Person",
+     "english_name": "Dharmareddy"
+    },
+    {
+     "name": "బాబాయి సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "Subbareddy"
+    },
+    {
+     "name": "మామ కరుణాకర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Karunakar Reddy"
+    },
+    {
+     "name": "నేషనల్‌ మీడియా",
+     "type": "Organization",
+     "english_name": "National Media"
+    },
+    {
+     "name": "టీడీపీ సోషల్‌ మీడియా",
+     "type": "Organization",
+     "english_name": "TDP Social Media"
+    },
+    {
+     "name": "జూలై 6, జూలై 12న వచ్చిన నెయ్యి ట్యాంకర్లు",
+     "type": "Claim",
+     "english_name": "July 6 and July 12 ghee tankers"
+    },
+    {
+     "name": "2014–19 మధ్య క్వాలిటీ లేని 14 నెయ్యి ట్యాంకర్లు వెనక్కు పంపగా",
+     "type": "Claim",
+     "english_name": "14 ghee tankers rejected 2014-19"
+    },
+    {
+     "name": "2019–24 మధ్య 18 ట్యాంకర్లు వెనక్కు పంపడం జరిగింది",
+     "type": "Claim",
+     "english_name": "18 ghee tankers rejected 2019-24"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్‌రెడ్డి బావ ధర్మారెడ్డి",
+     "evidence": "జగన్‌రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్‌రెడ్డి అంటూ అబద్దం మీద అబద్దాలు చెప్పుకుంటూ పోతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బాబాయి సుబ్బారెడ్డి",
+     "evidence": "జగన్‌రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్‌రెడ్డి అంటూ అబద్దం మీద అబద్దాలు చెప్పుకుంటూ పోతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మామ కరుణాకర్‌రెడ్డి",
+     "evidence": "జగన్‌రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్‌రెడ్డి అంటూ అబద్దం మీద అబద్దాలు చెప్పుకుంటూ పోతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ సోషల్‌ మీడియా",
+     "evidence": "టీడీపీ సోషల్‌ మీడియాలో చేస్తున్న దుష్ప్రచారం, రాస్తున్న అబద్దాలు చూస్తుంటే, ఆయన ఎంత నీచానికి దిగాడన్నది తెలుస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నేషనల్‌ మీడియా",
+     "evidence": "సుప్రీంకోర్టు నిజానికి చంద్రబాబుకు అక్షింతలు వేస్తే, దాన్ని నేషనల్‌ మీడియా మొత్తం రాసిందంటూ.. గత సోమవారం సుప్రీంకోర్టులో వాదనల తర్వాత, ప్రతి నేషనల్‌ టీవీ, న్యూస్‌ పేపర్‌ చంద్రబాబును ఆక్షేపిస్తూ.. ఏం రాశాయన్నది చదివి వినిపించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సుప్రీంకోర్టు",
+     "evidence": "సుప్రీంకోర్టు నిజానికి చంద్రబాబుకు అక్షింతలు వేస్తే, దాన్ని నేషనల్‌ మీడియా మొత్తం రాసిందంటూ.. గత సోమవారం సుప్రీంకోర్టులో వాదనల తర్వాత, ప్రతి నేషనల్‌ టీవీ, న్యూస్‌ పేపర్‌ చంద్రబాబును ఆక్షేపిస్తూ.. ఏం రాశాయన్నది చదివి వినిపించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్‌",
+     "evidence": "చంద్రబాబు పచ్చి అబద్ధాలు ఇలా..: సీఎమ్ స్థాయిలో ఉన్న వ్యక్తి చేసిన తప్పులు, చెప్పిన అబద్ధాలను మరొక్కసారి మీకు వివరిస్తాను.. అంటూ వైయస్‌ జగన్‌ ఆ వివరాలు మరోసారి ప్రస్తావించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9242c405b5be10256c46069dba7976ff36c8afe5": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "సిట్‌",
+     "type": "Organization",
+     "english_name": "Special Investigation Team"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "శ్రీవెంకటేశ్వరస్వామి",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    },
+    {
+     "name": "లడ్డూలు",
+     "type": "Scheme",
+     "english_name": "Laddu"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కోర్టు",
+     "evidence": "దీనిపై కోర్టు కూడా మొట్టికాయ వేసింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబుకు భయం, భక్తి లేవు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "చంద్రబాబుగారు పెట్టిన పోస్టింగ్స్‌ చూస్తే.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6fd6edfacd2a4bcdb245c5b359e44a9cbe2cad62": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఈఓ",
+     "type": "Person",
+     "english_name": "EO"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "ఎన్డీడీబీ",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Issue",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "నెయ్యి",
+     "type": "Issue",
+     "english_name": "Ghee"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పచ్చి అబద్ధాలు చెప్పారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "62d54fa6bdbb84728eee143d90cce49cc70f3aeb": {
+   "entities": [
+    {
+     "name": "ఈఓ",
+     "type": "Person",
+     "english_name": "EO"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "ఎన్‌డీడీబీ",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "సిట్‌",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "ACCUSES",
+     "target": "ఈఓ",
+     "evidence": "కల్తీ నెయ్యి వాడలేదని ఈఓ చెప్పినా, లడ్డూ ప్రసాదంలో జంతు కొవ్వు ఉందని ముఖ్యమంత్రి ఎలా చెబుతారు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "42861bad5b50c8391a8de3b3cb9233d5656483e3": {
+   "entities": [
+    {
+     "name": "నెయ్యి",
+     "type": "Issue",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "ఈ–టెండర్లు",
+     "type": "Scheme",
+     "english_name": "E-tenders"
+    },
+    {
+     "name": "ఎల్‌–1",
+     "type": "Scheme",
+     "english_name": "L-1"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "నెయ్యి ట్యాంకర్లు",
+     "type": "Organization",
+     "english_name": "Ghee tankers"
+    },
+    {
+     "name": "ఎన్‌ఏబీఎల్‌ గుర్తింపు పొందిన ల్యాబ్‌",
+     "type": "Organization",
+     "english_name": "NABL accredited lab"
+    },
+    {
+     "name": "క్వాలిటీ సర్టిఫికెట్‌",
+     "type": "Scheme",
+     "english_name": "Quality certificate"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "జూలై 6",
+     "type": "Person",
+     "english_name": "July 6"
+    },
+    {
+     "name": "జూలై 12",
+     "type": "Person",
+     "english_name": "July 12"
+    },
+    {
+     "name": "జూలై 23",
+     "type": "Person",
+     "english_name": "July 23"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Sri Vysa Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "47184c4fa4ae7292e9d13e6107f7a940ee6fc379": {
+   "entities": [
+    {
+     "name": "పవన్",
+     "type": "Person",
+     "english_name": "Pawan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వెంకటేశ్వరస్వామి",
+     "type": "Person",
+     "english_name": "Venkateswara Swamy"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Issue",
+     "english_name": "Laddoo"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "పవన్‌కు సనాతన ధర్మం తెలుసా?: పవన్‌కు సనాతన ధర్మం అంటే ఏమిటో తెలుసా? సాక్షాత్తూ నువ్వు ఆ కూటమిలో ఉన్నావు. నీ కళ్ల ఎదుటే చంద్రబాబు ఆ తప్పు చేశాడు."
+    },
+    {
+     "source": "పవన్",
+     "relation": "ACCUSES",
+     "target": "వెంకటేశ్వరస్వామి",
+     "evidence": "శ్రీ వెంకటేశ్వరస్వామితో ఆడుకుంటున్నారు. ఇటువంటి అన్యాయాలు చేస్తున్న వ్యక్తులకు ఆయనే మొట్టికాయలు వేస్తాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వెంకటేశ్వరస్వామి",
+     "evidence": "శ్రీ వెంకటేశ్వరస్వామితో ఆడుకుంటున్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8588c6b39b70e6c33f8d21ff14286b0394602b87": {
+   "entities": [
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Tirumala temple",
+     "type": "Place",
+     "english_name": "Tirumala temple"
+    },
+    {
+     "name": "Tirumala laddu",
+     "type": "Issue",
+     "english_name": "Tirumala laddu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "YS Jagan criticized Chandrababu's actions, stating that they not only undermined the sanctity of the Tirumala temple but also hurt the faith of crores of devotees."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "Pawan Kalyan",
+     "evidence": "YS Jagan also questioned Pawan Kalyan’s understanding of \"Sanatana Dharma\" pointing out that Pawan had supported Chandrababu despite being aware of his actions."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f78ea168562d8f7912f8d54b8f43b610c8897242": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "టీటీడీ ఈఓ",
+     "type": "Organization",
+     "english_name": "TTD EO"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Tirumala laddu issue",
+     "type": "Issue",
+     "english_name": "Tirumala laddu issue"
+    },
+    {
+     "name": "YS Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "state government",
+     "type": "Organization",
+     "english_name": "state government"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Executive Officer",
+     "type": "Person",
+     "english_name": "Executive Officer"
+    },
+    {
+     "name": "Tirumala laddu",
+     "type": "Scheme",
+     "english_name": "Tirumala laddu"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబులో మార్పు లేదు."
+    },
+    {
+     "source": "YS Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu",
+     "evidence": "Naidu neither feared God nor had any remorse, as evidenced by his repeated false claims about the adulterated ghee used in the preparation of the Tirumala laddu"
+    },
+    {
+     "source": "YS Jagan Mohan Reddy",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "He further condemned the false propaganda being spread on TDP's social media"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "23fca5ffd5e41b87aa5862df8e67dff4d99fc9d0": {
+   "entities": [
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సిట్‌",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "ఎఫ్‌ఎస్‌ఎస్‌ఏఐ",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Issue",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ధర్మారెడ్డి",
+     "type": "Person",
+     "english_name": "Dharmareddy"
+    },
+    {
+     "name": "సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "Subbareddy"
+    },
+    {
+     "name": "కరుణాకర్‌ రెడ్డి",
+     "type": "Person",
+     "english_name": "Karunakar Reddy"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Alliance"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ ట్విటర్లో ఏం రాశారో చూడండి అంటూ.. ఆ ట్వీట్స్‌ చదివి వినిపించారు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు మన ఖర్మ: ..."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "కూటమి",
+     "evidence": "ఆయన్ను మోస్తున్న కూటమికి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

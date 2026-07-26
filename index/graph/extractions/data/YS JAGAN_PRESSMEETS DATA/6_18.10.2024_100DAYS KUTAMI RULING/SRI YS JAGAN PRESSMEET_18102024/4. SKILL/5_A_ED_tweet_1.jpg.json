@@ -1,0 +1,76 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0e887fbe9bc82e4470789795ff3b144139fe8b06": {
+   "entities": [
+    {
+     "name": "Soumyadri Shekhar Bose alias Suman Bose",
+     "type": "Person",
+     "english_name": "Soumyadri Shekhar Bose alias Suman Bose"
+    },
+    {
+     "name": "M/s Siemens Industry Software India Pvt Ltd (SISW)",
+     "type": "Organization",
+     "english_name": "M/s Siemens Industry Software India Pvt Ltd (SISW)"
+    },
+    {
+     "name": "Vikas Vinayak Khanvelkar",
+     "type": "Person",
+     "english_name": "Vikas Vinayak Khanvelkar"
+    },
+    {
+     "name": "M/s Designtech Systems Pvt Ltd",
+     "type": "Organization",
+     "english_name": "M/s Designtech Systems Pvt Ltd"
+    },
+    {
+     "name": "Mukul Chandra Agrawal",
+     "type": "Person",
+     "english_name": "Mukul Chandra Agrawal"
+    },
+    {
+     "name": "M/s Skillar Enterprises India Pvt Ltd",
+     "type": "Organization",
+     "english_name": "M/s Skillar Enterprises India Pvt Ltd"
+    },
+    {
+     "name": "Suresh Goyal",
+     "type": "Person",
+     "english_name": "Suresh Goyal"
+    },
+    {
+     "name": "Hon’ble Special PMLA Court, Visakhapatnam",
+     "type": "Organization",
+     "english_name": "Hon’ble Special PMLA Court, Visakhapatnam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Soumyadri Shekhar Bose alias Suman Bose",
+     "relation": "ACCUSES",
+     "target": "M/s Siemens Industry Software India Pvt Ltd (SISW)",
+     "evidence": "ED has arrested Soumyadri Shekhar Bose alias Suman Bose, Ex MD of M/s Siemens Industry Software India Pvt Ltd (SISW)"
+    },
+    {
+     "source": "Vikas Vinayak Khanvelkar",
+     "relation": "ACCUSES",
+     "target": "M/s Designtech Systems Pvt Ltd",
+     "evidence": "Vikas Vinayak Khanvelkar (MD of M/s Designtech Systems Pvt Ltd"
+    },
+    {
+     "source": "Mukul Chandra Agrawal",
+     "relation": "ACCUSES",
+     "target": "M/s Skillar Enterprises India Pvt Ltd",
+     "evidence": "Mukul Chandra Agrawal, Ex Financial advisor, and authorised signatory of M/s Skillar Enterprises India Pvt Ltd"
+    },
+    {
+     "source": "Suresh Goyal",
+     "relation": "ACCUSES",
+     "target": "M/s Skillar Enterprises India Pvt Ltd",
+     "evidence": "Suresh Goyal, CA in a money laundering case for diversion and misutilisation of funds."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

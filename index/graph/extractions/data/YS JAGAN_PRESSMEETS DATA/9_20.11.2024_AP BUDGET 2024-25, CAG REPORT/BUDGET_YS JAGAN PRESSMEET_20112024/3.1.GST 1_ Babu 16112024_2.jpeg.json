@@ -1,0 +1,461 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "22afa417eaafae271a4e33c347486d4eaf595b66": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "64f15ad41a8bd0fc2798fa4804aab8f415edb722": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a9f5940ced3320c9e83c13d1c56a3cbf33b5a8b8": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "09ee8ab05f815e65c203ad1c21c5e5b9b3219f27": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "675b4973ead4991440434c4e95c03efae46f8e98": {
+   "entities": [
+    {
+     "name": "రూ.60 వేల కోట్లకుపైగా వ్యయం అవుతుందన్నది",
+     "type": "Claim",
+     "english_name": "Rupee 60 thousand crore expenditure claim"
+    },
+    {
+     "name": "రాష్ట్రప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "వరదల కారణంగా విజ యవాడ అల్లాడిపోయింది",
+     "type": "Issue",
+     "english_name": "Vijayawada flood damage"
+    },
+    {
+     "name": "రాష్ట్ర జీఎస్టీపై 1% అదనపు సర్ఛార్జీ",
+     "type": "Scheme",
+     "english_name": "1% additional surcharge on state GST"
+    },
+    {
+     "name": "నదుల అనుసంధానానికి కత్వ సదస్సు",
+     "type": "Scheme",
+     "english_name": "Katwa conference for river linking"
+    },
+    {
+     "name": "ముంబయి",
+     "type": "Place",
+     "english_name": "Mumbai"
+    },
+    {
+     "name": "మహారాష్ట్ర ఎన్నికల్లో ఎన్డీయే కూటమి తరపున ప్రచారం",
+     "type": "Scheme",
+     "english_name": "Campaign for NDA alliance in Maharashtra elections"
+    },
+    {
+     "name": "ఆదివారం ఆయన అమరావతికి తిరిగి వస్తారు",
+     "type": "Claim",
+     "english_name": "Return to Amaravati on Sunday"
+    },
+    {
+     "name": "హిందుస్థాన్టైమ్స్ సదస్సులో ప్రధాని మోదీ",
+     "type": "Organization",
+     "english_name": "Prime Minister Modi at Hindustan Times conference"
+    },
+    {
+     "name": "కేంద్రమంత్రి జైశంకర్",
+     "type": "Person",
+     "english_name": "Union Minister Jaishankar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "858ae8bdc60c496a7d9030452c9cea750c094c42": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0192546231f4f79d038add7f2548419f896f724f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4f0ba9b72e188f3a5b5a2f779198769153be72f7": {
+   "entities": [
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్ర జీఎస్టీ",
+     "type": "Scheme",
+     "english_name": "State GST"
+    },
+    {
+     "name": "కత్వ సదస్సు",
+     "type": "Organization",
+     "english_name": "Katwa Conference"
+    },
+    {
+     "name": "ముంబయి",
+     "type": "Place",
+     "english_name": "Mumbai"
+    },
+    {
+     "name": "మహారాష్ట్ర",
+     "type": "Place",
+     "english_name": "Maharashtra"
+    },
+    {
+     "name": "ఎన్డీయే కూటమి",
+     "type": "Party",
+     "english_name": "NDA Alliance"
+    },
+    {
+     "name": "ఆదివారం",
+     "type": "Person",
+     "english_name": "Sunday"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "హిందుస్థాన్టైమ్స్ సదస్సు",
+     "type": "Organization",
+     "english_name": "Hindustan Times Conference"
+    },
+    {
+     "name": "ప్రధాని మోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Modi"
+    },
+    {
+     "name": "కేంద్రమంత్రి జైశంకర్",
+     "type": "Person",
+     "english_name": "Union Minister Jaishankar"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "విదేశీ మంత్రి జైశంకర్",
+     "type": "Person",
+     "english_name": "Foreign Minister Jaishankar"
+    },
+    {
+     "name": "అమెరికా",
+     "type": "Place",
+     "english_name": "America"
+    },
+    {
+     "name": "ట్రంప్",
+     "type": "Person",
+     "english_name": "Trump"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "విద్యార్థులు",
+     "type": "Person",
+     "english_name": "Students"
+    },
+    {
+     "name": "ప్రజలు",
+     "type": "Person",
+     "english_name": "People"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కేంద్రం",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "కేంద్రం కూడా సహకరించాలి"
+    },
+    {
+     "source": "కత్వ సదస్సు",
+     "relation": "LOCATED_IN",
+     "target": "ముంబయి",
+     "evidence": "కత్వ సదస్సులో పాల్గొన్న అనంతరం ముంబయికి వెళ్లి"
+    },
+    {
+     "source": "మహారాష్ట్ర",
+     "relation": "LOCATED_IN",
+     "target": "ముంబయి",
+     "evidence": "మహారాష్ట్ర ఎన్నికల్లో ఎన్డీయే కూటమి తరపున ప్రచారం"
+    },
+    {
+     "source": "హిందుస్థాన్టైమ్స్ సదస్సు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "హిందుస్థాన్టైమ్స్ సదస్సులో ప్రధాని మోదీ, కేంద్రమంత్రి జైశంకర్ కూడా పాల్గొంటారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f78047eb67bc25638916c539ab6111a862169e61": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నిర్మలా సీతారామన్",
+     "type": "Person",
+     "english_name": "Nirmala Sitharaman"
+    },
+    {
+     "name": "జైశంకర్",
+     "type": "Person",
+     "english_name": "Jaishankar"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "గోదావరి-కృష్ణా-పెన్నాల అనుసంధానం",
+     "type": "Scheme",
+     "english_name": "Godavari-Krishna-Pennar linking"
+    },
+    {
+     "name": "GST",
+     "type": "Organization",
+     "english_name": "GST"
+    },
+    {
+     "name": "హిందుస్థాన్ టైమ్స్",
+     "type": "Organization",
+     "english_name": "Hindustan Times"
+    },
+    {
+     "name": "ఆర్థికమంత్రి",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "నిర్మలాసీతారామన్",
+     "type": "Person",
+     "english_name": "Nirmala Sitharaman"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "నదుల అనుసంధాన కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "River Linking Programme"
+    },
+    {
+     "name": "గోదావరి-కృష్ణా-పెన్నాలను",
+     "type": "Place",
+     "english_name": "Godavari-Krishna-Pennar rivers"
+    },
+    {
+     "name": "ప్రకాశం",
+     "type": "Place",
+     "english_name": "Prakasam"
+    },
+    {
+     "name": "రాయలసీమ",
+     "type": "Place",
+     "english_name": "Rayalaseema"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    },
+    {
+     "name": "నాగార్జునసాగర్ కుడికాలువ",
+     "type": "Place",
+     "english_name": "Nagarjuna Sagar right canal"
+    },
+    {
+     "name": "బొల్లాపల్లి",
+     "type": "Place",
+     "english_name": "Bollapalli"
+    },
+    {
+     "name": "బనకచర్లు",
+     "type": "Place",
+     "english_name": "Banaka Charla"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గోదావరి-కృష్ణా-పెన్నాల అనుసంధానం",
+     "evidence": "గోదావరి-కృష్ణా-పెన్నాల అనుసంధానానికి సహకరించండి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a04d25a0afb85622a2cb455d22283a226e210a4f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జైశంకర్",
+     "type": "Person",
+     "english_name": "Jaishankar"
+    },
+    {
+     "name": "లావు శ్రీకృష్ణదే",
+     "type": "Person",
+     "english_name": "Lavu Srikrishna Devarayalu"
+    },
+    {
+     "name": "వల్లభనేని బాలశౌరి",
+     "type": "Person",
+     "english_name": "Vallabhaneni Balashouri"
+    },
+    {
+     "name": "మాగుంట శ్రీనివాసులురెడ్డి",
+     "type": "Person",
+     "english_name": "Magunta Srinivasulu Reddy"
+    },
+    {
+     "name": "వేమి రెడ్డి ప్రభాకర్రెడ్డి",
+     "type": "Person",
+     "english_name": "Vemi Reddy Prabhakar Reddy"
+    },
+    {
+     "name": "కలిశెట్టి అప్పలనాయుడు",
+     "type": "Person",
+     "english_name": "Kalishetti Appalanaidu"
+    },
+    {
+     "name": "తెన్నేటి కృష్ణప్రసాద్",
+     "type": "Person",
+     "english_name": "Tenneti Krishna Prasad"
+    },
+    {
+     "name": "కుంభంపాటి",
+     "type": "Person",
+     "english_name": "Kumbhapati"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సింగపూర్",
+     "type": "Place",
+     "english_name": "Singapore"
+    },
+    {
+     "name": "కేంద్ర మంత్రులు",
+     "type": "Organization",
+     "english_name": "Central Ministers"
+    },
+    {
+     "name": "తెదేపా పార్లమెంటరీ పార్టీ",
+     "type": "Organization",
+     "english_name": "TDP Parliamentary Party"
+    },
+    {
+     "name": "రామ్మోహన్రావు",
+     "type": "Person",
+     "english_name": "Rammohan Rao"
+    },
+    {
+     "name": "కనకమేడల రవీంద్రకుమార్",
+     "type": "Person",
+     "english_name": "Kanikamedala Ravikumar"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "హిందుస్థాన్ టైమ్స్",
+     "type": "Organization",
+     "english_name": "Hindustan Times"
+    },
+    {
+     "name": "ఎన్టీయే కూటమి",
+     "type": "Party",
+     "english_name": "NDA Alliance"
+    },
+    {
+     "name": "ప్రధాని మోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Modi"
+    },
+    {
+     "name": "శంకర్",
+     "type": "Person",
+     "english_name": "Shankar"
+    },
+    {
+     "name": "దిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "కేంద్ర మంత్రి రామ్మోహన్ నాయుడు",
+     "type": "Person",
+     "english_name": "Union Minister Rammohan Naidu"
+    },
+    {
+     "name": "ఎంపీలు కలిశెట్టి అప్పలనాయుడు",
+     "type": "Person",
+     "english_name": "MP Kallisetty Appalanaidu"
+    },
+    {
+     "name": "కృష్ణప్రసాద్",
+     "type": "Person",
+     "english_name": "Krishnaprasad"
+    },
+    {
+     "name": "కేంద్ర మంత్రి జైశంకర్",
+     "type": "Person",
+     "english_name": "Union Minister Jaishankar"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "శ్రీకృష్ణదేవరాయలు",
+     "type": "Person",
+     "english_name": "Srikrishnadevaraya"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

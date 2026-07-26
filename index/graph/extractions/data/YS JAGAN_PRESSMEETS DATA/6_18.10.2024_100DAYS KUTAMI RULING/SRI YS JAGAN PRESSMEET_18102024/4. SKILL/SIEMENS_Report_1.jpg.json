@@ -1,0 +1,55 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5d79f556159f63cc55f21f17d215ea77de65035f": {
+   "entities": [
+    {
+     "name": "Mr. Bose",
+     "type": "Person",
+     "english_name": "Mr. Bose"
+    },
+    {
+     "name": "SISW",
+     "type": "Organization",
+     "english_name": "SISW"
+    },
+    {
+     "name": "Mr. Sharma",
+     "type": "Person",
+     "english_name": "Mr. Sharma"
+    },
+    {
+     "name": "Mr. Kurup",
+     "type": "Person",
+     "english_name": "Mr. Kurup"
+    },
+    {
+     "name": "Siemens Business conduct Guidelines",
+     "type": "Organization",
+     "english_name": "Siemens Business conduct Guidelines"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mr. Bose",
+     "relation": "ACCUSES",
+     "target": "SISW",
+     "evidence": "Mr. Bose, ex SISW CEO played an active role in a scheme together with mentioned external vendors and their owners with the purpose of misusing public funds."
+    },
+    {
+     "source": "Mr. Sharma",
+     "relation": "ACCUSES",
+     "target": "SISW",
+     "evidence": "both of them were very close to Mr. Bose and part of his team and assisted Mr. Bose to control and manage external entities with no connection to SISW whatsoever and both of them were aware of the described scheme where money from state funds was misused but they never raised the issue with compliance."
+    },
+    {
+     "source": "Mr. Kurup",
+     "relation": "ACCUSES",
+     "target": "SISW",
+     "evidence": "both of them were very close to Mr. Bose and part of his team and assisted Mr. Bose to control and manage external entities with no connection to SISW whatsoever and both of them were aware of the described scheme where money from state funds was misused but they never raised the issue with compliance."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

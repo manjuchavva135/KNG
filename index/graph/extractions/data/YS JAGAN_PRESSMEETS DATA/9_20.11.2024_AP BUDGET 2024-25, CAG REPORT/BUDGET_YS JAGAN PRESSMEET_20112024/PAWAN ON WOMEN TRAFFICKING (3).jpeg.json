@@ -1,0 +1,366 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "03155a2af578114cec6c1000143b709b67cfcc64": {
+   "entities": [
+    {
+     "name": "పార్టీల నాయకులు",
+     "type": "Person",
+     "english_name": "Party leaders"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Person",
+     "english_name": "volunteers"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "కేంద్ర నిఘా వర్గ పెద్దలు",
+     "type": "Organization",
+     "english_name": "central intelligence agencies"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "అధికారులు",
+     "type": "Person",
+     "english_name": "officials"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పార్టీల నాయకులు",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "జగన్.. కలల ఖనిజాలతో నిండిన దేశ సంపద వంటి రాష్ట్ర యువతను కట్టిపడేస్తున్న నువ్వు శ్రమ దోపిడీ చేస్తున్నావు."
+    },
+    {
+     "source": "పార్టీల నాయకులు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ఈ ప్రభుత్వం అధికారి కంగా కొందరు యువకులను నేరుగా ఇళ్లల్లోకి పంపి, భార్య-భర్త, తల్లీ కొడుకు, అన్నాచెల్లెళ్ల ఆదాయాలు, భార్యాభర్తల విభేదాలు, తగాదాలు వంటి ఎన్నో సున్నితమైన రహస్య అంశాలను సేకరించడం వల్ల ఆ విలువైన వివరాలన్నీ ఎక్కడికో వెళ్తున్నాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c6ab8df9cccbe2ed50b6dbf6b4a414daf501cb6": {
+   "entities": [
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్లు",
+     "evidence": "వలంటీర్లను 'బాగున్నారా బ్యాచ్' అని అంటున్నా రు. బాగున్నారా అని పలకరిస్తూనే ప్రజలను బెదిరిస్తున్నారు."
+    },
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "MEMBER_OF",
+     "target": "జనసేన",
+     "evidence": "జనసేన అధ్యక్షుడు పవన్ కల్యాణ్ స్పష్టం చేశారు."
+    },
+    {
+     "source": "వలంటీర్లు",
+     "relation": "LOCATED_IN",
+     "target": "ఏలూరు",
+     "evidence": "ఏలూరులో ఆ నియోజకవర్గ పార్టీ సమావేశంలో ఆయన మాట్లాడారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్లు",
+     "evidence": "వలంటీర్ వ్యవస్థను జగన్ డిజైన్ చేసి వదిలాడని.. అందుకే అన్ని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "22ff9e94d873745314a146b2385cf0682727f222": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ రాష్ట్ర ప్రభ",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State Prabha"
+    },
+    {
+     "name": "రసం",
+     "type": "Scheme",
+     "english_name": "Rasam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "పవన్ కళ్యాణ్",
+     "evidence": "జగన్లాంటి వాళ్లే మార్చేశారు."
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రసం",
+     "evidence": "బ్యానర్‌పై 'రసం' అనే పదం కనిపిస్తుంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eec0ce754e2cceeefdaba7ed238c2d4b7dfffe1d": {
+   "entities": [
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "జనవాణి",
+     "type": "Organization",
+     "english_name": "Janavani"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ACCUSES",
+     "target": "BJP",
+     "evidence": "బీజేపీ పాలిత రాష్ట్రాల్లో మిస్సింగ్ కేసులు లేవా అని ప్రశ్నించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "57dbdd66c5424760a853f955067408e2cd9eb8a6": {
+   "entities": [
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "మహిళా కమిషన్",
+     "type": "Organization",
+     "english_name": "Women's Commission"
+    },
+    {
+     "name": "వాసిరెడ్డి పద్మ",
+     "type": "Person",
+     "english_name": "Vasireddy Padma"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "విజయవాడ తూర్పు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Vijayawada East Constituency"
+    },
+    {
+     "name": "ఎన్టీఆర్ సర్కిల్",
+     "type": "Place",
+     "english_name": "NTR Circle"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "రాష్ట్ర మహిళా కమిషన్",
+     "type": "Organization",
+     "english_name": "State Women's Commission"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్లు",
+     "evidence": "వలంటీర్లను సంఘ విద్రోహ శక్తు గా చిత్రీకరించడం తగదన్నారు"
+    },
+    {
+     "source": "మహిళా కమిషన్",
+     "relation": "LOCATED_IN",
+     "target": "మంగళగిరి",
+     "evidence": "మంగళగిరి లోని మహిళా కమిషన్ కార్యాలయంలో వాసిరెడ్డి పద్మ విలేకరుల సమావేశం నిర్వహించారు"
+    },
+    {
+     "source": "వలంటీర్లు",
+     "relation": "LOCATED_IN",
+     "target": "విజయవాడ తూర్పు నియోజకవర్గం",
+     "evidence": "విజయవాడ తూర్పు నియోజకవర్గం వలంటీర్లు పవన్ కల్యాణ్ చిత్రపటాన్ని చెప్పులతో కొడుతూ ఎన్టీఆర్ సర్కిల్ వద్ద దహనం చేశారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c936c5ab620216a8918e9f307ca04a50116fc69": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వలంటీర్ల సైన్యం",
+     "type": "Organization",
+     "english_name": "Volunteer Army"
+    },
+    {
+     "name": "రాష్ట్రంలో",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "హిట్లర్",
+     "type": "Person",
+     "english_name": "Hitler"
+    },
+    {
+     "name": "ఎస్ఏఎస్ వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "SAS system"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Person",
+     "english_name": "volunteers"
+    },
+    {
+     "name": "పౌర సరఫరాల సరఫరా",
+     "type": "Organization",
+     "english_name": "Public Distribution System"
+    },
+    {
+     "name": "దెండలూరు",
+     "type": "Place",
+     "english_name": "Dendalur"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "మహిళా శిశు సంక్షేమ శాఖ",
+     "type": "Organization",
+     "english_name": "Women and Child Welfare Department"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్ల సైన్యం",
+     "evidence": "జగన్ ఈ వలంటీర్ వ్యవస్థను ఒక పోలీసు, రాజకీయ, అడ్మినిస్ట్రేషన్ వ్యవస్థగా తయారు చేసి మరీ ప్రజలపైకి వదిలాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్ల సైన్యం",
+     "evidence": "చంద్రబాబు సతీమణిని తిడితే ఆ ఒక్కరే కాదు.. అందరూ స్పందించాలి."
+    },
+    {
+     "source": "హిట్లర్",
+     "relation": "ACCUSES",
+     "target": "ఎస్ఏఎస్ వ్యవస్థ",
+     "evidence": "ఒకపుడు హిట్లర్ ఇలాగే ఒక ఎస్ఏఎస్ వ్యవస్థను తయారుచేసి వదిలాడు."
+    },
+    {
+     "source": "వలంటీర్ల సైన్యం",
+     "relation": "LOCATED_IN",
+     "target": "రాష్ట్రంలో",
+     "evidence": "రాష్ట్రంలో నీ వలంటీర్ల సైన్యం సంఖ్య ఐదు లక్షల మంది అంటున్నావ్ కదా జగన్!"
+    },
+    {
+     "source": "వలంటీర్లు",
+     "relation": "ACCUSES",
+     "target": "పౌర సరఫరాల సరఫరా",
+     "evidence": "వలంటీర్లు ఏం చేస్తున్నారని ప్రభుత్వాన్ని అందరూ అడగాలి."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "వలంటీర్లు",
+     "evidence": "జగన్.. ఎందుకు ఒక్క మహిళ మిస్సింగ్ మీదైనా రివ్యూ సమావేశం పెట్టలేదు?"
+    },
+    {
+     "source": "వలంటీర్లు",
+     "relation": "ACCUSES",
+     "target": "మహిళా శిశు సంక్షేమ శాఖ",
+     "evidence": "ఈ రోజు ఆ ఆడపిల్ల దిక్కులేక చివరకు మహిళా శిశు సంక్షేమ శాఖ ఆధ్వర్యంలో జీవిస్తోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

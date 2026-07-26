@@ -1,0 +1,53 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6fdab34a95e3a24cf4aedb78550dffde9cc16e34": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cd9b88f6ef8873719e3a76143ea42fd66b73d5b4": {
+   "entities": [
+    {
+     "name": "108 సర్వీస్ ఎంప్లాయీస్ యూనియన్",
+     "type": "Organization",
+     "english_name": "108 Service Employees Union"
+    },
+    {
+     "name": "108 అంబులెన్స్ సిబ్బంది",
+     "type": "Organization",
+     "english_name": "108 Ambulance Staff"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆశా వర్కర్లు",
+     "type": "Organization",
+     "english_name": "Asha Workers"
+    },
+    {
+     "name": "పత్తి రైతులు",
+     "type": "Organization",
+     "english_name": "Cotton Farmers"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu District"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రభుత్వ అనాలోచిత నిర్ణయాలు తమ పాలిట శాపాలుగా మారాయని ఆవేదన వ్యక్తం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

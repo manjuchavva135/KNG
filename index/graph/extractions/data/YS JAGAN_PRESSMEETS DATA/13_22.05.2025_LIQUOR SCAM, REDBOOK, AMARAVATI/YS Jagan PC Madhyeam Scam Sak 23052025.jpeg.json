@@ -87,6 +87,323 @@
      "evidence": "చంద్రబాబు కుతంత్రం"
     }
    ]
+  },
+  "bf5d59107235a353ad96eb1c34f202d180679f57": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్మెంట్",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Redbook",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "జిందాల్",
+     "type": "Organization",
+     "english_name": "Jindal"
+    },
+    {
+     "name": "అరబిందో",
+     "type": "Organization",
+     "english_name": "Aurobindo"
+    },
+    {
+     "name": "అల్ట్రాటెక్",
+     "type": "Organization",
+     "english_name": "UltraTech"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రభుత్వం ఏర్పడి ఏడాది అవుతున్నా ఒక్కటంటే ఒక్క పథకం అమలు లేదు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు అండ్ గ్యాంగ్పై వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్ మండిపాటు"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా",
+     "evidence": "మా ప్రభుత్వంలో ప్రవేశపెట్టిన పథకాలన్నీ రద్దు చేశారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వందనం",
+     "evidence": "మా ప్రభుత్వంలో ప్రవేశపెట్టిన పథకాలన్నీ రద్దు చేశారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆరోగ్యశ్రీ",
+     "evidence": "మా ప్రభుత్వంలో ప్రవేశపెట్టిన పథకాలన్నీ రద్దు చేశారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆరోగ్య ఆసరా",
+     "evidence": "మా ప్రభుత్వంలో ప్రవేశపెట్టిన పథకాలన్నీ రద్దు చేశారు."
+    }
+   ]
+  },
+  "9d1d26610d58ee43ac705def44dc35d0822cf31c": {
+   "entities": [
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothy"
+    },
+    {
+     "name": "టీవీ 5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "అక్రమ కేసులు",
+     "type": "Issue",
+     "english_name": "False Cases"
+    },
+    {
+     "name": "అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption"
+    },
+    {
+     "name": "డైవర్షన్ పాలిటిక్స్",
+     "type": "Issue",
+     "english_name": "Diversion Politics"
+    },
+    {
+     "name": "జూన్ 4న వెన్నుపోటు దినంగా నిర్వహిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్ సహా 143 హామీలు అమలు చేయాలని కలెక్టర్లకు డిమాండ్ పత్రాలిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అప్పట్లో టీడీపీ, కాంగ్రెస్ కుమ్మక్కై నాపై అక్రమ కేసులు పెట్టాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఒక్క అవినీతి మాత్రమే కాదు.. పాలనలో కూడా ఈ ప్రభుత్వం దారుణంగా విఫలమైంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు, ఆయన దొంగల ముఠా(ఈనాడు, ఆంధ్రజ్యోతి, టీవీ 5) రకరకాల పనులు చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "ఆడపిల్ల నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "నిరుద్యోగ యువత",
+     "type": "Scheme",
+     "english_name": "Unemployment Youth Scheme"
+    },
+    {
+     "name": "50 ఏళ్లకే ప్రతి మహిళకు రూ.48 వేలు",
+     "type": "Scheme",
+     "english_name": "Women at 50 Scheme"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్మెంట్",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deepam"
+    },
+    {
+     "name": "పథకం అమలు లేదు.",
+     "type": "Claim",
+     "english_name": "No scheme implementation."
+    },
+    {
+     "name": "చంద్రబాబు ఇస్తానన్న రైతు భరోసా రూ.26 వేలు ఇవ్వలేదు.",
+     "type": "Claim",
+     "english_name": "Chandrababu promised farmer's assurance of Rs 26,000 not given."
+    },
+    {
+     "name": "తల్లికి వందనం పథకం కింద రూ.15 వేల చొప్పున ఎగనామం.",
+     "type": "Claim",
+     "english_name": "Mother's vandanam scheme fraud."
+    },
+    {
+     "name": "ఆడపిల్ల నిధి రూ.18 వేలు, నిరుద్యోగ యువతకు ఏడాదికి రూ.36 వేలు, 50 ఏళ్లకే ప్రతి మహిళకు రూ.48 వేలు మోసంగా మారాయి.",
+     "type": "Claim",
+     "english_name": "Adabidda Nidhi, unemployment youth, and women at 50 schemes turned fraudulent."
+    },
+    {
+     "name": "పిల్లలకు ఫీజు రీయింబర్స్మెంట్, వసతి దీవెన లేదు.",
+     "type": "Claim",
+     "english_name": "No fee reimbursement and vasathi deepam for children."
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "అప్పట్లో టీడీపీ, కాంగ్రెస్ కుమ్మక్కై నాపై అక్రమ కేసులు పెట్టాయి"
+    },
+    {
+     "source": "బాబు",
+     "relation": "ACCUSES",
+     "target": "కాంగ్రెస్",
+     "evidence": "అప్పట్లో టీడీపీ, కాంగ్రెస్ కుమ్మక్కై నాపై అక్రమ కేసులు పెట్టాయి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా",
+     "evidence": "చంద్రబాబు ఇస్తానన్న రైతు భరోసా"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఇస్తానన్న రైతు భరోసా రూ.26 వేలు ఇవ్వలేదు.",
+     "evidence": "చంద్రబాబు ఇస్తానన్న రైతు భరోసా రూ.26 వేలు ఇవ్వలేదు."
+    }
+   ]
   }
  }
 }

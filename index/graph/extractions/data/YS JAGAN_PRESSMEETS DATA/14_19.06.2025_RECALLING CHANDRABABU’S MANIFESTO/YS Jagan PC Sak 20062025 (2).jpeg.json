@@ -208,6 +208,195 @@
      "evidence": "కార్యకర్త కూడా చంద్రబాబు మీద కోపంతో పార్టీ మారాడంటే మంచిదే' అని వైఎస్ జగన్ అన్నారు."
     }
    ]
+  },
+  "5668eeb1260219283fe9f754363852e45c654774": {
+   "entities": [
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "తెనాలి",
+     "type": "Place",
+     "english_name": "Tenali"
+    },
+    {
+     "name": "రెడ్ బుక్ రాజ్యాంగం",
+     "type": "Issue",
+     "english_name": "Red Book Constitution"
+    },
+    {
+     "name": "పొగాకు రైతులు",
+     "type": "Issue",
+     "english_name": "Tobacco farmers"
+    },
+    {
+     "name": "మిర్చి రైతులు",
+     "type": "Issue",
+     "english_name": "Chilli farmers"
+    },
+    {
+     "name": "ప్రైవేటు కంప్లైంట్",
+     "type": "Issue",
+     "english_name": "Private complaint"
+    },
+    {
+     "name": "వరద జలాలు",
+     "type": "Issue",
+     "english_name": "Flood waters"
+    },
+    {
+     "name": "గోదావరి బనకచర్ల ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "Godavari Banakacherla project"
+    },
+    {
+     "name": "రాష్ట్రంలో ప్రజాస్వామ్యం లేదు",
+     "type": "Claim",
+     "english_name": "There is no democracy in the state"
+    },
+    {
+     "name": "రెడ్ బుక్ రాజ్యాంగం నడుస్తోందని చెప్పడానికి ఇదొక నిదర్శనం",
+     "type": "Claim",
+     "english_name": "This is evidence that the Red Book Constitution is being run"
+    },
+    {
+     "name": "ప్రతి ఒక్కరి మీద అభాండాలు వేయడం చంద్రబాబుకు అలవాటై పోయింది",
+     "type": "Claim",
+     "english_name": "Chandrababu habitually casts false allegations on everyone"
+    },
+    {
+     "name": "ఏటా 3 వేల టీఎంసీల గోదావరి వరద జలాలు సముద్రంలో కలుస్తాయి",
+     "type": "Claim",
+     "english_name": "3,000 TMC of Godavari flood waters flow into the sea annually"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో ప్రజాస్వామ్యం లేదు",
+     "evidence": "రాష్ట్రంలో ప్రజాస్వామ్యం లేదు.."
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "రెడ్ బుక్ రాజ్యాంగం నడుస్తోందని చెప్పడానికి ఇదొక నిదర్శనం",
+     "evidence": "రెడ్ బుక్ రాజ్యాంగం నడుస్తోందని చెప్పడానికి ఇదొక నిదర్శనం."
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి ఒక్కరి మీద అభాండాలు వేయడం చంద్రబాబుకు అలవాటై పోయింది",
+     "evidence": "ప్రతి ఒక్కరి మీద అభాండాలు వేయడం చంద్రబాబుకు అలవాటై పోయింది."
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏటా 3 వేల టీఎంసీల గోదావరి వరద జలాలు సముద్రంలో కలుస్తాయి",
+     "evidence": "ఏటా 3 వేల టీఎంసీల గోదావరి వరద జలాలు సముద్రంలో కలుస్తాయి.."
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ప్రతి ఒక్కరి మీద అభాండాలు వేయడం చంద్రబాబుకు అలవాటై పోయింది."
+    },
+    {
+     "source": "రాష్ట్రంలో ప్రజాస్వామ్యం లేదు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రెడ్ బుక్ రాజ్యాంగం",
+     "evidence": "రెడ్ బుక్ రాజ్యాంగం నడుస్తోందని చెప్పడానికి ఇదొక నిదర్శనం."
+    }
+   ]
+  },
+  "1ef19d08f5829308012bd959cd18f8fa227aac83": {
+   "entities": [
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "షర్మిల",
+     "type": "Person",
+     "english_name": "Sharmila"
+    },
+    {
+     "name": "కేసీఆర్",
+     "type": "Person",
+     "english_name": "KCR"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మీడియా ప్రతినిధి",
+     "type": "Person",
+     "english_name": "Media representative"
+    },
+    {
+     "name": "జర్నలిస్టులు",
+     "type": "Person",
+     "english_name": "Journalists"
+    },
+    {
+     "name": "గోదావరి",
+     "type": "Place",
+     "english_name": "Godavari"
+    },
+    {
+     "name": "కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "రాయలసీమ",
+     "type": "Place",
+     "english_name": "Rayalaseema"
+    },
+    {
+     "name": "Phone tapping",
+     "type": "Issue",
+     "english_name": "Phone tapping"
+    },
+    {
+     "name": "Movie poster controversy",
+     "type": "Issue",
+     "english_name": "Movie poster controversy"
+    },
+    {
+     "name": "Flood water management",
+     "type": "Issue",
+     "english_name": "Flood water management"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "ఆ పోస్టర్ పట్టుకున్న యువకుడికి టీడీపీ సభ్యత్వం కూడా ఉందంటే, అది టీడీపీ వాళ్లే చేయించినట్టనుకోవాలి."
+    }
+   ]
   }
  }
 }

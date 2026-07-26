@@ -1,0 +1,49 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fe4b9ec4cfd59b764d5397418f840285894ac87d": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment Allowance"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కేంద్ర ప్రభుత్వమే నిర్మించాల్సిన పోలవరం ప్రాజెక్టు నిర్మాణ బాధ్యతలను కమీషన్ల కోసం చంద్రబాబు దక్కించుకోవడం తొలి చారిత్రక తప్పిదం."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "వరదను మళ్లించేలా స్పిల్వేను నిర్మించకుండా కాఫర్ డ్యామ్ పనులు చేపట్టడం రెండో తప్పిదం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

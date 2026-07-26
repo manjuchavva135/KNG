@@ -194,6 +194,179 @@
      "evidence": "సింగరాయకొండ నుంచి కావలి వరకు"
     }
    ]
+  },
+  "6968518abaa8a2d49c429b57a84a9d5eabbbc243": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "టాడేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "YSRCP Leaders",
+     "type": "Person",
+     "english_name": "YSRCP Leaders"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Manifesto",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Lulu",
+     "type": "Organization",
+     "english_name": "Lulu"
+    },
+    {
+     "name": "Ursa",
+     "type": "Organization",
+     "english_name": "Ursa"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": "Krishna ZP"
+    },
+    {
+     "name": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "type": "Claim",
+     "english_name": "Attack on Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Claim",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    },
+    {
+     "name": "Recalling Chandrababu’s Manifesto",
+     "type": "Claim",
+     "english_name": "Recalling Chandrababu’s Manifesto"
+    },
+    {
+     "name": "Capital region rates Rs.9,000-10,000 per sq ft",
+     "type": "Claim",
+     "english_name": "Capital region rates Rs.9,000-10,000 per sq ft"
+    },
+    {
+     "name": "PPAs at Rs.4.60",
+     "type": "Claim",
+     "english_name": "PPAs at Rs.4.60"
+    },
+    {
+     "name": "Lulu, Ursa given land cheaply",
+     "type": "Claim",
+     "english_name": "Lulu, Ursa given land cheaply"
+    },
+    {
+     "name": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "type": "Issue",
+     "english_name": "Attack on Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "name": "False Cases against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": "False Cases against YSRCP Leaders"
+    },
+    {
+     "name": "Chandrababu’s Manifesto",
+     "type": "Issue",
+     "english_name": "Chandrababu’s Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "Lulu",
+     "evidence": "Lulu, ఉర్సా లాంటి సంస్థలకు రూపాయ్కే కారుచౌకగా భూములు ఇస్తున్నా ఎవరూ మాట్లాడ కూడదు."
+    },
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "Ursa",
+     "evidence": "Lulu, ఉర్సా లాంటి సంస్థలకు రూపాయ్కే కారుచౌకగా భూములు ఇస్తున్నా ఎవరూ మాట్లాడ కూడదు."
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "Capital region rates Rs.9,000-10,000 per sq ft",
+     "evidence": "రాజధాని ప్రాంతంలో చదరపు అడుగు రూ.9 వేలు, రూ.10 వేలు పెట్టి నిర్మాణాలు చేపడుతున్నారు."
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "PPAs at Rs.4.60",
+     "evidence": "నేడు రూ.4.60తో పీపీఏలు చేసుకుంటున్నా ఎవరూ మాట్లాడకూడదు."
+    },
+    {
+     "source": "Jagan",
+     "relation": "MAKES_CLAIM",
+     "target": "Lulu, Ursa given land cheaply",
+     "evidence": "Lulu, ఉర్సా లాంటి సంస్థలకు రూపాయ్కే కారుచౌకగా భూములు ఇస్తున్నా ఎవరూ మాట్లాడ కూడదు."
+    },
+    {
+     "source": "False Cases filed against YSRCP Leaders",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False Cases against YSRCP Leaders",
+     "evidence": "Press meet: 15_16.07.2025_ATTACK on Krishna ZP Chairperson Uppala Harika, False Cases filed against YSRCP Leaders"
+    },
+    {
+     "source": "Recalling Chandrababu’s Manifesto",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Chandrababu’s Manifesto",
+     "evidence": "Press meet: 15_16.07.2025_ATTACK on Krishna ZP Chairperson Uppala Harika, False Cases filed against YSRCP Leaders, Recalling Chandrababu’s Manifesto"
+    }
+   ]
   }
  }
 }

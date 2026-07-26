@@ -1,0 +1,113 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "dcdcc58dedc8554b17d25081cdff94f99e9a7605": {
+   "entities": [
+    {
+     "name": "క్రీడాకారులు",
+     "type": "Person",
+     "english_name": "Athletes"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2d54cbe0ad82db6446dca29a32ba76be83c35c30": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌",
+     "type": "Person",
+     "english_name": "SHAP Chairman"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Issue",
+     "english_name": "DSC"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "జాబితా",
+     "type": "Claim",
+     "english_name": "List"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "తోట్లవల్లూరు",
+     "type": "Place",
+     "english_name": "Thottlavalluru"
+    },
+    {
+     "name": "స్కూల్‌ అసిస్టెంట్‌ పీఈటీ",
+     "type": "Claim",
+     "english_name": "School Assistant PET"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ చైర్మన్‌",
+     "relation": "ACCUSES",
+     "target": "శాప్‌",
+     "evidence": "శాప్‌ చైర్మన్‌ బెదిరింపులకు పాల్పడినట్టు ఉద్యోగులు వాపోతున్నారు"
+    },
+    {
+     "source": "శాప్‌ చైర్మన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "జాబితా",
+     "evidence": "జాబితా ఎందుకు మారింది?"
+    },
+    {
+     "source": "క్రీడా కోటా",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డీఎస్సీ",
+     "evidence": "క్రీడా కోటా డీఎస్సీ పోస్టుల భర్తీలో అక్రమాలు చోటుచేసుకోవడంతో"
+    },
+    {
+     "source": "జాబితా",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డీఎస్సీ",
+     "evidence": "డీఎస్సీలో రాత పరీక్ష లేకుండా పోస్టులు పొందిన 382 మంది జాబితాను మంగళవారం ఉదయానికి ఓ ప్రత్యేక లింక్‌ ద్వారా విడుదల చేశారు"
+    },
+    {
+     "source": "స్కూల్‌ అసిస్టెంట్‌ పీఈటీ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "డీఎస్సీ",
+     "evidence": "కృష్ణా జిల్లా తోట్లవల్లూరులో స్కూల్‌ అసిస్టెంట్‌ పీఈటీగా పని చేస్తున్న వ్యక్తి పేరు ముందుగా అప్‌లోడ్‌ చేసిన జాబితాలో లేదు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

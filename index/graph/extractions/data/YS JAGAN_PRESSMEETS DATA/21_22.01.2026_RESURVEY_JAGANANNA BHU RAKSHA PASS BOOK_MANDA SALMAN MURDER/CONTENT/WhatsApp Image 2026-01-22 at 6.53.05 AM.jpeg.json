@@ -1,0 +1,31 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cdc25664e92a0b6c5581a68eb303f10cb1d04f9c": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "జగనన్న భూహక్కు పత్రము",
+     "type": "Scheme",
+     "english_name": "Jagananna Bhoomi Hakku Patram"
+    },
+    {
+     "name": "శాశ్వత భూహక్కు మరియు భూరక్ష పథకం",
+     "type": "Scheme",
+     "english_name": "Permanent Land Rights and Land Protection Scheme"
+    },
+    {
+     "name": "రైతులు-రైతు కూలీల సంక్షేమమే ప్రభుత్వ ధ్యేయం!",
+     "type": "Claim",
+     "english_name": "The government's goal is the welfare of farmers and agricultural laborers!"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

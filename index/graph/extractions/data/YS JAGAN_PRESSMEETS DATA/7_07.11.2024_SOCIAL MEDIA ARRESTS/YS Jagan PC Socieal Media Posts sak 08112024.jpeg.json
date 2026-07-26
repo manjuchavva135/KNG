@@ -1,0 +1,136 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8719ca856dd1a011199d3fddc3302d272b0f0973": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "280725abbcfb842b5b2e75235f8d061c379500f0": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సూపర్ సిక్స్లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్ సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "సోషల్ మీడియా కార్యకర్తలు",
+     "type": "Person",
+     "english_name": "Social media activists"
+    },
+    {
+     "name": "సరస్వతి సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Saraswati Cements"
+    },
+    {
+     "name": "తహశీల్దార్",
+     "type": "Organization",
+     "english_name": "Tahsildar"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "సీఎం చంద్రబాబుపై మండిపడ్డ వైఎస్ జగన్మోహన్రెడ్డి"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "లోకేశ్",
+     "evidence": "చంద్రబాబు, లోకేశ్, పవన్ కళ్యాణ్ ఒత్తిళ్లకు తలొగ్గి ప్రజాస్వామ్యాన్ని అవహేళన చేయకండి"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "పవన్ కళ్యాణ్",
+     "evidence": "చంద్రబాబు, లోకేశ్, పవన్ కళ్యాణ్ ఒత్తిళ్లకు తలొగ్గి ప్రజాస్వామ్యాన్ని అవహేళన చేయకండి"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "సోషల్ మీడియా కార్యకర్తలు",
+     "evidence": "వాటిని నిలదీసిన సోషల్ మీడియా కార్యకర్తలను మాత్రం తప్పుడు కేసులతో అక్రమంగా నిర్బంధిస్తున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్లు",
+     "evidence": "సూపర్ సిక్స్లు, సెవెన్లు ఏమయ్యాయని ప్రశ్నిస్తే కేసులా?"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవెన్లు",
+     "evidence": "సూపర్ సిక్స్లు, సెవెన్లు ఏమయ్యాయని ప్రశ్నిస్తే కేసులా?"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ కార్యకర్తలే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

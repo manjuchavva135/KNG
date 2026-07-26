@@ -1,0 +1,297 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b407b03b3912582210c5787353223f625d62a0d8": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌.జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "తాడేపల్లి క్యాంపు కార్యాలయం",
+     "type": "Place",
+     "english_name": "Tadepalli Camp Office"
+    },
+    {
+     "name": "అమ్మఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Vodi"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "చేయూత",
+     "type": "Scheme",
+     "english_name": "Cheyutha"
+    },
+    {
+     "name": "సున్నావడ్డీ",
+     "type": "Scheme",
+     "english_name": "Sunna Vaddi"
+    },
+    {
+     "name": "రైతుభరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "ఇన్‌పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input Subsidy"
+    },
+    {
+     "name": "ఉచిత ఇన్సూరెన్స్‌",
+     "type": "Scheme",
+     "english_name": "Free Insurance"
+    },
+    {
+     "name": "ఉచిత విద్యుత్",
+     "type": "Scheme",
+     "english_name": "Free Electricity"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అమ్మఒడి",
+     "evidence": "అమ్మఒడి అందుకున్న 53 లక్షల మంది తల్లులకు మంచి చేశాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆసరా",
+     "evidence": "ఆసరాతో తోడుగా ఉన్నాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చేయూత",
+     "evidence": "చేయూతను అందుకుంటున్న అక్కచెల్లెమ్మల ఆప్యాయత ఏమయిందో తెలియదు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సున్నావడ్డీ",
+     "evidence": "సున్నావడ్డీతో అండగా ఉన్నాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతుభరోసా",
+     "evidence": "రైతన్నలకు రైతుభరోసా ఇవ్వడం కానీ..."
+    },
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇన్‌పుట్ సబ్సిడీ",
+     "evidence": "ఇన్‌పుట్ సబ్సిడీ ఇచ్చే కార్యక్రమం కానీ..."
+    },
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉచిత ఇన్సూరెన్స్‌",
+     "evidence": "ఉచిత ఇన్సూరెన్స్‌, పగటి పూటే 9 గంటలు ఉచిత విద్యుత్ ఇచ్చే కార్యక్రమం కానీ..."
+    },
+    {
+     "source": "శ్రీ వైయస్‌.జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉచిత విద్యుత్",
+     "evidence": "పగటి పూటే 9 గంటలు ఉచిత విద్యుత్ ఇచ్చే కార్యక్రమం కానీ..."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1c1a0f1ac43e22a0bdf161c8a157973f93cf644d": {
+   "entities": [
+    {
+     "name": "వాహనమిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "నేతన్ననేస్తం",
+     "type": "Scheme",
+     "english_name": "Netannaneesthum"
+    },
+    {
+     "name": "మత్స్యకారభరోసా",
+     "type": "Scheme",
+     "english_name": "Matsyakara Bharosa"
+    },
+    {
+     "name": "రజకులు",
+     "type": "Organization",
+     "english_name": "Rajakulu"
+    },
+    {
+     "name": "నాయీ బ్రాహ్మణులు",
+     "type": "Organization",
+     "english_name": "Nayee Brahmins"
+    },
+    {
+     "name": "టైలర్లు",
+     "type": "Organization",
+     "english_name": "Tailors"
+    },
+    {
+     "name": "మేనిఫెస్టో",
+     "type": "Claim",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "ఇంగ్లిషు మీడియం",
+     "type": "Scheme",
+     "english_name": "English Medium"
+    },
+    {
+     "name": "టోఫెల్‌",
+     "type": "Scheme",
+     "english_name": "TOFEL"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Scheme",
+     "english_name": "IB"
+    },
+    {
+     "name": "సచివాలయ,వాలంటీర్ వ్యవస్ధ",
+     "type": "Organization",
+     "english_name": "Secretariat and Volunteer System"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bb7eaa76aecaace66d5cf204185e558ff57eeb4f": {
+   "entities": [
+    {
+     "name": "పిల్లలకు క్వాలిటీ ఎడ్యుకేషన్",
+     "type": "Claim",
+     "english_name": "Quality education for children"
+    },
+    {
+     "name": "ఇంగ్లిషు మీడియం",
+     "type": "Scheme",
+     "english_name": "English medium"
+    },
+    {
+     "name": "టోఫెల్‌",
+     "type": "Scheme",
+     "english_name": "TOFEL"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Scheme",
+     "english_name": "IBE"
+    },
+    {
+     "name": "గ్రామస్ధాయిలోనే సచివాలయ,వాలంటీర్ వ్యవస్ధ",
+     "type": "Scheme",
+     "english_name": "Village-level secretariat and volunteer system"
+    },
+    {
+     "name": "రూ.2.70 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 2.70 lakh crore"
+    },
+    {
+     "name": "మహిళా సాధికారత",
+     "type": "Claim",
+     "english_name": "Women empowerment"
+    },
+    {
+     "name": "సామాజిక న్యాయం",
+     "type": "Claim",
+     "english_name": "Social justice"
+    },
+    {
+     "name": "ప్రజలు తీర్పు",
+     "type": "Claim",
+     "english_name": "People's verdict"
+    },
+    {
+     "name": "వాయిస్ ఆఫ్ ది వాయిస్ లెస్‌",
+     "type": "Organization",
+     "english_name": "Voice of the voiceless"
+    },
+    {
+     "name": "పెద్ద పెద్ద వాళ్ల కూటమి",
+     "type": "Party",
+     "english_name": "Grand coalition"
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "చంద్రబాబుగారి",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్ గారి",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "నా ప్రతికష్టంలో",
+     "type": "Claim",
+     "english_name": "My hardship"
+    },
+    {
+     "name": "నా నాయకుడికీ",
+     "type": "Person",
+     "english_name": "My leader"
+    },
+    {
+     "name": "నా కార్యకర్తకూ",
+     "type": "Person",
+     "english_name": "My worker"
+    },
+    {
+     "name": "నా వాలంటీర్‌కు",
+     "type": "Person",
+     "english_name": "My volunteer"
+    },
+    {
+     "name": "నా అక్కచెల్లెమ్మలకు",
+     "type": "Person",
+     "english_name": "My sisters"
+    },
+    {
+     "name": "నా అన్నదమ్ములకు",
+     "type": "Person",
+     "english_name": "My brothers"
+    },
+    {
+     "name": "ప్రతిపక్షంలో",
+     "type": "Issue",
+     "english_name": "Opposition"
+    },
+    {
+     "name": "పోరాటాలు",
+     "type": "Issue",
+     "english_name": "Struggles"
+    },
+    {
+     "name": "ప్రభుత్వంలోకి వచ్చిన వాళ్లకు",
+     "type": "Person",
+     "english_name": "Those who came to power"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

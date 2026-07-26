@@ -1,0 +1,102 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bf80f6eae4d6fbfc74cb3216d9a250afee157e5c": {
+   "entities": [
+    {
+     "name": "తెదేపా అధ్యక్షుడు అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ఇతర ముఖ్య నేతలు",
+     "type": "Person",
+     "english_name": "Other key leaders"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "57984f78cc9c985fad879841ab60d205731c4ab3": {
+   "entities": [
+    {
+     "name": "శ్రీలంకలా ఏపీ దివాలా తీసినట్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైకాపా ఓటమి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తెదేపా అధినేత చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ఈనాడు-అమరావతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": "Sri Lanka"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "బాదుడే బాదుడు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మండల పార్టీ అధ్యక్షులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నియోజకవర్గ ఇన్ఛార్జులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యుత్తు ఛార్జీలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పన్నులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నిత్యావసర ధరల భారం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పవర్ హాలిడే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సామాజిక న్యాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2019 ఎన్నికల్లో తప్పు జరిగిందనే భావన",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

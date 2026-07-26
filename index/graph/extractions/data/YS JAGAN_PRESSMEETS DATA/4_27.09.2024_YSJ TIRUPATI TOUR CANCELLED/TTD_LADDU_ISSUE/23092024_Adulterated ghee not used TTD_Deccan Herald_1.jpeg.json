@@ -1,0 +1,79 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "52ba1cabdc8c86b165a7fc143b9177ba97529983": {
+   "entities": [
+    {
+     "name": "Adulterated ghee not used to make laddus: TTD report",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "Venkateshwara shrine",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Jaganmohan Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NDDB",
+     "type": "Organization",
+     "english_name": "National Dairy Development Board"
+    },
+    {
+     "name": "AR Dairy Pvt Ltd",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Shanti Homam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tirumala temple",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Syamala Rao",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jaganmohan Reddy",
+     "relation": "ACCUSES",
+     "target": "Chandrababu Naidu",
+     "evidence": "former CM Jaganmohan Reddy blasted Naidu for the allegations, calling him a “habitual liar”"
+    },
+    {
+     "source": "Syamala Rao",
+     "relation": "MAKES_CLAIM",
+     "target": "Adulterated ghee not used to make laddus: TTD report",
+     "evidence": "said the report submitted by TTD executive officer Syamala Rao to the state government."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7b205269adc5725f43a6f758773239128110ce8d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌ రవినాయుడు",
+     "type": "Person",
+     "english_name": "Shap Chairman Ravinaidu"
+    },
+    {
+     "name": "టీడీపీ ఎమ్మెల్సీలు",
+     "type": "Party",
+     "english_name": "TDP MLCs"
+    },
+    {
+     "name": "డీఈవో",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "కంచర్ల శ్రీకాంత్",
+     "type": "Person",
+     "english_name": "Kancharla Srikanth"
+    },
+    {
+     "name": "రాంభూపాల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Ramabhopal Reddy"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "నిరుద్యోగులపై గొడ్డలి వేటు",
+     "type": "Scheme",
+     "english_name": "Hatchet on Unemployed"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవినాయుడు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్‌సీపీ",
+     "evidence": "వైఎస్సార్‌సీపీకి వ్యతిరేకంగా మాట్లాడాలని శాప్‌ చైర్మన్, ఇద్దరు టీడీపీ ఎమ్మెల్సీల ఉపన్యాసాలు"
+    },
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవినాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నిరుద్యోగులపై గొడ్డలి వేటు",
+     "evidence": "నిరుద్యోగులపై గొడ్డలి వేటు' అంటూ సమావేశం నిర్వహించేందుకు ప్రణాళిక రచించింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dfc0e81f083878b4d67c2be658d89d0f6b2bcc79": {
+   "entities": [
+    {
+     "name": "టీడీపీ కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "TDP Alliance Government"
+    },
+    {
+     "name": "ఉపాధ్యాయులు",
+     "type": "Person",
+     "english_name": "Teachers"
+    },
+    {
+     "name": "డీఈవో",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "type": "Person",
+     "english_name": "Shap Chairman Ravi Naidu"
+    },
+    {
+     "name": "డీఎస్సీ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "DSSC Candidates"
+    },
+    {
+     "name": "సీన్‌ 1",
+     "type": "Claim",
+     "english_name": "Scene 1"
+    },
+    {
+     "name": "సీన్‌ 2",
+     "type": "Claim",
+     "english_name": "Scene 2"
+    },
+    {
+     "name": "సీన్‌ 3",
+     "type": "Claim",
+     "english_name": "Scene 3"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఉపాధ్యాయులు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కూటమి ప్రభుత్వం",
+     "evidence": "ప్రభుత్వం ఇలా చేయడం తగదు. మమ్మల్ని ఇలా పిలిపించడం ఏమాత్రం సరి కాదు."
+    },
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "relation": "ACCUSES",
+     "target": "డీఈవో",
+     "evidence": "తిరుపతి డీఈవోపై ఒత్తిడి తెచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "59901341f26464e5085a4a955da012217e247c39": {
+   "entities": [
+    {
+     "name": "జిల్లా విద్యా శాఖ అధికారి",
+     "type": "Person",
+     "english_name": "District Education Officer"
+    },
+    {
+     "name": "అక్బర్",
+     "type": "Person",
+     "english_name": "Akbar"
+    },
+    {
+     "name": "ఎస్‌ఎఫ్‌ఐ జిల్లా కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "SFI District Secretary"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "డీఈఓ",
+     "type": "Person",
+     "english_name": "DEO"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డాక్టర్‌ ఓబుల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Dr. Obul Reddy"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ విద్యార్థి విభాగం రాష్ట్ర ఉపాధ్యక్షుడు",
+     "type": "Organization",
+     "english_name": "YSRCP Student Wing State Vice President"
+    },
+    {
+     "name": "DSC",
+     "type": "Issue",
+     "english_name": "DSC"
+    },
+    {
+     "name": "జిల్లా విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "District Education Department"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "faa6ed91a0229ee267d72b738122ae1c95678671": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వ పెద్దలు",
+     "type": "Person",
+     "english_name": "Government leaders"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "type": "Person",
+     "english_name": "Shap chairman Ravi Naidu"
+    },
+    {
+     "name": "తిరుపతి డీఈవో",
+     "type": "Organization",
+     "english_name": "Tirupati DEO"
+    },
+    {
+     "name": "2025 డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "2025 DSC"
+    },
+    {
+     "name": "బాలాజీ కాలనీలోని లక్ష్మీనారాయణ కళ్యాణ మండపం",
+     "type": "Place",
+     "english_name": "Lakshmi Narayana Kalyana Mandapam in Balaji Colony"
+    },
+    {
+     "name": "టీచర్ల",
+     "type": "Person",
+     "english_name": "Teachers"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు కంచర్ల శ్రీకాంత్",
+     "type": "Person",
+     "english_name": "MLC Kancharla Srikanth"
+    },
+    {
+     "name": "రాంభూపాల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Ramabhopal Reddy"
+    },
+    {
+     "name": "వందవాసి నాగరాజు",
+     "type": "Person",
+     "english_name": "Vandavasi Nagaraju"
+    },
+    {
+     "name": "సీపీఎం జిల్లా కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "CPM District Secretary"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వంపై",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "relation": "ACCUSES",
+     "target": "తిరుపతి డీఈవో",
+     "evidence": "సీన్‌ 2 : డీఎస్సీ కుంభకోణాన్ని అంతా తానై నడిపించారని ఆరోపణలు ఎదుర్కొంటున్న శాప్‌ చైర్మన్‌ రవి నాయుడు రంగంలోకి దిగారు. తిరుపతి డీఈవోపై ఒత్తిడి తెచ్చారు."
+    },
+    {
+     "source": "వందవాసి నాగరాజు",
+     "relation": "ACCUSES",
+     "target": "తిరుపతి డీఈవో",
+     "evidence": "విద్యాభివృద్ధి, ఉపాధ్యాయుల సమస్యల పరిష్కారానికి కృషి చేయాల్సిన డీఈ వో, అధికార పార్టీ రాజకీయ కార్య క్రమాలకు ఉపాధ్యాయులను సమీకరించే పనిలో నిమగ్నం కావడం దారుణం."
+    },
+    {
+     "source": "బాలాజీ కాలనీలోని లక్ష్మీనారాయణ కళ్యాణ మండపం",
+     "relation": "LOCATED_IN",
+     "target": "తిరుపతి",
+     "evidence": "శనివారం తిరుపతిలో డీఈవోతో సమావేశం ఉంది. ఉదయం 10 గంటలకు బాలాజీ కాలనీలోని లక్ష్మీనారాయణ కళ్యాణ మండపం వద్దకు కచ్చితంగా చేరుకోవాలి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "45fd7971f1dad92cd7c9034eeb2b3670240dee6b": {
+   "entities": [
+    {
+     "name": "డాక్టర్‌ ఓబుల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Dr. Obulareddy"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ విద్యార్థి విభాగం రాష్ట్ర ఉపాధ్యక్షుడు",
+     "type": "Party",
+     "english_name": "YSRCP Student Wing State Vice President"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "డీఈఓ",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "సుందరరాజు",
+     "type": "Person",
+     "english_name": "Sundararaju"
+    },
+    {
+     "name": "ఎన్‌ఎల్‌ఎస్‌ఏ జాతీయ అధ్యక్షుడు",
+     "type": "Organization",
+     "english_name": "NLSA National President"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కేవీఎన్‌ కుమార్",
+     "type": "Person",
+     "english_name": "K.V.N. Kumar"
+    },
+    {
+     "name": "జిల్లా విద్యాశాఖాధికారి",
+     "type": "Organization",
+     "english_name": "District Education Officer"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డాక్టర్‌ ఓబుల్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "డీఈఓ",
+     "evidence": "డీఈవో తీరు విమర్శలకు తావిస్తోంది."
+    },
+    {
+     "source": "సుందరరాజు",
+     "relation": "ACCUSES",
+     "target": "డీఈఓ",
+     "evidence": "డీఈవో ఆఫీస్‌ నుంచి తాను చెప్పినట్లు ఎవరూ కాల్స్‌ చేయ లేదు."
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీఎస్సీ",
+     "evidence": "డీఎస్సీలో ఎంపికైన ఉపాధ్యాయులకు తిరుపతిలో శని వా రం మీటింగ్‌కు హాజరు కావాలని మేము ఎవరికీ చెప్ప లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

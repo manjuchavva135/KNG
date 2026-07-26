@@ -1,0 +1,43 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b6fa4ecd98b39d48a12fc6f534e6b6d11d0d68f7": {
+   "entities": [
+    {
+     "name": "Telugu Desam Party",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "DSC",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "AndhraPradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Jagan",
+     "relation": "ACCUSES",
+     "target": "YSRCP",
+     "evidence": "జగన్ గారికి ఓపెన్ ఛాలెంజ్ చేస్తున్నా... ఇది మీరు నిర్వహించిన నియామక విధానం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

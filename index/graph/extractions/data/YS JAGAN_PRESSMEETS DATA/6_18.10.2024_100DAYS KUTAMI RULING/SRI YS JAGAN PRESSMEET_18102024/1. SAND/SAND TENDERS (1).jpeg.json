@@ -1,0 +1,92 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f48d0f2c7fbca79e9048a38e622c32dd98238565": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "626f40b64c86d2996c931d9b9552bdb053279dbd": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "621776d37218103494c06e6dfa14bddbfce87aa1": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c8c46645178c4168552e7598bdaa85d6d85a1e9c": {
+   "entities": [
+    {
+     "name": "District Level Sand Committee Collectrate, Palnadi",
+     "type": "Organization",
+     "english_name": "District Level Sand Committee Collectrate, Palnadi"
+    },
+    {
+     "name": "Bid Notice No. 532/DLSC/07/2024",
+     "type": "Organization",
+     "english_name": "Bid Notice No. 532/DLSC/07/2024"
+    },
+    {
+     "name": "THE DISTRICT LEVEL SAND CO-ORDINATOR, PALNADI, DISTT.",
+     "type": "Organization",
+     "english_name": "THE DISTRICT LEVEL SAND CO-ORDINATOR, PALNADI, DISTT."
+    },
+    {
+     "name": "BID DATE",
+     "type": "Organization",
+     "english_name": "BID DATE"
+    },
+    {
+     "name": "DATE OF OPENING OF TENDERS",
+     "type": "Organization",
+     "english_name": "DATE OF OPENING OF TENDERS"
+    },
+    {
+     "name": "TIME OF CLOSURE OF TENDERS",
+     "type": "Organization",
+     "english_name": "TIME OF CLOSURE OF TENDERS"
+    },
+    {
+     "name": "PLACE",
+     "type": "Organization",
+     "english_name": "PLACE"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "75c12af3cc8322eff77fc56fa2a30114acb5caf6": {
+   "entities": [
+    {
+     "name": "Palnadi Distt.",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Ambapalli - V Sand Reach, Kuvvuru Village, Achampet Mandal, Palnadi Distt.",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Pundaka & Sar Rent Reach, Polpata Village, Achampet Mandal, Palnadi Distt.",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "జిల్లా స్థాయి ఇసుక కమిటి, తూర్పుగోదావరి జిల్లా",
+     "type": "Organization",
+     "english_name": "District Level Sand Committee, East Godavari District"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

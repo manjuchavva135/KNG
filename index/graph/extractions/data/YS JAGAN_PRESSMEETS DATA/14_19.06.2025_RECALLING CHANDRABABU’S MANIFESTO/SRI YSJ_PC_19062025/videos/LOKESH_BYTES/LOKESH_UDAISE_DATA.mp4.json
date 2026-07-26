@@ -1,0 +1,99 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2172416daff893e395b2bf1ead8cbb85842b0c88": {
+   "entities": [
+    {
+     "name": "speaker",
+     "type": "Person",
+     "english_name": "speaker"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition government"
+    },
+    {
+     "name": "యూడైస్",
+     "type": "Organization",
+     "english_name": "UDISE"
+    },
+    {
+     "name": "ప్రభుత్వ పాఠశాలలు",
+     "type": "Organization",
+     "english_name": "government schools"
+    },
+    {
+     "name": "అధికారులు",
+     "type": "Organization",
+     "english_name": "officials"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "అంగన్వాడీ",
+     "type": "Scheme",
+     "english_name": "Anganwadi"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "పక్క రాష్ట్రాలు",
+     "type": "Place",
+     "english_name": "neighboring states"
+    },
+    {
+     "name": "యూడైస్ డేటా",
+     "type": "Issue",
+     "english_name": "UDISE data"
+    },
+    {
+     "name": "చంద్రబాబు మేనిఫెస్టో",
+     "type": "Issue",
+     "english_name": "Chandrababu's manifesto"
+    },
+    {
+     "name": "యూడైస్ డేటా తప్పుగా ఉంది",
+     "type": "Claim",
+     "english_name": "UDISE data is incorrect"
+    },
+    {
+     "name": "గత ప్రభుత్వం అమ్మ ఒడి ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": "Previous government did not give Amma Odi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "యూడైస్ డేటా తప్పుగా ఉంది",
+     "evidence": "ఎలా వాళ్ళు యూడైస్ డేటా గురించి మాట్లాడుతున్నారు అంటే"
+    },
+    {
+     "source": "speaker",
+     "relation": "MAKES_CLAIM",
+     "target": "గత ప్రభుత్వం అమ్మ ఒడి ఇవ్వలేదు",
+     "evidence": "అమ్మ ఒడి ఎందుకు ఇవ్వలేదు వాళ్ళు?"
+    },
+    {
+     "source": "యూడైస్ డేటా తప్పుగా ఉంది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "యూడైస్ డేటా",
+     "evidence": "యూడైస్ డేటా గురించి మాట్లాడుతున్నారు"
+    }
+   ]
+  }
+ }
+}

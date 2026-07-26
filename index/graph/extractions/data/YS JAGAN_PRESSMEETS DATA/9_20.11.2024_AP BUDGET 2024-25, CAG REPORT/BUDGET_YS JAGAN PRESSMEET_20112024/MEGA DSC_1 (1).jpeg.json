@@ -1,0 +1,134 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bf319faf29119fb726597c2d8ac38ec2b6e79850": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "రాష్ట్ర ఉన్నతాధికారులు",
+     "type": "Organization",
+     "english_name": "State Officials"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "630e7f2e3d0900aac88e53033f2fe079f2529195": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "ల్యాండ్ టైట్లింగ్ యాక్ట్",
+     "type": "Scheme",
+     "english_name": "Land Titling Act"
+    },
+    {
+     "name": "పింఛన్",
+     "type": "Scheme",
+     "english_name": "Pension"
+    },
+    {
+     "name": "నైపుణ్య గణన",
+     "type": "Scheme",
+     "english_name": "Skill Census"
+    },
+    {
+     "name": "అన్న క్యాంటీన్ల పునరుద్ధరణ",
+     "type": "Scheme",
+     "english_name": "Anna Canteens Restoration"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "వెలగపూడి సచివాలయం",
+     "type": "Place",
+     "english_name": "Velagapudi Secretariat"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సీడ్ యాక్సెస్ రోడ్డు",
+     "type": "Place",
+     "english_name": "Seed Access Road"
+    },
+    {
+     "name": "అఖిల భారత సర్వీసులు",
+     "type": "Organization",
+     "english_name": "All India Services"
+    },
+    {
+     "name": "ఐఏఎస్",
+     "type": "Organization",
+     "english_name": "IAS"
+    },
+    {
+     "name": "ఐపీఎస్",
+     "type": "Organization",
+     "english_name": "IPS"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ",
+     "evidence": "మెగా డీఎస్పీపై చంద్రబాబు తొలి సంతకం"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ల్యాండ్ టైట్లింగ్ యాక్ట్",
+     "evidence": "ల్యాండ్ టైట్లింగ్ యాక్ట్ రద్దు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పింఛన్",
+     "evidence": "పింఛన్ రూ.4,000కు పెంపు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నైపుణ్య గణన",
+     "evidence": "నైపుణ్య గణన"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్న క్యాంటీన్ల పునరుద్ధరణ",
+     "evidence": "అన్న క్యాంటీన్ల పునరుద్ధరణ"
+    },
+    {
+     "source": "ఈనాడు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈనాడు, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

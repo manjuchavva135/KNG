@@ -124,6 +124,161 @@
      "evidence": "పోలీసులు భావిస్తున్నారు... గ్రామంలో ఆధిపత్యం, రానున్న పంచాయతీ ఎన్నికల్లో అడ్డురాకుండా చేసుకోవాలన్న కారణంతో హత్యలు జరిగి ఉండవచ్చని"
     }
    ]
+  },
+  "a5f87c75eee1ff12a752ba3407dd2d95ac7e992a": {
+   "entities": [
+    {
+     "name": "సరావు",
+     "type": "Person",
+     "english_name": "Saravu"
+    },
+    {
+     "name": "మాచర్ల ప్రభుత్వాసుపత్రి",
+     "type": "Organization",
+     "english_name": "Macharla Government Hospital"
+    },
+    {
+     "name": "వెల్దుర్తి పోలీ సులు",
+     "type": "Organization",
+     "english_name": "Veludurthi Police"
+    },
+    {
+     "name": "ఎస్పీ",
+     "type": "Person",
+     "english_name": "Superintendent of Police"
+    },
+    {
+     "name": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలు",
+     "type": "Issue",
+     "english_name": "Attacks and murders in villages"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Pinnelli Ramakrishnareddy"
+    },
+    {
+     "name": "వెంకట్రామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Venkatarami Reddy"
+    },
+    {
+     "name": "జూలకంటి బ్రహ్మారెడ్డి",
+     "type": "Person",
+     "english_name": "Julakanti Brahmareddy"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "మాచర్ల",
+     "type": "Place",
+     "english_name": "Macharla"
+    },
+    {
+     "name": "ముందస్తు ప్రణాళికతోనే హత్యలు చేశారని",
+     "type": "Claim",
+     "english_name": "Murders were committed with prior planning"
+    },
+    {
+     "name": "నిందితులను పట్టుకోవడానికి బృందాలు ఏర్పాటు చేశామని",
+     "type": "Claim",
+     "english_name": "Teams have been formed to catch the accused"
+    },
+    {
+     "name": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని",
+     "type": "Claim",
+     "english_name": "Attacks and murders in villages are caused by former YSRCP MLA Pinnelli Ramakrishnareddy and his brother Venkatarami Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎస్పీ",
+     "relation": "MAKES_CLAIM",
+     "target": "ముందస్తు ప్రణాళికతోనే హత్యలు చేశారని",
+     "evidence": "ముందస్తు ప్రణాళికతోనే హత్యలు చేశారని"
+    },
+    {
+     "source": "ఎస్పీ",
+     "relation": "MAKES_CLAIM",
+     "target": "నిందితులను పట్టుకోవడానికి బృందాలు ఏర్పాటు చేశామని",
+     "evidence": "నిందితులను పట్టుకోవడానికి బృందాలు ఏర్పాటు చేశామని"
+    },
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని"
+    },
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వెంకట్రామిరెడ్డి",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని"
+    },
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని"
+    },
+    {
+     "source": "మాచర్ల ప్రభుత్వాసుపత్రి",
+     "relation": "LOCATED_IN",
+     "target": "మాచర్ల",
+     "evidence": "మృతదేహాలను పోస్టుమార్టం నిమిత్తం మాచర్ల ప్రభుత్వాసుపత్రికి తరలించారు."
+    }
+   ]
+  },
+  "ff116649cb23c97ff705ccce32128e0db42affac": {
+   "entities": [
+    {
+     "name": "జమిశెట్టి సోదరులు",
+     "type": "Person",
+     "english_name": "Jamishetti brothers"
+    },
+    {
+     "name": "తోట వెంకట్రామయ్య",
+     "type": "Person",
+     "english_name": "Tota Venkataramayya"
+    },
+    {
+     "name": "ఎమ్మెల్యే జూలకంటి బ్రహ్మానందరెడ్డి",
+     "type": "Person",
+     "english_name": "Julakanti Brahmananda Reddy"
+    },
+    {
+     "name": "ఎమ్మెల్యే జూలకంటి బ్రహ్మానందరెడ్డి కారును ప్రారంభిస్తున్న",
+     "type": "Claim",
+     "english_name": "MLA Julakanti Brahmananda Reddy starting the car"
+    },
+    {
+     "name": "Hostel student deaths and liquor",
+     "type": "Issue",
+     "english_name": "Hostel student deaths and liquor"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎమ్మెల్యే జూలకంటి బ్రహ్మానందరెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎమ్మెల్యే జూలకంటి బ్రహ్మానందరెడ్డి కారును ప్రారంభిస్తున్న",
+     "evidence": "ఎమ్మెల్యే జూలకంటి బ్రహ్మానందరెడ్డి కారును ప్రారంభిస్తున్న"
+    },
+    {
+     "source": "ఎమ్మెల్యే జూలకంటి బ్రహ్మానందరెడ్డి కారును ప్రారంభిస్తున్న",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Hostel student deaths and liquor",
+     "evidence": "Press meet: 19_04.12.2025_TTDPARAKAMANI_29HOSTELSTUDENTSDEATHS_LIQUOR"
+    }
+   ]
   }
  }
 }

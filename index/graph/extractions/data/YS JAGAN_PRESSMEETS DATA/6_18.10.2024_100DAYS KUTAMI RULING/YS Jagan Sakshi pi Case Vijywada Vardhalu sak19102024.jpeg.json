@@ -1,0 +1,135 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a4758a0f18f7f10ce4bb2f3f204e158ccffaf94f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6891953ef2872b624171787e36361eb1b60bdd2c": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బుడమేరు వరద",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "పునరావాస కేంద్రాలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి ఎడిటర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మద్యం",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "సీఎం చంద్రబాబు",
+     "evidence": "సీఎం చంద్రబాబుపై వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్ ఆగ్రహం వ్యక్తంచేశారు."
+    },
+    {
+     "source": "సాక్షి ఎడిటర్",
+     "relation": "ACCUSES",
+     "target": "సీఎం చంద్రబాబు",
+     "evidence": "దీనికి 'సాక్షి' ఎడిటర్ పై పెట్టిన కేసే తార్కాణమని చెప్పారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6bf6ced03de5d734b705e16aa08f20a1678623f3": {
+   "entities": [
+    {
+     "name": "బంతిని నేలకేసి ఎంత గట్టిగా కొడితే అంతపైకి లేస్తుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎప్పటికైనా చేసిన తప్పును నిజాయతీగా ఒప్పుకుంటే.. ఆ వ్యక్తిలో పరివర్తన వస్తే కొద్దో గొప్పో సానుకూలత పెరుగుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో ప్రజల పక్షాన పోరాడేందుకు మా పార్టీ ఎప్పుడూ సిద్ధంగానే ఉంటుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మద్యం విషయంలో మహిళలు రోడ్లపైకి వచ్చి నిరసన తెలుపుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా హయాంలో ప్రైవేటు మద్యం దుకాణాలు లేవు. ప్రభుత్వమే పారదర్శకంగా నిర్వహించింది. డిజిటల్ పేమెంట్లతోపాటు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు స్కామ్లు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బుడమేరు వరద ముంపునకు గురైన కోటి మందికి భోజనం ఖర్చు రూ.368 కోట్లుగా తేల్చారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పునరావాస కేంద్రాలు ఎక్కడ పెట్టారు?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అసలు వీళ్లు పరిపాలన చేయడానికి యోగ్యులేనా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి ఎడిటర్",
+     "type": "Person",
+     "english_name": "Sakshi Editor"
+    },
+    {
+     "name": "జమిలి ఎన్నికలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బూత్",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

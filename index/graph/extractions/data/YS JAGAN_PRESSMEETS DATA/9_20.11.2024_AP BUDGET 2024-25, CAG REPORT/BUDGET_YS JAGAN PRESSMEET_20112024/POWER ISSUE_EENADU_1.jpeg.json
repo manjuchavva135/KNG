@@ -1,0 +1,46 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "95290c84bc2bf2d6051c7ecfd99f0931f0f6a722": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కడప విమానాశ్రయం",
+     "type": "Place",
+     "english_name": "Kadapa Airport"
+    },
+    {
+     "name": "హజ్హౌస్",
+     "type": "Place",
+     "english_name": "Haj House"
+    },
+    {
+     "name": "ఒంటిమిట్ట రామాలయం",
+     "type": "Place",
+     "english_name": "Ontimitta Temple"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "మూడు రాజధానులు",
+     "type": "Place",
+     "english_name": "Three Capitals"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

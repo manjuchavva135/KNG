@@ -1,0 +1,272 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fd15c8e15f98662247486bf85e6e5c12647d2eee": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Party",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "ఉపాధ్యాయ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "Teacher candidates"
+    },
+    {
+     "name": "జీవో నం.77",
+     "type": "Scheme",
+     "english_name": "GO No.77"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Horizontal reservation"
+    },
+    {
+     "name": "సూప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1cddfc392fddd3b014b0d35650117c805f020bc6": {
+   "entities": [
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "స్పెషల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Special Reservation"
+    },
+    {
+     "name": "డిసేబుల్‌",
+     "type": "Scheme",
+     "english_name": "Disabled"
+    },
+    {
+     "name": "మెరిట్‌ స్పోర్ట్స్‌",
+     "type": "Scheme",
+     "english_name": "Merit Sports"
+    },
+    {
+     "name": "ఎక్స్‌ సర్వీస్‌మెన్‌",
+     "type": "Scheme",
+     "english_name": "Ex-Servicemen"
+    },
+    {
+     "name": "లోకల్‌ పోస్టులు",
+     "type": "Scheme",
+     "english_name": "Local Posts"
+    },
+    {
+     "name": "ఓపెన్‌ మెరిట్",
+     "type": "Scheme",
+     "english_name": "Open Merit"
+    },
+    {
+     "name": "రిజర్వేషన్‌ మెరిట్",
+     "type": "Scheme",
+     "english_name": "Reservation Merit"
+    },
+    {
+     "name": "డీఎస్సీ – 2025",
+     "type": "Organization",
+     "english_name": "DSSC 2025"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "06c78eb7a902d55af8f07978155132c3de30fabd": {
+   "entities": [
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "ఎస్జీటీ పోస్టులు",
+     "type": "Organization",
+     "english_name": "SGT posts"
+    },
+    {
+     "name": "ఓపెన్‌ కేటగిరీ",
+     "type": "Organization",
+     "english_name": "Open category"
+    },
+    {
+     "name": "బీసీ–ఏ",
+     "type": "Organization",
+     "english_name": "BC-A"
+    },
+    {
+     "name": "హారిజాంటల్‌ స్పెషల్‌ రిజర్వేషన్‌",
+     "type": "Organization",
+     "english_name": "Horizontal special reservation"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "రాజేశ్‌కుమార్‌ దరియా వర్సెస్‌ రాజస్థాన్‌ పబ్లిక్‌ సర్వీస్‌ కమిషన్‌",
+     "type": "Organization",
+     "english_name": "Rajesh Kumar Daria vs Rajasthan Public Service Commission"
+    },
+    {
+     "name": "రజత్‌యాదవ్‌ వర్సెస్‌ రాజస్థాన్‌ హైకోర్టు",
+     "type": "Organization",
+     "english_name": "Rajat Yadav vs Rajasthan High Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "విజయనగరం జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "విజయనగరం జిల్లా",
+     "evidence": "విజయనగరం జిల్లాలో ఎస్జీటీ పోస్టుల భర్తీలో ఈ అక్రమాలు కొట్టొచ్చినట్టు బయటపడ్డాయి."
+    },
+    {
+     "source": "ఎస్జీటీ పోస్టులు",
+     "relation": "LOCATED_IN",
+     "target": "విజయనగరం జిల్లా",
+     "evidence": "విజయనగరం జిల్లాలో ఎస్జీటీ పోస్టుల భర్తీలో ఈ అక్రమాలు కొట్టొచ్చినట్టు బయటపడ్డాయి."
+    },
+    {
+     "source": "ఓపెన్‌ కేటగిరీ",
+     "relation": "LOCATED_IN",
+     "target": "విజయనగరం జిల్లా",
+     "evidence": "ఓపెన్‌ కేటగిరీ లోకల్‌లో ఎంపిక చేస్తే.. 87వ ర్యాంకు అభ్యర్థిని ‘బీసీ–ఏ’ లోకల్‌ పోస్టులో భర్తీ చేశారు."
+    },
+    {
+     "source": "బీసీ–ఏ",
+     "relation": "LOCATED_IN",
+     "target": "విజయనగరం జిల్లా",
+     "evidence": "ఈ జిల్లాలో ఎస్జీటీ పోస్టులు బీసీ–ఏ లోకల్‌లో 15 ప్రకటించారు."
+    },
+    {
+     "source": "హారిజాంటల్‌ స్పెషల్‌ రిజర్వేషన్‌",
+     "relation": "LOCATED_IN",
+     "target": "విజయనగరం జిల్లా",
+     "evidence": "ఈ పోస్టుల్లో హారిజాంటల్‌ స్పెషల్‌ రిజర్వేషన్‌కు ఒక్క పోస్టు కేటాయించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "59f4420319e61f1f1fe5f2c6796a8b31dbc225e9": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "జిల్లా ఎంపిక కమిటీలు",
+     "type": "Organization",
+     "english_name": "District Selection Committees"
+    },
+    {
+     "name": "రాష్ట్ర స్థాయి",
+     "type": "Organization",
+     "english_name": "State level"
+    },
+    {
+     "name": "కామన్‌ మెరిట్‌ లిస్టు",
+     "type": "Claim",
+     "english_name": "Common merit list"
+    },
+    {
+     "name": "టెట్‌ మార్కులు",
+     "type": "Claim",
+     "english_name": "TET marks"
+    },
+    {
+     "name": "ఎడిట్‌",
+     "type": "Claim",
+     "english_name": "Edit"
+    },
+    {
+     "name": "మెరిట్‌ లిస్టులు",
+     "type": "Claim",
+     "english_name": "Merit lists"
+    },
+    {
+     "name": "ఓపెన్‌ ‘కటాఫ్‌’",
+     "type": "Claim",
+     "english_name": "Open cut-off"
+    },
+    {
+     "name": "సామాజిక వర్గాల",
+     "type": "Claim",
+     "english_name": "Social categories"
+    },
+    {
+     "name": "రిజర్వేషన్లు",
+     "type": "Issue",
+     "english_name": "Reservations"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Horizontal reservation"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Claim",
+     "english_name": "Women"
+    },
+    {
+     "name": "స్పెషల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Special reservation"
+    },
+    {
+     "name": "డిసేబుల్‌",
+     "type": "Claim",
+     "english_name": "Disabled"
+    },
+    {
+     "name": "మెరిట్‌ స్పోర్ట్స్‌",
+     "type": "Claim",
+     "english_name": "Merit sports"
+    },
+    {
+     "name": "ఎక్స్‌ సర్వీస్‌మెన్‌",
+     "type": "Claim",
+     "english_name": "Ex-servicemen"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

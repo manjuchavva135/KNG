@@ -1,0 +1,84 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9c6ee513d16cbc661c3237af629fa78e0655c5a9": {
+   "entities": [
+    {
+     "name": "OFFICE OF THE COMMISSIONER OF PROHIBITION & EXCISE A P AMARAVATHI",
+     "type": "Organization",
+     "english_name": "Office of the Commissioner of Prohibition & Excise, A.P. Amaravathi"
+    },
+    {
+     "name": "VIJAYAWADA",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Dr. P. Lakshmi Narasimham, I.A.S.",
+     "type": "Person",
+     "english_name": "Dr. P. Lakshmi Narasimham, IAS"
+    },
+    {
+     "name": "Commissioner of Prohibition & Excise",
+     "type": "Person",
+     "english_name": "Commissioner of Prohibition & Excise"
+    },
+    {
+     "name": "M/s. Shashi Distilleries (P) Ltd",
+     "type": "Organization",
+     "english_name": "M/s. Shashi Distilleries (P) Ltd"
+    },
+    {
+     "name": "Milestone, Hulimavu, Bannerghatta Road, Bangalore- 560076, Bangalore(Urban) Karnataka",
+     "type": "Place",
+     "english_name": "Milestone, Hulimavu, Bannerghatta Road, Bangalore- 560076, Bangalore (Urban), Karnataka"
+    },
+    {
+     "name": "A.P. Excise (Import, Export and Transport of Indian Liquor and Foreign Liquor - Permits) Rules, 2005",
+     "type": "Organization",
+     "english_name": "A.P. Excise (Import, Export and Transport of Indian Liquor and Foreign Liquor - Permits) Rules, 2005"
+    },
+    {
+     "name": "Governors Reserve 100% Premium Grain Whisky",
+     "type": "Scheme",
+     "english_name": "Governors Reserve 100% Premium Grain Whisky"
+    },
+    {
+     "name": "Governors Premium Wines",
+     "type": "Scheme",
+     "english_name": "Governors Premium Wines"
+    },
+    {
+     "name": "Governors RESLA-2 100% Premium Grain Whisky",
+     "type": "Scheme",
+     "english_name": "Governors RESLA-2 100% Premium Grain Whisky"
+    },
+    {
+     "name": "DRINKING ALCOHOL IS HARMFUL",
+     "type": "Claim",
+     "english_name": "Drinking alcohol is harmful"
+    },
+    {
+     "name": "DRINKING ALCOHOL IS SHAMMEL",
+     "type": "Claim",
+     "english_name": "Drinking alcohol is shammel"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Dr. P. Lakshmi Narasimham, I.A.S.",
+     "relation": "MAKES_CLAIM",
+     "target": "DRINKING ALCOHOL IS HARMFUL",
+     "evidence": "DRINKING ALCOHOL IS HARMFUL"
+    },
+    {
+     "source": "Dr. P. Lakshmi Narasimham, I.A.S.",
+     "relation": "MAKES_CLAIM",
+     "target": "DRINKING ALCOHOL IS SHAMMEL",
+     "evidence": "DRINKING ALCOHOL IS SHAMMEL"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

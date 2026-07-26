@@ -1,0 +1,184 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ea2a4cc2e3981f3c05b483d124b0272c0d29a4d6": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సిగ్గా ఎగ్గా లేకుండా",
+     "type": "Claim",
+     "english_name": "Without shame and without conscience"
+    },
+    {
+     "name": "కోర్టు తీర్పు వక్రీకరణ",
+     "type": "Claim",
+     "english_name": "Distortion of court verdict"
+    },
+    {
+     "name": "సీఎం చంద్రబాబును నిలదీసిన వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Claim",
+     "english_name": "YSRCP President YS Jagan questioned CM Chandrababu"
+    },
+    {
+     "name": "ఎక్స్",
+     "type": "Organization",
+     "english_name": "X"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "తిరుమల లడ్డూలో జంతువుల కొవ్వు కలిపిన కల్తీ వ్యవహారం",
+     "type": "Issue",
+     "english_name": "Tirumala laddu adulteration with animal fat"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "సీఎం చంద్రబాబును నిలదీసిన వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ అధికారిక ఎక్స్ హ్యాండిల్లో చేస్తున్న అసత్య ప్రచారం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6fce1642615737d5f8bd1ce7cf3e546d5b79ead1": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైవీ సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "YV Subba Reddy"
+    },
+    {
+     "name": "ధర్మారెడ్డి",
+     "type": "Person",
+     "english_name": "Dharmareddy"
+    },
+    {
+     "name": "కరుణాకర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Karunakar Reddy"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "TTD LADDU",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "శ్రీ వేంకటేశ్వరస్వామి",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "జగన్ రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్ రెడ్డి అడ్డంగా బుక్కయ్యారని పెద్ద అబద్ధం రాశారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "వైవీ సుబ్బారెడ్డి",
+     "evidence": "సుప్రీంకోర్టు ఆగ్రహం అని రాశారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "ధర్మారెడ్డి",
+     "evidence": "జగన్ రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్ రెడ్డి అడ్డంగా బుక్కయ్యారని పెద్ద అబద్ధం రాశారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "కరుణాకర్ రెడ్డి",
+     "evidence": "జగన్ రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్ రెడ్డి అడ్డంగా బుక్కయ్యారని పెద్ద అబద్ధం రాశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "ఆయన ఎంత నీచానికి దిగాడన్నది తెలుస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైవీ సుబ్బారెడ్డి",
+     "evidence": "సుప్రీంకోర్టు ఆగ్రహం అని రాశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ధర్మారెడ్డి",
+     "evidence": "జగన్ రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్ రెడ్డి అడ్డంగా బుక్కయ్యారని పెద్ద అబద్ధం రాశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కరుణాకర్ రెడ్డి",
+     "evidence": "జగన్ రెడ్డి బావ ధర్మారెడ్డి, బాబాయి సుబ్బారెడ్డి, మామ కరుణాకర్ రెడ్డి అడ్డంగా బుక్కయ్యారని పెద్ద అబద్ధం రాశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

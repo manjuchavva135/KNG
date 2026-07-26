@@ -1,0 +1,73 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "15f380e3d5c0db4b7e678e08a579444e6a14fd1e": {
+   "entities": [
+    {
+     "name": "తెలంగాణ రాష్ట్ర",
+     "type": "Place",
+     "english_name": "Telangana State"
+    },
+    {
+     "name": "Telugu Desam Party",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "JaiTDP",
+     "type": "Organization",
+     "english_name": "JaiTDP"
+    },
+    {
+     "name": "తిరుమల లడ్డు కల్తీ అంశంపై సుప్రీం కోర్ట్ నిర్ణయం సమర్థనీయం. విచారణకు సిట్ ఏర్పాటును స్వాగతిస్తున్నాను.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నారా లోకేష్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "విద్య, ఐటీ శాఖల మంత్రి",
+     "type": "Person",
+     "english_name": "Minister of Education and IT"
+    },
+    {
+     "name": "NeePaapamPandindiJagan",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "YCPAnimalFatInTirumalaLaddu",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "FekuJagan",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "AndhraPradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నారా లోకేష్",
+     "relation": "MAKES_CLAIM",
+     "target": "తిరుమల లడ్డు కల్తీ అంశంపై సుప్రీం కోర్ట్ నిర్ణయం సమర్థనీయం. విచారణకు సిట్ ఏర్పాటును స్వాగతిస్తున్నాను.",
+     "evidence": "తిరుమల లడ్డు కల్తీ అంశంపై సుప్రీం కోర్ట్ నిర్ణయం సమర్థనీయం. విచారణకు సిట్ ఏర్పాటును స్వాగతిస్తున్నాను."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

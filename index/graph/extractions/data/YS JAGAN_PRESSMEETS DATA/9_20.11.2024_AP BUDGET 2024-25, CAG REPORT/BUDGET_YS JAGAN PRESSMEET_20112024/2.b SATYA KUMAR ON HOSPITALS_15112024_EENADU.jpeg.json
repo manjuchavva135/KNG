@@ -1,0 +1,115 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "17c571ef1d29126214a616584e497dffb35b662d": {
+   "entities": [
+    {
+     "name": "వైకాపా అధ్యక్షుడు జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "మంత్రి సత్యకుమార్",
+     "type": "Person",
+     "english_name": "Satya Kumar"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "తాడేపల్లి ప్యాలెస్",
+     "type": "Place",
+     "english_name": "Tadepalli Palace"
+    },
+    {
+     "name": "రుషికొండ",
+     "type": "Place",
+     "english_name": "Rushikonda"
+    },
+    {
+     "name": "వైద్య కళాశాలలు",
+     "type": "Organization",
+     "english_name": "Medical Colleges"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మంత్రి సత్యకుమార్",
+     "relation": "ACCUSES",
+     "target": "వైకాపా అధ్యక్షుడు జగన్",
+     "evidence": "నూతన వైద్య కళాశాలలపై వైకాపా అధ్యక్షుడు జగన్ రోజూ అబద్ధాలు ప్రచారం చేస్తున్నారు."
+    },
+    {
+     "source": "మంత్రి సత్యకుమార్",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "వైకాపా ప్రభుత్వం గత ఐదేళ్లలో వైద్య కళాశాలలను ఎందుకు పూర్తిచేయలేదు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ce4d1f48a5bb23073afb313496b16d52769ada87": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పులివెందుల వైద్య కళాశాల",
+     "type": "Organization",
+     "english_name": "Pulivendula Medical College"
+    },
+    {
+     "name": "మార్కాపురం",
+     "type": "Place",
+     "english_name": "Markapuram"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "పార్వతీపురం మన్యం",
+     "type": "Place",
+     "english_name": "Parvathipuram Manyam"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సత్యకుమార్",
+     "type": "Person",
+     "english_name": "Satyakumar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

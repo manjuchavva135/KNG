@@ -2594,6 +2594,632 @@
      "evidence": "గనుల తాకట్టు ఏమిటి!"
     }
    ]
+  },
+  "dd1cc9fa92126a132d4325b5cd402165d7eea8dc": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "వెన్నుపోటు దినం",
+     "type": "Issue",
+     "english_name": "Backstabbing Day"
+    },
+    {
+     "name": "మోసాలు, అబద్ధాల మధ్య చంద్రబాబుగారి పాలన కొనసాగుతోంది",
+     "type": "Claim",
+     "english_name": "మోసాలు, అబద్ధాల మధ్య చంద్రబాబుగారి పాలన కొనసాగుతోంది"
+    },
+    {
+     "name": "అణిచివేత అన్న పదానికి నిజంగా ఒక నిర్వచనంలా మారారు",
+     "type": "Claim",
+     "english_name": "అణిచివేత అన్న పదానికి నిజంగా ఒక నిర్వచనంలా మారారు"
+    },
+    {
+     "name": "ప్రతిపక్ష నాయకుడు ప్రజల్ని కలవడానికి వెళ్లినప్పుడు గానీ, లేదా పార్టీ నాయకుల్ని పరామర్శించడానికి వెళ్లినప్పుడు గానీ ఎందుకు ఇటువంటి ఆంక్షలు విధించాలి",
+     "type": "Claim",
+     "english_name": "ప్రతిపక్ష నాయకుడు ప్రజల్ని కలవడానికి వెళ్లినప్పుడు గానీ, లేదా పార్టీ నాయకుల్ని పరామర్శించడానికి వెళ్లినప్పుడు గానీ ఎందుకు ఇటువంటి ఆంక్షలు విధించాలి"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మోసాలు, అబద్ధాల మధ్య చంద్రబాబుగారి పాలన కొనసాగుతోంది",
+     "evidence": "రాష్ట్రంలో ఈరోజు దిగజారిపోయిన లా అండ్‌ ఆర్డర్‌ పరిస్థితులు, పాలనా వైఫల్యాలు, మోసాలు, అబద్ధాల మధ్య చంద్రబాబుగారి పాలన కొనసాగుతోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అణిచివేత అన్న పదానికి నిజంగా ఒక నిర్వచనంలా మారారు",
+     "evidence": "చంద్రబాబు... అణిచివేత అన్న పదానికి నిజంగా ఒక నిర్వచనంలా మారారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతిపక్ష నాయకుడు ప్రజల్ని కలవడానికి వెళ్లినప్పుడు గానీ, లేదా పార్టీ నాయకుల్ని పరామర్శించడానికి వెళ్లినప్పుడు గానీ ఎందుకు ఇటువంటి ఆంక్షలు విధించాలి",
+     "evidence": "ప్రతిపక్ష నాయకుడు ప్రజల్ని కలవడానికి వెళ్లినప్పుడు గానీ, లేదా పార్టీ నాయకుల్ని పరామర్శించడానికి వెళ్లినప్పుడు గానీ ఎందుకు ఇటువంటి ఆంక్షలు విధించాలి అని అడుగుతున్నా."
+    }
+   ]
+  },
+  "0d0b432763aefbcac0d0a2d9103aed82f07c9d81": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "పెట్రోలియం ప్లానింగ్‌ అండ్‌ అనాలసిస్‌ సెల్",
+     "type": "Organization",
+     "english_name": "Petroleum Planning and Analysis Cell"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": "RTC"
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Scheme",
+     "english_name": "Free bus for women"
+    },
+    {
+     "name": "పెన్షన్‌",
+     "type": "Scheme",
+     "english_name": "Pension scheme for SC/ST/BC/minority women"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadatha Sukhibhava"
+    },
+    {
+     "name": "గ్యాస్‌ కనెక్షన్ల బడ్జెట్ కేటాయింపు",
+     "type": "Issue",
+     "english_name": "Gas cylinder subsidy budget allocation"
+    },
+    {
+     "name": "ఉచిత బస్సు పథకం",
+     "type": "Issue",
+     "english_name": "Free bus scheme"
+    },
+    {
+     "name": "పెన్షన్‌ పథకం",
+     "type": "Issue",
+     "english_name": "Pension scheme"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ పథకం",
+     "type": "Issue",
+     "english_name": "Annadatha Sukhibhava scheme"
+    },
+    {
+     "name": "మిగిలిన రూ. 3244 కోట్లు ఇవ్వకుండా చేసింది మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పండగలు మారినా ఉచిత బస్సు రాలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పెన్షన్‌. పచ్చి మోసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఒక్కరికి కూడా అన్నదాత సుఖీభవ ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మిగిలిన రూ. 3244 కోట్లు ఇవ్వకుండా చేసింది మోసం కాదా?",
+     "evidence": "మిగిలిన రూ. 3244 కోట్లు ఇవ్వకుండా చేసింది మోసం కాదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పండగలు మారినా ఉచిత బస్సు రాలేదు",
+     "evidence": "పండగలు మారినా ఉచిత బస్సు రాలేదు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పెన్షన్‌. పచ్చి మోసం",
+     "evidence": "పెన్షన్‌. పచ్చి మోసం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఒక్కరికి కూడా అన్నదాత సుఖీభవ ఇవ్వలేదు",
+     "evidence": "ఒక్కరికి కూడా అన్నదాత సుఖీభవ ఇవ్వలేదు"
+    },
+    {
+     "source": "ఉచిత బస్సు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఉచిత బస్సు పథకం",
+     "evidence": "ఉచిత బస్సు"
+    },
+    {
+     "source": "పెన్షన్‌",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పెన్షన్‌ పథకం",
+     "evidence": "పెన్షన్‌"
+    },
+    {
+     "source": "అన్నదాత సుఖీభవ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అన్నదాత సుఖీభవ పథకం",
+     "evidence": "అన్నదాత సుఖీభవ"
+    }
+   ]
+  },
+  "f9b8cb92e0c315fdd8370792569712d92df5eb0f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మా పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "చెవిరెడ్డి భాస్కర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్‌ కేసు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు పెడుతున్న తప్పుడు కేసులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చెవిరెడ్డి భాస్కర్‌రెడ్డిని అరెస్టు చేయడం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు పెడుతున్న తప్పుడు కేసులు",
+     "evidence": "ఏడాది కాలంగా మా పార్టీ నాయకులపై చంద్రబాబు పెడుతున్న తప్పుడు కేసులు చూస్తే అర్థం అవుతుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చెవిరెడ్డి భాస్కర్‌రెడ్డిని అరెస్టు చేయడం",
+     "evidence": "చెవిరెడ్డి భాస్కర్‌రెడ్డిని అరెస్టు చేయడం. ఇది నిజంగా ఆశ్చర్యం కలిగించే విషయం."
+    }
+   ]
+  },
+  "8a5d6b314d64809288b81c56455dcd9a164fbc17": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "ఏపీపీఎఫ్‌సీ",
+     "type": "Organization",
+     "english_name": "APPPFC"
+    },
+    {
+     "name": "ఏపీ మార్క్‌ఫెడ్‌",
+     "type": "Organization",
+     "english_name": "AP Markfed"
+    },
+    {
+     "name": "సివిల్‌ సప్లయ్‌స్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "Civil Supplies Corporation"
+    },
+    {
+     "name": "ఏపీఎండీసీ బాండ్స్‌",
+     "type": "Organization",
+     "english_name": "APMDDC Bonds"
+    },
+    {
+     "name": "వరల్డ్‌ బ్యాంక్",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "ఏషియన్‌ డెవలప్‌మెంట్‌",
+     "type": "Organization",
+     "english_name": "Asian Development"
+    },
+    {
+     "name": "హుడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "కెఎఫ్‌డబ్ల్యూ జర్మనీ",
+     "type": "Organization",
+     "english_name": "KFW Germany"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ప్రజలకు ఇచ్చిన వాగ్దానాలు ఎగవేయడానికి చంద్రబాబు, ఆయన అనుకూల ఎల్లో మీడియా రకరకాల స్కెచ్‌లు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సంపద సృష్టిస్తానన్నాడు. తన కళ్లెదుటే ఆవిరి. ఆ సంపద తన జేబులోకి, తనకు సంబంధించిన వారి జేబుల్లోకి పోతోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర చరిత్రలో ఎన్నడూ లేని విధంగా, ఎప్పుడూ చూడని విధంగా ఏడాది కాలంలోనే దారుణ అప్పులు చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర జీఎస్‌డీపీలో మా హయాంలో అప్పుల శాతం 4.08 శాతం అయితే, చంద్రబాబు పాలనలో ఏడాది కాలంలో అది ఏకంగా 5.12 శాతం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర స్థూల ఉత్పత్తిలో రెవెన్యూ లోటు చూస్తే, మా హయాంలో అది 2.65 శాతం అయితే (అప్పుడు రెండేళ్లు కోవిడ్‌ ఉంది) అది ఇప్పుడు ఏకంగా 3.61 శాతం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2024–25 సంవత్సరం ముగిసే నాటికి రూ.81,597 కోట్లు. ఏప్రిల్, మే మాసాల్లో 22,500 కోట్లు. జూన్‌లో చేసిన అప్పులు మరో 14 వేల కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "49018cbe29cc18e4178e553e0364cb88ff0e865f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కొమ్మినేని శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "Kommineni Srinivasarao"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "శ్రీ సత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": "Sri Sathya Sai district"
+    },
+    {
+     "name": "రాప్తాడు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Rapthadu constituency"
+    },
+    {
+     "name": "రామగిరి మండలం",
+     "type": "Place",
+     "english_name": "Ramagiri mandal"
+    },
+    {
+     "name": "ఏడుగుర్రాలపల్లి",
+     "type": "Place",
+     "english_name": "Aregallapalli"
+    },
+    {
+     "name": "Chandrababu's manifesto",
+     "type": "Issue",
+     "english_name": "Chandrababu's manifesto"
+    },
+    {
+     "name": "Media suppression",
+     "type": "Issue",
+     "english_name": "Media suppression"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సాక్షి",
+     "evidence": "చంద్రబాబు బాధ్యుడు కాదా?"
+    }
+   ]
+  },
+  "84b743bb13f8cd4977a33ebb4eaf9b942259d88b": {
+   "entities": [
+    {
+     "name": "జీవో నెంబర్‌ 69",
+     "type": "Scheme",
+     "english_name": "GO No. 69"
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "AP government"
+    },
+    {
+     "name": "ఏపీఎండీసీ",
+     "type": "Organization",
+     "english_name": "APMD"
+    },
+    {
+     "name": "ప్రైవేటు వ్యక్తులు లేదా కంపెనీ",
+     "type": "Organization",
+     "english_name": "private individuals or company"
+    },
+    {
+     "name": "కన్సాలిడేటెడ్‌ ఫండ్‌",
+     "type": "Organization",
+     "english_name": "Consolidated Fund"
+    },
+    {
+     "name": "439 మైన్లు",
+     "type": "Organization",
+     "english_name": "439 mines"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "షర్మిల",
+     "type": "Person",
+     "english_name": "Sharmila"
+    },
+    {
+     "name": "కేసీఆర్‌ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "KCR government"
+    },
+    {
+     "name": "బనకచర్ల ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "Banakacherla project"
+    },
+    {
+     "name": "గోదావరి",
+     "type": "Place",
+     "english_name": "Godavari"
+    },
+    {
+     "name": "శ్రీశైలం",
+     "type": "Place",
+     "english_name": "Srisailam"
+    },
+    {
+     "name": "నాగార్జున సాగర్‌",
+     "type": "Place",
+     "english_name": "Nagarjuna Sagar"
+    },
+    {
+     "name": "రాయలసీమ",
+     "type": "Place",
+     "english_name": "Rayalaseema"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    },
+    {
+     "name": "పోలవరం కెనాల్‌",
+     "type": "Place",
+     "english_name": "Polavaram canal"
+    },
+    {
+     "name": "పోలవరం కుడికాలువ",
+     "type": "Place",
+     "english_name": "Polavaram right canal"
+    },
+    {
+     "name": "కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna"
+    }
+   ],
+   "relations": []
+  },
+  "13b8990eb053d09364bf44d7b774783a5d882056": {
+   "entities": [
+    {
+     "name": "పల్నాడు",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "సీఐ రాజేష్‌",
+     "type": "Person",
+     "english_name": "CI Rajesh"
+    },
+    {
+     "name": "వెంకటేశ్వర్లు",
+     "type": "Person",
+     "english_name": "Venkateswarlu"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "దండయాత్ర చేశారని ఆరోపిస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసుల వేధింపుల వల్ల చనిపోయిన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కోర్టు ఆదేశించినా కేసు నమోదు చేయలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సీఐ రాజేష్‌ మీద ప్రైవేట్‌ కంప్లైంట్‌ లాంచ్‌ చేసి కోర్టు నుంచి ఉత్తర్వులు తెచ్చినా కేసు కట్టలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆయన పెట్టింది తన కొడుకు విగ్రహం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కర్ఫ్యూ వాతావరణం తీసుకురావడం తప్పు కాదా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ ఇంటిలో ఉన్న పెద్దాయన వెంకటేశ్వర్లు మీద కేసు పెట్టడం ఎంతవరకు ధర్మం ఇది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రెడ్‌ బుక్‌ రాజ్యాంగం నడుస్తా ఉంది",
+     "type": "Claim",
+     "english_name": "Red Book Constitution is running"
+    },
+    {
+     "name": "లా అండ్‌ ఆర్డర్‌ సమస్యలు",
+     "type": "Issue",
+     "english_name": "Law and order problems"
+    },
+    {
+     "name": "రైతు సమస్యలు",
+     "type": "Issue",
+     "english_name": "Farmers' problems"
+    },
+    {
+     "name": "ప్రెస్",
+     "type": "Organization",
+     "english_name": "Press"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రెడ్‌ బుక్‌ రాజ్యాంగం నడుస్తా ఉంది",
+     "evidence": "రెడ్‌ బుక్‌ రాజ్యాంగం నడుస్తా ఉంది అని చెప్పడానికి ఇది ఒక నిధర్శనం"
+    }
+   ]
+  },
+  "67ef10755af1af0f44ebbbee8faac572a32e6255": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు మాన్యుఫెస్టో",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "త్రికరణ శుద్ధితో ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని ఇచ్చినాడయ్యా ఈ బాండూ",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "త్రికరణ శుద్ధితో ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని ఇచ్చినాడయ్యా ఈ బాండూ",
+     "evidence": "త్రికరణ శుద్ధితో ప్రజలు నాపై ఉంచిన నమ్మకాన్ని నిలబెట్టుకుంటానని ఇచ్చినాడయ్యా ఈ బాండూ"
+    }
+   ]
   }
  }
 }

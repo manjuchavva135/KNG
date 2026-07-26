@@ -1,0 +1,56 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7fab31a267d9a65d2e2974dfa9c93f5c2d9f7971": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "రాష్ట్ర, జిల్లా స్థాయి ప్రధాన రోడ్లు",
+     "type": "Place",
+     "english_name": "State and district level main roads"
+    },
+    {
+     "name": "జాతీయ రహదారులు",
+     "type": "Place",
+     "english_name": "National highways"
+    },
+    {
+     "name": "ఎంఎల్ఏలు",
+     "type": "Person",
+     "english_name": "MLAs"
+    },
+    {
+     "name": "ఉభయ గోదావరి జిల్లాలు",
+     "type": "Place",
+     "english_name": "Both Godavari districts"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "సిఎం",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "వాజ్పేయి",
+     "type": "Person",
+     "english_name": "Vajpayee"
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Baboo"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

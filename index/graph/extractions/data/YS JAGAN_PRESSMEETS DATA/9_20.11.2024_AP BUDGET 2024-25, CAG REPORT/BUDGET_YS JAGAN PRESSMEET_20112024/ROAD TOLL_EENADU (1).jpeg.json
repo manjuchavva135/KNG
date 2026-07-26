@@ -1,0 +1,348 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "826677a4f836fc8e287bba1a5c493e816b5a2aae": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "ప్రధాని మోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Modi"
+    },
+    {
+     "name": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్",
+     "type": "Person",
+     "english_name": "Finance Minister Nirmala Sitharaman"
+    },
+    {
+     "name": "కేంద్ర జలవనరులశాఖ మంత్రి సీఆర్ పాటిల్",
+     "type": "Person",
+     "english_name": "Union Water Resources Minister CR Patil"
+    },
+    {
+     "name": "జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వెలిగొండ ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Veligonda Project"
+    },
+    {
+     "name": "సభాపతి అయ్యన్నపాత్రుడు",
+     "type": "Person",
+     "english_name": "Speaker Achannaidu"
+    },
+    {
+     "name": "ఉత్తరాంధ్ర సుజల స్రవంతి ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Uttara Andhra Sujala Sravanthi Project"
+    },
+    {
+     "name": "వంశధార",
+     "type": "Organization",
+     "english_name": "Vamsadhara"
+    },
+    {
+     "name": "నాగావళి",
+     "type": "Organization",
+     "english_name": "Nagawaali"
+    },
+    {
+     "name": "గోదావరి డెల్టా ఆధునికీకరణ",
+     "type": "Scheme",
+     "english_name": "Godavari Delta Modernization"
+    },
+    {
+     "name": "నాగార్జునసాగర్ ఎడమ కాలువ",
+     "type": "Organization",
+     "english_name": "Nagarjuna Sagar Left Canal"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "పోలవరం ప్రాజెక్టు",
+     "evidence": "మాజీ ముఖ్యమంత్రి జగన్మోహన్ రెడ్డి అవగాహనారాహిత్యం, మూర్ఖత్వం, చేతగానితంతో.. పోలవరం ప్రాజెక్టులో 15 నెలలపాటు పనులు నిలిపేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6a2797820fbead3174b3d8efffbd065ceaab330b": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఎంమిగనూరు",
+     "type": "Place",
+     "english_name": "Emmi Gunduru"
+    },
+    {
+     "name": "మంత్రాలయం",
+     "type": "Place",
+     "english_name": "Mantralayam"
+    },
+    {
+     "name": "ఆదోని",
+     "type": "Place",
+     "english_name": "Adoni"
+    },
+    {
+     "name": "కోడుమూరు",
+     "type": "Place",
+     "english_name": "Kodumur"
+    },
+    {
+     "name": "తుంగభద్ర",
+     "type": "Place",
+     "english_name": "Tungabhadra"
+    },
+    {
+     "name": "హంద్రీ నీవా",
+     "type": "Organization",
+     "english_name": "Handri Neeva"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "మడకశిర",
+     "type": "Place",
+     "english_name": "Madakashira"
+    },
+    {
+     "name": "బైరవానితిప్ప",
+     "type": "Organization",
+     "english_name": "Byravanithippa"
+    },
+    {
+     "name": "పేరూరు ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Peruru Project"
+    },
+    {
+     "name": "తూర్పు, పశ్చిమగోదావరి జిల్లాలు",
+     "type": "Place",
+     "english_name": "East and West Godavari districts"
+    },
+    {
+     "name": "రహదారులు",
+     "type": "Organization",
+     "english_name": "Roads"
+    },
+    {
+     "name": "రామానాయుడు",
+     "type": "Person",
+     "english_name": "Ramanaidu"
+    },
+    {
+     "name": "కేశవ్",
+     "type": "Person",
+     "english_name": "Keshav"
+    },
+    {
+     "name": "కన్నయ్యనాయుడు",
+     "type": "Person",
+     "english_name": "Kannayya Naidu"
+    },
+    {
+     "name": "బస్సులు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "లారీలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "భారీ వాహనాలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ద్విచక్రవాహనాలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆటోలు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ట్రాక్టర్లు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గోతులు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "జలాశయం",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "జగన్ అవగాహనారాహిత్యమేంటో తెలిసింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4a29d60a10a3081c6e332236d33f918efac38fce": {
+   "entities": [
+    {
+     "name": "ఉమ్మడి కృష్ణా జిల్లా భూములు",
+     "type": "Place",
+     "english_name": "Kurnool district lands"
+    },
+    {
+     "name": "నీరిస్తామన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2025 జనవరి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2026",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2026 ఫిబ్రవరి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎర్త్ కమ్ రాక్ఫెల్ డ్యామ్ గ్యాప్-1",
+     "type": "Place",
+     "english_name": "Earth cum rockfill dam gap-1"
+    },
+    {
+     "name": "2027 డిసెంబరు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్యాప్-2",
+     "type": "Place",
+     "english_name": "gap-2"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైకాపా మంత్రి",
+     "type": "Person",
+     "english_name": "YSRCP minister"
+    },
+    {
+     "name": "టీఎంసీ",
+     "type": "Organization",
+     "english_name": "TMC"
+    },
+    {
+     "name": "క్యూసెక్కు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "జగన్ దుర్మార్గపు ఆలోచనతోనే పోలవరం నాశనం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నీరిస్తామన్నారు",
+     "evidence": "లోని ఉమ్మడి కృష్ణా జిల్లా భూములకు నీరిస్తామన్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2025 జనవరి",
+     "evidence": "2025 జనవరిలో పనులు ప్రారంభించి, 2026 మార్చికల్లా నిర్మిస్తాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2026 ఫిబ్రవరి",
+     "evidence": "2026 ఫిబ్రవరికి ఎర్త్ కమ్ రాక్ఫెల్ డ్యామ్ గ్యాప్-1, 2027 డిసెంబరు నాటికి గ్యాప్-2 పనులు పూర్తి చేస్తాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "క్యూసెక్కు",
+     "evidence": "వైకాపా మంత్రికి టీఎంసీకి, క్యూసెక్కుకు తేడా తెలియదు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

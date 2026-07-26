@@ -1,0 +1,38 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "dd2ae75ea0566f257964db8c7b4371ba278fedeb": {
+   "entities": [
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "మద్యపాన నిషేధం",
+     "type": "Scheme",
+     "english_name": "Alcohol Prohibition"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జనసేన",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మద్యపాన నిషేధం",
+     "evidence": "గ్రామాలు, గ్రామ పంచాయతీలు మాకు ఈ మందు వద్దు అనుకుంటే వాళ్ళకి అదనపు నిధులు ఇచ్చి గ్రామాలు అభివృద్ధి చేసే స్కీమ్ లాంటిది పెట్టాలి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

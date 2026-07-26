@@ -1,0 +1,117 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6dc0e6cc30fb63d0caed645a494a9e8122a840af": {
+   "entities": [
+    {
+     "name": "జీవో ఒకలా.. అమలు ఇంకోలా!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "విద్యా శాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Issue",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "జీవో ఎంఎస్‌ నం.77",
+     "type": "Scheme",
+     "english_name": "GO MS No.77"
+    },
+    {
+     "name": "మెరి టో రియస్‌ స్పోర్ట్స్‌ పర్సన్స్",
+     "type": "Scheme",
+     "english_name": "Meritorious Sports Persons"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "54cad27a433b58d934cb705c7578415c412841ef": {
+   "entities": [
+    {
+     "name": "జీవో77",
+     "type": "Organization",
+     "english_name": "GO77"
+    },
+    {
+     "name": "1:1 జాబితా",
+     "type": "Scheme",
+     "english_name": "1:1 list"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": "Horizontal reservations"
+    },
+    {
+     "name": "మహి ళలు",
+     "type": "Scheme",
+     "english_name": "Women"
+    },
+    {
+     "name": "వికలాంగులు",
+     "type": "Scheme",
+     "english_name": "Differently-abled"
+    },
+    {
+     "name": "మాజీ సైనికులు",
+     "type": "Scheme",
+     "english_name": "Ex-servicemen"
+    },
+    {
+     "name": "క్రీడాకా రు లు",
+     "type": "Scheme",
+     "english_name": "Sports persons"
+    },
+    {
+     "name": "ఓసీ",
+     "type": "Scheme",
+     "english_name": "OC"
+    },
+    {
+     "name": "సామాజిక వర్గాల (ఎస్సీ, ఎస్టీ, బీసీ, ఈడబ్లు్యఎస్‌)",
+     "type": "Scheme",
+     "english_name": "Social categories (SC, ST, BC, EWS)"
+    },
+    {
+     "name": "తాత్కాలిక ఎంపిక జాబితా",
+     "type": "Scheme",
+     "english_name": "Provisional selection list"
+    },
+    {
+     "name": "మెగా డీఎ స్సీ– 2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

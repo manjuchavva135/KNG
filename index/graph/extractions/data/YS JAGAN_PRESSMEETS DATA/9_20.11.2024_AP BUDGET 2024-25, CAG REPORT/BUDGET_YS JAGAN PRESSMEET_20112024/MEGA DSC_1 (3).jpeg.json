@@ -1,0 +1,48 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f73dca216f054ac218f73856f2cc006205a8d3cf": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "డీఎస్సీ నోటిఫికేషన్",
+     "type": "Scheme",
+     "english_name": "DSC Notification"
+    },
+    {
+     "name": "న్యాయ వివాదాలు",
+     "type": "Issue",
+     "english_name": "Legal Disputes"
+    },
+    {
+     "name": "నారా లోకేశ్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "చంద్ర బాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నారా లోకేశ్",
+     "relation": "DEFENDS",
+     "target": "డీఎస్సీ నోటిఫికేషన్",
+     "evidence": "న్యాయ వివాదాలను అధిగమించేలా నోటిఫికేషన్ ఉంటుందని ప్రకటించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -76,6 +76,116 @@
      "evidence": "అందుకే అక్కడ ఏం జరిగిందనేది స్పష్టంగా తేలితే నేను వెళ్తాను."
     }
    ]
+  },
+  "eaf5c88a2d095118db146d2c9c7ecea39874024a": {
+   "entities": [
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "CM Chandrababu",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "Shreya Singhal",
+     "type": "Person",
+     "english_name": "Shreya Singhal"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Tadepalli",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "Ontimitta",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "భావ ప్రకటన స్వేచ్ఛ",
+     "type": "Issue",
+     "english_name": "Freedom of expression"
+    },
+    {
+     "name": "సోషల్ మీడియా అంశం",
+     "type": "Issue",
+     "english_name": "Social media regulation"
+    },
+    {
+     "name": "స్థానిక ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "Local elections"
+    },
+    {
+     "name": "ఈవీఎంలు",
+     "type": "Issue",
+     "english_name": "EVMs"
+    },
+    {
+     "name": "పులివెందుల, ఒంటిమిట్ట జెడ్పీటీసీ ఉప ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "Pulivendula and Ontimitta ZPTC by-elections"
+    },
+    {
+     "name": "Freedom of expression is a fundamental right",
+     "type": "Claim",
+     "english_name": "Freedom of expression is a fundamental right"
+    },
+    {
+     "name": "State government cannot make law to regulate social media",
+     "type": "Claim",
+     "english_name": "State government cannot make law to regulate social media"
+    },
+    {
+     "name": "Supreme Court struck down amendment to IT Act",
+     "type": "Claim",
+     "english_name": "Supreme Court struck"
+    }
+   ],
+   "relations": []
   }
  }
 }

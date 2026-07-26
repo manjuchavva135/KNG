@@ -1,0 +1,136 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9fb23bdf691640828918f4784fb5860c51978382": {
+   "entities": [
+    {
+     "name": "అంబులెన్స్ల్లో మందుల లభ్యత 60% తక్కువ",
+     "type": "Claim",
+     "english_name": "Availability of medicines in ambulances is 60% less"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సోమిరెడ్డి చంద్రమోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Somireddy Chandramohan Reddy"
+    },
+    {
+     "name": "అరబిందో సంస్థ",
+     "type": "Organization",
+     "english_name": "Arbindo Pharma"
+    },
+    {
+     "name": "108, 104 వాహనాల సేవలు",
+     "type": "Issue",
+     "english_name": "108 and 104 vehicle services"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సోమిరెడ్డి చంద్రమోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "అరబిందో సంస్థ",
+     "evidence": "విజయసాయిరెడ్డి వియ్యంకుడి అరబిందో సంస్థకు గత వైకాపా ప్రభుత్వం కోట్ల రూపాయిల ప్రజాదనం దోచిపెట్టినా ఎందుకు చర్యలు తీసుకోవడం లేదని ఎమ్మెల్యే సోమిరెడ్డి చంద్రమోహన్ రెడ్డి ప్రశ్నించారు."
+    },
+    {
+     "source": "సోమిరెడ్డి చంద్రమోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అంబులెన్స్ల్లో మందుల లభ్యత 60% తక్కువ",
+     "evidence": "అంబులెన్స్ల్లో మందుల లభ్యత 60% తక్కువ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7a31a14387d1688dfad4f1c09582b3f963a95fc0": {
+   "entities": [
+    {
+     "name": "అరబిందో ఈఐ ఎంఎస్ సంస్థ",
+     "type": "Organization",
+     "english_name": "Aravindo Eye MS Institution"
+    },
+    {
+     "name": "వైకాపా ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "రాష్ట్ర వైద్య ఆరోగ్యశాఖ మంత్రి సత్యకుమార్",
+     "type": "Person",
+     "english_name": "State Health Minister Satyakumar"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "108, 104 అత్యవసర అంబులెన్స్ సేవలు",
+     "type": "Scheme",
+     "english_name": "108 and 104 Emergency Ambulance Services"
+    },
+    {
+     "name": "సోమిరెడ్డి",
+     "type": "Person",
+     "english_name": "Somireddy"
+    },
+    {
+     "name": "చంద్రమోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Chandramohan Reddy"
+    },
+    {
+     "name": "దూళిపాళ్ల నరేంద్ర",
+     "type": "Person",
+     "english_name": "Dudipaala Narendra"
+    },
+    {
+     "name": "స్పీకర్ అయ్యన్నపాత్రుడు",
+     "type": "Person",
+     "english_name": "Speaker Ayyanapatruni"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాష్ట్ర వైద్య ఆరోగ్యశాఖ మంత్రి సత్యకుమార్",
+     "relation": "ACCUSES",
+     "target": "అరబిందో ఈఐ ఎంఎస్ సంస్థ",
+     "evidence": "అరబిందో ఈఐ ఎంఎస్ సంస్థకి గత నాలుగేళ్లలో వైకాపా ప్రభుత్వం రూ.700 కోట్లు దోచిపెట్టిందని రాష్ట్ర వైద్య ఆరోగ్యశాఖ మంత్రి సత్యకుమార్ మండిపడ్డారు."
+    },
+    {
+     "source": "రాష్ట్ర వైద్య ఆరోగ్యశాఖ మంత్రి సత్యకుమార్",
+     "relation": "ACCUSES",
+     "target": "వైకాపా ప్రభుత్వం",
+     "evidence": "అరబిందో ఈఐ ఎంఎస్ సంస్థకి గత నాలుగేళ్లలో వైకాపా ప్రభుత్వం రూ.700 కోట్లు దోచిపెట్టిందని రాష్ట్ర వైద్య ఆరోగ్యశాఖ మంత్రి సత్యకుమార్ మండిపడ్డారు."
+    },
+    {
+     "source": "సోమిరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైకాపా ప్రభుత్వం",
+     "evidence": "ఎమ్మెల్యేలు సోమిరెడ్డి, చంద్రమోహన్ రెడ్డి, దూళిపాళ్ల నరేంద్ర., 108, 104 అత్యవసర సేవలపై ఇచ్చిన సావదాన తీర్మానంపై స్పీకర్ అయ్యన్నపాత్రుడు చర్చకు అనుమతించారు."
+    },
+    {
+     "source": "చంద్రమోహన్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైకాపా ప్రభుత్వం",
+     "evidence": "ఎమ్మెల్యేలు సోమిరెడ్డి, చంద్రమోహన్ రెడ్డి, దూళిపాళ్ల నరేంద్ర., 108, 104 అత్యవసర సేవలపై ఇచ్చిన సావదాన తీర్మానంపై స్పీకర్ అయ్యన్నపాత్రుడు చర్చకు అనుమతించారు."
+    },
+    {
+     "source": "దూళిపాళ్ల నరేంద్ర",
+     "relation": "MEMBER_OF",
+     "target": "వైకాపా ప్రభుత్వం",
+     "evidence": "ఎమ్మెల్యేలు సోమిరెడ్డి, చంద్రమోహన్ రెడ్డి, దూళిపాళ్ల నరేంద్ర., 108, 104 అత్యవసర సేవలపై ఇచ్చిన సావదాన తీర్మానంపై స్పీకర్ అయ్యన్నపాత్రుడు చర్చకు అనుమతించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

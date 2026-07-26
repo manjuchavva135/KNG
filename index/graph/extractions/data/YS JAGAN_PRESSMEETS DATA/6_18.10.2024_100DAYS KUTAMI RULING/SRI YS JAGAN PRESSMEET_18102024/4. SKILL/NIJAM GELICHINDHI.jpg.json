@@ -1,0 +1,43 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ff1fc19b690c14c17ede0d8fb500978fa5eddeca": {
+   "entities": [
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "జగన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు గారి",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ED",
+     "type": "Organization",
+     "english_name": "Enforcement Directorate"
+    },
+    {
+     "name": "స్కిల్ డెవలప్మెంట్",
+     "type": "Scheme",
+     "english_name": "Skill Development"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు గారి",
+     "evidence": "జగన్ రెడ్డికి చెంపపెట్టులా, చంద్రబాబు గారికి ఎటువంటి సంబంధం లేదని క్లీన్ చిట్ ఇచ్చింది ఈడి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3346fb4800c310cc124d4781311f6af9206d20c7": {
+   "entities": [
+    {
+     "name": "speaker",
+     "type": "Person",
+     "english_name": "speaker"
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "డిఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

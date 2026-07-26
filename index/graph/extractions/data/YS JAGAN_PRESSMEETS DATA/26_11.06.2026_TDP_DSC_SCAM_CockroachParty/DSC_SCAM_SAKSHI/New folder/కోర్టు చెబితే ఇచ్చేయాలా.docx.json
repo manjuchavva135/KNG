@@ -1,0 +1,336 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f3c051a375359f664f9355366d57014fc21b2821": {
+   "entities": [
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "200మందికి పైగా అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "200+ candidates"
+    },
+    {
+     "name": "మధ్యంతర ఉత్తర్వులు",
+     "type": "Claim",
+     "english_name": "Interim orders"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "కోర్టు ధిక్కరణ పిటిషన్లు",
+     "type": "Claim",
+     "english_name": "Contempt petitions"
+    },
+    {
+     "name": "చంద్ర బాబు ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "మెగా డిఎస్సీ– 2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "సర్కారు",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "కోర్టు ధిక్కరణ కేసులు",
+     "type": "Claim",
+     "english_name": "Contempt cases"
+    },
+    {
+     "name": "సర్కారు పెద్దలు",
+     "type": "Person",
+     "english_name": "Government leaders"
+    },
+    {
+     "name": "మెగా డీఎస్సీ విధానాలు",
+     "type": "Scheme",
+     "english_name": "Mega DSC policies"
+    },
+    {
+     "name": "గత వైఎస్‌ జగన్‌ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSR Jagan Government"
+    },
+    {
+     "name": "నోటిఫికేషన్‌",
+     "type": "Claim",
+     "english_name": "Notification"
+    },
+    {
+     "name": "16,347 ఉపాధ్యాయ పోస్టులు",
+     "type": "Claim",
+     "english_name": "16,347 teacher posts"
+    },
+    {
+     "name": "3,36,307 మంది అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "336,307 candidates"
+    },
+    {
+     "name": "5,77,694 దరఖా స్తులు",
+     "type": "Claim",
+     "english_name": "577,694 applications"
+    },
+    {
+     "name": "2,41,387 దరఖాస్తులు",
+     "type": "Claim",
+     "english_name": "241,387 applications"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్ర బాబు ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డిఎస్సీ– 2025",
+     "evidence": "మెగా డిఎస్సీ– 2025లో కష్టపడి సాధించుకున్న ఉపా ధ్యాయ ఉద్యోగాలను పలువురికి ఇచ్చేదిలేదు పొమ్మంది చంద్ర బాబు ప్రభుత్వం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "05b10879568fb9b077195906107875b10ba989d9": {
+   "entities": [
+    {
+     "name": "ప్రిన్సిపల్",
+     "type": "Organization",
+     "english_name": "Principal"
+    },
+    {
+     "name": "పీజీటీ",
+     "type": "Organization",
+     "english_name": "PGT"
+    },
+    {
+     "name": "టీజీటీ",
+     "type": "Organization",
+     "english_name": "TGT"
+    },
+    {
+     "name": "స్కూల్‌ అసిస్టెంట్",
+     "type": "Organization",
+     "english_name": "School Assistant"
+    },
+    {
+     "name": "ఎస్జీటీ",
+     "type": "Organization",
+     "english_name": "SGT"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "ఏఎస్సార్‌ జిల్లా",
+     "type": "Place",
+     "english_name": "Anakapalli district"
+    },
+    {
+     "name": "దుర్గాప్రసాద్‌",
+     "type": "Person",
+     "english_name": "Durga Prasad"
+    },
+    {
+     "name": "కోర్టు ధిక్కరణ పిటిషన్‌",
+     "type": "Organization",
+     "english_name": "Contempt of Court Petition"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ప్రిన్సిపల్",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "ప్రిన్సిపల్, పీజీటీ, టీజీటీ, స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ పోస్టులు ప్రాధాన్యక్రమంలో ఉంటాయి."
+    },
+    {
+     "source": "పీజీటీ",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "ప్రిన్సిపల్, పీజీటీ, టీజీటీ, స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ పోస్టులు ప్రాధాన్యక్రమంలో ఉంటాయి."
+    },
+    {
+     "source": "టీజీటీ",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "ప్రిన్సిపల్, పీజీటీ, టీజీటీ, స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ పోస్టులు ప్రాధాన్యక్రమంలో ఉంటాయి."
+    },
+    {
+     "source": "స్కూల్‌ అసిస్టెంట్",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "ప్రిన్సిపల్, పీజీటీ, టీజీటీ, స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ పోస్టులు ప్రాధాన్యక్రమంలో ఉంటాయి."
+    },
+    {
+     "source": "ఎస్జీటీ",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "ప్రిన్సిపల్, పీజీటీ, టీజీటీ, స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ పోస్టులు ప్రాధాన్యక్రమంలో ఉంటాయి."
+    },
+    {
+     "source": "హైకోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "తూర్పుగోదావరి జిల్లాకు చెందిన 11 మంది డీఎస్సీ అభ్యర్థులు వేసిన కోర్టు ధిక్కరణ పిటిషన్‌ (నం.4203/2025)"
+    },
+    {
+     "source": "కోర్టు ధిక్కరణ పిటిషన్‌",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "తూర్పుగోదావరి జిల్లాకు చెందిన 11 మంది డీఎస్సీ అభ్యర్థులు వేసిన కోర్టు ధిక్కరణ పిటిషన్‌ (నం.4203/2025)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "746ac41745a6830d8730be63d463e76bedfba641": {
+   "entities": [
+    {
+     "name": "రవీంద్రకుమార్‌",
+     "type": "Person",
+     "english_name": "Ravindra Kumar"
+    },
+    {
+     "name": "ఎం.మోహన్‌",
+     "type": "Person",
+     "english_name": "M. Mohan"
+    },
+    {
+     "name": "అల్లూరి సీతారామరాజు జిల్లా",
+     "type": "Place",
+     "english_name": "Alluri Sitharama Raju district"
+    },
+    {
+     "name": "దుర్గాప్రసాద్‌",
+     "type": "Person",
+     "english_name": "Durga Prasad"
+    },
+    {
+     "name": "తిరుపతి జిల్లా",
+     "type": "Place",
+     "english_name": "Tirupati district"
+    },
+    {
+     "name": "ఎ.శిరీష",
+     "type": "Person",
+     "english_name": "A. Shirisha"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "జి.రాజేశ్‌ దినకర్‌",
+     "type": "Person",
+     "english_name": "G. Rajesh Dinakar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5db4da4ccd020ce91a089bb81351c5c817e4458d": {
+   "entities": [
+    {
+     "name": "స్థానం ఆగ్రహం",
+     "type": "Issue",
+     "english_name": "Position Anger"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "విద్యా శాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "తూర్పు గోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur district"
+    },
+    {
+     "name": "వైఎస్సార్‌ కడప జిల్లా",
+     "type": "Place",
+     "english_name": "YSR Kadapa district"
+    },
+    {
+     "name": "గొల్ల రెడ్డమ్మ",
+     "type": "Person",
+     "english_name": "Gollareddamma"
+    },
+    {
+     "name": "బి.సరస్వతి",
+     "type": "Person",
+     "english_name": "B. Saraswathi"
+    },
+    {
+     "name": "శ్రీకాంత్‌ రాయల్‌",
+     "type": "Person",
+     "english_name": "Srikant Royal"
+    },
+    {
+     "name": "విజయరామరాజు",
+     "type": "Person",
+     "english_name": "Vijayaramaraju"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీఎస్సీ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "స్థానం ఆగ్రహం",
+     "evidence": "డీఎస్సీలో ఉన్నత ఉద్యోగాలు సాధించినా, ఆప్షన్‌ ఇవ్వ లేదన్న కారణంతో 54 మందిని ఎస్జీటీలుగా పరి గణించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a37f13286d72afbe0f9abed26eb88059b5d9ff54": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "కోన శశిధర్‌",
+     "type": "Person",
+     "english_name": "Kona Sasidhar"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Sports DSC"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ కాంట్రాక్టు అవుట్‌ సోర్సింగ్‌ ఉద్యోగి నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కోన శశిధర్‌",
+     "relation": "DEFENDS",
+     "target": "మెగా డీఎస్సీ–2025",
+     "evidence": "మెగా డీఎస్సీ–2025ను అత్యంత పారదర్శకంగా నిర్వహించామని విద్యా శాఖ కార్యదర్శి కోన శశిధర్‌ చెప్పుకొచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b511322e8d0c250e05e46e53c69e432c0810e1a5": {
+   "entities": [
+    {
+     "name": "కార్యదర్శి",
+     "type": "Person",
+     "english_name": "Secretary"
+    },
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3b09ac52b4ca3d40b3611a9267645d9100f412c2": {
+   "entities": [
+    {
+     "name": "విజయనగరానికి చెందిన మరో క్రీడాకారుడు",
+     "type": "Person",
+     "english_name": "Athlete from Vijayanagaram"
+    },
+    {
+     "name": "ఏపీ డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "AP DSC"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ పోస్టల్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Central Government Postal Department"
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "పాఠశాల విద్యా శాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "df40daf19027fa9084f46149c50d9d1edd9ad39b": {
+   "entities": [
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "ఏలూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Eluru district"
+    },
+    {
+     "name": "ఏజెన్సీ ఏరియా",
+     "type": "Place",
+     "english_name": "Agency area"
+    },
+    {
+     "name": "పీఈటీ",
+     "type": "Person",
+     "english_name": "PET"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "పోస్టల్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Postal Department"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

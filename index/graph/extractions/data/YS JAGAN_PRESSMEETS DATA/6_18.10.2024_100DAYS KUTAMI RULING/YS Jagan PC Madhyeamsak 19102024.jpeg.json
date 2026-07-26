@@ -1,0 +1,433 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "051053335375e4a71f021c513502682efb52cd7f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సచిన్ టెండూల్కర్",
+     "type": "Person",
+     "english_name": "Sachin Tendulkar"
+    },
+    {
+     "name": "విరాట్ కోహ్లీ",
+     "type": "Person",
+     "english_name": "Virat Kohli"
+    },
+    {
+     "name": "మహేష్బాబు",
+     "type": "Person",
+     "english_name": "Mahesh Babu"
+    },
+    {
+     "name": "బాలకృష్ణ",
+     "type": "Person",
+     "english_name": "Balakrishna"
+    },
+    {
+     "name": "మద్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "చంద్రబాబు వాస్తవాలను వక్రీకరించి మా హయాంలో విక్రయించిన మద్యం తక్కువ క్వాలిటీది అంటారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మద్యం మాఫియా",
+     "evidence": "మరోవైపు ఓ పద్ధతి ప్రకారం మద్యం మాఫియాకు తెరతీశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మద్యం మాఫియా",
+     "evidence": "సొంత మాఫియా సభ్యులకు, సిండికేట్కు షాపులన్నీ కట్టబెట్టారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "31f5c5baecba2f9395ec79677409b37898a24670": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మద్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "కిడ్నాప్లు",
+     "type": "Claim",
+     "english_name": "Kidnappings"
+    },
+    {
+     "name": "దాడులు",
+     "type": "Claim",
+     "english_name": "Attacks"
+    },
+    {
+     "name": "చీప్ లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Cheap Liquor Scam"
+    },
+    {
+     "name": "మద్యం పాలసీ",
+     "type": "Scheme",
+     "english_name": "Liquor Policy"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "షాపులు",
+     "type": "Organization",
+     "english_name": "Shops"
+    },
+    {
+     "name": "డిస్టిలరీలు",
+     "type": "Organization",
+     "english_name": "Distilleries"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Person",
+     "english_name": "MLAs"
+    },
+    {
+     "name": "మాఫియా ముఠా",
+     "type": "Organization",
+     "english_name": "Mafia Gang"
+    },
+    {
+     "name": "ప్రజల జీవితాలు",
+     "type": "Claim",
+     "english_name": "People's lives"
+    },
+    {
+     "name": "ప్రజల ప్రాణాలు",
+     "type": "Claim",
+     "english_name": "People's lives"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మద్యం మాఫియా",
+     "evidence": "చంద్రబాబు హయాంలో మద్యం మాఫియాను చూస్తుంటే ఏ స్థాయిలో దోపిడీ జరుగుతోందో అర్థమవుతోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కిడ్నాప్లు",
+     "evidence": "కిడ్నాప్లు, దాడులు ఎందుకు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "దాడులు",
+     "evidence": "కిడ్నాప్లు, దాడులు ఎందుకు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మద్యం పాలసీ",
+     "evidence": "చంద్రబాబు కొత్త మద్యం పాలసీ!"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజల జీవితాలు",
+     "evidence": "ప్రజల జీవితాలతోనే కాదు ప్రాణాలతోనూ చెలగాటమాడతారా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజల ప్రాణాలు",
+     "evidence": "ప్రజల జీవితాలతోనే కాదు ప్రాణాలతోనూ చెలగాటమాడతారా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8054291275e6addaf5ab04358c1560feedc17542": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "baf35a3eef9476de7c77afe5a74084aeb1cfda88": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "మద్యం విక్రయాలు",
+     "type": "Issue",
+     "english_name": "Liquor Sales"
+    },
+    {
+     "name": "ఆదాయం",
+     "type": "Issue",
+     "english_name": "Revenue"
+    },
+    {
+     "name": "బీరు",
+     "type": "Issue",
+     "english_name": "Beer Sales"
+    },
+    {
+     "name": "2014-15",
+     "type": "Organization",
+     "english_name": "2014-15"
+    },
+    {
+     "name": "2019",
+     "type": "Organization",
+     "english_name": "2019"
+    },
+    {
+     "name": "2018-19",
+     "type": "Organization",
+     "english_name": "2018-19"
+    },
+    {
+     "name": "2019",
+     "type": "Organization",
+     "english_name": "2019"
+    },
+    {
+     "name": "2024",
+     "type": "Organization",
+     "english_name": "2024"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c1535738e45693601628b346b491f1c663d725db": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "చీప్ లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Cheap Liquor Scam"
+    },
+    {
+     "name": "మద్యం స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "టైమింగ్స్",
+     "type": "Scheme",
+     "english_name": "Timings"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "లిక్కర్ షాపు",
+     "type": "Organization",
+     "english_name": "Liquor shop"
+    },
+    {
+     "name": "నైయస్సార్సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "NYSARCCP government"
+    },
+    {
+     "name": "2019-24",
+     "type": "Issue",
+     "english_name": "2019-24"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "టైమింగ్స్",
+     "evidence": "రాత్రి 9 తర్వాత లిక్కర్ షాపులు నడపకూడదని రూల్ తీసుకొచ్చాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aa5892a55cf88f2b06f2562c18bfa8a30d287f97": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మళ్లీ మందు.. దందా",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "లిక్కర్ క్వాలిటీతో పాటు ప్రభుత్వానికి వచ్చే ఆదాయాన్ని తగ్గించే ఎత్తుగడ",
+     "type": "Claim",
+     "english_name": "Liquor quality and revenue reduction scheme"
+    },
+    {
+     "name": "మాజీ సీఎం వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Former CM Y.S. Jagan"
+    },
+    {
+     "name": "విక్రయాలు పెంచేసి లంచాలతో సొంత ఆదాయార్జనే బాబు కొత్త మద్యం పాలసీ",
+     "type": "Claim",
+     "english_name": "New liquor policy for sales and bribes"
+    },
+    {
+     "name": "మద్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "షాపులన్నీ కట్టబెట్టారు",
+     "type": "Claim",
+     "english_name": "Shops allotted to mafia"
+    },
+    {
+     "name": "గతంలో రూ.120కి లభ్యమైన క్వార్టర్ మద్యం నేడు రూ.130కి అమ్ముతున్నారు",
+     "type": "Claim",
+     "english_name": "Price increase of liquor"
+    },
+    {
+     "name": "నాడు నాసిరకం.. ధరలు ఎక్కువ అంటూ దుష్ప్రచారం.. నేడు పేదల జేబులు లూటీ",
+     "type": "Claim",
+     "english_name": "False propaganda and looting of poor"
+    },
+    {
+     "name": "రాష్ట్రంలో 20 డిస్టిలరీస్ ఉంటే 14 డిస్టిలరీలకు చంద్రబాబు హయాంలోనే అనుమతులు",
+     "type": "Claim",
+     "english_name": "Distilleries approvals under Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ హయాంలో ఒక్కటంటే ఒక్క డిస్టిలరీకి కూడా అనుమతి ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": "No distillery approvals under YSRCP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పాలనలో మద్యం సిండికేట్ దోపిడీ ఏ స్థాయిలో ఉందంటే..."
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "మద్యం మాఫియా",
+     "evidence": "రాష్ట్రంలో మళ్లీ ఓ పద్ధతి ప్రకారం మద్యం మాఫియాకు సీఎం చంద్రబాబు తెర తీశారని"
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "లిక్కర్ క్వాలిటీతో పాటు ప్రభుత్వానికి వచ్చే ఆదాయాన్ని తగ్గించే ఎత్తుగడ",
+     "evidence": "మద్యం రేటు తగ్గించి... తద్వారా మద్యం క్వాలిటీ తగ్గించి... తద్వారా ప్రభుత్వానికి వచ్చే ఆదాయం తగ్గించి.. డిస్టలరీలకు మాత్రం వ్యాల్యూమ్స్ పెంచి లంచాల రూపంలో తన సొంత ఆదాయాన్ని పెంచుకుంటూ..."
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "విక్రయాలు పెంచేసి లంచాలతో సొంత ఆదాయార్జనే బాబు కొత్త మద్యం పాలసీ",
+     "evidence": "విక్రయాలు పెంచేసి లంచాలతో సొంత ఆదాయార్జనే బాబు కొత్త మద్యం పాలసీ"
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "షాపులన్నీ కట్టబెట్టారు",
+     "evidence": "ప్రభుత్వ రంగంలో ఉన్న షాపులను రద్దు చేసి తన మాఫియా సామ్రాజ్యానికి ఆ షాపులను కట్టబెట్టారు."
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "గతంలో రూ.120కి లభ్యమైన క్వార్టర్ మద్యం నేడు రూ.130కి అమ్ముతున్నారు",
+     "evidence": "గతంలో రూ.120కి లభ్యమైన క్వార్టర్ మద్యం నేడు రూ.130కి అమ్ముతున్నారు"
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నాడు నాసిరకం.. ధరలు ఎక్కువ అంటూ దుష్ప్రచారం.. నేడు పేదల జేబులు లూటీ",
+     "evidence": "నాడు నాసిరకం.. ధరలు ఎక్కువ అంటూ దుష్ప్రచారం.. నేడు పేదల జేబులు లూటీ"
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రంలో 20 డిస్టిలరీస్ ఉంటే 14 డిస్టిలరీలకు చంద్రబాబు హయాంలోనే అనుమతులు",
+     "evidence": "రాష్ట్రంలో 20 డిస్టిలరీస్ ఉంటే 14 డిస్టిలరీలకు చంద్రబాబు హయాంలోనే అనుమతులు"
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "వైఎస్సార్సీపీ హయాంలో ఒక్కటంటే ఒక్క డిస్టిలరీకి కూడా అనుమతి ఇవ్వలేదు",
+     "evidence": "వైఎస్సార్సీపీ హయాంలో ఒక్కటంటే ఒక్క డిస్టిలరీకి కూడా అనుమతి ఇవ్వలేదు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

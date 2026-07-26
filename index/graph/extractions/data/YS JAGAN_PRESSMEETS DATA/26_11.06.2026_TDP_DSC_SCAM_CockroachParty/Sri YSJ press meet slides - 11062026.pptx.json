@@ -1,0 +1,47 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "527cdf6b42f88e46fdcecee60ec9315bf17aea98": {
+   "entities": [
+    {
+     "name": "Rule 20",
+     "type": "Scheme",
+     "english_name": "Rule 20"
+    },
+    {
+     "name": "Scheme of Selection Rules",
+     "type": "Scheme",
+     "english_name": "Scheme of Selection Rules"
+    },
+    {
+     "name": "Merit cum Roster list",
+     "type": "Claim",
+     "english_name": "Merit cum Roster list"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "58e22ab1172784f2c4a28b4aa4b1b63f8881a3d5": {
+   "entities": [
+    {
+     "name": "GO amending Sports Policy",
+     "type": "Organization",
+     "english_name": "GO amending Sports Policy"
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Organization",
+     "english_name": "TDP alliance Government"
+    },
+    {
+     "name": "qualifying marks",
+     "type": "Claim",
+     "english_name": "qualifying marks"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

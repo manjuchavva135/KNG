@@ -1,0 +1,397 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b05c772f2b502a91cbd0005c9f2103a30cd4e5af": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "జూడో",
+     "type": "Scheme",
+     "english_name": "Judo"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3a821d1997c79a8c90afd38ac98a09846b6299ae": {
+   "entities": [
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ పోస్టుల భర్తీ",
+     "type": "Issue",
+     "english_name": "Sports quota DSC recruitment"
+    },
+    {
+     "name": "సాఫ్ట్‌బాల్‌ అసోసియేషన్‌ ఆఫ్‌ ఇండియా",
+     "type": "Organization",
+     "english_name": "Softball Association of India"
+    },
+    {
+     "name": "ఏపీ సాఫ్ట్‌బాల్‌ అసోసియేషన్‌",
+     "type": "Organization",
+     "english_name": "AP Softball Association"
+    },
+    {
+     "name": "మయాస్‌",
+     "type": "Organization",
+     "english_name": "MYAS"
+    },
+    {
+     "name": "ఇండియన్‌ ఒలింపిక్‌ అసోసియేషన్‌",
+     "type": "Organization",
+     "english_name": "Indian Olympic Association"
+    },
+    {
+     "name": "టీడీపీ ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "TDP MLA"
+    },
+    {
+     "name": "శాప్‌ అధికారులు",
+     "type": "Organization",
+     "english_name": "SAP officials"
+    },
+    {
+     "name": "పారదర్శకత",
+     "type": "Issue",
+     "english_name": "Transparency"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "210c3f85a9a459c3583b77605746c2f237af4abb": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్‌",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ శాఖలు",
+     "type": "Organization",
+     "english_name": "Central Government Departments"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ క్రీడా విధానాలు",
+     "type": "Scheme",
+     "english_name": "Central Government Sports Policies"
+    },
+    {
+     "name": "మాస్టర్‌ మైండ్‌",
+     "type": "Person",
+     "english_name": "Master Mind"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కేంద్ర ప్రభుత్వ శాఖలు",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్‌",
+     "evidence": "కేంద్ర ప్రభుత్వ శాఖల్లో నేషనల్‌ చాంపియన్‌ షిప్‌లకు ప్రాధాన్యత ఇస్తే.. ఇక్కడ నేషనల్‌ గేమ్స్‌ను ముందు వరుసలో ఎందుకు పెట్టారు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "157cc8b7bc581395b9265d720039c2cc2d4d6440": {
+   "entities": [
+    {
+     "name": "37th Senior National Kho Kho Championship",
+     "type": "Scheme",
+     "english_name": "37th Senior National Kho Kho Championship"
+    },
+    {
+     "name": "36th National Games",
+     "type": "Scheme",
+     "english_name": "36th National Games"
+    },
+    {
+     "name": "S.A.R. English post",
+     "type": "Scheme",
+     "english_name": "S.A.R. English post"
+    },
+    {
+     "name": "Inter University South Zone (2008-09)",
+     "type": "Scheme",
+     "english_name": "Inter University South Zone (2008-09)"
+    },
+    {
+     "name": "Inter University South Zone tournament in Trichy",
+     "type": "Scheme",
+     "english_name": "Inter University South Zone tournament in Trichy"
+    },
+    {
+     "name": "S.G.T. post",
+     "type": "Scheme",
+     "english_name": "S.G.T. post"
+    },
+    {
+     "name": "Annual Sports Meet at Tirupati S.V. University",
+     "type": "Scheme",
+     "english_name": "Annual Sports Meet at Tirupati S.V. University"
+    },
+    {
+     "name": "South Zone Inter University tournament at Srikakulam Ambedkar University",
+     "type": "Scheme",
+     "english_name": "South Zone Inter University tournament at Srikakulam Ambedkar University"
+    },
+    {
+     "name": "7th Senior State Women Boxing Championship (Vizag)",
+     "type": "Scheme",
+     "english_name": "7th Senior State Women Boxing Championship (Vizag)"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "130ca439a333ddbdf5a42f51c5b4ba0435694e1b": {
+   "entities": [
+    {
+     "name": "సీనియర్‌ ఇంటర్‌ డిస్ట్రిక్ట్‌ జూడో చాంపియన్‌ షిప్‌",
+     "type": "Issue",
+     "english_name": "Senior Inter District Judo Championship"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "మెరిటోరియస్‌ స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Meritorious Sports Quota"
+    },
+    {
+     "name": "కేంద్ర యువ జన సర్వీసుల శాఖ",
+     "type": "Organization",
+     "english_name": "Central Youth Services Department"
+    },
+    {
+     "name": "ఇండియన్‌ ఒలింపిక్‌ అసోసియేషన్‌",
+     "type": "Organization",
+     "english_name": "Indian Olympic Association"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bcfe9540cd76aad103c11c6d0420443fcea74f39": {
+   "entities": [
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "హ్యాండ్‌ బాల్‌ కోటా",
+     "type": "Organization",
+     "english_name": "Handball quota"
+    },
+    {
+     "name": "మహిళ",
+     "type": "Person",
+     "english_name": "woman"
+    },
+    {
+     "name": "6వ ఇంటర్‌ డిస్ట్రిక్ట్‌ హ్యాండ్‌బాల్‌ చాంపియన్‌షిప్‌",
+     "type": "Scheme",
+     "english_name": "6th Inter District Handball Championship"
+    },
+    {
+     "name": "49వ సీనియర్‌ ఉమెన్‌ నేషనల్‌ హ్యాండ్‌బాల్‌ చాంపియన్‌ షిప్‌",
+     "type": "Scheme",
+     "english_name": "49th Senior Women's National Handball Championship"
+    },
+    {
+     "name": "పశ్చిమగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "West Godavari district"
+    },
+    {
+     "name": "ఖోఖో కోటా",
+     "type": "Organization",
+     "english_name": "Kho Kho quota"
+    },
+    {
+     "name": "32వ నేషనల్‌ గేమ్స్‌",
+     "type": "Scheme",
+     "english_name": "32nd National Games"
+    },
+    {
+     "name": "37వ సీనియర్‌ నేషనల్‌ ఖోఖో చాంపియన్‌ షిప్‌",
+     "type": "Scheme",
+     "english_name": "37th Senior National Kho Kho Championship"
+    },
+    {
+     "name": "గుజరాత్",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "బ్యాడ్మింటన్‌ విభాగం",
+     "type": "Organization",
+     "english_name": "Badminton category"
+    },
+    {
+     "name": "ఇంటర్‌ వర్సిటీ సౌత్‌ జోన్‌",
+     "type": "Scheme",
+     "english_name": "Inter University South Zone"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ae3a7f04ce92ba9e3233a647c6d90887c8f20ab3": {
+   "entities": [
+    {
+     "name": "కేంద్ర ప్రభుత్వ క్రీడా విధానాలు",
+     "type": "Organization",
+     "english_name": "Central Government Sports Policies"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "మాస్టర్‌ మైండ్‌",
+     "type": "Person",
+     "english_name": "Master Mind"
+    },
+    {
+     "name": "ఏ–కేటగిరీ",
+     "type": "Organization",
+     "english_name": "A-Category"
+    },
+    {
+     "name": "బీ–కేటగిరీ",
+     "type": "Organization",
+     "english_name": "B-Category"
+    },
+    {
+     "name": "రాత పరీక్ష",
+     "type": "Claim",
+     "english_name": "Written Test"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "చిత్తురు జిల్లా",
+     "type": "Place",
+     "english_name": "Chituru District"
+    },
+    {
+     "name": "క్రీడా ట్రయల్స్",
+     "type": "Claim",
+     "english_name": "Sports Trials"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "సాఫ్ట్‌బాల్",
+     "type": "Organization",
+     "english_name": "Softball"
+    },
+    {
+     "name": "ఆలిండియా ఇంటర్‌ వర్సిటీ పార్టిసిపేషన్‌ సర్టిఫికెట్",
+     "type": "Organization",
+     "english_name": "All India Inter University Participation Certificate"
+    },
+    {
+     "name": "బాల్‌ బ్యాడ్మింటన్",
+     "type": "Organization",
+     "english_name": "Ball Badminton"
+    },
+    {
+     "name": "ఖోఖో",
+     "type": "Organization",
+     "english_name": "Kho Kho"
+    },
+    {
+     "name": "హ్యాండ్‌బాల్",
+     "type": "Organization",
+     "english_name": "Handball"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "వాలీబాల్‌/బీచ్‌ వాలీబాల్‌",
+     "type": "Organization",
+     "english_name": "Volleyball/Beach Volleyball"
+    },
+    {
+     "name": "ఎస్‌ఏ హిందీ పోస్టు",
+     "type": "Organization",
+     "english_name": "SA Hindi Post"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కేంద్ర ప్రభుత్వ క్రీడా విధానాలు",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "కేంద్ర ప్రభుత్వ క్రీడా విధానాల ప్రకారం 65 క్రీడాంశాలను పెట్టినట్టు ప్రభుత్వం చెబుతోంది."
+    },
+    {
+     "source": "ఏ–కేటగిరీ",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "ఏ–కేటగిరీలో స్టేట్, ఇంటర్‌ డిస్ట్రిక్ట్‌ సర్టిఫికెట్‌ ఉంటే ఉద్యోగం ఇవ్వగా.."
+    },
+    {
+     "source": "బీ–కేటగిరీ",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "బీ–కేటగిరీలో జాతీయ స్థాయిలో పతకం సాధించిన వారికి ఉద్యోగాలు దక్కలేదని స్పష్టంగా తెలుస్తోంది."
+    },
+    {
+     "source": "చిత్తురు జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "చిత్తురు జిల్లా స్పోర్ట్స్‌ కోటా సర్టిఫికెట్లతో భారీ అవకతవకలు జరిగినట్టు విశ్వసనీయంగా తెలిసింది."
+    },
+    {
+     "source": "అనంతపురం",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "అనంతపురంలో వాలీబాల్‌/బీచ్‌ వాలీబాల్‌లో ఓ క్రీడాకారుడికి ఎస్‌ఏ హిందీ పోస్టు వచ్చింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

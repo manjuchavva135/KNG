@@ -1,0 +1,365 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a8228866a8ced385d0d00abe0460f1a7c5c83054": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "కూటమి సర్కారు",
+     "type": "Party",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "రెడ్బుక్",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "పెదకూరపాడు",
+     "type": "Place",
+     "english_name": "Pedakurapadu"
+    },
+    {
+     "name": "సాంబిరెడ్డి",
+     "type": "Person",
+     "english_name": "Sambireddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "దిశ",
+     "type": "Scheme",
+     "english_name": "Disha"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "కూటమి సర్కారు",
+     "evidence": "ఏపీ అంటే ఈరోజు అరాచకం, ఆటవికం, రెడ్బుక్ పాలన అని కూటమి సర్కారు మార్చేసిందని మాజీ సీఎం, వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్ రెడ్డి దునుమాడారు."
+    },
+    {
+     "source": "జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "లోకేశ్",
+     "evidence": "సీఎం కుమారుడు, మంత్రి లోకేశ్ రెడ్బుక్ పేరిట రాష్ట్రవ్యాప్తంగా హోర్డింగ్లు పెట్టారు."
+    },
+    {
+     "source": "జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "లోకేశ్ రెడ్యుకును చూసి గ్రామాల్లో టీడీపీ నాయకులు రాజకీయ ప్రత్యర్థులపై కక్ష సాధింపు చర్యలకు పాల్పడుతున్నారు."
+    },
+    {
+     "source": "జగన్మోహన్ రెడ్డి",
+     "relation": "DEFENDS",
+     "target": "దిశ",
+     "evidence": "వైఎస్సార్సీపీ అధికారంలో ఉండగా మహిళలకు అండగా 'దిశ'."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రెడ్బుక్",
+     "evidence": "సీఎం కుమారుడు, మంత్రి లోకేశ్ రెడ్బుక్ పేరిట రాష్ట్రవ్యాప్తంగా హోర్డింగ్లు పెట్టారు."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "614d48005398acf6e124204edd637918c28fb915": {
+   "entities": [
+    {
+     "name": "Red book",
+     "type": "Scheme",
+     "english_name": "Red book"
+    },
+    {
+     "name": "Telugu Thalli",
+     "type": "Organization",
+     "english_name": "Telugu Thalli"
+    },
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Pinnelli Ramakrishnareddy",
+     "type": "Person",
+     "english_name": "Pinnelli Ramakrishnareddy"
+    },
+    {
+     "name": "Ravishankar Reddy",
+     "type": "Person",
+     "english_name": "Ravishankar Reddy"
+    },
+    {
+     "name": "Bhimadevarapalli",
+     "type": "Place",
+     "english_name": "Bhimadevarapalli"
+    },
+    {
+     "name": "Macharla",
+     "type": "Place",
+     "english_name": "Macharla"
+    },
+    {
+     "name": "Srikanth",
+     "type": "Person",
+     "english_name": "Srikanth"
+    },
+    {
+     "name": "Rashid",
+     "type": "Person",
+     "english_name": "Rashid"
+    },
+    {
+     "name": "Gajapathi Raju",
+     "type": "Person",
+     "english_name": "Gajapathi Raju"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "EC",
+     "type": "Organization",
+     "english_name": "EC"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "నిందితుడు అంటకాగినా కేసులో ఎక్కడా వారి పేర్లు లేవు."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "Pinnelli Ramakrishnareddy",
+     "evidence": "మాచర్లలో పిన్నెల్లి రామకృష్ణారెడ్డిపై అక్రమ కేసులు బనాయించారు."
+    },
+    {
+     "source": "Bhimadevarapalli",
+     "relation": "LOCATED_IN",
+     "target": "Macharla",
+     "evidence": "మాచర్లలో పిన్నెల్లి రామకృష్ణారెడ్డిపై అక్రమ కేసులు బనాయించారు."
+    },
+    {
+     "source": "Rashid",
+     "relation": "ACCUSES",
+     "target": "Gajapathi Raju",
+     "evidence": "పల్నాడులో పరాకాష్టకు సాధింపులు"
+    },
+    {
+     "source": "EC",
+     "relation": "LOCATED_IN",
+     "target": "Macharla",
+     "evidence": "ఆయన చేసిన ఆకృత్యాలు తెలుసుకుని ఈసీ సస్పెండ్ చేసింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8afcab09eb6e72423beb1767860a16d1061ed26d": {
+   "entities": [
+    {
+     "name": "పెద్దిరెడ్డి",
+     "type": "Person",
+     "english_name": "Peddireddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మదనపల్లె",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "నంద్యాల జిల్లా",
+     "type": "Place",
+     "english_name": "Nandyal district"
+    },
+    {
+     "name": "ముచ్చుమర్రి",
+     "type": "Place",
+     "english_name": "Muchumarri"
+    },
+    {
+     "name": "జూలై 7",
+     "type": "Claim",
+     "english_name": "July 7"
+    },
+    {
+     "name": "16",
+     "type": "Claim",
+     "english_name": "16"
+    },
+    {
+     "name": "ఎస్పీ",
+     "type": "Person",
+     "english_name": "SP"
+    },
+    {
+     "name": "దళితుడు",
+     "type": "Person",
+     "english_name": "Dalit"
+    },
+    {
+     "name": "లాకప్ డెత్",
+     "type": "Claim",
+     "english_name": "Lockup death"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పెద్దిరెడ్డి",
+     "evidence": "పెద్దిరెడ్డిపై చంద్రబాబుకు ఎందు కంత కోపం అంటే.. కాలేజీలో చదువుకునే సమయంలో ఆయన కొట్టాడట! ఆ కక్షతో పెద్దిరెడ్డి ఏ శాఖకు మంత్రిగా పనిచేసినా ఆ శాఖపై చంద్రబాబు దుష్ప్రచారం చేస్తారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ecc0c45a472a2ed6725ca2b92fdfc2fb63f2a085": {
+   "entities": [
+    {
+     "name": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Pinnelli Ramakrishnareddy"
+    },
+    {
+     "name": "రవిశంకర్రెడ్డి",
+     "type": "Person",
+     "english_name": "Ravishankar Reddy"
+    },
+    {
+     "name": "బిందుమాధవ్",
+     "type": "Person",
+     "english_name": "Bindumadhav"
+    },
+    {
+     "name": "మలికాగార్గ్",
+     "type": "Person",
+     "english_name": "Malikagaarg"
+    },
+    {
+     "name": "శ్రీనివాస్",
+     "type": "Person",
+     "english_name": "Srinivas"
+    },
+    {
+     "name": "రషీద్",
+     "type": "Person",
+     "english_name": "Rashid"
+    },
+    {
+     "name": "దిశ యాప్",
+     "type": "Scheme",
+     "english_name": "Disha App"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "పిన్నెల్లి రామకృష్ణారెడ్డిపై అక్రమ కేసులు బనాయించారు."
+    },
+    {
+     "source": "బిందుమాధవ్",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "ఆయన చేసిన ఆకృత్యాలు తెలుసుకుని ఈసీ సస్పెండ్ చేసింది."
+    },
+    {
+     "source": "మలికాగార్గ్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "మలికాగార్గ్ టీడీపీ నాయకుల మాట వినడం లేదు."
+    },
+    {
+     "source": "రషీద్",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "మూడో రోజే రషీద్ను నడి రోడ్డు మీదే దారుణంగా నరికేశారు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దిశ యాప్",
+     "evidence": "దిశ యాప్ రక్షణ కవచం లా నిలిచింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

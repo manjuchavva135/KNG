@@ -1,0 +1,62 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5426e019e08806f10be5051fd60cfed0d41db5ce": {
+   "entities": [
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "చంద్రన్న దుబారా",
+     "type": "Claim",
+     "english_name": "Chandrananna Dubara"
+    },
+    {
+     "name": "₹3,628.17 కోట్లు",
+     "type": "Claim",
+     "english_name": "3628.17 crores"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "61c31a09e8c539c6d1ea1ab4588c9c4fd49eb287": {
+   "entities": [
+    {
+     "name": "KUTAMI RULING",
+     "type": "Party",
+     "english_name": "Kutami Ruling"
+    },
+    {
+     "name": "ఇసుక ఫ్రీ అని నిత్యావసరాల రేట్లు ఇలా పెంచాడు",
+     "type": "Claim",
+     "english_name": "ఇసుక ఫ్రీ అని నిత్యావసరాల రేట్లు ఇలా పెంచాడు"
+    },
+    {
+     "name": "దీపావళి నుండి 3 గ్యాస్ బండలు",
+     "type": "Claim",
+     "english_name": "దీపావళి నుండి 3 గ్యాస్ బండలు"
+    },
+    {
+     "name": "మహిళలు కి ఉచిత బస్ అంటున్నాడు",
+     "type": "Claim",
+     "english_name": "మహిళలు కి ఉచిత బస్ అంటున్నాడు"
+    },
+    {
+     "name": "ఇంకెంత పెంచుతాడో ఊహిస్తేనే భయం వేస్తుంది",
+     "type": "Claim",
+     "english_name": "ఇంకెంత పెంచుతాడో ఊహిస్తేనే భయం వేస్తుంది"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b0230b6e83d33ef840df107cd5d8a9b2313b862f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

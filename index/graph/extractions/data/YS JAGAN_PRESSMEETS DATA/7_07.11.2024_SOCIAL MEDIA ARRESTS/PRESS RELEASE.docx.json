@@ -1,0 +1,1733 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3f7a936c6b5495e15cab387bea5c69df443f404c": {
+   "entities": [
+    {
+     "name": "రాష్ట్రంలో దారుణ పరిస్థితులు",
+     "type": "Issue",
+     "english_name": "State of emergency"
+    },
+    {
+     "name": "స్వాతంత్య్రం",
+     "type": "Place",
+     "english_name": "Independence"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "ప్రతి ఒక్క వర్గాన్ని మోసం చేశారు",
+     "type": "Claim",
+     "english_name": "Every community cheated"
+    },
+    {
+     "name": "15వేలు",
+     "type": "Claim",
+     "english_name": "Rs 15,000"
+    },
+    {
+     "name": "18వేలు",
+     "type": "Claim",
+     "english_name": "Rs 18,000"
+    },
+    {
+     "name": "48వేలు",
+     "type": "Claim",
+     "english_name": "Rs 48,000"
+    },
+    {
+     "name": "36వేలు",
+     "type": "Claim",
+     "english_name": "Rs 36,000"
+    },
+    {
+     "name": "20వేలు",
+     "type": "Claim",
+     "english_name": "Rs 20,000"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్‌",
+     "type": "Scheme",
+     "english_name": "Fee reimbursement"
+    },
+    {
+     "name": "జనవరి–మార్చి",
+     "type": "Place",
+     "english_name": "January–March"
+    },
+    {
+     "name": "ఏప్రిల్‌",
+     "type": "Place",
+     "english_name": "April"
+    },
+    {
+     "name": "మే",
+     "type": "Place",
+     "english_name": "May"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c90defac4fccb2c22a45443175af232f1dc5abc6": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "సోషల్‌ మీడియా కార్యకర్తలు",
+     "type": "Person",
+     "english_name": "Social media activists"
+    },
+    {
+     "name": "రిటైర్‌",
+     "type": "Person",
+     "english_name": "Retired officers"
+    },
+    {
+     "name": "పవన్‌",
+     "type": "Person",
+     "english_name": "Pawan"
+    },
+    {
+     "name": "ఎమ్మార్వో",
+     "type": "Organization",
+     "english_name": "MRO"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కాంగ్రెస్‌",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "సజ్జన్‌ జిందాల్‌",
+     "type": "Person",
+     "english_name": "Sajjan Jindal"
+    },
+    {
+     "name": "జెత్వానీ",
+     "type": "Person",
+     "english_name": "Jethwani"
+    },
+    {
+     "name": "ఆర్సెలర్‌ మిట్టల్‌ స్టీల్‌ కంపెనీ",
+     "type": "Organization",
+     "english_name": "ArcelorMittal Steel Company"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "స్పీకర్‌",
+     "type": "Organization",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "సుప్రీంకోర్టు",
+     "evidence": "యథేచ్ఛగా సుప్రీంకోర్టు ఆదేశాలు సైతం బేఖాతరు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "సోషల్‌ మీడియా కార్యకర్తలు",
+     "evidence": "సోషల్‌ మీడియా కార్యకర్తలపై కేసులు. అరెస్టులు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ, కాంగ్రెస్‌ నాయకులే కదా నాపై కేసు వేసింది"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "కాంగ్రెస్‌",
+     "evidence": "టీడీపీ, కాంగ్రెస్‌ నాయకులే కదా నాపై కేసు వేసింది"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "పవన్‌",
+     "evidence": "సరస్వతి భూములపై పవన్‌ అనవసర రాద్దాంతం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "సజ్జన్‌ జిందాల్‌",
+     "evidence": "కడప జిల్లాలో స్టీల్‌ ప్లాంట్‌కు సజ్జన్‌ జిందాల్‌ రెడీ"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "జెత్వానీ",
+     "evidence": "జెత్వానీని తీసుకొచ్చి, కేసులతో ఆయన్ను బెదిరించారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ఆర్సెలర్‌ మిట్టల్‌ స్టీల్‌ కంపెనీ",
+     "evidence": "ఆర్సెలర్‌ మిట్టల్‌ స్టీల్‌ కంపెనీ పనులు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వ తీరును ఎండగట్టిన జగన్‌"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7a750828dfa9fc96d014ce36c53e6a3a59da0342": {
+   "entities": [
+    {
+     "name": "మళ్లీ ఈరోజు మధ్యవర్తులు, దళారీల ద్వారా కొనుగోలు జరుగుతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రంగంలోనూ కూడా విద్య, వైద్యం, వ్యవసాయం, డెలివరీ మెకానిజం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గతంలో ప్రతి పథకం డోర్‌ డెలివరీ జరిగే పరిస్థితి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈరోజు డోర్‌ డెలివరీ ఊసే పోయింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మళ్లీ జన్మభూమి కమిటీలు, టీడీపీ కార్యకర్తలు చెబితేనే ఏ పథకమైనా అందే పరిస్థితి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దాదాపు లక్షన్నర పెన్షన్లు అప్పుడే కటింగ్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కొత్త పెన్షన్లుఇచ్చే కార్యక్రమం జరగడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం ఫెయిల్‌ అయ్యింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "లా అండ్‌ ఆర్డర్‌ లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "91 మంది మహిళల మీద, పిల్లల మీద అత్యాచారాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "7గురు చనిపోయారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షాత్తూ తెలుగుదేశం పార్టీ కార్యకర్తలే దగ్గరుండి ఈ పనులు చేస్తున్నా కూడా ప్రభుత్వం స్పందించి వాటిని అరికట్టాల్సింది పోయి ఏకంగా సపోర్ట్‌ చేస్తున్న పరిస్థితులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తెనాలిలో సహానా అనే అమ్మాయిపై దాడి చేసి చంపేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేరస్తుడు టీడీపీ నాయకుడే రౌడీ షీటర్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర మంత్రి పెమ్మసాని అనుచరుడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు కండువా కప్పుతూ దిగిన ఫొటోలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బద్వేలు పట్టణంలో జరిగిన ఘటన అత్యంత దారుణం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "16 ఏళ్ల బాలికపై అత్యాచారం చేసి పెట్రోలు పోసి నిప్పంటించారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "54d57f974d19b37f846d729e56bc9f7c425c4cd5": {
+   "entities": [
+    {
+     "name": "కాకినాడ రూరల్‌",
+     "type": "Place",
+     "english_name": "Kakinada Rural"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం",
+     "type": "Person",
+     "english_name": "Deputy CM"
+    },
+    {
+     "name": "ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "MLA"
+    },
+    {
+     "name": "అనుచరులు",
+     "type": "Person",
+     "english_name": "followers"
+    },
+    {
+     "name": "ఫీల్డ్‌ అసిస్టెంట్‌",
+     "type": "Person",
+     "english_name": "Field Assistant"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "విజయవాడ వరదలు",
+     "type": "Issue",
+     "english_name": "Vijayawada floods"
+    },
+    {
+     "name": "వరద సహాయం",
+     "type": "Scheme",
+     "english_name": "Flood relief"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "చిన్నారులు",
+     "type": "Person",
+     "english_name": "Children"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Person",
+     "english_name": "MLAs"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Scheme",
+     "english_name": "Sand"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డిప్యూటీ సీఎం",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును నిలదీస్తూ ప్రశ్నిస్తే ఏం జరుగుతోంది?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రభుత్వాన్ని ప్రశ్నిస్తే కోటి చిల్లర మందికి ఫుడ్‌ మీద రూ.534 కోట్లు.. క్యాండిల్స్, అగ్గిపెట్టెలు, మొబైల్‌ జనరేటర్లు.. ఎక్కడ ఎవరికి పోయాయో అందరికీ తెలుసు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఎవరైనా గట్టిగా నిలదీస్తూ ప్రశ్నిస్తే కేసులు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మహిళలు, చిన్నారులు, లైంగిక వేధింపులు, దాడులు, హత్యలు, హత్యాయత్నాలు జరుగుతుంటే ప్రశ్నిస్తే చాలు.. ఇల్లీగల్‌ డిటెన్షన్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఎమ్మెల్యేలు, వారి మనుషులు రెచ్చిపోయి రౌడీల మాదిరి ప్రవర్తిస్తుంటే దాన్ని ప్రశ్నిస్తే ఇల్లీగల్‌ డిటెన్షన్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఇసుక ఉచితంగా ఇస్తామని చెప్పారు. రేట్లు రెట్టింపయ్యాయి. ఎవరి జేబుల్లోకి పోతోంది అని ప్రశ్నిస్తే ఇల్లీగల్‌ డిటెన్షన్‌."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ebeb3409a5a4290371c3f8ac671d06a3a3a7676d": {
+   "entities": [
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్‌",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "పిల్లలు",
+     "type": "Person",
+     "english_name": "Children"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "వసతిదీవెన",
+     "type": "Scheme",
+     "english_name": "Hostel Allowance"
+    },
+    {
+     "name": "ఇంజనీరింగ్",
+     "type": "Organization",
+     "english_name": "Engineering"
+    },
+    {
+     "name": "డిగ్రీ",
+     "type": "Organization",
+     "english_name": "Degree"
+    },
+    {
+     "name": "గాడి తప్పిన విద్యావ్యవస్థ",
+     "type": "Issue",
+     "english_name": "Education System"
+    },
+    {
+     "name": "గవర్నమెంటు బడులు",
+     "type": "Organization",
+     "english_name": "Government Schools"
+    },
+    {
+     "name": "ఇంగ్లీషు మీడియం",
+     "type": "Organization",
+     "english_name": "English Medium"
+    },
+    {
+     "name": "టోఫెల్‌ క్లాసులు",
+     "type": "Organization",
+     "english_name": "TOEFL Classes"
+    },
+    {
+     "name": "సీబీఎస్‌ఈ",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Organization",
+     "english_name": "IB"
+    },
+    {
+     "name": "సబ్జెక్ట్‌ టీచర్లు",
+     "type": "Organization",
+     "english_name": "Subject Teachers"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "గోరుముద్ద",
+     "type": "Scheme",
+     "english_name": "Gorimudda"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "వైద్య రంగం దారుణం",
+     "type": "Issue",
+     "english_name": "Health Sector"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Organization",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "ఫ్యామిలీ డాక్టర్‌",
+     "type": "Organization",
+     "english_name": "Family Doctor"
+    },
+    {
+     "name": "గవర్నమెంట్‌ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": "Government Hospitals"
+    },
+    {
+     "name": "డబ్ల్యూహెచ్‌ఓ జీఎంపీ",
+     "type": "Organization",
+     "english_name": "WHO GMP"
+    },
+    {
+     "name": "జీరో వేకెన్సీ",
+     "type": "Scheme",
+     "english_name": "Zero Vacancy"
+    },
+    {
+     "name": "కమ్యూనిటీ హెల్త్‌ సెంటర్లు",
+     "type": "Organization",
+     "english_name": "Community Health Centers"
+    },
+    {
+     "name": "డిస్ట్రిక్ట్‌ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": "District Hospitals"
+    },
+    {
+     "name": "స్పెషలిస్ట్‌ డాక్టర్లు",
+     "type": "Organization",
+     "english_name": "Specialist Doctors"
+    },
+    {
+     "name": "వ్యవసాయ రంగం",
+     "type": "Issue",
+     "english_name": "Agriculture Sector"
+    },
+    {
+     "name": "ఆర్బీకేలు",
+     "type": "Organization",
+     "english_name": "RBKs"
+    },
+    {
+     "name": "అగ్రికల్చరల్‌ గ్రాడ్యుయేట్‌",
+     "type": "Person",
+     "english_name": "Agricultural Graduate"
+    },
+    {
+     "name": "ఈ–క్రాప్‌",
+     "type": "Scheme",
+     "english_name": "e-Crop"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free Crop Insurance"
+    },
+    {
+     "name": "డోర్‌ డెలివరీ",
+     "type": "Scheme",
+     "english_name": "Door Delivery"
+    },
+    {
+     "name": "పెన్షన్స్‌",
+     "type": "Scheme",
+     "english_name": "Pensions"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆరోగ్యశ్రీ",
+     "evidence": "ఆరోగ్యశ్రీ కింద ఇవ్వాల్సిన బకాయిలు రూ.2,400 కోట్లు దాటాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1cbaf31ae0dcbc6b2b70865da4868e9aceaed500": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "సుప్రీంకోర్డు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "అమేష్‌కుమార్‌ వర్సెస్‌ స్టేట్‌ ఆఫ్‌ బిహార్‌ అండ్‌ ఏఎన్నార్‌",
+     "type": "Organization",
+     "english_name": "Amesh Kumar vs State of Bihar and AnnaaR"
+    },
+    {
+     "name": "41–ఏ",
+     "type": "Organization",
+     "english_name": "Section 41A"
+    },
+    {
+     "name": "మెజిస్ట్రేట్‌",
+     "type": "Organization",
+     "english_name": "Magistrate"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6898b2047ba8bde589534f22d2596dd5c5892af3": {
+   "entities": [
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "అమేష్‌కుమార్‌ వర్సెస్‌ స్టేట్‌ ఆఫ్‌ బిహార్‌ అండ్‌ ఏఎన్నార్‌",
+     "type": "Claim",
+     "english_name": "Amesh Kumar vs State of Bihar and ANR"
+    },
+    {
+     "name": "జడ్జిమెంట్‌",
+     "type": "Claim",
+     "english_name": "Judgment"
+    },
+    {
+     "name": "పోలీస్‌ రాజ్యం",
+     "type": "Issue",
+     "english_name": "Police Raj"
+    },
+    {
+     "name": "41–ఏ నోటీసు",
+     "type": "Claim",
+     "english_name": "41-A notice"
+    },
+    {
+     "name": "మెజిస్ట్రేట్‌",
+     "type": "Organization",
+     "english_name": "Magistrate"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "విజయమ్మ",
+     "type": "Person",
+     "english_name": "Vijayamma"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లోకేష్‌",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Organization",
+     "english_name": "DGP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ ఇంత దారుణంగా ఫేక్‌ న్యూస్‌లు పోస్టు చేస్తుంటే.. చంద్రబాబును ఎందుకు అరెస్టు చేయడం లేదు?"
+    },
+    {
+     "source": "లోకేష్‌",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "లోకేష్‌ను ఎందుకు అరెస్టు చేయడం లేదు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "39d829605623d26da8ca5b2a02a281018e36cd88": {
+   "entities": [
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "రాధాకృష్ణ",
+     "type": "Person",
+     "english_name": "Radhakrishna"
+    },
+    {
+     "name": "కడప ఎస్పీ",
+     "type": "Organization",
+     "english_name": "Kadapa SP"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Person",
+     "english_name": "DGP"
+    },
+    {
+     "name": "బోడి వెంకటేష్‌",
+     "type": "Person",
+     "english_name": "Boddi Venkatesh"
+    },
+    {
+     "name": "దువ్వాడ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Duvvada Police"
+    },
+    {
+     "name": "ఆళ్ల జగదీష్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Allu Jagadeesh Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాధాకృష్ణ",
+     "relation": "ACCUSES",
+     "target": "కడప ఎస్పీ",
+     "evidence": "కడప ఎస్పీకి నా భార్య ఫోన్‌ చేసిందని.. అది ఫేక్‌ న్యూసే కదా?"
+    },
+    {
+     "source": "బోడి వెంకటేష్‌",
+     "relation": "ACCUSES",
+     "target": "దువ్వాడ పోలీసులు",
+     "evidence": "బోడి వెంకటేష్‌ను దువ్వాడ పోలీసులు నిన్న (6వ తేదీ) మధ్యాహ్నం 3.30 గంటలకు పోలీసుస్టేషన్‌కు తీసుకువెళ్లారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "231ae6fc2bb9076a88a163ee4305e158778f6ae0": {
+   "entities": [
+    {
+     "name": "డీజీపీ",
+     "type": "Person",
+     "english_name": "DGP"
+    },
+    {
+     "name": "ఆర్టీసీ సీఎండీ",
+     "type": "Person",
+     "english_name": "RTC CMD"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "సోషల్‌ మీడియా యాక్టివిస్ట్‌లు",
+     "type": "Person",
+     "english_name": "Social Media Activists"
+    },
+    {
+     "name": "అక్క చెల్లెమ్మల",
+     "type": "Person",
+     "english_name": "Akka Chellemmalu"
+    },
+    {
+     "name": "ఆడవాళ్లు",
+     "type": "Person",
+     "english_name": "Women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "పార్టీ కార్యకర్తలా డీజీపీ మాటలు"
+    },
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "గత ప్రభుత్వంలో పోలీసులు సరిగా పనిచేయలేదని చెబుతున్నాడు"
+    },
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "సోషల్‌ మీడియా యాక్టివిస్ట్‌లు",
+     "evidence": "ప్రజల తరపున గొంతు విప్పుతున్న సోషల్‌ మీడియా యాక్టివిస్ట్‌లను ఎందుకు అక్రమ నిర్భంధాలు చేస్తున్నారు?"
+    },
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "అక్క చెల్లెమ్మల",
+     "evidence": "ఐదు నెలలు తిరగక ముందే 91 మంది అక్క చెల్లెమ్మల మీద ఎందుకు అత్యాచారాలు జరిగాయి?"
+    },
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "ఆడవాళ్లు",
+     "evidence": "ఎందుకు ఏడుగురు ఆడవాళ్లు చనిపోయారు?"
+    },
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "మరి ఇప్పటి ప్రభుత్వం సవ్యంగా, బ్రహ్మాండంగా పని చేస్తోందా?"
+    },
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "గత ప్రభుత్వంలో పోలీసులు సరిగా పనిచేయలేదని చెబుతున్నాడు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "68add6849dca167df214d174e2df28f52a90b6d3": {
+   "entities": [
+    {
+     "name": "సోషల్‌ మీడియా యాక్టివిస్ట్‌ బోడి వెంకటేష్‌",
+     "type": "Person",
+     "english_name": "Boddu Venkatesh"
+    },
+    {
+     "name": "దువ్వాడ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Duvva Police"
+    },
+    {
+     "name": "సోషల్‌ మీడియా యాక్టివిస్ట్, ఒక రైతు ఆళ్ల జగదీష్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Allu Jagadeesh Reddy"
+    },
+    {
+     "name": "విజయవాడ క్రై ం పోలీసులు",
+     "type": "Organization",
+     "english_name": "Vijayawada Crime Police"
+    },
+    {
+     "name": "పెద్దింటి సుధారాణి",
+     "type": "Person",
+     "english_name": "Peddinti Sudharani"
+    },
+    {
+     "name": "చిలకలూరిపేట పోలీస్‌స్టేషన్‌",
+     "type": "Organization",
+     "english_name": "Chilakaluripet Police Station"
+    },
+    {
+     "name": "ఒంగోలు పోలీసులు",
+     "type": "Organization",
+     "english_name": "Ongole Police"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "నాని",
+     "type": "Person",
+     "english_name": "Nani"
+    },
+    {
+     "name": "నందిగామ నియోజకవర్గం పెండ్యాలలో వాట్సప్‌ గ్రూప్‌ అడ్మిన్‌",
+     "type": "Person",
+     "english_name": "WhatsApp Group Admin"
+    },
+    {
+     "name": "గుంటూరు జిల్లా మాచర్లకు చెందిన వెంకట్రామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Venkata Rami Reddy"
+    },
+    {
+     "name": "సన్నీ",
+     "type": "Person",
+     "english_name": "Sunny"
+    },
+    {
+     "name": "గంపలగూడెం పోలీసుస్టేషన్",
+     "type": "Organization",
+     "english_name": "Gampalagudem Police Station"
+    },
+    {
+     "name": "మహానంది మండలంలో యు.గొల్లవరంకు చెందిన తిరుమల కృష్ణ",
+     "type": "Person",
+     "english_name": "Tirumala Krishna"
+    },
+    {
+     "name": "కర్నూలు పోలీసులు",
+     "type": "Organization",
+     "english_name": "Kurnool Police"
+    },
+    {
+     "name": "రాయచోటిలో కె.హనుమంతరెడ్డి",
+     "type": "Person",
+     "english_name": "K. Hanumantha Reddy"
+    },
+    {
+     "name": "నల్లగొండకు చెందిన అశోక్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Ashok Reddy"
+    },
+    {
+     "name": "విజయవాడ సైబర్‌ క్రై ం పోలీసులు",
+     "type": "Organization",
+     "english_name": "Vijayawada Cyber Crime Police"
+    },
+    {
+     "name": "రాజశేఖర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Rajasekhara Reddy"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb3e1cfe0771e8972948268c7fd20cb275f3972a": {
+   "entities": [
+    {
+     "name": "ఈ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "This government"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Organization",
+     "english_name": "DGP"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సోషల్‌ మీడియా యాక్టివిస్ట్‌లు",
+     "type": "Person",
+     "english_name": "Social media activists"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సుబ్బారాయుడు",
+     "type": "Person",
+     "english_name": "Subbarayudu"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e5fc2e672861c04457274be12b02d0bd1f818302": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం",
+     "type": "Person",
+     "english_name": "Deputy CM"
+    },
+    {
+     "name": "దళిత హోం మంత్రి",
+     "type": "Person",
+     "english_name": "Dalit Home Minister"
+    },
+    {
+     "name": "పిఠాపురం",
+     "type": "Place",
+     "english_name": "Pithapuram"
+    },
+    {
+     "name": "సరస్వతి పవర్‌ అండ్‌ ఇండస్ట్రీస్‌",
+     "type": "Organization",
+     "english_name": "Saraswati Power and Industries"
+    },
+    {
+     "name": "లోకల్‌ ఎమ్మార్వో",
+     "type": "Organization",
+     "english_name": "Local MRO"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "డిప్యూటీ సీఎం",
+     "evidence": "చంద్రబాబు చెబుతున్న అన్యాయాలకు, అక్రమాలకు తలొగ్గకపోతే వాళ్లు బాగా చేయడం లేదని బ్రాండింగ్‌ చేస్తారు."
+    },
+    {
+     "source": "సరస్వతి పవర్‌ అండ్‌ ఇండస్ట్రీస్‌",
+     "relation": "LOCATED_IN",
+     "target": "పిఠాపురం",
+     "evidence": "పిఠాపురం తన సొంత నియోజకవర్గంలో కౌన్సిలర్‌ భర్త అయిన టీడీపీ నాయకుడు ఒక దళిత మహిళను ఆటోలో తీసుకెళ్లి డంప్‌యార్డులో అత్యాచారం చేస్తే నువ్వు డిప్యూటీ సీఎంగా ఉండి ఏం చేశావు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ec6a3a1144c2672bbaa4626ad9c9feb95dd56e44": {
+   "entities": [
+    {
+     "name": "ప్రశ్నిస్తే ఇల్లీగల్‌ డిటెన్షన్లు",
+     "type": "Claim",
+     "english_name": "Questioning leads to illegal detention"
+    },
+    {
+     "name": "మహిళలు, చిన్నారులు, లైంగిక వేధింపులు, దాడులు, హత్యలు, హత్యాయత్నాలు",
+     "type": "Claim",
+     "english_name": "Women, children, sexual harassment, attacks, murders, attempted murders"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు, వారి మనుషులు రెచ్చిపోయి రౌడీల మాదిరి ప్రవర్తిస్తుంటే",
+     "type": "Claim",
+     "english_name": "MLAs and their men behaving like rowdies"
+    },
+    {
+     "name": "ఇసుక ఉచితంగా ఇస్తామని చెప్పారు",
+     "type": "Claim",
+     "english_name": "Promised free sand"
+    },
+    {
+     "name": "రేట్లు రెట్టింపయ్యాయి",
+     "type": "Claim",
+     "english_name": "Rates doubled"
+    },
+    {
+     "name": "ప్రభుత్వ ఆధ్వర్యంలో నడిచే మద్యం షాపులు",
+     "type": "Organization",
+     "english_name": "Government-run liquor shops"
+    },
+    {
+     "name": "సిండికేట్‌ వ్యాపారం",
+     "type": "Organization",
+     "english_name": "Syndicate business"
+    },
+    {
+     "name": "కరప్షన్‌",
+     "type": "Organization",
+     "english_name": "Corruption"
+    },
+    {
+     "name": "అధికారంలోకి వస్తే కరెంటు చార్జీలు తగ్గిస్తామన్నారు",
+     "type": "Claim",
+     "english_name": "Promised reduction in electricity charges"
+    },
+    {
+     "name": "రూ.6 వేల కోట్ల బాదుడు",
+     "type": "Claim",
+     "english_name": "Rs 6,000 crore burden"
+    },
+    {
+     "name": "11 వేల కోట్లతో అడిషనల్‌ బాదుడు",
+     "type": "Claim",
+     "english_name": "Additional burden of Rs 11,000 crore"
+    },
+    {
+     "name": "సంపద సృష్టి",
+     "type": "Claim",
+     "english_name": "Wealth creation"
+    },
+    {
+     "name": "జగన్‌ సృష్టించిన సంపద",
+     "type": "Claim",
+     "english_name": "Jagan's created wealth"
+    },
+    {
+     "name": "ప్రభుత్వ ఆస్తులు",
+     "type": "Organization",
+     "english_name": "Government assets"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical colleges"
+    },
+    {
+     "name": "మూడు ప్రైవేట్‌ పోర్టులు",
+     "type": "Organization",
+     "english_name": "Three private ports"
+    },
+    {
+     "name": "ఫైనాన్స్‌ కొరత",
+     "type": "Organization",
+     "english_name": "Finance shortage"
+    },
+    {
+     "name": "ప్రభుత్వ సంపద",
+     "type": "Organization",
+     "english_name": "Government wealth"
+    },
+    {
+     "name": "విద్య వద్దు, మద్యం ముద్దు",
+     "type": "Claim",
+     "english_name": "No education, liquor is fine"
+    },
+    {
+     "name": "సోషల్‌ మీడియా యాక్టివిస్టు",
+     "type": "Person",
+     "english_name": "Social media activist"
+    },
+    {
+     "name": "అమ్మ ఒడి, విద్యాదీవెన, వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Amma Vodi, Vidya Deevena, Vasathi Deevena"
+    },
+    {
+     "name": "నాన్నకు ఫుల్లు, అమ్మకు నిల్లు",
+     "type": "Claim",
+     "english_name": "Dad gets full, mom gets none"
+    },
+    {
+     "name": "శ్రీచంద్రబాబునాయుడుగారి అభిమానులకు మనోభావాలను దెబ్బతీసే విధంగా",
+     "type": "Claim",
+     "english_name": "Hurting feelings of Sri Chandrababu Naidu's fans"
+    },
+    {
+     "name": "జనసేన నేతతో బలవంతంగా కాళ్లు పట్టించుకున్న టీడీపీ నాయకుడు",
+     "type": "Claim",
+     "english_name": "TDP leader forced to touch feet of Janasena leader"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు గారు, డిప్యూటీ సీఎం లూటెడ్‌ 534 కోట్లు పబ్లిక్‌ మనీ ఇన్‌ ద నేమ్‌ ఆఫ్‌ విజయవాడ ఫ్లడ్స్‌",
+     "type": "Claim",
+     "english_name": "Deputy CM Chandrababu Naidu looted Rs 534 crore public money in the name of Vijayawada floods"
+    },
+    {
+     "name": "షాకింగ్‌ దె లూటెడ్‌ 23 కోర్స్‌ జస్ట్‌ ఫర్‌ మ్యాచ్‌ బాక్సెస్‌",
+     "type": "Claim",
+     "english_name": "Shocking loot of Rs 23 crore just for match boxes"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "67d219c7383f3a6dbc5a2bec5d77318dcbb9e947": {
+   "entities": [
+    {
+     "name": "పవన్‌కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "సరస్వతి పవర్‌ అండ్‌ ఇండస్ట్రీస్‌",
+     "type": "Organization",
+     "english_name": "Saraswati Power and Industries"
+    },
+    {
+     "name": "లోకల్‌ ఎమ్మార్వో",
+     "type": "Person",
+     "english_name": "Local MRO"
+    },
+    {
+     "name": "భవ్య సిమెంట్స్‌",
+     "type": "Organization",
+     "english_name": "Bhavya Cements"
+    },
+    {
+     "name": "దివాకర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Divakar Reddy"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్‌కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "సరస్వతి పవర్‌ అండ్‌ ఇండస్ట్రీస్‌",
+     "evidence": "పవన్‌కల్యాణ్‌ అనే వ్యక్తి అక్కడికి వెళ్లి, ఏదేదో మాట్లాడటం ఆశ్చర్యం కలిగిస్తోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "08be66a4ec8558c18c5a92ed0b3454dc6be53cae": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మైనింగ్‌ లీజు",
+     "type": "Issue",
+     "english_name": "Mining lease"
+    },
+    {
+     "name": "పొల్యూషన్‌ అండ్‌ ఎన్విరాన్‌మెంట్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Pollution and Environment Department"
+    },
+    {
+     "name": "ఎంఎండీఆర్‌ యాక్ట్‌–2015",
+     "type": "Scheme",
+     "english_name": "MMDR Act-2015"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "సజ్జన్‌ జిందాల్‌ స్టీల్‌ ఫ్యాక్టరీ",
+     "type": "Organization",
+     "english_name": "Sajjan Jindal Steel Factory"
+    },
+    {
+     "name": "జత్వానీ",
+     "type": "Person",
+     "english_name": "Jathwani"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f2754dd3b40354adfaac24b93f1f6d2966fb61ce": {
+   "entities": [
+    {
+     "name": "అసెంబ్లీ సమావేశాలు",
+     "type": "Issue",
+     "english_name": "Assembly sessions"
+    },
+    {
+     "name": "స్పీకర్",
+     "type": "Person",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "అధికార కూటమి",
+     "type": "Party",
+     "english_name": "Ruling coalition"
+    },
+    {
+     "name": "ప్రతిపక్షం",
+     "type": "Party",
+     "english_name": "Opposition"
+    },
+    {
+     "name": "ప్రతిపక్ష పార్టీ",
+     "type": "Party",
+     "english_name": "Opposition party"
+    },
+    {
+     "name": "లీడర్‌ ఆఫ్‌ ది హౌస్‌",
+     "type": "Person",
+     "english_name": "Leader of the House"
+    },
+    {
+     "name": "లీడర్‌ ఆఫ్‌ ది అపోజిషన్‌",
+     "type": "Person",
+     "english_name": "Leader of the Opposition"
+    },
+    {
+     "name": "టీవీ ఛానళ్లు",
+     "type": "Organization",
+     "english_name": "TV channels"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c5ab4b9d3c9f42537303551c8d8d0383bacab0d3": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "టీవీ ఛానళ్లు",
+     "type": "Organization",
+     "english_name": "TV channels"
+    },
+    {
+     "name": "ప్రజలు",
+     "type": "Organization",
+     "english_name": "People"
+    },
+    {
+     "name": "ఎమ్మెల్సీ ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "MLC elections"
+    },
+    {
+     "name": "హెల్ప్‌లైన్‌",
+     "type": "Scheme",
+     "english_name": "Helpline"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "హెల్ప్‌లైన్‌",
+     "evidence": "పోలీసుల ద్వారా ప్రభుత్వం ఇబ్బంది పెడితే అందరికీ కూడా ప్రైవేట్‌ కంప్లైంట్స్‌ వేయించడానికి, మీ తరఫున పోరాటం చేయడానికి వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ రెడీగా ఉంది అని ఇదే మీడియా సమక్షంలో మీ అందరికీ భరోసా ఇస్తూ చెబుతున్నా."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6fe3c6d951d89d900b129a4f3192309236f76a15": {
+   "entities": [
+    {
+     "name": "సుధాకర్‌",
+     "type": "Person",
+     "english_name": "Sudhakar"
+    },
+    {
+     "name": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "వైయస్ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వాలంటీర్లు",
+     "type": "Issue",
+     "english_name": "Volunteers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "91a9a7bfddf77b7e880764cd704468d9088c1b8c": {
+   "entities": [
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "తెనాలి",
+     "type": "Place",
+     "english_name": "Tenali"
+    },
+    {
+     "name": "సహానా",
+     "type": "Person",
+     "english_name": "Sahana"
+    },
+    {
+     "name": "పెమ్మసాని",
+     "type": "Person",
+     "english_name": "Pemmishani"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బద్వేలు",
+     "type": "Place",
+     "english_name": "Badvelu"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "హిందూపురం",
+     "type": "Place",
+     "english_name": "Hindupuram"
+    },
+    {
+     "name": "అనకాపల్లి జిల్లా",
+     "type": "Place",
+     "english_name": "Anakapalli district"
+    },
+    {
+     "name": "రాంబల్లి మండలం",
+     "type": "Place",
+     "english_name": "Ramballi mandal"
+    },
+    {
+     "name": "కొప్పుగుండుపాలెం",
+     "type": "Place",
+     "english_name": "Koppugundupalem"
+    },
+    {
+     "name": "హోం మంత్రి",
+     "type": "Person",
+     "english_name": "Home Minister"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం",
+     "type": "Person",
+     "english_name": "Deputy CM"
+    },
+    {
+     "name": "పిఠాపురం నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Pithapuram constituency"
+    },
+    {
+     "name": "ఎర్రావారిపాలెం",
+     "type": "Place",
+     "english_name": "Erravari Palem"
+    },
+    {
+     "name": "యలమంద",
+     "type": "Place",
+     "english_name": "Yalamanda"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డిప్యూటీ సీఎం",
+     "relation": "ACCUSES",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "తెలుగుదేశం పార్టీకి సంబంధించిన కౌన్సిలర్‌ భర్త, ఒక దళిత మహిళను తీసుకుని పోయి డంప్‌ యార్డులో రేప్‌ చేసే కార్యక్రమం చేస్తే అక్కడ చెత్త కాగితాలు ఏరుకునే వారు దళిత అమ్మాయిని కాపాడారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c0d125b487f4b2746a5122669c8fc8ecc6bdc8de": {
+   "entities": [
+    {
+     "name": "జగన్ సర్కారు",
+     "type": "Organization",
+     "english_name": "Jagan Government"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ గ్రామ సచివాలయాలు, వార్డు సచివాలయాల యాక్ట్ 2023",
+     "type": "Scheme",
+     "english_name": "Andhra Pradesh Village Secretariat and Ward Secretariat Act 2023"
+    },
+    {
+     "name": "పవన్",
+     "type": "Person",
+     "english_name": "Pawan"
+    },
+    {
+     "name": "మేధావులు",
+     "type": "Person",
+     "english_name": "Intellectuals"
+    },
+    {
+     "name": "జగన్ మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "పెన్షన్",
+     "type": "Scheme",
+     "english_name": "Pension"
+    },
+    {
+     "name": "రేషన్",
+     "type": "Scheme",
+     "english_name": "Ration"
+    },
+    {
+     "name": "సర్టిఫికెట్లు",
+     "type": "Scheme",
+     "english_name": "Certificates"
+    },
+    {
+     "name": "ఫ్యామిలీ డాక్టర్",
+     "type": "Scheme",
+     "english_name": "Family Doctor"
+    },
+    {
+     "name": "విలేజ్ క్లినిక్",
+     "type": "Scheme",
+     "english_name": "Village Clinic"
+    },
+    {
+     "name": "వాలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "edf81ae764d401ddb1056940417508787462ee7d": {
+   "entities": [
+    {
+     "name": "వాలంటీర్లకు తమ ప్రభుత్వం, ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu Naidu"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "టీడీపీ, బీజేపీ, జనసేన కూటమి",
+     "type": "Party",
+     "english_name": "TDP, BJP, Janasena Alliance"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం",
+     "type": "Person",
+     "english_name": "Deputy Chief Minister"
+    },
+    {
+     "name": "వైయస్ జగన్ మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "పంచాయతీరాజ్, రూరల్ డెవలప్‌మెంట్ డిపార్ట్‌మెంట్",
+     "type": "Organization",
+     "english_name": "Panchayat Raj and Rural Development Department"
+    },
+    {
+     "name": "మున్సిపల్ అడ్మినిస్ట్రేషన్, అర్బన్ డెవలప్‌మెంట్ డిపార్ట్‌మెంట్",
+     "type": "Organization",
+     "english_name": "Municipal Administration and Urban Development Department"
+    },
+    {
+     "name": "సాధారణ పరిపాలన శాఖ",
+     "type": "Organization",
+     "english_name": "General Administration Department"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f4dbbb2736b6123b039d7f6b3d8678d711d9460b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సజ్జన్‌ జిందాల్‌ స్టీల్‌ ఫ్యాక్టరీ",
+     "type": "Organization",
+     "english_name": "Sajjan Jindal Steel Factory"
+    },
+    {
+     "name": "జత్వానీ",
+     "type": "Person",
+     "english_name": "Jatwani"
+    },
+    {
+     "name": "ఆర్సిలర్‌ మిట్టల్‌",
+     "type": "Organization",
+     "english_name": "ArcelorMittal"
+    },
+    {
+     "name": "ఒడిశా మంత్రి",
+     "type": "Person",
+     "english_name": "Odisha Minister"
+    },
+    {
+     "name": "మైక్రోసాఫ్ట్‌",
+     "type": "Organization",
+     "english_name": "Microsoft"
+    },
+    {
+     "name": "బిల్‌గేట్స్‌",
+     "type": "Person",
+     "english_name": "Bill Gates"
+    },
+    {
+     "name": "జిందాల్‌",
+     "type": "Organization",
+     "english_name": "Jindal"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "సరస్వతీ పవర్‌ ఇండస్ట్రీస్‌",
+     "type": "Organization",
+     "english_name": "Saraswati Power Industries"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కాంగ్రెస్‌",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సజ్జన్‌ జిందాల్‌ స్టీల్‌ ఫ్యాక్టరీ",
+     "evidence": "చంద్రబాబు చేసింది తప్పనీ, అన్నీ రిస్టోర్‌ చేయాలని ఆదేశించింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జత్వానీ",
+     "evidence": "జత్వానీ అనే ఆమెను తీసుకొచ్చి దొంగ కేసులు పెట్టించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆర్సిలర్‌ మిట్టల్‌",
+     "evidence": "ఆర్సిలర్‌ మిట్టల్‌ అనకాపల్లికి వచ్చిందని తప్పుడు వార్తలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఒడిశా మంత్రి",
+     "evidence": "ఒడిశా మంత్రి చంద్రబాబును, లోకేష్‌ను తిడుతూ అక్కడి నుంచి స్టేట్‌మెంట్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మైక్రోసాఫ్ట్‌",
+     "evidence": "మైక్రోసాఫ్ట్‌ వచ్చింది, బిల్‌గేట్స్‌కు నేనే కంప్యూటర్‌ నేర్పించా."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బిల్‌గేట్స్‌",
+     "evidence": "మైక్రోసాఫ్ట్‌ వచ్చింది, బిల్‌గేట్స్‌కు నేనే కంప్యూటర్‌ నేర్పించా."
+    },
+    {
+     "source": "జిందాల్‌",
+     "relation": "LOCATED_IN",
+     "target": "కడప",
+     "evidence": "జిందాల్‌ వాళ్లు ఫౌండేషన్‌ స్టోన్‌ వేశాడు కడపలో"
+    },
+    {
+     "source": "సరస్వతీ పవర్‌ ఇండస్ట్రీస్‌",
+     "relation": "LOCATED_IN",
+     "target": "కడప",
+     "evidence": "సరస్వతీ పవర్‌ ఇండస్ట్రీస్‌ ఎందుకు కట్టలేకపోయాను"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

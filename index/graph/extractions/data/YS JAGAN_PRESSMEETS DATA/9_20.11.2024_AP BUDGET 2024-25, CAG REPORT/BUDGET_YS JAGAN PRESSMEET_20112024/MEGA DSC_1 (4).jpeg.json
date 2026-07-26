@@ -1,0 +1,46 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ff0b588eea6033aa01b9d8e2368c1687a055057f": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ ఆలస్యం!",
+     "type": "Issue",
+     "english_name": "DSSC Delay"
+    },
+    {
+     "name": "ఎస్సీ వర్గీకరణ కోసం ఆగిన నోటిఫికేషన్",
+     "type": "Issue",
+     "english_name": "SC Classification Notification Stopped"
+    },
+    {
+     "name": "ఏకసభ్య కమిషన్",
+     "type": "Organization",
+     "english_name": "One-member Commission"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "నవంబరు 17(ఆంధ్రజ్యోతి)",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "మెగా డీఎస్సీ నోటిఫికేషన్",
+     "type": "Scheme",
+     "english_name": "Mega DSC Notification"
+    },
+    {
+     "name": "సుప్రీం కోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

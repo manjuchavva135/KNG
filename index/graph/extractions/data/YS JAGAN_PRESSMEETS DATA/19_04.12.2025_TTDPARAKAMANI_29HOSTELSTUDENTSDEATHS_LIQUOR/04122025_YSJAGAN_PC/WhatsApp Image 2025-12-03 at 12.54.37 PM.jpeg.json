@@ -1,0 +1,152 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5fcfc686a5f409c63c23ccfbea20e6e716acf232": {
+   "entities": [
+    {
+     "name": "జవిశెట్టి వెంకటేశ్వర్లు",
+     "type": "Person",
+     "english_name": "Javishetti Venkateswarlu"
+    },
+    {
+     "name": "జవిశెట్టి కోటేశ్వరరావు",
+     "type": "Person",
+     "english_name": "Javishetti Kotheshwararao"
+    },
+    {
+     "name": "తోట వెంకట్రామయ్య",
+     "type": "Person",
+     "english_name": "Tota Venkataramaiah"
+    },
+    {
+     "name": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Pinnelli Ramakrishnareddy"
+    },
+    {
+     "name": "వెంకట్రామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Venkatarami Reddy"
+    },
+    {
+     "name": "జూలకంటి బ్రహ్మారెడ్డి",
+     "type": "Person",
+     "english_name": "Joolakanti Brahmareddy"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "గుండ్లపాడు",
+     "type": "Place",
+     "english_name": "Gundlapadu"
+    },
+    {
+     "name": "వెల్దుర్తి మండలం",
+     "type": "Place",
+     "english_name": "Veludurthi mandal"
+    },
+    {
+     "name": "బొదిలవీడు",
+     "type": "Place",
+     "english_name": "Bodilaveedu"
+    },
+    {
+     "name": "హుజూర్నగర్ జిల్లా",
+     "type": "Place",
+     "english_name": "Huzurnagar district"
+    },
+    {
+     "name": "మాచర్ల ప్రభుత్వాసుపత్రి",
+     "type": "Organization",
+     "english_name": "Macharla Government Hospital"
+    },
+    {
+     "name": "వెల్దుర్తి పోలీసులు",
+     "type": "Organization",
+     "english_name": "Veludurthi Police"
+    },
+    {
+     "name": "ఎస్పీ కంచి శ్రీనివాసరావు",
+     "type": "Person",
+     "english_name": "SP Kanchi Srinivasa Rao"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని పల్నాడు జిల్లా మాచర్ల ఎమ్మెల్యే జూలకంటి బ్రహ్మారెడ్డి ఆరోపించారు."
+    },
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వెంకట్రామిరెడ్డి",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని పల్నాడు జిల్లా మాచర్ల ఎమ్మెల్యే జూలకంటి బ్రహ్మారెడ్డి ఆరోపించారు."
+    },
+    {
+     "source": "జవిశెట్టి వెంకటేశ్వర్లు",
+     "relation": "MEMBER_OF",
+     "target": "తెదేపా",
+     "evidence": "ఇద్దరు తెదేపా నేతలు బలయ్యారు."
+    },
+    {
+     "source": "జవిశెట్టి కోటేశ్వరరావు",
+     "relation": "MEMBER_OF",
+     "target": "తెదేపా",
+     "evidence": "ఇద్దరు తెదేపా నేతలు బలయ్యారు."
+    },
+    {
+     "source": "తోట వెంకట్రామయ్య",
+     "relation": "MEMBER_OF",
+     "target": "తెదేపా",
+     "evidence": "హత్యకు ఉపయోగించిన స్కార్పియోను గుండ్లపాడుకు చెందిన తోట వెంకట్రామయ్యకు చెందినదిగా గుర్తించారు."
+    },
+    {
+     "source": "పిన్నెల్లి రామకృష్ణారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైకాపా",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని పల్నాడు జిల్లా మాచర్ల ఎమ్మెల్యే జూలకంటి బ్రహ్మారెడ్డి ఆరోపించారు."
+    },
+    {
+     "source": "వెంకట్రామిరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైకాపా",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని పల్నాడు జిల్లా మాచర్ల ఎమ్మెల్యే జూలకంటి బ్రహ్మారెడ్డి ఆరోపించారు."
+    },
+    {
+     "source": "జూలకంటి బ్రహ్మారెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైకాపా",
+     "evidence": "పల్లెల్లో జరుగుతున్న దాడులు, హత్యలకు వైకాపా మాజీ ఎమ్మెల్యే పిన్నెల్లి రామకృష్ణారెడ్డి, ఆయన సోదరుడు వెంకట్రామిరెడ్డి కారణమని పల్నాడు జిల్లా మాచర్ల ఎమ్మెల్యే జూలకంటి బ్రహ్మారెడ్డి ఆరోపించారు."
+    },
+    {
+     "source": "వెల్దుర్తి పోలీసులు",
+     "relation": "LOCATED_IN",
+     "target": "వెల్దుర్తి మండలం",
+     "evidence": "వెల్దుర్తి పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేస్తున్నారు."
+    },
+    {
+     "source": "మాచర్ల ప్రభుత్వాసుపత్రి",
+     "relation": "LOCATED_IN",
+     "target": "పల్నాడు జిల్లా",
+     "evidence": "మృతదేహాలను పోస్టుమార్టం నిమిత్తం మాచర్ల ప్రభుత్వాసుపత్రికి తరలించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

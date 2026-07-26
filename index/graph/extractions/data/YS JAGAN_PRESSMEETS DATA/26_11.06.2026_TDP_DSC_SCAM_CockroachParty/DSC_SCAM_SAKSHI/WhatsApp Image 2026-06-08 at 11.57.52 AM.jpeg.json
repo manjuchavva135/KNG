@@ -1,0 +1,56 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7fc2b18f104511e04981dfd1e6f564f867621467": {
+   "entities": [
+    {
+     "name": "KATIYA VENKATA KARUNIA",
+     "type": "Person",
+     "english_name": "Katiiya Venkata Karunia"
+    },
+    {
+     "name": "Postal Assistant",
+     "type": "Claim",
+     "english_name": "Postal Assistant"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "OBC",
+     "type": "Claim",
+     "english_name": "OBC"
+    },
+    {
+     "name": "Graduation",
+     "type": "Claim",
+     "english_name": "Graduation"
+    },
+    {
+     "name": "Gold - 1, Silver - 1",
+     "type": "Claim",
+     "english_name": "Gold - 1, Silver - 1"
+    },
+    {
+     "name": "Weightlifting",
+     "type": "Claim",
+     "english_name": "Weightlifting"
+    },
+    {
+     "name": "Rejected",
+     "type": "Claim",
+     "english_name": "Rejected"
+    },
+    {
+     "name": "FORM-I was uploaded by the candidate.\nBut, the candidate found participated in\nInternational Tournaments mentioned in\nForm-I with incorrect Date of Birth.",
+     "type": "Claim",
+     "english_name": "FORM-I was uploaded by the candidate. But, the candidate found participated in International Tournaments mentioned in Form-I with incorrect Date of Birth."
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

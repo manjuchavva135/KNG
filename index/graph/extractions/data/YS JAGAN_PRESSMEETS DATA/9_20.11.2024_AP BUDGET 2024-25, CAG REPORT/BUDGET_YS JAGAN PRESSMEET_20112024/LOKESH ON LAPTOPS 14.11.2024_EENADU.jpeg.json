@@ -1,0 +1,109 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3a37367d47f4dae074db810cdff22a246a3c9fa6": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "బొత్స సత్యనారాయణ",
+     "type": "Person",
+     "english_name": "Botsa Satyanarayana"
+    },
+    {
+     "name": "డి.బి.వి.స్వామి",
+     "type": "Person",
+     "english_name": "D.B.V. Swamy"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "శాసనమండలి",
+     "type": "Organization",
+     "english_name": "Legislative Council"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బొత్స సత్యనారాయణ",
+     "relation": "ACCUSES",
+     "target": "లోకేశ్",
+     "evidence": "మహిళలను అవమానించే వారిని మీ పార్టీ ప్రోత్సహిస్తుందా అని మండలిలో ప్రతిపక్ష నేత బొత్స సత్యనా రాయణను ఆయన నిలదీశారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "de44701ff865e74ed704b582a5902ab595abb370": {
+   "entities": [
+    {
+     "name": "ప్రతిపక్షం",
+     "type": "Party",
+     "english_name": "Opposition"
+    },
+    {
+     "name": "అధికార పక్షం",
+     "type": "Party",
+     "english_name": "Ruling Party"
+    },
+    {
+     "name": "మండలి చైర్మన్ మోసేనురాజు",
+     "type": "Person",
+     "english_name": "Mose Raju"
+    },
+    {
+     "name": "వైకాపా ఎమ్మెల్సీలు",
+     "type": "Party",
+     "english_name": "YSRCP MLCs"
+    },
+    {
+     "name": "మంత్రి గొట్టిపాటి రవికుమార్",
+     "type": "Person",
+     "english_name": "Minister Gottipati Ravikumar"
+    },
+    {
+     "name": "మంత్రి లోకేశ్",
+     "type": "Person",
+     "english_name": "Minister Lokesh"
+    },
+    {
+     "name": "తెదేపా ఎమ్మెల్యేలు",
+     "type": "Party",
+     "english_name": "TDP MLAs"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు సునీత, కళ్యాణచక్రవర్తి, పద్మశ్రీ",
+     "type": "Person",
+     "english_name": "MLCs Sunitha, Kalyanachakravathi, Padma Sri"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

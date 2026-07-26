@@ -581,6 +581,599 @@
      "evidence": "బీసీ వర్గానికి చెందిన ఐజీ కాంతిరాణా టాటాపై కూడా అక్రమ కేసు."
     }
    ]
+  },
+  "a3c2d51a8ba9ae67ab6b5e992acb8959dab117de": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Congress",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DIG",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "DSP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "Ontimitta",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "Errapalle",
+     "type": "Place",
+     "english_name": "Errapalle"
+    },
+    {
+     "name": "Kanampalle",
+     "type": "Place",
+     "english_name": "Kanampalle"
+    },
+    {
+     "name": "R. Tummalapalli",
+     "type": "Place",
+     "english_name": "R. Tummalapalli"
+    },
+    {
+     "name": "Pulivendula Rural",
+     "type": "Place",
+     "english_name": "Pulivendula Rural"
+    },
+    {
+     "name": "Chinna Kothapalli",
+     "type": "Place",
+     "english_name": "Chinna Kothapalli"
+    },
+    {
+     "name": "హేమం త్రెడ్డి",
+     "type": "Person",
+     "english_name": "Hemant Reddy"
+    },
+    {
+     "name": "బిటెక్ రవి",
+     "type": "Person",
+     "english_name": "BTech Ravi"
+    },
+    {
+     "name": "భరత్",
+     "type": "Person",
+     "english_name": "Bharat"
+    },
+    {
+     "name": "కోయ ప్రవీణ్",
+     "type": "Person",
+     "english_name": "Koy Praveen"
+    },
+    {
+     "name": "డీఎస్పీ మురళి",
+     "type": "Person",
+     "english_name": "DSP Murli"
+    },
+    {
+     "name": "మండిపల్లి రాంప్రసాద్రెడ్డి",
+     "type": "Person",
+     "english_name": "Mandipalli Ramprasad Reddy"
+    }
+   ],
+   "relations": []
+  },
+  "0df0a9ea30905db34be4b9c33e907952c5408415": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "తుమ్మల హేమంత్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Tummala Hemant Reddy"
+    },
+    {
+     "name": "ఇరంరెడ్డి సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "Iram Reddy Subba Reddy"
+    },
+    {
+     "name": "ఎమ్మెల్సీ రమేష్ యాదవ్",
+     "type": "Person",
+     "english_name": "M. L. C. Ramesh Yadav"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "రాష్ట్ర ఎన్నికల కమిషన్",
+     "type": "Organization",
+     "english_name": "State Election Commission"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "బయటి నుంచి వచ్చి, పోలింగ్ బూత్లు ఆక్రమించి దొంగ ఓట్లు వేశారనేది",
+     "type": "Claim",
+     "english_name": "Bogus votes were cast by outsiders after occupying polling booths"
+    },
+    {
+     "name": "పోలీసులు, టీడీపీ నాయకులు జట్టుగా ఏర్పడి వైఎస్సార్సీపీ ఏజెంట్లను పోలింగ్ బూత్లలోకి వెళ్లకుండా అడ్డుకోవడం, ఏజెంట్లపై దౌర్జన్యం చేయడం.. ఓటు వేయడానికి వెళ్తున్న ఓటర్లను అడ్డుకోవడం.. ఇతర ప్రాంతాల నుంచి రప్పించిన టీడీపీ నాయకులతో దొంగ ఓట్లు వేయించుకోవడం, కలెక్టర్ సమక్షంలోనే దొంగ ఓట్లు వేయడం",
+     "type": "Claim",
+     "english_name": "Police and TDP leaders colluded to block YSRCP agents and voters, and facilitated bogus voting"
+    },
+    {
+     "name": "రాష్ట్ర ఎన్నికల కమిషన్ పూర్తిగా విఫలమైన తీరు",
+     "type": "Claim",
+     "english_name": "State Election Commission completely failed in conducting elections"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "పోలీసులు, టీడీపీ నాయకులు జట్టుగా ఏర్పడి వైఎస్సార్సీపీ ఏజెంట్లను పోలింగ్ బూత్లలోకి వెళ్లకుండా అడ్డుకోవడం, ఏజెంట్లపై దౌర్జన్యం చేయడం.. ఓటు వేయడానికి వెళ్తున్న ఓటర్లను అడ్డుకోవడం.. ఇతర ప్రాంతాల నుంచి రప్పించిన టీడీపీ నాయకులతో దొంగ ఓట్లు వేయించుకోవడం, కలెక్టర్ సమక్షంలోనే దొంగ ఓట్లు వేయడం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర ఎన్నికల కమిషన్",
+     "evidence": "రాష్ట్ర ఎన్నికల కమిషన్ పూర్తిగా విఫలమైన తీరు"
+    }
+   ]
+  },
+  "1813671c6c0e14ddacbf15cd82a0b7013821ea8a": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "ZPTC",
+     "type": "Organization",
+     "english_name": "ZPTC"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    },
+    {
+     "name": "Naxalism",
+     "type": "Issue",
+     "english_name": "Naxalism"
+    },
+    {
+     "name": "ఎన్నికలు హాస్యాస్పదమే అవుతాయి.",
+     "type": "Claim",
+     "english_name": "Elections become a joke."
+    },
+    {
+     "name": "చంద్రబాబు ఈ రోజు ఒక ప్రమాదకర పరిస్థితికి పునాది వేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": "Chandrababu is laying the foundation for a dangerous situation today."
+    },
+    {
+     "name": "నిన్న జరిగిన రెండు ఎన్నికలు రద్దు చేయండి.",
+     "type": "Claim",
+     "english_name": "Cancel the two elections that happened yesterday."
+    },
+    {
+     "name": "కేంద్ర బలగాల ఆధ్వర్యంలో ఎన్నికలు జరపండి.",
+     "type": "Claim",
+     "english_name": "Conduct elections under central forces."
+    },
+    {
+     "name": "ప్రజలు ఎవరికి ఓటు వేస్తారో ఒక ఛాలెంజ్గా తీసుకోండి.",
+     "type": "Claim",
+     "english_name": "Take as a challenge who the people will vote for."
+    },
+    {
+     "name": "ఎల్లో మీడియా లక్ష్యం ఇదే.",
+     "type": "Claim",
+     "english_name": "That is the goal of the yellow media."
+    },
+    {
+     "name": "దోచుకో.. పంచుకో.. తినుకో.. అదే వారి ఎజెండా.",
+     "type": "Claim",
+     "english_name": "Their agenda is to loot, share, and eat."
+    },
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మానికమ్ టాగూర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అవినాష్రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కోయ ప్రవీణ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జమ్మలమడుగు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కమలాపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పులివెందుల టౌన్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మొట్నూతలపల్లె",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఎర్రపల్లె",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కనంపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections Pulivendula-Ontimitta",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అక్రమ అరెస్టు నిజం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పోలింగ్ బూత్ల ఆక్రమణ నిజం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఓటర్లను అద్దగించడం నిజం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలను ఓటు వేయనివ్వక పోవడం నిజం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ దుర్మార్గాలను సాక్ష్యాధారాలతో కడిగిపారేసిన వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్నికలు హాస్యాస్పదమే అవుతాయి.",
+     "evidence": "ఎన్నికలు హాస్యాస్పదమే అవుతాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు ఈ రోజు ఒక ప్రమాదకర పరిస్థితికి పునాది వేస్తున్నారు.",
+     "evidence": "చంద్రబాబు ఈ రోజు ఒక ప్రమాదకర పరిస్థితికి పునాది వేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నిన్న జరిగిన రెండు ఎన్నికలు రద్దు చేయండి.",
+     "evidence": "నిన్న జరిగిన రెండు ఎన్నికలు రద్దు చేయండి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర బలగాల ఆధ్వర్యంలో ఎన్నికలు జరపండి.",
+     "evidence": "కేంద్ర బలగాల ఆధ్వర్యంలో ఎన్నికలు జరపండి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలు ఎవరికి ఓటు వేస్తారో ఒక ఛాలెంజ్గా తీసుకోండి.",
+     "evidence": "ప్రజలు ఎవరికి ఓటు వేస్తారో ఒక ఛాలెంజ్గా తీసుకోండి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎల్లో మీడియా లక్ష్యం ఇదే.",
+     "evidence": "ఎల్లో మీడియా లక్ష్యం ఇదే."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "దోచుకో.. పంచుకో.. తినుకో.. అదే వారి ఎజెండా.",
+     "evidence": "దోచుకో.. పంచుకో.. తినుకో.. అదే వారి ఎజెండా."
+    },
+    {
+     "source": "ZPTC",
+     "relation": "LOCATED_IN",
+     "target": "పులివెందుల",
+     "evidence": "పులివెందుల జెడ్పీటీసీ కింద ఆరు పంచాయతీలకు సంబంధించి 15 పోలింగ్ కేంద్రాలు ఉన్నాయి."
+    },
+    {
+     "source": "ZPTC",
+     "relation": "LOCATED_IN",
+     "target": "ఒంటిమిట్ట",
+     "evidence": "పులివెందుల జెడ్పీటీసీ కింద ఆరు పంచాయతీలకు సంబంధించి 15 పోలింగ్ కేంద్రాలు ఉన్నాయి."
+    },
+    {
+     "source": "అక్రమ అరెస్టు నిజం కాదా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections Pulivendula-Ontimitta",
+     "evidence": "అక్రమ అరెస్టు నిజం కాదా?"
+    },
+    {
+     "source": "పోలింగ్ బూత్ల ఆక్రమణ నిజం కాదా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections Pulivendula-Ontimitta",
+     "evidence": "పోలింగ్ బూత్ల ఆక్రమణ నిజం కాదా?"
+    },
+    {
+     "source": "ఓటర్లను అద్దగించడం నిజం కాదా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections Pulivendula-Ontimitta",
+     "evidence": "ఓటర్లను అద్దగించడం నిజం కాదా?"
+    },
+    {
+     "source": "మహిళలను ఓటు వేయనివ్వక పోవడం నిజం కాదా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ZPTC Elections Pulivendula-Ontimitta",
+     "evidence": "మహిళలను ఓటు వేయనివ్వక పోవడం నిజం కాదా?"
+    }
+   ]
+  },
+  "1a910ba5ba4beb11700851a12be0afddf730e9d0": {
+   "entities": [
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "మానికమ్ టాగూర్",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": "Nandyala"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సవిత",
+     "type": "Person",
+     "english_name": "Savitri"
+    },
+    {
+     "name": "ఆదినారాయణ రెడ్డి",
+     "type": "Person",
+     "english_name": "Adinarayana Reddy"
+    },
+    {
+     "name": "పుత్తా చైతన్య",
+     "type": "Person",
+     "english_name": "Putta Chaitanya"
+    },
+    {
+     "name": "బీటెక్ రవి",
+     "type": "Person",
+     "english_name": "BTech Ravi"
+    },
+    {
+     "name": "కనంపల్లి",
+     "type": "Place",
+     "english_name": "Kanampalli"
+    },
+    {
+     "name": "ఎర్రబల్లె",
+     "type": "Place",
+     "english_name": "Erraballe"
+    },
+    {
+     "name": "జమ్మలమడుగు",
+     "type": "Place",
+     "english_name": "Jammalamadugu"
+    },
+    {
+     "name": "నల్లపు రెడ్డిపల్లె",
+     "type": "Place",
+     "english_name": "Nallapu Reddypalle"
+    },
+    {
+     "name": "ఈ.కొత్తపల్లి",
+     "type": "Place",
+     "english_name": "E.Kothapalli"
+    },
+    {
+     "name": "పులివెందుల రూరల్",
+     "type": "Place",
+     "english_name": "Pulivendula Rural"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": "ZPTC Elections"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    }
+   ],
+   "relations": []
   }
  }
 }

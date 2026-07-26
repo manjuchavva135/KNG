@@ -1,0 +1,487 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7efb584d52b1699cf51c686e7eb0eeee644c888b": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "హోం మంత్రి",
+     "type": "Person",
+     "english_name": "Home Minister"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం",
+     "type": "Person",
+     "english_name": "Deputy CM"
+    },
+    {
+     "name": "పిఠాపురం నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Pithapuram constituency"
+    },
+    {
+     "name": "చంద్రగిరి నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Chandra Giri constituency"
+    },
+    {
+     "name": "కాకినాడ రూరల్ ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Kakinada Rural MLA"
+    },
+    {
+     "name": "సోషల్ మీడియా కార్యకర్తలు",
+     "type": "Person",
+     "english_name": "Social media activists"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "రాష్ట్రం అంతటా టీడీపీ శ్రేణుల దౌర్జన్యాలు, అరాచకాలు"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "హోం మంత్రి",
+     "evidence": "హోం మంత్రి పక్క నియోజకవర్గమే అయినా పరామర్శిం"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "డిప్యూటీ సీఎం",
+     "evidence": "డిప్యూటీ సీఎం ప్రాతినిధ్యం వహిస్తున్న పిఠాపురం నియోజకవర్గంలో సాక్షాత్తు టీడీపీకి చెందిన కౌన్సిలర్ భర్త ఓ దళిత మహిళను తీసుకుని పోయి డంప్యార్డులో రేప్ చేస్తే"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "కాకినాడ రూరల్ ఎమ్మెల్యే",
+     "evidence": "కాకినాడ రూరల్ ఎమ్మెల్యే, ఎమ్మెల్యే అనుచరులు కాకినాడ రూరల్లో ఫీల్డ్ అసిస్టెంట్ను పక్కలోకి వస్తావా అన్న స్టేట్మెంట్ వైరల్ అయ్యింది"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "సోషల్ మీడియా కార్యకర్తలు",
+     "evidence": "వీటిని ప్రశ్నించిన సోషల్ మీడియా కార్యకర్తలపై తప్పుడు కేసులు పెట్టి అక్రమంగా నిర్బంధించి వేధిస్తున్నారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6a9ca5a28e687be85a758efee4c16c9a56183c8f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "అనకాపల్లి జిల్లా రాంబల్లి మండలంలో",
+     "type": "Place",
+     "english_name": "Ramaballi Mandal, Anakapalli District"
+    },
+    {
+     "name": "కొప్పగుంటపాలెంలో",
+     "type": "Place",
+     "english_name": "Koppagunta Palem"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవన్లు",
+     "type": "Scheme",
+     "english_name": "Super Sevenths"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "NDAA ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "NDA Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "NDAA ప్రభుత్వం",
+     "evidence": "ఎన్నికలప్పుడు వాళ్లు ఏం చెప్పారో.. ఏ హామీలిచ్చారో పక్కకు వెళ్లిపోయాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "45a2e61c7e123205cf75f3f2e278145d1093d249": {
+   "entities": [
+    {
+     "name": "ద్రబాబును",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు",
+     "type": "Party",
+     "english_name": "YSRCP President"
+    },
+    {
+     "name": "మాజీ ముఖ్యమంత్రి వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Former Chief Minister Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "తెనాలి",
+     "type": "Place",
+     "english_name": "Tenali"
+    },
+    {
+     "name": "సహానా",
+     "type": "Person",
+     "english_name": "Sahana"
+    },
+    {
+     "name": "టీడీపీ నాయకుడు",
+     "type": "Party",
+     "english_name": "TDP leader"
+    },
+    {
+     "name": "రౌడీషీటర్",
+     "type": "Person",
+     "english_name": "Rowdy Sheeter"
+    },
+    {
+     "name": "కేంద్ర మంత్రి పెమ్మ సాని చంద్రశేఖర్",
+     "type": "Person",
+     "english_name": "Union Minister Pemma Sani Chandrasekhar"
+    },
+    {
+     "name": "బద్వేలు",
+     "type": "Place",
+     "english_name": "Badvel"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "హిందూపురం",
+     "type": "Place",
+     "english_name": "Hindupuram"
+    },
+    {
+     "name": "హిందూపురం ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "Hindupuram MLA"
+    },
+    {
+     "name": "అనకాపల్లి జిల్లా రాంబల్లి మండలంలో కొప్పగుంటపాలెంలో",
+     "type": "Place",
+     "english_name": "Koppagunta Palem, Rambilli Mandal, Anakapalli district"
+    },
+    {
+     "name": "9వ తరగతి బాలిక",
+     "type": "Person",
+     "english_name": "9th grade girl"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ద్రబాబును",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ నాయకుడు",
+     "evidence": "తెనాలిలో సహానా అనే అమ్మాయిపై దాడి చేసి చంపేసాడు. నేరస్తుడు ఎవరంటే టీడీపీ నాయకుడే."
+    },
+    {
+     "source": "ద్రబాబును",
+     "relation": "ACCUSES",
+     "target": "కేంద్ర మంత్రి పెమ్మ సాని చంద్రశేఖర్",
+     "evidence": "రౌడీషీటర్. కేంద్ర మంత్రి పెమ్మ సాని చంద్రశేఖర్ అనుంగు అనుచరుడు."
+    },
+    {
+     "source": "ద్రబాబును",
+     "relation": "ACCUSES",
+     "target": "హిందూపురం ఎమ్మెల్యే",
+     "evidence": "హిందూపురం ఎమ్మెల్యే సాక్షాత్తు చంద్రబాబు బావమరిది. ఆ కుటుంబాన్ని వెళ్లి ఎమ్మెల్యే పరామర్శించనూ లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c68e3e5468170c26c062604fd4e9bae2dd818271": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "BOSCH",
+     "type": "Organization",
+     "english_name": "BOSCH"
+    },
+    {
+     "name": "English medium",
+     "type": "Scheme",
+     "english_name": "English medium"
+    },
+    {
+     "name": "TOEFL classes",
+     "type": "Scheme",
+     "english_name": "TOEFL classes"
+    },
+    {
+     "name": "CBSE",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "IB",
+     "type": "Organization",
+     "english_name": "IB"
+    },
+    {
+     "name": "Subject teacher concept",
+     "type": "Scheme",
+     "english_name": "Subject teacher concept"
+    },
+    {
+     "name": "Naadu-Nedu works",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu works"
+    },
+    {
+     "name": "Midday meal",
+     "type": "Scheme",
+     "english_name": "Midday meal"
+    },
+    {
+     "name": "Amma Vodi",
+     "type": "Scheme",
+     "english_name": "Amma Vodi"
+    },
+    {
+     "name": "Health Asara",
+     "type": "Scheme",
+     "english_name": "Health Asara"
+    },
+    {
+     "name": "Family doctor concept",
+     "type": "Scheme",
+     "english_name": "Family doctor concept"
+    },
+    {
+     "name": "WHO",
+     "type": "Organization",
+     "english_name": "WHO"
+    },
+    {
+     "name": "GMP medicines",
+     "type": "Organization",
+     "english_name": "GMP medicines"
+    },
+    {
+     "name": "Zero vacancy policy",
+     "type": "Scheme",
+     "english_name": "Zero vacancy policy"
+    },
+    {
+     "name": "CHCs",
+     "type": "Organization",
+     "english_name": "CHCs"
+    },
+    {
+     "name": "District hospitals",
+     "type": "Organization",
+     "english_name": "District hospitals"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "English medium",
+     "evidence": "ఇంగ్లిష్ మీడియం గాడి తప్పింది."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "TOEFL classes",
+     "evidence": "టోఫెల్ క్లాసులు మూసేశారు."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Subject teacher concept",
+     "evidence": "సబ్జెక్టు టీచర్ కాన్సెప్ట్ ఆపేశారు."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Naadu-Nedu works",
+     "evidence": "నాడు- నేడు పనులు ఆగిపోయాయి."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Midday meal",
+     "evidence": "గోరుముద్దలో పిల్లలకు రోజుకొక మెనూతో పెట్టాల్సిన భోజనం లేదు."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Amma Vodi",
+     "evidence": "అమ్మ ఒడి కూడా లేదు."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Health Asara",
+     "evidence": "ఆరోగ్య ఆసరా ఊసే లేదు."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Family doctor concept",
+     "evidence": "ఫ్యామిలీ డాక్టర్ కాన్సెప్ట్ గాలికెగిరిపోయింది."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Zero vacancy policy",
+     "evidence": "జీరో వేకెన్సీ విధానం తెస్తే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4de7a552941b757e596327ac27d16978d5aabea1": {
+   "entities": [
+    {
+     "name": "Family Doctor Concept",
+     "type": "Scheme",
+     "english_name": "Family Doctor Concept"
+    },
+    {
+     "name": "Government hospitals",
+     "type": "Organization",
+     "english_name": "Government hospitals"
+    },
+    {
+     "name": "WHO",
+     "type": "Organization",
+     "english_name": "WHO"
+    },
+    {
+     "name": "GMP medicines",
+     "type": "Scheme",
+     "english_name": "GMP medicines"
+    },
+    {
+     "name": "Zero vacancy policy",
+     "type": "Scheme",
+     "english_name": "Zero vacancy policy"
+    },
+    {
+     "name": "CHCs",
+     "type": "Organization",
+     "english_name": "CHCs"
+    },
+    {
+     "name": "District hospitals",
+     "type": "Organization",
+     "english_name": "District hospitals"
+    },
+    {
+     "name": "Specialist doctors recruitment",
+     "type": "Scheme",
+     "english_name": "Specialist doctors recruitment"
+    },
+    {
+     "name": "Door delivery",
+     "type": "Scheme",
+     "english_name": "Door delivery"
+    },
+    {
+     "name": "Transparency",
+     "type": "Scheme",
+     "english_name": "Transparency"
+    },
+    {
+     "name": "Janmabhoomi committees",
+     "type": "Organization",
+     "english_name": "Janmabhoomi committees"
+    },
+    {
+     "name": "Activists",
+     "type": "Organization",
+     "english_name": "Activists"
+    },
+    {
+     "name": "Pensions",
+     "type": "Scheme",
+     "english_name": "Pensions"
+    },
+    {
+     "name": "Registration program",
+     "type": "Scheme",
+     "english_name": "Registration program"
+    },
+    {
+     "name": "91 rapes",
+     "type": "Claim",
+     "english_name": "91 rapes"
+    },
+    {
+     "name": "7 killed",
+     "type": "Claim",
+     "english_name": "7 killed"
+    },
+    {
+     "name": "Law and order",
+     "type": "Issue",
+     "english_name": "Law and order"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ffbae5fdfbe11fb3ac5ef179299bd5ea99527439": {
+   "entities": [
+    {
+     "name": "ఆడపిల్ల నిధి పథకం",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi Scheme"
+    },
+    {
+     "name": "మహిళలకు ఆర్థిక సహకారం",
+     "type": "Scheme",
+     "english_name": "Financial Assistance for Women"
+    },
+    {
+     "name": "సూపర్ సిక్స్ పథకాలు",
+     "type": "Scheme",
+     "english_name": "Super Six Schemes"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "బీసీ మహిళలు",
+     "type": "Organization",
+     "english_name": "BC Women"
+    },
+    {
+     "name": "ఆర్థికంగా వెనుకబడిన వర్గాలు",
+     "type": "Organization",
+     "english_name": "Economically Backward Classes"
+    },
+    {
+     "name": "మైనారిటీలు",
+     "type": "Organization",
+     "english_name": "Minorities"
+    },
+    {
+     "name": "ఎస్సీ మహిళలు",
+     "type": "Organization",
+     "english_name": "SC Women"
+    },
+    {
+     "name": "గిరిజన మహిళలు",
+     "type": "Organization",
+     "english_name": "Tribal Women"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఈనాడు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈనాడు, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

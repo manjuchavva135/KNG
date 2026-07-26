@@ -1,0 +1,234 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8faa2f1c27e620521aa222c177bfecb75093410d": {
+   "entities": [
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "బీసీ డిక్లరేషన్",
+     "type": "Scheme",
+     "english_name": "BC Declaration"
+    },
+    {
+     "name": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం",
+     "type": "Scheme",
+     "english_name": "BC 50-year pension Rs.4k"
+    },
+    {
+     "name": "బీసీల రక్షణ కోసం ప్రత్యేక చట్టం",
+     "type": "Scheme",
+     "english_name": "Special law for BC protection"
+    },
+    {
+     "name": "బీసీ సబ్ ప్లాన్",
+     "type": "Scheme",
+     "english_name": "BC Sub Plan"
+    },
+    {
+     "name": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "type": "Scheme",
+     "english_name": "SC, ST Welfare"
+    },
+    {
+     "name": "జిలవారీగా వరీకరణ అమలుచేసాం",
+     "type": "Scheme",
+     "english_name": "Jilavari varierika implementation"
+    },
+    {
+     "name": "ఎస్సీ, ఎస్టీలకు 50 ఏళ్లకే పెంఛన్ మంజూరు",
+     "type": "Scheme",
+     "english_name": "SC, ST 50-year pension"
+    },
+    {
+     "name": "సబప్లాన్ నిధులు",
+     "type": "Scheme",
+     "english_name": "Subplan funds"
+    },
+    {
+     "name": "ఏజెన్సీలో ఆదివాసీ ఉపాధ్యాయుల నియామకం",
+     "type": "Scheme",
+     "english_name": "Tribal teacher recruitment in agency"
+    },
+    {
+     "name": "జీవో 3 పునరుద్ధరణ",
+     "type": "Scheme",
+     "english_name": "GO 3 restoration"
+    },
+    {
+     "name": "ప్రస్తుత ప్రభుత్వం రద్దు చేసిన ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునరుద్ధరణ",
+     "type": "Scheme",
+     "english_name": "Restoration of cancelled SC, ST welfare schemes"
+    },
+    {
+     "name": "డా॥ సుధాకర్",
+     "type": "Person",
+     "english_name": "Dr. Sudhakar"
+    },
+    {
+     "name": "డ్రైవర్ సుబ్రహ్మణ్యం",
+     "type": "Person",
+     "english_name": "Driver Subramanyam"
+    },
+    {
+     "name": "మంత్రూబాయ్",
+     "type": "Person",
+     "english_name": "Mantruboy"
+    },
+    {
+     "name": "డా॥ అచ్చెన్న",
+     "type": "Person",
+     "english_name": "Dr. Achchenna"
+    },
+    {
+     "name": "మైనారిటీలకు ముఖ్య పట్టణాల్లో ఈద్గాలకు, ఖబరిస్తాన్లకు స్థలాలు కేటాయింపు",
+     "type": "Scheme",
+     "english_name": "Land allocation for Eidgahs and Qabristans in major towns for minorities"
+    },
+    {
+     "name": "విజయవాడ సమీపంలో హజ్హౌస్ నిర్మాణం",
+     "type": "Scheme",
+     "english_name": "Construction of Haj House near Vijayawada"
+    },
+    {
+     "name": "మూర్బాషా కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Murbasha Corporation"
+    },
+    {
+     "name": "మైనారిటీ ఫైనాన్స్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Minority Finance Corporation"
+    },
+    {
+     "name": "ఇమామ్, మౌజిన్లకు ప్రతినెలా రూ.10 వేలు మరియు రూ.5 వేలు గౌరవ వేతనం",
+     "type": "Scheme",
+     "english_name": "Monthly honorarium for Imams and Maazins"
+    },
+    {
+     "name": "అర్హత ఉన్న ఇమామ్లను ప్రభుత్వ ఖాజీలుగా నియమించుట",
+     "type": "Scheme",
+     "english_name": "Appointment of eligible Imams as government Qazis"
+    },
+    {
+     "name": "మసీదుల నిర్వహణకు ప్రతి నెలా రూ.5 వేలు ఆర్థిక సాయం",
+     "type": "Scheme",
+     "english_name": "Monthly financial assistance for mosque maintenance"
+    },
+    {
+     "name": "హజ్ యాత్రకు వెళ్లే ఒక్కో ముస్లింకు రూ.1 లక్ష సాయం",
+     "type": "Scheme",
+     "english_name": "Rs.1 lakh assistance per Muslim for Haj pilgrimage"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ డిక్లరేషన్",
+     "evidence": "బీసీ డిక్లరేషన్"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం",
+     "evidence": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీల రక్షణ కోసం ప్రత్యేక చట్టం",
+     "evidence": "బీసీల రక్షణ కోసం ప్రత్యేక చట్టం"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ సబ్ ప్లాన్",
+     "evidence": "బీసీ సబ్ ప్లాన్ ద్వారా విదేళ్లలో రూ.లక్షన్నర కోట్లు ఖర్చు చేస్తాం."
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఎస్సీ, ఎస్టీ సంక్షేమం",
+     "evidence": "ఎస్సీ, ఎస్టీ సంక్షేమం"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జిలవారీగా వరీకరణ అమలుచేసాం",
+     "evidence": "జిలవారీగా వరీకరణ అమలుచేసాం"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఎస్సీ, ఎస్టీలకు 50 ఏళ్లకే పెంఛన్ మంజూరు",
+     "evidence": "ఎస్సీ, ఎస్టీలకు 50 ఏళ్లకే పెంఛన్ మంజూరు"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సబప్లాన్ నిధులు",
+     "evidence": "సబప్లాన్ నిధులు వారి అభివృద్ధికి ఖర్చు చేస్తాం."
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఏజెన్సీలో ఆదివాసీ ఉపాధ్యాయుల నియామకం",
+     "evidence": "ఏజెన్సీలో ఆదివాసీ ఉపాధ్యాయుల నియామకం."
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో 3 పునరుద్ధరణ",
+     "evidence": "జీవో 3 పునరుద్ధరణ"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రస్తుత ప్రభుత్వం రద్దు చేసిన ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునరుద్ధరణ",
+     "evidence": "ప్రస్తుత ప్రభుత్వం రద్దు చేసిన ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునరుద్ధరణ"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మైనారిటీలకు ముఖ్య పట్టణాల్లో ఈద్గాలకు, ఖబరిస్తాన్లకు స్థలాలు కేటాయింపు",
+     "evidence": "మైనారిటీలకు ముఖ్య పట్టణాల్లో ఈద్గాలకు, ఖబరిస్తాన్లకు స్థలాలు కేటాయింపు; విజయవాడ సమీపంలో హజ్హౌస్ నిర్మాణం"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "విజయవాడ సమీపంలో హజ్హౌస్ నిర్మాణం",
+     "evidence": "విజయవాడ సమీపంలో హజ్హౌస్ నిర్మాణం"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇమామ్, మౌజిన్లకు ప్రతినెలా రూ.10 వేలు మరియు రూ.5 వేలు గౌరవ వేతనం",
+     "evidence": "ఇమామ్, మౌజిన్లకు ప్రతినెలా రూ.10 వేలు మరియు రూ.5 వేలు గౌరవ వేతనం;"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అర్హత ఉన్న ఇమామ్లను ప్రభుత్వ ఖాజీలుగా నియమించుట",
+     "evidence": "అర్హత ఉన్న ఇమామ్లను ప్రభుత్వ ఖాజీలుగా నియమించుట"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మసీదుల నిర్వహణకు ప్రతి నెలా రూ.5 వేలు ఆర్థిక సాయం",
+     "evidence": "మసీదుల నిర్వహణకు ప్రతి నెలా రూ.5 వేలు ఆర్థిక సాయా;"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "హజ్ యాత్రకు వెళ్లే ఒక్కో ముస్లింకు రూ.1 లక్ష సాయం",
+     "evidence": "హజ్ యాత్రకు వెళ్లే ఒక్కో ముస్లింకు రూ.1 లక్ష సాయం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

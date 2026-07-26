@@ -1,0 +1,74 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "282c0c2ce5ecabda7fe015a9e145eff83b5f6de3": {
+   "entities": [
+    {
+     "name": "BANDARU YAMUNA",
+     "type": "Person",
+     "english_name": "Bandaru Yamuna"
+    },
+    {
+     "name": "BANDARU ESWARA RAO",
+     "type": "Person",
+     "english_name": "Bandaru Eswara Rao"
+    },
+    {
+     "name": "MEGA DSC (TEACHER RECRUITMENT TEST) - 2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC Teacher Recruitment Test 2025"
+    },
+    {
+     "name": "res_committee_ves",
+     "type": "Organization",
+     "english_name": "res_committee_ves"
+    },
+    {
+     "name": "Visakhapatnam Vidyalayam",
+     "type": "Organization",
+     "english_name": "Visakhapatnam Vidyalayam"
+    },
+    {
+     "name": "Ganduapalem",
+     "type": "Place",
+     "english_name": "Ganduapalem"
+    },
+    {
+     "name": "KOTAPADULI",
+     "type": "Place",
+     "english_name": "KOTAPADULI"
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "Sri / Smt Bandaru YAMUNA",
+     "type": "Person",
+     "english_name": "Sri / Smt Bandaru Yamuna"
+    },
+    {
+     "name": "So / Div No Sr BANDARU ESWARA RAO",
+     "type": "Person",
+     "english_name": "So / Div No Sr Bandaru Eswara Rao"
+    }
+   ],
+   "relations": [
+    {
+     "source": "BANDARU YAMUNA",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "MEGA DSC (TEACHER RECRUITMENT TEST) - 2025",
+     "evidence": "It is hereby informed that Sri / Smt Bandaru YAMUNA, So / Div No Sr BANDARU ESWARA RAO, appeared for Mega DSC – 2025, is hereby requested attend for Certificate Verification in person as per the Schedule given below."
+    },
+    {
+     "source": "Visakhapatnam Vidyalayam",
+     "relation": "LOCATED_IN",
+     "target": "Visakhapatnam",
+     "evidence": "Visakhapatnam Vidyalayam"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

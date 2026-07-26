@@ -1,0 +1,189 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4c458383f49d56e4016ce01fad94c25f5d434243": {
+   "entities": [
+    {
+     "name": "అప్పులు రూ.9.74 లక్షల కోట్లు..",
+     "type": "Claim",
+     "english_name": "State debt of Rs 9.74 lakh crore"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు రూ.9,74,556 కోట్లు",
+     "type": "Claim",
+     "english_name": "State debt of Rs 9,74,556 crore"
+    },
+    {
+     "name": "6 పైసలు ఎలక్ట్రిసిటీ డ్యూటీ",
+     "type": "Claim",
+     "english_name": "6 paise electricity duty"
+    },
+    {
+     "name": "తాగునీటి పన్ను",
+     "type": "Claim",
+     "english_name": "Drinking water tax"
+    },
+    {
+     "name": "ఆర్థికలోటు",
+     "type": "Claim",
+     "english_name": "Fiscal deficit"
+    },
+    {
+     "name": "తలసరి వినియోగం",
+     "type": "Claim",
+     "english_name": "Per capita consumption"
+    },
+    {
+     "name": "వృద్ధిరేటు",
+     "type": "Claim",
+     "english_name": "Growth rate"
+    },
+    {
+     "name": "ఆదాయం",
+     "type": "Claim",
+     "english_name": "Revenue"
+    },
+    {
+     "name": "బటన్లు నొక్కిందుకు అప్పులు తెచ్చారు",
+     "type": "Claim",
+     "english_name": "Borrowed money by pressing buttons"
+    },
+    {
+     "name": "సామాజిక పింఛన్",
+     "type": "Claim",
+     "english_name": "Social pension"
+    },
+    {
+     "name": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu Naidu"
+    },
+    {
+     "name": "కేంద్ర ఆర్థిక మంత్రి నిర్మలా సీతారామన్",
+     "type": "Person",
+     "english_name": "Union Finance Minister Nirmala Sitharaman"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Organization",
+     "english_name": "State Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పులు రూ.9,74,556 కోట్లు",
+     "evidence": "రాష్ట్ర అప్పులు రూ.9,74,556 కోట్లు."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "6 పైసలు ఎలక్ట్రిసిటీ డ్యూటీ",
+     "evidence": "2014-19 మధ్య 6 పైసలు ఎలక్ట్రిసిటీ డ్యూటీ వేశాం."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "తాగునీటి పన్ను",
+     "evidence": "తాగునీటి పన్ను లిటరుకు రూ.40 నుంచి రూ.120కి పెంచారు."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆర్థికలోటు",
+     "evidence": "ఆర్థికలోటును రూ.35,440 కోట్ల నుంచి రూ.59,995 కోట్లు చేశారు."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "తలసరి వినియోగం",
+     "evidence": "తలసరి వినియోగం 9 శాతం నుంచి 2 శాతానికి తగ్గింది."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "వృద్ధిరేటు",
+     "evidence": "వృద్ధిరేటు 18.5 శాతం మేము సాధిస్తే దాన్ని 10.6 శాతానికి దిగజారుచారు."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆదాయం",
+     "evidence": "3 శాతం వృద్ధిరేటు అంటే రూ.6.94 లక్షల కోట్ల ఆదాయం తగ్గిపోతుంది."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "బటన్లు నొక్కిందుకు అప్పులు తెచ్చారు",
+     "evidence": "బటన్లు నొక్కిందుకు అప్పులు తెచ్చారు."
+    },
+    {
+     "source": "ముఖ్యమంత్రి చంద్రబాబు నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "సామాజిక పింఛన్",
+     "evidence": "రూ.4వేలు సామాజిక పింఛన్ అందిస్తున్న ఏకైక రాష్ట్రం మనదే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2eccf4717366e31d6024e280e9576065cc060f07": {
+   "entities": [
+    {
+     "name": "కేంద్ర ఆర్థికమంత్రి",
+     "type": "Person",
+     "english_name": "Union Finance Minister"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "విదేశాంగ మంత్రి",
+     "type": "Person",
+     "english_name": "External Affairs Minister"
+    },
+    {
+     "name": "జైశంకర్",
+     "type": "Person",
+     "english_name": "S. Jaishankar"
+    },
+    {
+     "name": "రాష్ట్రానికి శాపంగా",
+     "type": "Issue",
+     "english_name": "State curse"
+    },
+    {
+     "name": "గోదావరి - కృష్ణా - పెన్నాల అనుసంధానానికి",
+     "type": "Scheme",
+     "english_name": "Godavari-Krishna-Pennar linking"
+    },
+    {
+     "name": "1% అదనపు సర్ఛార్జీ",
+     "type": "Scheme",
+     "english_name": "1% additional surcharge on SGST"
+    },
+    {
+     "name": "వరద బాధితులను ఆదుకునేందుకు",
+     "type": "Issue",
+     "english_name": "Flood victims relief"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గోదావరి - కృష్ణా - పెన్నాల అనుసంధానానికి",
+     "evidence": "గోదావరి - కృష్ణా - పెన్నాల అనుసంధానానికి సహకరించండి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

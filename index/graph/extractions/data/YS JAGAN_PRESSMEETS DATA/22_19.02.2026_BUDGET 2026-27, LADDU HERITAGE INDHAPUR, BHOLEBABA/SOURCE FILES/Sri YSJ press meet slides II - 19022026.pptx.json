@@ -1,0 +1,189 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e9b6121758e453e75f86f18f5a4ef4d76880ae43": {
+   "entities": [
+    {
+     "name": "SC, ST BC and Minority population (2011 pop)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "No. of people in age group of 50-59",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "80% of this population would belong to the relevant communities",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Even if we assume that 40% of these individuals would not meet the eligibility criteria",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "figure of eligible individuals",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "420bf3336bd119c679b1c35438e4b1f25dd653c4": {
+   "entities": [
+    {
+     "name": "Super Seven schemes",
+     "type": "Scheme",
+     "english_name": "Super Seven schemes"
+    },
+    {
+     "name": "Rs. 79,867 crores",
+     "type": "Claim",
+     "english_name": "Rs. 79,867 crores"
+    },
+    {
+     "name": "Rs. 18,231 crores",
+     "type": "Claim",
+     "english_name": "Rs. 18,231 crores"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b862ef6f989a763a4d26ceeb79cc636041420fce": {
+   "entities": [
+    {
+     "name": "Aadabidda Nidhi",
+     "type": "Scheme",
+     "english_name": "Aadabidda Nidhi"
+    },
+    {
+     "name": "Election Commission of India",
+     "type": "Organization",
+     "english_name": "Election Commission of India"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cf83786386c310f6d8cdb45e7f9156e966a5151d": {
+   "entities": [
+    {
+     "name": "Thallikivandanam",
+     "type": "Scheme",
+     "english_name": "Thallikivandanam"
+    },
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": "TDP alliance"
+    },
+    {
+     "name": "Budget 2026-27",
+     "type": "Organization",
+     "english_name": "Budget 2026-27"
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Thallikivandanam",
+     "evidence": "The promise of TDP alliance was that, the benefits under scheme Thallikivandanam, would be avaialable to every child."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "52be656679514d23a18da79157022b793bec9eda": {
+   "entities": [
+    {
+     "name": "UDISE +",
+     "type": "Organization",
+     "english_name": "UDISE+"
+    },
+    {
+     "name": "Government and Government aided schools",
+     "type": "Organization",
+     "english_name": "Government and Government aided schools"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "426491663978b7b4e150aff16276a9d64110dd6f": {
+   "entities": [
+    {
+     "name": "Amount spent on housing and infra during 2019-24",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 35,209.56 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "houses sanctioned is Rs. 21,37,028",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "houses completed are 10,02,729",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "42b125a623afff387846f83802f7d783beacaa50": {
+   "entities": [
+    {
+     "name": "Dipam scheme",
+     "type": "Scheme",
+     "english_name": "Dipam scheme"
+    },
+    {
+     "name": "PM Ujwal Yojana",
+     "type": "Scheme",
+     "english_name": "PM Ujwal Yojana"
+    },
+    {
+     "name": "Rs. 3,990.76 cores",
+     "type": "Claim",
+     "english_name": "Rs. 3,990.76 cores"
+    },
+    {
+     "name": "Rs. 2,199,99 crores",
+     "type": "Claim",
+     "english_name": "Rs. 2,199,99 crores"
+    },
+    {
+     "name": "Rs. 2,601 cores",
+     "type": "Claim",
+     "english_name": "Rs. 2,601 cores"
+    },
+    {
+     "name": "47 lakh households",
+     "type": "Claim",
+     "english_name": "47 lakh households"
+    },
+    {
+     "name": "Budget documents & PPAC, MOPNG",
+     "type": "Organization",
+     "english_name": "Budget documents & PPAC, MOPNG"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8dd6411f051b05d288c2ffe490219a06c395fae9": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "67c61cd6da79edfacbd4a7006fa5d4d09faa1008": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5b3816c8d9bdb48d861bea510751af0dea1dfa37": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అరాచకాన్ని",
+     "type": "Issue",
+     "english_name": "Lawlessness"
+    },
+    {
+     "name": "ప్రజాస్వామ్య పరిరక్షణకు అండగా నిలవండి",
+     "type": "Issue",
+     "english_name": "Support for Democracy"
+    },
+    {
+     "name": "జాతీయ మీడియా",
+     "type": "Organization",
+     "english_name": "National Media"
+    },
+    {
+     "name": "మాజీ సీఎం వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Former CM YS Jagan"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "రెడ్బుక్ రాజ్యాంగం",
+     "type": "Issue",
+     "english_name": "Redbook Constitution"
+    },
+    {
+     "name": "30కి పైగా హత్యలు",
+     "type": "Claim",
+     "english_name": "Over 30 murders"
+    },
+    {
+     "name": "1000కి పైగా దాడులు",
+     "type": "Claim",
+     "english_name": "Over 1000 attacks"
+    },
+    {
+     "name": "జనం",
+     "type": "Place",
+     "english_name": "Jantar Mantar"
+    },
+    {
+     "name": "టీడీపీ కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Alliance Government"
+    },
+    {
+     "name": "నారా లోకేశ్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "రెడ్బుక్",
+     "type": "Issue",
+     "english_name": "Redbook"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "30కి పైగా హత్యలు",
+     "evidence": "30కి పైగా హత్యలు.. 1000కి పైగా దాడులు"
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "1000కి పైగా దాడులు",
+     "evidence": "30కి పైగా హత్యలు.. 1000కి పైగా దాడులు"
+    },
+    {
+     "source": "మాజీ సీఎం వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కూటమి ప్రభుత్వం",
+     "evidence": "రాష్ట్రంలో టీడీపీ కూటమి ప్రభుత్వం ఏర్పడినప్పటి నుంచి అరాచక, ఆటవిక పాలన సాగుతోందని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "214f5dd6fe14594b78a2dcebac7a89f0f643abd8": {
+   "entities": [
+    {
+     "name": "రెడ్బుక్",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "రాష్ట్ర పోలీసులు",
+     "type": "Organization",
+     "english_name": "State Police"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "మిథున్రెడ్డి",
+     "type": "Person",
+     "english_name": "Mithun Reddy"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "భారత రాజ్యాంగం",
+     "type": "Organization",
+     "english_name": "Constitution of India"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర పోలీసులు",
+     "evidence": "రాష్ట్రంలో అరాచకం సృష్టిస్తున్న వారి నుంచి బాధితులను కాపాడకపోగా, తిరిగి బాధితులపైనే కేసులు నమోదు చేస్తున్నారని"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "మిథున్రెడ్డి",
+     "evidence": "ఎం పీ మిథున్రెడ్డిపై పట్టపగలే రాళ్లతో దాడి చేసి వాహనాలు ధ్వంసం చేశారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "80ba207f30abf133c6b49695ca8164a997513171": {
+   "entities": [
+    {
+     "name": "అక్కచెల్లెమ్మలకు",
+     "type": "Person",
+     "english_name": "sisters"
+    },
+    {
+     "name": "అన్నదమ్ములకు",
+     "type": "Person",
+     "english_name": "brothers"
+    },
+    {
+     "name": "అవ్వాతాతలు",
+     "type": "Person",
+     "english_name": "grandparents"
+    },
+    {
+     "name": "ప్రతి పార్టీ",
+     "type": "Party",
+     "english_name": "every party"
+    },
+    {
+     "name": "ఆయా పార్టీల నేతలకు",
+     "type": "Person",
+     "english_name": "leaders of those parties"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "media"
+    },
+    {
+     "name": "జర్నలిస్టులు",
+     "type": "Person",
+     "english_name": "journalists"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

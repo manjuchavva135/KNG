@@ -410,6 +410,213 @@
      "evidence": "చంద్రబాబు రాసిచ్చిన బాండు ఇదే.."
     }
    ]
+  },
+  "d97d6e5850b8d99fc138ae495b3ead1d97b2b7c7": {
+   "entities": [
+    {
+     "name": "MEHARAJ BEGAM SHAIK",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Maha Shakti",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Adabidda Nidhi",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Annadata",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Yuva Galam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "free bus travel",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rajampet",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "96860732982bcb1b75f230d9db173b3e62dd0394": {
+   "entities": [
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Baboo"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "రూ.4,000ల పింఛన్",
+     "type": "Claim",
+     "english_name": "Rs.4,000 pension"
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "type": "Claim",
+     "english_name": "20 lakh employment opportunities for youth"
+    },
+    {
+     "name": "నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "type": "Claim",
+     "english_name": "Rs.3,000 unemployment allowance per month"
+    },
+    {
+     "name": "స్కూలుకి వెళ్ళే ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Claim",
+     "english_name": "Rs.15,000 per year for each school‑going student"
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం",
+     "type": "Claim",
+     "english_name": "Rs.20,000 per year financial assistance for each farmer"
+    },
+    {
+     "name": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "type": "Claim",
+     "english_name": "3 free gas cylinders per household per year"
+    },
+    {
+     "name": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "type": "Claim",
+     "english_name": "Rs.1,500 per month for each woman"
+    },
+    {
+     "name": "పింఛన్ తెచ్చింది తెలుగుదేశం",
+     "type": "Claim",
+     "english_name": "Pension brought by Telugu Desam"
+    },
+    {
+     "name": "Urea",
+     "type": "Issue",
+     "english_name": "Urea"
+    },
+    {
+     "name": "MEDICAL COLLEGES(PPP)",
+     "type": "Issue",
+     "english_name": "Medical Colleges (PPP)"
+    },
+    {
+     "name": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "type": "Party",
+     "english_name": "TDP-Janasena-BJP Alliance"
+    },
+    {
+     "name": "50 ఏళ్లకే పింఛన్",
+     "type": "Claim",
+     "english_name": "Pension at age 50"
+    },
+    {
+     "name": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు పింఛన్",
+     "type": "Issue",
+     "english_name": "Pension for BC, SC, ST, Muslim minorities"
+    },
+    {
+     "name": "UREA",
+     "type": "Organization",
+     "english_name": "Urea"
+    },
+    {
+     "name": "MEDICAL COLLEGES(PPP)",
+     "type": "Organization",
+     "english_name": "Medical Colleges (PPP)"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "బాబు సూపర్"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.4,000ల పింఛన్",
+     "evidence": "రూ.4,000ల పింఛన్"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "evidence": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "evidence": "నెలకు రూ.3,000 నిరుద్యోగ భృతి"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "స్కూలుకి వెళ్ళే ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "evidence": "స్కూలుకి వెళ్ళే ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం",
+     "evidence": "ప్రతి రైతుకు ఏటా రూ.20,000 ఆర్థిక సాయం"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "evidence": "ప్రతి మహిళకు నెలకు రూ.1,500"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పింఛన్ తెచ్చింది తెలుగుదేశం",
+     "evidence": "పింఛన్ తెచ్చింది తెలుగుదేశం"
+    },
+    {
+     "source": "50 ఏళ్లకే పింఛన్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు పింఛన్",
+     "evidence": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్"
+    },
+    {
+     "source": "రూ.4,000ల పింఛన్",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు పింఛన్",
+     "evidence": "రూ.4,000ల పింఛన్"
+    }
+   ]
   }
  }
 }

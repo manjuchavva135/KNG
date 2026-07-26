@@ -1,0 +1,54 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e96812407f0b74b133664b14a7395660956a200c": {
+   "entities": [
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "laddu",
+     "type": "Scheme",
+     "english_name": "laddu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu Naidu",
+     "relation": "ACCUSES",
+     "target": "Jagan Mohan Reddy",
+     "evidence": "allegation that animal fat was being used to make Tirupati laddus under the previous Jagan Mohan Reddy-led government"
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "Tirupati laddus"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

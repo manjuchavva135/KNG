@@ -1,0 +1,31 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "27a8039d112030408179cf61eeec692954b00999": {
+   "entities": [
+    {
+     "name": "speaker",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సాప్",
+     "type": "Organization",
+     "english_name": "SAP"
+    },
+    {
+     "name": "సైవాకయం పోలీస్ స్టేషన్",
+     "type": "Place",
+     "english_name": "Saiyakam Police Station"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5d4874f9e62baed56bac3dd461b0916af1d4461a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబూ.. నీ రాజకీయ స్వార్థం కోసం",
+     "type": "Claim",
+     "english_name": "Chandra Babu.. your political selfishness"
+    },
+    {
+     "name": "తిరుమలను అపవిత్రం చేస్తావా?",
+     "type": "Claim",
+     "english_name": "Will you defile Tirumala?"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "సూపర్ సిక్స్, సూపర్ సెవన్",
+     "type": "Scheme",
+     "english_name": "Super Six, Super Seven"
+    },
+    {
+     "name": "టీడీపీ కార్యాలయంలో విడుదల చేస్తావా?",
+     "type": "Claim",
+     "english_name": "Will you release at TDP office?"
+    },
+    {
+     "name": "ప్రధానికి, సీజేఐకి లేఖ రాస్తాం",
+     "type": "Claim",
+     "english_name": "We will write a letter to the PM and CJI"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "లడ్డూ తయారీ ప్రక్రియ",
+     "type": "Claim",
+     "english_name": "Laddoo making process"
+    },
+    {
+     "name": "నెయ్యిపై రెండు నెలల క్రితం వచ్చిన నివేదిక",
+     "type": "Claim",
+     "english_name": "Report on ghee two months ago"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "టీటీడీ ప్రతిష్టను దెబ్బతీసే కుట్రకు పాల్పడ్డ చంద్రబాబుపై చర్యలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

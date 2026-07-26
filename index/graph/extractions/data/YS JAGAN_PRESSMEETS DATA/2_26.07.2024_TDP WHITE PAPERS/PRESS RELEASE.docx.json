@@ -1,0 +1,1143 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3324f55d7c8f79a0beee378d4284b0720e469c3a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "గవర్నర్‌గారి ప్రసంగం",
+     "type": "Claim",
+     "english_name": "Governor's speech"
+    },
+    {
+     "name": "రెగ్యులర్‌ బడ్జెట్‌",
+     "type": "Claim",
+     "english_name": "Regular budget"
+    },
+    {
+     "name": "ప్రభుత్వ అప్పు",
+     "type": "Claim",
+     "english_name": "Government debt"
+    },
+    {
+     "name": "కేంద్ర ఆర్థిక సర్వే",
+     "type": "Organization",
+     "english_name": "Central Economic Survey"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గవర్నర్‌గారి ప్రసంగం",
+     "evidence": "పచ్చి అబద్దాలు చెబుతున్న చంద్రబాబు, గవర్నర్‌గారి ప్రసంగంలో కూడా అవే చెప్పించాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రెగ్యులర్‌ బడ్జెట్‌",
+     "evidence": "రెగ్యులర్‌ బడ్జెట్‌ ప్రవేశపెడితే, అన్ని వివరాలు స్పష్టంగా చెప్పాల్సి వస్తుంది కాబట్టి, ఆ పని చేయడం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ అప్పు",
+     "evidence": "రాష్ట్ర అప్పు 14 లక్షల కోట్లు లేకున్నా.. అలా చూపాలని చాలా ప్రయత్నం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "95c9e57a756474ce42a6d3e344f4d21307bee3f7": {
+   "entities": [
+    {
+     "name": "బాబూ",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Current Government"
+    },
+    {
+     "name": "కేంద్ర ఆర్థిక సర్వే",
+     "type": "Organization",
+     "english_name": "Central Economic Survey"
+    },
+    {
+     "name": "ఆంధ్ర రాష్ట్ర ఆర్థిక పరిస్థితి",
+     "type": "Issue",
+     "english_name": "Andhra State Financial Situation"
+    },
+    {
+     "name": "రాజ్యసభ",
+     "type": "Organization",
+     "english_name": "Rajya Sabha"
+    },
+    {
+     "name": "కోవిడ్‌",
+     "type": "Issue",
+     "english_name": "COVID-19"
+    },
+    {
+     "name": "ఎల్లో మీడియా (ఈనాడు)",
+     "type": "Organization",
+     "english_name": "Yellow Media (Eenadu)"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైట్‌ పేపర్లు",
+     "type": "Scheme",
+     "english_name": "White Papers"
+    },
+    {
+     "name": "రషీద్‌ దారుణ హత్య",
+     "type": "Issue",
+     "english_name": "Rashid murder"
+    },
+    {
+     "name": "మదనపల్లె ఆర్డీఓ కార్యాలయం",
+     "type": "Place",
+     "english_name": "Madanapalle RDO Office"
+    },
+    {
+     "name": "పెద్దిరెడ్డి",
+     "type": "Person",
+     "english_name": "P. Reddy"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3e0aa2d262e8e2a39feb7a49e90d2f0fbc1df4b4": {
+   "entities": [
+    {
+     "name": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "వైట్‌ పేపర్ల పేరుతో రాష్ట్ర ప్రభుత్వం చేస్తున్న దుష్రచారాలు",
+     "type": "Claim",
+     "english_name": "State government's white papers are propaganda"
+    },
+    {
+     "name": "పూర్తిస్థాయి బడ్జెట్‌ ప్రవేశపెట్టే ధైర్యం లేదు",
+     "type": "Claim",
+     "english_name": "No courage to present a full budget"
+    },
+    {
+     "name": "రెగ్యులర్‌ బడ్జెట్‌ ప్రవేశపెట్టే ధైర్యం కూడా చంద్రబాబుకు లేదు",
+     "type": "Claim",
+     "english_name": "No courage to present a regular budget"
+    },
+    {
+     "name": "మోసపూరిత హామీలు",
+     "type": "Claim",
+     "english_name": "Fraudulent promises"
+    },
+    {
+     "name": "పథకాలకు నిధులు కేటాయింపు",
+     "type": "Claim",
+     "english_name": "Funds allocation for schemes"
+    },
+    {
+     "name": "హత్యా రాజకీయాలు",
+     "type": "Claim",
+     "english_name": "Murder politics"
+    },
+    {
+     "name": "మోడ్‌ ఆఫ్‌ ఆపరెండిస్‌",
+     "type": "Claim",
+     "english_name": "Mode of operation"
+    },
+    {
+     "name": "ఒక మనిషిని అప్రతిష్ట పాల్జేయడం",
+     "type": "Claim",
+     "english_name": "Defaming a person"
+    },
+    {
+     "name": "అనుకూల ఛానళ్లలో చర్చలు",
+     "type": "Claim",
+     "english_name": "Discussions in friendly channels"
+    },
+    {
+     "name": "రాష్ట్రం చాలా క్లిష్ట పరిస్థితిలో ఉంది",
+     "type": "Claim",
+     "english_name": "State is in a critical situation"
+    },
+    {
+     "name": "ఎన్టీఆర్‌ను గద్దె దింపడం",
+     "type": "Claim",
+     "english_name": "Toppling NTR"
+    },
+    {
+     "name": "బీజేపీని తిట్టడం",
+     "type": "Claim",
+     "english_name": "Criticizing BJP"
+    },
+    {
+     "name": "మరో పార్టీకి చేరువ కావడం",
+     "type": "Claim",
+     "english_name": "Approaching another party"
+    },
+    {
+     "name": "రాష్ట్ర ఆర్థిక పరిస్థితి పూర్తిగా దిగజారిపోయాయని ప్రచారం",
+     "type": "Claim",
+     "english_name": "State's financial condition has deteriorated"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "వైట్‌ పేపర్ల పేరుతో రాష్ట్ర ప్రభుత్వం చేస్తున్న దుష్రచారాలు",
+     "evidence": "వైట్‌ పేపర్ల పేరుతో రాష్ట్ర ప్రభుత్వం చేస్తున్న దుష్రచారాలపై శ్రీ వైయస్‌ జగన్‌ దీటైన జవాబు."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "పూర్తిస్థాయి బడ్జెట్‌ ప్రవేశపెట్టే ధైర్యం లేదు",
+     "evidence": "పూర్తిస్థాయి బడ్జెట్‌ ప్రవేశపెట్టే ధైర్యం లేదు:"
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రెగ్యులర్‌ బడ్జెట్‌ ప్రవేశపెట్టే ధైర్యం కూడా చంద్రబాబుకు లేదు",
+     "evidence": "రెగ్యులర్‌ బడ్జెట్‌ ప్రవేశపెట్టే ధైర్యం కూడా చంద్రబాబుకు లేదు."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మోసపూరిత హామీలు",
+     "evidence": "తాను ఎన్నికల ముందు ప్రకటించిన మోసపూరిత హామీలకు కేటాయింపులు చూపాలి."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "పథకాలకు నిధులు కేటాయింపు",
+     "evidence": "పథకాలకు నిధులు కేటాయింపు ప్రస్తావిస్తే, తాను అబద్ధాలు చెప్పాల్సి వస్తుంది."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "హత్యా రాజకీయాలు",
+     "evidence": "ప్రజలు బయటకు రాకుండా, ప్రశ్నించకుండా, హత్యా రాజకీయాలు చేస్తున్నాడు."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మోడ్‌ ఆఫ్‌ ఆపరెండిస్‌",
+     "evidence": "చంద్రబాబుకు ఒక మోడ్‌ ఆఫ్‌ ఆపరెండిస్‌ ఉంటుంది."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఒక మనిషిని అప్రతిష్ట పాల్జేయడం",
+     "evidence": "ఒక మనిషిని అప్రతిష్ట పాల్జేయడం."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "అనుకూల ఛానళ్లలో చర్చలు",
+     "evidence": "అనుకూల ఛానళ్లలో చర్చలు."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రం చాలా క్లిష్ట పరిస్థితిలో ఉంది",
+     "evidence": "రాష్ట్రం చాలా క్లిష్ట పరిస్థితిలో ఉంది."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్టీఆర్‌ను గద్దె దింపడం",
+     "evidence": "ఆనాడు ఎన్టీఆర్‌ను గద్దె దింపడం మొదలు."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "బీజేపీని తిట్టడం",
+     "evidence": "ఆ తర్వాత బీజేపీని తిట్టడం."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మరో పార్టీకి చేరువ కావడం",
+     "evidence": "మధ్యలో మరో పార్టీకి చేరువ కావడం."
+    },
+    {
+     "source": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ఆర్థిక పరిస్థితి పూర్తిగా దిగజారిపోయాయని ప్రచారం",
+     "evidence": "రాష్ట్ర ఆర్థిక పరిస్థితి పూర్తిగా దిగజారిపోయాయని ప్రచారం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e9d27812e155c92d2d047e2e4ba81fe33dc5f125": {
+   "entities": [
+    {
+     "name": "ఆర్డీఓ ఆఫీస్‌లో",
+     "type": "Organization",
+     "english_name": "MRO Office"
+    },
+    {
+     "name": "ఎమ్మార్వో ఆఫీస్‌లో",
+     "type": "Organization",
+     "english_name": "MRO Office"
+    },
+    {
+     "name": "కలెక్టర్‌ ఆఫీస్‌లో",
+     "type": "Organization",
+     "english_name": "Collector Office"
+    },
+    {
+     "name": "ఆన్‌లైన్‌లో",
+     "type": "Organization",
+     "english_name": "Online"
+    },
+    {
+     "name": "పెద్దిరెడ్డి గారి కుటుంబాన్ని",
+     "type": "Person",
+     "english_name": "Peddireddy's family"
+    },
+    {
+     "name": "ఆయన",
+     "type": "Person",
+     "english_name": "He"
+    },
+    {
+     "name": "ఆయన కొడుకు",
+     "type": "Person",
+     "english_name": "His son"
+    },
+    {
+     "name": "మదనపల్లెలో",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "డీజీపీని",
+     "type": "Person",
+     "english_name": "DGP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నంద్యాల జిల్లా ముచ్చుమర్రిలో",
+     "type": "Place",
+     "english_name": "Muchumarri, Nandyal district"
+    },
+    {
+     "name": "మైనర్‌ బాలిక",
+     "type": "Person",
+     "english_name": "Minor girl"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "రాష్ట్రంలో",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "మహిళలకు",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "మా ప్రభుత్వ హయాంలో",
+     "type": "Organization",
+     "english_name": "Our government"
+    },
+    {
+     "name": "దిశ పోలీస్‌ స్టేషన్లు",
+     "type": "Organization",
+     "english_name": "Disha Police Stations"
+    },
+    {
+     "name": "దిశ యాప్‌",
+     "type": "Organization",
+     "english_name": "Disha App"
+    },
+    {
+     "name": "ఆపదలో ఉన్న మహిళలు",
+     "type": "Person",
+     "english_name": "Women in distress"
+    },
+    {
+     "name": "ఫోన్‌ను 5సార్లు ఊపినా",
+     "type": "Organization",
+     "english_name": "Phone shake"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మదనపల్లెలో",
+     "relation": "LOCATED_IN",
+     "target": "రాష్ట్రంలో",
+     "evidence": "మదనపల్లెలో అగ్ని ప్రమాదం జరిగితే"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు.. నంద్యాల జిల్లా ముచ్చుమర్రిలో మైనర్‌ బాలిక అదృశ్యమైతే.. చివరకు ఆమె బాడీ ఇంకా దొరక్కపోయినా, ప్రభుత్వం స్పందించలేదు."
+    },
+    {
+     "source": "పోలీసులు",
+     "relation": "LOCATED_IN",
+     "target": "రాష్ట్రంలో",
+     "evidence": "పోలీసులు అక్కడికి చేరుకునే వారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9d30451b27d9503fdf245004f199b7a74b0f4c34": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఇసుక విధానం",
+     "type": "Scheme",
+     "english_name": "Sand Policy"
+    },
+    {
+     "name": "ప్రభుత్వ ఆదాయం",
+     "type": "Claim",
+     "english_name": "Government Revenue"
+    },
+    {
+     "name": "టాటా ఇసుక",
+     "type": "Organization",
+     "english_name": "Tata Sand"
+    },
+    {
+     "name": "స్టాక్‌ యార్డులు",
+     "type": "Place",
+     "english_name": "Stock Yards"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, ఆయన కుమారుడు వాటి ఎదుట సెల్ఫీలు దిగారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇసుక విధానం",
+     "evidence": "మా ప్రభుత్వ హయాంలో స్పష్టమైన ఇసుక విధానం అమలు చేశాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఆదాయం",
+     "evidence": "మేము టన్ను ఇసుక రూ.375 చొప్పున అమ్మాం. దీని వల్ల ప్రభుత్వానికి ఏటా రూ.765 కోట్ల ఆదాయం వచ్చింది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కానీ ఇప్పుడు చంద్రబాబు ప్రభుత్వం ఫ్రీ ఇసుక అని ప్రచారం చేస్తోంది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కానీ వాస్తవంగా అప్పటి మా రేటు కంటే ఇప్పుడు, ఎక్కువ ధరకు సరఫరా చేస్తున్నారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఆదాయం",
+     "evidence": "మా ప్రభుత్వ హయాంలో స్పష్టమైన ఇసుక విధానం అమలు చేశాం. పక్కాగా టెండర్లు నిర్వహించాం. ప్రతిదీ పారదర్శకంగా సాగింది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఆదాయం",
+     "evidence": "మేము టన్ను ఇసుక రూ.375 చొప్పున అమ్మాం. దీని వల్ల ప్రభుత్వానికి ఏటా రూ.765 కోట్ల ఆదాయం వచ్చింది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఆదాయం",
+     "evidence": "ఆనాడు, ఇసుక రేట్లు పేపర్లతో ప్రకటించి, పూర్తి పారదర్శకంగా సరఫరా చేశాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఆదాయం",
+     "evidence": "ఇంకా మా ప్రభుత్వం, ఈ వర్షాకాల సీజన్‌ను దృష్టిలో ఉంచుకుని స్టాక్‌ యార్డుల్లో దాదాపు 80 లక్షల టన్నుల ఇసుక స్టాక్‌ చేసి పెడితే.."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఆదాయం",
+     "evidence": "చంద్రబాబు, ఆయన కుమారుడు వాటి ఎదుట సెల్ఫీలు దిగారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ebec93c90c8e7b66560757df86608519891159fa": {
+   "entities": [
+    {
+     "name": "ఎస్పీ",
+     "type": "Person",
+     "english_name": "SP"
+    },
+    {
+     "name": "బిందుమాధవ్‌",
+     "type": "Person",
+     "english_name": "Bindumadhav"
+    },
+    {
+     "name": "శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "Srinivasulu"
+    },
+    {
+     "name": "లోకేష్‌",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Crop Insurance"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "డ్వాక్రా సంఘాలు",
+     "type": "Organization",
+     "english_name": "DWACRA Sanghalu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎస్పీ",
+     "relation": "ACCUSES",
+     "target": "బిందుమాధవ్‌",
+     "evidence": "ఎస్పీని మార్చారు. తమకు అనుకూలంగా ఉండే బిందుమాధవ్‌ను తెచ్చుకుంటే, ఆయన ఇష్టానుసారం వ్యవహరించాడు."
+    },
+    {
+     "source": "శ్రీనివాసులు",
+     "relation": "ACCUSES",
+     "target": "బిందుమాధవ్‌",
+     "evidence": "శ్రీనివాసులు అనే అధికారి ఎస్పీగా వచ్చిన వెంటనే వినుకొండలో రషీద్‌ హత్య జరిగింది."
+    },
+    {
+     "source": "లోకేష్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌",
+     "evidence": "లోకేష్‌ రెడ్‌ బుక్‌: – సీఎం కొడుకు. మంత్రి అయిన నారా లోకేష్‌ ఏకంగా ఇలా రెడ్‌బుక్‌ ప్రదర్శిస్తూ.. బెదిరింపులు. రాష్ట్రమంతా హోర్డింగ్‌లు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bfa1fcc736fcfda97dcd148129907d8ee3d0ed71": {
+   "entities": [
+    {
+     "name": "గత ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Previous Government"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Place",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "కేంద్ర జల సంఘం (సీడబ్ల్యూసీ)",
+     "type": "Organization",
+     "english_name": "Central Water Commission (CWC)"
+    },
+    {
+     "name": "ఎగువ కాఫర్‌ డ్యామ్",
+     "type": "Place",
+     "english_name": "Upper Cofferdam"
+    },
+    {
+     "name": "దిగువ కాఫర్‌ డ్యామ్",
+     "type": "Place",
+     "english_name": "Lower Cofferdam"
+    },
+    {
+     "name": "హైడల్‌ ప్రాజెక్టులు",
+     "type": "Place",
+     "english_name": "Hydal Projects"
+    },
+    {
+     "name": "స్పిల్‌వే",
+     "type": "Place",
+     "english_name": "Spillway"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైట్‌ పేపర్లు",
+     "type": "Scheme",
+     "english_name": "White Papers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి మీడియా సమావేశం."
+    },
+    {
+     "source": "కేంద్ర జల సంఘం (సీడబ్ల్యూసీ)",
+     "relation": "LOCATED_IN",
+     "target": "పోలవరం ప్రాజెక్టు",
+     "evidence": "ఎట్టకేలకు ప్రాజెక్టు వ్యయ అంచనా రూ.55,656 కోట్లకు కేంద్ర జల సంఘం (సీడబ్ల్యూసీ) ఆమోదం పొందింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bf43bd830aab692f6a3849bd5ab50e27eee11960": {
+   "entities": [
+    {
+     "name": "మద్యం దుకాణాలు",
+     "type": "Organization",
+     "english_name": "Liquor Shops"
+    },
+    {
+     "name": "పర్మిట్‌ రూమ్‌లు",
+     "type": "Organization",
+     "english_name": "Permit Rooms"
+    },
+    {
+     "name": "బెల్ట్‌షాపులు",
+     "type": "Organization",
+     "english_name": "Belt Shops"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "ప్రెసిడెంట్‌ మెడల్",
+     "type": "Scheme",
+     "english_name": "President Medal"
+    },
+    {
+     "name": "హైదరాబాద్‌ బ్లూ డీలక్స్‌",
+     "type": "Scheme",
+     "english_name": "Hyderabad Blue Deluxe"
+    },
+    {
+     "name": "గవర్నర్‌ రిజర్వ్",
+     "type": "Scheme",
+     "english_name": "Governor's Reserve"
+    },
+    {
+     "name": "లెఫైర్‌ నెపోలియన్",
+     "type": "Scheme",
+     "english_name": "Lefaire Napoleon"
+    },
+    {
+     "name": "ఓక్టోన్‌ బారెల్‌ ఏజ్డ్",
+     "type": "Scheme",
+     "english_name": "Octon Barrel Aged"
+    },
+    {
+     "name": "సెవెన్త్‌ హెవెన్‌ బ్లూ",
+     "type": "Scheme",
+     "english_name": "Seventh Heaven Blue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రెసిడెంట్‌ మెడల్",
+     "evidence": "చంద్రబాబు సీఎంగా ఉన్నప్పుడు. 2017 నవంబరు 22న అనుమతి ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "హైదరాబాద్‌ బ్లూ డీలక్స్‌",
+     "evidence": "చంద్రబాబు సీఎంగా ఉన్నప్పుడు. 2017 నవంబరు 22న అనుమతి ఇచ్చారు."
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గవర్నర్‌ రిజర్వ్",
+     "evidence": "వైయస్సార్‌సీపీ ప్రభుత్వం కొత్తగా, ఏ డిస్టిలరీకి అనుమతి ఇవ్వలేదు."
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లెఫైర్‌ నెపోలియన్",
+     "evidence": "వైయస్సార్‌సీపీ ప్రభుత్వం కొత్తగా, ఏ డిస్టిలరీకి అనుమతి ఇవ్వలేదు."
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఓక్టోన్‌ బారెల్‌ ఏజ్డ్",
+     "evidence": "వైయస్సార్‌సీపీ ప్రభుత్వం కొత్తగా, ఏ డిస్టిలరీకి అనుమతి ఇవ్వలేదు."
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సెవెన్త్‌ హెవెన్‌ బ్లూ",
+     "evidence": "వైయస్సార్‌సీపీ ప్రభుత్వం కొత్తగా, ఏ డిస్టిలరీకి అనుమతి ఇవ్వలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f06aca8d8b7a493a3c14bfbfe34c5b1034273ffd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "టీడీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "TDP Government"
+    },
+    {
+     "name": "మద్యం విక్రయాలు",
+     "type": "Issue",
+     "english_name": "Liquor Sales"
+    },
+    {
+     "name": "మద్యం దుకాణాలు",
+     "type": "Issue",
+     "english_name": "Liquor Shops"
+    },
+    {
+     "name": "పర్మిట్‌ రూమ్‌లు",
+     "type": "Issue",
+     "english_name": "Permit Rooms"
+    },
+    {
+     "name": "బెల్ట్‌షాప్‌లు",
+     "type": "Issue",
+     "english_name": "Belt Shops"
+    },
+    {
+     "name": "బార్లకు లైసెన్సులు",
+     "type": "Issue",
+     "english_name": "Bar Licenses"
+    },
+    {
+     "name": "ప్రభుత్వ ఆధ్వర్యంలో",
+     "type": "Organization",
+     "english_name": "Government-run"
+    },
+    {
+     "name": "మద్యం విక్రయ వేళలు",
+     "type": "Issue",
+     "english_name": "Liquor Sale Hours"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "24779e14846ae538a728697d50cce236f7832c26": {
+   "entities": [
+    {
+     "name": "ఎన్నికల మేనిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Election Manifesto"
+    },
+    {
+     "name": "స్పెషల్‌ ఎన్‌ఫోర్స్‌మెంట్‌ బ్యూరో",
+     "type": "Organization",
+     "english_name": "Special Enforcement Bureau"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "డిజిటల్‌ పేమెంట్‌ విధానం",
+     "type": "Scheme",
+     "english_name": "Digital Payment System"
+    },
+    {
+     "name": "నాణ్యతలేని మద్యం",
+     "type": "Issue",
+     "english_name": "Substandard liquor"
+    },
+    {
+     "name": "చెన్నైలోని ఎస్‌జీఎస్‌ లేబొరేటరీ",
+     "type": "Organization",
+     "english_name": "SGS Laboratory in Chennai"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "52b37fd79cabb68393d288470136694df2ed25ce": {
+   "entities": [
+    {
+     "name": "డిజిటల్‌ పేమెంట్స్‌",
+     "type": "Scheme",
+     "english_name": "Digital Payments"
+    },
+    {
+     "name": "మద్యం షాపుల్లో డిజిటల్‌ పేమెంట్‌ విధానాన్ని ప్రవేశపెట్టింది మా ప్రభుత్వమే",
+     "type": "Claim",
+     "english_name": "Digital Payments in liquor shops"
+    },
+    {
+     "name": "నాణ్యతలేని మద్యం",
+     "type": "Claim",
+     "english_name": "Substandard liquor"
+    },
+    {
+     "name": "చెన్నైలోని ఎస్‌జీఎస్‌ లేబొరేటరీ",
+     "type": "Organization",
+     "english_name": "SGS Laboratory, Chennai"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కౌన్సిల్‌ ఆఫ్‌ సైంటిఫిక్‌ అండ్‌ ఇండస్ట్రియల్‌ రీసెర్చ్‌ (సీఎస్‌ఐఆర్‌)",
+     "type": "Organization",
+     "english_name": "Council of Scientific and Industrial Research (CSIR)"
+    },
+    {
+     "name": "హైదరాబాద్‌లోని ఇండియన్‌ ఇనిస్టిట్యూట్‌ ఆఫ్‌ కెమికల్‌ టెక్నాలజీ (ఐఐసీటీ) ల్యాబ్‌",
+     "type": "Organization",
+     "english_name": "Indian Institute of Chemical Technology (IICT) Lab, Hyderabad"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "2014–19. టీడీపీ ప్రభుత్వ హయాంలో మద్యం విక్రయాలు",
+     "type": "Issue",
+     "english_name": "Liquor sales under TDP government"
+    },
+    {
+     "name": "2019–24. వైయస్సార్‌సీపీ ప్రభుత్వ హయాంలో మద్యం విక్రయాలు",
+     "type": "Issue",
+     "english_name": "Liquor sales under YSRCP government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు.. నాడు మేము అధికారంలో ఉన్నప్పుడు కూడా అలాగే దుష్ప్రచారం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నాణ్యతలేని మద్యం",
+     "evidence": "నాణ్యతలేని మద్యం అంటూ ఆరోపణలు: – ఇంకా నాణ్యత లేని మద్యం సరఫరాతో, వినియోగదార్ల ఆరోగ్యం దెబ్బతిందంటూ దుష్ప్రచారం చేశారు."
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డిజిటల్‌ పేమెంట్స్‌",
+     "evidence": "డిజిటల్‌ పేమెంట్స్‌: – ఇంకా మద్యం షాపుల్లో డిజిటల్‌ పేమెంట్‌ విధానాన్ని ప్రవేశపెట్టింది మా ప్రభుత్వమే."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు.. నాడు మేము అధికారంలో ఉన్నప్పుడు కూడా అలాగే దుష్ప్రచారం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2c862624132134a8df6963b60b9d7c2d7d87e7bf": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "నవయుగ కంపెనీ",
+     "type": "Organization",
+     "english_name": "Navayuga Company"
+    },
+    {
+     "name": "యనమల రామకృష్ణుడు",
+     "type": "Person",
+     "english_name": "Yanamala Ramakrishnudu"
+    },
+    {
+     "name": "రామోజీరావు కుమారుడి వియ్యంకుడికి",
+     "type": "Person",
+     "english_name": "Ramoji Rao's son-in-law"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "కేంద్ర జల సంఘం (సీడబ్ల్యూసీ)",
+     "type": "Organization",
+     "english_name": "Central Water Commission (CWC)"
+    },
+    {
+     "name": "ఎగువ కాఫర్‌ డ్యామ్",
+     "type": "Place",
+     "english_name": "Upper Kafer Dam"
+    },
+    {
+     "name": "దిగువ కాఫర్‌ డ్యామ్‌",
+     "type": "Place",
+     "english_name": "Lower Kafer Dam"
+    },
+    {
+     "name": "హైడల్‌ ప్రాజెక్టులు",
+     "type": "Organization",
+     "english_name": "Hydel Projects"
+    },
+    {
+     "name": "స్పిల్‌వే",
+     "type": "Place",
+     "english_name": "Spillway"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "మద్యం సిండికేట్‌",
+     "type": "Organization",
+     "english_name": "Liquor Syndicate"
+    },
+    {
+     "name": "పర్మిట్‌ రూమ్‌లు",
+     "type": "Organization",
+     "english_name": "Permit Rooms"
+    },
+    {
+     "name": "బెల్ట్‌ దుకాణాలు",
+     "type": "Organization",
+     "english_name": "Belt Shops"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, మా ప్రభుత్వంపై నిందలు వేస్తున్నారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4a10b4fbf05e64ea76efc2a761c71a5aa62deb77": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Vaisya Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "నవయుగ కంపెనీ",
+     "type": "Organization",
+     "english_name": "Navayuga Company"
+    },
+    {
+     "name": "యనమల రామకృష్ణుడు",
+     "type": "Person",
+     "english_name": "Yanamala Ramakrishnudu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, మా ప్రభుత్వంపై నిందలు వేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నవయుగ కంపెనీ",
+     "evidence": "కాంట్రాక్ట్‌ పనులను కూడా రామోజీరావు కుమారుడి వియ్యంకుడికి చెందిన నవయుగ కంపెనీకి ఇచ్చాడు."
+    },
+    {
+     "source": "యనమల రామకృష్ణుడు",
+     "relation": "ACCUSES",
+     "target": "నవయుగ కంపెనీ",
+     "evidence": "మరో కాంట్రాక్ట్‌ యనమల రామకృష్ణుడి వియ్యంకుడికి ఇచ్చాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

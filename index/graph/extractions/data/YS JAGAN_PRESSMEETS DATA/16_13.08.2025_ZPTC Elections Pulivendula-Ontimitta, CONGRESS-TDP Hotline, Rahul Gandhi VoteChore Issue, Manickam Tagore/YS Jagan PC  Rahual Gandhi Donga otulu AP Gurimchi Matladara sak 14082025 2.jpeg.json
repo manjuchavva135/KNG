@@ -1,0 +1,121 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cf3087922289b6f926ddf5b82934b090dbf5fa82": {
+   "entities": [
+    {
+     "name": "మాణిక్యం ఠాగూర్",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": []
+  },
+  "0ab96b5f92bf47e39dcd06ed381f34121c85a041": {
+   "entities": [
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "అరవింద్ కేజ్రీవాల్",
+     "type": "Person",
+     "english_name": "Arvind Kejriwal"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "కాంగ్రెస్ పార్టీ",
+     "type": "Organization",
+     "english_name": "Indian National Congress"
+    },
+    {
+     "name": "మాణిక్యం ఠాగూర్",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "ZPTC ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "ZPTC Elections"
+    },
+    {
+     "name": "పులివెందుల-ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Pulivendula-Ontimitta"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఓట్-కోరే సమస్య",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "రాహుల్ గాంధీ",
+     "evidence": "రాహుల్ గాంధీ.. ఆంధ్రప్రదేశ్ గురించి ఎందుకు మాట్లాడటం లేదని ప్రశ్నించారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు కుంభకోణాలపై ఎందుకు మాట్లాడరు?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "అరవింద్ కేజ్రీవాల్",
+     "evidence": "అరవింద్ కేజ్రీవాల్ శాసనసభ ఎన్నికల్లో ఓట్ల అవకతవకల వల్ల ఓడారాని.. దానిపై రాహుల్ గాంధీ ఎందుకు మాట్లాడరని వైఎస్ జగన్ నిలదీశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "కాంగ్రెస్ పార్టీ",
+     "evidence": "కాంగ్రెస్ పార్టీ రాష్ట్ర వ్యవహారాల ఇన్ఛార్జ్, ఆ పార్టీ జాతీయ అధికార ప్రతినిధి మాణిక్యం ఠాగూర్ కూడా... మాపై బురదజల్లుతున్నారని ఎత్తి చూపారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "మాణిక్యం ఠాగూర్",
+     "evidence": "మాపై బురదజల్లుతున్నారని ఎత్తి చూపారు."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,759 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4b325104d0b349e7349ccb3593d6b447db87695d": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri YS Jagan"
+    },
+    {
+     "name": "AP BUDGET 2024-25",
+     "type": "Issue",
+     "english_name": "AP Budget 2024-25"
+    },
+    {
+     "name": "కాగ్‌ నివేదిక",
+     "type": "Organization",
+     "english_name": "CAG Report"
+    },
+    {
+     "name": "SECI – POWER SECTOR",
+     "type": "Organization",
+     "english_name": "SECI – Power Sector"
+    },
+    {
+     "name": "కారుచౌకగా యూనిట్ రూ.2.49కే కొనుగోలు",
+     "type": "Scheme",
+     "english_name": "Purchase at Rs 2.49 per unit"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "కాగ్‌ నివేదిక",
+     "evidence": "కాగ్‌ నివేదిక తేల్చి చెప్పినా సభలో వాటిని ప్రవేశపెట్టినా, ఇంకా రాష్ట్ర అప్పులపై అసత్యాలు ప్రచారం చేస్తున్నారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కారుచౌకగా యూనిట్ రూ.2.49కే కొనుగోలు",
+     "evidence": "చారిత్రక నిర్ణయాలతో సంపద సృష్టించాం.. సెకీతో కారుచౌకగా యూనిట్ రూ.2.49కే కొనుగోలు చేయడం ద్వారా రూ.1.10 లక్షల కోట్లు ఆదా చేశాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3cf424f2667f33142fcea491c13340167f3fb2e3": {
+   "entities": [
+    {
+     "name": "అన్నదాత పోరు",
+     "type": "Issue",
+     "english_name": "Anna Datha Poru"
+    },
+    {
+     "name": "యూరియా",
+     "type": "Issue",
+     "english_name": "Urea"
+    },
+    {
+     "name": "మెడికల్ కాలేజీల ప్రైవేటీకరణ",
+     "type": "Issue",
+     "english_name": "Medical Colleges Privatization"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "నారా లోకేష్‌",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "నకిలీ మద్యం వ్యవస్థీకృతంగా నడుస్తోంది",
+     "type": "Issue",
+     "english_name": "Spurious Liquor System"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "డేటా సెంటర్",
+     "type": "Issue",
+     "english_name": "Data Center"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నారా లోకేష్‌",
+     "evidence": "చేసిన తప్పును అవతలి వాళ్ల మీదకు నెట్టేయడం చంద్రబాబుకి, నారా లోకేష్‌ అలవాటైన పని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "78491ec3b726e6885e12c46ea2a5ab9ea1808ba6": {
+   "entities": [
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణ, అప్పుల్లో చంద్రబాబు రికార్డ్‌: 15 నెలల్లోనే దాదాపు రూ.2 లక్షల కోట్ల అప్పు",
+     "type": "Issue",
+     "english_name": "Medical Colleges Privatization, Chandrababu Debt Record"
+    },
+    {
+     "name": "TDP SPURIOUS LIQUOR ISSUE, VIZAG DATA CENTER, COUNTER TO BALAKRISHNA",
+     "type": "Issue",
+     "english_name": "TDP Spurious Liquor Issue, Vizag Data Center"
+    },
+    {
+     "name": "TTDPARAKAMANI_29HOSTELSTUDENTSDEATHS_LIQUOR",
+     "type": "Issue",
+     "english_name": "TTDParamani Hostel Students Deaths Liquor"
+    },
+    {
+     "name": "RAYALASEMA LIFT IRRIGATION_BHOGAPURAM_AMARAVATHI CAPITAL ISSUE",
+     "type": "Issue",
+     "english_name": "Rayalaseema Lift Irrigation, Bhogapuram, Amaravati Capital Issue"
+    },
+    {
+     "name": "RESURVEY_Jagananna Bhu Raksha Pass Book_Dalit Activist Manda Salman Murder",
+     "type": "Issue",
+     "english_name": "Resurvey Jagananna Bhu Raksha Pass Book Dalit Activist Manda Salman Murder"
+    },
+    {
+     "name": "BUDGET 2026-27, LADDU HERITAGE INDHAPUR, BHOLEBABA",
+     "type": "Issue",
+     "english_name": "Budget 2026-27, Laddu Heritage Indapur, Bholebaba"
+    },
+    {
+     "name": "BUDGET 2026-27, CAG REPORTS, STATE FINANCE, TIRUMALA ISSUES",
+     "type": "Issue",
+     "english_name": "Budget 2026-27, CAG Reports, State Finance, Tirumala Issues"
+    },
+    {
+     "name": "Capital Amaravati, MAVIGUN - మచిలీపట్నం.. విజయవాడ.. గుంటూరు",
+     "type": "Issue",
+     "english_name": "Capital Amaravati, MAVIGUN - Machilipatnam.. Vijayawada.. Guntur"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "081afd97015b8f9dd509c788d5eb709b75ef8fe9": {
+   "entities": [
+    {
+     "name": "మూడింటితో కలిపి రాష్ట్ర రాజధాని ఏర్పాటు",
+     "type": "Claim",
+     "english_name": "Formation of state capital with three"
+    },
+    {
+     "name": "మవిగన్‌ (జీయూఎన్‌)",
+     "type": "Place",
+     "english_name": "Mavigan (GEUN)"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "AMARAVATHI_MAVIGUN_CRIMINALPOLITICS_PETROL",
+     "type": "Issue",
+     "english_name": "Amaravathi Mavigan Criminal Politics Petrol"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "మావిగన్‌ అంటే బెదిరిపోతున్న చంద్రబాబు.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5322608903ab7dc2e82d13ea71355cd02d18e012": {
+   "entities": [
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "మావిగన్‌ (జీయూఎన్‌)",
+     "type": "Scheme",
+     "english_name": "MAVIGUN (GU)"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జంగిల్‌రాజ్‌",
+     "type": "Issue",
+     "english_name": "Jungle Raj"
+    },
+    {
+     "name": "హత్యా రాజకీయాలు",
+     "type": "Issue",
+     "english_name": "Murder Politics"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "కాక్రోచ్‌లు",
+     "type": "Issue",
+     "english_name": "Cockroaches"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "Next Election",
+     "type": "Issue",
+     "english_name": "Next Election"
+    },
+    {
+     "name": "మావిగన్‌ వర్సెస్‌ అమరావతి",
+     "type": "Issue",
+     "english_name": "MAVIGUN vs AMARAVATI"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సాయికృష్ణ",
+     "type": "Person",
+     "english_name": "Saikrishna"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri YS Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "డీఎస్సీ–2025లో అంతులేని అక్రమాలు.. దిగ్భ్రాంతికర రీతిలో తండ్రీ కొడుకుల స్కామ్‌."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2243ab82685187beb155159d51cf69f3ade7e896": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "బొంకుల బాబు",
+     "type": "Claim",
+     "english_name": "Bomukula Babu"
+    },
+    {
+     "name": "AP BUDGET 2024-25",
+     "type": "Scheme",
+     "english_name": "AP Budget 2024-25"
+    },
+    {
+     "name": "కాగ్‌ నివేదిక",
+     "type": "Organization",
+     "english_name": "CAG Report"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు",
+     "type": "Claim",
+     "english_name": "State Loans"
+    },
+    {
+     "name": "SECI – POWER SECTOR",
+     "type": "Organization",
+     "english_name": "SECI Power Sector"
+    },
+    {
+     "name": "చారిత్రక నిర్ణయాలు",
+     "type": "Claim",
+     "english_name": "Historic Decisions"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "SUPERSIX PROMISES",
+     "type": "Scheme",
+     "english_name": "Super Six Promises"
+    },
+    {
+     "name": "మోసం గ్యారెంటీ చీటింగ్‌లో చంద్రబాబు పీహెచ్‌డీ",
+     "type": "Claim",
+     "english_name": "Cheating PhD"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Issue",
+     "english_name": "Sand"
+    },
+    {
+     "name": "మద్యం",
+     "type": "Issue",
+     "english_name": "Liquor"
+    },
+    {
+     "name": "మైనింగ్‌",
+     "type": "Issue",
+     "english_name": "Mining"
+    },
+    {
+     "name": "కాంట్రాక్ట్‌ల్లో దోపిడీ",
+     "type": "Claim",
+     "english_name": "Contract Robbery"
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Scheme",
+     "english_name": "Budget 2025-26"
+    },
+    {
+     "name": "పరనింద.. ఆత్మస్తుతి",
+     "type": "Claim",
+     "english_name": "Blame and Praise"
+    },
+    {
+     "name": "బాహుబలి బడ్జెట్‌",
+     "type": "Claim",
+     "english_name": "Bahubali Budget"
+    },
+    {
+     "name": "LIQUOR SCAM, REDBOOK, AMARAVATI",
+     "type": "Issue",
+     "english_name": "Liquor Scam, Redbook, Amaravati"
+    },
+    {
+     "name": "మద్యం ముడుపుల డాన్ బాబే",
+     "type": "Claim",
+     "english_name": "Liquor Bribe Don"
+    },
+    {
+     "name": "చంద్రబాబు కుతంత్రాలు",
+     "type": "Claim",
+     "english_name": "Chandrababu's Conspiracy"
+    },
+    {
+     "name": "RECALLING CHANDRABABU’S MANIFESTO",
+     "type": "Issue",
+     "english_name": "Recalling Chandrababu's Manifesto"
+    },
+    {
+     "name": "చెవిరెడ్డిభాస్కర్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Chevireddy Bhaskar Reddy"
+    },
+    {
+     "name": "కొమ్మినేనిగారు",
+     "type": "Person",
+     "english_name": "Kommineni"
+    },
+    {
+     "name": "ATTACK on Krishna ZP Chairperson Uppala Harika",
+     "type": "Issue",
+     "english_name": "Attack on Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    },
+    {
+     "name": "ZPTC Elections Pulivendula-Ontimitta",
+     "type": "Issue",
+     "english_name": "ZPTC Elections Pulivendula-Ontimitta"
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Issue",
+     "english_name": "Congress-TDP Hotline"
+    },
+    {
+     "name": "Rahul Gandhi VoteChore Issue",
+     "type": "Issue",
+     "english_name": "Rahul Gandhi VoteChore Issue"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "బొంకుల బాబు",
+     "evidence": "బొంకుల బాబు అని ఎందుకు అనకూడదు?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పులు",
+     "evidence": "రాష్ట్ర అప్పులపై అసత్యాలు ప్రచారం చేస్తున్నారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "చారిత్రక నిర్ణయాలు",
+     "evidence": "చారిత్రక నిర్ణయాలతో సంపద సృష్టించాం.. సెకీతో కారుచౌకగా యూనిట్ రూ.2.49కే కొనుగోలు చేయడం ద్వారా రూ.1.10 లక్షల కోట్లు ఆదా చేశాం.. ఇది సంపద సృష్టి కాదా?"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "మోసం గ్యారెంటీ చీటింగ్‌లో చంద్రబాబు పీహెచ్‌డీ",
+     "evidence": "మోసం గ్యారెంటీ చీటింగ్‌లో చంద్రబాబు పీహెచ్‌డీ"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "కాంట్రాక్ట్‌ల్లో దోపిడీ",
+     "evidence": "కాంట్రాక్ట్‌ల్లో దోపిడీ కోసం కొత్త విధానం తెచ్చారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "పరనింద.. ఆత్మస్తుతి",
+     "evidence": "పరనింద.. ఆత్మస్తుతి.. ఇది మోసాల బడ్జెట్‌"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "బాహుబలి బడ్జెట్‌",
+     "evidence": "బాహుబలి బడ్జెట్‌ అంటూ చంద్రబాబు బిల్డప్‌"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "మద్యం ముడుపుల డాన్ బాబే",
+     "evidence": "మద్యం ముడుపుల డాన్ బాబే.. దాన్ని కప్పిపుచ్చుకునేందుకే లిక్కర్ స్కామ్ అంటూ చంద్రబాబు కుతంత్రాలు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు కుతంత్రాలు",
+     "evidence": "మద్యం ముడుపుల డాన్ బాబే.. దాన్ని కప్పిపుచ్చుకునేందుకే లిక్కర్ స్కామ్ అంటూ చంద్రబాబు కుతంత్రాలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e7c839f39f0de38dec233624600e3fd7e3c8c760": {
+   "entities": [
+    {
+     "name": "శ్రీ వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "రెడ్ బుక్ రాజ్యాంగం",
+     "type": "Claim",
+     "english_name": "Red Book Constitution"
+    },
+    {
+     "name": "హత్యాయత్నాలు",
+     "type": "Claim",
+     "english_name": "hundreds of murder attempts"
+    },
+    {
+     "name": "విధ్వంసాలు",
+     "type": "Claim",
+     "english_name": "destruction in every village"
+    },
+    {
+     "name": "జాతీయ పార్టీలు",
+     "type": "Organization",
+     "english_name": "National Parties"
+    },
+    {
+     "name": "ఆటవిక పాలన",
+     "type": "Claim",
+     "english_name": "barbaric rule"
+    },
+    {
+     "name": "ELECTION RESULT",
+     "type": "Issue",
+     "english_name": "Election Result"
+    },
+    {
+     "name": "పేదల గొంతుకై నిలుస్తాం",
+     "type": "Claim",
+     "english_name": "We will stand for the voice of the poor"
+    },
+    {
+     "name": "TDP WHITE PAPERS",
+     "type": "Issue",
+     "english_name": "TDP White Papers"
+    },
+    {
+     "name": "శ్వేతపత్రాల పేరుతో దుష్ప్రచారాలు",
+     "type": "Claim",
+     "english_name": "Misleading with white papers"
+    },
+    {
+     "name": "సాక్ష్యాధారాలతో కడిగిపారేసిన",
+     "type": "Claim",
+     "english_name": "Washed away with evidence"
+    },
+    {
+     "name": "TTD LADDU ISSUE",
+     "type": "Issue",
+     "english_name": "TTD Laddu Issue"
+    },
+    {
+     "name": "తిరుమలను అపవిత్రం చేస్తావా",
+     "type": "Claim",
+     "english_name": "Will you defile Tirumala"
+    },
+    {
+     "name": "YSJ TIRUPATI TOUR CANCELLED",
+     "type": "Issue",
+     "english_name": "YSJ Tirupati Tour Cancelled"
+    },
+    {
+     "name": "నా మతం మానవత్వం",
+     "type": "Claim",
+     "english_name": "My religion is humanity"
+    },
+    {
+     "name": "కుట్రలు",
+     "type": "Claim",
+     "english_name": "Conspiracy"
+    },
+    {
+     "name": "వైయస్సార్‌పీపీ నాయకుల హౌజ్‌ అరెస్ట్‌",
+     "type": "Claim",
+     "english_name": "Arrest of YSRCP leaders"
+    },
+    {
+     "name": "SRI YS JAGAN PRESSMEETS TIMELINE.docx",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TTD LADDU SIT",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "SUPREME COURT VERDICT",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాబూ క్షమాపణ చెప్పాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సీబీఐ డైరెక్టర్ పర్యవేక్షణలో స్వతంత్ర దర్యాప్తుకు సుప్రీంకోర్టు ఆదేశం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీ సిట్ రద్దు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "100DAYS KUTAMI RULING",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "కూటమి పాలన",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సోషల్ మీడియా అరెస్టులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "AP BUDGET APPULU 2024-25",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ఆర్ సీపీ ప్రభుత్వ హయాంలోనే సంపద సృష్టి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర అప్పులపై ఆర్గనైజ్డ్‌ క్రైమ్ గా విష ప్రచారం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ బడ్జెట్ మభ్య పెట్టే విధంగా ఉంది",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రెడ్ బుక్ రాజ్యాంగం",
+     "evidence": "ఏపీలో రెడ్ బుక్ రాజ్యాంగం అమలవుతోంది."
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "హత్యాయత్నాలు",
+     "evidence": "వందల్లో హత్యాయత్నాలు"
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "విధ్వంసాలు",
+     "evidence": "ఊరూరా విధ్వంసాలు"
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆటవిక పాలన",
+     "evidence": "ఏపీలో ఆటవిక పాలనపై జాతీయ పార్టీల ఆగ్రహం"
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "పేదల గొంతుకై నిలుస్తాం",
+     "evidence": "పేదల గొంతుకై నిలుస్తాం.. ఫలితాలు ఆశ్చర్యం కలిగించాయి.. ప్రతిపక్షం.. పోరాటం.. కొత్తేమి కాదు"
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "శ్వేతపత్రాల పేరుతో దుష్ప్రచారాలు",
+     "evidence": "శ్వేతపత్రాల పేరుతో సీఎం చంద్రబాబు దుష్ప్రచారాలు.. సాక్ష్యాధారాలతో చంద్రబాబును కడిగిపారేసిన శ్రీ వైఎస్ జగన్"
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "తిరుమలను అపవిత్రం చేస్తావా",
+     "evidence": "చంద్రబాబూ.. నీ రాజకీయ స్వార్థం కోసం తిరుమలను అపవిత్రం చేస్తావా?"
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నా మతం మానవత్వం",
+     "evidence": "నా మతం మానవత్వం. ఇదే నా డిక్లరేషన్‌.."
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "కుట్రలు",
+     "evidence": "తిరుమల పర్యటనను అడ్డుకోవడం కోసం కుట్రలు"
+    },
+    {
+     "source": "శ్రీ వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "వైయస్సార్‌పీపీ నాయకుల హౌజ్‌ అరెస్ట్‌",
+     "evidence": "అటు వైయస్సార్‌పీపీ నాయకుల హౌజ్‌ అరెస్ట్‌"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పై జగన్ ఫైర్"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "బాబూ క్షమాపణ చెప్పాలి",
+     "evidence": "తప్పు చేసిన బాబు క్షమాపణ చెప్పాలి"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "సీబీఐ డైరెక్టర్ పర్యవేక్షణలో స్వతంత్ర దర్యాప్తుకు సుప్రీంకోర్టు ఆదేశం",
+     "evidence": "సీబీఐ డైరెక్టర్ పర్యవేక్షణలో స్వతంత్ర దర్యాప్తుకు సుప్రీంకోర్టు ఆదేశం"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏపీ సిట్ రద్దు",
+     "evidence": "ఏపీ సిట్ రద్దు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "వైఎస్ఆర్ సీపీ ప్రభుత్వ హయాంలోనే సంపద సృష్టి",
+     "evidence": "వైఎస్ఆర్ సీపీ ప్రభుత్వ హయాంలోనే సంపద సృష్టి"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పులపై ఆర్గనైజ్డ్‌ క్రైమ్ గా విష ప్రచారం",
+     "evidence": "రాష్ట్ర అప్పులపై ఆర్గనైజ్డ్‌ క్రైమ్ గా విష ప్రచారం"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ బడ్జెట్ మభ్య పెట్టే విధంగా ఉంది",
+     "evidence": "ఈ బడ్జెట్ మభ్య పెట్టే విధంగా ఉంది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "80d022bedf8c89c8ab778e5f31ccca8004aea10e": {
+   "entities": [
+    {
+     "name": "అరవింద్ సావంత్",
+     "type": "Person",
+     "english_name": "Arvind Sawant"
+    },
+    {
+     "name": "శివసేన (ఉద్ధవ్)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav)"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "మణిపూర్",
+     "type": "Place",
+     "english_name": "Manipur"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Centre"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎన్డీఏ",
+     "type": "Organization",
+     "english_name": "NDA"
+    },
+    {
+     "name": "మహారాష్ట్ర",
+     "type": "Place",
+     "english_name": "Maharashtra"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "కేంద్ర హోం మంత్రిత్వ శాఖ",
+     "type": "Organization",
+     "english_name": "Union Home Ministry"
+    },
+    {
+     "name": "సంజయ్ రౌత్",
+     "type": "Person",
+     "english_name": "Sanjay Raut"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అరవింద్ సావంత్",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "కేంద్రం కళ్లు మూసుకొంటే ఏపీ మణిపూర్లా మారుతుంది"
+    },
+    {
+     "source": "అరవింద్ సావంత్",
+     "relation": "MEMBER_OF",
+     "target": "శివసేన (ఉద్ధవ్)",
+     "evidence": ""
+    },
+    {
+     "source": "సంజయ్ రౌత్",
+     "relation": "MEMBER_OF",
+     "target": "శివసేన (ఉద్ధవ్)",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "52a436943c46435638fd6ad2d351fbd0185b6b20": {
+   "entities": [
+    {
+     "name": "శివసేన (ఉద్దవ్)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav)"
+    },
+    {
+     "name": "సంజయ్ రౌత్",
+     "type": "Person",
+     "english_name": "Sanjay Raut"
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "జం తర్మంతర్",
+     "type": "Place",
+     "english_name": "Jantar Mantar"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కేంద్ర హోం మంత్రి",
+     "type": "Organization",
+     "english_name": "Union Home Minister"
+    },
+    {
+     "name": "హోం మంత్రిత్వ శాఖ",
+     "type": "Organization",
+     "english_name": "Home Ministry"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సంజయ్ రౌత్",
+     "relation": "ACCUSES",
+     "target": "ఏపీ ప్రభుత్వం",
+     "evidence": "ఏపీ ప్రభుత్వానికి ఒక్క రోజు కూడా పాలించే హక్కు లేదని స్పష్టం చేశారు."
+    },
+    {
+     "source": "సంజయ్ రౌత్",
+     "relation": "DEFENDS",
+     "target": "వైఎస్ జగన్",
+     "evidence": "మిత్రుడు వైఎస్ జగన్మోహన్ రెడ్డికి అండగా నిలబడటానికే ఇక్కడికి వచ్చాను."
+    },
+    {
+     "source": "సంజయ్ రౌత్",
+     "relation": "MEMBER_OF",
+     "target": "శివసేన (ఉద్దవ్)",
+     "evidence": "శివసేన (ఉద్దవ్) ఎం పీ సంజయ్ రౌత్ ప్రశ్నించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

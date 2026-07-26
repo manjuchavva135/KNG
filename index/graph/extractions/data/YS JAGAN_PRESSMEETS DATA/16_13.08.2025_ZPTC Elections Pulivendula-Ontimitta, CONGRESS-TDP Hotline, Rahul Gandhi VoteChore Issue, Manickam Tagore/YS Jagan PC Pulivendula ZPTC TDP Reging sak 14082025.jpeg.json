@@ -1,0 +1,195 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2c3e1df596ea7920718f9b4d49e15e5ae99389e8": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "రేవంత్రెడ్డి",
+     "type": "Person",
+     "english_name": "Ravindranath Reddy"
+    },
+    {
+     "name": "రాహుల్గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఓట్ల చోరీ",
+     "type": "Issue",
+     "english_name": "Vote Chori"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "మాణిక్యం ఠాగూర్",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "ఒంటిమిట్ట",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "జెడ్పీటీసీ",
+     "type": "Organization",
+     "english_name": "ZPTC"
+    },
+    {
+     "name": "జిల్లా కలెక్టర్",
+     "type": "Organization",
+     "english_name": "District Collector"
+    },
+    {
+     "name": "పోలీసు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "చంబల్ లోయ",
+     "type": "Place",
+     "english_name": "Chambal Valley"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "బాబు కుంభకోణాలు.. దోపిడీ వారికి కనిపించవా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "జిల్లా కలెక్టర్",
+     "evidence": "జిల్లా కలెక్టర్ సైతం దగ్గరుండి దొంగ ఓట్లు వేయించారు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "పోలీసు",
+     "evidence": "పోలీసులే దగ్గరుండి టీడీపీ నాయకులు, కార్యకర్తలను ప్రోత్సహించారు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "రాహుల్గాంధీ",
+     "evidence": "ఓట్ల అవకతవకలపై రాహుల్ గాంధీకే చిత్తశుద్ధి లేదు"
+    },
+    {
+     "source": "మాణిక్యం ఠాగూర్",
+     "relation": "ACCUSES",
+     "target": "వైఎస్ జగన్",
+     "evidence": "బాబు టచ్లో ఉండబట్టే కాంగ్రెస్ ఏపీ ఇన్ఛార్జ్ మాణిక్యం ఠాగూర్ మాపై విమర్శలు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబూ",
+     "evidence": "మీరు ప్రజలను మోసం చేశారు కాబట్టే, ప్రజలు మీకు ఓటు వేయరు కాబట్టే, విచ్చల విడిగా ప్రజాస్వామ్యాన్ని ఖూనీ చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": ""
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": ""
+    },
+    {
+     "source": "Pulivendula-Ontimitta",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Andhra Pradesh Main"
+    }
+   ]
+  }
+ }
+}

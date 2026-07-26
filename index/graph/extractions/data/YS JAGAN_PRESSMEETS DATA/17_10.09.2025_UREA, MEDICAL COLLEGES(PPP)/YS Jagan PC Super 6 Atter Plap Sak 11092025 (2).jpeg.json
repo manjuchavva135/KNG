@@ -374,6 +374,638 @@
   "954d35e4c46eeb998e1201ddc4fde037eac57f15": {
    "entities": [],
    "relations": []
+  },
+  "3629f536f97d7dd9ca58293d14ee8b37895bec32": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "చంద్రబాబు, ఆయనకు సంబంధించిన మాఫియా ముఠా ఆదాయాలు మాత్రం పెరుగుతున్నాయి.",
+     "type": "Claim",
+     "english_name": "Chandrababu's mafia income is rising"
+    },
+    {
+     "name": "ఐదేళ్ల మా ప్రభుత్వ హయాంలో మేము చేసిన అప్పు రూ.3,32,671 కోట్లు.",
+     "type": "Claim",
+     "english_name": "Our government incurred Rs.3,32,671 crore debt in five years"
+    },
+    {
+     "name": "చంద్రబాబు కేవలం 15 నెలల్లో చేసిన అప్పు ఏకంగా రూ.1,91,361 కోట్లు.",
+     "type": "Claim",
+     "english_name": "Chandrababu incurred Rs.1,91,361 crore debt in 15 months"
+    },
+    {
+     "name": "సూపర్ సిక్స్ హామీలను 2024 జూన్ నుంచే త్రికరణశుద్ధిగా అమలు చేస్తామని ప్రమాణం చేస్తూ చంద్రబాబు సంతకం చేసి మరీ ఇచ్చారు.",
+     "type": "Claim",
+     "english_name": "Chandrababu signed a pledge to implement Super Six promises from June 2024"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Issue",
+     "english_name": "Super Six scheme controversy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, ఆయనకు సంబంధించిన మాఫియా ముఠా ఆదాయాలు మాత్రం పెరుగుతున్నాయి."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ఐదేళ్ల మా ప్రభుత్వ హయాంలో మేము చేసిన అప్పు రూ.3,32,671 కోట్లు.",
+     "evidence": "ఐదేళ్ల మా ప్రభుత్వ హయాంలో మేము చేసిన అప్పు రూ.3,32,671 కోట్లు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు కేవలం 15 నెలల్లో చేసిన అప్పు ఏకంగా రూ.1,91,361 కోట్లు.",
+     "evidence": "చంద్రబాబు కేవలం 15 నెలల్లో చేసిన అప్పు ఏకంగా రూ.1,91,361 కోట్లు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్ సిక్స్ హామీలను 2024 జూన్ నుంచే త్రికరణశుద్ధిగా అమలు చేస్తామని ప్రమాణం చేస్తూ చంద్రబాబు సంతకం చేసి మరీ ఇచ్చారు.",
+     "evidence": "సూపర్ సిక్స్ హామీలను 2024 జూన్ నుంచే త్రికరణశుద్ధిగా అమలు చేస్తామని ప్రమాణం చేస్తూ చంద్రబాబు సంతకం చేసి మరీ ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "సూపర్ సిక్స్ హామీలను 2024 జూన్ నుంచే త్రికరణశుద్ధిగా అమలు చేస్తామని ప్రమాణం చేస్తూ చంద్రబాబు సంతకం చేసి మరీ ఇచ్చారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ ముఖ్యమంత్రి వైఎస్ జగన్ మోహన్రెడ్డి"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి"
+    }
+   ]
+  },
+  "5cc7641551423e6d5bd4242f7faaa1eb014682ec": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మెహరాజ్ బేగం",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six promises",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven promises",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Super Seven",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు, ఆయన ఎల్లో మీడియా నాణినికి ఒక వైపు మాత్రమే చెబుతోందని.."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడులో ఇచ్చిన ప్రకటనలో..."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్పై ఎన్నికలకు ముందు 2024 మే 9న ఈనాడులో ఇచ్చిన ప్రకటనలో..."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Seven",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్పై ఎన్నికలకు ముందు 2024 మే 9న ఈనాడులో ఇచ్చిన ప్రకటనలో..."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Super Six promises",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్పై ఎన్నికలకు ముందు 2024 మే 9న ఈనాడులో ఇచ్చిన ప్రకటనలో..."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "Super Seven promises",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్పై ఎన్నికలకు ముందు 2024 మే 9న ఈనాడులో ఇచ్చిన ప్రకటనలో..."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ కూటమి ప్రభుత్వం"
+    }
+   ]
+  },
+  "7b8b3b03b6462015c54a9a299b8b2e497914b5b8": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "BOSCH",
+     "type": "Organization",
+     "english_name": "BOSCH"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "నెలకు రూ.1,500 నేరుగా మీ అకౌంట్లో వేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "20 లక్షల మంది యువతకు ఉద్యోగాలు ఇచ్చే బాధ్యత టీడీపీది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నెలకు రూ.3 వేల భృతి ఇస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇసుకతో పాటు లక్కర్ మాఫియా రాష్ట్ర వ్యాప్తంగా కళ్లిదుటీ దోచుకుంటోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "17 మెడికల్ కాలేజీలను స్కామ్లకు పాల్పడుతూ అమ్మేయడం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Issue",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Liquor mafia",
+     "type": "Issue",
+     "english_name": "Liquor mafia"
+    },
+    {
+     "name": "Sand mafia",
+     "type": "Issue",
+     "english_name": "Sand mafia"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీది"
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "సూపర్ సిక్స్ పథకాలంటూ"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెలకు రూ.1,500 నేరుగా మీ అకౌంట్లో వేస్తాం",
+     "evidence": "నెలకు రూ.1,500 నేరుగా మీ అకౌంట్లో వేస్తాం'"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "20 లక్షల మంది యువతకు ఉద్యోగాలు ఇచ్చే బాధ్యత టీడీపీది",
+     "evidence": "20 లక్షల మంది యువతకు ఉద్యోగాలు ఇచ్చే బాధ్యత టీడీపీది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెలకు రూ.3 వేల భృతి ఇస్తాం",
+     "evidence": "నెలకు రూ.3 వేల భృతి ఇస్తాం."
+    }
+   ]
+  },
+  "86170c521294f93bc2b17cfd9a1176de99421f11": {
+   "entities": [
+    {
+     "name": "బాబు స్కూలిటే - భవిష్యత్తు గ్యారెంటీ",
+     "type": "Scheme",
+     "english_name": "Babuschoolite - Bhadishyatthu Guarantee"
+    },
+    {
+     "name": "దీపం",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "నరేంద్ర మోదీ",
+     "type": "Person",
+     "english_name": "Narendra Modi"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "నేను మళ్లీ దీపం వెలిగిస్తాను. మూడు సిలిం డర్లు ఉచితంగా ఇస్తానని మీ అందరికీ హామీ ఇస్తున్నా'.",
+     "type": "Claim",
+     "english_name": "నేను మళ్లీ దీపం వెలిగిస్తాను. మూడు సిలిం డర్లు ఉచితంగా ఇస్తానని మీ అందరికీ హామీ ఇస్తున్నా'."
+    },
+    {
+     "name": "శక్తిగా తయారు చేయాల",
+     "type": "Scheme",
+     "english_name": "Shakti"
+    },
+    {
+     "name": "అడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "నెలకు రూ.1,500 నేరుగా మీ అకౌంట్లో వేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "20 లక్షల మంది యువతకు ఉద్యోగాలు ఇచ్చే బాధ్యత",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నెలకు రూ.3 వేల భృతి ఇస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బాబు స్కూలిటే - భవిష్యత్తు గ్యారెంటీ",
+     "evidence": "ఈ చిత్రం 'బాబు స్కూలిటే - భవిష్యత్తు గ్యారెంటీ' అనే ప్రభుత్వ విద్యా పథకం యొక్క వివరణాత్మక దృశ్యాన్ని చూపుతుంది."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దీపం",
+     "evidence": "నేను మళ్లీ దీపం వెలిగిస్తాను."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "నేను మళ్లీ దీపం వెలిగిస్తాను. మూడు సిలిం డర్లు ఉచితంగా ఇస్తానని మీ అందరికీ హామీ ఇస్తున్నా'.",
+     "evidence": "నేను మళ్లీ దీపం వెలిగిస్తాను. మూడు సిలిం డర్లు ఉచితంగా ఇస్తానని మీ అందరికీ హామీ ఇస్తున్నా'."
+    }
+   ]
+  },
+  "cb6ebe8aec71fcb45e9306cf5719438d17ef0fbb": {
+   "entities": [
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "టీడీపీ కూటమి",
+     "type": "Party",
+     "english_name": "TDP Alliance"
+    },
+    {
+     "name": "పీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "ఉచిత వంట బీమా",
+     "type": "Scheme",
+     "english_name": "Free Cooking Insurance"
+    },
+    {
+     "name": "సిబ్బంది డబ్బుల ప్యాకేజీ",
+     "type": "Scheme",
+     "english_name": "Staff Money Package"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero Interest"
+    },
+    {
+     "name": "కాపు వేస్తాం",
+     "type": "Scheme",
+     "english_name": "Kapu Promise"
+    },
+    {
+     "name": "బాండ్లు పంపిణీ",
+     "type": "Issue",
+     "english_name": "Bond Distribution"
+    },
+    {
+     "name": "మోసం",
+     "type": "Issue",
+     "english_name": "Fraud"
+    },
+    {
+     "name": "చిన్న పిల్లలు కన్పిస్తే నీకు రూ.15 వేలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పెద్దమ్మలు కనపడితే నీకు రూ.18 వేలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతు కనిపిస్తే పీఎం కిసాన్ కింద ఇచ్చేది కాక అన్నదాత సుఖీభవ కింద రూ.20 వేలు ఇస్తామని హామీ ఇస్తూ బాండ్లు ఇచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్మోహన్రెడ్డి పెట్టిన సంక్షేమ కార్యక్రమాలు ఆగిపోవు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులకు సంవత్సరానికి ఇప్పుడిచ్చేది కాకుండా రూ.20 వేలు ఇస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రన్న",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "బాబు ష్యూరటీ- భవిష్యత్తుకు గ్యారంటీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "UREA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MEDICAL COLLEGES(PPP)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్టీసీ బస్సుల్లో ఉచిత ప్రయాణ సౌకర్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇది చంద్రన్న నాకిచ్చిన హక్కు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "బాబు"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చిన్న పిల్లలు కన్పిస్తే నీకు రూ.15 వేలు",
+     "evidence": "చిన్న పిల్లలు కన్పిస్తే నీకు రూ.15 వేలు"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వందనం",
+     "evidence": "తల్లికి వందనం కింద ఎంత మంది పిల్లలున్నా ఒక్కొక్కరికి రూ.15 వేలు.. ఆంక్షలు లేవు.. కటింగ్లు లేవు."
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దీపం",
+     "evidence": "ఏడాదికి మూడు సిలిండర్లు ఉచితంగా ఇవ్వాలని ఆలోచిస్తా"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆర్టీసీ బస్సుల్లో ఉచిత ప్రయాణ సౌకర్యం",
+     "evidence": "ఆర్టీసీ బస్సుల్లో ఉచిత ప్రయాణ సౌకర్యం. నేనే డ్రైవర్‌ని. సేఫ్ డ్రైవర్ని. మీరు బస్సు ఎక్కితే.. ఒక్కటే చెప్పండి.. మా చంద్రన్న చెప్పాడు.. నేను ఏ ఊరికి పోవాలన్నా నువ్వు ఏమీ అడగడానికి వీలులేదు. ఇది చంద్రన్న నాకిచ్చిన హక్కు అని గట్టిగా చెప్పండి. ఏమీ భయపడక్కర్లేదు'."
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇది చంద్రన్న నాకిచ్చిన హక్కు",
+     "evidence": "ఇది చంద్రన్న నాకిచ్చిన హక్కు అని గట్టిగా చెప్పండి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి",
+     "evidence": "చంద్రబాబు ఫొటో"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "MEMBER_OF",
+     "target": "జనసేన",
+     "evidence": "పవన్ కళ్యాణ్ ఫొటో"
+    },
+    {
+     "source": "టిడిపి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బాబు ష్యూరటీ- భవిష్యత్తుకు గ్యారంటీ",
+     "evidence": "బాబు ష్యూరటీ- భవిష్యత్తుకు గ్యారంటీ పేరుతో కూటమి నేతలు ఇంటింటికీ బాండ్లు పంపిణీ చేశారు."
+    },
+    {
+     "source": "జనసేన",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బాబు ష్యూరటీ- భవిష్యత్తుకు గ్యారంటీ",
+     "evidence": "బాబు ష్యూరటీ- భవిష్యత్తుకు గ్యారంటీ పేరుతో కూటమి నేతలు ఇంటింటికీ బాండ్లు పంపిణీ చేశారు."
+    }
+   ]
   }
  }
 }

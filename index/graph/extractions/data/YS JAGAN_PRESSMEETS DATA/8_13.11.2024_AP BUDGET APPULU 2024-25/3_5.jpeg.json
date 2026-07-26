@@ -1,0 +1,111 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fe3b8cfcdadcf0ed647f554daaa7da01298ee258": {
+   "entities": [
+    {
+     "name": "వైకాపా నాయకులు",
+     "type": "Party",
+     "english_name": "YSRCP leaders"
+    },
+    {
+     "name": "ఆర్థిక మంత్రి బుగ్గన",
+     "type": "Person",
+     "english_name": "Finance Minister Buggana"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "గ్రామ, వార్డు సచివాలయాలశాఖ",
+     "type": "Organization",
+     "english_name": "Secretariat Department"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ పబ్లిక్ సర్వీస్ కమిషన్",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Public Service Commission"
+    },
+    {
+     "name": "ఆర్జేడీ మధుసూదనరావు",
+     "type": "Person",
+     "english_name": "RJDE Madhusudhanarao"
+    },
+    {
+     "name": "కాకినాడ ప్రాంతీయ సంయుక్త సంచాలకులు",
+     "type": "Organization",
+     "english_name": "Kakinada Regional Joint Director of Education"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఈనాడు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ఈనాడు, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6c269269dc97b2c07373a89b96ce5e97d71aac09": {
+   "entities": [
+    {
+     "name": "పయ్యావుల కేశవ్",
+     "type": "Person",
+     "english_name": "Payyavula Keshava"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "జగన్ రెడ్డి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Jagan Reddy Government"
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": "Sri Lanka"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "పీఏజీ",
+     "type": "Organization",
+     "english_name": "PAAG"
+    },
+    {
+     "name": "జిల్లేడుబండ రిజర్వాయరు",
+     "type": "Place",
+     "english_name": "Jilledubanda Reservoir"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "ACCUSES",
+     "target": "జగన్ రెడ్డి ప్రభుత్వం",
+     "evidence": "జగన్ రెడ్డి ప్రభుత్వం తలకు మించి చేసిన అప్పులతో రాష్ట్రం తీవ్ర ఆర్థిక సంక్షోభంలో చిక్కుకోబోతోందని, మరో శ్రీలంక కాబోతోందని తెదేపా 4 నెలల క్రితమే హెచ్చరించిందని ప్రజాపద్దుల కమిటీ చైర్మన్ పయ్యావుల కేశవ్ పేర్కొన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

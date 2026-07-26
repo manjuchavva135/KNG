@@ -1888,6 +1888,1177 @@
     }
    ],
    "relations": []
+  },
+  "59c5bb39ba0f574d11af5f0e90b9781cb901667e": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jaganmohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అదానీ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Adani Data Center"
+    },
+    {
+     "name": "గూగుల్‌ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Google Data Center"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "నకిలీ మద్యం దందా",
+     "type": "Issue",
+     "english_name": "Fake Liquor Racket"
+    },
+    {
+     "name": "గౌరవ వేతనం",
+     "type": "Scheme",
+     "english_name": "Volunteer Honorarium"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Naadu–Nedu"
+    },
+    {
+     "name": "వాలంటీర్లకు గౌరవ వేతనం పెంచుతామని హామీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.10 వేలు ఇస్తామని ఆశ చూపి, ఆ తర్వాత మోసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మొత్తం వాలంటీర్లనే తొలగించిన సీఎం చంద్రబాబు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏకంగా 2.6 లక్షల మంది పొట్ట కొట్టిన చంద్రబాబు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం దందాతో ప్రజల ఆరోగ్యం, ఫణంగా పెట్టి మద్యం మాఫియా కోట్లు గడిస్తోందని",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "bfb97442b48dcbaba072da75f6c79fb5cc1ec856": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జయచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Jayachandra Reddy"
+    },
+    {
+     "name": "జనార్దనరావు",
+     "type": "Person",
+     "english_name": "Janardhan Rao"
+    }
+   ],
+   "relations": []
+  },
+  "1a2c791f80ed51c3eaf19fd7c459e7b7e65aa3e5": {
+   "entities": [
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "సిట్‌",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "సీపీ రాజశేఖర్‌",
+     "type": "Person",
+     "english_name": "CP Rajasekhar"
+    },
+    {
+     "name": "ఇబ్రహీంపట్నం",
+     "type": "Place",
+     "english_name": "Ibrahimpattanam"
+    },
+    {
+     "name": "క్యూఆర్ కోడ్‌",
+     "type": "Scheme",
+     "english_name": "QR code scanning"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "నకిలీ మద్యం మాఫియా",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "క్యూఆర్ కోడ్‌",
+     "evidence": "చంద్రబాబు నాయుడు క్యూఆర్‌ కోడ్‌ స్కాన్‌ చేసే బాధ్యతలు ఇస్తున్నాడు."
+    }
+   ]
+  },
+  "da9990f81a5cd17f108bef5e7d1345789608ddd9": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అదానీ గ్రూప్‌",
+     "type": "Organization",
+     "english_name": "Adani Group"
+    },
+    {
+     "name": "గూగుల్‌",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "అదానీ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Adani Data Center"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "ప్రభుత్వ ఉద్యోగులు",
+     "type": "Organization",
+     "english_name": "Government Employees"
+    },
+    {
+     "name": "డీఏ",
+     "type": "Scheme",
+     "english_name": "Dearness Allowance"
+    },
+    {
+     "name": "పీఆర్‌సీ",
+     "type": "Scheme",
+     "english_name": "Pay Revision Commission"
+    },
+    {
+     "name": "జీపీఎస్",
+     "type": "Scheme",
+     "english_name": "General Provident Scheme"
+    },
+    {
+     "name": "ఓపీఎస్‌",
+     "type": "Scheme",
+     "english_name": "Old Pension Scheme"
+    },
+    {
+     "name": "చంద్రబాబు పర్‌ఫార్మెన్స్‌లో వీక్‌. క్రెడిట్‌ చోరీలో పీక్‌",
+     "type": "Claim",
+     "english_name": "Chandrababu is weak in performance; peak in credit theft"
+    },
+    {
+     "name": "గత వైయస్సార్‌సీపీ ప్రభుత్వంలోనే అదానీ డేటా సెంటర్‌",
+     "type": "Claim",
+     "english_name": "Adani Data Center was in the previous YSRCP government"
+    }
+   ],
+   "relations": []
+  },
+  "22fefffd3a1df4a57a2272a81d99e140b85e1d53": {
+   "entities": [
+    {
+     "name": "అదానీ ఎంటర్‌ ప్రైజెస్‌",
+     "type": "Organization",
+     "english_name": "Adani Enterprises"
+    },
+    {
+     "name": "గూగుల్‌",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "టైమ్స్‌ ఆఫ్‌ ఇండియా",
+     "type": "Organization",
+     "english_name": "Times of India"
+    },
+    {
+     "name": "సింగపూర్‌",
+     "type": "Place",
+     "english_name": "Singapore"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "నోయిడా",
+     "type": "Place",
+     "english_name": "Noida"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్‌",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Data Center"
+    },
+    {
+     "name": "సబ్‌ సీ కేబుల్‌",
+     "type": "Scheme",
+     "english_name": "Sub Sea Cable"
+    },
+    {
+     "name": "300 మెగావాట్ల ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "300 MW Project"
+    },
+    {
+     "name": "1000 మెగావాట్ల ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "1000 MW Project"
+    },
+    {
+     "name": "అదానీ డేటా సెంటర్‌",
+     "type": "Issue",
+     "english_name": "Adani Data Center Issue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అదానీ ఎంటర్‌ ప్రైజెస్‌",
+     "relation": "LOCATED_IN",
+     "target": "నోయిడా",
+     "evidence": "నోయిడాలో"
+    },
+    {
+     "source": "డేటా సెంటర్‌",
+     "relation": "LOCATED_IN",
+     "target": "విశాఖపట్నం",
+     "evidence": "విశాఖలో 2023, మే 3న అదానీ డేటా సెంటర్‌కు పునాదిరాయి వేశాం."
+    }
+   ]
+  },
+  "371cd82b35cd0d06c0fe24e33b0ec27fecb93b4c": {
+   "entities": [
+    {
+     "name": "జనార్దన్‌రావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జోగి రమేష్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఐవీఆర్‌ఎస్‌ కాల్‌ సెంటర్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఏబీఎన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ లిక్కర్‌ ఫ్యాక్టరీలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ లిక్కర్‌ బాటిళ్లు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Claim",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Claim",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ లిక్కర్‌ ఫ్యాక్టరీలు",
+     "evidence": "నకిలీ లిక్కర్‌ ఫ్యాక్టరీలు బయటపడ్డ తర్వాత మీరెన్ని షాపుల్లో తనిఖీలు చేశారు?"
+    },
+    {
+     "source": "Claim",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "నకిలీ లిక్కర్‌ బాటిళ్లు",
+     "evidence": "ఎన్ని నకిలీ లిక్కర్‌ బాటిళ్లు పట్టుకున్నారు?"
+    }
+   ]
+  },
+  "5218ef298067ef92556c0ab2de254461e360e781": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జయచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పెద్దిరెడ్డి రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ద్వారకానాథ్‌రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రుత్తుల రాము",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పాలకొల్లు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమలాపురం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పరవాడ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆఫ్రికా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు పేపర్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ లిక్కర్‌ ఫ్యాక్టరీ",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్‌ స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "రేపల్లె",
+     "type": "Place",
+     "english_name": "Rapalle"
+    },
+    {
+     "name": "లిక్కర్‌ మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "పేకాట కింగ్‌",
+     "type": "Person",
+     "english_name": "Gambling King"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "నకిలీ మద్యం",
+     "type": "Scheme",
+     "english_name": "Fake Liquor"
+    },
+    {
+     "name": "ఆ మనిషి మీద కేసులున్నాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు మనుషులే నకిలీ మద్యం ఫ్యాక్టరీలు పెట్టింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యాన్ని తయారు చేసి, తమ మాఫియాలో భాగమైన ప్రైవేట్‌ లిక్కర్‌ షాపులకు సరఫరా చేసేదీ వాళ్లే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జయచంద్రారెడ్డి",
+     "evidence": "ఇదే జయచంద్రారెడ్డి అనే వ్యక్తి పెద్దిరెడ్డి రామచంద్రారెడ్డికి అత్యంత సన్నిహితుడే"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకుడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆ మనిషి మీద కేసులున్నాయి",
+     "evidence": "ఆ మనిషి మీద కేసులున్నాయి"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబునాయుడు మనుషులే నకిలీ మద్యం ఫ్యాక్టరీలు పెట్టింది",
+     "evidence": "చంద్రబాబునాయుడు మనుషులే నకిలీ మద్యం ఫ్యాక్టరీలు పెట్టింది"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "నకిలీ మద్యాన్ని తయారు చేసి, తమ మాఫియాలో భాగమైన ప్రైవేట్‌ లిక్కర్‌ షాపులకు సరఫరా చేసేదీ వాళ్లే",
+     "evidence": "నకిలీ మద్యాన్ని తయారు చేసి, తమ మాఫియాలో భాగమైన ప్రైవేట్‌ లిక్కర్‌ షాపులకు సరఫరా చేసేదీ వాళ్లే"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "లిక్కర్‌ మాఫియా",
+     "evidence": "ఆయనే దగ్గరుండి లిక్కర్‌ మాఫియా నడుపుతున్నాడు"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు మనుషులే నకిలీ మద్యం ఫ్యాక్టరీలు పెట్టింది",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "నకిలీ మద్యం"
+    },
+    {
+     "source": "నకిలీ మద్యం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "నకిలీ మద్యం"
+    }
+   ]
+  },
+  "f32851b67b7805c3ff9893d1d25f239cd26f95bf": {
+   "entities": [
+    {
+     "name": "ఉత్తరాంధ్ర",
+     "type": "Place",
+     "english_name": "Uttara Andhra"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "మూలపేట",
+     "type": "Place",
+     "english_name": "Mulupeta"
+    },
+    {
+     "name": "గవర్నమెంట్‌",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "విజయనగరం",
+     "type": "Place",
+     "english_name": "Vijayanagara"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజ్‌",
+     "type": "Organization",
+     "english_name": "Medical College"
+    },
+    {
+     "name": "పాడేరు",
+     "type": "Place",
+     "english_name": "Padar"
+    },
+    {
+     "name": "పార్వతీపురం",
+     "type": "Place",
+     "english_name": "Parvathipuram"
+    },
+    {
+     "name": "నర్సీపట్నం",
+     "type": "Place",
+     "english_name": "Narsipatnam"
+    },
+    {
+     "name": "ఉద్దానం",
+     "type": "Place",
+     "english_name": "Uddanam"
+    },
+    {
+     "name": "కిడ్నీ రీసెర్స్‌ సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Kidney Research Centre"
+    },
+    {
+     "name": "సీతంపేట",
+     "type": "Place",
+     "english_name": "Seetampet"
+    },
+    {
+     "name": "మల్టీ స్పెషాలిటీ హాస్పిటల్",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "cbb7d3b8ac2d9765a436761280db32ba08c05589": {
+   "entities": [
+    {
+     "name": "కోటి సంతకాల కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "రచ్చబండ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణ",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గవర్నర్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాయలసీమ ప్రాంతం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రైతుల పరిస్థితి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణను నిరసిస్తూ కోటి సంతకాల కార్యక్రమం ముమ్మరంగా జరుగుతోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో రైతుల పరిస్థితి దారుణం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణను నిరసిస్తూ కోటి సంతకాల కార్యక్రమం ముమ్మరంగా జరుగుతోంది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణ",
+     "evidence": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణను నిరసిస్తూ కోటి సంతకాల కార్యక్రమం ముమ్మరంగా జరుగుతోంది."
+    },
+    {
+     "source": "రాష్ట్రంలో రైతుల పరిస్థితి దారుణం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రైతుల పరిస్థితి",
+     "evidence": "రాష్ట్రంలో రైతుల పరిస్థితి దారుణం."
+    }
+   ]
+  },
+  "5f8e38213b71b3d352659c8fea6fb996addbc162": {
+   "entities": [
+    {
+     "name": "అదానీ డేటా సెంటర్",
+     "type": "Organization",
+     "english_name": "Adani Data Center"
+    },
+    {
+     "name": "గూగుల్",
+     "type": "Organization",
+     "english_name": "Google"
+    },
+    {
+     "name": "ఇన్ఫోసిస్",
+     "type": "Organization",
+     "english_name": "Infosys"
+    },
+    {
+     "name": "ఇనార్బిట్ మాల్",
+     "type": "Organization",
+     "english_name": "Inorbit Mall"
+    },
+    {
+     "name": "కైలాసగిరి సైన్స్‌ మ్యూజియం",
+     "type": "Organization",
+     "english_name": "Kailasagiri Science Museum"
+    },
+    {
+     "name": "రిషికొండ వద్ద టీటీడీ దేవాలయం",
+     "type": "Organization",
+     "english_name": "TTD Temple at Rishikonda"
+    },
+    {
+     "name": "ఎన్టీపీసీ గ్రీన్‌ హైడ్రోజన్‌ హబ్‌",
+     "type": "Organization",
+     "english_name": "NTPC Green Hydrogen Hub"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "రోడ్డు– టు ది ఎయిర్‌పోర్ట్‌ అండ్‌ టు ది మూలపేట పోర్టు",
+     "type": "Place",
+     "english_name": "Road to Airport and Mulapeta Port"
+    },
+    {
+     "name": "సెంట్రల్‌ గవర్నమెంట్‌",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "గట్కరీ",
+     "type": "Person",
+     "english_name": "Gadkari"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "మా హయాంలో",
+     "type": "Person",
+     "english_name": "During my tenure"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu"
+    },
+    {
+     "name": "డిజిటల్‌ క్లాస్‌ రూమ్స్",
+     "type": "Scheme",
+     "english_name": "Digital Classrooms"
+    },
+    {
+     "name": "టోఫిల్‌ క్లాస్‌లు",
+     "type": "Scheme",
+     "english_name": "TOEFL Classes"
+    },
+    {
+     "name": "8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు",
+     "type": "Scheme",
+     "english_name": "Tablets for 8th class students"
+    },
+    {
+     "name": "ఐబీ సిలబస్‌",
+     "type": "Scheme",
+     "english_name": "IB Syllabus"
+    },
+    {
+     "name": "గ్రామాల్లో సేవలు",
+     "type": "Scheme",
+     "english_name": "Village Services"
+    },
+    {
+     "name": "విద్యా, వైద్యం, వ్యవసాయంలో అనూహ్య మార్పులు తీసుకువచ్చాం",
+     "type": "Claim",
+     "english_name": "Unprecedented changes in education, health, and agriculture"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మా హయాంలో",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నాడు–నేడు",
+     "evidence": "నాడు–నేడు అయితేనేమీ, డిజిటల్‌ క్లాస్‌ రూమ్స్, టోఫిల్‌ క్లాస్‌లు, 8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు, సీబీఎస్‌ఈ కాదు ఐబీ సిలబస్‌ తీసుకువచ్చే కార్యక్రమానికి శ్రీకారం చుట్టాం."
+    },
+    {
+     "source": "మా హయాంలో",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డిజిటల్‌ క్లాస్‌ రూమ్స్",
+     "evidence": "నాడు–నేడు అయితేనేమీ, డిజిటల్‌ క్లాస్‌ రూమ్స్, టోఫిల్‌ క్లాస్‌లు, 8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు, సీబీఎస్‌ఈ కాదు ఐబీ సిలబస్‌ తీసుకువచ్చే కార్యక్రమానికి శ్రీకారం చుట్టాం."
+    },
+    {
+     "source": "మా హయాంలో",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "టోఫిల్‌ క్లాస్‌లు",
+     "evidence": "నాడు–నేడు అయితేనేమీ, డిజిటల్‌ క్లాస్‌ రూమ్స్, టోఫిల్‌ క్లాస్‌లు, 8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు, సీబీఎస్‌ఈ కాదు ఐబీ సిలబస్‌ తీసుకువచ్చే కార్యక్రమానికి శ్రీకారం చుట్టాం."
+    },
+    {
+     "source": "మా హయాంలో",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు",
+     "evidence": "నాడు–నేడు అయితేనేమీ, డిజిటల్‌ క్లాస్‌ రూమ్స్, టోఫిల్‌ క్లాస్‌లు, 8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు, సీబీఎస్‌ఈ కాదు ఐబీ సిలబస్‌ తీసుకువచ్చే కార్యక్రమానికి శ్రీకారం చుట్టాం."
+    },
+    {
+     "source": "మా హయాంలో",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఐబీ సిలబస్‌",
+     "evidence": "నాడు–నేడు అయితేనేమీ, డిజిటల్‌ క్లాస్‌ రూమ్స్, టోఫిల్‌ క్లాస్‌లు, 8వ తరగతి పిల్లల చేతుల్లో ట్యాబ్‌లు, సీబీఎస్‌ఈ కాదు ఐబీ సిలబస్‌ తీసుకువచ్చే కార్యక్రమానికి శ్రీకారం చుట్టాం."
+    },
+    {
+     "source": "మా హయాంలో",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గ్రామాల్లో సేవలు",
+     "evidence": "గ్రామాల్లో సేవలు గడప వద్దకు తీసుకువచ్చాం."
+    },
+    {
+     "source": "మా హయాంలో",
+     "relation": "MAKES_CLAIM",
+     "target": "విద్యా, వైద్యం, వ్యవసాయంలో అనూహ్య మార్పులు తీసుకువచ్చాం",
+     "evidence": "విద్యా, వైద్యం, వ్యవసాయంలో అనూహ్య మార్పులు తీసుకువచ్చాం."
+    }
+   ]
+  },
+  "7fcc61781ddafbbd189427fd713fa3fc2cf33390": {
+   "entities": [
+    {
+     "name": "జనార్దన్‌రావు",
+     "type": "Person",
+     "english_name": "Janardhan Rao"
+    },
+    {
+     "name": "జోగి రమేశ్‌",
+     "type": "Person",
+     "english_name": "Jogireddy Ramesh"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "అక్రమ లిక్కర్‌ కేసు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఫోన్‌ పోయిందని చెబుతున్న జనార్దన్‌రావు ఫోన్‌ నుంచి చాటింగ్‌ రిలీజ్‌ అవుతుంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అక్రమ లిక్కర్‌ కేసులో ఒకర్ని ఇరికించేదానికి వీళ్ల డబ్బులు రూ.11 కోట్లు తీసుకునిపోయి అక్కడ పెట్టి స్కాం జరిగిందని ప్రచారం చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గూగుల్‌ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Google Data Center"
+    },
+    {
+     "name": "యాడ్ ఏజెన్సీ",
+     "type": "Organization",
+     "english_name": "Add agency"
+    },
+    {
+     "name": "Liquor issue",
+     "type": "Issue",
+     "english_name": "Liquor issue"
+    },
+    {
+     "name": "చంద్రబాబు పర్‌ఫార్మెన్స్‌లో వీక్‌. క్రెడిట్‌ చోరీలో పీక్.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో పరిపాలన గాలికొదిలేసి మరో పక్క యాడ్ ఏజెన్సీ నడిపిస్తున్నట్టుగా కనిపిస్తోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మిగతా డబ్బుతో కలిపేశామని చెప్పారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వీరే డబ్బులు తీసుకొచ్చి అక్కడ పెట్టి, ఇతరులపై నింద వేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జోగి రమేశ్‌",
+     "relation": "ACCUSES",
+     "target": "జనార్దన్‌రావు",
+     "evidence": "జోగి రమేశ్‌ సీబీఐ విచారణ చేయాలని డిమాండ్‌ చేస్తే జనార్దన్‌రావు ఫోన్‌ పోయిందని ఆయనే కంప్లైట్‌ ఇచ్చాడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జనార్దన్‌రావు",
+     "evidence": "చంద్రబాబూ నువ్వు చేసింది ఒక వెధవ పని... ఆధారాలు తయారు చేయడం"
+    },
+    {
+     "source": "జనార్దన్‌రావు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఫోన్‌ పోయిందని చెబుతున్న జనార్దన్‌రావు ఫోన్‌ నుంచి చాటింగ్‌ రిలీజ్‌ అవుతుంది",
+     "evidence": "జనార్దన్‌రావు ఫోన్‌ నుంచి చాటింగ్‌ రిలీజ్‌ అవుతుంది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అక్రమ లిక్కర్‌ కేసులో ఒకర్ని ఇరికించేదానికి వీళ్ల డబ్బులు రూ.11 కోట్లు తీసుకునిపోయి అక్కడ పెట్టి స్కాం జరిగిందని ప్రచారం చేశారు",
+     "evidence": "అక్రమ లిక్కర్‌ కేసులో ఒకర్ని ఇరికించేదానికి వీళ్ల డబ్బులు రూ.11 కోట్లు తీసుకునిపోయి అక్కడ పెట్టి స్కాం జరిగిందని ప్రచారం చేశారు"
+    },
+    {
+     "source": "అక్రమ లిక్కర్‌ కేసులో ఒకర్ని ఇరికించేదానికి వీళ్ల డబ్బులు రూ.11 కోట్లు తీసుకునిపోయి అక్కడ పెట్టి స్కాం జరిగిందని ప్రచారం చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అక్రమ లిక్కర్‌ కేసు",
+     "evidence": "అక్రమ లిక్కర్‌ కేసులో ఒకర్ని ఇరికించేదానికి వీళ్ల డబ్బులు రూ.11 కోట్లు తీసుకునిపోయి అక్కడ పెట్టి స్కాం జరిగిందని ప్రచారం చేశారు"
+    }
+   ]
+  },
+  "fba7d12dbf62bdaa5b327b7aeab3c4cc8f4e41f5": {
+   "entities": [
+    {
+     "name": "డేటా సెంటర్ల",
+     "type": "Place",
+     "english_name": "Data centers"
+    },
+    {
+     "name": "ఐటీ స్పేస్",
+     "type": "Place",
+     "english_name": "IT space"
+    },
+    {
+     "name": "గ్రామ, వార్డు సచివాలయాల",
+     "type": "Organization",
+     "english_name": "Gram and ward secretariats"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పొలిటికల్‌ గవర్నెన్స్‌",
+     "type": "Issue",
+     "english_name": "Political governance"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "బాలకృష్ణ",
+     "type": "Person",
+     "english_name": "Balakrishna"
+    },
+    {
+     "name": "స్పీకర్‌",
+     "type": "Person",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "డేటా సెంటర్ల పరంగా డిఫరెన్స్‌ కనిపించదు",
+     "type": "Claim",
+     "english_name": "No difference in data centers"
+    },
+    {
+     "name": "మనం చేసింది ఇంకా పెరుగుదలే ఈ ఫర్దర్‌ డేటా సెంటర్‌ యాడిషన్స్‌",
+     "type": "Claim",
+     "english_name": "Further data center additions are growth"
+    },
+    {
+     "name": "మనం నాట్‌ ఓన్లీ డేటా సెంటర్, మీరు ఐటీ స్పేస్‌ కూడా కట్టాలి, తద్వారా 25 వేల ఉద్యోగాలు ఇవ్వాలని పెట్టగలిగాం",
+     "type": "Claim",
+     "english_name": "Need to build IT space to create 25,000 jobs"
+    },
+    {
+     "name": "బాలకృష్ణ సైకలాజికల్‌ హెల్త్‌ ఎట్లుందో చూడాల్సిన అవసరం ఉంది",
+     "type": "Claim",
+     "english_name": "Balakrishna's psychological health needs assessment"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "డేటా సెంటర్ల పరంగా డిఫరెన్స్‌ కనిపించదు",
+     "evidence": "డేటా సెంటర్ల పరంగా డిఫరెన్స్‌ కనిపించదు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "మనం చేసింది ఇంకా పెరుగుదలే ఈ ఫర్దర్‌ డేటా సెంటర్‌ యాడిషన్స్‌",
+     "evidence": "మనం చేసింది ఇంకా పెరుగుదలే ఈ ఫర్దర్‌ డేటా సెంటర్‌ యాడిషన్స్‌."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "మనం నాట్‌ ఓన్లీ డేటా సెంటర్, మీరు ఐటీ స్పేస్‌ కూడా కట్టాలి, తద్వారా 25 వేల ఉద్యోగాలు ఇవ్వాలని పెట్టగలిగాం",
+     "evidence": "మనం నాట్‌ ఓన్లీ డేటా సెంటర్, మీరు ఐటీ స్పేస్‌ కూడా కట్టాలి, తద్వారా 25 వేల ఉద్యోగాలు ఇవ్వాలని పెట్టగలిగాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "బాలకృష్ణ సైకలాజికల్‌ హెల్త్‌ ఎట్లుందో చూడాల్సిన అవసరం ఉంది",
+     "evidence": "ఆయన సైకలాజికల్‌ హెల్త్‌ ఎట్లుందో చూడాల్సిన అవసరం ఉంది."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "బాలకృష్ణ",
+     "evidence": "బాలకృష్ణ అనే వ్యక్తి అసెంబ్లీలో అసందర్భంగా మాట్లాడారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "స్పీకర్‌",
+     "evidence": "దీన్ని స్పీకర్‌ చూడాలి."
+    }
+   ]
+  },
+  "8ab7408d22f9cc19731e9d7d4fb8fd7725bc0c84": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "దొంగల ముఠా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మీడియా సంస్థలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అధికారి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నకిలీ మద్యం తాగితే ప్రజలకు ప్రాణాలకు ఎలాంటి ఇబ్బందీ లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీమా కానీ పంట నష్టపరిహారం కానీ ఇవ్వడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కూలీ ఖర్చులు కూడా రావడంల లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "క్వింటా పత్తి గతంలో రూ.12 వేలు పలికితే ఇప్పుడు రూ.5500లు పలకడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అరటి గతంలో రూ.28 వేలు గరిష్టంగా పలికితే ఇప్పుడు రూ.3500 పలుకుతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధాన్యానికి గతేడాది గిట్టుబాటు ధర లేక బస్తా రూ.1100 నుంచి రూ.1200లకు తెగనమ్ముకునే పరిస్థితి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇటీవల కురిసిన వర్షాలకు పంట నష్టం జరిగితే ఏ అధికారి కూడా వెళ్లి ఎన్యుమరేషన్‌ కూడా చేయడం లేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కల్తీ మద్యం విచ్చలవిడిగా తయారవుతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గూగుల్‌ డేటా సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Google Data Center"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    }
+   ],
+   "relations": []
   }
  }
 }

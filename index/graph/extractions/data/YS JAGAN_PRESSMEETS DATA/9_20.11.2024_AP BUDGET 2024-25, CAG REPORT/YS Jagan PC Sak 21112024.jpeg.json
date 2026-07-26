@@ -1,0 +1,151 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b47750e0e88194856738e3bb7ab22e11708fb0b6": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "National EGG CO-ORDINATION COMMITTEE",
+     "type": "Organization",
+     "english_name": "National Egg Coordination Committee"
+    },
+    {
+     "name": "Vencobb",
+     "type": "Organization",
+     "english_name": "Vencobb"
+    },
+    {
+     "name": "Vencabo No. 7 Tassion Chicken",
+     "type": "Organization",
+     "english_name": "Vencabo No. 7 Tassion Chicken"
+    },
+    {
+     "name": "విజయవాడ జోన్",
+     "type": "Place",
+     "english_name": "Vijayawada Zone"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "National EGG CO-ORDINATION COMMITTEE",
+     "relation": "LOCATED_IN",
+     "target": "విజయవాడ జోన్",
+     "evidence": "విజయవాడ జోన్ ధరలు"
+    },
+    {
+     "source": "Vencobb",
+     "relation": "LOCATED_IN",
+     "target": "విజయవాడ జోన్",
+     "evidence": "విజయవాడ జోన్ ధరలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "28d4f4e45b134e070c5565739bc85a8fe96bb26b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కాగ్ నివేదిక",
+     "type": "Organization",
+     "english_name": "CAG Report"
+    },
+    {
+     "name": "కేంద్ర ఆర్థిక సంఘం",
+     "type": "Organization",
+     "english_name": "Central Finance Commission"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "జీఎస్టీ",
+     "type": "Scheme",
+     "english_name": "GST"
+    },
+    {
+     "name": "వలంటీర్ వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Volunteer System"
+    },
+    {
+     "name": "ఐఆర్",
+     "type": "Organization",
+     "english_name": "IR"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును నిలదీసిన వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ హయాంలో ఎఫ్ఆర్బీఎం పరిమితికి మించి రూ.28,457 కోట్ల అప్పలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "మీ సూపర్ సిక్స్ మోసాలు, అక్రమాలపై నిలదీస్తుంటే అక్రమ కేసులు బనాయిస్తారా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీఎస్టీ",
+     "evidence": "కేంద్ర ఆర్థిక శాఖ మంత్రి నిర్మలా సీతారామన్తో సమావేశమై జీఎస్టీ మీద ఒక శాతం సర్చార్జ్ విధించి, ఆ మేరకు నిధులు రాష్ట్ర ప్రభుత్వానికి ఇవ్వాలని కోరారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "DEFENDS",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "మీ సూపర్ సిక్స్ మోసాలు, అక్రమాలపై నిలదీస్తుంటే అక్రమ కేసులు బనాయిస్తారా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

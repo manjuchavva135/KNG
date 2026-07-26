@@ -1,0 +1,186 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ef8947596de01da388af03dc5576c305b42ecf60": {
+   "entities": [
+    {
+     "name": "కాపుల సంక్షేమానికి",
+     "type": "Scheme",
+     "english_name": "Kapula Samkshema"
+    },
+    {
+     "name": "8 పథకాలు",
+     "type": "Scheme",
+     "english_name": "Eight Schemes"
+    },
+    {
+     "name": "చంద్రన్న స్వయం ఉపాధి",
+     "type": "Scheme",
+     "english_name": "Chandanna Swavalambana"
+    },
+    {
+     "name": "పారిశ్రామిక సహకారం 'MSME'",
+     "type": "Scheme",
+     "english_name": "Industrial Cooperation MSME"
+    },
+    {
+     "name": "చంద్రన్న విదేశీ విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Chandanna Videshi Vidya Deevena"
+    },
+    {
+     "name": "ఉపకార వేతనాలు",
+     "type": "Scheme",
+     "english_name": "Upakara Vethanalu"
+    },
+    {
+     "name": "చంద్రన్న విద్యోన్నతి",
+     "type": "Scheme",
+     "english_name": "Chandanna Vidyaunnati"
+    },
+    {
+     "name": "నైపుణ్యాభివృద్ధి",
+     "type": "Scheme",
+     "english_name": "Naiipunyabhivruddhi"
+    },
+    {
+     "name": "చంద్రన్న కాపు భవన్లు",
+     "type": "Scheme",
+     "english_name": "Chandanna Kapu Bhavanalu"
+    },
+    {
+     "name": "కాపు సంక్షేమ నిధి",
+     "type": "Scheme",
+     "english_name": "Kapu Samkshema Nidhi"
+    },
+    {
+     "name": "కాపు",
+     "type": "Party",
+     "english_name": "Kapu"
+    },
+    {
+     "name": "చంద్రన్న",
+     "type": "Person",
+     "english_name": "Chandanna"
+    },
+    {
+     "name": "చంద్రమ్మ",
+     "type": "Person",
+     "english_name": "Chandamma"
+    },
+    {
+     "name": "చంద్రశేఖర్",
+     "type": "Person",
+     "english_name": "Chandrasekhar"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చంద్రమోహన్",
+     "type": "Person",
+     "english_name": "Chandramohan"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "టీడీపీ పార్టీ",
+     "type": "Party",
+     "english_name": "TDP Party"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న స్వయం ఉపాధి",
+     "evidence": "చంద్రన్న స్వయం ఉపాధి"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పారిశ్రామిక సహకారం 'MSME'",
+     "evidence": "పారిశ్రామిక సహకారం 'MSME'"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న విదేశీ విద్యా దీవెన",
+     "evidence": "చంద్రన్న విదేశీ విద్యా దీవెన"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉపకార వేతనాలు",
+     "evidence": "ఉపకార వేతనాలు"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న విద్యోన్నతి",
+     "evidence": "చంద్రన్న విద్యోన్నతి"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నైపుణ్యాభివృద్ధి",
+     "evidence": "నైపుణ్యాభివృద్ధి"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న కాపు భవన్లు",
+     "evidence": "చంద్రన్న కాపు భవన్లు"
+    },
+    {
+     "source": "చంద్రన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కాపు సంక్షేమ నిధి",
+     "evidence": "కాపు సంక్షేమ నిధి"
+    },
+    {
+     "source": "చంద్రమ్మ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న స్వయం ఉపాధి",
+     "evidence": "చంద్రన్న స్వయం ఉపాధి"
+    },
+    {
+     "source": "చంద్రశేఖర్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న స్వయం ఉపాధి",
+     "evidence": "చంద్రన్న స్వయం ఉపాధి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న స్వయం ఉపాధి",
+     "evidence": "చంద్రన్న స్వయం ఉపాధి"
+    },
+    {
+     "source": "చంద్రమోహన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న స్వయం ఉపాధి",
+     "evidence": "చంద్రన్న స్వయం ఉపాధి"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న స్వయం ఉపాధి",
+     "evidence": "చంద్రన్న స్వయం ఉపాధి"
+    },
+    {
+     "source": "టీడీపీ పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చంద్రన్న స్వయం ఉపాధి",
+     "evidence": "చంద్రన్న స్వయం ఉపాధి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cb9e3c22fca9d3460e450ff1667453457c354f45": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "రవి నాయుడు",
+     "type": "Person",
+     "english_name": "Ravi Naidu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    },
+    {
+     "source": "డీఎస్సీ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    },
+    {
+     "source": "శాప్‌",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8857ca93df7e72d6c3d086648ea6124473524849": {
+   "entities": [
+    {
+     "name": "అభ్యర్థి",
+     "type": "Person",
+     "english_name": "Candidate"
+    },
+    {
+     "name": "క్రీడా సర్టీ ఫికెట్లు",
+     "type": "Scheme",
+     "english_name": "Sports Certificates"
+    },
+    {
+     "name": "క్రీడాకారులు",
+     "type": "Person",
+     "english_name": "Athletes"
+    },
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "Sports Quota DSC"
+    },
+    {
+     "name": "మాస్టర్‌మైండ్‌",
+     "type": "Person",
+     "english_name": "Mastermind"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

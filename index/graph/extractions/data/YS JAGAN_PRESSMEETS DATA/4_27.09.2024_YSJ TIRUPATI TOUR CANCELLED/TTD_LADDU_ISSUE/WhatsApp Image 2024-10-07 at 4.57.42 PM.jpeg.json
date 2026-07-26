@@ -1,0 +1,36 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b88ce7afe4a5a6272c5b6159dc0c27bb05bc0ed4": {
+   "entities": [
+    {
+     "name": "AP",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "YSJ",
+     "type": "Person",
+     "english_name": "YSJ"
+    },
+    {
+     "name": "TIRUPATI",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Live Law",
+     "type": "Organization",
+     "english_name": "Live Law"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,1110 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "846c4c3558a3ac5d62455801453c04229029707f": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "జీఓలు",
+     "type": "Scheme",
+     "english_name": "GOs"
+    },
+    {
+     "name": "టీచర్‌ పోస్టులు",
+     "type": "Claim",
+     "english_name": "Teacher Posts"
+    },
+    {
+     "name": "ఆడియో, వీడియో క్లిప్‌",
+     "type": "Claim",
+     "english_name": "Audio, Video Clip"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "గతంలో ఎన్నడూ లేని, వినని విధంగా సీఎం చంద్రబాబు, ఆయన కుమారుడు అక్రమాలకు పాల్పడ్డారని మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి ఆక్షేపించారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "మాజీ ముఖ్యమంత్రి, వైయస్సార్‌సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి ఆక్షేపించారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "టీచర్‌ పోస్టులు",
+     "evidence": "లక్షలాది అభ్యర్థులు, నిరుద్యోగుల నమ్మకాన్ని వమ్ము చేసి, ఇష్టారాజ్యంగా నిర్వహించిన పరీక్ష, అభ్యర్థుల ఎంపికపై సీబీఐతో దర్యాప్తు జరపాలని ఆయన డిమాండ్‌ చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆడియో, వీడియో క్లిప్‌",
+     "evidence": "దానికి సంబం«ధించి.. ఒక ఆడియో, వీడియో క్లిప్‌ ప్రదర్శించారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "స్పోర్ట్స్‌ కోటా",
+     "evidence": "డీఎస్సీలో స్పోర్ట్స్‌ కోటా ఉద్యోగాల భర్తీలో ఇష్టారాజ్యంగా వ్యవహరించారని, అందుకోసం కొత్తగా జీఓలు తెచ్చారని శ్రీ వైయస్‌ జగన్‌ తెలిపారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీఓలు",
+     "evidence": "తమ పని పూర్తి చేసుకోగానే, మరో మూడు జీఓలు జారీ చేసి, ఆ రెండు కొత్త జీఓలు రద్దు చేశారని వెల్లడించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e720099ef306d37403d80e1f166f1e01108e4b8e": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Issue",
+     "english_name": "DSC-2025 scam"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "జెన్‌జీ",
+     "type": "Organization",
+     "english_name": "Jengji"
+    },
+    {
+     "name": "జెన్‌ ఆల్ఫా",
+     "type": "Organization",
+     "english_name": "Jeng Alpha"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మెగా డీఎస్సీ పేరుతో చంద్రబాబు పచ్చి దగా"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ",
+     "evidence": "మెగా డీఎస్సీ పేరుతో చంద్రబాబు పచ్చి దగా"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "వైయస్సార్‌సీపీ కేంద్ర కార్యాలయంలో మీడియాతో మాట్లాడిన"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7d2d233bd7362c624005ff396c7730ce6afcfbbf": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లోకేష్‌",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "సూపర్‌ సిక్సులు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "మేనిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు కూటమి ప్రభుత్వం ఆర్భాటంగా ప్రచారం చేసుకుని నిర్వహించిన డీఎస్సీ పరీక్ష విధానం చూస్తే నిజంగా షాకింగ్‌."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "లోకేష్‌",
+     "evidence": "చంద్రబాబు, ఆయన సుపుత్రుడు లోకేష్‌ విద్యా శాఖ మంత్రిగా ఉంటూ ఇద్దరూ కలిసి చాలా దారుణంగా వ్యవహరించిన పరిస్థితులు రాష్ట్రంలో చోటు చేసుకున్నాయి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ",
+     "evidence": "అందులో మెగా డీఎస్సీ కూడా ఒకటి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్సులు",
+     "evidence": "ఈ రెండేళ్లలో ఆయన సూపర్‌ సిక్సులు, సూపర్‌ సెవెన్లు చూసినా."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్లు",
+     "evidence": "ఈ రెండేళ్లలో ఆయన సూపర్‌ సిక్సులు, సూపర్‌ సెవెన్లు చూసినా."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "వైయస్సార్‌సీపీ ప్రభుత్వంలో రాష్ట్ర చరిత్రలో కానీ, దేశ చరిత్రలో కానీ కనీవినీ ఎరుగని రీతిలో ఒకే నోటిఫికేషన్‌తో ఒకే టైమ్‌లో 1.30 లక్షల ఉద్యోగాలు భర్తీ చేసిన చరిత్ర."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు కూటమి ప్రభుత్వం ఆర్భాటంగా ప్రచారం చేసుకుని నిర్వహించిన డీఎస్సీ పరీక్ష విధానం చూస్తే నిజంగా షాకింగ్‌."
+    },
+    {
+     "source": "లోకేష్‌",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు, ఆయన సుపుత్రుడు లోకేష్‌ విద్యా శాఖ మంత్రిగా ఉంటూ ఇద్దరూ కలిసి చాలా దారుణంగా వ్యవహరించిన పరిస్థితులు రాష్ట్రంలో చోటు చేసుకున్నాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "95bc4ef1466fccadd9eae6ba2ace755ed1fef8da": {
+   "entities": [
+    {
+     "name": "గ్రామ స్వరాజ్య సాధన",
+     "type": "Scheme",
+     "english_name": "Gram Swarajya Sadhana"
+    },
+    {
+     "name": "సుపరిపాలన",
+     "type": "Scheme",
+     "english_name": "Supari Governance"
+    },
+    {
+     "name": "మేం",
+     "type": "Person",
+     "english_name": "We"
+    },
+    {
+     "name": "నేను",
+     "type": "Person",
+     "english_name": "I"
+    },
+    {
+     "name": "సీఎంగా",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "2,800 సెంటర్లలో",
+     "type": "Place",
+     "english_name": "2,800 centers"
+    },
+    {
+     "name": "19 లక్షల మంది",
+     "type": "Person",
+     "english_name": "19 lakh people"
+    },
+    {
+     "name": "1.30 లక్షల శాశ్వత ఉద్యోగాలు",
+     "type": "Scheme",
+     "english_name": "1.30 lakh permanent jobs"
+    },
+    {
+     "name": "మెగా డీఎస్సీ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Mega DSC Scam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "16 వేల ఉద్యోగాల భర్తీ ప్రక్రియ",
+     "type": "Scheme",
+     "english_name": "16,000 job recruitment process"
+    },
+    {
+     "name": "గోల్‌ మాల్‌ వ్యవహారాలు",
+     "type": "Issue",
+     "english_name": "Golmal dealings"
+    },
+    {
+     "name": "స్కాముల నిర్వాకం",
+     "type": "Issue",
+     "english_name": "Scam atrocities"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "నేను",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గ్రామ స్వరాజ్య సాధన",
+     "evidence": "గ్రామ స్వరాజ్య సాధన. సుపరిపాలన. ఈ రెండూ లక్ష్య సాధనగా ఉద్యోగాల చరిత్రలో ఓ సువర్ణ అధ్యాయం రాశాం మేం."
+    },
+    {
+     "source": "నేను",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సుపరిపాలన",
+     "evidence": "గ్రామ స్వరాజ్య సాధన. సుపరిపాలన. ఈ రెండూ లక్ష్య సాధనగా ఉద్యోగాల చరిత్రలో ఓ సువర్ణ అధ్యాయం రాశాం మేం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c2319714242c054b7b862de3aba173f36bd961bf": {
+   "entities": [
+    {
+     "name": "నాలుగు నెలల్లోనే అత్యంత పారదర్శకంగా, ఒక్క తప్పు కూడా జరగకుండా ఎలాంటి లోపాలూ లేకుండా ఓ చరిత్ర సృష్టించాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మెగా డీఎస్సీ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Mega DSC Scam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "16 వేల ఉద్యోగాల భర్తీ ప్రక్రియ",
+     "type": "Scheme",
+     "english_name": "16 thousand job recruitment process"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "డీఎస్సీ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "DSC Scam"
+    },
+    {
+     "name": "డీఎస్సీ క్వశ్చన్‌ పేపర్లను",
+     "type": "Organization",
+     "english_name": "DSC Question Papers"
+    },
+    {
+     "name": "ఎస్‌సీఈఆర్‌టీ",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "స్టేట్‌ కౌన్సిల్‌ ఆఫ్‌ ఎడ్యుకేషన్‌ రీసెర్చ్‌ అండ్‌ ట్రైనింగ్‌",
+     "type": "Organization",
+     "english_name": "State Council of Education Research and Training"
+    },
+    {
+     "name": "డీఎస్సీ కన్వీనర్‌",
+     "type": "Organization",
+     "english_name": "DSC Convenor"
+    },
+    {
+     "name": "చంద్రబాబుగారి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu's Government"
+    },
+    {
+     "name": "అవుట్‌సోర్సింగ్‌ ఉద్యోగులు",
+     "type": "Organization",
+     "english_name": "Outsourcing employees"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబుగారి ప్రభుత్వంలో డీఎస్సీ కన్వీనర్‌ను పక్కన పెట్టేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నాలుగు నెలల్లోనే అత్యంత పారదర్శకంగా, ఒక్క తప్పు కూడా జరగకుండా ఎలాంటి లోపాలూ లేకుండా ఓ చరిత్ర సృష్టించాం.",
+     "evidence": "నాలుగు నెలల్లోనే అత్యంత పారదర్శకంగా, ఒక్క తప్పు కూడా జరగకుండా ఎలాంటి లోపాలూ లేకుండా ఓ చరిత్ర సృష్టించాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f0dec79a0f522272157c10fa627a4d22dfbff165": {
+   "entities": [
+    {
+     "name": "నవీన్",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "విద్యా శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Education Minister"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సీబీఐ",
+     "evidence": "చంద్రబాబే పోలీసు.. చంద్రబాబే లాయరు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "డీఎస్సీ",
+     "evidence": "డీఎస్సీ పరీక్షల పేపర్‌ తయారీలో ఎవరెవరున్నారు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "విద్యా శాఖ మంత్రి",
+     "evidence": "ఆయన కొడుకే విద్యా శాఖ మంత్రి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "193b363e5082d022ae9eb2f62ca3f460f110fe19": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారి డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Chandrababu's DSC"
+    },
+    {
+     "name": "జిల్లా కలెక్టర్‌",
+     "type": "Organization",
+     "english_name": "District Collector"
+    },
+    {
+     "name": "డిస్ట్రిక్‌ సెలక్షన్‌ కమిటీ",
+     "type": "Organization",
+     "english_name": "District Selection Committee"
+    },
+    {
+     "name": "మెరిట్‌ లిస్టులు",
+     "type": "Claim",
+     "english_name": "Merit lists"
+    },
+    {
+     "name": "ఆన్‌లైన్‌",
+     "type": "Scheme",
+     "english_name": "Online"
+    },
+    {
+     "name": "కటాఫ్‌లు",
+     "type": "Claim",
+     "english_name": "Cut-offs"
+    },
+    {
+     "name": "కాల్‌ లెటర్లు",
+     "type": "Claim",
+     "english_name": "Call letters"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2aa4f4472cb77a754805833dcbd17f287903c167": {
+   "entities": [
+    {
+     "name": "వారు",
+     "type": "Person",
+     "english_name": "They"
+    },
+    {
+     "name": "కలెక్టర్‌ ఆఫీస్‌",
+     "type": "Organization",
+     "english_name": "Collector's Office"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "సెలక్షన్‌ రూల్స్‌",
+     "type": "Organization",
+     "english_name": "Selection Rules"
+    },
+    {
+     "name": "జీఓ నెం:4",
+     "type": "Organization",
+     "english_name": "GO No:4"
+    },
+    {
+     "name": "ప్రభుత్వానికి",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93814f73dfdb676ee6a73c7ff895dcb74f2a8078": {
+   "entities": [
+    {
+     "name": "DSC Scam",
+     "type": "Issue",
+     "english_name": "DSC Scam"
+    },
+    {
+     "name": "Jagan",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "Durgaiah",
+     "type": "Person",
+     "english_name": "Durgaiah"
+    },
+    {
+     "name": "Rule No:20",
+     "type": "Scheme",
+     "english_name": "Rule No:20"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Rule No:20",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "DSC Scam",
+     "evidence": "రూల్‌ నెం:20 ప్రకారం మెరిటోరియస్‌ స్పోర్ట్స్‌ పర్సన్స్‌ను కన్సిడర్‌ చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "67712e40d7f07a7cd0b4189d6627bf8279d07cb9": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "దుర్గయ్య",
+     "type": "Person",
+     "english_name": "Durgaiah"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a0899ef9750fda2320f14914b206ed8563d554c8": {
+   "entities": [
+    {
+     "name": "దుర్గయ్య",
+     "type": "Person",
+     "english_name": "Durgaiah"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "GO No:4",
+     "type": "Scheme",
+     "english_name": "GO No:4"
+    },
+    {
+     "name": "GO No:47",
+     "type": "Scheme",
+     "english_name": "GO No:47"
+    },
+    {
+     "name": "GO No:74",
+     "type": "Scheme",
+     "english_name": "GO No:74"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    },
+    {
+     "name": "Sports quota",
+     "type": "Issue",
+     "english_name": "Sports quota"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "GO No:4",
+     "evidence": "చంద్రబాబునాయుడు చరిత్రలో ఎప్పుడూ లేని విధంగా స్పోర్ట్స్‌ కోటా అభ్యర్థులు డీఎస్సీ పరీక్ష రాయాల్సిన అసవరమే లేదని ఏకంగా జీవో నెం:4, జీవో నెం:47 ఇచ్చాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "GO No:47",
+     "evidence": "చంద్రబాబునాయుడు చరిత్రలో ఎప్పుడూ లేని విధంగా స్పోర్ట్స్‌ కోటా అభ్యర్థులు డీఎస్సీ పరీక్ష రాయాల్సిన అసవరమే లేదని ఏకంగా జీవో నెం:4, జీవో నెం:47 ఇచ్చాడు."
+    },
+    {
+     "source": "GO No:4",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Sports quota",
+     "evidence": "చంద్రబాబునాయుడు చరిత్రలో ఎప్పుడూ లేని విధంగా స్పోర్ట్స్‌ కోటా అభ్యర్థులు డీఎస్సీ పరీక్ష రాయాల్సిన అసవరమే లేదని ఏకంగా జీవో నెం:4, జీవో నెం:47 ఇచ్చాడు."
+    },
+    {
+     "source": "GO No:47",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Sports quota",
+     "evidence": "చంద్రబాబునాయుడు చరిత్రలో ఎప్పుడూ లేని విధంగా స్పోర్ట్స్‌ కోటా అభ్యర్థులు డీఎస్సీ పరీక్ష రాయాల్సిన అసవరమే లేదని ఏకంగా జీవో నెం:4, జీవో నెం:47 ఇచ్చాడు."
+    },
+    {
+     "source": "GO No:74",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Sports quota",
+     "evidence": "గతంలో రూల్‌ పొజిషన్‌ ఎలా ఉందని జీవో నెం:74 గమనిస్తే డీఎస్సీ పరీక్షలు(ఎలిజిబిలిటీ) ఖచ్చితంగా పాస్‌ కావాలి అని క్లియర్‌గా రాశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c2d485fbdd320f237e885289d99151ff89ea853": {
+   "entities": [
+    {
+     "name": "టీచర్‌ ఉద్యోగాలు",
+     "type": "Claim",
+     "english_name": "Teacher jobs"
+    },
+    {
+     "name": "ఇంటర్‌ కాలేజీల పొటీ",
+     "type": "Claim",
+     "english_name": "Inter college competition"
+    },
+    {
+     "name": "మెడల్స్, ట్రోఫీలు",
+     "type": "Claim",
+     "english_name": "Medals, trophies"
+    },
+    {
+     "name": "పార్టిసిపేషన్‌",
+     "type": "Claim",
+     "english_name": "Participation"
+    },
+    {
+     "name": "ఇంటర్‌ డిస్ట్రిక్ట్‌ పోటీలు",
+     "type": "Claim",
+     "english_name": "Inter district competitions"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా పోస్టులు",
+     "type": "Claim",
+     "english_name": "Sports quota posts"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్‌ ప్రభుత్వ లోగో",
+     "type": "Claim",
+     "english_name": "Andhra Pradesh government logo"
+    },
+    {
+     "name": "ఎఫ్‌ఐఆర్‌ కాపీ",
+     "type": "Claim",
+     "english_name": "FIR copy"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c84247fe43bf6afc02a8e00fd1963476718ca8db": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Issue",
+     "english_name": "DSC"
+    },
+    {
+     "name": "కాక్రోచ్‌లు",
+     "type": "Claim",
+     "english_name": "Cockroaches"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a2a4540ce4b028b0eaf68cff61077804cb957833": {
+   "entities": [
+    {
+     "name": "నామమాత్రంగా కేసు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వ్యవస్థీకృత స్కామ్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎఫ్‌ఐఆర్‌ కాపీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అనుమానిత వ్యక్తి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు పాలన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "1995లో టెన్త్‌ క్లాస్‌ పేపర్‌ లీక్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "1996లో ఎంసెట్‌ ఇంజినీరింగ్‌ పేపర్‌ లీక్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "1997లో ఇంటర్మీడియట్‌ పేపర్స్‌ లీక్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2017లో టెన్త్‌ సైన్స్‌ పేపర్‌ లీక్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2019లో టెన్త్‌ పేపర్‌ లీక్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2025లో బీఈడీ పేపర్‌ లీక్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2025లో టెన్త్‌ మ్యాథ్స్‌ పేపర్‌ లీక్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a5ccd37bb57b56bcd3548bd8f2f36b4928c7fa9d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Issue",
+     "english_name": "DSC"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "పవన్‌ కళ్యాణ్‌",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "గవర్నమెంట్‌",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "చంద్రబాబు రెండేళ్ల వెన్నుపోటు పాలనపై నిరసన ర్యాలీలు నిర్వహిస్తున్నాం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌లు",
+     "evidence": "చంద్రబాబు మేనిఫెస్టోలో చేసిన సూపర్‌ సిక్స్‌లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌",
+     "evidence": "సూపర్‌ సెవెన్‌ మోసాలే"
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "గవర్నమెంట్‌",
+     "evidence": "గవర్నమెంట్‌ ఇన్ని తప్పులు చేస్తున్నప్పుడు ప్రశ్నించే హక్కు ప్రతి ఒక్కరికీ ఉంది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a05df638a3aee7b084273ca9f3f6e5f48219ae4f": {
+   "entities": [
+    {
+     "name": "పురమ నవీన్‌",
+     "type": "Person",
+     "english_name": "Puram Naveen"
+    },
+    {
+     "name": "రాధాకృష్ణ",
+     "type": "Person",
+     "english_name": "Radhakrishna"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "DSCE",
+     "type": "Organization",
+     "english_name": "DSCE"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "DSCE",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "కృష్ణా జిల్లా టాపర్‌"
+    },
+    {
+     "source": "సీబీఐ",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "సీబీఐ దర్యాప్తు కోరుతున్నాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bff7ba3b6a713e512fcc6e6018cd19ee45cb8e9b": {
+   "entities": [
+    {
+     "name": "టీడీపీ ఎమ్మెల్యే కూన రవికుమార్‌",
+     "type": "Person",
+     "english_name": "Kuna Ravikumar"
+    },
+    {
+     "name": "నారా లోకేష్‌",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "విశాఖ ఎంపీ భరత్‌",
+     "type": "Person",
+     "english_name": "Visakha MP Bharath"
+    },
+    {
+     "name": "దుర్గయ్య",
+     "type": "Person",
+     "english_name": "Durgaiah"
+    },
+    {
+     "name": "జీవో నెం:4",
+     "type": "Scheme",
+     "english_name": "GO No:4"
+    },
+    {
+     "name": "జీవో నెం:47",
+     "type": "Scheme",
+     "english_name": "GO No:47"
+    },
+    {
+     "name": "జీవో నెం:23",
+     "type": "Scheme",
+     "english_name": "GO No:23"
+    },
+    {
+     "name": "జీవో నెం:25",
+     "type": "Scheme",
+     "english_name": "GO No:25"
+    },
+    {
+     "name": "జీవో నెం:56",
+     "type": "Scheme",
+     "english_name": "GO No:56"
+    },
+    {
+     "name": "ఆంధ్ర వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Andhra University"
+    },
+    {
+     "name": "ఎస్వీ వర్సిటీ",
+     "type": "Organization",
+     "english_name": "S V University"
+    },
+    {
+     "name": "నాగార్జున యూనివర్సిటీ",
+     "type": "Organization",
+     "english_name": "Nagarjuna University"
+    },
+    {
+     "name": "ఆదికవి నన్నయ్య వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Adikavi Nannaya University"
+    },
+    {
+     "name": "రాయలసీమ వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Rayalaseema University"
+    },
+    {
+     "name": "ఎస్‌కేయూ",
+     "type": "Organization",
+     "english_name": "SKU"
+    },
+    {
+     "name": "మోగి వేమన వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Mogi Vemana University"
+    },
+    {
+     "name": "డాక్టర్‌ అంబేడ్కర్‌ వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Dr. Ambedkar University"
+    },
+    {
+     "name": "సంస్కృత వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Sanskrit University"
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ ఎమ్మెల్యే కూన రవికుమార్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో నెం:4",
+     "evidence": "వీళ్లే సర్టిఫికెట్లు ఇస్తారు. వీళ్లే వాటిని ధ్రువీకరిస్తారు."
+    },
+    {
+     "source": "నారా లోకేష్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో నెం:47",
+     "evidence": "వీళ్లే సర్టిఫికెట్లు ఇస్తారు. వీళ్లే వాటిని ధ్రువీకరిస్తారు."
+    },
+    {
+     "source": "విశాఖ ఎంపీ భరత్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో నెం:47",
+     "evidence": "వీళ్లే సర్టిఫికెట్లు ఇస్తారు. వీళ్లే వాటిని ధ్రువీకరిస్తారు."
+    },
+    {
+     "source": "టీడీపీ ఎమ్మెల్యే కూన రవికుమార్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో నెం:23",
+     "evidence": "జీవో నెం:23, 25, 56 ఇచ్చారు."
+    },
+    {
+     "source": "నారా లోకేష్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో నెం:25",
+     "evidence": "జీవో నెం:23, 25, 56 ఇచ్చారు."
+    },
+    {
+     "source": "విశాఖ ఎంపీ భరత్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జీవో నెం:56",
+     "evidence": "జీవో నెం:23, 25, 56 ఇచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

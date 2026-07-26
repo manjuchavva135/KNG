@@ -1,0 +1,124 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5dfea48b6c35ea5fbff1937f4c0311b14e1694f0": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అఖిలేశ్",
+     "type": "Person",
+     "english_name": "Akhilesh"
+    },
+    {
+     "name": "ఉత్తరప్రదేశ్",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "బిజెపి",
+     "type": "Party",
+     "english_name": "BJP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అఖిలేశ్",
+     "relation": "ACCUSES",
+     "target": "బిజెపి",
+     "evidence": "బిజెపి ఇలాంటి ఘటనలను సమర్థించకూడదు."
+    },
+    {
+     "source": "అఖిలేశ్",
+     "relation": "DEFENDS",
+     "target": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "evidence": "వైఎస్ జగన్ ఎల్లప్పుడూ కార్యకర్తలతో మమేకం అవుతారు."
+    },
+    {
+     "source": "అఖిలేశ్",
+     "relation": "DEFENDS",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "మా మద్దతు ఉంటుంది."
+    },
+    {
+     "source": "అఖిలేశ్",
+     "relation": "MEMBER_OF",
+     "target": "కాంగ్రెస్",
+     "evidence": "కాంగ్రెస్ నుంచి కూడా ఆరుగురిని గెలిపించాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9c3fb5ce88881e04e40a88da1347b042108abfdf": {
+   "entities": [
+    {
+     "name": "అఖిలేశ్",
+     "type": "Person",
+     "english_name": "Akhilesh"
+    },
+    {
+     "name": "సమాజ్వాదీ పార్టీ",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "టీడీపీ కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Alliance Government"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అఖిలేశ్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కూటమి ప్రభుత్వం",
+     "evidence": "ఏపీలో ప్రజల్ని భయపెట్టాలనుకుంటున్నారా? పట్టపగలే దాడులు, హత్యలు చేయడం, ఆస్తులు ధ్వంసం చేయడం, ప్రతిపక్ష పార్టీ శ్రేణులపై అక్రమంగా కేసులు నమోదు చేయడం.. వేధించడం, ఎన్నికై న ప్రజా ప్రతినిధులపై ఏకంగా హత్యాయత్నం చేయడం.. ఇలాంటి బుల్డోజర్ సంస్కృతితో ప్రజలకు ఎలాంటి సందేశం ఇస్తున్నారు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

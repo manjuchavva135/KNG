@@ -176,6 +176,115 @@
      "evidence": "రాష్ట్ర ప్రభుత్వమే రూ.15 వేల కోట్లు సమీకరించి భూసేకరణ, నిర్వాసితులకు పునరావాసం కల్పించాలి"
     }
    ]
+  },
+  "bcce1d9549a06d9e74ae8862732909b495c25174": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "ఉపల హారిక",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ప్రసన్నకుమార్రెడ్డి",
+     "type": "Person",
+     "english_name": "Prasanna Kumar Reddy"
+    },
+    {
+     "name": "చంద్రబాబు కూటమి",
+     "type": "Party",
+     "english_name": "Chandrababu coalition"
+    },
+    {
+     "name": "రూ.1.75 లక్షల కోట్ల అప్పు",
+     "type": "Issue",
+     "english_name": "Rs 1.75 lakh crore debt"
+    },
+    {
+     "name": "కరెంట్ చార్జీలు పెంచారు",
+     "type": "Issue",
+     "english_name": "Electricity charges increased"
+    },
+    {
+     "name": "ఉపల హారికపై దాడి",
+     "type": "Issue",
+     "english_name": "Attack on Uppala Harika"
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False cases"
+    },
+    {
+     "name": "మేనిఫెస్టో",
+     "type": "Issue",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "వడ్డీతో సహా చెల్లిస్తాం",
+     "type": "Claim",
+     "english_name": "Will pay back with interest"
+    },
+    {
+     "name": "ప్రజలకు ఏ సమస్య వచ్చినా వైఎస్సార్సీపీ తలుపు తడుతున్నారు",
+     "type": "Claim",
+     "english_name": "People approach YSRCP for any problem"
+    },
+    {
+     "name": "మా ఐదేళ్ల హయాంలో చేసిన అప్పులో 52.43% ఈ ఒక్క ఏడాదిలోనే",
+     "type": "Claim",
+     "english_name": "52.43% of debt incurred in one year of current term"
+    },
+    {
+     "name": "కరెంట్ చార్జీలు తగ్గించడం కాదు.. పెంచారు",
+     "type": "Claim",
+     "english_name": "Electricity charges were increased, not reduced"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు కుట్రలు: వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్ మండిపాటు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు కూటమి",
+     "evidence": "చంద్రబాబు కూటమి ప్రభుత్వాన్ని నిలదీసిన వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "వడ్డీతో సహా చెల్లిస్తాం",
+     "evidence": "మూడేళ్లలో మా ప్రభుత్వం రాగానే వడ్డీతో సహా చెల్లిస్తాం"
+    }
+   ]
   }
  }
 }

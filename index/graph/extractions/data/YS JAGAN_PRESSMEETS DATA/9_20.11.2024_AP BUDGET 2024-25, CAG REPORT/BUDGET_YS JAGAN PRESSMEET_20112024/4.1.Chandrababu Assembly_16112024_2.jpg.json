@@ -1,0 +1,119 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d484053a7a07147f11bfe8b7aa5e4fa8ca351efa": {
+   "entities": [
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం పవన్కల్యాణ్",
+     "type": "Person",
+     "english_name": "Deputy Chief Minister Pawan Kalyan"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "జల్జీవన్ మిషన్",
+     "type": "Scheme",
+     "english_name": "Jaljeevan Mission"
+    },
+    {
+     "name": "ఆంగ్లమాధ్యమం",
+     "type": "Scheme",
+     "english_name": "English Medium"
+    },
+    {
+     "name": "దీపం-2",
+     "type": "Scheme",
+     "english_name": "Deepam-2"
+    },
+    {
+     "name": "ప్రధాని మోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Modi"
+    },
+    {
+     "name": "డాక్టర్ సుధాకర్",
+     "type": "Person",
+     "english_name": "Dr. Sudhakar"
+    },
+    {
+     "name": "తాడేపల్లి ప్యాలెస్",
+     "type": "Place",
+     "english_name": "Tadepalli Palace"
+    },
+    {
+     "name": "రైల్వేజోన్",
+     "type": "Place",
+     "english_name": "Railway Zone"
+    }
+   ],
+   "relations": [
+    {
+     "source": "తెదేపా",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దీపం-2",
+     "evidence": "దీపం-2 కింద సిలిండర్ డబ్బులు లబ్ధిదారులకు నేరుగా అందించే విధానాన్ని త్వరలో తీసుకొస్తాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a6d020f30624520ae8bd15fbcde6a1ff7aae6c67": {
+   "entities": [
+    {
+     "name": "పర్యాటక పాలసీ",
+     "type": "Scheme",
+     "english_name": "Tourism Policy"
+    },
+    {
+     "name": "గోదావరి-కృష్ణా-పెన్నా అనుసంధానం",
+     "type": "Scheme",
+     "english_name": "Godavari-Krishna-Pennar linking"
+    },
+    {
+     "name": "సూపర్సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వాలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "రుషికొండపై ప్యాలెస్",
+     "type": "Scheme",
+     "english_name": "Palace on Rishikonda"
+    },
+    {
+     "name": "కోర్టులు",
+     "type": "Organization",
+     "english_name": "Courts"
+    },
+    {
+     "name": "సర్వేరాళ్లు",
+     "type": "Organization",
+     "english_name": "Surveyors"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

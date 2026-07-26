@@ -1,0 +1,51 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7a1a818fddce739f1990bddbcc411667477111ff": {
+   "entities": [
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "దీపం",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Thalliki Vandanam"
+    },
+    {
+     "name": "అన్నదాత",
+     "type": "Scheme",
+     "english_name": "Annadata"
+    },
+    {
+     "name": "స్థానిక బస్సుల్లో మహిళలందరికీ ఉచిత ప్రయాణం",
+     "type": "Scheme",
+     "english_name": "Free bus travel for women in local buses"
+    },
+    {
+     "name": "యువగళం",
+     "type": "Scheme",
+     "english_name": "YuvaGalam"
+    },
+    {
+     "name": "SUPER 6",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "KRRTV",
+     "type": "Organization",
+     "english_name": "KRRTV"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

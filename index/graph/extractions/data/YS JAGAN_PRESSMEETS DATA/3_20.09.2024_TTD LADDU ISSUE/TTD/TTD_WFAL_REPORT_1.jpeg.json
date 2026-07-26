@@ -1,0 +1,95 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7aa335dc3f5c64c86528cb64e4186a18b2835dc3": {
+   "entities": [
+    {
+     "name": "Water and Food Analysis Laboratory",
+     "type": "Organization",
+     "english_name": "Water and Food Analysis Laboratory"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Marketing Godown",
+     "type": "Organization",
+     "english_name": "Marketing Godown"
+    },
+    {
+     "name": "Tirumala-517504",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "A.P.",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Dy. E.O (W.H)",
+     "type": "Person",
+     "english_name": "Dy. E.O (W.H)"
+    },
+    {
+     "name": "Tirupati-517507",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Cow Ghee",
+     "type": "Scheme",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "FSO",
+     "type": "Person",
+     "english_name": "FSO"
+    },
+    {
+     "name": "Moisture % by Wt.",
+     "type": "Claim",
+     "english_name": "Moisture % by Wt."
+    },
+    {
+     "name": "Butyro Refractometer Reading at 40°C",
+     "type": "Claim",
+     "english_name": "Butyro Refractometer Reading at 40°C"
+    },
+    {
+     "name": "Free Fatty Acids (as %Oleic acid)",
+     "type": "Claim",
+     "english_name": "Free Fatty Acids (as %Oleic acid)"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Water and Food Analysis Laboratory",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala-517504",
+     "evidence": "Water and Food Analysis Laboratory, TTD, Marketing Godown, Tirumala-517504, A.P."
+    },
+    {
+     "source": "TTD",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala-517504",
+     "evidence": "TTD, Marketing Godown, Tirumala-517504, A.P."
+    },
+    {
+     "source": "Marketing Godown",
+     "relation": "LOCATED_IN",
+     "target": "Tirumala-517504",
+     "evidence": "TTD, Marketing Godown, Tirumala-517504, A.P."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1c9e42ad5b49f0099ab6aa25af7c1395d43fc824": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

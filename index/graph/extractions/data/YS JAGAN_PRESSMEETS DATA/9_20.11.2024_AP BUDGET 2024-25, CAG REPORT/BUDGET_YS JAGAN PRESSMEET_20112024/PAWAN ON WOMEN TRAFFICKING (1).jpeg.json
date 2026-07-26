@@ -1,0 +1,63 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "59db1757d0642518dd1476a5f2c19bd4f9455ba8": {
+   "entities": [
+    {
+     "name": "మహిళల అదృశ్యానికి",
+     "type": "Issue",
+     "english_name": "Missing Women"
+    },
+    {
+     "name": "వాలంటీర్లే కారణం",
+     "type": "Claim",
+     "english_name": "Volunteers are the reason"
+    },
+    {
+     "name": "సంఘ విద్రోహ శక్తులకు",
+     "type": "Organization",
+     "english_name": "Anti-social elements"
+    },
+    {
+     "name": "వైకాపా దోపిడీని",
+     "type": "Issue",
+     "english_name": "YSRCP looting"
+    },
+    {
+     "name": "బహిర్గతం చేసిన కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "జగన్కు ఎందుకు భయం?",
+     "type": "Claim",
+     "english_name": "Why is Jagan afraid?"
+    },
+    {
+     "name": "మద్యం దుకాణాల్లో డిజిటల్",
+     "type": "Scheme",
+     "english_name": "Digital transactions in liquor shops"
+    },
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "ఏలూరు శివారులోని వటూరు వైజంక్షన్లో",
+     "type": "Place",
+     "english_name": "Vaturu junction, Eluru outskirts"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మద్యం దుకాణాల్లో డిజిటల్",
+     "evidence": "మద్యం దుకాణాల్లో డిజిటల్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

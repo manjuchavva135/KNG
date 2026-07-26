@@ -1,0 +1,101 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0a60ddb7eeda1d9f26403c804ae4d859cfb3b045": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "af46480bd2ba37cf6806cf5399e502190923a37b": {
+   "entities": [
+    {
+     "name": "OFFICE OF THE COMMISSIONER OF PROHIBITION &EXCISE A.P",
+     "type": "Organization",
+     "english_name": "Office of the Commissioner of Prohibition & Excise, Andhra Pradesh"
+    },
+    {
+     "name": "Sri.Nishant Kumar, I.A.S.",
+     "type": "Person",
+     "english_name": "Sri. Nishant Kumar, IAS"
+    },
+    {
+     "name": "M/s Esveear Distilleries Pvt. Ltd.",
+     "type": "Organization",
+     "english_name": "M/s Esveear Distilleries Pvt. Ltd."
+    },
+    {
+     "name": "Karakambadi (V)",
+     "type": "Place",
+     "english_name": "Karakambadi (Village)"
+    },
+    {
+     "name": "Renigunta (M)",
+     "type": "Place",
+     "english_name": "Renigunta (Mandal)"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "Chittoor District",
+     "type": "Place",
+     "english_name": "Chittoor District"
+    },
+    {
+     "name": "M/s. Brindavan Marketing Agencies",
+     "type": "Organization",
+     "english_name": "M/s. Brindavan Marketing Agencies"
+    },
+    {
+     "name": "M/s. In-brew Beverages (P) Limited",
+     "type": "Organization",
+     "english_name": "M/s. In-brew Beverages (P) Limited"
+    },
+    {
+     "name": "Distillery Officer",
+     "type": "Person",
+     "english_name": "Distillery Officer"
+    },
+    {
+     "name": "A.C(D) Tirupati",
+     "type": "Person",
+     "english_name": "A.C(D) Tirupati"
+    },
+    {
+     "name": "APSBCL",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh State Beverages Corporation Limited"
+    }
+   ],
+   "relations": [
+    {
+     "source": "M/s Esveear Distilleries Pvt. Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Karakambadi (V)",
+     "evidence": "Karakambadi (V), Renigunta (M), Tirupati, Chittoor District"
+    },
+    {
+     "source": "M/s Esveear Distilleries Pvt. Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Renigunta (M)",
+     "evidence": "Karakambadi (V), Renigunta (M), Tirupati, Chittoor District"
+    },
+    {
+     "source": "M/s Esveear Distilleries Pvt. Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "Karakambadi (V), Renigunta (M), Tirupati, Chittoor District"
+    },
+    {
+     "source": "M/s Esveear Distilleries Pvt. Ltd.",
+     "relation": "LOCATED_IN",
+     "target": "Chittoor District",
+     "evidence": "Karakambadi (V), Renigunta (M), Tirupati, Chittoor District"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

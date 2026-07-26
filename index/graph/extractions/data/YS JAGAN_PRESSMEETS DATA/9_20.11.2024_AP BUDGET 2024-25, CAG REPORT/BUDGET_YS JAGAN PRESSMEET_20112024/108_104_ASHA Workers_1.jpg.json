@@ -1,0 +1,230 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a595d2cc35fe979f498262939bab54a56ccf97d4": {
+   "entities": [
+    {
+     "name": "108 అంబులెన్స్",
+     "type": "Organization",
+     "english_name": "108 Ambulance"
+    },
+    {
+     "name": "104",
+     "type": "Organization",
+     "english_name": "104"
+    },
+    {
+     "name": "అరబిందో",
+     "type": "Organization",
+     "english_name": "Arbindo"
+    },
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "CITU",
+     "type": "Organization",
+     "english_name": "CITU"
+    },
+    {
+     "name": "కాంగ్రెస్ ఆఫ్ ఇండియన్ ట్రామ్వే యూనియన్",
+     "type": "Organization",
+     "english_name": "Congress of Indian Tramway Union"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సీఎం చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అరబిందో",
+     "evidence": "సీఎం చంద్రబాబు ప్రభుత్వ అనాలోచిత నిర్ణయాలు చిరు ఉద్యోగుల పాలిత శాపాలుగా మారాయి. అస్మదీయులకు కాంట్రాక్ట్ కట్టబెట్టేందుకు 108, 104 నిర్వహణ బాధ్యతల నుంచి అరబిందోను ప్రభుత్వం తప్పిస్తోందని ఆరోపణలు వెల్లువెత్తుతున్నాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ce967af01196d681f8eefe506981117a6d6a0c23": {
+   "entities": [
+    {
+     "name": "పనిచేసే డ్రైవర్, డీఈవోలు",
+     "type": "Person",
+     "english_name": "Working drivers, DEOs"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "బి.కిరణ్ కుమార్",
+     "type": "Person",
+     "english_name": "B. Kiran Kumar"
+    },
+    {
+     "name": "ఏపీ 108 సర్వీసెస్ కాంట్రాక్ట్ ఎంప్లాయీస్ యూనియన్",
+     "type": "Organization",
+     "english_name": "AP 108 Services Contract Employees Union"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "297a621325b12eb5a8637097f59b778014f2e431": {
+   "entities": [
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": "Nandyal"
+    },
+    {
+     "name": "చిత్తూరు",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "అన్నమయ్య",
+     "type": "Place",
+     "english_name": "Annamayya"
+    },
+    {
+     "name": "రాయచోటి",
+     "type": "Place",
+     "english_name": "Rayachoti"
+    },
+    {
+     "name": "ఆశా వర్కర్లు",
+     "type": "Organization",
+     "english_name": "ASHA workers"
+    },
+    {
+     "name": "108 ఉద్యోగులు",
+     "type": "Organization",
+     "english_name": "108 employees"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆశా వర్కర్లు",
+     "relation": "LOCATED_IN",
+     "target": "చిత్తూరు",
+     "evidence": "చిత్తూరు, తిరుపతి జిల్లాల్లో ఆశా వర్కర్లు అభ్యంతరం వ్యక్తంచేశారు"
+    },
+    {
+     "source": "ఆశా వర్కర్లు",
+     "relation": "LOCATED_IN",
+     "target": "తిరుపతి",
+     "evidence": "చిత్తూరు, తిరుపతి జిల్లాల్లో ఆశా వర్కర్లు అభ్యంతరం వ్యక్తంచేశారు"
+    },
+    {
+     "source": "ఆశా వర్కర్లు",
+     "relation": "LOCATED_IN",
+     "target": "రాయచోటి",
+     "evidence": "అన్నమయ్య జిల్లా రాయచోటిలో నినాదాలు చేశారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "975ca6fa63340f2ad4446d0f0b8f44e58f311079": {
+   "entities": [
+    {
+     "name": "ఆశా వర్కర్లు",
+     "type": "Organization",
+     "english_name": "ASHA Workers"
+    },
+    {
+     "name": "ఏపీ ఆశా వర్కర్స్ యూనియన్ (సీఐటీయూ)",
+     "type": "Organization",
+     "english_name": "AP ASHA Workers Union (CITU)"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆరోగ్యశాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Health Minister"
+    },
+    {
+     "name": "డీఎం హెచ్ఓ",
+     "type": "Person",
+     "english_name": "DMHO"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "నరసరావుపేట",
+     "type": "Place",
+     "english_name": "Narsaraopet"
+    },
+    {
+     "name": "ఒంగోలు",
+     "type": "Place",
+     "english_name": "Ongole"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "భీమవరం",
+     "type": "Place",
+     "english_name": "Bhimavaram"
+    },
+    {
+     "name": "అమలాపురం",
+     "type": "Place",
+     "english_name": "Amalapuram"
+    },
+    {
+     "name": "సాక్షి నె్టవర్క్",
+     "type": "Organization",
+     "english_name": "Sakshi Network"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

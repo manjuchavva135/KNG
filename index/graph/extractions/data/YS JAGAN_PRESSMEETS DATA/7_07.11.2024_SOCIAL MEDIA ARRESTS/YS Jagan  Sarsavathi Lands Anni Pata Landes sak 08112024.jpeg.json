@@ -1,0 +1,268 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e5b722d8feb5b93ebe5bdd8a4ff9a147736306a7": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అవన్నీ పట్టా భూములే",
+     "type": "Claim",
+     "english_name": "All are patta lands"
+    },
+    {
+     "name": "సరస్వతి",
+     "type": "Organization",
+     "english_name": "Saraswati"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "మాచవరం మండల తహసీల్దార్",
+     "type": "Organization",
+     "english_name": "Machavaram Mandal Tahsildar"
+    },
+    {
+     "name": "భవ్య సిమెంట్స్",
+     "type": "Organization",
+     "english_name": "Bhavya Cements"
+    },
+    {
+     "name": "సరస్వతి పవర్ అండ్ ఇండస్ట్రీస్",
+     "type": "Organization",
+     "english_name": "Saraswati Power and Industries"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "అవన్నీ పట్టా భూములే",
+     "evidence": "అవన్నీ పట్టా భూములే"
+    },
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "సరస్వతి పవర్ అండ్ ఇండస్ట్రీస్",
+     "evidence": "పవన్ కళ్యాణ్ ఆ భూముల వద్దకు వెళ్లి అటవీ, పర్యావరణ శాఖ మంత్రిగా ఎంఎండీఆర్ చట్టం-2015 సవరణ తెలియక పోవడం అజ్ఞానం చేయనా?"
+    },
+    {
+     "source": "మాచవరం మండల తహసీల్దార్",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8624b334608101c8ee372856f441fea7721fd15f": {
+   "entities": [
+    {
+     "name": "తహసీల్దార్",
+     "type": "Person",
+     "english_name": "Tahsildar"
+    },
+    {
+     "name": "సరస్వతి పవర్ అండ్ ఇండస్ట్రీస్",
+     "type": "Organization",
+     "english_name": "Saraswati Power and Industries"
+    },
+    {
+     "name": "పల్నాడు",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "చంద్రబా బు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబా బు",
+     "relation": "ACCUSES",
+     "target": "సరస్వతి పవర్ అండ్ ఇండస్ట్రీస్",
+     "evidence": "చంద్రబా బు కుట్ర పూరితంగా వ్యవహరించారు."
+    },
+    {
+     "source": "చంద్రబా బు",
+     "relation": "ACCUSES",
+     "target": "కాంగ్రెస్",
+     "evidence": "కాంగ్రెస్ నేతలతో కలిసి కేసులు వేశారు."
+    },
+    {
+     "source": "చంద్రబా బు",
+     "relation": "ACCUSES",
+     "target": "ఈడీ",
+     "evidence": "దాని వల్లే ఈడీ అటాచ్మెంట్లోకి వెళ్లింది."
+    },
+    {
+     "source": "చంద్రబా బు",
+     "relation": "ACCUSES",
+     "target": "పవన్ కళ్యాణ్",
+     "evidence": "పవన్ కళ్యాణ్ సిమెంటు పరిశ్రమకు ఇచ్చే నీళ్ల?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ecb5eeaedc98fcba34dd2fba2952ea78bcaff5d4": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "960262f9f0ff9ec10e493a14747d61881c63ac2b": {
+   "entities": [
+    {
+     "name": "Saraswati Cements",
+     "type": "Organization",
+     "english_name": "Saraswati Cements"
+    },
+    {
+     "name": "Orissa Minister",
+     "type": "Person",
+     "english_name": "Orissa Minister"
+    },
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "Machavaram mandal",
+     "type": "Place",
+     "english_name": "Machavaram mandal"
+    },
+    {
+     "name": "Cheenapalle",
+     "type": "Place",
+     "english_name": "Cheenapalle"
+    },
+    {
+     "name": "Pinnelli",
+     "type": "Place",
+     "english_name": "Pinnelli"
+    },
+    {
+     "name": "Veeravaram",
+     "type": "Place",
+     "english_name": "Veeravaram"
+    },
+    {
+     "name": "Tahsildar",
+     "type": "Person",
+     "english_name": "Tahsildar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bc9f27f637befdb5b2c814b0d2c56fc7e4af61ee": {
+   "entities": [
+    {
+     "name": "చంద్రబా బు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పల్నాడు",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "సరస్వతి పవర్ అండ్ ఇండస్ట్రీస్",
+     "type": "Organization",
+     "english_name": "Saraswati Power and Industries"
+    },
+    {
+     "name": "కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "జిందాల్ స్టీల్ ఫ్యాక్టరీ",
+     "type": "Organization",
+     "english_name": "Jindal Steel Factory"
+    },
+    {
+     "name": "ఆర్సిలర్ మిట్టల్-నిపాన్ పరిశ్రమ",
+     "type": "Organization",
+     "english_name": "ArcelorMittal Nippon industry"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబా బు",
+     "relation": "ACCUSES",
+     "target": "సరస్వతి పవర్ అండ్ ఇండస్ట్రీస్",
+     "evidence": "చంద్రబా బు కుట్ర పూరితంగా వ్యవహరించారు."
+    },
+    {
+     "source": "చంద్రబా బు",
+     "relation": "ACCUSES",
+     "target": "కాంగ్రెస్",
+     "evidence": "కాంగ్రెస్ నేతలతో కలిసి కేసులు వేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "పవన్ కళ్యాణ్",
+     "evidence": "పవన్ను బుర్ర పని చేస్తుందో లేదో తెలియట్లేదు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "జిందాల్ స్టీల్ ఫ్యాక్టరీ",
+     "evidence": "జత్వానిని తీసుకొచ్చి ఆమెతో దొంగ కేసులు పెట్టించి, బెదిరిం చి వెళ్లగొట్టే ప్రయత్నం చేస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

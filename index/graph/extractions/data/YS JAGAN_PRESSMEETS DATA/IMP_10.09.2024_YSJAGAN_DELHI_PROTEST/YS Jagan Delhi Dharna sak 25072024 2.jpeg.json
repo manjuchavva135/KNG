@@ -1,0 +1,849 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "345b7b7076d9237d737629fb6dbf17eaa89c3417": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వై.ఎస్. జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "టీడీపీ కూటమి",
+     "type": "Party",
+     "english_name": "TDP Alliance"
+    },
+    {
+     "name": "సమాజ్వాదీ పార్టీ",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "టీఎంసీ",
+     "type": "Party",
+     "english_name": "TMC"
+    },
+    {
+     "name": "శివసేన (ఉద్దవ్)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav)"
+    },
+    {
+     "name": "ఆప్",
+     "type": "Party",
+     "english_name": "AAP"
+    },
+    {
+     "name": "ఏఐఏడీఎంకే",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "జార్ఖండ్ ముక్తి మోర్చా",
+     "type": "Party",
+     "english_name": "JMM"
+    },
+    {
+     "name": "ఐయూఎంఎల్",
+     "type": "Party",
+     "english_name": "IUML"
+    },
+    {
+     "name": "ఎంఐఎం",
+     "type": "Party",
+     "english_name": "AIMIM"
+    },
+    {
+     "name": "వీసీకే",
+     "type": "Party",
+     "english_name": "VCK"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "జంతర్మంతర్",
+     "type": "Place",
+     "english_name": "Jantar Mantar"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వై.ఎస్. జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కూటమి",
+     "evidence": "టీడీపీ కూటమి ప్రభుత్వానికి పాలించే అర్హత లేదు.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3794241099ced99410ae3e6ba9e5867532872933": {
+   "entities": [
+    {
+     "name": "రాష్ట్రపతి పాలన",
+     "type": "Scheme",
+     "english_name": "President's Rule"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "మాజీ ముఖ్యమంత్రి వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "సమాజ్వాదీ పార్టీ",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "అఖిలేశ్ యాదవ్",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "టీఎంసీ",
+     "type": "Party",
+     "english_name": "Trinamool Congress"
+    },
+    {
+     "name": "శివసేన (ఉద్ధవ్ థాక్రే)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav Thackeray)"
+    },
+    {
+     "name": "ఆప్",
+     "type": "Party",
+     "english_name": "Aam Aadmi Party"
+    },
+    {
+     "name": "ఏఐఏడీఎంకే",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "జార్జ్వుడ్ ముక్తి మోర్చా",
+     "type": "Party",
+     "english_name": "George Wood Mukti Morcha"
+    },
+    {
+     "name": "ఇండియన్ యూనియన్ ముస్లిం లీగ్",
+     "type": "Party",
+     "english_name": "Indian Union Muslim League"
+    },
+    {
+     "name": "వీసీకే",
+     "type": "Party",
+     "english_name": "VCK"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అఖిలేశ్ యాదవ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాష్ట్రపతి పాలన",
+     "evidence": "రాష్ట్రంలో రాష్ట్రపతి పాలన పెట్టాలన్న డిమాండ్తో హోరెత్తించింది."
+    },
+    {
+     "source": "ఆప్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాష్ట్రపతి పాలన",
+     "evidence": "రాష్ట్రంలో రాష్ట్రపతి పాలన పెట్టాలన్న డిమాండ్తో హోరెత్తించింది."
+    },
+    {
+     "source": "ఏఐఏడీఎంకే",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాష్ట్రపతి పాలన",
+     "evidence": "రాష్ట్రంలో రాష్ట్రపతి పాలన పెట్టాలన్న డిమాండ్తో హోరెత్తించింది."
+    },
+    {
+     "source": "జార్జ్వుడ్ ముక్తి మోర్చా",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాష్ట్రపతి పాలన",
+     "evidence": "రాష్ట్రంలో రాష్ట్రపతి పాలన పెట్టాలన్న డిమాండ్తో హోరెత్తించింది."
+    },
+    {
+     "source": "ఇండియన్ యూనియన్ ముస్లిం లీగ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాష్ట్రపతి పాలన",
+     "evidence": "రాష్ట్రంలో రాష్ట్రపతి పాలన పెట్టాలన్న డిమాండ్తో హోరెత్తించింది."
+    },
+    {
+     "source": "వీసీకే",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రాష్ట్రపతి పాలన",
+     "evidence": "రాష్ట్రంలో రాష్ట్రపతి పాలన పెట్టాలన్న డిమాండ్తో హోరెత్తించింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f98f480c5435e546806c975aa343c5cdde81bd76": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "సమాజ్వాదీ పార్టీ",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "అఖిలేశ్ యాదవ్",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "టీఎంసీ",
+     "type": "Party",
+     "english_name": "TMC"
+    },
+    {
+     "name": "శివసేన (ఉద్ధవ్ థాక్రే)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav Thackeray)"
+    },
+    {
+     "name": "ఆప్",
+     "type": "Party",
+     "english_name": "AAP"
+    },
+    {
+     "name": "ఏఐఏడీఎంకే",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "జార్జ్వుడ్ ముక్తి మోర్చా",
+     "type": "Party",
+     "english_name": "Georgewood Mukti Morcha"
+    },
+    {
+     "name": "ఇండియన్ యూనియన్ ముస్లిం లీగ్",
+     "type": "Party",
+     "english_name": "Indian Union Muslim League"
+    },
+    {
+     "name": "వీసీకే",
+     "type": "Party",
+     "english_name": "VCK"
+    },
+    {
+     "name": "జంతర్ మంతర",
+     "type": "Place",
+     "english_name": "Jantar Mantar"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "పల్నాడు",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "చిత్తూరు",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "బాపట్ల",
+     "type": "Place",
+     "english_name": "Bapatla"
+    },
+    {
+     "name": "కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "వినుకొండ",
+     "type": "Place",
+     "english_name": "Vinukonda"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అఖిలేశ్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "సమాజ్వాదీ పార్టీ",
+     "evidence": "సమాజ్వాదీ పార్టీ చీఫ్ అఖిలేశ్ యాదవ్"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ ముఖ్యమంత్రి వైఎస్ జగన్మోహన్రెడ్డి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3aa0d97711d22d456890469fb1d8050abfd74c7f": {
+   "entities": [
+    {
+     "name": "రషీద్",
+     "type": "Person",
+     "english_name": "Rashid"
+    },
+    {
+     "name": "ఖిన్నులైపోవడం",
+     "type": "Claim",
+     "english_name": "Shock"
+    },
+    {
+     "name": "నరమేధం",
+     "type": "Claim",
+     "english_name": "Massacre"
+    },
+    {
+     "name": "జంతర్ మంతర్",
+     "type": "Place",
+     "english_name": "Jantar Mantar"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సమాజ్వాదీ పార్టీ",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "అఖిలేశ్ యాదవ్",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "రాంగోపాల్ యాదవ్",
+     "type": "Person",
+     "english_name": "Ram Gopal Yadav"
+    },
+    {
+     "name": "శివసేన (ఉద్దవ్ థాక్రే)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav Thackeray)"
+    },
+    {
+     "name": "సంజయ్ రౌత్",
+     "type": "Person",
+     "english_name": "Sanjay Raut"
+    },
+    {
+     "name": "ప్రియాంక చతుర్వేది",
+     "type": "Person",
+     "english_name": "Priyanka Chaturvedi"
+    },
+    {
+     "name": "అరవింద్ సావంత్",
+     "type": "Person",
+     "english_name": "Arvind Sawant"
+    },
+    {
+     "name": "ఏఐఎడీఎం కే",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "తంబిదొరై",
+     "type": "Person",
+     "english_name": "Thambidurai"
+    },
+    {
+     "name": "నటరాజన్ చం ద్రశేఖరన్",
+     "type": "Person",
+     "english_name": "Natarajan Chandrasekaran"
+    },
+    {
+     "name": "తృణముల్ కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Trinamool Congress"
+    },
+    {
+     "name": "నదీముల్ హక్",
+     "type": "Person",
+     "english_name": "Nadimul Haq"
+    },
+    {
+     "name": "వీసీకే",
+     "type": "Party",
+     "english_name": "VCK"
+    },
+    {
+     "name": "తిరుమా వలవన్",
+     "type": "Person",
+     "english_name": "Thiruma Valavan"
+    },
+    {
+     "name": "రవికుమార్",
+     "type": "Person",
+     "english_name": "Ravikumar"
+    },
+    {
+     "name": "ఆమ్ ఆద్మీ పార్టీ",
+     "type": "Party",
+     "english_name": "Aam Aadmi Party"
+    },
+    {
+     "name": "రాజేంద్రపాల్ గౌతమ్",
+     "type": "Person",
+     "english_name": "Rajendra Pal Gautam"
+    },
+    {
+     "name": "ఇండియన్ యూనియన్ ముస్లిం లీగ్",
+     "type": "Party",
+     "english_name": "Indian Union Muslim League"
+    },
+    {
+     "name": "అబ్దుల్ వాహబ్",
+     "type": "Person",
+     "english_name": "Abdul Wahab"
+    },
+    {
+     "name": "హ్యారిస్ బీరన్",
+     "type": "Person",
+     "english_name": "Harris Beeran"
+    },
+    {
+     "name": "జేఎంఎం",
+     "type": "Party",
+     "english_name": "JMM"
+    },
+    {
+     "name": "విజయ్ హన్స్క్",
+     "type": "Person",
+     "english_name": "Vijay Hansk"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అఖిలేశ్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "సమాజ్వాదీ పార్టీ",
+     "evidence": "సమాజ్వాదీ పార్టీ అధినేత అఖిలేశ్ యాదవ్"
+    },
+    {
+     "source": "రాంగోపాల్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "సమాజ్వాదీ పార్టీ",
+     "evidence": "ఆ పార్టీ సీనియర్ ఎంపీ రాంగోపాల్ యాదవ్"
+    },
+    {
+     "source": "సంజయ్ రౌత్",
+     "relation": "MEMBER_OF",
+     "target": "శివసేన (ఉద్దవ్ థాక్రే)",
+     "evidence": "శివసేన (ఉద్దవ్ థాక్రే)పార్టీ ఎంపీలు సంజయ్ రౌత్"
+    },
+    {
+     "source": "ప్రియాంక చతుర్వేది",
+     "relation": "MEMBER_OF",
+     "target": "శివసేన (ఉద్దవ్ థాక్రే)",
+     "evidence": "శివసేన (ఉద్దవ్ థాక్రే)పార్టీ ఎంపీలు ప్రియాంక చతుర్వేది"
+    },
+    {
+     "source": "అరవింద్ సావంత్",
+     "relation": "MEMBER_OF",
+     "target": "శివసేన (ఉద్దవ్ థాక్రే)",
+     "evidence": "శివసేన (ఉద్దవ్ థాక్రే)పార్టీ ఎంపీలు అరవింద్ సావంత్"
+    },
+    {
+     "source": "తంబిదొరై",
+     "relation": "MEMBER_OF",
+     "target": "ఏఐఎడీఎం కే",
+     "evidence": "ఏఐఎడీఎం కే సీనియర్ ఎంపీ తంబిదొరై"
+    },
+    {
+     "source": "నదీముల్ హక్",
+     "relation": "MEMBER_OF",
+     "target": "తృణముల్ కాంగ్రెస్",
+     "evidence": "తృణముల్ కాంగ్రెస్ ఎంపీ నదీముల్ హక్"
+    },
+    {
+     "source": "తిరుమా వలవన్",
+     "relation": "MEMBER_OF",
+     "target": "వీసీకే",
+     "evidence": "వీసీకే పార్టీ అధ్యక్షుడు తిరుమా వలవన్"
+    },
+    {
+     "source": "రవికుమార్",
+     "relation": "MEMBER_OF",
+     "target": "వీసీకే",
+     "evidence": "ఆ పార్టీ ఎంపీ రవికుమార్"
+    },
+    {
+     "source": "రాజేంద్రపాల్ గౌతమ్",
+     "relation": "MEMBER_OF",
+     "target": "ఆమ్ ఆద్మీ పార్టీ",
+     "evidence": "ఆమ్ ఆద్మీ పార్టీ నేత రాజేంద్రపాల్ గౌతమ్"
+    },
+    {
+     "source": "అబ్దుల్ వాహబ్",
+     "relation": "MEMBER_OF",
+     "target": "ఇండియన్ యూనియన్ ముస్లిం లీగ్",
+     "evidence": "ఇండియన్ యూనియన్ ముస్లిం లీగ్ ఎంపీలు అబ్దుల్ వాహబ్"
+    },
+    {
+     "source": "హ్యారిస్ బీరన్",
+     "relation": "MEMBER_OF",
+     "target": "ఇండియన్ యూనియన్ ముస్లిం లీగ్",
+     "evidence": "ఇండియన్ యూనియన్ ముస్లిం లీగ్ ఎంపీలు హ్యారిస్ బీరన్"
+    },
+    {
+     "source": "విజయ్ హన్స్క్",
+     "relation": "MEMBER_OF",
+     "target": "జేఎంఎం",
+     "evidence": "జేఎంఎం ఎంపీ విజయ్ హన్స్క్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e7d5641a59c729839783ea2961a08327fae7928f": {
+   "entities": [
+    {
+     "name": "నదీముల్ హక్",
+     "type": "Person",
+     "english_name": "Nadimul Haq"
+    },
+    {
+     "name": "తిరుమా వలవన్",
+     "type": "Person",
+     "english_name": "Thiruma Valavan"
+    },
+    {
+     "name": "రవికుమార్",
+     "type": "Person",
+     "english_name": "Ravikumar"
+    },
+    {
+     "name": "రాజేంద్రపాల్ గౌతమ్",
+     "type": "Person",
+     "english_name": "Rajendra Pal Gautam"
+    },
+    {
+     "name": "అబ్దుల్ వాహబ్",
+     "type": "Person",
+     "english_name": "Abdul Wahab"
+    },
+    {
+     "name": "హ్యారిస్ బీరన్",
+     "type": "Person",
+     "english_name": "Harris Beeran"
+    },
+    {
+     "name": "విజయ్ హన్స్క్",
+     "type": "Person",
+     "english_name": "Vijay Hansk"
+    },
+    {
+     "name": "అఖిలేశ్ యాదవ్",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఎంఐఎం",
+     "type": "Party",
+     "english_name": "AIMIM"
+    },
+    {
+     "name": "అసదుద్దీన్ ఒవైసీ",
+     "type": "Person",
+     "english_name": "Asaduddin Owaisi"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "కేంద్ర హోం శాఖ మంత్రి",
+     "type": "Organization",
+     "english_name": "Union Home Minister"
+    },
+    {
+     "name": "నారా లోకేశ్",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "సంజయ్ రౌత్",
+     "type": "Person",
+     "english_name": "Sanjay Raut"
+    },
+    {
+     "name": "అరవింద్ సావంత్",
+     "type": "Person",
+     "english_name": "Arvind Sawant"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అసదుద్దీన్ ఒవైసీ",
+     "relation": "MEMBER_OF",
+     "target": "ఎంఐఎం",
+     "evidence": "ఎంఐఎం అధినేత అసదుద్దీన్ ఒవైసీ"
+    },
+    {
+     "source": "కేంద్రం",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "కేంద్రం బొరవ చూపి ఈ దమనకాం డను ఆపాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "కేంద్ర హోం శాఖ మంత్రి",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "రాష్ట్ర పరిస్థితులపై కేంద్ర హోం శాఖ మంత్రి వెంటనే స్పందించి, ప్రత్యేక బృందాన్ని రాష్ట్రానికి పంపాలని డిమాండ్ చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bfa6bd3c9977bfedd411673b199374bd8052cd01": {
+   "entities": [
+    {
+     "name": "సమాజ్వాదీ పార్టీ",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "అఖిలేశ్ యాదవ్",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "ఎంపీలు",
+     "type": "Person",
+     "english_name": "MPs"
+    },
+    {
+     "name": "మద్దిల గురుమూర్తి",
+     "type": "Person",
+     "english_name": "Maddela Gurumurthy"
+    },
+    {
+     "name": "మిథున్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Mithun Reddy"
+    },
+    {
+     "name": "ఆర్.కృష్ణయ్య",
+     "type": "Person",
+     "english_name": "R. Krishnayya"
+    },
+    {
+     "name": "శివసేన (యూబీటీ)",
+     "type": "Party",
+     "english_name": "Shiv Sena (UBT)"
+    },
+    {
+     "name": "తృణమూల్ కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Trinamool Congress"
+    },
+    {
+     "name": "ఎస్పీ",
+     "type": "Party",
+     "english_name": "SP"
+    },
+    {
+     "name": "ప్రియంక చతుర్వేది",
+     "type": "Person",
+     "english_name": "Priyanka Chaturvedi"
+    },
+    {
+     "name": "నదీముల్ హక్",
+     "type": "Person",
+     "english_name": "Nadimul Haq"
+    },
+    {
+     "name": "రాంగోపాల్ యాదవ్",
+     "type": "Person",
+     "english_name": "Ram Gopal Yadav"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "జాతీయ మీడియా",
+     "type": "Organization",
+     "english_name": "National Media"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధినేత వైఎస్ జగన్"
+    },
+    {
+     "source": "అఖిలేశ్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "సమాజ్వాదీ పార్టీ",
+     "evidence": "సమాజ్వాదీ పార్టీ అధినేత అఖిలేశ్ యాదవ్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధినేత వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్"
+    },
+    {
+     "source": "మద్దిల గురుమూర్తి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "చిత్రంలో ఎంపీలు.. మద్దిల గురుమూర్తి, మిథున్ రెడ్డి, ఆర్.కృష్ణయ్య"
+    },
+    {
+     "source": "మిథున్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "చిత్రంలో ఎంపీలు.. మద్దిల గురుమూర్తి, మిథున్ రెడ్డి, ఆర్.కృష్ణయ్య"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్ జగన్"
+    },
+    {
+     "source": "ప్రియంక చతుర్వేది",
+     "relation": "MEMBER_OF",
+     "target": "తృణమూల్ కాంగ్రెస్",
+     "evidence": "తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "నదీముల్ హక్",
+     "relation": "MEMBER_OF",
+     "target": "తృణమూల్ కాంగ్రెస్",
+     "evidence": "తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "రాంగోపాల్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "తృణమూల్ కాంగ్రెస్",
+     "evidence": "తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "ప్రియంక చతుర్వేది",
+     "relation": "MEMBER_OF",
+     "target": "ఎస్పీ",
+     "evidence": "తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "నదీముల్ హక్",
+     "relation": "MEMBER_OF",
+     "target": "ఎస్పీ",
+     "evidence": "తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "రాంగోపాల్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "ఎస్పీ",
+     "evidence": "తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ దాడుల గురించి వివరిస్తున్న వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "శివసేన (యూబీటీ)",
+     "evidence": "శివసేన (యూబీటీ), తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "తృణమూల్ కాంగ్రెస్",
+     "evidence": "శివసేన (యూబీటీ), తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "ఎస్పీ",
+     "evidence": "శివసేన (యూబీటీ), తృణమూల్ కాంగ్రెస్, ఎస్పీ ఎంపీలు ప్రియాంక చతుర్వేది, నదీముల్ హక్, రాంగోపాల్ యాదవ్లకు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

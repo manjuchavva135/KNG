@@ -1922,6 +1922,276 @@
     }
    ],
    "relations": []
+  },
+  "78bb698e5a450f2bde97d5c9bd020ec37e55c4b7": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్ 2.0 / షణ్ముఖ వ్యూహం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సౌభాగ్యపథం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉద్యోగాలు / నెలకు రూ.3 వేల నిరుద్యోగ భృతి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20 వేలు ఆర్థిక సాయం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి మహిళకి నెలకు రూ.1500 (19 సం॥ నుంచి 59 సం॥ వరకు)",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి ఇంటికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంటింటికీ రక్షిత తాగునీరు : ప్రతి ఇంటికి కుళాయి కనెక్షన్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పూర్ టు రిచ్ : పేదలను సంపన్నులను చేసే దిశగా పబ్లిక్, ప్రైవేట్, పీపుల్స్, పార్టనర్షిప్ (పి4) పథకాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర వ్యాప్తంగా స్కిల్ సెన్సస్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సౌభాగ్యపథం : చిన్న, మధ్యతరహా పరిశ్రమలకు, అంకుర సంస్థలకు ప్రాజెక్టు వ్యయంలో గరిష్టంగా రూ.10 లక్షల వరకు సబ్సిడీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర స్థూల ఉత్పత్తిని త్వరితగతిన పెంచడానికి పటిష్టమైన చర్యలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజా రాజధాని అమరావతి నిర్మాణాన్ని కొనసాగిస్తూ అన్ని ప్రాంతాల అభివృద్ధి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చేనేత ఉత్పత్తులపై జీయస్టీ రీయింబర్స్ చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పవర్‌లూమ్‌లకు 500 యూనిట్లు, హ్యాండ్యూమ్‌లకు 200 యూనిట్లు ఉచిత విద్యుత్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నాయీ బ్రాహ్మణులకు రూ.25 వేలు గౌరవ వేతనం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "షాపులకు 200 యూనిట్లు ఉచిత విద్యుత్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అత్యాధునిక ప్రమాణాలతో గొర్రెల పెంపకం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యూనిట్ల స్థాపనకు రాయితీలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గొర్రెలు, మేకల పెంపకం యూనిట్లకు బీమా సౌకర్యం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "యువతకు 20 లక్షల ఉద్యోగాలు / నెలకు రూ.3 వేల నిరుద్యోగ భృతి",
+     "evidence": "యువతకు 20 లక్షల ఉద్యోగాలు / నెలకు రూ.3 వేల నిరుద్యోగ భృతి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "evidence": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి రైతుకు ఏటా రూ.20 వేలు ఆర్థిక సాయం",
+     "evidence": "ప్రతి రైతుకు ఏటా రూ.20 వేలు ఆర్థిక సాయం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి మహిళకి నెలకు రూ.1500 (19 సం॥ నుంచి 59 సం॥ వరకు)",
+     "evidence": "ప్రతి మహిళకి నెలకు రూ.1500 (19 సం॥ నుంచి 59 సం॥ వరకు)"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి ఇంటికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "ప్రతి ఇంటికి ఏడాదికి ఉచితంగా 3 గ్యాస్ సిలిండర్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "evidence": "మహిళలకు ఉచిత బస్సు ప్రయాణం"
+    }
+   ]
+  },
+  "1fcd68e219f7efe545c9e6ddd1dc9a46b50ae61a": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "NDA government",
+     "type": "Organization",
+     "english_name": "NDA government"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "యువత సంక్షేమం",
+     "type": "Scheme",
+     "english_name": "Youth Welfare"
+    },
+    {
+     "name": "బీసీ డిక్లరేషన్",
+     "type": "Scheme",
+     "english_name": "BC Declaration"
+    },
+    {
+     "name": "ప్రపంచస్థాయి క్రీడా మౌలిక సదుపాయాలు",
+     "type": "Scheme",
+     "english_name": "World-class sports infrastructure"
+    },
+    {
+     "name": "డిజిటల్ లైబ్రరీలు",
+     "type": "Scheme",
+     "english_name": "Digital libraries"
+    },
+    {
+     "name": "నైపుణ్య శిక్షణ",
+     "type": "Scheme",
+     "english_name": "Skills training"
+    },
+    {
+     "name": "10 శాతం EWS రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": "10% EWS reservations"
+    },
+    {
+     "name": "యువతకు నైపుణ్య శిక్షణ అందించి ఉద్యోగాలు కల్పిస్తాం.",
+     "type": "Claim",
+     "english_name": "We will provide skill training to youth and create jobs."
+    },
+    {
+     "name": "ప్రపంచస్థాయి క్రీడా మౌలిక సదుపాయాలు అభివృద్ధిపరిచి రాష్ట్ర యువతను అంతర్జాతీయ క్రీడాకారులుగా తీర్చిదిద్దుతాం.",
+     "type": "Claim",
+     "english_name": "We will develop world-class sports infrastructure and nurture state youth into international players."
+    },
+    {
+     "name": "డిజిటల్ లైబ్రరీల స్థాపన కేంద్ర, రాష్ట్ర ప్రభుత్వ పరీక్షలకు ప్రిపేర్ కావడం కోసం.",
+     "type": "Claim",
+     "english_name": "Establishment of digital libraries to prepare for central and state government exams."
+    },
+    {
+     "name": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం.",
+     "type": "Claim",
+     "english_name": "We will give a pension of Rs.4,000 per month to BCs at the age of 50."
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "Super Six"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువత సంక్షేమం",
+     "evidence": "యువత సంక్షేమం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ డిక్లరేషన్",
+     "evidence": "బీసీ డిక్లరేషన్"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "యువతకు నైపుణ్య శిక్షణ అందించి ఉద్యోగాలు కల్పిస్తాం.",
+     "evidence": "యువతకు నైపుణ్య శిక్షణ అందించి ఉద్యోగాలు కల్పిస్తాం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రపంచస్థాయి క్రీడా మౌలిక సదుపాయాలు అభివృద్ధిపరిచి రాష్ట్ర యువతను అంతర్జాతీయ క్రీడాకారులుగా తీర్చిదిద్దుతాం.",
+     "evidence": "ప్రపంచస్థాయి క్రీడా మౌలిక సదుపాయాలు అభివృద్ధిపరిచి రాష్ట్ర యువతను అంతర్జాతీయ క్రీడాకారులుగా తీర్చిదిద్దుతాం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "డిజిటల్ లైబ్రరీల స్థాపన కేంద్ర, రాష్ట్ర ప్రభుత్వ పరీక్షలకు ప్రిపేర్ కావడం కోసం.",
+     "evidence": "డిజిటల్ లైబ్రరీల స్థాపన కేంద్ర, రాష్ట్ర ప్రభుత్వ పరీక్షలకు ప్రిపేర్ కావడం కోసం"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం.",
+     "evidence": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం"
+    }
+   ]
   }
  }
 }

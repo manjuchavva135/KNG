@@ -1,0 +1,991 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5a478fd21cf2373ea5d5474b97f097ad7e9c611d": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c0c641b4488fab6f5f5d2593b4b21b3dad5ef0aa": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్ సెక్యూలు",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవన్లు",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Scheme",
+     "english_name": "Free Bus"
+    },
+    {
+     "name": "గ్యాస్ సిలండర్లు",
+     "type": "Scheme",
+     "english_name": "Gas Cylinders"
+    },
+    {
+     "name": "కూటమి నాయకులు",
+     "type": "Party",
+     "english_name": "Alliance Leaders"
+    },
+    {
+     "name": "రాష్ట్రంలో యాక్టివ్ గ్యాస్ కనెక్షన్లు",
+     "type": "Organization",
+     "english_name": "State Active Gas Connections"
+    },
+    {
+     "name": "కర్నాటక",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "కేరళ",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "ఆర్థిక మంత్రి",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "పౌరసరఫరాల శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Civil Supplies Minister"
+    },
+    {
+     "name": "LPG connections backup",
+     "type": "Organization",
+     "english_name": "LPG Connections Backup"
+    },
+    {
+     "name": "Ministry of Petroleum & Natural Gas",
+     "type": "Organization",
+     "english_name": "Ministry of Petroleum & Natural Gas"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కూటమి నాయకులు",
+     "evidence": "కూటమి నాయకులు ఎన్నికల వేళ ప్రజల ఇళ్ల వద్దకు వెళ్లిన సమయంలో"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2aaa880e38c2a22e09d7763d4befbfead5bf9299": {
+   "entities": [
+    {
+     "name": "అప్పులపై అడ్డగోలు లెక్కలా?",
+     "type": "Issue",
+     "english_name": "Irregular accounting of loans?"
+    },
+    {
+     "name": "చంద్రబాబుపై వైఎస్ జగన్ మండిపాటు",
+     "type": "Issue",
+     "english_name": "Y. S. Jagan's anger on Chandrababu"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులపై బడ్జెట్లో చూపించింది తప్పితే అసెంబ్లీలో ఎందుకు ప్రవేశపెట్టావ్?",
+     "type": "Issue",
+     "english_name": "Why was the state loan budget not presented in the assembly?"
+    },
+    {
+     "name": "సూపర్ సిక్స్ హామీలను అమలు చేయలేక.. జనం నిలదీస్తారనే భయంతో పదేపదే అబద్ధాలు",
+     "type": "Issue",
+     "english_name": "Repeated lies due to fear of people questioning unimplemented Super Six promises"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "కాగ్ (కంప్రస్టోలర్ అండ్ ఆడిటర్ జనరల్)",
+     "type": "Organization",
+     "english_name": "CAG (Comptroller and Auditor General)"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "ముఖ్యమంత్రి చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chief Minister Chandrababu"
+    },
+    {
+     "name": "టావా?",
+     "type": "Issue",
+     "english_name": "Tawa?"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "బొంకుల బాబు",
+     "type": "Issue",
+     "english_name": "Bomukula Babu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కాగ్ (కంప్రస్టోలర్ అండ్ ఆడిటర్ జనరల్)",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అందులో అంకెలన్నీ నువ్వు ప్రవేశపెట్టినవే కదా? సూపర్‌ సిక్స్ హామీలను అమలు చేయలేక.. జనం నిలదీస్తారనే భయంతో పదేపదే అబద్ధాలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dc9d68dc8629a40a0a9b186e298dd2585a789e76": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "దత్తపుత్రుడు",
+     "type": "Person",
+     "english_name": "Dattaputrudu"
+    },
+    {
+     "name": "బిజెపి",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "రాష్ట్ర అప్పు",
+     "type": "Issue",
+     "english_name": "State Debt"
+    },
+    {
+     "name": "కాగ్ నివేదికలు",
+     "type": "Organization",
+     "english_name": "CAG Reports"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియాతో కలిసి అబార్దాలకు రెక్కలు కట్టి ఎలా వ్యవస్థీకృత నేరాలకు (ఆర్గనైజ్డ్ క్రైమ్స్) పాల్పడుతున్నార"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6c7c9acd6925ee84ee0948a992bcd8c46a07cc60": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bc3ec96ab60946e9d64383e8aff53f57212b61e0": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "50cbbd46328819ad423c1db19f81da6a590dc771": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "84c98f1116cd21b20999bbc2f74084a3d12fadda": {
+   "entities": [
+    {
+     "name": "YSRCP central office",
+     "type": "Organization",
+     "english_name": "YSRCP central office"
+    },
+    {
+     "name": "Y. S. Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "CM Chandrababu",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "Debt Breakup",
+     "type": "Claim",
+     "english_name": "Debt Breakup"
+    },
+    {
+     "name": "Debt and Other Liabilities of the State Government (As on March 2018)",
+     "type": "Claim",
+     "english_name": "Debt and Other Liabilities of the State Government (As on March 2018)"
+    },
+    {
+     "name": "Public Debt and Public Account (State Government Guaranteed/Undertaken Liability)",
+     "type": "Claim",
+     "english_name": "Public Debt and Public Account (State Government Guaranteed/Undertaken Liability)"
+    },
+    {
+     "name": "Chief Minister's Guarantee Fund for public welfare schemes(Expenditure Linked Scheme)",
+     "type": "Claim",
+     "english_name": "Chief Minister's Guarantee Fund for public welfare schemes(Expenditure Linked Scheme)"
+    },
+    {
+     "name": "Government guaranteed debt to public sector undertakings",
+     "type": "Claim",
+     "english_name": "Government guaranteed debt to public sector undertakings"
+    },
+    {
+     "name": "Total State Government guarantee fund & other government committed asset",
+     "type": "Claim",
+     "english_name": "Total State Government guarantee fund & other government committed asset"
+    },
+    {
+     "name": "Total Guarantees given by various PSUs including Major share purchase from PSU entities",
+     "type": "Claim",
+     "english_name": "Total Guarantees given by various PSUs including Major share purchase from PSU entities"
+    },
+    {
+     "name": "Plus accumulated amount of Purchase-in-Esttments",
+     "type": "Claim",
+     "english_name": "Plus accumulated amount of Purchase-in-Esttments"
+    },
+    {
+     "name": "Total: Guarantees Given by Various PSUs including major stake purchases from PSEBs",
+     "type": "Claim",
+     "english_name": "Total: Guarantees Given by Various PSUs including major stake purchases from PSEBs"
+    },
+    {
+     "name": "Total guarantees under Private Sector Guarantees",
+     "type": "Claim",
+     "english_name": "Total guarantees under Private Sector Guarantees"
+    },
+    {
+     "name": "Total state Govt liabilities and non-guaranteed PLI loans",
+     "type": "Claim",
+     "english_name": "Total state Govt liabilities and non-guaranteed PLI loans"
+    },
+    {
+     "name": "CAG report, dated August 2018",
+     "type": "Organization",
+     "english_name": "CAG report, dated August 2018"
+    },
+    {
+     "name": "State Budget presented in November, 2014",
+     "type": "Organization",
+     "english_name": "State Budget presented in November, 2014"
+    },
+    {
+     "name": "Standing Committee on Power, Energy and Natural Resources",
+     "type": "Organization",
+     "english_name": "Standing Committee on Power, Energy and Natural Resources"
+    },
+    {
+     "name": "2018-19 నాటికి రూ.3.13 లక్షల కోట్లున్న అప్పులు మా ప్రభుత్వం దిగిపోయే నాటికి రూ.6.46 లక్షల కోట్లకు చేరాలని చంద్రబాబు స్వయంగా ఒప్పుకున్నారు",
+     "type": "Claim",
+     "english_name": "2018-19 నాటికి రూ.3.13 లక్షల కోట్లున్న అప్పులు మా ప్రభుత్వం దిగిపోయే నాటికి రూ.6.46 లక్షల కోట్లకు చేరాలని చంద్రబాబు స్వయంగా ఒప్పుకున్నారు"
+    },
+    {
+     "name": "CAG report",
+     "type": "Organization",
+     "english_name": "CAG report"
+    },
+    {
+     "name": "Assembly",
+     "type": "Organization",
+     "english_name": "Assembly"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Y. S. Jagan",
+     "relation": "ACCUSES",
+     "target": "CM Chandrababu",
+     "evidence": "రాష్ట్ర అప్పుల నుంచి పోలవరం దాకా భిన్న అం శాలపై సీఎం చంద్రబాబు, మంత్రులు పదే పదే అబద్ధాలు చెబుతుండటాన్ని ఎండగట్టారు."
+    },
+    {
+     "source": "Y. S. Jagan",
+     "relation": "ACCUSES",
+     "target": "CM Chandrababu",
+     "evidence": "చంద్రబాబు స్వయంగా ఒప్పుకున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "45333b53e3f7f212873609c9c060a7b6a4ce9396": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సామాజిక ఆర్థిక సర్వే నివేదిక",
+     "type": "Claim",
+     "english_name": "Social Economic Survey Report"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈ రంగం",
+     "type": "Organization",
+     "english_name": "MSME sector"
+    },
+    {
+     "name": "ఉద్యోగాలు",
+     "type": "Claim",
+     "english_name": "Jobs"
+    },
+    {
+     "name": "భారీ, మెగా ప్రాజెక్టులు",
+     "type": "Claim",
+     "english_name": "Large and Mega Projects"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సామాజిక ఆర్థిక సర్వే నివేదిక",
+     "evidence": "అసెంబ్లీలో చంద్రబాబు ప్రవేశపెట్టిన సామాజిక ఆర్థిక సర్వే నివేదికలో పేర్కొన్న గణాంకాలను పరిశీలిస్తే.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "భారీ, మెగా ప్రాజెక్టులు",
+     "evidence": "భారీ, మెగా ప్రాజెక్టులతో మా హయాంలో 1,02,407 ఉద్యోగాలు కల్పిస్తే చంద్రబాబు హయాంలో ఉపాధి కల్పన చాలా తక్కువగా నమోదైంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉద్యోగాలు",
+     "evidence": "ఎంఎస్ఎంఈ రంగంలో ఆయన హయాంలో 2014-19 మధ్య 8.67 లక్షల మందికి ఉద్యోగాలు కల్పిస్తే.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "భారీ, మెగా ప్రాజెక్టులు",
+     "evidence": "భారీ, మెగా ప్రాజెక్టులతో మా హయాంలో 1,02,407 ఉద్యోగాలు కల్పిస్తే చంద్రబాబు హయాంలో ఉపాధి కల్పన చాలా తక్కువగా నమోదైంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a0b14de32387567b8aa451a44a740147a926c424": {
+   "entities": [
+    {
+     "name": "FRBM (Fiscal Responsibility Budget Management Act)",
+     "type": "Organization",
+     "english_name": "FRBM (Fiscal Responsibility Budget Management Act)"
+    },
+    {
+     "name": "CAG report",
+     "type": "Organization",
+     "english_name": "CAG report"
+    },
+    {
+     "name": "Central Finance Commission report",
+     "type": "Organization",
+     "english_name": "Central Finance Commission report"
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "Super Sixes",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "Super Sevens",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "Covid",
+     "type": "Issue",
+     "english_name": "Covid"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "SBI",
+     "type": "Organization",
+     "english_name": "SBI"
+    },
+    {
+     "name": "IOC",
+     "type": "Organization",
+     "english_name": "IOC"
+    },
+    {
+     "name": "HPCL",
+     "type": "Organization",
+     "english_name": "HPCL"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandra Babu",
+     "relation": "ACCUSES",
+     "target": "FRBM (Fiscal Responsibility Budget Management Act)",
+     "evidence": "నువ్వు కాదా బాబూ? ఈ అంశాన్ని కాగ్ నివేదిక, కేంద్ర ఆర్థిక సంఘం నివేదిక కూడా స్పష్టం చేసింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a90758246c3cf5f45f5cbc9b435b58aa68da5257": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ec51e46cf528703f928e0ba0640363cc874b91f4": {
+   "entities": [
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "CAG Report",
+     "type": "Organization",
+     "english_name": "CAG Report"
+    },
+    {
+     "name": "Budget 2024-25",
+     "type": "Scheme",
+     "english_name": "Budget 2024-25"
+    },
+    {
+     "name": "State debt",
+     "type": "Issue",
+     "english_name": "State debt"
+    },
+    {
+     "name": "Industrial growth rate",
+     "type": "Issue",
+     "english_name": "Industrial growth rate"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Budget 2024-25",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "State debt",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ce36ea671729af1e9baa1596620b8dea6114a6a0": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మా హయాంలో",
+     "type": "Organization",
+     "english_name": "Our government"
+    },
+    {
+     "name": "సీఏజీఆర్",
+     "type": "Organization",
+     "english_name": "CAGR"
+    },
+    {
+     "name": "ఎస్బీఐ",
+     "type": "Organization",
+     "english_name": "SBI"
+    },
+    {
+     "name": "ఐవోసీ",
+     "type": "Organization",
+     "english_name": "IOC"
+    },
+    {
+     "name": "హెచ్పీసీఎల్",
+     "type": "Organization",
+     "english_name": "HPCL"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ రంగ సంస్థలయిన",
+     "type": "Organization",
+     "english_name": "Central government PSUs"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ బడ్జెట్",
+     "type": "Organization",
+     "english_name": "Central government budget"
+    },
+    {
+     "name": "ఆర్థిక విధ్వంసకారులు",
+     "type": "Claim",
+     "english_name": "Economic destroyers"
+    },
+    {
+     "name": "బడ్జెట్ గణాంకాలు",
+     "type": "Claim",
+     "english_name": "Budget figures"
+    },
+    {
+     "name": "వార్షిక అప్పుల వృద్ధి రేటు",
+     "type": "Claim",
+     "english_name": "Annual debt growth rate"
+    },
+    {
+     "name": "నాన్ గ్యారంటీ అప్పులు",
+     "type": "Claim",
+     "english_name": "Non-guaranteed debt"
+    },
+    {
+     "name": "రూ.8,638 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs. 8,638 crore"
+    },
+    {
+     "name": "రూ.77,229 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs. 77,229 crore"
+    },
+    {
+     "name": "రూ.75,386 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs. 75,386 crore"
+    },
+    {
+     "name": "వార్షిక వృద్ది రేటు",
+     "type": "Claim",
+     "english_name": "Annual growth rate"
+    },
+    {
+     "name": "ఆర్థిక సంవత్సరం",
+     "type": "Organization",
+     "english_name": "Financial year"
+    },
+    {
+     "name": "GSDP",
+     "type": "Organization",
+     "english_name": "GSDP"
+    },
+    {
+     "name": "Flood Deficit",
+     "type": "Organization",
+     "english_name": "Flood Deficit"
+    },
+    {
+     "name": "IDR to GSDP",
+     "type": "Organization",
+     "english_name": "IDR to GSDP"
+    },
+    {
+     "name": "10 % recommended by the Finance Committee",
+     "type": "Organization",
+     "english_name": "10% recommended by Finance Committee"
+    },
+    {
+     "name": "5% as recommended by Finance Commission",
+     "type": "Organization",
+     "english_name": "5% recommended by Finance Commission"
+    },
+    {
+     "name": "Additional Borrowing",
+     "type": "Organization",
+     "english_name": "Additional Borrowing"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వార్షిక అప్పుల వృద్ధి రేటు",
+     "evidence": "వార్షిక అప్పుల వృద్ధి రేటు 4 శాతం తక్కువగా ఉన్నట్లు ఆయన ప్రవేశపెట్టిన బడ్జెట్ గణాంకాలలోనే స్పష్టంగా కనిపిస్తోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నాన్ గ్యారంటీ అప్పులు",
+     "evidence": "నాన్ గ్యారంటీ అప్పులు బడ్జెట్లోకి రావు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.8,638 కోట్లు",
+     "evidence": "చంద్రబాబు అధికారంలోకి వచ్చే నాటికి రూ.8,638 కోట్లుగా ఉంటే ఆయన దిగిపోయే నాటికి రూ.77,229 కోట్లకు తీసుకుపోయిన ఘనత కూడా బాబుదే."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.75,386 కోట్లు",
+     "evidence": "మా హయాంలో వాటిని రూ.75,386 కోట్లకు తగ్గించాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వార్షిక వృద్ది రేటు",
+     "evidence": "ఈ నాన్ గ్యారంటీ అప్పుల వార్షిక వృద్ది రేటు చంద్రబాబు హయాంలో 54.98 శాతం ఉంటే మా హయాంలో అది 0.48 శాతం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eec6eead7112d6c098bf0842379f16ac68861287": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aeeaa4c1e40a8e3a23321749d2eb92262a3297dc": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "సామాజిక ఆర్థిక సర్వే నివేదిక",
+     "type": "Scheme",
+     "english_name": "Socio-Economic Survey Report"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సామాజిక ఆర్థిక సర్వే నివేదిక",
+     "evidence": "ఇవేమీ నేను చెప్పిన లెక్కలు కాదు. బడ్జెట్తో పాటు చంద్రబాబు ప్రవేశపెట్టిన సామాజిక ఆర్థిక సర్వే నివేదికలో వెల్లడించిన అంశాలే ఇవన్నీ!"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c9c8d3c6cd247947dd3639fcc94b76a771fd0281": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "81c9aeff9c889c378f182faf61734fc663a3de46": {
+   "entities": [
+    {
+     "name": "2024 సామాజికార్థిక సర్వే నివేదిక",
+     "type": "Claim",
+     "english_name": "2024 Socio-Economic Survey Report"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "తలసరి ఆదాయం",
+     "type": "Claim",
+     "english_name": "Per capita income"
+    },
+    {
+     "name": "రాష్ట్ర ప్రజల తలసరి ఆదాయం",
+     "type": "Claim",
+     "english_name": "State's per capita income"
+    },
+    {
+     "name": "2018-19",
+     "type": "Issue",
+     "english_name": "2018-19"
+    },
+    {
+     "name": "2024 మార్చి",
+     "type": "Issue",
+     "english_name": "March 2024"
+    },
+    {
+     "name": "కోవిడ్ ప్రతికూల పరిస్థితులు",
+     "type": "Issue",
+     "english_name": "COVID adverse conditions"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "evidence": "చంద్రబాబు ఏ స్థాయిలో అబద్ధాలు ఆడతారో ఇంకొక ఉదాహరణ చెప్పాలి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ప్రజల తలసరి ఆదాయం",
+     "evidence": "చంద్రబాబు సర్కార్ దిగిపోయేనాటికి 2018-19లో రాష్ట్ర ప్రజల తలసరి ఆదాయం రూ.1.54 లక్షలు మాత్రమే ఉంటే"
+    },
+    {
+     "source": "రాష్ట్ర ప్రజల తలసరి ఆదాయం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "2018-19",
+     "evidence": "2018-19లో రాష్ట్ర ప్రజల తలసరి ఆదాయం రూ.1.54 లక్షలు మాత్రమే ఉంటే"
+    },
+    {
+     "source": "రాష్ట్ర ప్రజల తలసరి ఆదాయం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "2024 మార్చి",
+     "evidence": "మా హయాంలో 2024 మార్చి నాటికి రూ.2,42,479గా నమోదైంది"
+    },
+    {
+     "source": "తలసరి ఆదాయం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "కోవిడ్ ప్రతికూల పరిస్థితులు",
+     "evidence": "కరోనా ప్రతికూల పరిస్థితుల్లోనూ వైఎస్సార్సీపీ ప్రభుత్వ హయాంలో అధికంగా ఉంది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d176d38b5fe11cd23114dfbed1338db81ae5d9a1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు సర్కార్",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "2018-19",
+     "type": "Issue",
+     "english_name": "2018-19"
+    },
+    {
+     "name": "2024 మార్చి",
+     "type": "Issue",
+     "english_name": "2024 March"
+    },
+    {
+     "name": "మేకపిల్ల - కుక్కపిల్ల కథ",
+     "type": "Issue",
+     "english_name": "Goat-Puppy story"
+    },
+    {
+     "name": "గజదొంగలు",
+     "type": "Issue",
+     "english_name": "Gajadongalu"
+    },
+    {
+     "name": "సూపర్ సిక్స్లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్ సెవన్లు",
+     "type": "Scheme",
+     "english_name": "Super Sevenths"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్ర జ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "టీవీన్",
+     "type": "Organization",
+     "english_name": "TV9"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5699a94701aa0482610f4440ee756220a53e9cfb": {
+   "entities": [
+    {
+     "name": "Super Sixes",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "Super Sevens",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "డాక్టర్ ఎన్టీఆర్ వైద్య సేవ పథకం",
+     "type": "Scheme",
+     "english_name": "Dr NTR Vaidya Seva Scheme"
+    },
+    {
+     "name": "వైఎస్సార్ ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "YSR Arogyasri"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "కూటమి సర్కార్",
+     "type": "Party",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "104, 108 ఉద్యోగులు",
+     "type": "Person",
+     "english_name": "104, 108 employees"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కూటమి సర్కార్",
+     "evidence": "కూటమి సర్కార్ వ్యయం చేసినట్లు రాసుకుని.. దొం గ పబ్లిసిటీ.. అబద్ధాలు ప్రచారం చేస్తున్నారంటే"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆరోగ్యశ్రీ",
+     "evidence": "మేం 3,300 ప్రాసీజర్స్ కు పెంచి రూ.25 లక్షల వరకు పేదలకు ఉచిత వైద్యాన్ని అందించేలా పథకాన్ని విస్తరించాం"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డాక్టర్ ఎన్టీఆర్ వైద్య సేవ పథకం",
+     "evidence": "2023-24లో డాక్టర్ ఎన్టీఆర్ వైద్య సేవ పథకం అని పేర్కొన్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "evidence": "కూటమి సర్కార్ వ్యయం చేసినట్లు రాసుకుని.. దొం గ పబ్లిసిటీ.. అబద్ధాలు ప్రచారం చేస్తున్నారంటే"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9408d8d8218350556ab3291d91ae8e417404df34": {
+   "entities": [
+    {
+     "name": "FRCM",
+     "type": "Organization",
+     "english_name": "Fiscal Responsibility and Consolidation Act"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

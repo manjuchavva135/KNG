@@ -1,0 +1,140 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "aad86ae4e74532f41f849fd3cdb05f19220493dc": {
+   "entities": [
+    {
+     "name": "Sri Duvvada Srinivas",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sri Tumati Madhava Rao",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sri Rajagolla Ramesh Yadav",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Hon’ble Minister for Excise",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh Legislative Council",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Revenue (Excise) Department",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "New Liquor Policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Policy",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SUMO CLASSIC WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "BANGALORE WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ROYAL LANCER WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "TROPICANA VSOP BRANDY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "SHOT WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "BRANDY 99",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "KERALA MALTED FINE WHISKY",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Tender Committee",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "New Liquor Policy",
+     "evidence": "Yes Sir."
+    },
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SUMO CLASSIC WHISKY",
+     "evidence": "SUMO CLASSIC WHISKY"
+    },
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "BANGALORE WHISKY",
+     "evidence": "BANGALORE WHISKY"
+    },
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ROYAL LANCER WHISKY",
+     "evidence": "ROYAL LANCER WHISKY"
+    },
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "TROPICANA VSOP BRANDY",
+     "evidence": "TROPICANA VSOP BRANDY"
+    },
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "SHOT WHISKY",
+     "evidence": "SHOT WHISKY"
+    },
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "BRANDY 99",
+     "evidence": "BRANDY 99"
+    },
+    {
+     "source": "Hon’ble Minister for Excise",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "KERALA MALTED FINE WHISKY",
+     "evidence": "KERALA MALTED FINE WHISKY"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

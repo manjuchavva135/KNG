@@ -1,0 +1,108 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c161c77f4711478da786cf142d7cb60df5fba137": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "ఢిల్లీ ధర్నా",
+     "type": "Issue",
+     "english_name": "Delhi Protest"
+    },
+    {
+     "name": "సమాజ్వాదీ",
+     "type": "Party",
+     "english_name": "Samajwadi"
+    },
+    {
+     "name": "శివసేన (ఉద్దవ్ థాక్రే)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav Thackeray)"
+    },
+    {
+     "name": "ఏఐఏడీఎంకే",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "తృణమూల్ కాంగ్రెస్",
+     "type": "Party",
+     "english_name": "Trinamool Congress"
+    },
+    {
+     "name": "ఆమ్ ఆద్మీ",
+     "type": "Party",
+     "english_name": "AAP"
+    },
+    {
+     "name": "వీసీకే",
+     "type": "Party",
+     "english_name": "VCK"
+    },
+    {
+     "name": "ఇండియన్ యూనియన్ ముస్లిం లీగ్",
+     "type": "Party",
+     "english_name": "Indian Union Muslim League"
+    },
+    {
+     "name": "జేఎంఎం",
+     "type": "Party",
+     "english_name": "JMM"
+    },
+    {
+     "name": "ఎంఐఎం",
+     "type": "Party",
+     "english_name": "MIM"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "ఐయూఎంఎల్ ఎంపీ అబ్దుల్ వాహబ్",
+     "type": "Person",
+     "english_name": "IUML MP Abdul Wahab"
+    },
+    {
+     "name": "హ్యారిస్ బీరన్లు",
+     "type": "Person",
+     "english_name": "Haris Beralan"
+    },
+    {
+     "name": "శివసేన (యూబీటీ) ఎంపీ సంజయ్ రౌత్",
+     "type": "Person",
+     "english_name": "Shiv Sena (UBT) MP Sanjay Raut"
+    },
+    {
+     "name": "టీడీపీ దాడులు",
+     "type": "Issue",
+     "english_name": "TDP attacks"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధినేత వైఎస్ జగన్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

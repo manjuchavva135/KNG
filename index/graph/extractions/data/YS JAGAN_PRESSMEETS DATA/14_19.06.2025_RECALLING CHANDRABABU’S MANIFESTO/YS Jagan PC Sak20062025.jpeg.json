@@ -591,6 +591,528 @@
     }
    ],
    "relations": []
+  },
+  "713b1f2b6aa74636065523722e5a678a442ef0ca": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "ఎల్వో మీడియా టీవీ ఛానల్",
+     "type": "Organization",
+     "english_name": "LVO Media TV Channel"
+    },
+    {
+     "name": "చంద్రబాబు భూస్వాతాపతం చేస్తానంటున్నారు",
+     "type": "Claim",
+     "english_name": "Chandrababu says he will suppress"
+    },
+    {
+     "name": "చంద్రబాబు కూటమి ప్రభుత్వ మోసాలు, అబద్ధాలు, అవినీతిపై ప్రశ్నించే గొంతులను నులిమేసేందుకు తప్పుడు వాంగ్మూలాలు, సాక్ష్యాలు సృష్టి.. అక్రమంగా కేసులు బనాయించి వేధిస్తున్నారని",
+     "type": "Claim",
+     "english_name": "Chandrababu coalition government false statements, corruption, illegal cases"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు కూటమి ప్రభుత్వ మోసాలు, అబద్ధాలు, అవినీతిపై ప్రశ్నించే గొంతులను నులిమేసేందుకు తప్పుడు వాంగ్మూలాలు, సాక్ష్యాలు సృష్టి.. అక్రమంగా కేసులు బనాయించి వేధిస్తున్నారని"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు భూస్వాతాపతం చేస్తానంటున్నారు",
+     "evidence": "చంద్రబాబు భూస్వాతాపతం చేస్తానంటున్నారు"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు కూటమి ప్రభుత్వ మోసాలు, అబద్ధాలు, అవినీతిపై ప్రశ్నించే గొంతులను నులిమేసేందుకు తప్పుడు వాంగ్మూలాలు, సాక్ష్యాలు సృష్టి.. అక్రమంగా కేసులు బనాయించి వేధిస్తున్నారని",
+     "evidence": "చంద్రబాబు కూటమి ప్రభుత్వ మోసాలు, అబద్ధాలు, అవినీతిపై ప్రశ్నించే గొంతులను నులిమేసేందుకు తప్పుడు వాంగ్మూలాలు, సాక్ష్యాలు సృష్టి.. అక్రమంగా కేసులు బనాయించి వేధిస్తున్నారని"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు"
+    }
+   ]
+  },
+  "58fb8679dcb8707f04b47a8be9d5e215b9de2728": {
+   "entities": [
+    {
+     "name": "మేరుగు నాగార్జున",
+     "type": "Person",
+     "english_name": "Megu Nagarjuna"
+    },
+    {
+     "name": "దాడిశెట్టి రాజా",
+     "type": "Person",
+     "english_name": "Dadishetti Raja"
+    },
+    {
+     "name": "కొమ్మినేని శ్రీనివాస్",
+     "type": "Person",
+     "english_name": "Kommineni Srinivasa"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "పల్నాడు",
+     "type": "Place",
+     "english_name": "Palnadu"
+    },
+    {
+     "name": "పొదిలి",
+     "type": "Place",
+     "english_name": "Podili"
+    },
+    {
+     "name": "మెట్టా శైలజా",
+     "type": "Person",
+     "english_name": "Metta Sailaja"
+    },
+    {
+     "name": "గుండు శంకర్",
+     "type": "Person",
+     "english_name": "Gundu Shankar"
+    },
+    {
+     "name": "గుండు స్వాతి",
+     "type": "Person",
+     "english_name": "Gundu Swathi"
+    },
+    {
+     "name": "చౌదరి ధనలక్ష్మి",
+     "type": "Person",
+     "english_name": "Chowdhary Dhanalaxmi"
+    },
+    {
+     "name": "మెండా దాసునాయుడు",
+     "type": "Person",
+     "english_name": "Menda Dasunayudu"
+    },
+    {
+     "name": "చెవిరెడ్డి భాస్కర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Chevi Reddy Bhaskar Reddy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్ఆర్ కాంగ్రెస్ పార్టీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False cases"
+    },
+    {
+     "name": "రైతుల సమస్యలు",
+     "type": "Issue",
+     "english_name": "Farmers issues"
+    },
+    {
+     "name": "సాక్షి ఆస్తుల విధ్వంసం",
+     "type": "Issue",
+     "english_name": "Destruction of Sakshi assets"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "జగన్ చుట్టూ ఉన్న వారిని భయపెట్టాలి. చిన్న చిన్న వ్యక్తులను భయపెట్టడం, కొట్టడం, తప్పుడు వాంగ్గ్యులాలు తీసుకోవడం, తప్పుడు సాక్ష్యాలు సృష్టించి, తనకు వ్యతిరేకంగా మాట్లాడే వారిని అరెస్టు చేయడం."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "సాక్షి",
+     "evidence": "సాక్షి ఆస్తులను ధ్వంసం చేసే కార్యక్రమాన్ని వ్యవస్థీకృతంగా చేశారు."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చెవిరెడ్డి భాస్కర్ రెడ్డి",
+     "evidence": "చెవిరెడ్డి భాస్కర్ రెడ్డిని అరెస్ట్ చేశారు."
+    },
+    {
+     "source": "మెట్టా శైలజా",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "శ్రీకాకుళం టీడీపీ టౌన్ ప్రెసిడెంట్"
+    },
+    {
+     "source": "గుండు శంకర్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "శ్రీకాకుళం టీడీపీ ఎమ్మెల్యే"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "శ్రీకాకుళం",
+     "evidence": "శ్రీకాకుళం సాక్షి కార్యాలయంపై దాడి చేశారు."
+    }
+   ]
+  },
+  "1ed17a1618f2372cdb05debd1be1a2bc54c00b06": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "కె. రేవతి",
+     "type": "Person",
+     "english_name": "K. Revathi"
+    },
+    {
+     "name": "చింతల వెంకట రమణ",
+     "type": "Person",
+     "english_name": "Chintala Venkata Raman"
+    },
+    {
+     "name": "కొమ్మినేని",
+     "type": "Person",
+     "english_name": "Kommineni"
+    },
+    {
+     "name": "శిరీష",
+     "type": "Person",
+     "english_name": "Shiresha"
+    },
+    {
+     "name": "తిమ్మరాయప్ప",
+     "type": "Person",
+     "english_name": "Thirumara"
+    },
+    {
+     "name": "దళిత చిన్నారి",
+     "type": "Person",
+     "english_name": "Dalit girl"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Organization",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "నెల్లూరు",
+     "type": "Place",
+     "english_name": "Nellore"
+    },
+    {
+     "name": "ఏలూరు",
+     "type": "Place",
+     "english_name": "Eluru"
+    },
+    {
+     "name": "శ్రీసత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": "Sri Sathya Sai district"
+    },
+    {
+     "name": "రాప్తాడు",
+     "type": "Place",
+     "english_name": "Rapthadu"
+    },
+    {
+     "name": "కుప్పం",
+     "type": "Place",
+     "english_name": "Kuppam"
+    },
+    {
+     "name": "నారాయణపురం",
+     "type": "Place",
+     "english_name": "Narayanam"
+    },
+    {
+     "name": "సాక్షి కార్యాలయాలపై దాడులు",
+     "type": "Issue",
+     "english_name": "Attacks on Sakshi offices"
+    },
+    {
+     "name": "దళిత చిన్నారిపై లైంగిక దాడి",
+     "type": "Issue",
+     "english_name": "Dalit girl sexual assault"
+    },
+    {
+     "name": "కార్పొరేటర్ల కిడ్నాప్",
+     "type": "Issue",
+     "english_name": "Kidnapping of corporators"
+    },
+    {
+     "name": "కె. రేవతి మరియు చింతల వెంకట రమణ సాక్షిపై దాడి చేశారు",
+     "type": "Claim",
+     "english_name": "K. Revathi and Chintala Venkata Raman attacked Sakshi"
+    }
+   ],
+   "relations": []
+  },
+  "e8aba68f06722dda9649a3fbbdfe4e15f5243dea": {
+   "entities": [
+    {
+     "name": "పిన్నెల్లి రామకృ స్టారెడ్డి",
+     "type": "Person",
+     "english_name": "Pinnelli Ramakrishna Reddy"
+    },
+    {
+     "name": "ఆళ్ల రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Allu Ramakrishna Reddy"
+    },
+    {
+     "name": "సందిగం సురేష్",
+     "type": "Person",
+     "english_name": "Sandigam Suresh"
+    },
+    {
+     "name": "వల్లభనేని వంశీ",
+     "type": "Person",
+     "english_name": "Vallabhaneeni Vamsi"
+    },
+    {
+     "name": "జోగి రమేష్",
+     "type": "Person",
+     "english_name": "Jogireddy Ramesh"
+    },
+    {
+     "name": "కాకాణి గోవర్ధన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Kakani Govardhan Reddy"
+    },
+    {
+     "name": "కృష్ణ మోహన్",
+     "type": "Person",
+     "english_name": "Krishna Mohan"
+    },
+    {
+     "name": "దనుంజయరెడ్డి",
+     "type": "Person",
+     "english_name": "Danunjaya Reddy"
+    },
+    {
+     "name": "రాజ్ కేసిరెడ్డి",
+     "type": "Person",
+     "english_name": "Raj Kesireddy"
+    },
+    {
+     "name": "బాలాజీ",
+     "type": "Person",
+     "english_name": "Balaji"
+    },
+    {
+     "name": "గోవిందప్ప",
+     "type": "Person",
+     "english_name": "Govindappa"
+    },
+    {
+     "name": "మిథున్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Mithun Reddy"
+    },
+    {
+     "name": "పెద్దిరెడ్డి రామచంద్రారెడ్డి",
+     "type": "Person",
+     "english_name": "Peddireddy Ramachandra Reddy"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "కొండపి",
+     "type": "Place",
+     "english_name": "Kondapi"
+    },
+    {
+     "name": "చిలకలూరిపేట",
+     "type": "Place",
+     "english_name": "Chilakuripet"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆయన కొడుకు",
+     "type": "Person",
+     "english_name": "His son"
+    },
+    {
+     "name": "పేర్ని నాని",
+     "type": "Person",
+     "english_name": "Perani Nani"
+    },
+    {
+     "name": "జయసుధ",
+     "type": "Person",
+     "english_name": "Jayasudha"
+    },
+    {
+     "name": "కొడాలి నాని",
+     "type": "Person",
+     "english_name": "Kodali Nani"
+    },
+    {
+     "name": "సజ్జల రామకృష్ణారెడ్డి",
+     "type": "Person",
+     "english_name": "Sajjala Ramakrishna Reddy"
+    },
+    {
+     "name": "వైవీ సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "YV Subbareddy"
+    },
+    {
+     "name": "దేవినేని అవినాష్",
+     "type": "Person",
+     "english_name": "Devineni Avinash"
+    },
+    {
+     "name": "తలశిల రఘురాం",
+     "type": "Person",
+     "english_name": "Talashila Raghunath"
+    },
+    {
+     "name": "అంబటి రాంబాబు",
+     "type": "Person",
+     "english_name": "Ambati Rambabu"
+    },
+    {
+     "name": "విడదల రజిని",
+     "type": "Person",
+     "english_name": "Vidudala Rajini"
+    },
+    {
+     "name": "తాటిపర్తి చంద్రశేఖర్",
+     "type": "Person",
+     "english_name": "Tadiparthi Chandrasekhar"
+    },
+    {
+     "name": "బూచేపల్లి శివప్రసాద్",
+     "type": "Person",
+     "english_name": "Boochapalli Shivaprasad"
+    },
+    {
+     "name": "ఉషాచరణ్",
+     "type": "Person",
+     "english_name": "Usha Charan"
+    },
+    {
+     "name": "తోపుదుర్తి ప్రకాష్",
+     "type": "Person",
+     "english_name": "Topudarthi Prakash"
+    },
+    {
+     "name": "గోరంట్ల మాధవ్",
+     "type": "Person",
+     "english_name": "Gorantla Madhav"
+    },
+    {
+     "name": "గౌతంరెడ్డి",
+     "type": "Person",
+     "english_name": "Gautham Reddy"
+    },
+    {
+     "name": "మేరుగు నాగార్జున",
+     "type": "Person",
+     "english_name": "Merugu Nagarjuna"
+    },
+    {
+     "name": "దాడిశెట్టి రాజా",
+     "type": "Person",
+     "english_name": "Daddisetty Raja"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False cases"
+    }
+   ],
+   "relations": []
   }
  }
 }

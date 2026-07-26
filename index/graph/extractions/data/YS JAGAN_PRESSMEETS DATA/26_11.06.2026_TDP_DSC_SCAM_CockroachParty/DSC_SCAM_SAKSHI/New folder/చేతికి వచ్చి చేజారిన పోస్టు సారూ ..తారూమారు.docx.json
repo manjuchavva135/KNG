@@ -1,0 +1,703 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0ca05008c0033f43d4a3a120a5834219f236a917": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ 2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC 2025"
+    },
+    {
+     "name": "బాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Baburao Sarkar"
+    },
+    {
+     "name": "సీబీఐ విచారణ",
+     "type": "Issue",
+     "english_name": "CBI Investigation"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి నారా లోకేశ్‌",
+     "type": "Person",
+     "english_name": "Naralaokesh"
+    },
+    {
+     "name": "కె.అనిల్‌కుమార్",
+     "type": "Person",
+     "english_name": "K. Anil Kumar"
+    },
+    {
+     "name": "శ్రీకాకుళం జిల్లా",
+     "type": "Place",
+     "english_name": "Srikakulam district"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "మెరిట్‌ అభ్యర్థి",
+     "type": "Claim",
+     "english_name": "Merit Candidate"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "సాక్షి, అమరావతి",
+     "type": "Organization",
+     "english_name": "Sakshi, Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కె.అనిల్‌కుమార్",
+     "relation": "MAKES_CLAIM",
+     "target": "మెరిట్‌ అభ్యర్థి",
+     "evidence": "ఎస్సీ విభాగంలో నేను శ్రీకాకుళం జిల్లా టాపర్‌ అయినా నాకు ఉద్యోగం రాలేదు. స్పోర్ట్స్‌ కోటాలో ఒక మహిళకు ఉద్యోగం ఇచ్చారు. దీనిపై ఫిర్యాదు చేస్తే ఆ పోస్టింగ్‌ నిలిపారు. తర్వాత మెరిట్‌ అభ్యర్థిగా నాకు పోస్టింగ్‌ ఇవ్వాల్సి ఉన్నా ఆరు నెలలుగా ప్రభుత్వం స్పందించడం లేదు."
+    },
+    {
+     "source": "విద్యాశాఖ మంత్రి నారా లోకేశ్‌",
+     "relation": "ACCUSES",
+     "target": "బాబు సర్కారు",
+     "evidence": "విద్యాశాఖ మంత్రి నారా లోకేశ్‌ వెంటనే రాజీనామా చేయాలని డిమాండ్‌"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8335108c3642f60785f8a922a4eebcbf73ff6430": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ ఫలితాలు",
+     "type": "Claim",
+     "english_name": "DSC results"
+    },
+    {
+     "name": "రూల్‌ ఆఫ్‌ రిజర్వేషన్",
+     "type": "Claim",
+     "english_name": "Rule of reservation"
+    },
+    {
+     "name": "రోస్టర్‌",
+     "type": "Claim",
+     "english_name": "Roster"
+    },
+    {
+     "name": "మెరిట్‌ లిస్ట్‌",
+     "type": "Claim",
+     "english_name": "Merit list"
+    },
+    {
+     "name": "సెలక్షన్‌ లిస్ట్‌",
+     "type": "Claim",
+     "english_name": "Selection list"
+    },
+    {
+     "name": "కౌన్సెలింగ్‌",
+     "type": "Claim",
+     "english_name": "Counselling"
+    },
+    {
+     "name": "సెలెక్టెడ్‌ అభ్యర్థులు",
+     "type": "Claim",
+     "english_name": "Selected candidates"
+    },
+    {
+     "name": "పోస్టులు",
+     "type": "Claim",
+     "english_name": "Posts"
+    },
+    {
+     "name": "జిల్లా అధికారులు",
+     "type": "Organization",
+     "english_name": "District officials"
+    },
+    {
+     "name": "రాష్ట్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "State office"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e262195a4c4e3e207347aa6503b2fc4a128dbcfb": {
+   "entities": [
+    {
+     "name": "ఇ.శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "E. Srinivasulu"
+    },
+    {
+     "name": "వై.శ్రవణ్‌కుమార్‌",
+     "type": "Person",
+     "english_name": "Y. Sravan Kumar"
+    },
+    {
+     "name": "ఎస్.పృథ్వీరాజు",
+     "type": "Person",
+     "english_name": "S. Prithviraj"
+    },
+    {
+     "name": "ప్రకాశం జిల్లా",
+     "type": "Place",
+     "english_name": "Prakasam district"
+    },
+    {
+     "name": "యర్రగొండపాలెం",
+     "type": "Place",
+     "english_name": "Yerragondapalem"
+    },
+    {
+     "name": "అనకాపల్లి జిల్లా",
+     "type": "Place",
+     "english_name": "Anakapalli district"
+    },
+    {
+     "name": "రాంబిల్లి మండలం",
+     "type": "Place",
+     "english_name": "Rambilli mandal"
+    },
+    {
+     "name": "వాడ నరసాపురం",
+     "type": "Place",
+     "english_name": "Vada Narasapuram"
+    },
+    {
+     "name": "నెల్లూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Nellore district"
+    },
+    {
+     "name": "సంగం",
+     "type": "Place",
+     "english_name": "Sankam"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6f162534abfde8413d77c9bddcf9fa5c8a38d844": {
+   "entities": [
+    {
+     "name": "కాల్‌ లెటర్లు",
+     "type": "Claim",
+     "english_name": "Call letters"
+    },
+    {
+     "name": "నిర్ణీత తేదీలు",
+     "type": "Claim",
+     "english_name": "Specified dates"
+    },
+    {
+     "name": "ఒరిజినల్‌ ధ్రువపత్రాలు",
+     "type": "Claim",
+     "english_name": "Original certificates"
+    },
+    {
+     "name": "ఓకే",
+     "type": "Claim",
+     "english_name": "OK"
+    },
+    {
+     "name": "తిరస్కరణ జాబితా",
+     "type": "Claim",
+     "english_name": "Rejection list"
+    },
+    {
+     "name": "తుది ఎంపిక జాబితాలు",
+     "type": "Claim",
+     "english_name": "Final selection lists"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి కార్యాలయం",
+     "type": "Organization",
+     "english_name": "Education Department Minister's Office"
+    },
+    {
+     "name": "జిల్లా అధికారులు",
+     "type": "Organization",
+     "english_name": "District officials"
+    },
+    {
+     "name": "రాష్ట్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "State office"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "మెరిట్",
+     "type": "Claim",
+     "english_name": "Merit"
+    },
+    {
+     "name": "న్యాయ పోరాటం",
+     "type": "Claim",
+     "english_name": "Legal battle"
+    },
+    {
+     "name": "ఎం.ఏకాంబరం",
+     "type": "Person",
+     "english_name": "M. Ekambaram"
+    },
+    {
+     "name": "బీసీ–డి",
+     "type": "Claim",
+     "english_name": "BC-D"
+    },
+    {
+     "name": "125వ ర్యాంకు",
+     "type": "Claim",
+     "english_name": "125th rank"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "మద్దిశెట్టిపల్లి",
+     "type": "Place",
+     "english_name": "Maddishettipalli"
+    },
+    {
+     "name": "ఆగస్టు 28",
+     "type": "Claim",
+     "english_name": "August 28"
+    },
+    {
+     "name": "సర్టిఫికెట్ల పరిశీలన",
+     "type": "Claim",
+     "english_name": "Certificate verification"
+    },
+    {
+     "name": "అధికారులు",
+     "type": "Organization",
+     "english_name": "Officials"
+    },
+    {
+     "name": "సెలక్షన్‌ లిస్టు",
+     "type": "Claim",
+     "english_name": "Selection list"
+    },
+    {
+     "name": "రిజెక్ట్‌ లిస్టు",
+     "type": "Claim",
+     "english_name": "Reject list"
+    },
+    {
+     "name": "డీఈవో",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "టి.విజయలక్ష్మి",
+     "type": "Person",
+     "english_name": "T. Vijayalakshmi"
+    },
+    {
+     "name": "ఓసీ",
+     "type": "Claim",
+     "english_name": "OC"
+    },
+    {
+     "name": "స్కూల్‌ అసిస్టెంట్‌ (ఇంగి్లష్‌) ఎస్జీటీ",
+     "type": "Claim",
+     "english_name": "School Assistant (English) SGT"
+    },
+    {
+     "name": "647వ ర్యాంకు",
+     "type": "Claim",
+     "english_name": "647th rank"
+    },
+    {
+     "name": "ఆగస్టు 29",
+     "type": "Claim",
+     "english_name": "August 29"
+    },
+    {
+     "name": "ఫైనల్‌ ఎంపిక జాబితా",
+     "type": "Claim",
+     "english_name": "Final selection list"
+    },
+    {
+     "name": "క్రీడల కోటా",
+     "type": "Claim",
+     "english_name": "Sports quota"
+    },
+    {
+     "name": "కటాఫ్‌",
+     "type": "Claim",
+     "english_name": "Cutoff"
+    },
+    {
+     "name": "ఇ.శ్రీనివాసులు",
+     "type": "Person",
+     "english_name": "E. Srinivasaulu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎం.ఏకాంబరం",
+     "relation": "MAKES_CLAIM",
+     "target": "కాల్‌ లెటర్లు",
+     "evidence": "కాల్‌ లెటర్లు పంపిన వారిని నిర్ణీత తేదీల్లో ఒరిజినల్‌ ధ్రువపత్రాలతో హాజరు కావాలని లేఖల్లో పేర్కొన్నారు."
+    },
+    {
+     "source": "ఎం.ఏకాంబరం",
+     "relation": "MAKES_CLAIM",
+     "target": "ఓకే",
+     "evidence": "చెక్‌ లిస్టు సరి చూసుకున్న తర్వాత వారిని ‘ఓకే’ కూడా చేశారు."
+    },
+    {
+     "source": "ఎం.ఏకాంబరం",
+     "relation": "MAKES_CLAIM",
+     "target": "తుది ఎంపిక జాబితాలు",
+     "evidence": "తుది ఎంపిక జాబితాల్లో నుంచి తొలగించడం గమనార్హం."
+    },
+    {
+     "source": "ఎం.ఏకాంబరం",
+     "relation": "MAKES_CLAIM",
+     "target": "సెలక్షన్‌ లిస్టు",
+     "evidence": "సెలక్షన్‌ లిస్టులో అతడి పేరు లేదు."
+    },
+    {
+     "source": "ఎం.ఏకాంబరం",
+     "relation": "MAKES_CLAIM",
+     "target": "రిజెక్ట్‌ లిస్టు",
+     "evidence": "అంతకు ముందే పెట్టిన రిజెక్ట్‌ లిస్టులోనూ ఏకాంబరం పేరు లేదు."
+    },
+    {
+     "source": "టి.విజయలక్ష్మి",
+     "relation": "MAKES_CLAIM",
+     "target": "ఫైనల్‌ ఎంపిక జాబితా",
+     "evidence": "ఫైనల్‌ ఎంపిక జాబితాలో మాత్రం పేరు లేదు."
+    },
+    {
+     "source": "టి.విజయలక్ష్మి",
+     "relation": "MAKES_CLAIM",
+     "target": "రిజెక్ట్‌ లిస్టు",
+     "evidence": "అటు రిజెక్ట్‌ లిస్టులో కూడా పేరు లేదు."
+    },
+    {
+     "source": "ఇ.శ్రీనివాసులు",
+     "relation": "MAKES_CLAIM",
+     "target": "కాల్‌ లెటర్లు",
+     "evidence": "సర్టిఫికెట్ల వెరిఫికేషన్‌కు రావాలంటూ ఇ.శ్రీనివాసులుకు వచ్చిన కాల్‌ లెటర్‌"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d00cb3ca1d5da57f50ce1fece2a9c889f0a5c349": {
+   "entities": [
+    {
+     "name": "తీరని అన్యాయం..",
+     "type": "Claim",
+     "english_name": "Unfulfilled Injustice"
+    },
+    {
+     "name": "సర్టిఫికెట్ల వెరిఫికేషన్‌కు కొంతమందికి మాత్రమే వ్యక్తిగతంగా సందేశాలు పంపి పిలిచారు.",
+     "type": "Claim",
+     "english_name": "Certificate verification messages sent only to some"
+    },
+    {
+     "name": "రిజర్వేషన్‌ నిబంధనలను సక్రమంగా అమలు చేయలేదు.",
+     "type": "Claim",
+     "english_name": "Reservation rules not properly implemented"
+    },
+    {
+     "name": "ఇంగ్లీష్‌ ప్రొఫిఫియెన్సీ టెస్ట్‌ మార్కులను పారదర్శకంగా ప్రకటించలేదు.",
+     "type": "Claim",
+     "english_name": "English proficiency test marks not announced transparently"
+    },
+    {
+     "name": "ఒకే అభ్యర్థి అనేక పోస్టుల జాబితాల్లో కొనసాగడంతో పలువురు అర్హులు ఉద్యోగాలను కోల్పోయారు.",
+     "type": "Claim",
+     "english_name": "Same candidate remained in multiple post lists causing eligible candidates to lose jobs"
+    },
+    {
+     "name": "దేవరకొండ వెంకట్రావు దర్శి, ప్రకాశం జిల్లా",
+     "type": "Person",
+     "english_name": "Devareddy Venkatarao Darshi"
+    },
+    {
+     "name": "డీఎస్సీ 2025లో బయాలజీ సైన్స్‌ ఉర్దూ మీడియం పరీక్ష రాశా.",
+     "type": "Claim",
+     "english_name": "Took biology science Urdu medium exam in DSC 2025"
+    },
+    {
+     "name": "57.77 మార్కులు వచ్చాయి.",
+     "type": "Claim",
+     "english_name": "Scored 57.77 marks"
+    },
+    {
+     "name": "ఓసీ ఈడబ్ల్యూఎస్‌ కేటగిరీకి చెందిన నాకు ఎస్‌ఏ పోస్టు ఇవ్వాలి.",
+     "type": "Claim",
+     "english_name": "Should be given SA post as OC EWS category"
+    },
+    {
+     "name": "నాకివ్వాల్సిన పోస్టును బీసీ–ఈ అభ్యర్థికి ఇచ్చారు.",
+     "type": "Claim",
+     "english_name": "My post was given to BC-E candidate"
+    },
+    {
+     "name": "సయ్యద్‌ జమీల్, రాయచోటి, అన్నమయ్య జిల్లా",
+     "type": "Person",
+     "english_name": "Syed Jameel"
+    }
+   ],
+   "relations": [
+    {
+     "source": "దేవరకొండ వెంకట్రావు దర్శి, ప్రకాశం జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "తీరని అన్యాయం..",
+     "evidence": "తీరని అన్యాయం.."
+    },
+    {
+     "source": "దేవరకొండ వెంకట్రావు దర్శి, ప్రకాశం జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "సర్టిఫికెట్ల వెరిఫికేషన్‌కు కొంతమందికి మాత్రమే వ్యక్తిగతంగా సందేశాలు పంపి పిలిచారు.",
+     "evidence": "సర్టిఫికెట్ల వెరిఫికేషన్‌కు కొంతమందికి మాత్రమే వ్యక్తిగతంగా సందేశాలు పంపి పిలిచారు."
+    },
+    {
+     "source": "దేవరకొండ వెంకట్రావు దర్శి, ప్రకాశం జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "రిజర్వేషన్‌ నిబంధనలను సక్రమంగా అమలు చేయలేదు.",
+     "evidence": "రిజర్వేషన్‌ నిబంధనలను సక్రమంగా అమలు చేయలేదు."
+    },
+    {
+     "source": "దేవరకొండ వెంకట్రావు దర్శి, ప్రకాశం జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇంగ్లీష్‌ ప్రొఫిఫియెన్సీ టెస్ట్‌ మార్కులను పారదర్శకంగా ప్రకటించలేదు.",
+     "evidence": "ఇంగ్లీష్‌ ప్రొఫిఫియెన్సీ టెస్ట్‌ మార్కులను పారదర్శకంగా ప్రకటించలేదు."
+    },
+    {
+     "source": "దేవరకొండ వెంకట్రావు దర్శి, ప్రకాశం జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "ఒకే అభ్యర్థి అనేక పోస్టుల జాబితాల్లో కొనసాగడంతో పలువురు అర్హులు ఉద్యోగాలను కోల్పోయారు.",
+     "evidence": "ఒకే అభ్యర్థి అనేక పోస్టుల జాబితాల్లో కొనసాగడంతో పలువురు అర్హులు ఉద్యోగాలను కోల్పోయారు."
+    },
+    {
+     "source": "సయ్యద్‌ జమీల్, రాయచోటి, అన్నమయ్య జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "డీఎస్సీ 2025లో బయాలజీ సైన్స్‌ ఉర్దూ మీడియం పరీక్ష రాశా.",
+     "evidence": "డీఎస్సీ 2025లో బయాలజీ సైన్స్‌ ఉర్దూ మీడియం పరీక్ష రాశా."
+    },
+    {
+     "source": "సయ్యద్‌ జమీల్, రాయచోటి, అన్నమయ్య జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "57.77 మార్కులు వచ్చాయి.",
+     "evidence": "57.77 మార్కులు వచ్చాయి."
+    },
+    {
+     "source": "సయ్యద్‌ జమీల్, రాయచోటి, అన్నమయ్య జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "ఓసీ ఈడబ్ల్యూఎస్‌ కేటగిరీకి చెందిన నాకు ఎస్‌ఏ పోస్టు ఇవ్వాలి.",
+     "evidence": "ఓసీ ఈడబ్ల్యూఎస్‌ కేటగిరీకి చెందిన నాకు ఎస్‌ఏ పోస్టు ఇవ్వాలి."
+    },
+    {
+     "source": "సయ్యద్‌ జమీల్, రాయచోటి, అన్నమయ్య జిల్లా",
+     "relation": "MAKES_CLAIM",
+     "target": "నాకివ్వాల్సిన పోస్టును బీసీ–ఈ అభ్యర్థికి ఇచ్చారు.",
+     "evidence": "నాకివ్వాల్సిన పోస్టును బీసీ–ఈ అభ్యర్థికి ఇచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5c97da2441f7dcb06772fa9184660e2ffdf2d832": {
+   "entities": [
+    {
+     "name": "ఆర్జేడీ కార్యాలయం",
+     "type": "Organization",
+     "english_name": "RJD office"
+    },
+    {
+     "name": "ఎస్.పృథ్వీరాజు",
+     "type": "Person",
+     "english_name": "S. Prithviraj"
+    },
+    {
+     "name": "నెల్లూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Nellore district"
+    },
+    {
+     "name": "సంగం గ్రామం",
+     "type": "Place",
+     "english_name": "Sangaam village"
+    },
+    {
+     "name": "బీసీ–బీ",
+     "type": "Party",
+     "english_name": "BC-B"
+    },
+    {
+     "name": "టీజీటీ తెలుగు జోన్‌–2",
+     "type": "Organization",
+     "english_name": "TGT Telugu Zone-2"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "విద్యాభవన్",
+     "type": "Organization",
+     "english_name": "Vidyabhavan"
+    },
+    {
+     "name": "బండారు యమున",
+     "type": "Person",
+     "english_name": "Bandaru Yamuna"
+    },
+    {
+     "name": "బీసీ–డీ మహిళ",
+     "type": "Party",
+     "english_name": "BC-D woman"
+    },
+    {
+     "name": "విశాఖ జిల్లా",
+     "type": "Place",
+     "english_name": "Visakhapatnam district"
+    },
+    {
+     "name": "ఫిజికల్‌ సైన్స్‌",
+     "type": "Organization",
+     "english_name": "Physical Science"
+    },
+    {
+     "name": "స్పోర్ట్సు కోటా",
+     "type": "Scheme",
+     "english_name": "Sports quota"
+    },
+    {
+     "name": "జనరల్‌ విభాగం",
+     "type": "Organization",
+     "english_name": "General category"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "షేక్‌ నసీమూన్‌",
+     "type": "Person",
+     "english_name": "Sheikh Naseemun"
+    },
+    {
+     "name": "బీసీ–ఈ",
+     "type": "Party",
+     "english_name": "BC-E"
+    },
+    {
+     "name": "స్కూల్‌ అసిస్టెంట్‌ బయాలజీ సైన్స్‌",
+     "type": "Organization",
+     "english_name": "School Assistant Biology Science"
+    },
+    {
+     "name": "సెప్టెంబర్‌ 7",
+     "type": "Place",
+     "english_name": "September 7"
+    },
+    {
+     "name": "జిల్లా కేంద్రం",
+     "type": "Place",
+     "english_name": "District headquarters"
+    },
+    {
+     "name": "ఎంపిక జాబితా",
+     "type": "Organization",
+     "english_name": "Selection list"
+    },
+    {
+     "name": "బై మిస్టేక్‌",
+     "type": "Organization",
+     "english_name": "By mistake"
+    },
+    {
+     "name": "జిల్లా కలెక్టర్",
+     "type": "Organization",
+     "english_name": "District Collector"
+    },
+    {
+     "name": "డీఈవో",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "రిజెక్టెడ్",
+     "type": "Organization",
+     "english_name": "Rejected"
+    },
+    {
+     "name": "సెలెక్టెడ్‌ లిస్ట్‌",
+     "type": "Organization",
+     "english_name": "Selected list"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports quota"
+    },
+    {
+     "name": "872",
+     "type": "Person",
+     "english_name": "872"
+    },
+    {
+     "name": "198వ ర్యాంక్‌",
+     "type": "Person",
+     "english_name": "198th rank"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "ఓపెన్‌ కేటగిరి",
+     "type": "Organization",
+     "english_name": "Open category"
+    },
+    {
+     "name": "30 పోస్ట్‌లు",
+     "type": "Organization",
+     "english_name": "30 posts"
+    },
+    {
+     "name": "87వ ర్యాంకు",
+     "type": "Person",
+     "english_name": "87th rank"
+    },
+    {
+     "name": "రాజమండ్రి",
+     "type": "Place",
+     "english_name": "Rajamahendravaram"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

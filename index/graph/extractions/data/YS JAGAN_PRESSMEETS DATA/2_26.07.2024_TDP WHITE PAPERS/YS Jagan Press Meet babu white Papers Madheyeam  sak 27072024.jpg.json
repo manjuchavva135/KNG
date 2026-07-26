@@ -1,0 +1,1194 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "879f5f1660ae4a2f7a78d130b3e0408dfdc86193": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "సూపర్ టెన్",
+     "type": "Scheme",
+     "english_name": "Super Ten"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "విద్యుత్ సంస్థలు",
+     "type": "Organization",
+     "english_name": "Power Institutions"
+    },
+    {
+     "name": "గవర్నర్ ప్రసంగం",
+     "type": "Organization",
+     "english_name": "Governor's Speech"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవన్, సూపర్ టెన్ అం టూ చంద్రబాబు హామీలిచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవన్",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవన్, సూపర్ టెన్ అం టూ చంద్రబాబు హామీలిచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ టెన్",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవన్, సూపర్ టెన్ అం టూ చంద్రబాబు హామీలిచ్చారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఎక్కువ అప్పులు చేసిన బాబు గొప్పవాడా? తక్కువ చేసిన మేం ఆర్థిక విధ్వంసకారులమా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "24fafe05183d0daaad3174546520eed47890e85a": {
+   "entities": [
+    {
+     "name": "రూ.4.85 లక్షల కోట్లు మాత్రమే అప్పులు",
+     "type": "Claim",
+     "english_name": "Rs.4.85 lakh crore debt"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఫ్యాక్ట్ షీట్",
+     "type": "Scheme",
+     "english_name": "Fact Sheet"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "కేంద్ర సామాజిక ఆర్థిక సర్వే",
+     "type": "Organization",
+     "english_name": "Central Socio-Economic Survey"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "రాష్ట్ర ఆర్థిక పరిస్థితిపై సీఎం చంద్రబాబు ప్రకటించిన శ్వేతపత్రం అబద్ధాలమయమని, అదో తప్పుడు పత్రమని మాజీ సీఎం, వైఎస్సార్ సీపీ అధ్యక్షుడు వైఎస్ జగన్మోహన్రెడ్డి ధ్వజమెత్తారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఫ్యాక్ట్ షీట్",
+     "evidence": "రాష్ట్ర అప్పులపై తాము ఫ్యాక్ట్ షీట్ విడుదల చేస్తున్నట్లు ప్రకటించారు."
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.4.85 లక్షల కోట్లు మాత్రమే అప్పులు",
+     "evidence": "రూ.4.85 లక్షల కోట్లు మాత్రమే అప్పులున్నట్లు రాజ్యసభకు తెలియచేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.4.85 లక్షల కోట్లు మాత్రమే అప్పులు",
+     "evidence": "రాష్ట్ర అప్పులపై తాము ఫ్యాక్ట్ షీట్ విడుదల చేస్తున్నట్లు ప్రకటించారు."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b9c3fc06dcb3c748c5b6b4d60d1153d068ed026b": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2d7e9c10b1e2b85950c5f3d1e249a6c121c8b396": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "26864e997175d21fe96751ed73bdadff426e1458": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "07d808804796ed6a5c06a0dbff517d63af4ad85e": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b7bbd8b822ac31a9845dfa4d86cc2627e841289a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "db5289bfe8117bb01419db61af37f62eb6662fae": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "565f7e1af3c9548008e0ee5de4963a63da92b231": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "25c4cbeb924231bad6ea96d861f42d36626b4d93": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bece256d6ad659300436eb05992fb19921eb2084": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b6ad69fe6a7590e1c983212110ed0760824306c6": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అసలు అప్పెంత?",
+     "type": "Issue",
+     "english_name": "Actual Debt"
+    },
+    {
+     "name": "బాబు బొంకెంత?",
+     "type": "Issue",
+     "english_name": "Babur's Promise"
+    },
+    {
+     "name": "మా వాస్తవ పత్రం: వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Claim",
+     "english_name": "Our White Paper: Y. S. Jaganmohan Reddy"
+    },
+    {
+     "name": "ఎన్నికలప్పుడు రూ.14 లక్షల కోట్లు అన్నావ్..",
+     "type": "Claim",
+     "english_name": "During elections you said Rs 14 lakh crore"
+    },
+    {
+     "name": "గవర్నర్ ప్రసంగంలో రూ.10 లక్షల కోట్ల అప్పులని చెప్పించావ్",
+     "type": "Claim",
+     "english_name": "You had the Governor say Rs 10 lakh crore debt in his speech"
+    },
+    {
+     "name": "వాస్తవానికి ఉన్న అప్పులన్నీ రూ.7.48 లక్షల కోట్లే",
+     "type": "Claim",
+     "english_name": "Actually the total debt is only Rs 7.48 lakh crore"
+    },
+    {
+     "name": "హామీలపై తప్పించుకునేందుకే చంద్రబాబు దుష్ప్రచారం",
+     "type": "Claim",
+     "english_name": "Chandrababu spreads false propaganda on guarantees"
+    },
+    {
+     "name": "ఆ అబద్ధాలు బట్టబయలవుతాయని భయంతోనే",
+     "type": "Claim",
+     "english_name": "Out of fear that those lies will be exposed"
+    },
+    {
+     "name": "రెగ్యులర్ బడ్జెట్ ప్రవేశపెట్టకుండా డ్రామాలు",
+     "type": "Claim",
+     "english_name": "Drama without presenting a regular budget"
+    },
+    {
+     "name": "ఏడు నెలలకు ఓట్ ఆన్ అకౌంట్ దేశంలో ఎక్కడా చూడలేదు",
+     "type": "Claim",
+     "english_name": "Never seen an 'Vote on Account' for seven months in the country"
+    },
+    {
+     "name": "ఎన్నికల ప్రచారంలో రాష్ట్ర అప్పలు",
+     "type": "Claim",
+     "english_name": "State debt during election campaign"
+    },
+    {
+     "name": "రూ.14 లక్షల కోట్లు అని చంద్రబాబు దుష్ప్రచారం",
+     "type": "Claim",
+     "english_name": "Chandrababu spreads false propaganda that it is Rs 14 lakh crore"
+    },
+    {
+     "name": "చేశారు.",
+     "type": "Claim",
+     "english_name": "He did it."
+    },
+    {
+     "name": "సూపర్ సిక్స్, సూపర్ టెన్ అంటూ ఎడాపెడా",
+     "type": "Claim",
+     "english_name": "Super Six, Super Ten promises"
+    },
+    {
+     "name": "హామీలిచ్చి అధికారంలోకి వచ్చాక రూ.10 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": "After giving promises and coming to power, Rs 10 lakh crore"
+    },
+    {
+     "name": "అప్ప ఉందంటూ గవర్నర్ ప్రసంగంలో చెప్పించారు.",
+     "type": "Claim",
+     "english_name": "He said in the Governor's speech that there is Rs 10 lakh crore debt."
+    },
+    {
+     "name": "కానీ రాష్ట్రానికి ఉన్న మొత్తం అప్పలు రూ.7.48 లక్షల",
+     "type": "Claim",
+     "english_name": "But the total debt of the state is only Rs 7.48 lakh crore."
+    },
+    {
+     "name": "కోట్లే.",
+     "type": "Claim",
+     "english_name": "Crores."
+    },
+    {
+     "name": "గవర్నర్తో అబద్ధాలు చెప్పించడం ధర్మమేనా?",
+     "type": "Claim",
+     "english_name": "Is it right to make the Governor say lies?"
+    },
+    {
+     "name": "మీతో తప్పులు చెప్పించిన సీఎం చంద్రబాబును",
+     "type": "Claim",
+     "english_name": "The Chief Minister Chandrababu who made you say mistakes"
+    },
+    {
+     "name": "మందలించాలని కోరుతూ",
+     "type": "Claim",
+     "english_name": "I will write a letter to the Governor requesting to reprimand him."
+    },
+    {
+     "name": "గవర్నర్కు లేఖ రాస్తా.",
+     "type": "Claim",
+     "english_name": "I will write a letter to the Governor."
+    },
+    {
+     "name": "2019 మే 30 నాటికి మేం అధికారంలోకి వచ్చేనాటికి రాష్ట్ర ఖజానాలో",
+     "type": "Claim",
+     "english_name": "As of May 30, 2019, when we came to power, the state treasury had"
+    },
+    {
+     "name": "రూ.వంద కోట్లే ఉన్నాయని స్వయంగా చంద్రబాబు గెజిట్ 'ఈనాడు' కథనాన్ని",
+     "type": "Claim",
+     "english_name": "Rs 100 crore, as per Chandrababu's own Gazette 'Eenadu' article"
+    },
+    {
+     "name": "ప్రచురించింది.",
+     "type": "Claim",
+     "english_name": "Published."
+    },
+    {
+     "name": "ఇప్పుడు చంద్రబాబు సీఎంగా బాధ్యతలు చేపట్టిన జూన్ 12 నాటికి",
+     "type": "Claim",
+     "english_name": "Now as of June 12 when Chandrababu took charge as CM"
+    },
+    {
+     "name": "ఖజానాలో రూ.7-8 వేల కోట్లు అందుబాటులో ఉన్నాయి.",
+     "type": "Claim",
+     "english_name": "Rs 7-8 thousand crore is available in the treasury."
+    },
+    {
+     "name": "నాడు రూ.వంద కోట్లే ఉన్నా రూ.2.27 లక్షల కోట్లతో 2019-20 పూర్తి స్థాయి బడ్జెట్ ప్రవేశపెట్టాం.",
+     "type": "Claim",
+     "english_name": "Even then with Rs 100 crore we presented a full budget of Rs 2.27 lakh crore for 2019-20."
+    },
+    {
+     "name": "హామీ",
+     "type": "Claim",
+     "english_name": "Promise"
+    },
+    {
+     "name": "లన్నీ అమలు చేశాం.",
+     "type": "Claim",
+     "english_name": "We implemented all promises."
+    },
+    {
+     "name": "ఇప్పుడు రూ.7-8 వేల కోట్ల నిధులున్నా పూర్తి స్థాయి బడ్జెట్ ప్రవేశపెట్టేందుకు చంద్రబాబు భయపడుతున్నారు.",
+     "type": "Claim",
+     "english_name": "Now Chandrababu is afraid to present a full budget even with Rs 7-8 thousand crore funds."
+    },
+    {
+     "name": "పూర్తి బడ్జెట్ ప్రవేశపెడితే అప్పలపై",
+     "type": "Claim",
+     "english_name": "If a full budget is presented, on debt"
+    },
+    {
+     "name": "తాను",
+     "type": "Claim",
+     "english_name": "He"
+    },
+    {
+     "name": "అమలు చేస్తా.",
+     "type": "Claim",
+     "english_name": "Will implement."
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Scheme",
+     "english_name": "Budget"
+    },
+    {
+     "name": "పథకం",
+     "type": "Scheme",
+     "english_name": "Scheme"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": "DBT"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "బాబు",
+     "evidence": "చెప్పినవన్నీ అబద్ధాలేనన్న విషయం ప్రజలకు తెలుస్తుందన్నది బాబు భయం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "68334650b72602881987b25cdf61bdbaed0298d6": {
+   "entities": [
+    {
+     "name": "reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled reveled",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ది. ఎన్టీఆర్కు వెన్నుపోటు పొడిచినప్పుడు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీజేపీతో పొత్తు పెట్టుకున్నప్పుడు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వేరు పడినప్పు డు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మళ్లీ ఇప్పుడు పొత్తు పెట్టుకున్నప్పుడూ ఇదే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికల్లో హామీలు ఇచ్చినప్పుడు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాటిని ఎగ్గొట్టేటప్పుడు కూడా ఇదే విధానం!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర ఆర్థిక పరిస్థితి దిగజారిపోయిం ది..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పూర్తిస్థాయి బడ్జెట్ ప్రవేశపెట్టలేకపోతున్నారంటూ ప్రచారం చేస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రం నిజంగా ఆర్ధికంగా ధ్వంసమైందా?",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "94ebb938cf64da8a0de8cf4e05bfe090610bd258": {
+   "entities": [
+    {
+     "name": "కోవిడ్ సమయంలో కేంద్ర పన్నుల్లో",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర వాటా గణనీయంగా తగ్గింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర పన్నుల వసూళ్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2019-20",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2020-21",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ పన్నుల వసూళ్లలో పెరుగుదల",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ పన్నుల వసూళ్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర పన్నుల్లో రాష్ట్ర వాటా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీఎస్డీపీ నిష్పత్తిలో",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అసలు రంగు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గత 52 రోజులుగా రాష్ట్రం పురోగమిస్తోందో తిరోగ మిస్తోందో",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాధితులపైనే అక్రమ కేసులు బనాయిస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అణిచి వేసే పాలన కొనసాగుతోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ప్రభుత్వం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఓటాన్ అకౌంట్ బడ్జెట్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "మోసపూరిత హామీలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజలు రోడ్డు మీదకు వచ్చి నిలదీస్తారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రెగ్యులర్ బడ్జెట్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాల్యూమ్ 6",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాల్యూమ్ 5",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం గ్యారంటీ ఇచ్చిన అప్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికల ప్రచారం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు విధానం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు మోడస్ ఆపరండీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వంచన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గోబెల్స్ ప్రచారం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "టీవీ 5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "మంత్రులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రం క్లిష్ట పరిస్థితుల్లో ఉంది",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కోవిడ్ సమయంలో కేంద్ర పన్నుల్లో",
+     "evidence": "కోవిడ్ సమయంలో కేంద్ర పన్నుల్లో"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర వాటా గణనీయంగా తగ్గింది",
+     "evidence": "రాష్ట్ర వాటా గణనీయంగా తగ్గింది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర పన్నుల వసూళ్లు",
+     "evidence": "కేంద్ర పన్నుల వసూళ్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2019-20",
+     "evidence": "2019-20"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2020-21",
+     "evidence": "2020-21"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర ప్రభుత్వ పన్నుల వసూళ్లలో పెరుగుదల",
+     "evidence": "కేంద్ర ప్రభుత్వ పన్నుల వసూళ్లలో పెరుగుదల"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర ప్రభుత్వ పన్నుల వసూళ్లు",
+     "evidence": "కేంద్ర ప్రభుత్వ పన్నుల వసూళ్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర పన్నుల్లో రాష్ట్ర వాటా",
+     "evidence": "కేంద్ర పన్నుల్లో రాష్ట్ర వాటా"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "జీఎస్డీపీ నిష్పత్తిలో",
+     "evidence": "జీఎస్డీపీ నిష్పత్తిలో"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అసలు రంగు",
+     "evidence": "అసలు రంగు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గత 52 రోజులుగా రాష్ట్రం పురోగమిస్తోందో తిరోగ మిస్తోందో",
+     "evidence": "గత 52 రోజులుగా రాష్ట్రం పురోగమిస్తోందో తిరోగ మిస్తోందో"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బాధితులపైనే అక్రమ కేసులు బనాయిస్తున్నారు",
+     "evidence": "బాధితులపైనే అక్రమ కేసులు బనాయిస్తున్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "అణిచి వేసే పాలన కొనసాగుతోంది",
+     "evidence": "అణిచి వేసే పాలన కొనసాగుతోంది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఈ ప్రభుత్వం",
+     "evidence": "ఈ ప్రభుత్వం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఓటాన్ అకౌంట్ బడ్జెట్",
+     "evidence": "ఓటాన్ అకౌంట్ బడ్జెట్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మోసపూరిత హామీలు",
+     "evidence": "మోసపూరిత హామీలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలు రోడ్డు మీదకు వచ్చి నిలదీస్తారు",
+     "evidence": "ప్రజలు రోడ్డు మీదకు వచ్చి నిలదీస్తారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రెగ్యులర్ బడ్జెట్",
+     "evidence": "రెగ్యులర్ బడ్జెట్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వాల్యూమ్ 6",
+     "evidence": "వాల్యూమ్ 6"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వాల్యూమ్ 5",
+     "evidence": "వాల్యూమ్ 5"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పులు",
+     "evidence": "రాష్ట్ర అప్పులు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ప్రభుత్వం గ్యారంటీ ఇచ్చిన అప్పు",
+     "evidence": "రాష్ట్ర ప్రభుత్వం గ్యారంటీ ఇచ్చిన అప్పు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్నికల ప్రచారం",
+     "evidence": "ఎన్నికల ప్రచారం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు విధానం",
+     "evidence": "చంద్రబాబు విధానం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు మోడస్ ఆపరండీ",
+     "evidence": "చంద్రబాబు మోడస్ ఆపరండీ"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వంచన",
+     "evidence": "వంచన"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గోబెల్స్ ప్రచారం",
+     "evidence": "గోబెల్స్ ప్రచారం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్రం క్లిష్ట పరిస్థితుల్లో ఉంది",
+     "evidence": "రాష్ట్రం క్లిష్ట పరిస్థితుల్లో ఉంది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d53dc07c7ae9a8c971016dd1d39f14dc3ecab804": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Centre"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వ అప్పలు",
+     "type": "Claim",
+     "english_name": "State Government Debt"
+    },
+    {
+     "name": "ప్రభుత్వ గ్యారంటీతో అప్పులు",
+     "type": "Claim",
+     "english_name": "Debt with Government Guarantee"
+    },
+    {
+     "name": "విద్యుత్ సంస్థలపై అప్పులు",
+     "type": "Claim",
+     "english_name": "Debt on Power Institutions"
+    },
+    {
+     "name": "విద్యుదుత్పత్తి సంస్థలకు చెల్లించాల్సిన అప్పులు",
+     "type": "Claim",
+     "english_name": "Debt Payable to Power Generation Institutions"
+    },
+    {
+     "name": "మొత్తం విద్యుత్ రంగ అప్పులు",
+     "type": "Claim",
+     "english_name": "Total Power Sector Debt"
+    },
+    {
+     "name": "మొత్తం అప్పులు",
+     "type": "Claim",
+     "english_name": "Total Debt"
+    },
+    {
+     "name": "కేంద్ర పన్నుల్లో రాష్ట్ర వాటా",
+     "type": "Claim",
+     "english_name": "State Share in Central Taxes"
+    },
+    {
+     "name": "జీఎస్డీపీ",
+     "type": "Claim",
+     "english_name": "GSDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర ప్రభుత్వ అప్పలు",
+     "evidence": "చంద్రబాబు శ్వేతపత్రంలో చెప్పిన అంశాలను.. వాస్తవపత్రం పేరుతో నేను చెప్పిన వాటిని ఒక్కసారి బేరీజు వేసి పరిశీలించండి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్ర పన్నుల్లో రాష్ట్ర వాటా",
+     "evidence": "కేంద్రం నుంచి రాష్ట్రానికి పన్నుల వాటా కింద రూ.5,655 కోట్లు వచ్చాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5d885cc5a3c79437bb4939ed81c0c1cb9b8c023e": {
+   "entities": [
+    {
+     "name": "కేంద్ర పన్నుల్లో రాష్ట్ర వాటా",
+     "type": "Issue",
+     "english_name": "State share in central taxes"
+    },
+    {
+     "name": "జీఎస్డీపీ",
+     "type": "Issue",
+     "english_name": "GSDP"
+    },
+    {
+     "name": "కేంద్ర పనుల్లో సగటు వాటా(జీఎస్డీపీ)",
+     "type": "Issue",
+     "english_name": "Average share in central works (GSDP)"
+    },
+    {
+     "name": "టీడీపీ ప్రభుత్వ హయాంలో",
+     "type": "Organization",
+     "english_name": "TDP government"
+    },
+    {
+     "name": "వైస్సార్సీపీ ప్రభుత్వ హయాంలో",
+     "type": "Organization",
+     "english_name": "YSRCP government"
+    },
+    {
+     "name": "కరోనా విపత్కర పరిస్థితులు",
+     "type": "Issue",
+     "english_name": "COVID-19 pandemic"
+    },
+    {
+     "name": "అప్పులు చేసుకోవడానికి ఎఫ్ఆర్బీఎం చట్టం",
+     "type": "Scheme",
+     "english_name": "FRBM Act"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అప్పులు చేసుకోవడానికి ఎఫ్ఆర్బీఎం చట్టం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "కేంద్ర పన్నుల్లో రాష్ట్ర వాటా",
+     "evidence": "అప్పులు చేసుకోవడానికి ఎఫ్ఆర్బీఎం చట్టం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b9f26b357cd2c593de56c31a0616ace20ee87d09": {
+   "entities": [
+    {
+     "name": "ది. ఎన్టీఆర్కు వెన్నుపోటు పొడిచినప్పుడు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీజేపీతో పొత్తు పెట్టుకున్నప్పుడు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వేరు పడినప్పు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మళ్లీ ఇప్పుడు పొత్తు పెట్టుకున్నప్పుడూ ఇదే కథ!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికల్లో హామీలు ఇచ్చినప్పుడు.. వాటిని ఎగ్గొట్టేటప్పుడు కూడా ఇదే విధానం!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర ఆర్థిక పరిస్థితి దిగజారిపోయిం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పూర్తిస్థాయి బడ్జెట్ ప్రవేశపెట్టలేకపోతున్నారంటూ ప్రచారం చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రం నిజంగా ఆర్ధికంగా ధ్వంసమైందా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విపత్తులోనూ ఆచితూచి అప్పలు తీసుకుంటే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు హయాంలో 3.72 శాతం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా హయాంలో కోవిడ్ కార",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2.92 శాతానికి పడిపోయింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కోవిడ్ వల్ల మనకు బాగా నష్టం జరిగిం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రమే కాదు.. ప్రతి రాష్ట్రం కూడా అప్పులు ఎక్కువగా చేసుకునే అవకాశం కల్పించినా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు హయాంతో పోలిస్తే తక్కువే తీసుకున్నాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు హయాంలో కాంపౌండ్ యాన్యువల్ గ్రోత్ రేట్ ఆఫ్ లయబిలిటీస్ 21.63 శాతం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా హయాంలో 12.90 శాతమే ఉంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2014-19 మధ్య టీడీపీ హయాంలో అప్పులు 18.15 శాతం పెరగ్గా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2019-24 మధ్య వైఎస్సార్సీపీ పాలనలో కేవలం 13.80 శాతమే పెరిగాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాస్తవాలు ప్రజలకు తెలియా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం విడుదల చేసిన ఆర్థిక సర్వే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక నిర్వహణకు సంబంధించి ఆంధ్రప్రదేశ్ను ప్రశంసించింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎఫ్ఆర్బీఎం అనుమతించిన దానికంటే తక్కువ అప్పు తీసుకున్నారని అభినం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేరుగా నగదు బదిలీ లాంటి గొప్ప కార్యక్రమాలు చేయడమే దీనికి కారణం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "క్వాలిటీ ఆఫ్ స్పెండింగ్ బై స్టేట్ గవర్నమెంట్ ఇంప్రూవ్డ్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సామాజిక ఆర్థిక సర్వే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధర్మం వైపు నిలవండి..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సీఎంగా బాధ్యతలు స్వీకరించిన జూన్ 12వతేదీకి రెండు రోజుల ముందు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం నుంచి రాష్ట్రానికి పన్నుల వాటా కింద రూ.5,655 కోట్లు వచ్చాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రెండోసారి కూడా కేంద్రం నుంచి పన్నుల వాటా డబ్బులు జమయ్యాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆయన ప్రమాణ స్వీకారం చేసే నాటికి కనీసం రూ.7-8 వేల కోట్లు ఖజానాలో ఉన్నాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అంత డబ్బు ఉన్నా డ్రామాలాడుతూ ఓటాన్ అకౌంట్ బడ్జెట్ను ప్రవేశపెట్టడం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు శ్వేతపత్రంలో చెప్పిన అంశాలను.. వాస్తవపత్రం పేరుతో నేను చెప్పిన వాటిని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్ర విభజన నుంచి ఇప్పటివరకు రాష్ట్ర ప్రభుత్వ అప్పలు ఇవీ..",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c86140f05173744fb3f124cd32219faf8de822fc": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "CM Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Finance Department",
+     "type": "Organization",
+     "english_name": "Finance Department"
+    },
+    {
+     "name": "CM",
+     "type": "Person",
+     "english_name": "CM"
+    },
+    {
+     "name": "Rs.10 lakh crores",
+     "type": "Claim",
+     "english_name": "Rs.10 lakh crores"
+    },
+    {
+     "name": "Rs.14 lakh crores",
+     "type": "Claim",
+     "english_name": "Rs.14 lakh crores"
+    },
+    {
+     "name": "State loans",
+     "type": "Issue",
+     "english_name": "State loans"
+    },
+    {
+     "name": "IMFL illegal transport",
+     "type": "Issue",
+     "english_name": "IMFL illegal transport"
+    },
+    {
+     "name": "Excise revenue",
+     "type": "Issue",
+     "english_name": "Excise revenue"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "RBI",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CM Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs.14 lakh crores",
+     "evidence": "రాష్ట్ర అప్పలు రూ.14 లక్షల కోట్లు అని అంచనా వేసినట్టు వెల్లడించిన సీఎం చంద్రబాబు"
+    },
+    {
+     "source": "CM Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "Rs.10 lakh crores",
+     "evidence": "గవర్నర్ ప్రసంగంలో రాష్ట్ర అప్పలు రూ.10 లక్షల కోట్లుగా పేర్కొన్న దృశ్యం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

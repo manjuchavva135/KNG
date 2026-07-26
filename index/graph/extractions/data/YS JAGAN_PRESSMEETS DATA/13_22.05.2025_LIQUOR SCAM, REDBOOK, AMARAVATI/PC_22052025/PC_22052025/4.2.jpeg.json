@@ -192,6 +192,157 @@
     }
    ],
    "relations": []
+  },
+  "1346854b11fcd3f6eba6ce2a7844b35015b662bf": {
+   "entities": [
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "స్వర్ణాంధ్ర-2047",
+     "type": "Scheme",
+     "english_name": "Svarnandhra-2047"
+    },
+    {
+     "name": "పీ4 కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "P4 program"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ప్రపంచబ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "హడ్కో",
+     "type": "Organization",
+     "english_name": "HUDCO"
+    },
+    {
+     "name": "కేఎఫ్డబ్ల్యూ",
+     "type": "Organization",
+     "english_name": "KfW"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్ట్",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "ఆర్థిక సంఘం",
+     "type": "Organization",
+     "english_name": "Finance Commission"
+    },
+    {
+     "name": "అరవింద్ పనగడియా",
+     "type": "Person",
+     "english_name": "Arvind Panagariya"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మోదీ",
+     "type": "Person",
+     "english_name": "Modi"
+    },
+    {
+     "name": "వాట్సప్ గవర్నెన్స్",
+     "type": "Scheme",
+     "english_name": "WhatsApp Governance"
+    },
+    {
+     "name": "ప్రధాని మోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Modi"
+    },
+    {
+     "name": "అన్నె జార్జ్ మాథ్యూ",
+     "type": "Person",
+     "english_name": "Anne George Matthew"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "LIQUOR SCAM",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "REDBOOK",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "ప్రభుత్వ కార్యాలయాలకు వెళ్లే అవసరం లేకుండా వాట్సప్ ద్వారా సేవలు పొందే పరిస్థితి తెస్తున్నాం. రాబోయే రోజుల్లో 1,000 సేవలు అందిస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతిని కూడా అదే స్థాయిలో చంద్రబాబు అభివృద్ధి చేస్తారనే నమ్మకం తమకు ఉందని చెప్పారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "హైదరాబాద్ ఎంతో అభివృద్ధి చెందిందని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం నుండి సాయం పొందేందుకు సీఎం చేస్తున్న ప్రయత్నాలను ఆర్థిక సంఘం ఛైర్మన్ పనగడియా అభినందించారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "అమరావతి",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "అమరావతిలో మౌలిక సౌకర్యాల కల్పన."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ కార్యాలయాలకు వెళ్లే అవసరం లేకుండా వాట్సప్ ద్వారా సేవలు పొందే పరిస్థితి తెస్తున్నాం. రాబోయే రోజుల్లో 1,000 సేవలు అందిస్తాం.",
+     "evidence": "ప్రభుత్వ కార్యాలయాలకు వెళ్లే అవసరం లేకుండా వాట్సప్ ద్వారా సేవలు పొందే పరిస్థితి తెస్తున్నాం. రాబోయే రోజుల్లో 1,000 సేవలు అందిస్తాం"
+    },
+    {
+     "source": "అన్నె జార్జ్ మాథ్యూ",
+     "relation": "MAKES_CLAIM",
+     "target": "అమరావతిని కూడా అదే స్థాయిలో చంద్రబాబు అభివృద్ధి చేస్తారనే నమ్మకం తమకు ఉందని చెప్పారు.",
+     "evidence": "అమరావతిని కూడా అదే స్థాయిలో చంద్రబాబు అభివృద్ధి చేస్తారనే నమ్మకం తమకు ఉందని చెప్పారు."
+    },
+    {
+     "source": "అన్నె జార్జ్ మాథ్యూ",
+     "relation": "MAKES_CLAIM",
+     "target": "హైదరాబాద్ ఎంతో అభివృద్ధి చెందిందని",
+     "evidence": "హైదరాబాద్ ఎంతో అభివృద్ధి చెందిందని"
+    },
+    {
+     "source": "అరవింద్ పనగడియా",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్రం నుండి సాయం పొందేందుకు సీఎం చేస్తున్న ప్రయత్నాలను ఆర్థిక సంఘం ఛైర్మన్ పనగడియా అభినందించారు.",
+     "evidence": "కేంద్రం నుండి సాయం పొందేందుకు సీఎం చేస్తున్న ప్రయత్నాలను ఆర్థిక సంఘం ఛైర్మన్ పనగడియా అభినందించారు."
+    }
+   ]
   }
  }
 }

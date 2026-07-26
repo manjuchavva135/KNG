@@ -1,0 +1,1844 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "50f29da0dc9253d55228e8bbe7946ec7580b4600": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "రాష్ట్ర ఆర్ధిక పరిస్థితి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిరుమల పరకామణి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌సెవెన్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "యువగళం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు మోసాలు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "కాగ్‌",
+     "evidence": "కాగ్‌ నివేదిక కూడా తేల్చిన నిజం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "14b839c0251a9574615d640db06ada2b606f6fb4": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కాగ్‌ నివేదిక",
+     "type": "Organization",
+     "english_name": "CAG report"
+    },
+    {
+     "name": "రాష్ట్ర వార్షిక బడ్జెట్",
+     "type": "Scheme",
+     "english_name": "State annual budget"
+    },
+    {
+     "name": "సూపర్‌సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Chandrababu government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4424f6d2e2b1aab350c2e375c4d268bbecbcdfd9": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "సూపర్‌సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "ఆర్థిక విధ్వంసం",
+     "type": "Issue",
+     "english_name": "Economic Destruction"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ప్రభుత్వం, రాష్ట్రాన్ని దారుణ ఆర్థిక దుస్థితిలోకి నెట్టేస్తోందని శ్రీ వైయస్‌ జగన్‌ తెలిపారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌సిక్స్",
+     "evidence": "సూపర్‌సిక్స్, సూపర్‌సెవెన్‌తో సహా ఏ పథకాలు అమలు చేయడం లేదని గుర్తు చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌సెవెన్‌",
+     "evidence": "సూపర్‌సిక్స్, సూపర్‌సెవెన్‌తో సహా ఏ పథకాలు అమలు చేయడం లేదని గుర్తు చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0b6de62d9416adceaa2845de9b2859f9bf4576e9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆయన బినామీలు",
+     "type": "Person",
+     "english_name": "His benami"
+    },
+    {
+     "name": "ఆయన పార్టీ ఎమ్మెల్యేలు",
+     "type": "Person",
+     "english_name": "His party MLAs"
+    },
+    {
+     "name": "ఆయన ఎల్లో మీడియా సహచరులు",
+     "type": "Person",
+     "english_name": "His yellow media associates"
+    },
+    {
+     "name": "విశాఖ",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "రాష్ట్రం",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ట్రెజరీ",
+     "type": "Organization",
+     "english_name": "Treasury"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ఆయన బినామీలు",
+     "evidence": "చంద్రబాబుగారు, ఆయన బినామీలు, ఆయన పార్టీ ఎమ్మెల్యేలు, ఆయన ఎల్లో మీడియా సహచరులు అంతా దోచుకో."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ఆయన పార్టీ ఎమ్మెల్యేలు",
+     "evidence": "చంద్రబాబుగారు, ఆయన బినామీలు, ఆయన పార్టీ ఎమ్మెల్యేలు, ఆయన ఎల్లో మీడియా సహచరులు అంతా దోచుకో."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ఆయన ఎల్లో మీడియా సహచరులు",
+     "evidence": "చంద్రబాబుగారు, ఆయన బినామీలు, ఆయన పార్టీ ఎమ్మెల్యేలు, ఆయన ఎల్లో మీడియా సహచరులు అంతా దోచుకో."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "అడ్డగోలుగా భూపందేరాలు: ఏ స్థాయిలో వీరి దోపిడీ ఉందంటే.. విశాఖలో రూ.5 వేల కోట్ల విలువైన భూమిని చంద్రబాబుగారు దగ్గరుండి తన సమీప బంధువుకు కట్టబెట్టే ప్రయత్నం చేస్తే రాష్ట్రానికి ఆదాయాలు ఎలా వస్తాయి?"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "భూములు ఇవ్వడమే కాకుండా వారు నిర్మాణం చేసిన దాంట్లో ప్రతి చదరపు అడుగుకు (ఎస్‌ఎఫ్‌టీ) రూ.2 వేలు కంపెనీలకు ఎదురు ఇస్తారంట!. ఇలాంటి స్కాములు జరుగుతుంటే రాష్ట్రానికి ఆదాయాలు ఎలా వస్తాయి?"
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు ప్రభుత్వ ఆర్థిక పనితీరు అధ్వానం అని చెప్పడానికి మరో ఉదాహరణ."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ట్రెజరీ",
+     "evidence": "సాధారణంగా ట్రెజరీలో కనీస క్యాష్‌ బ్యాలెన్స్‌ ఉండాలి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c21fc32280774e71fa2c9519543b8f9a27770bbf": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "రాష్ట్ర ఆర్థిక వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "State Economy"
+    },
+    {
+     "name": "నెట్‌ బారోయింగ్‌ సీలింగ్‌ (ఎన్‌బీసీ)",
+     "type": "Scheme",
+     "english_name": "Net Borrowing Ceiling (NBC)"
+    },
+    {
+     "name": "రాష్ట్ర జీడీపీలో ద్రవ్యలోటు",
+     "type": "Issue",
+     "english_name": "Fiscal Deficit in State GDP"
+    },
+    {
+     "name": "రెవెన్యూ లోటు",
+     "type": "Issue",
+     "english_name": "Revenue Deficit"
+    },
+    {
+     "name": "అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "79d648822b53840cb96299a535b7e27108545861": {
+   "entities": [
+    {
+     "name": "సూపర్‌సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "యువగళం పథకం",
+     "type": "Scheme",
+     "english_name": "Yuva Galam Scheme"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "సూపర్‌సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "SC, ST, BC, మైనారిటీలు",
+     "type": "Organization",
+     "english_name": "SC, ST, BC, Minorities"
+    },
+    {
+     "name": "పెన్షన్లు",
+     "type": "Scheme",
+     "english_name": "Pensions"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6e1b878cf15d8a2d7aaa127a967341225ff805a4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "2024–25",
+     "type": "Issue",
+     "english_name": "2024-25"
+    },
+    {
+     "name": "2025–26",
+     "type": "Issue",
+     "english_name": "2025-26"
+    },
+    {
+     "name": "2019–20",
+     "type": "Issue",
+     "english_name": "2019-20"
+    },
+    {
+     "name": "2020–21",
+     "type": "Issue",
+     "english_name": "2020-21"
+    },
+    {
+     "name": "2021–22",
+     "type": "Issue",
+     "english_name": "2021-22"
+    },
+    {
+     "name": "2022–23",
+     "type": "Issue",
+     "english_name": "2022-23"
+    },
+    {
+     "name": "2023–24",
+     "type": "Issue",
+     "english_name": "2023-24"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "04498442eea6a8728fc4c0a1e112c5de82cc39e4": {
+   "entities": [
+    {
+     "name": "సూపర్‌సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "SC",
+     "type": "Organization",
+     "english_name": "Scheduled Castes"
+    },
+    {
+     "name": "ST",
+     "type": "Organization",
+     "english_name": "Scheduled Tribes"
+    },
+    {
+     "name": "BC",
+     "type": "Organization",
+     "english_name": "Backward Classes"
+    },
+    {
+     "name": "Minorities",
+     "type": "Organization",
+     "english_name": "Minorities"
+    },
+    {
+     "name": "పెన్షన్",
+     "type": "Scheme",
+     "english_name": "Pension"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Organization",
+     "english_name": "Budget"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "రాష్ట్ర ఫైనాన్స్",
+     "type": "Organization",
+     "english_name": "State Finance"
+    },
+    {
+     "name": "తిరుమల సమస్యలు",
+     "type": "Issue",
+     "english_name": "Tirumala Issues"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "ఉచిత బస్సు ప్రయాణం",
+     "type": "Scheme",
+     "english_name": "Free Bus Travel"
+    },
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9658d1692912cc0833b6bc13e1bf5bdd7dcfb615": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "ట్రెజరీ",
+     "type": "Organization",
+     "english_name": "Treasury"
+    },
+    {
+     "name": "స్పెషల్‌ డ్రాయింగ్‌ ఫెసిలిటీ",
+     "type": "Organization",
+     "english_name": "Special Drawing Facility"
+    },
+    {
+     "name": "వేస్‌ అండ్‌ మీన్స్‌ ఎక్కౌంట్‌–డబ్లు్యఎంఏ",
+     "type": "Organization",
+     "english_name": "Ways and Means Account"
+    },
+    {
+     "name": "ఓవర్‌ డ్రాఫ్ట్‌",
+     "type": "Organization",
+     "english_name": "Overdraft"
+    },
+    {
+     "name": "పీపీటీ",
+     "type": "Organization",
+     "english_name": "PPT"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "కేంద్ర క్యాబినెట్‌ సెక్రటరీ",
+     "type": "Organization",
+     "english_name": "Central Cabinet Secretary"
+    },
+    {
+     "name": "డీఓపీటీ",
+     "type": "Organization",
+     "english_name": "DOPT"
+    },
+    {
+     "name": "కేంద్ర ఆర్థిక శాఖ కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "Central Finance Secretary"
+    },
+    {
+     "name": "మండలి",
+     "type": "Organization",
+     "english_name": "Council"
+    },
+    {
+     "name": "జీఓలు",
+     "type": "Organization",
+     "english_name": "GOs"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "CAG",
+     "evidence": "చంద్రబాబు ప్రభుత్వ ఆర్థిక పనితీరు అధ్వానం అని చెప్పడానికి మరో ఉదాహరణ."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ట్రెజరీ",
+     "evidence": "ట్రెజరీలో కనీస క్యాష్‌ బ్యాలెన్స్‌ ఉండాలి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "స్పెషల్‌ డ్రాయింగ్‌ ఫెసిలిటీ",
+     "evidence": "మినిమం క్యాష్‌ బ్యాలెన్స్‌ కన్సాలిడేటెడ్‌ ఫండ్‌లో లేకపోతే, అది వెంటనే స్పెషల్‌ డ్రాయింగ్‌ ఫెసిలిటీ (ఎస్‌డీఎఫ్‌)కు దారి తీస్తుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వేస్‌ అండ్‌ మీన్స్‌ ఎక్కౌంట్‌–డబ్లు్యఎంఏ",
+     "evidence": "ఈ ఎమౌంట్‌ కూడా దాటిపోతే వడ్డీతో సహా చేబదులు (వేస్‌ అండ్‌ మీన్స్‌ ఎక్కౌంట్‌–డబ్లు్యఎంఏ) ట్రిగ్గర్‌ అవుతుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఓవర్‌ డ్రాఫ్ట్‌",
+     "evidence": "అది కూడా దాటిపోతే, అప్పుడు ఓవర్‌ డ్రాఫ్ట్‌ (ఓడీ)కి వెళ్లిపోతాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పీపీటీ",
+     "evidence": "(అంటూ పీపీటీలో స్లైడ్‌ చూపారు)"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అసెంబ్లీ",
+     "evidence": "చంద్రబాబుగారు అసెంబ్లీలో ఆ అప్పును కేవలం రూ.60,485 కోట్లుగా చూపారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్ర క్యాబినెట్‌ సెక్రటరీ",
+     "evidence": "దీని మీద కేంద్ర క్యాబినెట్‌ సెక్రటరీకి లేఖ రాస్తున్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "డీఓపీటీ",
+     "evidence": "అందుకే దీనిపై డీఓపీటీ, కేంద్ర ఆర్థిక శాఖ కార్యదర్శికి కూడా లేఖ రాస్తున్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్ర ఆర్థిక శాఖ కార్యదర్శి",
+     "evidence": "అందుకే దీనిపై డీఓపీటీ, కేంద్ర ఆర్థిక శాఖ కార్యదర్శికి కూడా లేఖ రాస్తున్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మండలి",
+     "evidence": "బడ్జెట్‌యేతర అప్పుల వివరాలు కావాలని, మండలిలో మేము లిఖితపూర్వకంగా కోరితే, దాటవేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జీఓలు",
+     "evidence": "ప్రభుత్వ గ్యారెంటీతో అప్పులు చేశారు. అందుకు జీఓలు కూడా ఇచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a7ff95470531fe436e315cc924357935d56ee074": {
+   "entities": [
+    {
+     "name": "దీపం పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam Scheme"
+    },
+    {
+     "name": "మహిళ",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "రైతు",
+     "type": "Person",
+     "english_name": "Farmers"
+    },
+    {
+     "name": "అన్నదాతా సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "రైతుభరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "19af77d0d8256d1885ea3fba2cfe98b84ffb4181": {
+   "entities": [
+    {
+     "name": "రైతుభరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Centre"
+    },
+    {
+     "name": "మొంథా తుపాన్‌",
+     "type": "Issue",
+     "english_name": "Montha Tupan"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilisation Fund"
+    },
+    {
+     "name": "వరి",
+     "type": "Issue",
+     "english_name": "Paddy"
+    },
+    {
+     "name": "మొక్కజొన్న",
+     "type": "Issue",
+     "english_name": "Maize"
+    },
+    {
+     "name": "అరటి",
+     "type": "Issue",
+     "english_name": "Banana"
+    },
+    {
+     "name": "టమోట",
+     "type": "Issue",
+     "english_name": "Tomato"
+    },
+    {
+     "name": "బత్తాయి",
+     "type": "Issue",
+     "english_name": "Batagai"
+    },
+    {
+     "name": "వాటర్‌ మిలాన్‌",
+     "type": "Issue",
+     "english_name": "Water Milan"
+    },
+    {
+     "name": "అసెంబ్లీ సమావేశాలు",
+     "type": "Issue",
+     "english_name": "Assembly Sessions"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు అధికారంలోకి వచ్చిన తర్వాత, 2024 జూన్‌లో ప్రీమియమ్‌ రూ.834 కోట్ల ప్రీమియమ్‌ కట్టలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e32eaada5fd79ff7130ec1eadb7ae307d2ef55c8": {
+   "entities": [
+    {
+     "name": "రైతులు, రైతు కూలీలు",
+     "type": "Person",
+     "english_name": "Farmers, agricultural laborers"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "వ్యవసాయ రంగం",
+     "type": "Issue",
+     "english_name": "Agriculture sector"
+    },
+    {
+     "name": "పథకం",
+     "type": "Scheme",
+     "english_name": "Scheme"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతిదీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్",
+     "type": "Scheme",
+     "english_name": "Fee reimbursement"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "ఎన్నికల కోడ్‌",
+     "type": "Issue",
+     "english_name": "Election code"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dd4c2a3f94380710afaae8350af67f45e135f5b6": {
+   "entities": [
+    {
+     "name": "ఎన్నికల కోడ్‌",
+     "type": "Issue",
+     "english_name": "Election Code"
+    },
+    {
+     "name": "విద్యా దీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పొదుపు సంఘాలు",
+     "type": "Organization",
+     "english_name": "Self Help Groups"
+    },
+    {
+     "name": "సున్నా వడ్డీ పథకం",
+     "type": "Scheme",
+     "english_name": "Zero Interest Scheme"
+    },
+    {
+     "name": "నాబార్డ్‌",
+     "type": "Organization",
+     "english_name": "NABARD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పొదుపు సంఘాలు",
+     "evidence": "పొదుపు సంఘాలకు మా ప్రభుత్వ హయాంలో క్రమం తప్పకుండా సున్నా వడ్డీ డబ్బులు ఇచ్చేవాళ్లం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "41510e5c99a3713c1f4be89c8c9b7f4d73e4ae21": {
+   "entities": [
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "మ్యానిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "ఆదివాసీలు",
+     "type": "Organization",
+     "english_name": "Adivasis"
+    },
+    {
+     "name": "ఎస్టీలు",
+     "type": "Organization",
+     "english_name": "ST"
+    },
+    {
+     "name": "ఎస్సీలు",
+     "type": "Organization",
+     "english_name": "SC"
+    },
+    {
+     "name": "చేనేతలు",
+     "type": "Organization",
+     "english_name": "Handicrafts"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical Colleges"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్ర ప్రభుత్వం",
+     "evidence": "కేంద్ర ప్రభుత్వం డబ్బులు ఇచ్చింది.. చంద్రబాబు డైవర్ట్‌ చేశాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "96d783c0868f680eea1263114927b5c7440c7fbf": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మహిళా దినోత్సవం",
+     "type": "Issue",
+     "english_name": "Women's Day"
+    },
+    {
+     "name": "మహిళా సాధికారత",
+     "type": "Issue",
+     "english_name": "Women Empowerment"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "చేయూత",
+     "type": "Scheme",
+     "english_name": "Cheyutha"
+    },
+    {
+     "name": "ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "EBC Nestham"
+    },
+    {
+     "name": "కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "Kapu Nestham"
+    },
+    {
+     "name": "జగనన్న తోడు",
+     "type": "Scheme",
+     "english_name": "Jagananna Thodu"
+    },
+    {
+     "name": "జగనన్న చేదోడు",
+     "type": "Scheme",
+     "english_name": "Jagananna Chedoodu"
+    },
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Nethanna Nestham"
+    },
+    {
+     "name": "వాహన మిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "సున్నావడ్డీలు",
+     "type": "Scheme",
+     "english_name": "Sunnavaaddi"
+    },
+    {
+     "name": "అమూల్‌",
+     "type": "Organization",
+     "english_name": "Amul"
+    },
+    {
+     "name": "హిందుస్థాన్‌ లివర్‌",
+     "type": "Organization",
+     "english_name": "Hindustan Lever"
+    },
+    {
+     "name": "ప్రొక్టర్‌ అండ్‌ గ్యాంబుల్‌",
+     "type": "Organization",
+     "english_name": "Procter & Gamble"
+    },
+    {
+     "name": "ఐటీసీ",
+     "type": "Organization",
+     "english_name": "ITC"
+    },
+    {
+     "name": "రిలయన్స్‌",
+     "type": "Organization",
+     "english_name": "Reliance"
+    },
+    {
+     "name": "నాబార్డు",
+     "type": "Organization",
+     "english_name": "NABARD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆసరా",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చేయూత",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఈబీసీ నేస్తం",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కాపు నేస్తం",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న తోడు",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న చేదోడు",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నేతన్న నేస్తం",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వాహన మిత్ర",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సున్నావడ్డీలు",
+     "evidence": "ఆసరా, చేయూత, ఈబీసీ నేస్తం, కాపు నేస్తం, జగనన్న తోడు, జగనన్న చేదోడు, నేతన్న నేస్తం, వాహన మిత్ర, సున్నావడ్డీలు ఇవన్నీ మేము అమలు చేసి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "హిందుస్థాన్‌ లివర్‌",
+     "evidence": "మహిళా సాధికారత కోసం అప్పట్లో మేము హిందుస్థాన్‌ లివర్‌ను తీసుకొచ్చాం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రొక్టర్‌ అండ్‌ గ్యాంబుల్‌",
+     "evidence": "మహిళా సాధికారత కోసం అప్పట్లో మేము ప్రొక్టర్‌ అండ్‌ గ్యాంబుల్‌ను తీసుకొచ్చాం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఐటీసీ",
+     "evidence": "మహిళా సాధికారత కోసం అప్పట్లో మేము ఐటీసీని తీసుకొచ్చాం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రిలయన్స్‌",
+     "evidence": "మహిళా సాధికారత కోసం అప్పట్లో మేము రిలయన్స్‌ను తీసుకొచ్చాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0ed3d351ee464228f1012b2a84b898f741093165": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "జగన్‌ మోహన్‌ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "క్యూఆర్ కోడ్‌ పట్టాదారు పాస్‌ పుస్తకాలు",
+     "type": "Scheme",
+     "english_name": "QR code pattadar passbooks"
+    },
+    {
+     "name": "జియో ట్యాగింగ్‌ హద్దులు",
+     "type": "Scheme",
+     "english_name": "Geo tagging boundaries"
+    },
+    {
+     "name": "సర్వే ఇక్విప్మెంట్‌",
+     "type": "Organization",
+     "english_name": "Survey equipment"
+    },
+    {
+     "name": "కోర్‌ స్టేషన్స్‌",
+     "type": "Organization",
+     "english_name": "Core stations"
+    },
+    {
+     "name": "రోవర్స్‌",
+     "type": "Organization",
+     "english_name": "Rovers"
+    },
+    {
+     "name": "విమానాలు, హెలికాప్టర్లు",
+     "type": "Organization",
+     "english_name": "Aircraft and helicopters"
+    },
+    {
+     "name": "ఓఆర్‌ఐ రికార్డులు",
+     "type": "Organization",
+     "english_name": "ORI records"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌ సీపీ ప్రభుత్వం",
+     "evidence": "చంద్రబాబు క్రెడిట్‌ చోరీ చేసే ప్రయత్నం చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్‌ మోహన్‌ రెడ్డి",
+     "evidence": "జగన్‌ మోహన్‌ రెడ్డికి క్రెడిట్‌ ఇవ్వడం చంద్రబాబుకు ఇష్టం లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dcdbb30740ae2ba2ea2985ef18cf86fd6043f075": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "మహిళా సాధికారత",
+     "type": "Scheme",
+     "english_name": "Women Empowerment"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "చేయూత",
+     "type": "Scheme",
+     "english_name": "Cheyutha"
+    },
+    {
+     "name": "ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "EBC Nestham"
+    },
+    {
+     "name": "కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "Kapu Nestham"
+    },
+    {
+     "name": "జగనన్న తోడు",
+     "type": "Scheme",
+     "english_name": "Jagananna Thodu"
+    },
+    {
+     "name": "జగనన్న చేదోడు",
+     "type": "Scheme",
+     "english_name": "Jagananna Chedo"
+    },
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Nethanna Nestham"
+    },
+    {
+     "name": "వాహన మిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "సున్నావడ్డీలు",
+     "type": "Scheme",
+     "english_name": "Sunnavaaddi"
+    },
+    {
+     "name": "నాబార్డు",
+     "type": "Organization",
+     "english_name": "NABARD"
+    },
+    {
+     "name": "ట్రిపుల్‌ బెడ్రూమ్‌ ఇళ్లంట!",
+     "type": "Claim",
+     "english_name": "Triple bedroom houses claim"
+    },
+    {
+     "name": "ట్రిపుల్‌ బెడ్రూం ఇళ్లు",
+     "type": "Scheme",
+     "english_name": "Triple bedroom houses"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dff436bf6aebbfe36f24616f8d9a24008e42a75b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్‌ మోహన్‌ రెడ్డి",
+     "type": "Person",
+     "english_name": "Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "సచివాలయాలు",
+     "type": "Organization",
+     "english_name": "Secretariat"
+    },
+    {
+     "name": "సర్వేయర్లు",
+     "type": "Person",
+     "english_name": "Surveyors"
+    },
+    {
+     "name": "డిజిటల్‌ అసిస్టెంట్లు",
+     "type": "Person",
+     "english_name": "Digital Assistants"
+    },
+    {
+     "name": "విలేజ్‌ రెవెన్యూ అసిస్టెంట్లు",
+     "type": "Person",
+     "english_name": "Village Revenue Assistants"
+    },
+    {
+     "name": "పథకాలు",
+     "type": "Scheme",
+     "english_name": "Schemes"
+    },
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "జీరో వేకెన్సీ పాలసీ",
+     "type": "Scheme",
+     "english_name": "Zero Vacancy Policy"
+    },
+    {
+     "name": "17 కొత్త మెడికల్‌ కాలేజీలు",
+     "type": "Scheme",
+     "english_name": "17 New Medical Colleges"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌ సీపీ ప్రభుత్వం",
+     "evidence": "చంద్రబాబుకు ఇష్టం లేదు, క్రెడిట్‌ చోరీ ఎలాగూ చేస్తున్నాడు, చేస్తాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్‌ మోహన్‌ రెడ్డి",
+     "evidence": "చంద్రబాబుకు ఇష్టం లేదు, క్రెడిట్‌ చోరీ ఎలాగూ చేస్తున్నాడు, చేస్తాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e53773b8854fd42d1e18332a62a8c0fe8c767743": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లోకేష్‌",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "రైల్వే కోడూరు జనసేన ఎమ్మెల్యే అరవ శ్రీధర్‌",
+     "type": "Person",
+     "english_name": "Arva Sridhar"
+    },
+    {
+     "name": "కేజీబీవీ మహిళా ప్రిన్సిపల్‌",
+     "type": "Person",
+     "english_name": "KGBV Mahila Principal"
+    },
+    {
+     "name": "ఆముదాల వలస టీడీపీ ఎమ్మెల్యే కూన రవికుమార్‌",
+     "type": "Person",
+     "english_name": "Kona Ravikumar"
+    },
+    {
+     "name": "గుంటూరు ఈస్ట్‌ ఎమ్మెల్యే నసీర్‌",
+     "type": "Person",
+     "english_name": "Naseer"
+    },
+    {
+     "name": "సత్యవేడు ఎమ్మెల్యే కోనేటి ఆదిమూలం",
+     "type": "Person",
+     "english_name": "Koneti Adimulam"
+    },
+    {
+     "name": "మంత్రి సంధ్యారాణి పీఏ",
+     "type": "Person",
+     "english_name": "Minister Sandhyarani PA"
+    },
+    {
+     "name": "టీటీడీ చైర్మన్‌",
+     "type": "Person",
+     "english_name": "TTD Chairman"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "రైల్వే కోడూరు జనసేన ఎమ్మెల్యే అరవ శ్రీధర్‌",
+     "evidence": "రైల్వే కోడూరు జనసేన ఎమ్మెల్యే అరవ శ్రీధర్‌.. తనపై అత్యాచారం చేశాడని, ఆపై మోసం చేశారని బాధితురాలు నేరుగా ముఖ్యమంత్రికి, పోలీసులకు స్వయంగా ఫిర్యాదు చేసింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆముదాల వలస టీడీపీ ఎమ్మెల్యే కూన రవికుమార్‌",
+     "evidence": "కేజీబీవీ మహిళా ప్రిన్సిపల్‌ మీద వేధింపులకు పాల్పడ్డ ఆముదాల వలస టీడీపీ ఎమ్మెల్యే కూన రవికుమార్‌ మీద చంద్రబాబూ ఏం చర్యలు తీసుకున్నావు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "గుంటూరు ఈస్ట్‌ ఎమ్మెల్యే నసీర్‌",
+     "evidence": "మహిళలతో అశ్లీలంగా వీడియో కాల్స్‌ చేసిన గుంటూరు ఈస్ట్‌ ఎమ్మెల్యే నసీర్‌ మీద ఏం చర్యలు తీసుకున్నావు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సత్యవేడు ఎమ్మెల్యే కోనేటి ఆదిమూలం",
+     "evidence": "టీడీపీకి చెందిన సత్యవేడు ఎమ్మెల్యే కోనేటి ఆదిమూలం ఒక మహిళ మీద దారుణమైన లైంగిక దాడికి పాల్పడితే ఈ చంద్రబాబుగారు ఏం చర్యలు తీసుకున్నారు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మంత్రి సంధ్యారాణి పీఏ",
+     "evidence": "మహిళా ఉద్యోగి మీద లైంగిక వేధింపులకు పాల్పడ్డ మంత్రి సంధ్యారాణి పీఏ.. ఎమ్మెల్యేలు, ఈ లీడర్ల కథ దేవుడెరుగు.. కనీసం పీఏల మీద చర్యలు తీసుకోలేకుండా ఉన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ చైర్మన్‌",
+     "evidence": "అంతెందుకు ప్రస్తుత టీటీడీ చైర్మన్‌ ఒక మహిళను మోసం చేసి వీడియోతోనూ, ఫొటోలతోనూ అడ్డంగా దొరికిపోయినా చంద్రబాబు ఏం చేశాడు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e03f7acd1fbb66da6f6a821016d026489e30f7b0": {
+   "entities": [
+    {
+     "name": "గవర్నమెంటు బడుల్లో ఇంగ్లీష్‌ మీడియం",
+     "type": "Claim",
+     "english_name": "English medium in government schools"
+    },
+    {
+     "name": "నాడు–నేడు పనులు",
+     "type": "Claim",
+     "english_name": "Naadu-Nedu works"
+    },
+    {
+     "name": "ట్యాబులు 8 వతరగతి పిల్లలకు ఆపేశారు",
+     "type": "Claim",
+     "english_name": "Tablets stopped for 8th standard children"
+    },
+    {
+     "name": "గోరుముద్ద",
+     "type": "Claim",
+     "english_name": "Gorimudda"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "నిరుద్యోగ భతి",
+     "type": "Scheme",
+     "english_name": "Unemployment allowance"
+    },
+    {
+     "name": "సూపర్‌ సిక్సులు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "పెళ్లి కానుక",
+     "type": "Scheme",
+     "english_name": "Pelli Kaanuka"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b03a39d86ca7d25052ebaff6eb7c004b855e1cd9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "టీటీడీ చైర్మన్‌",
+     "type": "Organization",
+     "english_name": "TTD Chairman"
+    },
+    {
+     "name": "రథోత్సవం",
+     "type": "Place",
+     "english_name": "Rathotsavam"
+    },
+    {
+     "name": "కదిరి",
+     "type": "Place",
+     "english_name": "Kadirri"
+    },
+    {
+     "name": "వైకుంఠ ఏకాదశి",
+     "type": "Place",
+     "english_name": "Vaikuntha Ekadashi"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "తిరుమల తిరుపతి దేవస్థానం",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "సింహాచలం",
+     "type": "Place",
+     "english_name": "Simhachalam"
+    },
+    {
+     "name": "చందనోత్సవం",
+     "type": "Place",
+     "english_name": "Chandana Utsavam"
+    },
+    {
+     "name": "పలాస",
+     "type": "Place",
+     "english_name": "Palasa"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ చైర్మన్‌",
+     "evidence": "చంద్రబాబు ఏం చేశాడని అడుగుతున్నా."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aa1c49fe4797a2929732cc566cc0b844c62bc421": {
+   "entities": [
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రూ.75 వేల విలువ చేసే డాలర్‌ నోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.75,000 worth dollar notes"
+    },
+    {
+     "name": "రూ.15 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.15 crores"
+    },
+    {
+     "name": "కోటి విలువైన బంగారం",
+     "type": "Claim",
+     "english_name": "Rs.1 crore gold"
+    },
+    {
+     "name": "నెయ్యి వ్యవహారం",
+     "type": "Issue",
+     "english_name": "Ghee affair"
+    },
+    {
+     "name": "నెయ్యి టెండర్లు",
+     "type": "Scheme",
+     "english_name": "Ghee tenders"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "దేవుని సొమ్ముతో ఎవరైనా చెలగాటమాడితే.. అది తప్పు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.75 వేల విలువ చేసే డాలర్‌ నోట్లు",
+     "evidence": "రూ.75 వేల విలువ చేసే డాలర్‌ నోట్లు దొంగతనం చేస్తే.. ఏకంగా రూ.15 కోట్ల విలువైన ఆస్తులు టీటీడీకి రాయించాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.15 కోట్లు",
+     "evidence": "రూ.75 వేల విలువ చేసే డాలర్‌ నోట్లు దొంగతనం చేస్తే.. ఏకంగా రూ.15 కోట్ల విలువైన ఆస్తులు టీటీడీకి రాయించాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కోటి విలువైన బంగారం",
+     "evidence": "మరి ఇప్పుడు కోటి విలువైన బంగారం చోరీ చేస్తే.. పట్టుబడిన ఆ వ్యక్తికి బెయిల్‌ ఇచ్చి పంపిస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "538123d92a450ce6d18dd26dbc45692007c6076b": {
+   "entities": [
+    {
+     "name": "పవిత్రమైన రథోత్సవం",
+     "type": "Issue",
+     "english_name": "Rathotsavam"
+    },
+    {
+     "name": "వైకుంఠ ఏకాదశి దర్శన టోకెన్లు",
+     "type": "Issue",
+     "english_name": "Vaikuntha Ekadasi Darshan Tokens"
+    },
+    {
+     "name": "తిరుమల తిరుపతి దేవస్థానం",
+     "type": "Organization",
+     "english_name": "Tirumala Tirupati Devasthanams"
+    },
+    {
+     "name": "సింహాచలం",
+     "type": "Place",
+     "english_name": "Simhachalam"
+    },
+    {
+     "name": "చందనోత్సవం",
+     "type": "Issue",
+     "english_name": "Chandana Utsavam"
+    },
+    {
+     "name": "పలాస",
+     "type": "Place",
+     "english_name": "Palasa"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు",
+     "type": "Person",
+     "english_name": "MLCs"
+    },
+    {
+     "name": "ఇందాపూర్‌ డెయిరీ",
+     "type": "Organization",
+     "english_name": "Indapur Dairy"
+    },
+    {
+     "name": "హెరిటేజ్‌",
+     "type": "Organization",
+     "english_name": "Heritage"
+    },
+    {
+     "name": "సంగం డెయిరీ",
+     "type": "Organization",
+     "english_name": "Sankam Dairy"
+    },
+    {
+     "name": "వైష్ణవి డెయిరీ",
+     "type": "Organization",
+     "english_name": "Vaishnavi Dairy"
+    },
+    {
+     "name": "నెయ్యి టెండర్లు",
+     "type": "Scheme",
+     "english_name": "Ghee Tender Scheme"
+    },
+    {
+     "name": "నెయ్యి",
+     "type": "Scheme",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "పరకామణి",
+     "type": "Organization",
+     "english_name": "Parakamani"
+    },
+    {
+     "name": "తిరుమల హుండీ",
+     "type": "Organization",
+     "english_name": "Tirumala Hundi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎమ్మెల్సీలు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మా పార్టీ నుంచి మా ఎమ్మెల్సీలు అడిగిన ప్రశ్నలకు చంద్రబాబు సమాధానాలు చెప్పలేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "DEFENDS",
+     "target": "నెయ్యి టెండర్లు",
+     "evidence": "నెయ్యి టెండర్ల డాక్యుమెంట్లు చూస్తే ఇప్పటి వరకు రూ.200 కోట్ల స్కామ్‌ బయటపడుతుంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fdef82e9cf5828d7f7d9754ccf890b7d90604c92": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Alliance"
+    },
+    {
+     "name": "హెరిటేజ్‌ ఇందాపూర్‌ డెయిరీ",
+     "type": "Organization",
+     "english_name": "Heritage Indapur Dairy"
+    },
+    {
+     "name": "సంగం వైష్ణవి డెయిరీ",
+     "type": "Organization",
+     "english_name": "Sankam Vaishnavi Dairy"
+    },
+    {
+     "name": "నెయ్యి వ్యవహారం",
+     "type": "Issue",
+     "english_name": "Ghee affair"
+    },
+    {
+     "name": "లడ్డూ కల్తీ",
+     "type": "Issue",
+     "english_name": "Laddoo adulteration"
+    },
+    {
+     "name": "ఉప ప్రధాని",
+     "type": "Claim",
+     "english_name": "Deputy Prime Minister"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "హెరిటేజ్‌ ఇందాపూర్‌ డెయిరీ",
+     "evidence": "హెరిటేజ్‌ ఇందాపూర్‌ డెయిరీ సంబంధం దాచిపెట్టే ప్రయత్నం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సంగం వైష్ణవి డెయిరీ",
+     "evidence": "సంగం వైష్ణవి డెయిరీ మధ్య సంబంధం ఒప్పుకోవడం లేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉప ప్రధాని",
+     "evidence": "చంద్రబాబు ఉప ప్రధానిగా దేశ రాజకీయాల్లోకి వెళ్తున్నాడని ఎల్లో మీడియాలో ప్రచారం జరుగుతోందని అడిగిన ప్రశ్నకు సమాధానంగా.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f4f17e416a69cc1fe5d13745f8f54791ed438059": {
+   "entities": [
+    {
+     "name": "నాడు–నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "17 మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "17 Medical Colleges"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఐఆర్‌",
+     "type": "Scheme",
+     "english_name": "IR"
+    },
+    {
+     "name": "పీఆర్సీ",
+     "type": "Issue",
+     "english_name": "PRC"
+    },
+    {
+     "name": "డీఏలు",
+     "type": "Issue",
+     "english_name": "DA"
+    },
+    {
+     "name": "డీఆర్లు",
+     "type": "Issue",
+     "english_name": "DR"
+    },
+    {
+     "name": "జీపీఎఫ్‌",
+     "type": "Issue",
+     "english_name": "GPF"
+    },
+    {
+     "name": "ఏపీ జీఎల్‌ఐ",
+     "type": "Issue",
+     "english_name": "AP GLI"
+    },
+    {
+     "name": "మెడికల్‌ రీయింబర్స్‌మెంట్",
+     "type": "Issue",
+     "english_name": "Medical Reimbursement"
+    },
+    {
+     "name": "రిటైర్‌మెంట్‌ బెనిఫిట్స్",
+     "type": "Issue",
+     "english_name": "Retirement Benefits"
+    },
+    {
+     "name": "సరెండర్‌ లీవ్స్‌",
+     "type": "Issue",
+     "english_name": "Surrender Leaves"
+    },
+    {
+     "name": "ఆశా వర్కర్లు",
+     "type": "Person",
+     "english_name": "Asha Workers"
+    },
+    {
+     "name": "అంగన్‌వాడీలు",
+     "type": "Person",
+     "english_name": "Anganwadi Workers"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నాడు–నేడు",
+     "evidence": "నాడు–నేడు పనులు ఆగిపోయాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆరోగ్యశ్రీ",
+     "evidence": "ఆరోగ్యశ్రీకి ఈ రెండేళ్లకే చంద్రబాబు పెట్టిన బకాయిలు రూ.3150 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఐఆర్‌",
+     "evidence": "అధికారంలోకి వస్తూనే ఇస్తానన్న ఐఆర్‌ ప్రస్తావన బడ్జెట్‌లో లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

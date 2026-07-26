@@ -950,6 +950,122 @@
     }
    ],
    "relations": []
+  },
+  "8518b68210714ec029fb0410bcc99a314305bcd8": {
+   "entities": [
+    {
+     "name": "మారెడ్డి చిన్నపుల్లా రెడ్డి",
+     "type": "Person",
+     "english_name": "Marreddi Chinnapullareddy"
+    },
+    {
+     "name": "యర్రబయపు రెడ్డి",
+     "type": "Person",
+     "english_name": "Yarabayapu Reddy"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Nallapureddy Palle",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Karmalavaripalle Villege",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Mylavaram",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Jammalamadugu Constituency",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Marreddi Chinnapullareddy is TDP Sarpanch",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rahul Gandhi VoteChore Issue",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "మారెడ్డి చిన్నపుల్లా రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ సర్పంచ్"
+    },
+    {
+     "source": "మారెడ్డి చిన్నపుల్లా రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "Marreddi Chinnapullareddy is TDP Sarpanch",
+     "evidence": "టీడీపీ సర్పంచ్, కర్మలవారిపల్లె గ్రామం"
+    },
+    {
+     "source": "Rahul Gandhi",
+     "relation": "MAKES_CLAIM",
+     "target": "Rahul Gandhi VoteChore Issue",
+     "evidence": "Rahul Gandhi VoteChore Issue"
+    },
+    {
+     "source": "ZPTC",
+     "relation": "LOCATED_IN",
+     "target": "Pulivendula",
+     "evidence": "ZPTC Elections, Pulivendula-2025"
+    },
+    {
+     "source": "Karmalavaripalle Villege",
+     "relation": "LOCATED_IN",
+     "target": "Mylavaram",
+     "evidence": "Karmalavaripalle Villege Mylavaram (M)"
+    }
+   ]
   }
  }
 }

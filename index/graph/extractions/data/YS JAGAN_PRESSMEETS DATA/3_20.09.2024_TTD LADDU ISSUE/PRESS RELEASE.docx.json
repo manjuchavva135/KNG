@@ -1,0 +1,905 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "15586e7f5d98ae1c1fa42203789535d9c2981d4a": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీటీడీ లడ్డూ",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "సూపర్‌సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "ప్రసాదం",
+     "type": "Issue",
+     "english_name": "Prasadam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు విష ప్రచారంపై ప్రధానికి, సీజేఐకి లేఖలు రాస్తాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eabfc8d976de4866936275fec27d15948e3b4ff3": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Shri Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "TTD LADDU ISSUE",
+     "type": "Issue",
+     "english_name": "TTD Laddu Issue"
+    },
+    {
+     "name": "సూపర్‌సిక్స్‌ హామీలు",
+     "type": "Scheme",
+     "english_name": "Super Six promises"
+    },
+    {
+     "name": "తిరుమల లడ్డూ ప్రసాదం",
+     "type": "Place",
+     "english_name": "Tirumala Laddu Prasad"
+    },
+    {
+     "name": "నెయ్యి",
+     "type": "Claim",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "నాసి రకం నెయ్యి",
+     "type": "Claim",
+     "english_name": "Substandard ghee"
+    },
+    {
+     "name": "జంతువుల కొవ్వు",
+     "type": "Claim",
+     "english_name": "Animal fat"
+    },
+    {
+     "name": "ఎల్‌–1",
+     "type": "Organization",
+     "english_name": "L-1"
+    },
+    {
+     "name": "ఎన్‌ఏబీఎల్‌ సర్టిఫికెట్‌",
+     "type": "Organization",
+     "english_name": "NABL Certificate"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు మరో డైవర్షన్‌కు తెర లేపారని శ్రీ వైయస్‌ జగన్‌ గుర్తు చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "తిరుమల లడ్డూ ప్రసాదంలో వాడే నెయ్యిలో కల్తీ జరిగిందని..."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "నాసి రకం నెయ్యి",
+     "evidence": "తిరుపతి లడ్డూ తయారీలో నాసి రకం నెయ్యి, జంతువుల కొవ్వు నుంచి తయారు చేసిన నెయ్యిని వాడారంటూ..."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "జంతువుల కొవ్వు",
+     "evidence": "తిరుపతి లడ్డూ తయారీలో నాసి రకం నెయ్యి, జంతువుల కొవ్వు నుంచి తయారు చేసిన నెయ్యిని వాడారంటూ..."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "DEFENDS",
+     "target": "సూపర్‌సిక్స్‌ హామీలు",
+     "evidence": "సూపర్‌సిక్స్‌ హామీలపై ప్రజలు నిలదీస్తారన్న భయంతో, దుర్మార్గమైన కుట్రకు పాల్పడుతున్నారన్న శ్రీ వైయస్‌ జగన్..."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fd012593fa2c7a9fc030ce76671bd8c2314320a5": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Sri Vaishnav Jagannath"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "నేషనల్‌అక్రిడిటేషన్‌ బోర్డ్‌ ఆఫ్‌ టెస్టింగ్‌ అండ్‌ కాలిబ్రేషన్‌ ల్యాబరేటరీస్‌",
+     "type": "Organization",
+     "english_name": "NABL"
+    },
+    {
+     "name": "నేషనల్‌ డెయిరీ డెవలప్‌మెంట్‌ బోర్డు",
+     "type": "Organization",
+     "english_name": "NDDB"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "కల్తీ నెయ్యి",
+     "type": "Issue",
+     "english_name": "Adulterated Ghee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d60a8946803e489cdafe16d3d83828fac6f176d3": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "RBK వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "RBK System"
+    },
+    {
+     "name": "జన్మభూమి కమిటీలు",
+     "type": "Organization",
+     "english_name": "Janmabhoomi Committees"
+    },
+    {
+     "name": "TTD LADDU ISSUE",
+     "type": "Issue",
+     "english_name": "TTD Laddu Issue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వంలో గోరుముద్ద గాలికి ఎగిరిపోగా.. టోఫెల్, సీబీఎస్‌ఈ కూడా తీసే కార్యక్రమం చేస్తూ.. పూర్తిగా బడులన్నింటినీ నిర్వీర్యం చేస్తున్నారని గుర్తు చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఆరోగ్యశ్రీ బిల్లులు దాదాపు రూ.2 వేల కోట్లు పెండింగ్‌లో పెట్టారని, దీనితో నెట్‌వర్క్‌ ఆసుపత్రులు ప్రజలకు సేవలందించే కార్యక్రమంలో వెనుకడుగు వేస్తున్నారని చెప్పారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అత్యవసర సర్వీసుల్లో 108, 104 సిబ్బందికి చంద్రబాబు సీఎం అయినప్పటి నుంచి జీతాలు రావడం లేదని పేర్కొన్నారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "రైతులైతే చంద్రబాబు హయాంలో పూర్తిగా రోడ్డున పడ్డారని.. పెట్టుబడి సాయం కింద రైతులకు అందాల్సిన రూ.20 వేలు కూడా ప్రభుత్వం ఇంతవరకు ఇవ్వకపోవడం దారుణమన్నారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్సీపీ",
+     "evidence": "గతంలో వైయస్సార్సీపీ హయాంలో ఇస్తున్న రైతు భరోసా ఎగ్గొట్టడంతో పాటు, రైతులకు ఇ–క్రాపింగ్‌ లేకుండా చేసి..ఆర్బీకే వ్యవస్ధను నిర్వీర్యం చేశారన్నారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "జన్మభూమి కమిటీలు",
+     "evidence": "ప్రతి పనికీ జన్మభూమి కమిటీల దగ్గరకు వెళ్లాల్సి వస్తోందని, ఎవరైనా వెళ్లకపోతే వారికి పథకాలు రద్దు చేస్తున్నారని ఆగ్రహించారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్సీపీ",
+     "evidence": "గతంలో వైయస్సార్సీపీ హయాంలో ఇస్తున్న రైతు భరోసా ఎగ్గొట్టడంతో పాటు, రైతులకు ఇ–క్రాపింగ్‌ లేకుండా చేసి..ఆర్బీకే వ్యవస్ధను నిర్వీర్యం చేశారన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cef4dd80dd3a8cff5205ae9665e7d9200bfb0f2f": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "రెడ్‌బుక్‌ పాలన",
+     "type": "Claim",
+     "english_name": "Red Book governance"
+    },
+    {
+     "name": "డోర్‌ డెలివరీ పెన్షన్",
+     "type": "Scheme",
+     "english_name": "Door delivery pension"
+    },
+    {
+     "name": "డోర్‌ డెలివరీ రేషన్‌",
+     "type": "Scheme",
+     "english_name": "Door delivery ration"
+    },
+    {
+     "name": "జన్మభూమి కమిటీలు",
+     "type": "Organization",
+     "english_name": "Janmabhoomi committees"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "మదనపల్లి",
+     "type": "Place",
+     "english_name": "Madanapalle"
+    },
+    {
+     "name": "గోరుముద్ద కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "Gorimudda program"
+    },
+    {
+     "name": "గురుకుల పాఠశాలలు",
+     "type": "Organization",
+     "english_name": "Gurukul schools"
+    },
+    {
+     "name": "ట్రిపుల్‌ ఐఐటీలు",
+     "type": "Organization",
+     "english_name": "Triple IITs"
+    },
+    {
+     "name": "స్కిల్‌ స్కాం",
+     "type": "Issue",
+     "english_name": "Skill scam"
+    },
+    {
+     "name": "ఈనాడు గ్రూప్‌",
+     "type": "Organization",
+     "english_name": "Eenadu Group"
+    },
+    {
+     "name": "మార్గదర్శి",
+     "type": "Organization",
+     "english_name": "Margadarsi"
+    },
+    {
+     "name": "ముంబై సినీ నటి",
+     "type": "Person",
+     "english_name": "Mumbai film actress"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "ఏలేరు",
+     "type": "Place",
+     "english_name": "Aeleru"
+    },
+    {
+     "name": "ప్రకాశం బ్యారేజీ",
+     "type": "Place",
+     "english_name": "Prakasam Barrage"
+    },
+    {
+     "name": "విశాఖ స్టీల్‌ ప్లాంట్‌",
+     "type": "Organization",
+     "english_name": "Visakhapatnam Steel Plant"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణ యత్నం",
+     "type": "Scheme",
+     "english_name": "Privatization attempt of medical colleges"
+    },
+    {
+     "name": "ముగ్గురు సీనియర్‌ ఐపీఎస్‌లు",
+     "type": "Person",
+     "english_name": "Three senior IPS officers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును అరెస్టు చేశారని.. తనకు బాగా దగ్గర, బంధుత్వం ఉన్న ఈనాడు గ్రూప్‌లో మార్గదర్శి నేరాలను బయటపెట్టారని ఐఏఎస్, ఐపీఎస్‌ అధికారుల వేధింపులకు చంద్రబాబు తెర తీశారన్నారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "విజయవాడలో భారీ వర్షాలు కురుస్తాయని ముందే అలర్ట్‌ వచ్చినా సీఎం అధికారులతో కనీసం సమీక్ష కూడా నిర్వహించలేదన్న ఆయన, ఆ వరదల్లో 60 మంది ప్రాణాలు కోల్పోవడానికి ప్రభుత్వ నిర్లక్ష్యమే కారణమని తేల్చి చెప్పారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "విశాఖ స్టీల్‌ ప్లాంట్‌ అమ్మకం, కొత్త మెడికల్‌ కాలేజీల ప్రೖేవేటీకరణ యత్నం స్కామ్‌లపై ఆందోళన జరుగుతుంటే.. వాటి నుంచి డైవర్షన్‌ కోసం ముగ్గురు సీనియర్‌ ఐపీఎస్‌లను సస్పెండ్‌ చేశారని అన్నారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఆ వేధింపులపైనా విమర్శలు రావడంతో దాన్నుంచి డైవర్ట్‌ చేయడానికి ముంబై సినీ నటిని తీసుకొచ్చి కథ నడిపిస్తున్నారని తెలిపారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కూటమి ప్రభుత్వం అధికారంలోకి వచ్చిన తర్వాత రాష్ట్రంలో సాగిన అరాచక, ఆటవిక పాలన మీద ఢిల్లీకి వెళ్లి ధర్నా చేస్తే.. దాన్ని డైవర్ట్‌ చేసేందుకు మదనపల్లిలో ఫైల్స్‌ కాలిపోయాయని హెలికాప్టర్‌ పంపించిన విషయం గుర్తు చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "రాష్ట్ర వ్యాప్తంగా గోరుముద్ద కార్యక్రమంలోనూ, గురుకుల పాఠశాలల్లోనూ, ట్రిపుల్‌ ఐఐటీల్లోనూ ఫుడ్‌ పాయిజన్‌ జరిగి.. పిల్లలు ఇబ్బంది పడుతుంటే.. చంద్రబాబు తొలిసారి సీఎం అయి, 30 ఏళ్లు గడిచాయంటూ.. సెలబ్రేషన్‌ చేశారని తెలిపారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "నిజానికి ప్రభుత్వం చేస్తున్న ఇసుక మాఫియాలో భాగంగా అక్కడ పెట్టుకున్న బోట్లు కొట్టుకుని వస్తే.. దాన్ని రాజకీయం చేస్తూ.. ఆరోపణలు చేశారని తెలిపారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఇవేవీ చేయకుండా విజయవాడ, ఏలేరులో మ్యాన్‌మేడ్‌ ఫ్లడ్స్‌ క్రియేట్‌ చేసి, వరదలు ముంచెత్తడంతో, దాన్నుంచి డైవర్షన్‌ కోసం బోట్లతో ఢీకొట్టి ప్రకాశం బ్యారేజీని కూల్చే కుట్ర చేశామంటూ ఆరోపణలు, విమర్శలు చేశారని గుర్తు చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "రెడ్‌బుక్‌ పాలనతో న్యాయానికి పాతరేసి, ధర్మానికి రక్షణ లేకుండా ఆస్తులు ధ్వంసం చేస్తూ.. దొంగ కేసుల్లో ఇరికిస్తున్నారని చెప్పారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అన్ని రకాలుగా విఫలమైన ఈ ప్రభుత్వం ప్రతి అడుగులోనూ డైవర్షన్‌ పాలిటిక్స్‌ చేస్తోందని శ్రీ వైయస్‌ జగన్‌ తెలిపారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కోట్లాది భక్తుల మనోభావాలతో ఆట: చివరికి చంద్రబాబు వంద రోజుల పాలన మీద దృష్టి పెట్టేసరికి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "026629f1edc7441bf3092cf09031826d5d4b1114": {
+   "entities": [
+    {
+     "name": "వైవీ సుబ్బారెడ్డిగారు",
+     "type": "Person",
+     "english_name": "YV Subba Reddy"
+    },
+    {
+     "name": "కరుణాకర్‌రెడ్డి గారు",
+     "type": "Person",
+     "english_name": "Karunakar Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "నవనీత సేవ",
+     "type": "Scheme",
+     "english_name": "Navaneetha Seva"
+    },
+    {
+     "name": "గోశాల",
+     "type": "Scheme",
+     "english_name": "Goshala"
+    },
+    {
+     "name": "శ్రీవారి ఆలయం",
+     "type": "Place",
+     "english_name": "Srivari Temple"
+    },
+    {
+     "name": "వైజాగ్",
+     "type": "Place",
+     "english_name": "Vizag"
+    },
+    {
+     "name": "అమరాతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైవీ సుబ్బారెడ్డిగారు",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "బోర్డు ఛైర్మన్‌గా పని చేసిన వారి గురించి చెప్పాలంటే.. వైవీ సుబ్బారెడ్డిగారు ఏకంగా 45 సార్లు అయ్యప్పమాల వేసుకున్నారని.. ఆయన అంత భక్తుడని తెలిపారు."
+    },
+    {
+     "source": "కరుణాకర్‌రెడ్డి గారు",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "అదే విధంగా కరుణాకర్‌రెడ్డి గారు కూడా ఆధ్యాత్మికంగా ఎంతో ఉన్నతంగా విలువలు ఉన్న వారన్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "గొప్ప విధానాలున్నా.. వాటిని చెప్పుకోలేక అక్కడా బురద చల్లుతూ దేవుణ్ని కూడా రాజకీయం చేయడం కేవలం చంద్రబాబుకే సాధ్యమని మండిపడ్డారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "914542651f853b2c65b7e8bf3811bd6bf8b1b8eb": {
+   "entities": [
+    {
+     "name": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "నవనీత సేవ",
+     "type": "Scheme",
+     "english_name": "Navaneetha Seva"
+    },
+    {
+     "name": "గోశాల",
+     "type": "Organization",
+     "english_name": "Goshala"
+    },
+    {
+     "name": "శ్రీవారి ఆలయం",
+     "type": "Place",
+     "english_name": "Srivari Temple"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైజాగ్",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "అమరాతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "భువనేశ్వర్",
+     "type": "Place",
+     "english_name": "Bhubaneswar"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "జమ్మూకశ్మీర్",
+     "type": "Place",
+     "english_name": "Jammu and Kashmir"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "అమెరికా",
+     "type": "Place",
+     "english_name": "America"
+    },
+    {
+     "name": "వెంకటేశ్వరస్వామి ఆలయాలు",
+     "type": "Place",
+     "english_name": "Venkateswara Swamy Temples"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "9 వేల మంది ఉద్యోగులు",
+     "type": "Organization",
+     "english_name": "9000 employees"
+    },
+    {
+     "name": "మఠాధిపతులు",
+     "type": "Organization",
+     "english_name": "Mathadhipathis"
+    },
+    {
+     "name": "విద్వత్‌ సదస్సులు",
+     "type": "Scheme",
+     "english_name": "Vidwat Sadassulu"
+    },
+    {
+     "name": "వైయస్సార్‌గారు",
+     "type": "Person",
+     "english_name": "YSR"
+    },
+    {
+     "name": "ప్రధాని",
+     "type": "Person",
+     "english_name": "Prime Minister"
+    },
+    {
+     "name": "సీజేఐ",
+     "type": "Person",
+     "english_name": "CJI"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "మెడికల్‌ కాలేజీల ప్రైవేటీకరణ",
+     "type": "Issue",
+     "english_name": "Medical Colleges Privatization"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవనీత సేవ",
+     "evidence": "నవనీత సేవ మొదలుపెట్టామని"
+    },
+    {
+     "source": "వైయస్సార్సీపీ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "విద్వత్‌ సదస్సులు",
+     "evidence": "మూడు విద్వత్‌ సదస్సులు కూడా నిర్వహించింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "78a0ab4607945d7da0a4a0151c3dec0a9afcc634": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "శ్రీ వెంకటేశ్వరస్వామి గుడి",
+     "type": "Place",
+     "english_name": "Sri Venkateswara Swamy Temple"
+    },
+    {
+     "name": "కర్ణాటక మిల్క్‌ ప్రొడ్యూసర్స్‌ ఫెడరేషన్‌ (కెఎంఎఫ్‌)",
+     "type": "Organization",
+     "english_name": "Karnataka Milk Producers Federation (KMF)"
+    },
+    {
+     "name": "నందిని బ్రాండ్‌",
+     "type": "Organization",
+     "english_name": "Nandini Brand"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎన్డీడీబీ రిపోర్టు",
+     "type": "Organization",
+     "english_name": "NDDB Report"
+    },
+    {
+     "name": "సీఎఫ్‌టీఆర్‌ఐ (సెంట్రల్‌ ఫుడ్‌ టెక్నాలజీ అండ్‌ రీసెర్చ్‌ ఇన్‌స్టిట్యూట్‌)",
+     "type": "Organization",
+     "english_name": "CFTRI (Central Food Technology and Research Institute)"
+    },
+    {
+     "name": "టీడీపీ ఆఫీస్‌",
+     "type": "Organization",
+     "english_name": "TDP Office"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "కల్తీ నెయ్యి వాడారని, లడ్డూలు తయారు చేసి భక్తులకు ఇస్తే, వాటిని భక్తులు తిన్నారని ముఖ్యమంత్రి స్ధానంలో వ్యక్తి టీటీడీని, శ్రీ వెంకటేశ్వరస్వామి గుడిని అపవిత్రం జేస్తూ.. అక్కడ ప్రసాదం తయారు చేసే ప్రక్రియను అభాసు పాల్జేస్తున్నారని ఆవేదన చెందారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ff640c5d087996ebede37bbc2bce9296902bd8d6": {
+   "entities": [
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical Colleges"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ప్రైవేటు",
+     "type": "Organization",
+     "english_name": "Private"
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Sri Vayyys Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీటీడీ బోర్డు",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పూర్తిగా పచ్చి అబద్ధాలు, మోసాల వ్యక్తి అని"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "బీజేపీ",
+     "evidence": "బీజేపీకి పూర్తి సమాచారం ఉండకపోవచ్చు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2795730722ef9cc8a6bca517ad5d58f355ee3fcc": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Shri Y. S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "సూపర్‌సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "TTD LADDU ISSUE",
+     "type": "Issue",
+     "english_name": "TTD Laddu Issue"
+    },
+    {
+     "name": "ప్రశ్నించారు",
+     "type": "Person",
+     "english_name": "Questioner"
+    },
+    {
+     "name": "స్వామివారిని",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "శ్రీ వెంకటేశ్వరస్వామి గుడి",
+     "type": "Place",
+     "english_name": "Sri Venkateswara Temple"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు 100 రోజుల పాలన తర్వాత, సూపర్‌సిక్స్‌ గురించి ప్రజలు నిలదీస్తారన్న భయంతో, వారి దృష్టి మరల్చేందుకు, రెండు నెలల తర్వాత, ఆ రిపోర్టులోని అంశాలు ప్రస్తావించి.. దాన్ని వక్రభాష్యం చేస్తూ.. నోటికొచ్చినట్లు అబద్ధాలు చెబుతున్నారని"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌సిక్స్‌",
+     "evidence": "సూపర్‌సిక్స్‌ గురించి ప్రజలు నిలదీస్తారన్న భయంతో"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు 100 రోజుల పాలన తర్వాత, సూపర్‌సిక్స్‌ గురించి ప్రజలు నిలదీస్తారన్న భయంతో, వారి దృష్టి మరల్చేందుకు, రెండు నెలల తర్వాత, ఆ రిపోర్టులోని అంశాలు ప్రస్తావించి.. దాన్ని వక్రభాష్యం చేస్తూ.. నోటికొచ్చినట్లు అబద్ధాలు చెబుతున్నారని"
+    },
+    {
+     "source": "ప్రశ్నించారు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "అక్కడ పక్కాగా ఒక వ్యవస్థ ఉన్నా.. ఇలా పచ్చిగా అబద్ధానికి రెక్కలు కడుతున్నారని ఆగ్రహం వ్యక్తం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0178e990eb200de22f14fb29ba4d8477b2aa0f8a": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Sri Vais Jagannath Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "టీటీడీ బోర్డు",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Vysa Jagan"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పూర్తిగా పచ్చి అబద్ధాలు, మోసాల వ్యక్తి అని.."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "బీజేపీ",
+     "evidence": "బీజేపీకి పూర్తి సమాచారం ఉండకపోవచ్చన్న శ్రీ వైయస్‌ జగన్"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "దేవుణ్ని కూడా రాజకీయాల కోసం వినియోగించుకునే అత్యంత హేయమైన మనసున్న వ్యక్తి అని ఆయన మండిపడ్డారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -246,6 +246,592 @@
      "evidence": "అమూల్ను చంపేసి పాలరేట్ల బాదుడు"
     }
    ]
+  },
+  "111fd86e0bcc167c22e5e12f591aea20998408bc": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "Manifesto",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "Pension",
+     "type": "Scheme",
+     "english_name": "Pension"
+    },
+    {
+     "name": "Kadapa",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "Visakhapatnam",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "Anantapur",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Rayalaseema",
+     "type": "Place",
+     "english_name": "Rayalaseema"
+    },
+    {
+     "name": "Uttara Andhra",
+     "type": "Place",
+     "english_name": "Uttara Andhra"
+    },
+    {
+     "name": "Durga",
+     "type": "Place",
+     "english_name": "Durga"
+    },
+    {
+     "name": "50 ఏళ్లకే పెన్షన్",
+     "type": "Claim",
+     "english_name": "50 years pension"
+    },
+    {
+     "name": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు",
+     "type": "Claim",
+     "english_name": "New pensions not given, existing cut"
+    },
+    {
+     "name": "రావాల్సిన సొమ్మును వడ్డీతో సహా చెల్లించాలని డిమాండ్",
+     "type": "Claim",
+     "english_name": "Demand to pay due amount with interest"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "50 ఏళ్లకే పెన్షన్",
+     "evidence": "50 ఏళ్లకే పెన్షన్ అన్నారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు",
+     "evidence": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "రావాల్సిన సొమ్మును వడ్డీతో సహా చెల్లించాలని డిమాండ్",
+     "evidence": "రావాల్సిన సొమ్మును వడ్డీతో సహా చెల్లించాలని గట్టిగా డిమాండ్ చేస్తూ నిలదీయండి."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Manifesto",
+     "evidence": "మీ వద్ద ఆ మేనిఫెస్టో లేకపోతే క్యూఆర్ కోడ్ స్కాన్ చేసి డౌన్లోడ్ చేసుకునేలా వైఎస్సార్సీపీ త్వరలో రిలీజ్ చేస్తుంది."
+    }
+   ]
+  },
+  "f4506bd28f83b0c8236434aade95f80fc1e459ea": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu"
+    },
+    {
+     "name": "ఇంగ్లిష్ మీడియం",
+     "type": "Scheme",
+     "english_name": "English Medium"
+    },
+    {
+     "name": "సీబీఎస్సీ",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Organization",
+     "english_name": "IB"
+    },
+    {
+     "name": "విద్యా రంగం",
+     "type": "Issue",
+     "english_name": "Education sector"
+    }
+   ],
+   "relations": []
+  },
+  "755e715603c622b5d50116bfe80c9823f21ca657": {
+   "entities": [
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "దీపం",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "ఉచిత బస్సు",
+     "type": "Scheme",
+     "english_name": "Free bus"
+    },
+    {
+     "name": "ఉచిత గ్యాస్",
+     "type": "Scheme",
+     "english_name": "Free gas"
+    },
+    {
+     "name": "ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": "RTC"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    }
+   ],
+   "relations": []
+  },
+  "71d7f972a9ef3b1fd62cdd2bf3c3792c7b4e629c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "PM Kisan scheme",
+     "type": "Scheme",
+     "english_name": "Pradhan Mantri Kisan Samman Nidhi"
+    },
+    {
+     "name": "Annadata Sukhibhava",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "Issue: Pensions",
+     "type": "Issue",
+     "english_name": "Pensions"
+    },
+    {
+     "name": "Issue: PM Kisan scheme",
+     "type": "Issue",
+     "english_name": "PM Kisan scheme"
+    },
+    {
+     "name": "Issue: Annadata Sukhibhava",
+     "type": "Issue",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలను మోసం చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్రం ఇచ్చే రూ.6 వేలకు అదనంగా రూ.20 వేలు ఇస్తానని ఊదరగొట్టి ఏడాదిలో ఒక్కపైసా ఇవ్వలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రధాన మంత్రి పీఎం కిసాన్ పథకంతో సంబంధం లేకుండా ఒక్కో రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు ఇస్తామని హామీ ఇచ్చారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "ప్రతి విద్యార్థికి రూ.15 వేలు ఇస్తామన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "53,58,666 మంది రైతులకు రూ.20 వేలు చొప్పున ఇస్తే రూ.10,716 కోట్లు మేలు జరిగేది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "యూడైస్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రంలో",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు.",
+     "evidence": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మహిళలను మోసం చేశారు.",
+     "evidence": "మహిళలను మోసం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "కేంద్రం ఇచ్చే రూ.6 వేలకు అదనంగా రూ.20 వేలు ఇస్తానని ఊదరగొట్టి ఏడాదిలో ఒక్కపైసా ఇవ్వలేదు.",
+     "evidence": "కేంద్రం ఇచ్చే రూ.6 వేలకు అదనంగా రూ.20 వేలు ఇస్తానని ఊదరగొట్టి ఏడాదిలో ఒక్కపైసా ఇవ్వలేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రధాన మంత్రి పీఎం కిసాన్ పథకంతో సంబంధం లేకుండా ఒక్కో రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు ఇస్తామని హామీ ఇచ్చారు.",
+     "evidence": "ప్రధాన మంత్రి పీఎం కిసాన్ పథకంతో సంబంధం లేకుండా ఒక్కో రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు ఇస్తామని హామీ ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "చంద్రబాబు చెప్పాడు."
+    },
+    {
+     "source": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Issue: Pensions",
+     "evidence": "కొత్త పిఛన్లు ఇవ్వకపోగా ఉన్నవి పీకేశారు."
+    },
+    {
+     "source": "మహిళలను మోసం చేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Issue: Pensions",
+     "evidence": "మహిళలను మోసం చేశారు."
+    },
+    {
+     "source": "కేంద్రం ఇచ్చే రూ.6 వేలకు అదనంగా రూ.20 వేలు ఇస్తానని ఊదరగొట్టి ఏడాదిలో ఒక్కపైసా ఇవ్వలేదు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Issue: Annadata Sukhibhava",
+     "evidence": "కేంద్రం ఇచ్చే రూ.6 వేలకు అదనంగా రూ.20 వేలు ఇస్తానని ఊదరగొట్టి ఏడాదిలో ఒక్కపైసా ఇవ్వలేదు."
+    },
+    {
+     "source": "ప్రధాన మంత్రి పీఎం కిసాన్ పథకంతో సంబంధం లేకుండా ఒక్కో రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు ఇస్తామని హామీ ఇచ్చారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Issue: Annadata Sukhibhava",
+     "evidence": "ప్రధాన మంత్రి పీఎం కిసాన్ పథకంతో సంబంధం లేకుండా ఒక్కో రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు ఇస్తామని హామీ ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రతి విద్యార్థికి రూ.15 వేలు ఇస్తామన్నాడు",
+     "evidence": "ప్రతి విద్యార్థికి రూ.15 వేలు ఇస్తామన్నాడు."
+    },
+    {
+     "source": "కేంద్ర ప్రభుత్వ",
+     "relation": "LOCATED_IN",
+     "target": "రాష్ట్రంలో",
+     "evidence": "రాష్ట్రంలో"
+    },
+    {
+     "source": "యూడైస్",
+     "relation": "LOCATED_IN",
+     "target": "రాష్ట్రంలో",
+     "evidence": "రాష్ట్రంలో"
+    }
+   ]
+  },
+  "db79b40d3e6b160bc5946d44e07008056d5aadd1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఓపీఎస్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గ్యారంటీడ్ పెన్షన్ స్కీమ్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "డీఏ పెండింగ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బకాయిలు రూ.20 వేల కోట్లకు పైగా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తోకలు కత్తిరిస్తా.. భూ స్థాపితం చేస్తా",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజలకు తానిచ్చిన వాగ్దానాలను ఎగవేయడానికి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎల్లో మీడియా రకరకాల స్కెచ్లు వేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "నాల్లో డీఏ పెండింగ్, వైఎస్సార్సీపీ హయాంలో తీసుకొచ్చిన గ్యారంటీడ్ పెన్షన్ స్కీమ్ను తీసేసి ఓపీఎస్ అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఓపీఎస్",
+     "evidence": "ఆ విషయంలోనూ వెన్నుపోటు పొడిచాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బకాయిలు రూ.20 వేల కోట్లకు పైగా",
+     "evidence": "ఉద్యోగస్తులకు ఇవ్వాల్సిన బకాయిలే రూ.20 వేల కోట్లకు పైగా ఉన్నాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "తోకలు కత్తిరిస్తా.. భూ స్థాపితం చేస్తా",
+     "evidence": "ఎవరైనా అడిగితే తోకలు కత్తిరిస్తా.. భూ స్థాపితం చేస్తా అంటున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలకు తానిచ్చిన వాగ్దానాలను ఎగవేయడానికి",
+     "evidence": "ప్రజలకు తానిచ్చిన వాగ్దానాలను ఎగవేయడానికి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎల్లో మీడియా రకరకాల స్కెచ్లు వేస్తున్నారు",
+     "evidence": "ఆయన, ఆయన ఎల్లో మీడియా రకరకాల స్కెచ్లు వేస్తున్నారు."
+    }
+   ]
+  },
+  "553a07a250d0b2914f680152a92f12aa0ff33bec": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "నాడు-నేడు",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్మెంట్",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ప్రభుత్వ బడులు ప్రైవేటు బడుల కంటే మెరుగైనవిగా నిలిచాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీలో రూ.25 లక్షల వరకు ఉచిత వైద్యం అందిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ ప్రొసీజర్స్ను వెయ్యి నుంచి 3,300కు పెంచి పేదలకు కార్పొరేట్ వైద్యాన్ని, మల్టీ స్పెషాలిటీ వైద్యాన్ని దరి చేర్చాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నాడు-నేడు పనులు ఆగిపోయాయి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "నెట్ వర్క్ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": "Network Hospitals"
+    },
+    {
+     "name": "ఏడాదిలో రూ.4 వేల కోట్లు పూర్తిగా ఎగ్గొట్టేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏడాదిలో రూ.15 వేల కోట్లు కరెంటు చార్జీలు బాదాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ స్కూళ్లు, కాలేజీలను చంపేసి తద్వారా ప్రైవేటు స్కూళ్లు, కాలేజీల్లో ఫీజులు పెంచి పేదలను బాదేశాడు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏడాదిలో రూ.3,600 కోట్లు పెండిం గ్ పెట్టేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇవన్నీ ఇవ్వకుండానే చంద్రబాబు.. అబ్రక దబ్రా అంటూ మాయ చేస్తున్నాడు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏడాదిలో రూ.4 వేల కోట్లు పూర్తిగా ఎగ్గొట్టేశారు.",
+     "evidence": "ఏడాదిలో రూ.4 వేల కోట్లు పూర్తిగా ఎగ్గొట్టేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏడాదిలో రూ.15 వేల కోట్లు కరెంటు చార్జీలు బాదాడు.",
+     "evidence": "ఏడాదిలో రూ.15 వేల కోట్లు కరెంటు చార్జీలు బాదాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ స్కూళ్లు, కాలేజీలను చంపేసి తద్వారా ప్రైవేటు స్కూళ్లు, కాలేజీల్లో ఫీజులు పెంచి పేదలను బాదేశాడు.",
+     "evidence": "ప్రభుత్వ స్కూళ్లు, కాలేజీలను చంపేసి తద్వారా ప్రైవేటు స్కూళ్లు, కాలేజీల్లో ఫీజులు పెంచి పేదలను బాదేశాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏడాదిలో రూ.3,600 కోట్లు పెండిం గ్ పెట్టేశారు.",
+     "evidence": "ఏడాదిలో రూ.3,600 కోట్లు పెండిం గ్ పెట్టేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇవన్నీ ఇవ్వకుండానే చంద్రబాబు.. అబ్రక దబ్రా అంటూ మాయ చేస్తున్నాడు.",
+     "evidence": "ఇవన్నీ ఇవ్వకుండానే చంద్రబాబు.. అబ్రక దబ్రా అంటూ మాయ చేస్తున్నాడు."
+    }
+   ]
   }
  }
 }

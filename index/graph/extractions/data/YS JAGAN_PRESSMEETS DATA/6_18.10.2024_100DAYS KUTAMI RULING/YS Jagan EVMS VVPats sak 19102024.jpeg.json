@@ -1,0 +1,73 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b2f8719ad94816aa64fa66b38569e0f9de4a5540": {
+   "entities": [
+    {
+     "name": "ఈవీఎం",
+     "type": "Organization",
+     "english_name": "EVM"
+    },
+    {
+     "name": "వీవీ ప్యాట్లు",
+     "type": "Organization",
+     "english_name": "VVPAT"
+    },
+    {
+     "name": "ఈసీ",
+     "type": "Organization",
+     "english_name": "EC"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఒంగోలు నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Ongole constituency"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "అమెరికా",
+     "type": "Place",
+     "english_name": "America"
+    },
+    {
+     "name": "యూకే",
+     "type": "Place",
+     "english_name": "UK"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఈసీ",
+     "evidence": "ఈసీ తీరు వల్ల అనుమానాలు మరింత పెరుగుతున్నాయని స్పష్టీకరణ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

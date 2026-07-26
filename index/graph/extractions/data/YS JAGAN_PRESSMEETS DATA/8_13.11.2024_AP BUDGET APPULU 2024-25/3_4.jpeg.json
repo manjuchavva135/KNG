@@ -1,0 +1,65 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7c27d772848ae99bd6b213322a2ecd57b3ca3941": {
+   "entities": [
+    {
+     "name": "శ్రీలంక పరిస్థితికి రాష్ట్రం కూతవేటు దూరం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వసన్ కల్చర్ ట్విస్ట్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పవన్ కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "ముఖ్యమంత్రి జగన్",
+     "type": "Person",
+     "english_name": "Chief Minister Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "ACCUSES",
+     "target": "ముఖ్యమంత్రి జగన్",
+     "evidence": "మీరు చేయాల్సింది ఇంకా లేని పొత్తుల గురించి విమర్శించటం కాదు.. గడప గడపకీ ఎమ్మెల్యేలను పంపటం కాదు.. మీరు చేసిన అప్పుల నుంచి ఆంధ్రప్రదేశ్ను దూరం జరిపే ప్రయత్నం చేయండి"
+    },
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "శ్రీలంక పరిస్థితికి రాష్ట్రం కూతవేటు దూరం",
+     "evidence": "శ్రీలంక పరిస్థితికి రాష్ట్రం కూతవేటు దూరం"
+    },
+    {
+     "source": "పవన్ కల్యాణ్",
+     "relation": "MAKES_CLAIM",
+     "target": "వసన్ కల్చర్ ట్విస్ట్",
+     "evidence": "వసన్ కల్చర్ ట్విస్ట్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

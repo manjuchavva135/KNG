@@ -1,0 +1,59 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "625eaa1155f4df6994b8028f461fd08a27c739f4": {
+   "entities": [
+    {
+     "name": "Pawan Kalyan",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "YAGAN MOHAN REDDY",
+     "type": "Person",
+     "english_name": "Yagan Mohan Reddy"
+    },
+    {
+     "name": "అప్పు రత్నా అవార్డు",
+     "type": "Scheme",
+     "english_name": "Appu Ratna Award"
+    },
+    {
+     "name": "భారత రత్న",
+     "type": "Scheme",
+     "english_name": "Bharat Ratna"
+    },
+    {
+     "name": "వైసీపీ సర్కార్",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "ఆంధ్ర",
+     "type": "Place",
+     "english_name": "Andhra"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Pawan Kalyan",
+     "relation": "ACCUSES",
+     "target": "YAGAN MOHAN REDDY",
+     "evidence": "అప్పులతో ‘ఆంధ్ర’ పేరు మారుమోగిస్తున్నందుకు,ముఖ్యమంత్రి కి నా ప్రత్యేక శుభకాంక్షలు ..keep it up 👍"
+    },
+    {
+     "source": "YAGAN MOHAN REDDY",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అప్పు రత్నా అవార్డు",
+     "evidence": "‘భారత రత్న’ లాగా ఇది కూడా ప్రతిష్టాత్మకమైన అవార్డు, సార్!"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

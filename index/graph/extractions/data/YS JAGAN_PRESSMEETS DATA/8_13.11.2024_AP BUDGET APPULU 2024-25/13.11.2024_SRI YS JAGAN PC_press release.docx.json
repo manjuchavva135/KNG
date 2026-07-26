@@ -1,0 +1,1719 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3cb3acc88bd339ace382a247824a9c96b0a8c580": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్.జగన్",
+     "type": "Person",
+     "english_name": "Sri Y.S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "వార్షిక బడ్జెట్‌",
+     "type": "Claim",
+     "english_name": "Annual Budget"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్.జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "వార్షిక బడ్జెట్‌",
+     "evidence": "ఈ బడ్జెట్‌ మభ్య పెట్టే విధంగా ఉంది."
+    },
+    {
+     "source": "శ్రీ వైయస్.జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చెప్పిన అబద్ధాలు, చేసిన మోసాలు బయటపడతాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ffbf6e3fd5c4ab975b876afa71b6c9636bad0ddb": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "పీఎం కిసాన్‌",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "ఆడపిల్ల నిధి పథకం",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi Scheme"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "చేయీత",
+     "type": "Scheme",
+     "english_name": "Cheyitha"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌",
+     "evidence": "సూపర్‌ సిక్స్‌ లో ప్రతి రైతుకు రూ.20 వేలు ఆర్థిక సాయం అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆడపిల్ల నిధి పథకం",
+     "evidence": "ఆడపిల్ల నిధి పథకానికి కేటాయింపు అన్నారు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆసరా",
+     "evidence": "ఆసరాకు, చేయూతకు."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "చేయీత",
+     "evidence": "ఆసరాకు, చేయూతకు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పీఎం కిసాన్‌",
+     "evidence": "జగన్‌ ఇచ్చేది రూ.13500, అందులోనూ కేంద్రం రూ.6 వేలు ఇస్తోంది, మేం వస్తే రూ.20 వేలు ఇస్తాం అని కేంద్రం ఇచ్చేది కాకుండా మేం రూ.20 వేలు ఇస్తాం అని బిల్డప్‌ ఇచ్చాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "95d6822307dff4da19c309c257be4f904c339f04": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "దత్తపుత్రుడు",
+     "type": "Person",
+     "english_name": "Adopted son"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Center"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ముందుగా తన అనుకూల ఎల్లో మీడియాలో కథనాలు రాయిస్తాడు."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "దత్తపుత్రుడు",
+     "evidence": "తన దత్తపుత్రుడితోనూ, తనకు సంబంధించి ఇతర పార్టీల ఉన్న వారితోనూ మాట్లాడిస్తారు."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "కేంద్రం కూడా సహకరించొద్దు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3381c6b381195ad86bd1e963ab8ac317144a0601": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Scheme",
+     "english_name": "Budget"
+    },
+    {
+     "name": "పథకాలు",
+     "type": "Scheme",
+     "english_name": "Schemes"
+    },
+    {
+     "name": "డిస్కమ్‌లు",
+     "type": "Organization",
+     "english_name": "DISCOMs"
+    },
+    {
+     "name": "సోషల్‌ మీడియా",
+     "type": "Organization",
+     "english_name": "Social Media"
+    },
+    {
+     "name": "నోటీసులు",
+     "type": "Organization",
+     "english_name": "Notices"
+    },
+    {
+     "name": "కేసులు",
+     "type": "Organization",
+     "english_name": "Cases"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Organization",
+     "english_name": "Sand"
+    },
+    {
+     "name": "మద్యం",
+     "type": "Organization",
+     "english_name": "Liquor"
+    },
+    {
+     "name": "క్లబ్‌లు",
+     "type": "Organization",
+     "english_name": "Clubs"
+    },
+    {
+     "name": "సిండికేట్లు",
+     "type": "Organization",
+     "english_name": "Syndicates"
+    },
+    {
+     "name": "క్యాపిటల్‌ ఎక్స్‌పెండీచర్‌",
+     "type": "Scheme",
+     "english_name": "Capital Expenditure"
+    },
+    {
+     "name": "ఉద్యోగాలు",
+     "type": "Scheme",
+     "english_name": "Jobs"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పాలనంతా తిరోగమనమే"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర ప్రభుత్వం",
+     "evidence": "ఇది ఫెయిల్యూర్‌ ప్రభుత్వం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పథకాలు",
+     "evidence": "బడ్జెట్‌లో పథకాలకు కేటాయింపులు లేని వైనం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "క్యాపిటల్‌ ఎక్స్‌పెండీచర్‌",
+     "evidence": "వైయస్సార్‌సీపీ హయాంలో క్యాపిటల్‌ ఎక్స్‌పెండీచర్‌ బెస్ట్‌"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఉద్యోగాలు",
+     "evidence": "వైయస్సార్‌సీపీ ప్రభుత్వంలో ఉద్యోగాల వెల్లువ"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "DEFENDS",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "వైయస్సార్‌సీపీ పాలనలోనే పెట్టుబడులకు బాటలు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "DEFENDS",
+     "target": "పథకాలు",
+     "evidence": "ఇప్పుడు జగనే ఉండి ఉంటే.. అన్ని పథకాలు అందేవి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9af604edfa678ac8a579bb52120947c8f593784d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్‌సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు",
+     "type": "Issue",
+     "english_name": "State Debt"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌సిక్స్‌",
+     "evidence": "సూపర్‌సిక్స్‌ ప్రకటించాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌సెవెన్‌",
+     "evidence": "సూపర్‌సిక్స్‌, సూపర్‌సెవెన్‌ అమలు చేయకుండా ప్రజలను మోసం చేయాలి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్‌",
+     "evidence": "జగన్‌పై నింద వేయడం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "37262f85a43e98658fbf4cd01f6ef4c40b625fbd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "సీఏజీఆర్‌",
+     "type": "Claim",
+     "english_name": "CAGR"
+    },
+    {
+     "name": "కోవిడ్‌",
+     "type": "Issue",
+     "english_name": "COVID"
+    },
+    {
+     "name": "డిస్కమ్‌ల బకాయిలు",
+     "type": "Claim",
+     "english_name": "DISCOM dues"
+    },
+    {
+     "name": "ఉపాధి హామీ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Employment guarantee dues"
+    },
+    {
+     "name": "ఉద్యోగుల రెండు డీఏలు బకాయి",
+     "type": "Claim",
+     "english_name": "Two DA dues for employees"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీలో నెట్‌వర్క్‌ ఆస్పత్రుల బకాయిలు",
+     "type": "Claim",
+     "english_name": "HealthSree network hospital dues"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్‌ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Fee reimbursement dues"
+    },
+    {
+     "name": "రైతులకు ధాన్యం సేకరణ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Farmers grain procurement dues"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మా ప్రభుత్వం",
+     "evidence": "చంద్రబాబు అబద్ధాలు మళ్లీ పెంచారు. మా ప్రభుత్వం పెద్ద ఎత్తున బకాయిలు పెట్టి పోయిందని నిందిస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "32dc88687016b86c7a0a6a0e2baf3c25fa5b851a": {
+   "entities": [
+    {
+     "name": "రాష్ట్ర అప్పులపై విష ప్రచారం",
+     "type": "Claim",
+     "english_name": "Allegation of false propaganda on state debt"
+    },
+    {
+     "name": "ఆర్గనైజ్డ్‌ క్రైమ్‌",
+     "type": "Claim",
+     "english_name": "Organized crime on state debt"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Organization",
+     "english_name": "Budget"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "ప్రభుత్వ అప్పు",
+     "type": "Claim",
+     "english_name": "Government debt"
+    },
+    {
+     "name": "ప్రభుత్వ గ్యారెంటీ",
+     "type": "Claim",
+     "english_name": "Government guarantee"
+    },
+    {
+     "name": "కార్పొరేషన్లు",
+     "type": "Organization",
+     "english_name": "Corporations"
+    },
+    {
+     "name": "పబ్లిక్‌ సెక్టార్లకు",
+     "type": "Organization",
+     "english_name": "Public sector"
+    },
+    {
+     "name": "నాన్‌ గ్యారెంటీడ్‌ అప్పులు",
+     "type": "Claim",
+     "english_name": "Non-guaranteed debt"
+    },
+    {
+     "name": "పవర్‌ సెక్టర్‌లో డిస్కమ్‌లకు",
+     "type": "Organization",
+     "english_name": "Power sector DISCOMs"
+    },
+    {
+     "name": "ప్రభుత్వ రంగ సంస్థల",
+     "type": "Organization",
+     "english_name": "Public sector enterprises"
+    },
+    {
+     "name": "మొత్తం అప్పులు",
+     "type": "Claim",
+     "english_name": "Total debt"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రాష్ట్ర అప్పులపై విష ప్రచారం",
+     "evidence": "రాష్ట్ర అప్పులపై విష ప్రచారం: రాష్ట్ర అప్పులపై ఆర్గనైజ్డ్‌ క్రైమ్‌ చేస్తూ, ఏ స్థాయిలో విష ప్రచారం చేశారన్నది చూస్తే.. ఆశ్చర్యం కలుగుతుంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ గ్యారెంటీ",
+     "evidence": "ప్రభుత్వ గ్యారెంటీతో కార్పొరేషన్లు చేసిన అప్పు మరో రూ.55,000 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మొత్తం అప్పులు",
+     "evidence": "చంద్రబాబు హయాంలో ఆయన అధికారంలోకి వచ్చిన నాటికి రూ.1.40 లక్షల కోట్లు, ఆయన దిగిపోయే నాటికి రూ.3.90 లక్షల కోట్లు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "10654d230a9dd5a7a3000f1722b7d25aab3988d4": {
+   "entities": [
+    {
+     "name": "Aditya Mittal",
+     "type": "Person",
+     "english_name": "Aditya Mittal"
+    },
+    {
+     "name": "Odisha",
+     "type": "Place",
+     "english_name": "Odisha"
+    },
+    {
+     "name": "Anakapalli",
+     "type": "Place",
+     "english_name": "Anakapalli"
+    },
+    {
+     "name": "Sajjan Jindal",
+     "type": "Person",
+     "english_name": "Sajjan Jindal"
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "Chandra",
+     "type": "Person",
+     "english_name": "Chandra"
+    },
+    {
+     "name": "Discoms",
+     "type": "Organization",
+     "english_name": "Discoms"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6465f3f1c73601f2e88fe26bc7541eec382140ce": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "డిస్కమ్‌లు",
+     "type": "Organization",
+     "english_name": "DISCOMs"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ట్రూఅప్‌ ఛార్జీలు",
+     "type": "Scheme",
+     "english_name": "Truup charges"
+    },
+    {
+     "name": "ఫ్యుయల్‌ అడ్జస్ట్‌మెంట్‌ ఛార్జీలు",
+     "type": "Scheme",
+     "english_name": "Fuel adjustment charges"
+    },
+    {
+     "name": "రాష్ట్ర సంపద",
+     "type": "Issue",
+     "english_name": "State own revenue"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "డిస్కమ్‌లు",
+     "evidence": "చంద్రబాబుగారి హయాంలో జరిగిన నష్టాలు చూస్తే.. 2014లో చంద్రబాబు సీఎం అయ్యే నాటికి పవర్‌ డిస్కమ్‌ల నష్టాలు రూ.6625 కోట్లు ఉండగా, ఆయన దిగిపోయే నాటికి డిస్కమ్‌ల నష్టాలు ఏకంగా రూ.28,715 కోట్లకు పెరిగాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "డిస్కమ్‌లు",
+     "evidence": "చంద్రబాబు మామీద వదిలిపెట్టిన ట్రూఅప్‌ ఛార్జీలు, ఫ్యుయల్‌ అడ్జస్ట్‌మెంట్‌ ఛార్జీలకు సంబంధించి, ప్రజలకు తక్కువ బదిలీ చేయగలిగాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e14d44ac20a651385e80c9273c29cd961d5be765": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆదిత్య మిట్టల్",
+     "type": "Person",
+     "english_name": "Aditya Mittal"
+    },
+    {
+     "name": "అదానీ",
+     "type": "Person",
+     "english_name": "Adani"
+    },
+    {
+     "name": "కుమార మంగళం బిర్లా",
+     "type": "Person",
+     "english_name": "Kumar Mangalam Birla"
+    },
+    {
+     "name": "ముఖేష్‌ అంబానీ",
+     "type": "Person",
+     "english_name": "Mukesh Ambani"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Organization",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్‌",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "రైతులకు ధాన్యం సేకరణ",
+     "type": "Scheme",
+     "english_name": "Rice Procurement for Farmers"
+    },
+    {
+     "name": "మధ్యాహ్న భోజనం వండిన ఆయాలకు గౌరవ వేతనాలు",
+     "type": "Scheme",
+     "english_name": "Honorarium for Midday Meal Cooks"
+    },
+    {
+     "name": "పిల్లల కోడిగుడ్లకు",
+     "type": "Scheme",
+     "english_name": "Eggs for Children"
+    },
+    {
+     "name": "డిస్కమ్‌ల బకాయిలు",
+     "type": "Claim",
+     "english_name": "Discoms Dues"
+    },
+    {
+     "name": "ఉపాధి హామీ బకాయిలు",
+     "type": "Claim",
+     "english_name": "MGNREGA Dues"
+    },
+    {
+     "name": "ఉద్యోగుల రెండు డీఏలు బకాయి",
+     "type": "Claim",
+     "english_name": "Two DA Dues for Employees"
+    },
+    {
+     "name": "నెట్‌వర్క్‌ ఆస్పత్రుల బకాయిలు",
+     "type": "Claim",
+     "english_name": "Network Hospitals Dues"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్‌ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Fee Reimbursement Dues"
+    },
+    {
+     "name": "రైతులకు ధాన్యం సేకరణ బకాయిలు",
+     "type": "Claim",
+     "english_name": "Rice Procurement Dues"
+    },
+    {
+     "name": "మధ్యాహ్న భోజనం వండిన ఆయాలకు గౌరవ వేతనాలు బకాయిలు",
+     "type": "Claim",
+     "english_name": "Honorarium Dues for Midday Meal Cooks"
+    },
+    {
+     "name": "పిల్లల కోడిగుడ్లకు బకాయిలు",
+     "type": "Claim",
+     "english_name": "Eggs Dues"
+    },
+    {
+     "name": "బకాయిలు",
+     "type": "Issue",
+     "english_name": "Dues"
+    },
+    {
+     "name": "దేశ జీడీపీలో రాష్ట్ర వాటా",
+     "type": "Issue",
+     "english_name": "State Share of National GDP"
+    },
+    {
+     "name": "ప్రభుత్వ వాటా (జీఎస్‌డీపీ)",
+     "type": "Issue",
+     "english_name": "State GDP Share"
+    },
+    {
+     "name": "ఉత్పాదక రంగం",
+     "type": "Issue",
+     "english_name": "Manufacturing Sector"
+    },
+    {
+     "name": "పెట్టుబడులు",
+     "type": "Issue",
+     "english_name": "Investments"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "చంద్రబాబు ఒక పద్ధతి ప్రకారం, ఎన్నికల హామీలు అమలు చేయకుండా ఉండడం కోసం, అబద్ధాలకు రెక్కలు గట్టి, ఏ విధంగా చంద్రబాబు ఆర్గనైజ్డ్‌ క్రైమ్‌ చేస్తున్నాడు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "డిస్కమ్‌ల బకాయిలు",
+     "evidence": "డిస్కమ్‌ల బకాయిలు రూ.21,541 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉపాధి హామీ బకాయిలు",
+     "evidence": "ఉపాధి హామీ బకాయిలు రూ.2340 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉద్యోగుల రెండు డీఏలు బకాయి",
+     "evidence": "ఉద్యోగుల రెండు డీఏలు బకాయి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెట్‌వర్క్‌ ఆస్పత్రుల బకాయిలు",
+     "evidence": "ఆరోగ్యశ్రీలో నెట్‌వర్క్‌ ఆస్పత్రుల బకాయిలు రూ.680 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఫీజు రీయింబర్స్‌మెంట్‌ బకాయిలు",
+     "evidence": "ఫీజు రీయింబర్స్‌మెంట్‌ బకాయిలు రూ.2800 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులకు ధాన్యం సేకరణ బకాయిలు",
+     "evidence": "రైతులకు ధాన్యం సేకరణ బకాయిలు రూ.960 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మధ్యాహ్న భోజనం వండిన ఆయాలకు గౌరవ వేతనాలు బకాయిలు",
+     "evidence": "పిల్లలకు మధ్యాహ్న భోజనం వండిన ఆయాలకు గౌరవ వేతనాలు కూడా బకాయిలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పిల్లల కోడిగుడ్లకు బకాయిలు",
+     "evidence": "చివరకు పిల్లల కోడిగుడ్లకు కూడా డబ్బులు చెల్లించలేదు."
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఫీజు రీయింబర్స్‌మెంట్‌",
+     "evidence": "ఫీజు రీయింబర్స్‌మెంట్‌ బకాయిలు రూ.2800 కోట్లు."
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతులకు ధాన్యం సేకరణ",
+     "evidence": "రైతులకు ధాన్యం సేకరణ బకాయిలు రూ.960 కోట్లు."
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మధ్యాహ్న భోజనం వండిన ఆయాలకు గౌరవ వేతనాలు",
+     "evidence": "పిల్లలకు మధ్యాహ్న భోజనం వండిన ఆయాలకు గౌరవ వేతనాలు కూడా బకాయిలు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cf1f0c25aa89b5534e057e64c2711854e0420ccb": {
+   "entities": [
+    {
+     "name": "జగనన్న వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Jagananna Vasathi Deevena"
+    },
+    {
+     "name": "జగనన్న విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Jagananna Vidya Deevena"
+    },
+    {
+     "name": "జగనన్న విదేశీ విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Jagananna Videshi Vidya Deevena"
+    },
+    {
+     "name": "వైయస్సార్‌ రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "YSR Rythu Bharosa"
+    },
+    {
+     "name": "వైయస్సార్‌ సున్నా వడ్డీ పంట రుణాలు",
+     "type": "Scheme",
+     "english_name": "YSR Zero Interest Crop Loans"
+    },
+    {
+     "name": "వైయస్సార్‌ ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "YSR Free Crop Insurance"
+    },
+    {
+     "name": "ఇన్‌ పుట్‌ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input Subsidy"
+    },
+    {
+     "name": "వైయస్సార్‌ మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": "YSR Matsyakaara Bharosa"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2f9679b689f10130cd80e1dda6c3fc01f88e3be4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఆయన కూటమి",
+     "type": "Party",
+     "english_name": "His alliance"
+    },
+    {
+     "name": "ముఠా",
+     "type": "Party",
+     "english_name": "Moot"
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Center"
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": "Sri Lanka"
+    },
+    {
+     "name": "ఆర్థిక మంత్రి",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "దత్తపుత్రుడు",
+     "type": "Person",
+     "english_name": "Dattaputra"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "బిజెపి",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "టిడిపి",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబుగారి వదినమ్మ",
+     "type": "Person",
+     "english_name": "Chandrababu's sister-in-law"
+    },
+    {
+     "name": "ఆర్థిక శాఖ",
+     "type": "Organization",
+     "english_name": "Finance Department"
+    },
+    {
+     "name": "గవర్నర్‌గారి ప్రసంగం",
+     "type": "Organization",
+     "english_name": "Governor's speech"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "కేంద్రం సహకరించొద్దు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "కేంద్రం సహకరించొద్దు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టిడిపి",
+     "evidence": "చంద్రబాబుగారి వదినమ్మ, బీజేపీలో టీడీపీ నాయకురాలు ప్రకటన."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "జగన్‌కు ఎవరూ సాయం చేయొద్దు."
+    },
+    {
+     "source": "కేంద్రం",
+     "relation": "LOCATED_IN",
+     "target": "శ్రీలంక",
+     "evidence": "కేంద్రం సహకరించొద్దు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d2caf35811e92ecd23c5c3587a4f147f10d3df33": {
+   "entities": [
+    {
+     "name": "మేం",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఆర్టీసీ",
+     "type": "Organization",
+     "english_name": "RTC"
+    },
+    {
+     "name": "ఎంఎస్‌ఎంఈలు",
+     "type": "Organization",
+     "english_name": "MSMEs"
+    },
+    {
+     "name": "గవర్నమెంట్‌",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8307098d9ab5cc92f18367d580f80f243256c975": {
+   "entities": [
+    {
+     "name": "YSR",
+     "type": "Organization",
+     "english_name": "YSR"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "సున్నా వడ్డీ పంట రుణాలు",
+     "type": "Scheme",
+     "english_name": "Zero Interest Crop Loans"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free Crop Insurance"
+    },
+    {
+     "name": "ఇన్‌పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input Subsidy"
+    },
+    {
+     "name": "మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": "Matsya Karar Bharosa"
+    },
+    {
+     "name": "సున్నా వడ్డీ అక్కచెల్లెమ్మల కోసం",
+     "type": "Scheme",
+     "english_name": "Zero Interest for Sisters"
+    },
+    {
+     "name": "పెన్షన్ కానుక",
+     "type": "Scheme",
+     "english_name": "Pension Kaanuka"
+    },
+    {
+     "name": "చేదోడు",
+     "type": "Scheme",
+     "english_name": "Cheyodu"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "బీమా",
+     "type": "Scheme",
+     "english_name": "Bima"
+    },
+    {
+     "name": "కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "Kapu Nestham"
+    },
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Netanna Nestham"
+    },
+    {
+     "name": "వాహన మిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈ రీస్టార్ట్",
+     "type": "Scheme",
+     "english_name": "MSME Restart"
+    },
+    {
+     "name": "అగ్రిగోల్డ్ బాధితులు",
+     "type": "Scheme",
+     "english_name": "AgriGold Victims"
+    },
+    {
+     "name": "అర్చకులు, ఇమామ్‌లు, మౌజమ్‌లు, పాస్టర్లు",
+     "type": "Scheme",
+     "english_name": "Priests, Imams, Mouzams, Pastors"
+    },
+    {
+     "name": "కోవిడ్ సాయం వైట్ కార్డ్ హోల్డర్లు",
+     "type": "Scheme",
+     "english_name": "COVID Saayam White Card Holders"
+    },
+    {
+     "name": "ఈబిసి నేస్తం",
+     "type": "Scheme",
+     "english_name": "EBC Nestham"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "కల్యాణమస్తు, షాదీ తోఫా",
+     "type": "Scheme",
+     "english_name": "Kalyanamastu, Shadi Tofa"
+    },
+    {
+     "name": "హౌసింగ్",
+     "type": "Scheme",
+     "english_name": "Housing"
+    },
+    {
+     "name": "జగన్న తోడు",
+     "type": "Scheme",
+     "english_name": "Jagananna Thodu"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "YSR",
+     "evidence": "చంద్రబాబునాయుడును గట్టిగా నిలదీస్తూ అడిగేది ఒక్కటే. ఈ పథకాలు ఏమయ్యాయి? ఈ పథకాలూ లేవు. నువ్వు ఇస్తానన్న సూపర్‌ సిక్సులూ లేవు, సూపర్‌ సెవెన్లూ లేవు."
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "వైయస్సార్‌సీపీ హయాంలో 6 లక్షల ఉద్యోగాలు:"
+    },
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవెన్",
+     "evidence": "వైయస్సార్‌సీపీ హయాంలో 6 లక్షల ఉద్యోగాలు:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bb2ee8f15cfee5a96177d99d31f3c39e68b6161f": {
+   "entities": [
+    {
+     "name": "ఎంఎస్‌ఎంఈలు",
+     "type": "Organization",
+     "english_name": "MSMEs"
+    },
+    {
+     "name": "లార్జ్‌ అండ్‌ మెగా ఇండస్ట్రీస్‌",
+     "type": "Organization",
+     "english_name": "Large and Mega Industries"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఏపీ బేవరేజెస్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "AP Beverages Corporation"
+    },
+    {
+     "name": "ఆర్పీలు",
+     "type": "Organization",
+     "english_name": "RPOs"
+    },
+    {
+     "name": "టాయిలెట్‌ మెయింటెనెన్స్‌",
+     "type": "Organization",
+     "english_name": "Toilet Maintenance"
+    },
+    {
+     "name": "ఆర్బీఐ",
+     "type": "Organization",
+     "english_name": "RBI"
+    },
+    {
+     "name": "శ్రీలంక",
+     "type": "Place",
+     "english_name": "Sri Lanka"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "చిన్నారులు",
+     "type": "Person",
+     "english_name": "Children"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Organization",
+     "english_name": "Arogyasri"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ బేవరేజెస్‌ కార్పొరేషన్‌",
+     "evidence": "ఆ ఉద్యోగాల్లోంచి తీసేశారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆర్పీలు",
+     "evidence": "ఆర్పీలకు జీతాలు ఇవ్వడం లేదని వాళ్లు ఫిర్యాదులు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టాయిలెట్‌ మెయింటెనెన్స్‌",
+     "evidence": "ఆయాలకు జీతాలు ఇవ్వడం లేదని కంప్లయింట్స్‌"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మహిళలు",
+     "evidence": "110 మంది మహిళలు, చిన్నారుల మీద అత్యాచారాలు ఈ ఐదున్నర నెలల్లోనే జరిగాయి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చిన్నారులు",
+     "evidence": "110 మంది మహిళలు, చిన్నారుల మీద అత్యాచారాలు ఈ ఐదున్నర నెలల్లోనే జరిగాయి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆరోగ్యశ్రీ",
+     "evidence": "ఆరోగ్యశ్రీ బకాయిలు రూ.2300 కోట్లు దాటాయి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bf70436309245df8c1be55365700852cb4daf58d": {
+   "entities": [
+    {
+     "name": "సూపర్‌సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "బడ్జెట్‌ ప్రజెంటేషన్‌",
+     "type": "Scheme",
+     "english_name": "Budget Presentation"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సోషల్‌ మీడియా యాక్టివిస్ట్‌లు",
+     "type": "Person",
+     "english_name": "Social Media Activists"
+    },
+    {
+     "name": "420 కేసు",
+     "type": "Claim",
+     "english_name": "420 case"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "420 కేసు",
+     "evidence": "నీ మీద 420 కేసు పెట్టకూడదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌సిక్స్‌",
+     "evidence": "నీ సూపర్‌ సిక్స్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌",
+     "evidence": "నీ సూపర్‌ సెవెన్‌."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బడ్జెట్‌ ప్రజెంటేషన్‌",
+     "evidence": "నీ బడ్జెట్‌ ప్రజెంటేషన్‌."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "01c463b2e68e502596f417da9cef66f94c5a9911": {
+   "entities": [
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "సుప్రీం కోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "Media"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "స్పీకర్‌",
+     "type": "Person",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "ప్రతిపక్షం",
+     "type": "Party",
+     "english_name": "Opposition"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "750d9b50200bb75629113635284bf34871dbc564": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "లోకేష్‌",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Person",
+     "english_name": "MLAs"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఇసుక దోపిడి",
+     "type": "Issue",
+     "english_name": "Sand Scam"
+    },
+    {
+     "name": "పేకాట క్లబ్‌లు",
+     "type": "Issue",
+     "english_name": "Gambling Clubs"
+    },
+    {
+     "name": "మద్యం షాప్‌లు",
+     "type": "Issue",
+     "english_name": "Liquor Shops"
+    },
+    {
+     "name": "ప్రభుత్వ ఆదాయం",
+     "type": "Issue",
+     "english_name": "State Revenue"
+    },
+    {
+     "name": "కొడుకు",
+     "type": "Person",
+     "english_name": "son"
+    },
+    {
+     "name": "దత్తపుత్రుడు",
+     "type": "Person",
+     "english_name": "adopted son"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "క్యాపిటల్‌ ఎక్స్‌పెండీచర్‌",
+     "type": "Scheme",
+     "english_name": "Capital Expenditure"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు హయాంలో ఈ తొలి ఆరు నెలల్లో అది రూ.41,570 కోట్లు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎమ్మెల్యేలు",
+     "evidence": "ఎమ్మెల్యేలు, చంద్రబాబు, లోకేష్‌కు వాటాలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "లోకేష్‌",
+     "evidence": "ఎమ్మెల్యేలు, చంద్రబాబు, లోకేష్‌కు వాటాలు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియాకు పోతోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కొడుకు",
+     "evidence": "చంద్రబాబు, ఆయన కొడుకు, దత్తపుత్రుడు, ఎమ్మెల్యేలు, ఎల్లో మీడియాకు పోతోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దత్తపుత్రుడు",
+     "evidence": "చంద్రబాబు, ఆయన కొడుకు, దత్తపుత్రుడు, ఎమ్మెల్యేలు, ఎల్లో మీడియాకు పోతోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9440b46846ed3a047c7198e84a78eee101cf56bf": {
+   "entities": [
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "మోదీ",
+     "type": "Person",
+     "english_name": "Modi"
+    },
+    {
+     "name": "కాంగ్రెస్‌",
+     "type": "Party",
+     "english_name": "Congress"
+    },
+    {
+     "name": "ఐటీడీపీ",
+     "type": "Organization",
+     "english_name": "ITDP"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6a78c2b46eca4abfc73d982bb3b8c54236c0e8f6": {
+   "entities": [
+    {
+     "name": "ప్రతిపక్షంగా వేరే ఇంకే ఏ పార్టీ ఉన్నా ఈయనకు బదులు ఆయనకు ఇస్తున్నా అని చెప్పడానికి ఎవరూ లేరు.",
+     "type": "Party",
+     "english_name": "Opposition Party"
+    },
+    {
+     "name": "ప్రతిపక్ష నాయకుడు",
+     "type": "Person",
+     "english_name": "Opposition Leader"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "ప్రజలు",
+     "type": "Person",
+     "english_name": "People"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "954531fc8cc52a8034d2c570d15eef51ce8bf34f": {
+   "entities": [
+    {
+     "name": "లబ్ధిదార్లకు చెల్లింపు",
+     "type": "Scheme",
+     "english_name": "Beneficiary Payments"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వాహనమిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "వైయస్సార్‌ చేయూత",
+     "type": "Scheme",
+     "english_name": "YSR Cheyutha"
+    },
+    {
+     "name": "వైయస్సార్‌ రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "YSR Rythu Bharosa"
+    },
+    {
+     "name": "జగనన్న విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Jagananna Vidya Deevena"
+    },
+    {
+     "name": "వైయస్సార్‌ సున్నా వడ్డీ రుణాలు",
+     "type": "Scheme",
+     "english_name": "YSR Zero Interest Loans"
+    },
+    {
+     "name": "ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "EBC Nestham"
+    },
+    {
+     "name": "లా నేస్తం",
+     "type": "Scheme",
+     "english_name": "La Nestham"
+    },
+    {
+     "name": "వైయస్సార్‌ ఆసరా",
+     "type": "Scheme",
+     "english_name": "YSR Aasara"
+    },
+    {
+     "name": "జగనన్న తోడు",
+     "type": "Scheme",
+     "english_name": "Jagananna Thodu"
+    },
+    {
+     "name": "వైయస్సార్‌ పెన్షన్‌ కానుక",
+     "type": "Scheme",
+     "english_name": "YSR Pension Kanuka"
+    },
+    {
+     "name": "జగనన్న చేదోడు",
+     "type": "Scheme",
+     "english_name": "Jagananna Cheyodu"
+    },
+    {
+     "name": "జగనన్న దీవెన",
+     "type": "Scheme",
+     "english_name": "Jagananna Deevena"
+    },
+    {
+     "name": "ఎంఎస్‌ఎంఈలకు ప్రోత్సాహకాలు",
+     "type": "Scheme",
+     "english_name": "MSME Incentives"
+    },
+    {
+     "name": "జగనన్న అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Jagananna Amma Odi"
+    },
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రూ.2.73 లక్షల కోట్ల డీబీటీ",
+     "type": "Claim",
+     "english_name": "Rs 2.73 lakh crore DBT"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లబ్ధిదార్లకు చెల్లింపు",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "విద్యాదీవెన",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వాహనమిత్ర",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వైయస్సార్‌ చేయూత",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వైయస్సార్‌ రైతు భరోసా",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న విద్యాదీవెన",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వైయస్సార్‌ సున్నా వడ్డీ రుణాలు",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఈబీసీ నేస్తం",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లా నేస్తం",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వైయస్సార్‌ ఆసరా",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న తోడు",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వైయస్సార్‌ పెన్షన్‌ కానుక",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న చేదోడు",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న దీవెన",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఎంఎస్‌ఎంఈలకు ప్రోత్సాహకాలు",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    },
+    {
+     "source": "చంద్రబాబుగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న అమ్మ ఒడి",
+     "evidence": "చంద్రబాబుగారు సీఎం అయ్యారు. అన్ని పథకాలు క్లోజ్‌."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

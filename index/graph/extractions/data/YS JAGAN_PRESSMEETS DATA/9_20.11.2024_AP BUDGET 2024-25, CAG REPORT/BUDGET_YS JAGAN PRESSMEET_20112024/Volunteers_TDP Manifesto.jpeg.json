@@ -1,0 +1,49 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4e126c849de1d30825f9b13aa436b3f44a36daa1": {
+   "entities": [
+    {
+     "name": "ఉద్యోగస్తులు, పెన్షనర్స్",
+     "type": "Organization",
+     "english_name": "Employees and Pensioners"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "ఐఆర్",
+     "type": "Scheme",
+     "english_name": "IR"
+    },
+    {
+     "name": "పెన్షనర్స్ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": "Pensioners Corporation"
+    },
+    {
+     "name": "వాలంటీర్ల గౌరవ వేతనం",
+     "type": "Scheme",
+     "english_name": "Volunteer Honorarium"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఐఆర్",
+     "evidence": "కూటమి ప్రభుత్వం వచ్చిన వెంటనే ఐఆర్ ప్రకటిస్తాం"
+    },
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "వాలంటీర్ల గౌరవ వేతనం",
+     "evidence": "వాలంటీర్ల గౌరవ వేతనం రూ.5 వేల నుంచి రూ.10 వేలకు పెంపు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

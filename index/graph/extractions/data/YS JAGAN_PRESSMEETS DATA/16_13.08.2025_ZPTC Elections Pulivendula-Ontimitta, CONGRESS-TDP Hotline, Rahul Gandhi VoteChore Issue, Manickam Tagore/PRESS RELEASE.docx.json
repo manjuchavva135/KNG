@@ -853,6 +853,347 @@
     }
    ],
    "relations": []
+  },
+  "e8801dad4a13d7c9f52d61977faa7e36b6e7796d": {
+   "entities": [
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": "Pulivendula-Ontimitta"
+    },
+    {
+     "name": "Pulivendula",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "Ontimitta",
+     "type": "Place",
+     "english_name": "Ontimitta"
+    },
+    {
+     "name": "CONGRESS",
+     "type": "Party",
+     "english_name": "CONGRESS"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Minister Savith",
+     "type": "Person",
+     "english_name": "Minister Savith"
+    },
+    {
+     "name": "MLA Adhinarayana Reddy",
+     "type": "Person",
+     "english_name": "MLA Adhinarayana Reddy"
+    },
+    {
+     "name": "Putta Chaitanya",
+     "type": "Person",
+     "english_name": "Putta Chaitanya"
+    },
+    {
+     "name": "B.Tech Ravi",
+     "type": "Person",
+     "english_name": "B.Tech Ravi"
+    },
+    {
+     "name": "Cherukuri Sridhar",
+     "type": "Person",
+     "english_name": "Cherukuri Sridhar"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ZPTC",
+     "type": "Organization",
+     "english_name": "ZPTC"
+    },
+    {
+     "name": "Polling stations were changed to force voters to walk 4 km",
+     "type": "Claim",
+     "english_name": "Polling stations were changed to force voters to walk 4 km"
+    },
+    {
+     "name": "700 police were deployed to scare voters",
+     "type": "Claim",
+     "english_name": "700 police were deployed to scare voters"
+    },
+    {
+     "name": "TDP leaders and workers occupied villages and allocated them",
+     "type": "Claim",
+     "english_name": "TDP leaders and workers occupied villages and allocated them"
+    },
+    {
+     "name": "YSRCP agents were beaten and voter slips taken",
+     "type": "Claim",
+     "english_name": "YSRCP agents were beaten and voter slips taken"
+    },
+    {
+     "name": "Bogus votes were cast in presence of Collector Cherukuri Sridhar",
+     "type": "Claim",
+     "english_name": "Bogus votes were cast in presence of Collector Cherukuri Sridhar"
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": "VoteChore Issue"
+    },
+    {
+     "name": "ZPTC Elections Irregularities",
+     "type": "Issue",
+     "english_name": "ZPTC Elections Irregularities"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Manickam Tagore",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "టీడీపీ నాయకులు, కార్యకర్తలు ఒక్కో బూత్‌కు దాదాపు 400 మంది పాగా వేశారు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "Polling stations were changed to force voters to walk 4 km",
+     "evidence": "ఎర్రబల్లి నుంచి నల్లపురెడ్డిపల్లికి, నల్లగొండవారిపల్లి నుంచి నల్లపురెడ్డిపల్లికి, మళ్లీ నల్లపురెడ్డిపల్లి వారు ఎర్రబల్లికి.. ఇంకా నల్లపురెడ్డిపల్లి నుంచి నల్లగొండవారిపల్లికి పోయి ఓటు వేయాలంట."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "700 police were deployed to scare voters",
+     "evidence": "ఆరు పంచాయితీల్లో భద్రత పేరుతో 700 మంది పోలీసులను పెట్టారు. అది ప్రజల భద్రత కోసం కాదు. కేవలం వారిని భయపెట్టడం కోసమే అంత మంది పోలీసులు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "TDP leaders and workers occupied villages and allocated them",
+     "evidence": "మంత్రి సవిత ఎర్రబల్లెలో తిష్ట వేస్తే.. ఎమ్మెల్యే ఆదినారాయణరెడ్డి జమ్మలమడుగు నుంచి భారీగా తన అనుచరులతో నల్లపురెడ్డిపల్లెలో మకాం వేశాడు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "YSRCP agents were beaten and voter slips taken",
+     "evidence": "పోలింగ్‌ బూత్‌లకు వైయస్సార్‌సీపీ ఏజెంట్లు పోతే, వారిపై దాడి చేసి, ఫామ్‌లు లాక్కుని చింపేశారు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "Bogus votes were cast in presence of Collector Cherukuri Sridhar",
+     "evidence": "ఇక్కడ కలెక్టర్‌ చెరుకూరి శ్రీధర్‌ సమక్షంలోనే వారు దొంగఓట్లు వేశారు."
+    }
+   ]
+  },
+  "40c03d0b0765484156167c0672db9c19595e4ed1": {
+   "entities": [
+    {
+     "name": "రాష్ట్ర ఎన్నికల కమిషన్‌ (ఎస్‌ఈసీ)",
+     "type": "Organization",
+     "english_name": "State Election Commission"
+    },
+    {
+     "name": "పదవులు లాగేసుకుంటున్నారు",
+     "type": "Claim",
+     "english_name": "They are grabbing posts"
+    }
+   ],
+   "relations": []
+  },
+  "81bfa843fbc829a735ccfe8d31d8585c939bc912": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "CONGRESS-TDP Hotline",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": "Nandyala"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర బలగాల",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నక్సలిజమ్‌",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబుకు మళ్లీ ఇదే మా డిమాండ్‌.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికలు రద్దు చేయండి. కేంద్ర బలగాల ఆధ్వర్యంలో ఎన్నికలు జరపండి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజలు ఎవరికి ఓటు వేస్తారో ఒక ఛాలెంజ్‌గా తీసుకోండి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మీకు కనీసం డిపాజిట్లు కూడా రావు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "భవిష్యత్తులో అవి మీకే చుట్టుకుంటాయి!",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబుకు మళ్లీ ఇదే మా డిమాండ్‌.",
+     "evidence": "చంద్రబాబుకు మళ్లీ ఇదే మా డిమాండ్‌."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్నికలు రద్దు చేయండి. కేంద్ర బలగాల ఆధ్వర్యంలో ఎన్నికలు జరపండి.",
+     "evidence": "ఎన్నికలు రద్దు చేయండి. కేంద్ర బలగాల ఆధ్వర్యంలో ఎన్నికలు జరపండి."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజలు ఎవరికి ఓటు వేస్తారో ఒక ఛాలెంజ్‌గా తీసుకోండి.",
+     "evidence": "ప్రజలు ఎవరికి ఓటు వేస్తారో ఒక ఛాలెంజ్‌గా తీసుకోండి."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "మీకు కనీసం డిపాజిట్లు కూడా రావు.",
+     "evidence": "మీకు కనీసం డిపాజిట్లు కూడా రావు."
+    },
+    {
+     "source": "Manickam Tagore",
+     "relation": "MAKES_CLAIM",
+     "target": "భవిష్యత్తులో అవి మీకే చుట్టుకుంటాయి!",
+     "evidence": "భవిష్యత్తులో అవి మీకే చుట్టుకుంటాయి!"
+    },
+    {
+     "source": "కేంద్ర బలగాల",
+     "relation": "LOCATED_IN",
+     "target": "నంద్యాల",
+     "evidence": "కేంద్ర బలగాల ఆధ్వర్యంలో ఎన్నికలు జరపండి."
+    }
+   ]
+  },
+  "5ffa1fbd8159065c734f04c065525b7bdf491ccd": {
+   "entities": [
+    {
+     "name": "Rahul Gandhi",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra",
+     "type": "Place",
+     "english_name": "Andhra"
+    },
+    {
+     "name": "Congress",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Manickam Tagore",
+     "type": "Person",
+     "english_name": "Manickam Tagore"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Revanth",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Congress high command",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ZPTC Elections",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Pulivendula-Ontimitta",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "VoteChore Issue",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Pulivendula-Ontimitta",
+     "relation": "LOCATED_IN",
+     "target": "Andhra",
+     "evidence": "సానుకూలంగా మాట్లాడారు. కానీ ఏం జరిగింది?."
+    }
+   ]
   }
  }
 }

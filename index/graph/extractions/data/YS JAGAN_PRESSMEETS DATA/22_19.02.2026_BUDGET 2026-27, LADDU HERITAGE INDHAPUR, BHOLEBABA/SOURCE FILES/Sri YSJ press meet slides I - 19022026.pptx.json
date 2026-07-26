@@ -1,0 +1,334 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7969c0fd0ccddc7bce30f91c326f513fb6f181ad": {
+   "entities": [
+    {
+     "name": "FY 2024-25 Budget vs Actuals",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "FY 2023-24",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "State’s own revenues",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "79.16%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "1.99%",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ca1973872292485a6cc2088953300c15d499de78": {
+   "entities": [
+    {
+     "name": "FY 2025-26",
+     "type": "Issue",
+     "english_name": "FY 2025-26"
+    },
+    {
+     "name": "Rs. 75,96.40 crores",
+     "type": "Claim",
+     "english_name": "Rs. 75,96.40 crores"
+    },
+    {
+     "name": "Rs. 18,224 crores",
+     "type": "Claim",
+     "english_name": "Rs. 18,224 crores"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5682ce8eb03a7377e32ca9d3c5045076994da8f7": {
+   "entities": [
+    {
+     "name": "FY 2026-27",
+     "type": "Claim",
+     "english_name": "FY 2026-27"
+    },
+    {
+     "name": "FY 2024-25",
+     "type": "Claim",
+     "english_name": "FY 2024-25"
+    },
+    {
+     "name": "FY 2025-26",
+     "type": "Claim",
+     "english_name": "FY 2025-26"
+    },
+    {
+     "name": "GST",
+     "type": "Organization",
+     "english_name": "GST"
+    },
+    {
+     "name": "Sales tax",
+     "type": "Organization",
+     "english_name": "Sales tax"
+    },
+    {
+     "name": "Stamps & registrations",
+     "type": "Organization",
+     "english_name": "Stamps & registrations"
+    },
+    {
+     "name": "excise",
+     "type": "Organization",
+     "english_name": "excise"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3fa3d3d2afbd905cdd1f5fadccd8959d37feb705": {
+   "entities": [
+    {
+     "name": "Supporting slides for debt and guarantees",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "AP budget documents for FY 25",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "CAG Accounts for FY 2023-24",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 6,46,531 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 3,13,018 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c061fc92bb65d87ade2f9e5fce02abfe2f710948": {
+   "entities": [
+    {
+     "name": "States comparison - tax revenues CAGR",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Source – CAG and CGA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Gross tax revenues of Central Government",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3b23abd0d6cddaf9ac35ec30c0abeffde525539d": {
+   "entities": [
+    {
+     "name": "FY 2025-26 Budget",
+     "type": "Claim",
+     "english_name": "FY 2025-26 Budget"
+    },
+    {
+     "name": "Rs. 1,27,703 crores of SOR for FY 2025-26",
+     "type": "Claim",
+     "english_name": "Rs. 1,27,703 crores of SOR for FY 2025-26"
+    },
+    {
+     "name": "Rs. 75,964 crores",
+     "type": "Claim",
+     "english_name": "Rs. 75,964 crores"
+    },
+    {
+     "name": "growth of only 4.25% over the SOR of FY 2023-24",
+     "type": "Claim",
+     "english_name": "growth of only 4.25% over the SOR of FY 2023-24"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "403fc48059e37c7eef6c8ef290e8dc9b504653ae": {
+   "entities": [
+    {
+     "name": "TDP alliance Government",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "GSDP growth of 11.75% in FY 2024-25",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "GSDP growth of 10.75% in FY 2025-26",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "GSDP CAGR of 11.09% over the two year period",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "tax revenues CAGR of around 10% - 12% over the two year period",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Sales tax grew at a CAGR of -2.28%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "State GST grew at a CAGR of only 3.44%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "State excise duty grew at a CAGR of only 7.69 %",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "privatizing retail operations of liquor",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "increasing number of shops",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "lifting time barriers",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "encouraging illegal belt shops",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "reintroducing illegal permit rooms",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "rampant unethical and corrupt practices in the Government",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "State tax revenues grew at a CAGR of only 1.97%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Government Debt grew at a CAGR of 10.60%",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Mr. Chandrababu Naidu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Sampada Srushti",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Appu Srushti",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "CAG",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e2747740729e864324623a2b1577e581abbf00c7": {
+   "entities": [
+    {
+     "name": "Capital Expenditure",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 23,330.48 crores",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "FY 2026-27",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Rs. 48,697.71 crores",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c4f196a47a3beea36af48318725edaac1698fdca": {
+   "entities": [
+    {
+     "name": "YSRCP Government",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "TDP alliance Government",
+     "type": "Organization",
+     "english_name": "TDP alliance Government"
+    },
+    {
+     "name": "Rs. 3,31,671 crores",
+     "type": "Claim",
+     "english_name": "Rs. 3,31,671 crores"
+    },
+    {
+     "name": "Rs. 3,17,448.61 crores",
+     "type": "Claim",
+     "english_name": "Rs. 3,17,448.61 crores"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

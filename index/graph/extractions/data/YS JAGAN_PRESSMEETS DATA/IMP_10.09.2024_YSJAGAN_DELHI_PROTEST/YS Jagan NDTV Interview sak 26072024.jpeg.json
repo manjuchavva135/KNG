@@ -1,0 +1,133 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "81a8556b5152f8ff08be56dc0c02d1483fddd3a5": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఏదైనా ఉంటే",
+     "type": "Claim",
+     "english_name": "ఏదైనా ఉంటే"
+    },
+    {
+     "name": "నాతో తేల్చుకోండి",
+     "type": "Claim",
+     "english_name": "నాతో తేల్చుకోండి"
+    },
+    {
+     "name": "కోపం ఉంటే నాపై చూపండి",
+     "type": "Claim",
+     "english_name": "కోపం ఉంటే నాపై చూపండి"
+    },
+    {
+     "name": "చంద్రబాబు అరాచక పాలన",
+     "type": "Claim",
+     "english_name": "చంద్రబాబు అరాచక పాలన"
+    },
+    {
+     "name": "ఎన్డీటీవీ ఇంటర్వ్యూ",
+     "type": "Organization",
+     "english_name": "NDTV Interview"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ శ్రేణులు",
+     "type": "Organization",
+     "english_name": "YSRCP cadre"
+    },
+    {
+     "name": "సామాన్యులు",
+     "type": "Person",
+     "english_name": "common people"
+    },
+    {
+     "name": "కక్ష సాధింపు చర్యలు",
+     "type": "Claim",
+     "english_name": "vendetta actions"
+    },
+    {
+     "name": "మానవత్వం",
+     "type": "Claim",
+     "english_name": "humanity"
+    },
+    {
+     "name": "అన్ని పార్టీలనూ",
+     "type": "Organization",
+     "english_name": "all parties"
+    },
+    {
+     "name": "ధర్నా",
+     "type": "Scheme",
+     "english_name": "dharna"
+    },
+    {
+     "name": "దారుణకాండ ఫొటోలు",
+     "type": "Claim",
+     "english_name": "atrocity photos"
+    },
+    {
+     "name": "వీడియోలు",
+     "type": "Claim",
+     "english_name": "videos"
+    },
+    {
+     "name": "మద్దతు",
+     "type": "Claim",
+     "english_name": "support"
+    },
+    {
+     "name": "ఎన్నికలప్పుడు",
+     "type": "Claim",
+     "english_name": "during elections"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అరచేతిలో వైకుంఠం",
+     "type": "Claim",
+     "english_name": "handful of heaven"
+    },
+    {
+     "name": "అబద్ధాలు",
+     "type": "Claim",
+     "english_name": "lies"
+    },
+    {
+     "name": "హామీలు",
+     "type": "Claim",
+     "english_name": "promises"
+    },
+    {
+     "name": "ప్రజల దృష్టి",
+     "type": "Claim",
+     "english_name": "people's attention"
+    },
+    {
+     "name": "అరాచకం",
+     "type": "Claim",
+     "english_name": "atrocity"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "కోపం ఉంటే నాపై చూపండి",
+     "evidence": "కోపం ఉంటే నాపై చూపండి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

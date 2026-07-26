@@ -1,0 +1,102 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2f10bffd3fb77f179387efd6b22ce8fc3597d9ef": {
+   "entities": [
+    {
+     "name": "APSDSC",
+     "type": "Organization",
+     "english_name": "APSDSC"
+    },
+    {
+     "name": "APSSDC",
+     "type": "Organization",
+     "english_name": "APSSDC"
+    },
+    {
+     "name": "SISW",
+     "type": "Organization",
+     "english_name": "SISW"
+    },
+    {
+     "name": "STS",
+     "type": "Organization",
+     "english_name": "STS"
+    },
+    {
+     "name": "DesignTech",
+     "type": "Organization",
+     "english_name": "DesignTech"
+    },
+    {
+     "name": "CoE",
+     "type": "Organization",
+     "english_name": "CoE"
+    },
+    {
+     "name": "Financial assistance",
+     "type": "Scheme",
+     "english_name": "Financial assistance"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "72fa646823036b94d1699b0048ecf369ced0659e": {
+   "entities": [
+    {
+     "name": "DesignTech",
+     "type": "Organization",
+     "english_name": "DesignTech"
+    },
+    {
+     "name": "SISW",
+     "type": "Organization",
+     "english_name": "SISW"
+    },
+    {
+     "name": "Agreement",
+     "type": "Organization",
+     "english_name": "Agreement"
+    },
+    {
+     "name": "state level approval committee",
+     "type": "Organization",
+     "english_name": "state level approval committee"
+    },
+    {
+     "name": "APSDSC",
+     "type": "Organization",
+     "english_name": "APSDSC"
+    },
+    {
+     "name": "GOAP",
+     "type": "Organization",
+     "english_name": "GOAP"
+    },
+    {
+     "name": "Project",
+     "type": "Organization",
+     "english_name": "Project"
+    },
+    {
+     "name": "MOU",
+     "type": "Organization",
+     "english_name": "MOU"
+    },
+    {
+     "name": "APSSDC",
+     "type": "Organization",
+     "english_name": "APSSDC"
+    },
+    {
+     "name": "Payment Terms and Applicable Taxes",
+     "type": "Organization",
+     "english_name": "Payment Terms and Applicable Taxes"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

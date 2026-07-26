@@ -1,0 +1,1226 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0abe4b6789028811c6e5872a38a5a75c6c529f37": {
+   "entities": [
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "దోచుకో పంచుకో తినుకో (డీపీటీ) ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "DPT Government"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ కేంద్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "YSRCP Central Office"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "ఓట్‌ ఆన్‌ ఎక్కౌంట్‌",
+     "type": "Scheme",
+     "english_name": "Vote on Account"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Issue",
+     "english_name": "Sand"
+    },
+    {
+     "name": "మద్యం",
+     "type": "Issue",
+     "english_name": "Liquor"
+    },
+    {
+     "name": "పేకాట క్లబ్స్‌",
+     "type": "Issue",
+     "english_name": "Gambling Clubs"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లిక్కర్‌ పాలసీ",
+     "type": "Scheme",
+     "english_name": "Liquor Policy"
+    },
+    {
+     "name": "వైన్‌షాప్‌లు",
+     "type": "Organization",
+     "english_name": "Wine Shops"
+    },
+    {
+     "name": "పర్మిట్‌రూమ్‌లు",
+     "type": "Organization",
+     "english_name": "Permit Rooms"
+    },
+    {
+     "name": "బెల్టు షాప్‌లు",
+     "type": "Organization",
+     "english_name": "Belt Shops"
+    },
+    {
+     "name": "ఎమ్మార్పీ",
+     "type": "Organization",
+     "english_name": "EMMRP"
+    },
+    {
+     "name": "స్కిల్‌స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Skill Scam"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "సాక్షి పత్రిక",
+     "type": "Organization",
+     "english_name": "Sakshi Patrika"
+    },
+    {
+     "name": "ఈవీఎంలు",
+     "type": "Organization",
+     "english_name": "EVMs"
+    },
+    {
+     "name": "వీవీ ప్యాట్‌లు",
+     "type": "Organization",
+     "english_name": "VVPATs"
+    },
+    {
+     "name": "ఈసీ",
+     "type": "Organization",
+     "english_name": "EC"
+    },
+    {
+     "name": "ప్రజాస్వామ్యం",
+     "type": "Issue",
+     "english_name": "Democracy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "దోచుకో పంచుకో తినుకో (డీపీటీ) ప్రభుత్వం",
+     "evidence": "ఇది దోచుకో పంచుకో తినుకో (డీపీటీ) ప్రభుత్వం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "అదే చంద్రబాబు అనైతిక మోడస్‌ ఆపరెండీ"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియాలో అదేపనిగా ప్రచారం చేస్తారు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌",
+     "evidence": ""
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌",
+     "evidence": ""
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఓట్‌ ఆన్‌ ఎక్కౌంట్‌",
+     "evidence": ""
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లిక్కర్‌ పాలసీ",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "53051e6eb0a27cc781f51c15ca98edc7135d1b1c": {
+   "entities": [
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "ఓట్‌ ఆన్‌ ఎక్కౌంట్‌",
+     "type": "Scheme",
+     "english_name": "Vote on Account"
+    },
+    {
+     "name": "దోచుకో పంచుకో తినుకో",
+     "type": "Claim",
+     "english_name": "Doppu, Panchuko, Tinuko"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Issue",
+     "english_name": "Sand"
+    },
+    {
+     "name": "మద్యం",
+     "type": "Issue",
+     "english_name": "Liquor"
+    },
+    {
+     "name": "పేకాట క్లబ్‌లు",
+     "type": "Issue",
+     "english_name": "Card clubs"
+    },
+    {
+     "name": "మైనింగ్‌",
+     "type": "Issue",
+     "english_name": "Mining"
+    },
+    {
+     "name": "పత్రికలు",
+     "type": "Organization",
+     "english_name": "Media"
+    }
+   ],
+   "relations": [
+    {
+     "source": "దోచుకో పంచుకో తినుకో",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఇసుక",
+     "evidence": "ఇసుక మొదలు మద్యం."
+    },
+    {
+     "source": "దోచుకో పంచుకో తినుకో",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మద్యం",
+     "evidence": "ఇసుక మొదలు మద్యం."
+    },
+    {
+     "source": "దోచుకో పంచుకో తినుకో",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పేకాట క్లబ్‌లు",
+     "evidence": "ఆ తర్వాత పేకాట క్లబ్‌లు."
+    },
+    {
+     "source": "దోచుకో పంచుకో తినుకో",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మైనింగ్‌",
+     "evidence": "నియోజకవర్గంలో ఎవరైనా మైనింగ్‌ చేసుకున్నా, పరిశ్రమ ఏర్పాటు చేసినా, కప్పం కట్టనిదే ఏ ఒక్కరూ ఏ పని చేయలేని పరిస్థితి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2333639b1dd719330aae6b576d1af16d980ef4fd": {
+   "entities": [
+    {
+     "name": "రాష్ట్రంలో",
+     "type": "Place",
+     "english_name": "State"
+    },
+    {
+     "name": "141 నియోజకవర్గాలలో",
+     "type": "Place",
+     "english_name": "141 constituencies"
+    },
+    {
+     "name": "53 నియోజకవర్గాలలో",
+     "type": "Place",
+     "english_name": "53 constituencies"
+    },
+    {
+     "name": "ఇసుక ఉచితం",
+     "type": "Scheme",
+     "english_name": "Free sand"
+    },
+    {
+     "name": "గత ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Previous government"
+    },
+    {
+     "name": "వీరి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Current government"
+    },
+    {
+     "name": "ఇసుక టెండర్లు",
+     "type": "Issue",
+     "english_name": "Sand tenders"
+    },
+    {
+     "name": "అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption"
+    }
+   ],
+   "relations": [
+    {
+     "source": "గత ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇసుక ఉచితం",
+     "evidence": "ఇసుక ఉచితం అంటారు."
+    },
+    {
+     "source": "వీరి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇసుక ఉచితం",
+     "evidence": "ఇసుక ఉచితం అంటారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ba186951952bb7fef60c5376976724d950426b23": {
+   "entities": [
+    {
+     "name": "నియోజకవర్గంలో ఎవరైనా మైనింగ్‌ చేసుకున్నా, పరిశ్రమ ఏర్పాటు చేసినా, కప్పం కట్టనిదే ఏ ఒక్కరూ ఏ పని చేయలేని పరిస్థితి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మెల్యేకు ఇంత. సీఎంకు ఇంత. రాష్ట్రవ్యాప్తంగా దోచుకో తినుకో పంచుకో అన్న విధంగా మాఫియా పని చేస్తోంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వారు చేస్తున్న మోడస్‌ ఆపరండీ",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఒక అబద్ధానికి రెక్కలు కడతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజల ఆశలతో చెలగాటం ఆడుతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వారికి సంబంధించిన ఎమ్మెల్యేలు, కార్యకర్తలను ఎలా వాడుకుంటారు అంటే.. వాలంటీర్లకు రూ.10 వేలు ఇస్తామని మోసం చేస్తారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వారి ఎమ్మెల్యే అభ్యర్థులు ఇల్లిల్లూ తిరిగారు. మైక్‌లు పట్టుకుని ఊదరగొట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ ఇంట్లో చిన్న పిల్లలు కనిపిస్తే నీకు రూ.15 వేలు అని చెప్పి సంతోషమా? అని అడుగుతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ చిన్న పిల్లల అమ్మలు కనబడితే నీకు రూ.18 వేలు సంతోషమా? అని అడుగుతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ చిన్నపిల్లల చిన్నమ్మ కనబడినా అదే అడుగుతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆ చిన్న పిల్లల పెద్దమ్మలు లేదా ఆ తల్లి అత్త కనిపిస్తే నీకు రూ.48 వేలు సంతోషమా? అని అడుగుతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యోగం కోసం వెతుక్కుంటూ పిల్లవాడు కనిపిస్తే, నీకు రూ.36 వేలు సంతోషమా? అని అడుగుతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మెడలో కండువా వేసుకుని రైతు బయటకు వస్తే నీకు రూ.20 వేలు సంతోషమా? అని అడుగుతారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అధికారంలోకి వచ్చిన తర్వాత..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాష్ట్రం క్లిష్ట పరిస్థితిలో ఉంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేను చేయలేకపోతున్నానని చెప్పడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వారిని భయభ్రాంతులకు గురి చేయడం, అడిగే స్వరాలను మాట్లాడకుండా చేయాలని ఆరాటపడడం..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మేము మారుస్తున్నాం. మార్పులు తీసుకొస్తున్నాం అని మార్పులు తీసుకొచ్చే క్రమంలో మార్పుల పేర్లు చెబుతూ, స్కామ్‌లకు తెర లేపుతున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అందులో భాగంగా వారు చేస్తున్న అవినీతి కార్యక్రమాల గురించి కొన్ని ఉదాహరణలు వివరిస్తాను.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అవినీతి వ్యవహారం–ఇసుక",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎన్నికలప్పుడు ఏమన్నారు? ఇసుకకు చాలా ఎక్కువ రేటు ఉందని వాదించారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "14b79e256d96f35d7a2ea4913eb72ac9b45ae4b7": {
+   "entities": [
+    {
+     "name": "లిక్కర్‌",
+     "type": "Issue",
+     "english_name": "Liquor"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3dc98aec4ca7c2c96261daabc121f7067721ae10": {
+   "entities": [
+    {
+     "name": "108 రీచ్‌లకు టెండర్లు పిల్చారు",
+     "type": "Claim",
+     "english_name": "Tenders called for 108 reaches"
+    },
+    {
+     "name": "దసరా పండగ ముందు",
+     "type": "Claim",
+     "english_name": "Before Dasara festival"
+    },
+    {
+     "name": "ఎవరైనా టెండర్లలో పాల్గొనవద్దు",
+     "type": "Claim",
+     "english_name": "Do not participate in tenders"
+    },
+    {
+     "name": "మాఫియా సామ్రాజ్యంలో",
+     "type": "Claim",
+     "english_name": "Mafia empire"
+    },
+    {
+     "name": "2014–19 మధ్య",
+     "type": "Claim",
+     "english_name": "2014–19 period"
+    },
+    {
+     "name": "ఇసుక సామ్రాజ్యం",
+     "type": "Claim",
+     "english_name": "Sand empire"
+    },
+    {
+     "name": "డ్వాక్రా సంఘాలకు ఇస్తున్నట్లు బిల్డప్‌ ఇచ్చారు",
+     "type": "Claim",
+     "english_name": "Build-up given to DWAKRA societies"
+    },
+    {
+     "name": "ఉచిత ఇసుక",
+     "type": "Claim",
+     "english_name": "Free sand"
+    },
+    {
+     "name": "పొక్లెయినర్లు పెట్టి",
+     "type": "Claim",
+     "english_name": "Placed pokleiner machines"
+    },
+    {
+     "name": "బిజేపీతో భాగస్వామ్యంలో ఉన్నారు",
+     "type": "Claim",
+     "english_name": "In partnership with BJP"
+    },
+    {
+     "name": "ప్రభుత్వానికి ఆదాయం",
+     "type": "Claim",
+     "english_name": "Government revenue"
+    },
+    {
+     "name": "గతంలో మా ప్రభుత్వ హయాంలో",
+     "type": "Claim",
+     "english_name": "During our government"
+    },
+    {
+     "name": "ఈ–టెండరింగ్‌",
+     "type": "Claim",
+     "english_name": "E-tendering"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ ప్లాట్‌ఫామ్‌ మీద",
+     "type": "Claim",
+     "english_name": "On central government platform"
+    },
+    {
+     "name": "కంప్యూటర్‌ ఉంటే చాలు",
+     "type": "Claim",
+     "english_name": "Computer enough"
+    },
+    {
+     "name": "పారదర్శకంగా రాష్ట్ర ప్రభుత్వ ఖజానాకు ఆదాయం వచ్చే విధంగా",
+     "type": "Claim",
+     "english_name": "Transparently to state treasury revenue"
+    },
+    {
+     "name": "అత్యధిక బిడ్డర్‌ను ఎంపిక చేసి",
+     "type": "Claim",
+     "english_name": "Select highest bidder"
+    },
+    {
+     "name": "రూ.475కు వారికి మైనింగ్‌ చేసేలా కాంట్రాక్ట్‌ ఇచ్చి",
+     "type": "Claim",
+     "english_name": "Contract for mining at Rs.475"
+    },
+    {
+     "name": "అందులో రూ.375 ప్రభుత్వానికి కచ్చితంగా రాయల్టీ కట్టాలని నిర్దేశించాం",
+     "type": "Claim",
+     "english_name": "Rs.375 royalty to government"
+    },
+    {
+     "name": "ఏటా ప్రభుత్వానికి రూ.750 కోట్లు ఆదాయం వచ్చేలా",
+     "type": "Claim",
+     "english_name": "Rs.750 crore revenue annually"
+    },
+    {
+     "name": "అదే ఇప్పుడు సున్నా",
+     "type": "Claim",
+     "english_name": "Now zero"
+    },
+    {
+     "name": "పేరుకు మాత్రమే ఉచిత ఇసుక",
+     "type": "Claim",
+     "english_name": "Free sand only in name"
+    },
+    {
+     "name": "ప్రభుత్వ ఆదాయం సున్నా",
+     "type": "Claim",
+     "english_name": "Government revenue zero"
+    },
+    {
+     "name": "టీడీపీ గెజిట్‌ పత్రిక ఈనాడులో కూడా ఆ ప్రకటనలు ఇచ్చాం",
+     "type": "Claim",
+     "english_name": "TDP Gazette newspaper advertisements"
+    },
+    {
+     "name": "రీజనబుల్‌ రేట్లకు ఇసుక అమ్మాం",
+     "type": "Claim",
+     "english_name": "Sold sand at reasonable rates"
+    },
+    {
+     "name": "ఇసుక రేట్లు చూస్తే",
+     "type": "Claim",
+     "english_name": "Sand rates"
+    },
+    {
+     "name": "దోచేసి ఇసుక కొరత సృష్టిస్తున్నారు",
+     "type": "Claim",
+     "english_name": "Create sand shortage by looting"
+    },
+    {
+     "name": "అవినీతి వ్యవహారం–లిక్కర్‌",
+     "type": "Claim",
+     "english_name": "Corruption matter – liquor"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bc69d06847afadcefd1f321f247cd233ee98697f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "IML మద్యం కేసులు",
+     "type": "Organization",
+     "english_name": "IML liquor cases"
+    },
+    {
+     "name": "బీర్ల అమ్మకాలు",
+     "type": "Organization",
+     "english_name": "Beer sales"
+    },
+    {
+     "name": "మన ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "89990767dd3fca604747fcc40bc1bdd4c8b7b081": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "పెద్దమనిషి",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "స్కామ్",
+     "type": "Issue",
+     "english_name": "Scam"
+    },
+    {
+     "name": "స్కిల్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Skill Scam"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3da1b9c87867173badd03b8223475c18749477ca": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "బూమ్‌ బూమ్‌ బీర్",
+     "type": "Scheme",
+     "english_name": "Boom Boom Beer"
+    },
+    {
+     "name": "ప్రెసిడెన్స్‌ మెడల్‌ ఫైన్‌ విస్కీ",
+     "type": "Scheme",
+     "english_name": "President's Medal Fine Whiskey"
+    },
+    {
+     "name": "గవర్నర్స్‌ ఛాయిస్",
+     "type": "Scheme",
+     "english_name": "Governor's Choice"
+    },
+    {
+     "name": "ట్రిపుల్‌ 9 పవర్‌ స్టార్",
+     "type": "Scheme",
+     "english_name": "Triple 9 Power Star"
+    },
+    {
+     "name": "రష్యన్‌ రోమనోవా",
+     "type": "Scheme",
+     "english_name": "Russian Romanova"
+    },
+    {
+     "name": "ఏసీబీ",
+     "type": "Scheme",
+     "english_name": "ACB"
+    },
+    {
+     "name": "999 లెజండ్‌ విస్కీ",
+     "type": "Scheme",
+     "english_name": "999 Legend Whiskey"
+    },
+    {
+     "name": "హెవెన్స్‌ డోర్",
+     "type": "Scheme",
+     "english_name": "Heaven's Door"
+    },
+    {
+     "name": "క్రేజీ డాళ్",
+     "type": "Scheme",
+     "english_name": "Crazy Doll"
+    },
+    {
+     "name": "క్లిఫ్‌ హేంగర్",
+     "type": "Scheme",
+     "english_name": "Cliff Hanger"
+    },
+    {
+     "name": "గవర్నర్స్‌ రిజర్వ్",
+     "type": "Scheme",
+     "english_name": "Governor's Reserve"
+    },
+    {
+     "name": "నెపోలియ¯Œ",
+     "type": "Scheme",
+     "english_name": "Napole¯Œ"
+    },
+    {
+     "name": "ఆక్టన్",
+     "type": "Scheme",
+     "english_name": "Acton"
+    },
+    {
+     "name": "సెవెన్త్‌ హెవెన్",
+     "type": "Scheme",
+     "english_name": "Seventh Heaven"
+    },
+    {
+     "name": "హైదరాబాద్‌ బ్రాండ్‌ విస్కీ",
+     "type": "Scheme",
+     "english_name": "Hyderabad Brand Whiskey"
+    },
+    {
+     "name": "వీరా",
+     "type": "Scheme",
+     "english_name": "Veera"
+    },
+    {
+     "name": "బ్లామ్‌డే",
+     "type": "Scheme",
+     "english_name": "Blamde"
+    },
+    {
+     "name": "లెజెండ్",
+     "type": "Scheme",
+     "english_name": "Legend"
+    },
+    {
+     "name": "క్లిఫ్‌ హ్యాంగర్‌",
+     "type": "Scheme",
+     "english_name": "Cliff Hanger"
+    },
+    {
+     "name": "హైవోల్టేజ్‌ గోల్డ్‌ బీర్",
+     "type": "Scheme",
+     "english_name": "Highvoltage Gold Beer"
+    },
+    {
+     "name": "ఎస్‌ఎన్‌జె బీర్‌",
+     "type": "Scheme",
+     "english_name": "SNJ Beer"
+    },
+    {
+     "name": "మద్య నియంత్రణ",
+     "type": "Issue",
+     "english_name": "Liquor Control"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మా ప్రభుత్వం",
+     "evidence": "నాసి రకం మద్యం సరఫరా చేశామని ఆరోపించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e5876fe240a0b8ea741e295086ace0410de79fd1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "సుమన్‌బోస్",
+     "type": "Person",
+     "english_name": "Sumans Bose"
+    },
+    {
+     "name": "వికాస్‌ వినాయక్‌ ఖన్వేల్కర్",
+     "type": "Person",
+     "english_name": "Vikas Vinayak Khanvelkar"
+    },
+    {
+     "name": "ముకుల్‌చంద్ర అగర్వాల్",
+     "type": "Person",
+     "english_name": "Mukul Chandra Agarwal"
+    },
+    {
+     "name": "సురేష్‌ గోయల్‌",
+     "type": "Person",
+     "english_name": "Suresh Goyal"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "టీవీ–5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "స్కిల్‌ స్కామ్‌",
+     "type": "Scheme",
+     "english_name": "Skill Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఈడీ",
+     "evidence": "చంద్రబాబుగారే ప్రభుత్వ డబ్బు రూ.371కోట్లు ఇచ్చాడు."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "DEFENDS",
+     "target": "స్కిల్‌ స్కామ్‌",
+     "evidence": "న్యాయం గెలిచింది అని."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "51597ac6e54e84545321d8fb3bceb19bcf5e6ebc": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "సుమన్‌ బోస్",
+     "type": "Person",
+     "english_name": "Suman Bose"
+    },
+    {
+     "name": "వికాస్‌ ఖల్వేకర్‌",
+     "type": "Person",
+     "english_name": "Vikas Khalvekar"
+    },
+    {
+     "name": "సీమెన్స్‌ కంపెనీ",
+     "type": "Organization",
+     "english_name": "Siemens Company"
+    },
+    {
+     "name": "నోయిడా మెజిస్ట్రేట్‌",
+     "type": "Organization",
+     "english_name": "Noida Magistrate"
+    },
+    {
+     "name": "పీఏ శ్రీనివాస్‌",
+     "type": "Person",
+     "english_name": "PA Srinivas"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈడీ",
+     "evidence": "చంద్రబాబు ఈ మాదిరిగా అబద్ధాలకు రెక్కలు గట్టి ప్రచారం చేస్తున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పీఏ శ్రీనివాస్‌",
+     "evidence": "రాబోయే రోజుల్లో చంద్రబాబునాయుడును, ఆయన పీఏ శ్రీనివాస్‌ను ఈడీ అరెస్టు చేయదా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b45420b46300a378f3bcce26e0aa5c8ed19dd866": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "అదీ టీడీపీ నాయకులు నడుపుతున్న వ్యవస్ధ.. అని శ్రీ వైయస్‌ జగన్‌ స్పష్టం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "085ed65536b44c52f75d506e82876c729ca8b637": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Kutami Government"
+    },
+    {
+     "name": "మద్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "ఇసుక స్కాంలు",
+     "type": "Issue",
+     "english_name": "Sand Scams"
+    },
+    {
+     "name": "ప్రజలు",
+     "type": "Person",
+     "english_name": "People"
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "Media"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వం ప్రజా వ్యతిరేక విధానాలు అనుసరిస్తున్న కూటమి ప్రభుత్వం ఇలా చేస్తూ పోతుంటే.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "79b746f9ca5b1169c9f264dde8a686a8656a2838": {
+   "entities": [
+    {
+     "name": "సీమెన్స్‌",
+     "type": "Organization",
+     "english_name": "Siemens"
+    },
+    {
+     "name": "సుమన్‌బోస్‌",
+     "type": "Person",
+     "english_name": "Suman Bose"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "శ్రీనివాస్‌",
+     "type": "Person",
+     "english_name": "Srinivas"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "తిరుమల లడ్డూలు",
+     "type": "Issue",
+     "english_name": "Tirumala Laddu"
+    },
+    {
+     "name": "వరదసాయం",
+     "type": "Issue",
+     "english_name": "Flood Relief"
+    },
+    {
+     "name": "సాక్షి ఎడిటర్",
+     "type": "Person",
+     "english_name": "Sakshi Editor"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఈడీ",
+     "evidence": "చంద్రబాబుగారు ఏమంటున్నారు. తిరుమల లడ్డూల విషయం మాదిరిగా మీకు అనిపించడం లేదా?"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "సాక్షి ఎడిటర్",
+     "evidence": "ఇవే అంశాలు రాసిందని సాక్షి ఎడిటర్‌మీద కేసు నమోదు చేశారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93700a2d4ccb02e882ab547b55952664d4e5a0a4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "జమిలి ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "Simultaneous elections"
+    },
+    {
+     "name": "ఈవీఎంలు",
+     "type": "Organization",
+     "english_name": "EVMs"
+    },
+    {
+     "name": "వీవీ ప్యాట్‌లు",
+     "type": "Organization",
+     "english_name": "VVPATs"
+    },
+    {
+     "name": "ఎన్నికల కమిషన్‌",
+     "type": "Organization",
+     "english_name": "Election Commission"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "స్కిల్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Skill scam"
+    },
+    {
+     "name": "టీడీపీ నాయకుల వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "TDP leaders' system"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "912cf5b1fa9f6527864c0f5623a330b248a20dcd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "షాప్‌లు",
+     "type": "Organization",
+     "english_name": "Shops"
+    },
+    {
+     "name": "మద్యం",
+     "type": "Issue",
+     "english_name": "Liquor"
+    },
+    {
+     "name": "ప్రభుత్వ ఆదాయం",
+     "type": "Claim",
+     "english_name": "Government revenue"
+    },
+    {
+     "name": "ప్రభుత్వ ఖజానా",
+     "type": "Organization",
+     "english_name": "Government treasury"
+    },
+    {
+     "name": "డిస్టిల్లరీలకు",
+     "type": "Organization",
+     "english_name": "Distilleries"
+    },
+    {
+     "name": "మాఫియా సామ్రాజ్యం",
+     "type": "Organization",
+     "english_name": "Mafia empire"
+    },
+    {
+     "name": "ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "MLA"
+    },
+    {
+     "name": "మద్యం మాఫియా",
+     "type": "Organization",
+     "english_name": "Liquor Mafia"
+    },
+    {
+     "name": "మద్యం పాలసీ",
+     "type": "Scheme",
+     "english_name": "Liquor Policy"
+    },
+    {
+     "name": "టెండర్లు",
+     "type": "Organization",
+     "english_name": "Tenders"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Constituency"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు దోపిడి ఏ రకంగా జరుగుతోంది అంటే.. ఆయన ఒకవైపు మద్యం రేటు తగ్గిస్తాడట."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "షాప్‌లు",
+     "evidence": "ప్రభుత్వం నడుపుతున్న షాప్‌లన్నీ రద్దు చేసి, తన మాఫియా సామ్రాజ్యానికి ఆ షాప్‌లన్నీ కట్టబెట్టాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మద్యం మాఫియా",
+     "evidence": "చంద్రబాబుకు ఇంత, ఎమ్మెల్యేకు ఇంత. మద్యం మాఫియాకు ఇంత."
+    },
+    {
+     "source": "ఎమ్మెల్యే",
+     "relation": "ACCUSES",
+     "target": "మద్యం మాఫియా",
+     "evidence": "ఎమ్మెల్యేలు ఈ మాదిరిగా కిడ్నాప్‌లు చేయాలి?"
+    },
+    {
+     "source": "షాప్‌లు",
+     "relation": "LOCATED_IN",
+     "target": "నియోజకవర్గం",
+     "evidence": "ప్రతి నియోజకవర్గంలోనూ ఇంతే."
+    },
+    {
+     "source": "టెండర్లు",
+     "relation": "LOCATED_IN",
+     "target": "నియోజకవర్గం",
+     "evidence": "మిగిలిన వాళ్లు ఎవరైనా షాప్‌ల కోసం టెండర్లు వేస్తే."
+    },
+    {
+     "source": "పోలీసులు",
+     "relation": "LOCATED_IN",
+     "target": "నియోజకవర్గం",
+     "evidence": "పోలీసులే స్వయంగా వెళ్లి బెదిరించారు."
+    },
+    {
+     "source": "మద్యం పాలసీ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మద్యం",
+     "evidence": "మద్యం పాలసీ నిజంగా మంచిదైతే?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

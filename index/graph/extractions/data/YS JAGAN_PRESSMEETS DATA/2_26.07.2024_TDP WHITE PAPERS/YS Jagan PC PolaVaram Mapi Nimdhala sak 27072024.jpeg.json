@@ -1,0 +1,269 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "56eb6e7cdf9b3e2a3abcfcd2afa7521a67a32705": {
+   "entities": [
+    {
+     "name": "రూ.33 వేల కోట్ల",
+     "type": "Claim",
+     "english_name": "Rs.33 thousand crores"
+    },
+    {
+     "name": "రూ.20,398.61 కోట్లకే",
+     "type": "Claim",
+     "english_name": "Rs.20,398.61 crores"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "ఈనాడు రామోజీ వియ్యంకుడు",
+     "type": "Person",
+     "english_name": "Eenadu Ramoji son-in-law"
+    },
+    {
+     "name": "నవయుగ",
+     "type": "Organization",
+     "english_name": "Navayuga"
+    },
+    {
+     "name": "యనమల రామకృష్ణుడు",
+     "type": "Person",
+     "english_name": "Yanamala Ramakrishnudu"
+    },
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.20,398.61 కోట్లకే",
+     "evidence": "చంద్రబాబూ ఒప్పుకోవడంలో అంతర్యమేమిటి?"
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.33 వేల కోట్ల",
+     "evidence": "పునరావాసం కల్పించడానికే రూ.33 వేల కోట్ల వ్యయం అవుతుంది."
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు రామోజీ వియ్యంకుడు",
+     "evidence": "ఈనాడు రామోజీ వియ్యంకుడు నవయుగకు అప్పగించారు."
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "ACCUSES",
+     "target": "యనమల రామకృష్ణుడు",
+     "evidence": "యనమల రామకృష్ణుడు వియ్యంకుడికి అప్పగించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9278fc43ebc91ac5c2ecddc475ace606c0767b3e": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "జీవనాడి",
+     "type": "Issue",
+     "english_name": "Jeevanadi"
+    },
+    {
+     "name": "మాపై నిందలా?",
+     "type": "Issue",
+     "english_name": "Mapai Nindala?"
+    },
+    {
+     "name": "విభజన చట్టం",
+     "type": "Issue",
+     "english_name": "Vibhajana Chattam"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Issue",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "కమీషన్లు",
+     "type": "Issue",
+     "english_name": "Commissions"
+    },
+    {
+     "name": "స్పిల్ వే",
+     "type": "Issue",
+     "english_name": "Spill Way"
+    },
+    {
+     "name": "కాఫర్ డ్యామ్",
+     "type": "Issue",
+     "english_name": "Coffer Dam"
+    },
+    {
+     "name": "గోదావరి",
+     "type": "Place",
+     "english_name": "Godavari"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పోలవరం ప్రాజెక్టుపై శ్వేతపత్రం విడుదల చేశారని ధ్వజమెత్తారు."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "670d55ac988bc87002ff2c8cf9c579332729128a": {
+   "entities": [
+    {
+     "name": "వరద వచ్చినా స్పిల్ వే మీదుగా సులభంగా దిగువకు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కాఫర్ డ్యామ్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వరద వచ్చినా స్పిల్ వే మీదుగా సులభంగా దిగువకు",
+     "evidence": "వరద వచ్చినా స్పిల్ వే మీదుగా సులభంగా దిగువకు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c8e1e41011c38a99eba8bd37f8e288b60a6787ea": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "ఈనాడు రామోజీ వియ్యంకుడు",
+     "type": "Person",
+     "english_name": "Eenadu Ramoji Viyankudu"
+    },
+    {
+     "name": "నవయుగ",
+     "type": "Organization",
+     "english_name": "Navayuga"
+    },
+    {
+     "name": "యనమల రామకృష్ణుడు",
+     "type": "Person",
+     "english_name": "Yanamala Ramakrishnudu"
+    },
+    {
+     "name": "స్పిల్ వే",
+     "type": "Organization",
+     "english_name": "Spill Way"
+    },
+    {
+     "name": "కాఫర్ డ్యామ్",
+     "type": "Organization",
+     "english_name": "Coffer Dam"
+    },
+    {
+     "name": "ప్రధాన డ్యామ్",
+     "type": "Organization",
+     "english_name": "Main Dam"
+    },
+    {
+     "name": "గోదావరి",
+     "type": "Place",
+     "english_name": "Godavari River"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలవరం ప్రాజెక్టు",
+     "evidence": "చంద్రబాబు ఒప్పుకోవడంలో అంతర్యమేమిటి?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు రామోజీ వియ్యంకుడు",
+     "evidence": "ఈనాడు రామోజీ వియ్యంకుడు నవయుగకు అప్పగించారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నవయుగ",
+     "evidence": "ఈనాడు రామోజీ వియ్యంకుడు నవయుగకు అప్పగించారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "యనమల రామకృష్ణుడు",
+     "evidence": "యనమల రామకృష్ణుడు వియ్యంకుడికి అప్పగించారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

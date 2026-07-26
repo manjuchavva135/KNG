@@ -40,6 +40,99 @@
     }
    ],
    "relations": []
+  },
+  "bb31c7a8eb83f2c8ad1cfef8e2385c9530f6d461": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram project"
+    },
+    {
+     "name": "గోదావరి",
+     "type": "Place",
+     "english_name": "Godavari"
+    },
+    {
+     "name": "కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "ప్రాణహిత",
+     "type": "Place",
+     "english_name": "Pranahita"
+    },
+    {
+     "name": "ఇంద్రావతి",
+     "type": "Place",
+     "english_name": "Indravati"
+    },
+    {
+     "name": "ఛత్తీస్గఢ్",
+     "type": "Place",
+     "english_name": "Chhattisgarh"
+    },
+    {
+     "name": "బోద్ఘాట్",
+     "type": "Place",
+     "english_name": "Bodghat"
+    },
+    {
+     "name": "బనకచర్ల",
+     "type": "Place",
+     "english_name": "Banakacherla"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central government"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు అంగీకరించారు... దీనివల్ల గోదావరి జలాలు కృష్ణాకు తరలించే అవకాశం ఉండదు"
+    }
+   ]
   }
  }
 }

@@ -1,0 +1,548 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9ace040fda65a34c4efd158e85d43e00db42d69e": {
+   "entities": [
+    {
+     "name": "వైవీ సుబ్బారెడ్డి",
+     "type": "Person",
+     "english_name": "YV Subba Reddy"
+    },
+    {
+     "name": "కరుణాకర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Karunakar Reddy"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "నేషనల్ అక్రిడిటేషన్ బోర్డు ఫర్ ల్యాబ్స్",
+     "type": "Organization",
+     "english_name": "NABL"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "2014-19 మధ్య చంద్రబాబు ప్రభుత్వ హయాంలో నాణ్యత లేకపోవడంతో 14-15 సార్లు నెయ్యి ట్యాంకర్లను వెనక్కి పంపించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "52203238d11da025274200450a0e3f72a3ee5455": {
+   "entities": [
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "టీవీ 5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "తిరుమల తిరుపతి దేవస్థానం",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "శ్రీవెంకటేశ్వరస్వామి దేవాలయం",
+     "type": "Place",
+     "english_name": "Srivari Temple"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ప్రధానమంత్రి",
+     "type": "Person",
+     "english_name": "Prime Minister"
+    },
+    {
+     "name": "సుప్రీం కోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబూ",
+     "evidence": "చంద్రబాబూ.. నీ రాజకీయ స్వార్థం కోసం తిరుమలను అపవిత్రం చేస్తావా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "చంద్రబాబు, ఓ ఈనాడు, ఓ ఆంధ్రజ్యోతి, ఓ టీవీ 5.. వీరంతా ఉన్నాదస్తులు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "చంద్రబాబు, ఓ ఈనాడు, ఓ ఆంధ్రజ్యోతి, ఓ టీవీ 5.. వీరంతా ఉన్నాదస్తులు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీవీ 5",
+     "evidence": "చంద్రబాబు, ఓ ఈనాడు, ఓ ఆంధ్రజ్యోతి, ఓ టీవీ 5.. వీరంతా ఉన్నాదస్తులు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబూ",
+     "evidence": "చంద్రబాబు ముఖ్యమంత్రి స్థానంలో ఉండి తిరుమల లడ్డూ ప్రసాదం తయారీలో జంతువుల కొవ్వు నుంచి తయారు చేసిన నెయ్యిని వాడారంటూ దారుణమైన ఆరోపణలు చేశారని మండిపడ్డారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "వంద రోజుల పాలన వైఫల్యాల పై.. సూపర్ సిక్స్తోపాటు ఎన్నికల్లో ఇచ్చిన హామీలు అమలు చేయకుండా చేస్తున్న మోసాపై ప్రజలు అడుగడుగునా నిలదీస్తారనే భయం తో దృష్టి మళ్లించేందుకు చంద్రబాబు దుర్మార్గమైన కుట్ర చేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్రెడ్డి మండిపడ్డారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a9332f42451adf7f58688c731efa66ee43a18439": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "టీటీడీ బోర్డు",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "సీనియర్ మంత్రులు",
+     "type": "Person",
+     "english_name": "Senior Ministers"
+    },
+    {
+     "name": "హిందువుల ప్రతినిధులు",
+     "type": "Person",
+     "english_name": "Representatives of Hindus"
+    },
+    {
+     "name": "శ్రీవారి పవిత్రత",
+     "type": "Issue",
+     "english_name": "Purity of Lord Venkateswara"
+    },
+    {
+     "name": "భక్తుల మనోభావాలు",
+     "type": "Issue",
+     "english_name": "Feelings of devotees"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బీజేపీ",
+     "evidence": "చంద్రబాబు అబద్దాలు చెబుతున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "58b85d8b733ae2eed9011c9e5fb4c47017eab751": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బిజెపి",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "నేషనల్ డెయిరీ డెవలప్మెంట్ బోర్డు",
+     "type": "Organization",
+     "english_name": "National Dairy Development Board"
+    },
+    {
+     "name": "టీడీపీ కార్యాలయం",
+     "type": "Organization",
+     "english_name": "TDP Office"
+    },
+    {
+     "name": "ప్రధాన మంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి",
+     "type": "Person",
+     "english_name": "Supreme Court Chief Justice"
+    },
+    {
+     "name": "ఎన్డీడీబీ ల్యాబ్ రిపోర్టు",
+     "type": "Claim",
+     "english_name": "NDDB Lab Report"
+    },
+    {
+     "name": "స్టాండర్డ్ (ఎస్) వాల్యూ",
+     "type": "Claim",
+     "english_name": "Standard (S) Value"
+    },
+    {
+     "name": "డీవియేషన్",
+     "type": "Claim",
+     "english_name": "Deviation"
+    },
+    {
+     "name": "శాంపిల్ కంటెయిన్ ఫారిన్ ఫ్యాట్",
+     "type": "Claim",
+     "english_name": "Sample Contain Foreign Fat"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ కార్యాలయం",
+     "evidence": "చంద్రబాబు కావాలనే భావోద్వేగాలను రెచ్చగొట్టే విధంగా తప్పుడు ప్రచారం చేస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "నేషనల్ డెయిరీ డెవలప్మెంట్ బోర్డు",
+     "evidence": "నేషనల్ డెయిరీ డెవలప్మెంట్ బోర్డు(ఎన్డీడీబీ) నుంచి 2 నెలల కిందట రిపోర్టు వస్తే దానిపై ఏ ఒక్క అధికారీ వివరణ ఇవ్వకపోగా ఇప్పుడు టీడీపీ కార్యాలయంలో దానిని విడుదల చేయడం వెనుక కచ్చితంగా రాజకీయ దురుద్దేశం ఉంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎన్డీడీబీ ల్యాబ్ రిపోర్టు",
+     "evidence": "ఎన్డీడీబీ ల్యాబ్ రిపోర్టులో ఏం కనిపిస్తోంది? స్టాండర్డ్ (ఎస్) వాల్యూ ఉండాలి. కానీ డీవియేషన్ ఉంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "శాంపిల్ కంటెయిన్ ఫారిన్ ఫ్యాట్",
+     "evidence": "శాంపిల్ కంటెయిన్ ఫారిన్ ఫ్యాట్ (ఏమేం ఉండే వీలుందన్న అవకాశాలతో నివేదికలో పొందుపరిచిన వివరాలను ప్రస్తావించారు)."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "570124366866c275593502789c93f33013ba882b": {
+   "entities": [
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "భువనేశ్వర్",
+     "type": "Place",
+     "english_name": "Bhubaneswar"
+    },
+    {
+     "name": "హైదరాబాదు",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "జూబ్లీహిల్స్",
+     "type": "Place",
+     "english_name": "Jubilee Hills"
+    },
+    {
+     "name": "జమ్మూ కశ్మీర్",
+     "type": "Place",
+     "english_name": "Jammu Kashmir"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "నవనీత సేవ",
+     "type": "Scheme",
+     "english_name": "Navaneetha Seva"
+    },
+    {
+     "name": "కేఎంఎఫ్",
+     "type": "Organization",
+     "english_name": "KMF"
+    },
+    {
+     "name": "నందినీ",
+     "type": "Organization",
+     "english_name": "Nandini"
+    },
+    {
+     "name": "శ్రీవెంకటేశ్వరస్వామి ప్రసాదాలు",
+     "type": "Claim",
+     "english_name": "Sri Venkateswara Swamy Prasadam"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Claim",
+     "english_name": "Laddu"
+    },
+    {
+     "name": "ఆవు నెయ్యి",
+     "type": "Claim",
+     "english_name": "Cow Ghee"
+    },
+    {
+     "name": "ముడి సరుకులు",
+     "type": "Claim",
+     "english_name": "Raw Materials"
+    },
+    {
+     "name": "టీటీడీ బోర్డు",
+     "type": "Organization",
+     "english_name": "TTD Board"
+    },
+    {
+     "name": "కేంద్ర మంత్రులు",
+     "type": "Person",
+     "english_name": "Central Ministers"
+    },
+    {
+     "name": "రాష్ట్రాల ముఖ్యమంత్రులు",
+     "type": "Person",
+     "english_name": "State Chief Ministers"
+    },
+    {
+     "name": "ప్రతిపక్ష పార్టీలు",
+     "type": "Party",
+     "english_name": "Opposition Parties"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "చంద్రబాబుకు ఏ పొద్దూ మనసు రాలేదు."
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవనీత సేవ",
+     "evidence": "వైఎస్సార్సీపీ అధికారంలో ఉండగా టీటీడీలో నవనీత సేవ ప్రారంభించాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేఎంఎఫ్",
+     "evidence": "కర్నాటక మిల్క్ ప్రొడ్యూసెస్ ఫెడరేషన్ (కేఎంఎఫ్)కు ఉద్దేశ పూర్వకంగానే ఆ కంపెనీ బ్రాండ్ నందినీకి టీటీడీ నెయ్యి కాంట్రాక్టు ఇవ్వలేదని ఆరోపిస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "80facb74b122cf5faa6e3a177fb9a173ae4bc44f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Laddoo"
+    },
+    {
+     "name": "నెయ్యి",
+     "type": "Claim",
+     "english_name": "Ghee"
+    },
+    {
+     "name": "చంద్రబాబే",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జూలై 12న",
+     "type": "Claim",
+     "english_name": "July 12"
+    },
+    {
+     "name": "జూలై 17న",
+     "type": "Claim",
+     "english_name": "July 17"
+    },
+    {
+     "name": "జూలై 23న",
+     "type": "Claim",
+     "english_name": "July 23"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "చంద్రబాబు చెప్పడం ధర్మమేనా?"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లడ్డూ",
+     "evidence": "లడ్డూ ప్రసాదంలో వినియోగించడానికి ఉపయోగిస్తారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "నాసిరకమైన పదార్థాలు, జంతు కొవ్వులతో తయారుచేసిన నెయ్యితో లడ్డూలు"
+    },
+    {
+     "source": "చంద్రబాబే",
+     "relation": "MAKES_CLAIM",
+     "target": "నెయ్యి",
+     "evidence": "నెయ్యి నాణ్యతగా లేదని రిపోర్టు వచ్చిన శాంపిళ్లను జూలై 12న తీసుకున్నారు."
+    },
+    {
+     "source": "చంద్రబాబే",
+     "relation": "MAKES_CLAIM",
+     "target": "జూలై 12న",
+     "evidence": "నెయ్యి నాణ్యతగా లేదని రిపోర్టు వచ్చిన శాంపిళ్లను జూలై 12న తీసుకున్నారు."
+    },
+    {
+     "source": "చంద్రబాబే",
+     "relation": "MAKES_CLAIM",
+     "target": "జూలై 17న",
+     "evidence": "అవి సరిగా రాలేదు కాబట్టే శాంపిళ్లను జూలై 17న ఎన్డీడీబీకి పంపించారు."
+    },
+    {
+     "source": "చంద్రబాబే",
+     "relation": "MAKES_CLAIM",
+     "target": "జూలై 23న",
+     "evidence": "జూలై 23న రిపోర్టు వచ్చింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "16851bd9667b19e5f1e609f99f5b7ec22b2688fa": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "TTD",
+     "evidence": "చంద్రబాబుకు ఏ పొద్దూ మనసు రాలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

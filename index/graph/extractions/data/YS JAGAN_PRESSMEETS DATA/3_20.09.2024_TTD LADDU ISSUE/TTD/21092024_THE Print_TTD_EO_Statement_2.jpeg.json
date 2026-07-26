@@ -1,0 +1,65 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2a221d238b6ea40d9d36ecf83ffa5ef59320d110": {
+   "entities": [
+    {
+     "name": "AR Dairy",
+     "type": "Organization",
+     "english_name": "AR Dairy"
+    },
+    {
+     "name": "NDDB CALF",
+     "type": "Organization",
+     "english_name": "NDDB CALF"
+    },
+    {
+     "name": "Syamala",
+     "type": "Person",
+     "english_name": "Syamala"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Tamil Nadu",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "Tirupati laddu",
+     "type": "Issue",
+     "english_name": "Tirupati laddu"
+    },
+    {
+     "name": "cow ghee",
+     "type": "Scheme",
+     "english_name": "cow ghee"
+    }
+   ],
+   "relations": [
+    {
+     "source": "AR Dairy",
+     "relation": "LOCATED_IN",
+     "target": "Tamil Nadu",
+     "evidence": "supplied by Tamil Nadu's AR Dairy"
+    },
+    {
+     "source": "cow ghee",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tirupati laddu",
+     "evidence": "cow ghee in four tankers was found to be of inferior quality based on human sensory perception of TTD experts."
+    },
+    {
+     "source": "cow ghee",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Tirupati laddu",
+     "evidence": "The four tankers were kept aside and sent back to AR Dairy after the NDDB CALF report reflected animal and vegetable fat contamination."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

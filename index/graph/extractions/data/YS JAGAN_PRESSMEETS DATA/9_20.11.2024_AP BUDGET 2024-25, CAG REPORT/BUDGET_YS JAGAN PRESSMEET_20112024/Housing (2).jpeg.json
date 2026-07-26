@@ -1,0 +1,86 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fe9f4ffd409419f4ed144b1bfa46f8433e9be2b5": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "గుడివాడ",
+     "type": "Place",
+     "english_name": "Gudivada"
+    },
+    {
+     "name": "జగనన్న",
+     "type": "Person",
+     "english_name": "Jagannanna"
+    },
+    {
+     "name": "వై.ఎస్. జగన్ మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "టిడ్కో",
+     "type": "Organization",
+     "english_name": "TIDCO"
+    },
+    {
+     "name": "నవరత్నాలు - పేదలందరికీ ఇళ్లు",
+     "type": "Scheme",
+     "english_name": "Navaratnalu - Illu for All"
+    },
+    {
+     "name": "రాష్ట్రవ్యాప్తంగా",
+     "type": "Place",
+     "english_name": "Statewide"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగనన్న",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవరత్నాలు - పేదలందరికీ ఇళ్లు",
+     "evidence": "నవరత్నాలు - పేదలందరికీ ఇళ్లు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7208dbf09711b5dd8b0f0a7baff44ab604ed1142": {
+   "entities": [
+    {
+     "name": "నవరత్నాలు - పేదలందరికీ ఇళ్లు",
+     "type": "Scheme",
+     "english_name": "Navaratnalu - Housing for All"
+    },
+    {
+     "name": "జగనన్న ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Jagananna Government"
+    },
+    {
+     "name": "శ్రీ. ఆదిమూలపు సురేష్",
+     "type": "Person",
+     "english_name": "Sri. Adimulapu Suresh"
+    },
+    {
+     "name": "పురపాలక, పట్టాభివృద్ధి శాఖామాత్యులు",
+     "type": "Organization",
+     "english_name": "Minister of Municipal Administration and Urban Development"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ. ఆదిమూలపు సురేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవరత్నాలు - పేదలందరికీ ఇళ్లు",
+     "evidence": "నవరత్నాలు - పేదలందరికీ ఇళ్లు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

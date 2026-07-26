@@ -1,0 +1,498 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d014e6413799f4fec3167b15e21a1e015d511506": {
+   "entities": [
+    {
+     "name": "స్క్రీనింగ్‌ కమిటీ",
+     "type": "Organization",
+     "english_name": "Screening Committee"
+    },
+    {
+     "name": "రాష్ట్ర స్థాయి కమిటీ",
+     "type": "Organization",
+     "english_name": "State Level Committee"
+    },
+    {
+     "name": "పర్యాటక శాఖ ప్రత్యేక ప్రధాన కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "Tourism Department Special Chief Secretary"
+    },
+    {
+     "name": "విద్యాశాఖ కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "Education Department Secretary"
+    },
+    {
+     "name": "సాధారణ పరిపాలన శాఖ కార్యదర్శి(సర్వీసెస్‌/మానవవనరులు)",
+     "type": "Organization",
+     "english_name": "General Administration Department Secretary (Services/Human Resources)"
+    },
+    {
+     "name": "శాప్‌ ఎండీ",
+     "type": "Organization",
+     "english_name": "SAAP MD"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "క్రీడాలోకం",
+     "type": "Organization",
+     "english_name": "Sports World"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f4fe483aec101f7ff009e9e39352ad6e60e586df": {
+   "entities": [
+    {
+     "name": "candidates",
+     "type": "Person",
+     "english_name": "candidates"
+    },
+    {
+     "name": "court",
+     "type": "Organization",
+     "english_name": "court"
+    },
+    {
+     "name": "new teachers",
+     "type": "Person",
+     "english_name": "new teachers"
+    },
+    {
+     "name": "training program",
+     "type": "Scheme",
+     "english_name": "training program"
+    },
+    {
+     "name": "Aagiripalli",
+     "type": "Place",
+     "english_name": "Aagiripalli"
+    },
+    {
+     "name": "PGT, TGT training centre",
+     "type": "Organization",
+     "english_name": "PGT, TGT training centre"
+    },
+    {
+     "name": "officials",
+     "type": "Person",
+     "english_name": "officials"
+    },
+    {
+     "name": "screening committee",
+     "type": "Organization",
+     "english_name": "screening committee"
+    },
+    {
+     "name": "CM's relative",
+     "type": "Person",
+     "english_name": "CM's relative"
+    },
+    {
+     "name": "mastermind",
+     "type": "Person",
+     "english_name": "mastermind"
+    },
+    {
+     "name": "SAP administration officer",
+     "type": "Person",
+     "english_name": "SAP administration officer"
+    },
+    {
+     "name": "deputed officer",
+     "type": "Person",
+     "english_name": "deputed officer"
+    },
+    {
+     "name": "six-member screening committee",
+     "type": "Organization",
+     "english_name": "six-member screening committee"
+    },
+    {
+     "name": "eight special committees",
+     "type": "Organization",
+     "english_name": "eight special committees"
+    },
+    {
+     "name": "scrutiny",
+     "type": "Organization",
+     "english_name": "scrutiny"
+    },
+    {
+     "name": "ODSDO",
+     "type": "Person",
+     "english_name": "ODSDO"
+    },
+    {
+     "name": "senior coach",
+     "type": "Person",
+     "english_name": "senior coach"
+    },
+    {
+     "name": "Assistant Director (Technical)",
+     "type": "Person",
+     "english_name": "Assistant Director (Technical)"
+    },
+    {
+     "name": "contract/outsourcing employee",
+     "type": "Person",
+     "english_name": "contract/outsourcing employee"
+    },
+    {
+     "name": "DSC deals",
+     "type": "Organization",
+     "english_name": "DSC deals"
+    },
+    {
+     "name": "fake certificates",
+     "type": "Claim",
+     "english_name": "fake certificates"
+    },
+    {
+     "name": "fake birth dates",
+     "type": "Claim",
+     "english_name": "fake birth dates"
+    }
+   ],
+   "relations": [
+    {
+     "source": "candidates",
+     "relation": "ACCUSES",
+     "target": "officials",
+     "evidence": "పలు జిల్లాల్లో జరిగినట్టు ఆరోపణలు ఉన్నాయి."
+    },
+    {
+     "source": "candidates",
+     "relation": "MAKES_CLAIM",
+     "target": "fake certificates",
+     "evidence": "ఫేక్‌ సర్టిఫికెట్లు.. ఫేక్‌ పుట్టిన తేదీలతో పోస్టులా?"
+    },
+    {
+     "source": "candidates",
+     "relation": "MAKES_CLAIM",
+     "target": "fake birth dates",
+     "evidence": "ఫేక్‌ సర్టిఫికెట్లు.. ఫేక్‌ పుట్టిన తేదీలతో పోస్టులా?"
+    },
+    {
+     "source": "CM's relative",
+     "relation": "ACCUSES",
+     "target": "mastermind",
+     "evidence": "మాస్టర్‌మైండ్‌గా వ్యవహరించి కథ మొత్తం నడిపించారు."
+    },
+    {
+     "source": "mastermind",
+     "relation": "ACCUSES",
+     "target": "screening committee",
+     "evidence": "స్క్రీనింగ్‌ కమిటీలో తనకు నచ్చిన అధికారులు, కోచ్‌లను స్క్రీనింగ్‌ కమిటీలో నియామకం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "297e4c5ed46582ec60c8d5a66ba38935ca24376b": {
+   "entities": [
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SAP"
+    },
+    {
+     "name": "క్రీడాలోకం",
+     "type": "Organization",
+     "english_name": "Sports World"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "పశి్చమగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "Paschima Godavari district"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports associations"
+    },
+    {
+     "name": "స్క్రీనింగ్‌ కమిటీ",
+     "type": "Organization",
+     "english_name": "Screening committee"
+    },
+    {
+     "name": "రాష్ట్రస్థాయి కమిటీలు",
+     "type": "Organization",
+     "english_name": "State-level committees"
+    },
+    {
+     "name": "క్రీడల్లో జాతీయ స్థాయి పతకం సాధించిన వ్యక్తి",
+     "type": "Person",
+     "english_name": "National medal-winning sports person"
+    },
+    {
+     "name": "మాస్టర్‌మైండ్‌",
+     "type": "Person",
+     "english_name": "Mastermind"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9410537e60b6f82c17927a9b440e0ceb920e8468": {
+   "entities": [
+    {
+     "name": "మెగా డీల్",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "Candidates"
+    },
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ పోస్టు",
+     "type": "Scheme",
+     "english_name": "Sports Quota DSC Post"
+    },
+    {
+     "name": "స్కామ్‌లు",
+     "type": "Issue",
+     "english_name": "Scams"
+    },
+    {
+     "name": "స్క్రీనింగ్‌ కమిటీ",
+     "type": "Organization",
+     "english_name": "Screening Committee"
+    },
+    {
+     "name": "రాష్ట్ర స్థాయిలో అత్యున్నత అధికారుల కమిటీ",
+     "type": "Organization",
+     "english_name": "State-level Highest Officials Committee"
+    },
+    {
+     "name": "టెట్‌ మార్కుల సవరణ",
+     "type": "Scheme",
+     "english_name": "Tet Marks Correction"
+    },
+    {
+     "name": "డీఎస్సీ నోటిఫికేషన్‌",
+     "type": "Scheme",
+     "english_name": "DSC Notification"
+    },
+    {
+     "name": "ఏపీ టెట్‌",
+     "type": "Scheme",
+     "english_name": "AP TET"
+    },
+    {
+     "name": "జూన్‌ 6",
+     "type": "Place",
+     "english_name": "June 6"
+    },
+    {
+     "name": "జూలై 2వ తేదీ",
+     "type": "Place",
+     "english_name": "July 2"
+    },
+    {
+     "name": "20 శాతం వెయిటేజీ",
+     "type": "Claim",
+     "english_name": "20 percent weightage"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి"
+    },
+    {
+     "source": "అభ్యర్థులు",
+     "relation": "MAKES_CLAIM",
+     "target": "20 శాతం వెయిటేజీ",
+     "evidence": "దీనితో అభ్యర్థులు టెట్‌ పరీక్షలు నిర్వహించినప్పుడల్లా అభ్యర్థులు మార్కులు పెంచుకునేందుకు పరీక్షలు రాస్తారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "277f51bf9c91319f70a7ecacfc5bdfa73488228d": {
+   "entities": [
+    {
+     "name": "విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "టెట్‌ స్కోరు",
+     "type": "Scheme",
+     "english_name": "TET Score"
+    },
+    {
+     "name": "డీఎస్సీ స్కోరు కార్డులు",
+     "type": "Scheme",
+     "english_name": "DSC Score Cards"
+    },
+    {
+     "name": "ఎంపిక లిస్టు",
+     "type": "Claim",
+     "english_name": "Selection List"
+    },
+    {
+     "name": "16,347 పోస్టులు",
+     "type": "Claim",
+     "english_name": "16,347 Posts"
+    },
+    {
+     "name": "15,941 పోస్టులు",
+     "type": "Claim",
+     "english_name": "15,941 Posts"
+    },
+    {
+     "name": "నోటిఫికేషన్‌",
+     "type": "Claim",
+     "english_name": "Notification"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సెపె్టంబర్‌ 25",
+     "type": "Claim",
+     "english_name": "September 25"
+    },
+    {
+     "name": "సెపె్టంబర్‌ 19",
+     "type": "Claim",
+     "english_name": "September 19"
+    },
+    {
+     "name": "వేడుకలు",
+     "type": "Scheme",
+     "english_name": "Celebrations"
+    },
+    {
+     "name": "సెప్టెంబర్ 25",
+     "type": "Place",
+     "english_name": "September 25"
+    },
+    {
+     "name": "ఆరురోజుల వ్యవధి",
+     "type": "Place",
+     "english_name": "Six-day period"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "రాష్ట్ర వ్యాప్తంగా",
+     "type": "Place",
+     "english_name": "Statewide"
+    },
+    {
+     "name": "100 మందికిపైగా",
+     "type": "Place",
+     "english_name": "More than 100"
+    },
+    {
+     "name": "కొత్త టీచర్లు",
+     "type": "Person",
+     "english_name": "New teachers"
+    },
+    {
+     "name": "అక్టోబర్‌ 3వ తేదీ",
+     "type": "Place",
+     "english_name": "October 3"
+    },
+    {
+     "name": "10 రోజుల పాటు",
+     "type": "Place",
+     "english_name": "10 days"
+    },
+    {
+     "name": "జిల్లాల్లో",
+     "type": "Place",
+     "english_name": "In districts"
+    },
+    {
+     "name": "శిక్షణ కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "Training program"
+    },
+    {
+     "name": "ఆగిరిపల్లి",
+     "type": "Place",
+     "english_name": "Aghiripalli"
+    },
+    {
+     "name": "పీజీటీ, టీజీటీ శిక్షణ కేంద్రం",
+     "type": "Organization",
+     "english_name": "PGT, TGT training center"
+    },
+    {
+     "name": "నలుగురు అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "Four candidates"
+    },
+    {
+     "name": "నియామక పత్రాలు",
+     "type": "Scheme",
+     "english_name": "Appointment letters"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అమరావతి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతిలో నియామకపత్రాల పంపిణీ వేడుక నిర్వహించారు."
+    },
+    {
+     "source": "కొత్త టీచర్లు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "శిక్షణ కార్యక్రమం",
+     "evidence": "కొత్త టీచర్లకు అక్టోబర్‌ 3వ తేదీ నుంచి 10 రోజుల పాటు జిల్లాల్లో శిక్షణ కార్యక్రమం నిర్వహించారు."
+    },
+    {
+     "source": "పీజీటీ, టీజీటీ శిక్షణ కేంద్రం",
+     "relation": "LOCATED_IN",
+     "target": "ఆగిరిపల్లి",
+     "evidence": "ఆగిరిపల్లిలో జరిగిన పీజీటీ, టీజీటీ శిక్షణ కేంద్రంలో."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

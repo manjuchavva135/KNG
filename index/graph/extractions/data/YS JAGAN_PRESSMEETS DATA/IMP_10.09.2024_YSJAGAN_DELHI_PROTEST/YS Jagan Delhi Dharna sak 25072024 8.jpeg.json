@@ -1,0 +1,61 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "30ea799022229b64c7e2c4739706fa2f326c67a7": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "జంతర్ మంతర్",
+     "type": "Place",
+     "english_name": "Jantar Mantar"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ఏఐఏడీఎంకే",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "తంబిదొరై",
+     "type": "Person",
+     "english_name": "Thambidurai"
+    },
+    {
+     "name": "రాంగోపాల్ యాదవ్",
+     "type": "Person",
+     "english_name": "Ranga Gopal Yadav"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "రాజధాని",
+     "type": "Place",
+     "english_name": "Capital"
+    },
+    {
+     "name": "గవర్నర్",
+     "type": "Organization",
+     "english_name": "Governor"
+    },
+    {
+     "name": "రాష్ట్రపతి పాలన",
+     "type": "Scheme",
+     "english_name": "President's Rule"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

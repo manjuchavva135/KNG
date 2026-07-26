@@ -1,0 +1,59 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "889052a75eb5010343abdbcc5d2a7173e8abb178": {
+   "entities": [
+    {
+     "name": "తెలుగుదేశం పార్టీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "ఆస్తుల కల్పన",
+     "type": "Scheme",
+     "english_name": "Asset Creation"
+    },
+    {
+     "name": "మూలధన వ్యయం",
+     "type": "Scheme",
+     "english_name": "Capital Expenditure"
+    },
+    {
+     "name": "బడ్జెట్ 2024-25",
+     "type": "Scheme",
+     "english_name": "Budget 2024-25"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "తెలుగుదేశం పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆస్తుల కల్పన",
+     "evidence": "ఆస్తుల కల్పనకు అధిక ప్రాధాన్యత ఇచ్చిన కూటమి ప్రభుత్వం"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "MEMBER_OF",
+     "target": "తెలుగుదేశం పార్టీ",
+     "evidence": "#ChandrababuNaidu"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

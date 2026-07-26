@@ -1,0 +1,131 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a4fbd6d89e36846181d7e125943f493f5d243b81": {
+   "entities": [
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "కొలంబియన్ మాదకద్రవ్యాల చీకటి సామ్రాజ్యాధిపతి పాబ్లో ఎమిలియో ఎస్కోబార్",
+     "type": "Person",
+     "english_name": "Pablo Emilio Escobar"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రాహుల్ గాంధీ",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "నరమేధాన్ని రాహుల్ గాంధీ ఖండించడం లేదని స్పష్టం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "రాష్ట్రంలో టీడీపీ ప్రభుత్వం అధికారంలోకి వచ్చాక అడ్డగోలుగా సాగుతోన్న డ్రగ్స్ దందాను బట్టి చూస్తే ఎస్కోబార్ చంద్రబాబుకు సన్నిహితుడేమోనని అనుమానం వ్యక్తం చేశారు."
+    },
+    {
+     "source": "ఆంధ్రప్రదేశ్",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్ (Andhra Pradesh Main )"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a9ba6da159da31bba3fbab562ab5bff9728d3458": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టీడీపీ ప్రభుత్వ నరమేధంపై",
+     "type": "Issue",
+     "english_name": "TDP government massacre"
+    },
+    {
+     "name": "ఢిల్లీలో నిర్వహించిన ధర్నాకు",
+     "type": "Issue",
+     "english_name": "Delhi dharna"
+    },
+    {
+     "name": "అన్ని పార్టీలను ఆహ్వానించాం",
+     "type": "Issue",
+     "english_name": "Invited all parties"
+    },
+    {
+     "name": "ఇండియా, బీజేపీ కూటముల్లోని పార్టీలను పిలిచాం",
+     "type": "Issue",
+     "english_name": "Invited parties from India and BJP alliances"
+    },
+    {
+     "name": "సంఘీభావం తెలిపిన ఎస్పీ చీఫ్ అఖిలేష్",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "యాదవ్",
+     "type": "Person",
+     "english_name": "Yadav"
+    },
+    {
+     "name": "తెలంగాణ సీఎం",
+     "type": "Person",
+     "english_name": "Telangana CM"
+    },
+    {
+     "name": "రేవంత్రెడ్డి",
+     "type": "Person",
+     "english_name": "Revanth Reddy"
+    },
+    {
+     "name": "రాహుల్ గాంధీ",
+     "type": "Person",
+     "english_name": "Rahul Gandhi"
+    },
+    {
+     "name": "మణిపూర్లో కాంగ్రెస్ వ్యతిరేక పార్టీ",
+     "type": "Issue",
+     "english_name": "Congress anti-party in Manipur"
+    },
+    {
+     "name": "ఏపీలో కాంగ్రెస్ అనుకూల చంద్రబాబు ప్రభుత్వం",
+     "type": "Issue",
+     "english_name": "Congress-friendly Chandrababu government in AP"
+    },
+    {
+     "name": "బాబుకు ఎస్కోబార్ సన్నిహితుడేమో",
+     "type": "Issue",
+     "english_name": "Escobar connection to Babu"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -2404,6 +2404,144 @@
      "evidence": "అమరావతి"
     }
    ]
+  },
+  "10f8a73148a0b9ae4ec97a5eb039cacb51ec9b39": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడుగారు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "నాగార్జునా యూనివర్సిటీ",
+     "type": "Organization",
+     "english_name": "Nagarjuna University"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "మచిలీపట్నం",
+     "type": "Place",
+     "english_name": "Machilipatnam"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothy"
+    },
+    {
+     "name": "టీవీ5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "ఫీజు రీయింబర్స్‌మెంట్",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "లిక్కర్‌ స్కామ్‌",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "రెడ్‌బుక్‌",
+     "type": "Issue",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "ప్రభుత్వ వైఫల్యం",
+     "type": "Claim",
+     "english_name": "Government failure"
+    },
+    {
+     "name": "రైతు భరోసా రూ.26 వేలు ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": "Rythu Bharosa Rs.26,000 not given"
+    },
+    {
+     "name": "అమ్మ ఒడి కింద రూ.15 వేల చొప్పున ఎగనామం",
+     "type": "Claim",
+     "english_name": "Amma Odi Rs.15,000 scam"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ బకాయిలు ఏడాది దాటింది. రూ.3600 కోట్లు",
+     "type": "Claim",
+     "english_name": "Arogyasri pending Rs.3,600 crore"
+    },
+    {
+     "name": "143 హామీల అమలు లేదు",
+     "type": "Claim",
+     "english_name": "143 promises not implemented"
+    },
+    {
+     "name": "లిక్కర్‌ స్కామ్‌. ఫ్యాబ్రికేషన్‌",
+     "type": "Claim",
+     "english_name": "Liquor scam fabrication"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ వైఫల్యం",
+     "evidence": "పాలనలో ప్రభుత్వ వైఫల్యం: ఒక్క అవినీతి మాత్రమే కాదు.. పాలనలో కూడా ప్రభుత్వం వైఫల్యం."
+    },
+    {
+     "source": "చంద్రబాబునాయుడుగారు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతు భరోసా రూ.26 వేలు ఇవ్వలేదు",
+     "evidence": "రైతు భరోసా రూ.26 వేలు ఇవ్వలేదు."
+    }
+   ]
   }
  }
 }

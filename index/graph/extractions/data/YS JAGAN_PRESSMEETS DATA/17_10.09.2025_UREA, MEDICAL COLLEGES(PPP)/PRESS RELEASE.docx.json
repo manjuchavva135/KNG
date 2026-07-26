@@ -746,6 +746,795 @@
      "evidence": "ప్రజల సమస్యలు కనిపించొద్దు. ప్రజల గొంతు వినిపించొద్దు అనేదే ఆయన ఉద్దేశం."
     }
    ]
+  },
+  "5b736219cd1200d253c5739d5545df22c3495f03": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    }
+   ],
+   "relations": []
+  },
+  "568dd5e7407dbea55c012b215f2333ccfb4d3b87": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    }
+   ],
+   "relations": []
+  },
+  "ebeb0dc69383ccc2b2fa9c92bb5faa415557b4aa": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కాకాణి గోవర్థన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "కురసాల కన్నబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అంబటి రాంబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "లేళ్ల అప్పిరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అనంత వెంకట్రామిరెడ్డి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్డీఓలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా కొరత",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "స్కామ్‌లు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "అన్నదాత పోరు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్‌ అనే వ్యక్తికి రైతుల మీద ఆపేక్ష",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యూరియా కొరత",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "స్కామ్‌లు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "జగన్‌ అనే వ్యక్తికి రైతుల మీద ఆపేక్ష",
+     "evidence": "జగన్‌ అనే వ్యక్తికి రైతుల మీద ఆపేక్ష."
+    },
+    {
+     "source": "కాకాణి గోవర్థన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత పోరు",
+     "evidence": "మా పార్టీ నాయకులు, కార్యకర్తలు రైతులకు తోడుగా నిలబడుతూ, వారి పక్షాన వారితో కలిసి ఆర్డీఓలకు అర్జీ ఇచ్చే కార్యక్రమం ‘అన్నదాత పోరు’ చేశారు."
+    }
+   ]
+  },
+  "f2d741864f928c1305b9e4f24883335be7c91fb8": {
+   "entities": [
+    {
+     "name": "ఉల్లి ధర రూ.3,400",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్‌ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కేజీ ఉల్లి రూ.40 నుంచి రూ.125కు తగ్గలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "9 వేల టన్నులు ప్రొక్యూర్‌ చేసి సరఫరా చేశాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కోవిడ్‌ సంక్షోభం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చీనీ కాయల ధర ఈరోజు టన్ను రూ.7 వేల నుంచి గరిష్టంగా రూ.14 వేలు మాత్రమే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కనిష్ట ధర రూ.30 వేలు కాగా, గరిష్ట ధర ఏకంగా లక్ష రూపాయలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సీఎం–యాప్‌ (కంటిన్యూయస్‌ మానిటరింగ్‌ ఆఫ్‌ అగ్రికల్చరల్‌ ప్రೖస్‌ అండ్‌ ప్రొక్యూర్‌మెంట్‌)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్బీకేలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ–క్రాప్‌లు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సున్నా వడ్డీ పంట రుణాలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఇన్‌పుట్‌ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎం కిసాన్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజారోగ్య రంగం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "స్కూళ్లు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "బస్సులు",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్‌ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ధరల స్థిరీకరణ నిధి",
+     "evidence": "మా ప్రభుత్వంలో రూ.3 వేల కోట్లతో ధరల స్థిరీకరణ నిధి ఏర్పాటు చేశాం."
+    },
+    {
+     "source": "వైయస్సార్‌ సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సీఎం–యాప్‌ (కంటిన్యూయస్‌ మానిటరింగ్‌ ఆఫ్‌ అగ్రికల్చరల్‌ ప్రೖస్‌ అండ్‌ ప్రొక్యూర్‌మెంట్‌)",
+     "evidence": "సీఎం–యాప్‌ (కంటిన్యూయస్‌ మానిటరింగ్‌ ఆఫ్‌ అగ్రికల్చరల్‌ ప్రೖస్‌ అండ్‌ ప్రొక్యూర్‌మెంట్‌) ద్వారా ప్రభుత్వం రంగంలోకి దిగి వాటిని కొనుగోలు చేసేది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ",
+     "evidence": "పీఎం కిసాన్‌తో సంబంధం లేకుండా, అన్నదాత సుఖీభవ అన్న పేరు పెట్టి రూ.20 వేలు ఇస్తామన్నారు."
+    },
+    {
+     "source": "ప్రభుత్వ మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ప్రజారోగ్య రంగం",
+     "evidence": "ప్రభుత్వ మెడికల్‌ కాలేజీల ప్రೖవేటీకరణ. తారాస్థాయికి చేరిన చంద్రబాబు అవినీతి, స్కామ్‌లకు పరాకాష్ట."
+    }
+   ]
+  },
+  "32ee614a7302da15065d759b29d756c79cbeeea1": {
+   "entities": [
+    {
+     "name": "నాబార్డు",
+     "type": "Organization",
+     "english_name": "NABARD"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఎయిమ్స్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఇన్సూరెన్స్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "తురకపాలెం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రైవేట్ ఆస్పత్రులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విలేజ్‌ క్లినిక్స్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ నిర్వీర్యం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "తురకపాలెం ఘటనలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు రూ.5 వేల కోట్లు ఖర్చు పెట్టలేడా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ నిర్వీర్యం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు రూ.5 వేల కోట్లు ఖర్చు పెట్టలేడా?",
+     "evidence": "చంద్రబాబు రూ.5 వేల కోట్లు ఖర్చు పెట్టలేడా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇన్సూరెన్స్‌",
+     "evidence": "కొత్తగా ఇన్సూరెన్స్‌ తీసుకొచ్చాడు."
+    },
+    {
+     "source": "ఆరోగ్యశ్రీ",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఆరోగ్యశ్రీ నిర్వీర్యం",
+     "evidence": "ఆరోగ్యశ్రీ నిర్వీర్యం"
+    }
+   ]
+  },
+  "6af429996441e86ce3521e262f952a20db624dfb": {
+   "entities": [
+    {
+     "name": "మెడికల్‌ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical Colleges"
+    },
+    {
+     "name": "పలసా",
+     "type": "Place",
+     "english_name": "Palasa"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "ఎస్వీ మెడికల్‌ కాలేజీ",
+     "type": "Organization",
+     "english_name": "SVI Medical College"
+    },
+    {
+     "name": "కడప",
+     "type": "Place",
+     "english_name": "Kadapa"
+    },
+    {
+     "name": "కడప జీజీహెచ్‌",
+     "type": "Organization",
+     "english_name": "Kadapa Government Hospital"
+    },
+    {
+     "name": "ఇన్‌స్టిట్యూట్‌ ఆఫ్‌ మెంటల్‌ హెల్త్",
+     "type": "Organization",
+     "english_name": "Institute of Mental Health"
+    },
+    {
+     "name": "సూపర్‌ స్పెషాలిటీ బ్లాక్‌",
+     "type": "Organization",
+     "english_name": "Super Specialty Block"
+    },
+    {
+     "name": "క్యాన్సర్‌ కేర్‌ సెంటర్‌",
+     "type": "Organization",
+     "english_name": "Cancer Care Center"
+    },
+    {
+     "name": "రిమ్స్‌ జీజీహెచ్‌",
+     "type": "Organization",
+     "english_name": "RIMS Government Hospital"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "డయాగ్నొస్టిక్‌ బ్లాక్",
+     "type": "Organization",
+     "english_name": "Diagnostic Block"
+    },
+    {
+     "name": "యూజీ, పీజీ బాలికల హాస్టల్‌",
+     "type": "Organization",
+     "english_name": "UG, PG Girls Hostel"
+    },
+    {
+     "name": "ట్రామా కేర్‌ బ్లాక్‌",
+     "type": "Organization",
+     "english_name": "Trauma Care Block"
+    },
+    {
+     "name": "కాకినాడ",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "సెంటర్‌ ఫర్‌ ఎక్స్‌లెన్స్‌ ఇన్‌ విశాఖ ప్రభుత్వ ఆస్పత్రి",
+     "type": "Organization",
+     "english_name": "Center for Excellence in Visakhapatnam Government Hospital"
+    },
+    {
+     "name": "సిటీ డయాగ్నొస్టిక్‌ సెంటర్‌",
+     "type": "Organization",
+     "english_name": "City Diagnostic Center"
+    }
+   ],
+   "relations": []
+  },
+  "aeceee9d0f7075eb71e11f3d31bd073928d7b6fa": {
+   "entities": [
+    {
+     "name": "పెన్షన్లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలకు ఫ్రీ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "గ్యాస్‌ సిలిండర్లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎం కిసాన్‌",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "UREA",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "MEDICAL COLLEGES(PPP)",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పెన్షన్ల సంఖ్య గత ఏడాది మార్చి నాటికి 66,34,742 ఉంటే, ఈనెలలో మీరు ఇచ్చిన పెన్షన్లు 61,92,864. అంటే దాదాపు 5 లక్షలు కోత.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలకు ఫ్రీ అన్నావు. కానీ పరిమిత బస్సుల్లోనే అనుమతి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏడాదికి మూడు గ్యాస్‌ సిలిండర్లు ఫ్రీ అన్నావు. కానీ గత ఏడాది ఒక్కటే ఇచ్చావు. ఈ ఏడాది ఒక్కటి కూడా లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎం కిసాన్‌ కాకుండా రూ.20 వేలు అన్నదాత సుఖీభవ కింద ఇస్తానన్నావు. అలా రూ.40 వేలు ఇవ్వాల్సి ఉండగా, కేవలం రూ.5 వేలు మాత్రమే ఇవ్వడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తల్లికి వందనం కింద రెండేళ్లకు రూ.30 వేలు ఇవ్వాల్సి ఉండగా, 30 లక్షల మందికి ఎగ్గొట్టి కేవలం రూ.13 వేలు మాత్రమే, ఇంకా చాలా మందికి రూ.8 వేలు మాత్రమే ఇవ్వడం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంకా గత ప్రభుత్వంలో అమలైన పథకాలు రద్దు చేయడం.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "a6942d6a742ea19c77fe729a7437a59e48cb75f1": {
+   "entities": [
+    {
+     "name": "స్టేట్‌ క్యాన్సర్‌ ఇన్‌స్టిట్యూట్‌ ఎట్‌ కర్నూలు",
+     "type": "Organization",
+     "english_name": "State Cancer Institute at Kurnool"
+    },
+    {
+     "name": "రిమ్స్‌ జీజీహెచ్‌ శ్రీకాకుళం",
+     "type": "Organization",
+     "english_name": "RIMS GH Srikakulam"
+    },
+    {
+     "name": "సిటీ డయాగ్నొస్టిక్‌ సెంటర్‌",
+     "type": "Organization",
+     "english_name": "City Diagnostic Centre"
+    },
+    {
+     "name": "రీజనల్‌ డ్రగ్స్‌ స్టోర్‌ విశాఖపట్నం",
+     "type": "Organization",
+     "english_name": "Regional Drugs Store Visakhapatnam"
+    },
+    {
+     "name": "బర్న్స్‌ వార్డు జీజీహెచ్‌ కర్నూలు",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "54ed2f503e7fa5ef0654fe907b8f6fea2d4b46dd": {
+   "entities": [
+    {
+     "name": "మా ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "జార్జియా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రష్యా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "మెడికల్‌ సీట్లు పెరగడం",
+     "type": "Claim",
+     "english_name": "Medical seats increase"
+    },
+    {
+     "name": "మెడికల్‌ సీట్ల కొరత",
+     "type": "Issue",
+     "english_name": "Medical seats shortage"
+    },
+    {
+     "name": "నాబార్డు",
+     "type": "Organization",
+     "english_name": "NABARD"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ స్పెషల్‌ అసిస్టెన్స్‌",
+     "type": "Scheme",
+     "english_name": "Central Government Special Assistance"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మంగళగిరి",
+     "type": "Place",
+     "english_name": "Mangalagiri"
+    },
+    {
+     "name": "ఎయిమ్స్‌",
+     "type": "Organization",
+     "english_name": "AIIMS"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మెడికల్‌ సీట్లు పెరగడం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "మెడికల్‌ సీట్ల కొరత",
+     "evidence": "ఇక్కడ మెడికల్‌ సీట్లు దొరక్క, చాలా మంది తల్లిదండ్రులు తమ పిల్లలను ఎక్కడెక్కడికో పంపిస్తున్నారు."
+    },
+    {
+     "source": "ఎయిమ్స్‌",
+     "relation": "LOCATED_IN",
+     "target": "మంగళగిరి",
+     "evidence": "మంగళగిరిలో ఎయిమ్స్‌"
+    }
+   ]
+  },
+  "c9d16c69e82f282b8855faa34d7e3f4efcb48244": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "PM కిసాన్‌",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "చేయుత",
+     "type": "Scheme",
+     "english_name": "Cheyutha"
+    },
+    {
+     "name": "ఆసరా",
+     "type": "Scheme",
+     "english_name": "Asara"
+    },
+    {
+     "name": "సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Sunna Vaddi"
+    },
+    {
+     "name": "కాపు నేస్తం",
+     "type": "Scheme",
+     "english_name": "Kapu Nestham"
+    },
+    {
+     "name": "ఈబీసీ నేస్తం",
+     "type": "Scheme",
+     "english_name": "EBC Nestham"
+    },
+    {
+     "name": "తోడు",
+     "type": "Scheme",
+     "english_name": "Toodu"
+    },
+    {
+     "name": "చేదోడు",
+     "type": "Scheme",
+     "english_name": "Cheyodhu"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Uchita Pantala Bima"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతిదీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "పిల్లలకు ట్యాబ్‌లు",
+     "type": "Scheme",
+     "english_name": "Pillalaku Tablets"
+    },
+    {
+     "name": "సూపర్‌హిట్‌",
+     "type": "Scheme",
+     "english_name": "Superhit"
+    },
+    {
+     "name": "6 సిలిండర్లకు గానూ, కేవలం ఒక్కటే ఇవ్వడం మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పీఎం కిసాన్‌ కాకుండా రూ.20 వేలు అన్నదాత సుఖీభవ కింద ఇస్తానన్నావు. అలా రూ.40 వేలు ఇవ్వాల్సి ఉండగా, కేవలం రూ.5 వేలు మాత్రమే ఇవ్వడం మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "తల్లికి వందనం కింద రెండేళ్లకు రూ.30 వేలు ఇవ్వాల్సి ఉండగా, 30 లక్షల మందికి ఎగ్గొట్టి కేవలం రూ.13 వేలు మాత్రమే, ఇంకా చాలా మందికి రూ.8 వేలు మాత్రమే ఇవ్వడం మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంకా గత ప్రభుత్వంలో అమలైన పథకాలు రద్దు చేయడం మోసం కాదా?",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చెప్పిన అబద్ధాలు, ఆయన చేసిన మోసంతో ప్రజల జీవితాలు తగలబడుతుంటే.. ఆయన సూపర్‌హిట్‌ పేరుతో బలవంతపు వేడుకలు నిర్వహిస్తున్నారు. ఇది దారుణం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నేను ఒక్కటే అడుగుతున్నాను. 15 నెలల్లో దాదాపు రూ.2 లక్షల కోట్ల అప్పు చేశారు. ఎవరి జేబులోకి పోతోంది ఆ మొత్తం. ఇది రాష్ట్ర చరిత్రలోనే లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "2014లో రాష్ట్రం విడిపోయేనాటికి గ్యారెంటీడ్, నాన్‌ గ్యారెంటీడ్‌తో కలిపి మొత్తం అప్పులు రూ.1,40,717 కోట్లు. 2019లో చంద్రబాబు దిగిపోయే నాటికి ఆ అప్పు ఏకంగా రూ.3,90,247 కోట్లకు చేరింది. అంటే ఏటా అప్పుల సగటు పెరుగుదల (సీఏజీఆర్‌) 22.63 శాతం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇక మా ప్రభుత్వం ఏర్పడే నాటికి ఉన్న అప్పులు రూ.3,90,247 కోట్లు కాగా, గత ఏడాది మేము దిగిపోయే నాటికి ఆ మొత్తం రూ.7,21,918 కోట్లు. అంటే మా హయాంలో ఏటా అప్పుల సగటు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు చెప్పిన అబద్ధాలు, ఆయన చేసిన మోసంతో ప్రజల జీవితాలు తగలబడుతుంటే.. ఆయన సూపర్‌హిట్‌ పేరుతో బలవంతపు వేడుకలు నిర్వహిస్తున్నారు. ఇది దారుణం.",
+     "evidence": "చంద్రబాబు చెప్పిన అబద్ధాలు, ఆయన చేసిన మోసంతో ప్రజల జీవితాలు తగలబడుతుంటే.. ఆయన సూపర్‌హిట్‌ పేరుతో బలవంతపు వేడుకలు నిర్వహిస్తున్నారు. ఇది దారుణం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "2014లో రాష్ట్రం విడిపోయేనాటికి గ్యారెంటీడ్, నాన్‌ గ్యారెంటీడ్‌తో కలిపి మొత్తం అప్పులు రూ.1,40,717 కోట్లు. 2019లో చంద్రబాబు దిగిపోయే నాటికి ఆ అప్పు ఏకంగా రూ.3,90,247 కోట్లకు చేరింది. అంటే ఏటా అప్పుల సగటు పెరుగుదల (సీఏజీఆర్‌) 22.63 శాతం.",
+     "evidence": "2014లో రాష్ట్రం విడిపోయేనాటికి గ్యారెంటీడ్, నాన్‌ గ్యారెంటీడ్‌తో కలిపి మొత్తం అప్పులు రూ.1,40,717 కోట్లు. 2019లో చంద్రబాబు దిగిపోయే నాటికి ఆ అప్పు ఏకంగా రూ.3,90,247 కోట్లకు చేరింది. అంటే ఏటా అప్పుల సగటు పెరుగుదల (సీఏజీఆర్‌) 22.63 శాతం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇక మా ప్రభుత్వం ఏర్పడే నాటికి ఉన్న అప్పులు రూ.3,90,247 కోట్లు కాగా, గత ఏడాది మేము దిగిపోయే నాటికి ఆ మొత్తం రూ.7,21,918 కోట్లు. అంటే మా హయాంలో ఏటా అప్పుల సగటు",
+     "evidence": "ఇక మా ప్రభుత్వం ఏర్పడే నాటికి ఉన్న అప్పులు రూ.3,90,247 కోట్లు కాగా, గత ఏడాది మేము దిగిపోయే నాటికి ఆ మొత్తం రూ.7,21,918 కోట్లు. అంటే మా హయాంలో ఏటా అప్పుల సగటు"
+    }
+   ]
   }
  }
 }

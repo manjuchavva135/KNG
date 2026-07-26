@@ -1,0 +1,51 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4f63fad0bb001d642516327f3e942670ba40d9f4": {
+   "entities": [
+    {
+     "name": "DH",
+     "type": "Organization",
+     "english_name": "DH"
+    },
+    {
+     "name": "DECCAN HERALD",
+     "type": "Organization",
+     "english_name": "DECCAN HERALD"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "AR Dairy",
+     "type": "Organization",
+     "english_name": "AR Dairy"
+    },
+    {
+     "name": "NDDB Lab",
+     "type": "Organization",
+     "english_name": "NDDB Lab"
+    },
+    {
+     "name": "Anand",
+     "type": "Place",
+     "english_name": "Anand"
+    },
+    {
+     "name": "Gujarat",
+     "type": "Place",
+     "english_name": "Gujarat"
+    },
+    {
+     "name": "FS-SAI specifications",
+     "type": "Scheme",
+     "english_name": "FS-SAI specifications"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6aa7bef2cac58d27c8d22569e5a09b011774678f": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1bdbfaa54ce3c0ee4a35c13b1b2cc3e3a290c9e9": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fd5d1a26078769c75e734e895cb8badec0c23d42": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "FSSAI",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "Sri Vari Khajana",
+     "type": "Organization",
+     "english_name": "Sri Vari Khajana"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "63c9e37119902b600087a267f346b9e8c87c8a2c": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "బాబూ గారి 'కొవ్వు' బాగోతం బట్టబయలు",
+     "type": "Claim",
+     "english_name": "Baboo's 'fat' expose"
+    },
+    {
+     "name": "టీటీడీ టెండర్",
+     "type": "Scheme",
+     "english_name": "TTD Tender"
+    },
+    {
+     "name": "శ్రీవారి లడ్డూ ప్రసాదం",
+     "type": "Issue",
+     "english_name": "Sri Vari Laddu Prasad"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఏఆర్ డెయిరీ ఫుడ్స్",
+     "type": "Organization",
+     "english_name": "AR Dairy Foods"
+    },
+    {
+     "name": "స్వచ్ఛత కోసం ప్రమాణాలు",
+     "type": "Claim",
+     "english_name": "Purity Standards"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బాబూ గారి 'కొవ్వు' బాగోతం బట్టబయలు",
+     "evidence": "బాబూ గారి 'కొవ్వు' బాగోతం బట్టబయలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7df49179720e1ac3bbf00f3321540257cca77f38": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Bhuvana Reddy",
+     "type": "Person",
+     "english_name": "Bhuvana Reddy"
+    },
+    {
+     "name": "AR Dairy Puffs",
+     "type": "Organization",
+     "english_name": "AR Dairy Puffs"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    },
+    {
+     "name": "Budget/CAG",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

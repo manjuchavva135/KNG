@@ -1,0 +1,361 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5438f78ea8596349f450b630d84313fd107ffd86": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ప్రశ్నించే స్వరం",
+     "type": "Issue",
+     "english_name": "Questioning Voice"
+    },
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సోషల్ మీడియా కార్యకర్తలు",
+     "type": "Person",
+     "english_name": "Social Media activists"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "సూపర్ సిక్స్లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Organization",
+     "english_name": "DGP"
+    },
+    {
+     "name": "ఆర్టీసీ సీఎండీ",
+     "type": "Organization",
+     "english_name": "RTC CMD"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "సీఎం చంద్రబాబు",
+     "evidence": "సీఎం చంద్రబాబుపై మండిపడ్డ వైఎస్ జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "పోలీసు సోదరులారా.. న్యాయం, ధర్మం వైపు నిలబడాలని సూచించారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్లు",
+     "evidence": "ఎన్నికల్లో మీరు చెప్పిన సూపర్ సిక్స్లు ఏమయ్యాయని ఈ ప్రభుత్వాన్ని ప్రశ్నించిన పాపానికి పోలీస్ స్టేషన్ల చుట్టూ తిప్పుతున్నారన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "DEFENDS",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "ప్రతి బాధితుడికి వైఎస్సార్ సీపీ న్యాయ సహాయం అందిస్తుందని చెప్పారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "డీజీపీ",
+     "evidence": "డీజీపీ చట్టం, న్యాయం వైపు నిలబడాలి."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఆర్టీసీ సీఎండీ",
+     "evidence": "గత ప్రభుత్వంలో పోలీసులు సరిగా పనిచేయలేదని చెబుతున్నాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3b05b49f0d223b3985451746ad38aa5ad3af3c9f": {
+   "entities": [
+    {
+     "name": "సుప్రీం కోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "46e0f2d3d663c074b2f3a0281e8a0afad614a46a": {
+   "entities": [
+    {
+     "name": "అశోక్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Ashok Reddy"
+    },
+    {
+     "name": "రాజశేఖరరెడ్డి",
+     "type": "Person",
+     "english_name": "Rajasekhara Reddy"
+    },
+    {
+     "name": "విజయవాడ సైబర్ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Vijayawada Cyber Police"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "టీడీపీ అధికారిక 'ఎక్స్' ఖాతా",
+     "type": "Organization",
+     "english_name": "TDP Official X Account"
+    },
+    {
+     "name": "విజయమ్మ",
+     "type": "Person",
+     "english_name": "Vijayamma"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "కడప ఎస్పీ",
+     "type": "Organization",
+     "english_name": "Kadapa SP"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "రాధాకృష్ణ",
+     "type": "Person",
+     "english_name": "Radhakrishna"
+    },
+    {
+     "name": "మహానంది మండలం యు.బొల్లవరం గ్రామం",
+     "type": "Place",
+     "english_name": "U. Bollavaram village, Mahanandi mandal"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ అధికారిక 'ఎక్స్' ఖాతా",
+     "evidence": "టీడీపీ అధికారిక 'ఎక్స్' ఖాతాలో వికృత ప్రచారం చేశారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "లోకేష్",
+     "evidence": "లోకేష్ను ఎందుకు అరెస్టు చేయడం లేదు?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పవన్ కళ్యాణ్",
+     "evidence": "చంద్రబాబు, లోకేశ్, పవన్ కళ్యాణ్ ఒత్తిళ్లకు తలొగ్గి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0da1b22fdf71e2e633a062b2dcfdcacc1650a98c": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Person",
+     "english_name": "DGP"
+    },
+    {
+     "name": "తిరుమల కృష్ణ",
+     "type": "Person",
+     "english_name": "Tirumala Krishna"
+    },
+    {
+     "name": "ఆదివారం అర్ధరాత్రి",
+     "type": "Person",
+     "english_name": "Sunday midnight"
+    },
+    {
+     "name": "కర్నూలు",
+     "type": "Place",
+     "english_name": "Kurnool"
+    },
+    {
+     "name": "కె.హనుమంతురెడ్డి",
+     "type": "Person",
+     "english_name": "K. Hanumanthareddy"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "రాయచోటి",
+     "type": "Place",
+     "english_name": "Rayachoti"
+    },
+    {
+     "name": "నల్గొండ",
+     "type": "Place",
+     "english_name": "Nalgonda"
+    },
+    {
+     "name": "విజయవాడ సైబర్ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Vijayawada Cyber Police"
+    },
+    {
+     "name": "అశోక్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Ashok Reddy"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "రాజశేఖరరెడ్డి",
+     "type": "Person",
+     "english_name": "Rajasekhara Reddy"
+    },
+    {
+     "name": "కోర్టులు",
+     "type": "Organization",
+     "english_name": "Courts"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "71b698ac8672b72ab34d9e7a44e1e8704a79b679": {
+   "entities": [
+    {
+     "name": "సుప్రీం కోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "అమేష్కుమార్ వర్సెస్ బిహార్ కేసు",
+     "type": "Organization",
+     "english_name": "Amesh Kumar vs Bihar case"
+    },
+    {
+     "name": "డీజీపీ",
+     "type": "Person",
+     "english_name": "DGP"
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    },
+    {
+     "name": "కుమారుడు",
+     "type": "Person",
+     "english_name": "Son"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం",
+     "type": "Person",
+     "english_name": "Deputy CM"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "టీడీపీ సానుభూతిపరులు",
+     "type": "Party",
+     "english_name": "TDP sympathizers"
+    },
+    {
+     "name": "సోషల్ మీడియా కార్యకర్తలు",
+     "type": "Person",
+     "english_name": "Social media activists"
+    },
+    {
+     "name": "నష్టపోయిన బాధిత కుటుంబాలు",
+     "type": "Person",
+     "english_name": "Affected families"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీజీపీ",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "ముఖ్యమంత్రి, ఆయన కుమారుడు, డిప్యూటీ సీఎం మాట్లాడిన మాటలు గమనిస్తే డీజీపీపై ఒత్తిడి తెస్తున్నట్లు స్పష్టమవుతోంది. దాంతో డీజీపీ దగ్గరుండి కేసులు పెట్టించి.. అక్రమ నిర్బంధాలు చేయిస్తున్నారు"
+    },
+    {
+     "source": "ముఖ్యమంత్రి",
+     "relation": "ACCUSES",
+     "target": "డీజీపీ",
+     "evidence": "ముఖ్యమంత్రి, ఆయన కుమారుడు, డిప్యూటీ సీఎం మాట్లాడిన మాటలు గమనిస్తే డీజీపీపై ఒత్తిడి తెస్తున్నట్లు స్పష్టమవుతోంది"
+    },
+    {
+     "source": "కుమారుడు",
+     "relation": "ACCUSES",
+     "target": "డీజీపీ",
+     "evidence": "ముఖ్యమంత్రి, ఆయన కుమారుడు, డిప్యూటీ సీఎం మాట్లాడిన మాటలు గమనిస్తే డీజీపీపై ఒత్తిడి తెస్తున్నట్లు స్పష్టమవుతోంది"
+    },
+    {
+     "source": "డిప్యూటీ సీఎం",
+     "relation": "ACCUSES",
+     "target": "డీజీపీ",
+     "evidence": "ముఖ్యమంత్రి, ఆయన కుమారుడు, డిప్యూటీ సీఎం మాట్లాడిన మాటలు గమనిస్తే డీజీపీపై ఒత్తిడి తెస్తున్నట్లు స్పష్టమవుతోంది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

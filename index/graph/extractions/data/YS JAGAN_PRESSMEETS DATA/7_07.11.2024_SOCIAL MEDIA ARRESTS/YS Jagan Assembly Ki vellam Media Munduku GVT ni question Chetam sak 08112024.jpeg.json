@@ -1,0 +1,127 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0a1c27cdae2bce774649237bb188ec4d6235400f": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మీడియా ద్వారా ప్రభుత్వాన్ని ప్రశ్నిస్తాం",
+     "type": "Claim",
+     "english_name": "We will question the government through media"
+    },
+    {
+     "name": "అధికార కూటమి",
+     "type": "Party",
+     "english_name": "Ruling coalition"
+    },
+    {
+     "name": "ప్రతిపక్ష వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "Opposition YSRCP"
+    },
+    {
+     "name": "40 శాతం ఓట్లు",
+     "type": "Claim",
+     "english_name": "40 percent votes"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "స్పీకర్",
+     "type": "Organization",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": "Assembly"
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "Media"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "మీడియా ద్వారా ప్రభుత్వాన్ని ప్రశ్నిస్తాం",
+     "evidence": "మీడియా ద్వారా ప్రభుత్వాన్ని ప్రశ్నిస్తాం"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "అధికార కూటమి",
+     "evidence": "అధికార కూటమి"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "స్పీకర్",
+     "evidence": "స్పీకర్ను కోరుతున్నామని"
+    },
+    {
+     "source": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "40 శాతం ఓట్లు",
+     "evidence": "40శాతం ఓట్లు వచ్చాయని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "43da152f06814d1d4dbe0bfd424dd231987ca2b5": {
+   "entities": [
+    {
+     "name": "స్పీకర్లుగా భావించి ప్రజల తరఫున ప్రశ్నిస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రజాస్వామ్యం బతికే ఉందా?",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఏపీలో ప్రజాస్వామ్యం బతికే ఉ?",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మెల్సీ ఎన్నికలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "కార్యకర్తలు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

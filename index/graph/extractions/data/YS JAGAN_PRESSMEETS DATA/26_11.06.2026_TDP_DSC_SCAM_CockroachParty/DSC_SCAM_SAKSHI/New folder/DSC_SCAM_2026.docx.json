@@ -1,0 +1,6037 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "786432e2ddf3d4e73e7855c35f9bd198d5ccfd05": {
+   "entities": [
+    {
+     "name": "అక్రమాలు దిట్ట.. పగిలిన పుట్ట",
+     "type": "Issue",
+     "english_name": "DSC Scam"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "DSC 2025"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "జోన్‌–2 టీజీటీ",
+     "type": "Organization",
+     "english_name": "Zone-2 TGT"
+    },
+    {
+     "name": "టెట్",
+     "type": "Organization",
+     "english_name": "TET"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "పి.నవీన్",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "కొత్తపేట",
+     "type": "Place",
+     "english_name": "Kottapeta"
+    },
+    {
+     "name": "అవనిగడ్డ",
+     "type": "Place",
+     "english_name": "Avinagadda"
+    },
+    {
+     "name": "మెగా డీఎస్సీృ2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC 2025"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dbf7f22043e1842ad393b779b26379ac1cf73333": {
+   "entities": [
+    {
+     "name": "సయ్యద్ జమీల్",
+     "type": "Person",
+     "english_name": "Syed Jameel"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya district"
+    },
+    {
+     "name": "రాయచోటి",
+     "type": "Place",
+     "english_name": "Rayachoti"
+    },
+    {
+     "name": "డీఎస్సీ స్కూల్ అసిస్టెంట్ బయాలజీ",
+     "type": "Scheme",
+     "english_name": "DSSC School Assistant Biology"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లోకేశ్‌",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "డీఎస్సీ స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "DSSC Sports Quota"
+    },
+    {
+     "name": "జనరల్‌ డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "General DSSC"
+    },
+    {
+     "name": "ఎస్సీఆర్టీ",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "జోన్‌–2",
+     "type": "Place",
+     "english_name": "Zone-2"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "99871e5c8dc4feb615e306d2825d5c6c12e24d5c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు సర్కార్‌",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "జోన్‌–2",
+     "type": "Place",
+     "english_name": "Zone-2"
+    },
+    {
+     "name": "టీజీటీ",
+     "type": "Organization",
+     "english_name": "TGT"
+    },
+    {
+     "name": "క్రీడా శాఖ",
+     "type": "Organization",
+     "english_name": "Sports Department"
+    },
+    {
+     "name": "మాస్టర్‌ మైండ్‌",
+     "type": "Organization",
+     "english_name": "Mastermind"
+    },
+    {
+     "name": "పి.నవీన్‌",
+     "type": "Person",
+     "english_name": "P. Naveen"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Organization",
+     "english_name": "Mega DSC-2025"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కృష్ణా జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": ""
+    },
+    {
+     "source": "జోన్‌–2",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": ""
+    },
+    {
+     "source": "టీజీటీ",
+     "relation": "LOCATED_IN",
+     "target": "జోన్‌–2",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d9c3f849ed9e057108a3387d24ff8978769eeb36": {
+   "entities": [
+    {
+     "name": "క్రీడా శాఖలో రాజకీయ నామినేటెడ్‌ పోస్టు",
+     "type": "Organization",
+     "english_name": "Sports Department nominated post"
+    },
+    {
+     "name": "మాస్టర్‌ మైండ్‌",
+     "type": "Person",
+     "english_name": "Master Mind"
+    },
+    {
+     "name": "డీఎస్సీ పోస్టులు",
+     "type": "Scheme",
+     "english_name": "DSSC posts"
+    },
+    {
+     "name": "పొరుగు శాఖలకు చెందిన కొందరు ఉద్యోగులు",
+     "type": "Person",
+     "english_name": "Employees from neighboring departments"
+    },
+    {
+     "name": "క్రీడా వర్గాలు",
+     "type": "Organization",
+     "english_name": "Sports circles"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7e936c789ec17a563698c163d2dc2b215bd6dfbb": {
+   "entities": [
+    {
+     "name": "మాస్టర్‌ మైండ్‌",
+     "type": "Person",
+     "english_name": "Master Mind"
+    },
+    {
+     "name": "క్రీడాకారిణి",
+     "type": "Person",
+     "english_name": "Sportswoman"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "బాధిత అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "Affected Candidates"
+    },
+    {
+     "name": "కేంద్ర దర్యాప్తు సంస్థ",
+     "type": "Organization",
+     "english_name": "Central Investigation Agency"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మాస్టర్‌ మైండ్‌",
+     "relation": "ACCUSES",
+     "target": "శాప్‌",
+     "evidence": "మాస్టర్‌ మైండ్‌ ఆ పోస్టును బేరంపెట్టి అమ్మేసుకోవడంతో సదరు క్రీడాకారిణి కేసు గెలిస్తే తనకు ఇబ్బందులొస్తాయని బెదిరింపులకు ఒడిగట్టడం గమనార్హం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "03ecce59b8b366b9d95efb7265dd5a4ba635ddb5": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "జిల్లా ఎంపిక కమిటీ(డీఎస్సీ)",
+     "type": "Organization",
+     "english_name": "District Selection Committee (DSC)"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ రాష్ట్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "State Office of School Education Department"
+    },
+    {
+     "name": "రాష్ట్ర విద్యా పరిశోధన శిక్షణ మండలి (ఎస్సీఈఆర్టీ)",
+     "type": "Organization",
+     "english_name": "State Council of Educational Research and Training (SCERT)"
+    },
+    {
+     "name": "కాంట్రాక్టు ఉద్యోగి",
+     "type": "Person",
+     "english_name": "Contract employee"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8db60c03db1d8223bd871447a0589f8ee7000eda": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "ఏలూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Eluru district"
+    },
+    {
+     "name": "రాయలసీమ జిల్లా",
+     "type": "Place",
+     "english_name": "Rayalaseema district"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "రాష్ట్రపతి ఉత్తర్వులు",
+     "type": "Organization",
+     "english_name": "President's orders"
+    },
+    {
+     "name": "రాష్ట్రపతి ఆర్డర్లు",
+     "type": "Organization",
+     "english_name": "President's orders"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ సర్టీఫికెట్‌ వెయిటేజీలు",
+     "type": "Scheme",
+     "english_name": "Sports certificate weightages"
+    },
+    {
+     "name": "నాన్‌–లోకల్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Non-local quota"
+    },
+    {
+     "name": "ఓపెన్‌ కేటగిరీ",
+     "type": "Scheme",
+     "english_name": "Open category"
+    },
+    {
+     "name": "లోకల్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Local quota"
+    },
+    {
+     "name": "లీకేజీ",
+     "type": "Issue",
+     "english_name": "Leakage"
+    },
+    {
+     "name": "డీఎస్సీ స్కాం",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ab9ef4130bd6eb7535fd5fa7dfb1c966c61d7cdc": {
+   "entities": [
+    {
+     "name": "ఈపీటీ",
+     "type": "Organization",
+     "english_name": "EPI"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "50a88d34fc36fea421bf5df2f98020f5ee62f89c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "టెస్టింగ్‌",
+     "type": "Scheme",
+     "english_name": "Testing"
+    },
+    {
+     "name": "ఈపీటీ",
+     "type": "Scheme",
+     "english_name": "EPT"
+    },
+    {
+     "name": "కాల్‌ లెటర్లు",
+     "type": "Scheme",
+     "english_name": "Call letters"
+    },
+    {
+     "name": "మెరిట్‌ లిస్టు",
+     "type": "Claim",
+     "english_name": "Merit list"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "డీఎస్సీ",
+     "evidence": "డీఎస్సీ నియామకాల్లో తొలి నుంచీ అనేక అవకతవకలకు పాల్పడిన చంద్రబాబు ప్రభుత్వ కుట్రలో మరో కోణమిది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మెరిట్‌ లిస్టు",
+     "evidence": "మేము మెరిట్‌ లిస్టులో ఉన్నా కాల్‌ లెటర్లు రాలేదంటూ వేలమంది అభ్యర్థులు జిల్లాల్లో కౌన్సెలింగ్‌ సెంటర్ల వద్ద ఆందోళన చేస్తే అభ్యర్థులకు న్యాయం చేయాల్సిన ప్రభుత్వం రాజకీయ రంగు పులిమి తప్పులను కప్పిపుచ్చే యత్నం చేసింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4fdc1bbea311a3a00533fd339ead7afc6e183405": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "క్రీడా విధానం 2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024–29"
+    },
+    {
+     "name": "3 శాతం హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "3% Horizontal Reservation"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0319916bc7d1fe1bd9e64465a86ac744f8bab003": {
+   "entities": [
+    {
+     "name": "పాఠశాల విద్యాశాఖ రాష్ట్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "State Office of School Education"
+    },
+    {
+     "name": "పరీక్ష నిర్వహణ",
+     "type": "Claim",
+     "english_name": "Examination Management"
+    },
+    {
+     "name": "ఉపాధ్యాయ ఉద్యోగాల భర్తీ",
+     "type": "Claim",
+     "english_name": "Teacher Job Recruitment"
+    },
+    {
+     "name": "ఉన్నతాధికారులు",
+     "type": "Person",
+     "english_name": "Senior Officials"
+    },
+    {
+     "name": "కాంట్రాక్టు ఉద్యోగులు",
+     "type": "Person",
+     "english_name": "Contract Employees"
+    },
+    {
+     "name": "రాష్ట్ర విద్యా పరిశోధన శిక్షణ మండలి (ఎస్సీఈఆర్టీ)",
+     "type": "Organization",
+     "english_name": "State Council of Educational Research and Training (SCERT)"
+    },
+    {
+     "name": "టెట్‌ కన్వీనర్‌",
+     "type": "Person",
+     "english_name": "TET Convenor"
+    },
+    {
+     "name": "జాయింట్‌ డైరెక్టర్‌ స్థాయి అధికారి",
+     "type": "Person",
+     "english_name": "Joint Director level officer"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ డైరెక్టర్‌",
+     "type": "Person",
+     "english_name": "SCERT Director"
+    },
+    {
+     "name": "కాంట్రాక్టు ఉద్యోగి నవీన్‌",
+     "type": "Person",
+     "english_name": "Contract employee Naveen"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "సోషల్‌ స్టడీస్‌ టాపర్‌",
+     "type": "Claim",
+     "english_name": "Social Studies Topper"
+    },
+    {
+     "name": "టీజీటీ",
+     "type": "Claim",
+     "english_name": "TGT"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "విద్యాభవన్‌",
+     "type": "Organization",
+     "english_name": "Vidya Bhavan"
+    },
+    {
+     "name": "జిల్లా సెలక్షన్‌ కమిటీలు",
+     "type": "Organization",
+     "english_name": "District Selection Committees"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఉన్నతాధికారులు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉపాధ్యాయ ఉద్యోగాల భర్తీ",
+     "evidence": "ఉపాధ్యాయ ఉద్యోగాల భర్తీ వరకు అంతా తన చేతిలోనే పెట్టుకున్న ఉన్నతాధికారులు"
+    },
+    {
+     "source": "ఉన్నతాధికారులు",
+     "relation": "MAKES_CLAIM",
+     "target": "పరీక్ష నిర్వహణ",
+     "evidence": "పరీక్ష నిర్వహణలో కీలకమైన విధుల్లో కాంట్రాక్టు ఉద్యోగులకు బాధ్యతలు అప్పగించడం విస్మ యం కలిగిస్తోంది."
+    },
+    {
+     "source": "రాష్ట్ర విద్యా పరిశోధన శిక్షణ మండలి (ఎస్సీఈఆర్టీ)",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "వాస్తవానికి డీఎస్సీ పేపర్‌ తయారీని రాష్ట్ర విద్యా పరిశోధన శిక్షణ మండలి (ఎస్సీఈఆర్టీ) చూస్తుంది."
+    },
+    {
+     "source": "కాంట్రాక్టు ఉద్యోగి నవీన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "సోషల్‌ స్టడీస్‌ టాపర్‌",
+     "evidence": "నవీన్‌ కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గానూ, టీజీటీలో ఆరో ర్యాంకు సాధించడంతో లీకేజీ వ్యవహారం బయటపడింది."
+    },
+    {
+     "source": "కాంట్రాక్టు ఉద్యోగి నవీన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "టీజీటీ",
+     "evidence": "నవీన్‌ కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గానూ, టీజీటీలో ఆరో ర్యాంకు సాధించడంతో లీకేజీ వ్యవహారం బయటపడింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "56df75c638fd375af252712228643449c7060beb": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "నేషనల్‌ గేమ్స్‌",
+     "type": "Scheme",
+     "english_name": "National Games"
+    },
+    {
+     "name": "సీనియర్‌ నేషనల్స్‌",
+     "type": "Scheme",
+     "english_name": "Senior Nationals"
+    },
+    {
+     "name": "క్రీడా సంఘాల ప్రతినిధులు",
+     "type": "Organization",
+     "english_name": "Sports Associations Representatives"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "దేశ చరిత్ర",
+     "type": "Place",
+     "english_name": "Country History"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ace3fc302abf0a6ec588e312154ec072aeb1f2b6": {
+   "entities": [
+    {
+     "name": "క్రీడా విధానం 2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024–29"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandra Babu Government"
+    },
+    {
+     "name": "శాప్",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "అనంతపురానికి చెందిన ఓ ఫెన్సింగ్‌ క్రీడాకారిణి",
+     "type": "Person",
+     "english_name": "Fencing sportswoman from Anantapur"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7d430af5364d0ad5e1e586175ae54d77c2975267": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "ఏపీ టెట్‌",
+     "type": "Scheme",
+     "english_name": "AP TET"
+    },
+    {
+     "name": "విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ పోస్టు",
+     "type": "Scheme",
+     "english_name": "Sports Quota DSC Post"
+    },
+    {
+     "name": "స్క్రీనింగ్‌ కమిటీ",
+     "type": "Organization",
+     "english_name": "Screening Committee"
+    },
+    {
+     "name": "రాష్ట్ర స్థాయిలో అత్యున్నత అధికారుల కమిటీ",
+     "type": "Organization",
+     "english_name": "State Level Highest Officials Committee"
+    },
+    {
+     "name": "అన్ర్హులు",
+     "type": "Person",
+     "english_name": "Unqualified candidates"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "138d865f9463eb765076f443a0af6b5ee4b7f9cf": {
+   "entities": [
+    {
+     "name": "విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "టెట్‌ స్కోరు",
+     "type": "Claim",
+     "english_name": "TET score"
+    },
+    {
+     "name": "డీఎస్సీ స్కోరు కార్డులు",
+     "type": "Claim",
+     "english_name": "DSSC score cards"
+    },
+    {
+     "name": "ఎంపిక లిస్టు",
+     "type": "Claim",
+     "english_name": "selection list"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "జిల్లా విద్యాశాఖ కార్యాలయ అధికారులు",
+     "type": "Organization",
+     "english_name": "District Education Office officials"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "శిక్షణ కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "Training program"
+    },
+    {
+     "name": "ఆగిరిపల్లి",
+     "type": "Place",
+     "english_name": "Aghiripalli"
+    },
+    {
+     "name": "పీజీటీ, టీజీటీ శిక్షణ కేంద్రం",
+     "type": "Organization",
+     "english_name": "PGT, TGT training centre"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "77b19ee94c1e9d914a445b94d5f8e96ba76bd3c9": {
+   "entities": [
+    {
+     "name": "మాస్టర్‌ మైండ్‌ ఏజెంట్‌",
+     "type": "Person",
+     "english_name": "Master Mind Agent"
+    },
+    {
+     "name": "అభ్యర్థి కుటుంబ సభ్యులు",
+     "type": "Person",
+     "english_name": "Candidate's Family Members"
+    },
+    {
+     "name": "అనంతపురం జిల్లాకు చెందిన ఫెన్సింగ్‌ క్రీడాకారిణి",
+     "type": "Person",
+     "english_name": "Fencing Sportswoman from Anantapuramu district"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా ఉద్యోగాల భర్తీ",
+     "type": "Scheme",
+     "english_name": "Sports Quota Job Recruitment"
+    },
+    {
+     "name": "సాప్‌లోని సాంకేతిక విభాగంలో పనిచేస్తున్న తాత్కాలిక ఉద్యోగి",
+     "type": "Person",
+     "english_name": "Temporary employee in the technical section of SAP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మాస్టర్‌ మైండ్‌ ఏజెంట్‌",
+     "relation": "ACCUSES",
+     "target": "అనంతపురం జిల్లాకు చెందిన ఫెన్సింగ్‌ క్రీడాకారిణి",
+     "evidence": "బెదిరించి కేసులు విత్‌డ్రా చేయించి.."
+    },
+    {
+     "source": "మాస్టర్‌ మైండ్‌ ఏజెంట్‌",
+     "relation": "ACCUSES",
+     "target": "సాప్‌లోని సాంకేతిక విభాగంలో పనిచేస్తున్న తాత్కాలిక ఉద్యోగి",
+     "evidence": "సాప్‌లోని సాంకేతిక విభాగంలో పనిచేస్తున్న తాత్కాలిక ఉద్యోగితో ఫోన్‌ చేయించి మరీ బెదిరింపులకు పాల్పడ్డారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2621c46a78e19b4599098c08b273b786cc4f8121": {
+   "entities": [
+    {
+     "name": "SAP",
+     "type": "Organization",
+     "english_name": "SAP"
+    },
+    {
+     "name": "CM's relative",
+     "type": "Person",
+     "english_name": "CM's relative"
+    },
+    {
+     "name": "screening committee",
+     "type": "Organization",
+     "english_name": "screening committee"
+    },
+    {
+     "name": "SAP administration officer",
+     "type": "Person",
+     "english_name": "SAP administration officer"
+    },
+    {
+     "name": "DSDO",
+     "type": "Person",
+     "english_name": "DSDO"
+    },
+    {
+     "name": "senior coach",
+     "type": "Person",
+     "english_name": "senior coach"
+    },
+    {
+     "name": "assistant director (technical)",
+     "type": "Person",
+     "english_name": "assistant director (technical)"
+    },
+    {
+     "name": "contract/outsourcing employee",
+     "type": "Person",
+     "english_name": "contract/outsourcing employee"
+    },
+    {
+     "name": "fake certificates",
+     "type": "Claim",
+     "english_name": "fake certificates"
+    },
+    {
+     "name": "fake birth dates",
+     "type": "Claim",
+     "english_name": "fake birth dates"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CM's relative",
+     "relation": "MAKES_CLAIM",
+     "target": "fake certificates",
+     "evidence": "ఫేక్‌ సర్టిఫికెట్లు.. ఫేక్‌ పుట్టిన తేదీలతో పోస్టులా?"
+    },
+    {
+     "source": "CM's relative",
+     "relation": "MAKES_CLAIM",
+     "target": "fake birth dates",
+     "evidence": "ఫేక్‌ సర్టిఫికెట్లు.. ఫేక్‌ పుట్టిన తేదీలతో పోస్టులా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1831907c04f1ed85949448c0815b739e57536f8f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ప్రభుత్వ ఉద్యోగాలు",
+     "type": "Claim",
+     "english_name": "Government jobs"
+    },
+    {
+     "name": "మెగా డిఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "పశి్చమగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "Paschima Godavari district"
+    },
+    {
+     "name": "పీఈటీ/పీడీ పోస్టు",
+     "type": "Claim",
+     "english_name": "PET/PD post"
+    },
+    {
+     "name": "అర్హులైన మహిళా అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "eligible women candidates"
+    },
+    {
+     "name": "కోర్టు ధిక్కరణ పిటిషన్లు",
+     "type": "Claim",
+     "english_name": "contempt of court petitions"
+    },
+    {
+     "name": "సాక్షి, అమరావతి",
+     "type": "Organization",
+     "english_name": "Sakshi, Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డిఎస్సీ–2025",
+     "evidence": "మెగా డిఎస్సీ–2025లో కష్టపడి సాధించుకున్న ఉపాధ్యాయ ఉద్యోగాలను పలువురికి ఇచ్చేదిలేదు పొమ్మంది చంద్రబాబు ప్రభుత్వం."
+    },
+    {
+     "source": "అర్హులైన మహిళా అభ్యర్థులు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు ప్రభుత్వం",
+     "evidence": "అర్హులైన మహిళా అభ్యర్థులతోనూ అసభ్య చాటింగులు చేసి కోరికలు తీర్చాలని మాస్టర్‌మైండ్‌ వేధించినట్టు ఆరోపణలు ఉన్నాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0f7ea41ad02edd511b669234ae8174017d412668": {
+   "entities": [
+    {
+     "name": "DSC",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "Screening Committee",
+     "type": "Organization",
+     "english_name": "Screening Committee"
+    },
+    {
+     "name": "State Level Committee",
+     "type": "Organization",
+     "english_name": "State Level Committee"
+    },
+    {
+     "name": "SAP",
+     "type": "Organization",
+     "english_name": "SAP"
+    },
+    {
+     "name": "Sports Association",
+     "type": "Organization",
+     "english_name": "Sports Association"
+    },
+    {
+     "name": "Sports Quota",
+     "type": "Issue",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "Fake Certificates",
+     "type": "Issue",
+     "english_name": "Fake Certificates"
+    },
+    {
+     "name": "Fake Birth Dates",
+     "type": "Issue",
+     "english_name": "Fake Birth Dates"
+    },
+    {
+     "name": "Sports Quota Recruitment",
+     "type": "Issue",
+     "english_name": "Sports Quota Recruitment"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1b71cbd88a9813878256e67dfdac84715fbc5d6e": {
+   "entities": [
+    {
+     "name": "ప్రిన్సిపల్",
+     "type": "Organization",
+     "english_name": "Principal"
+    },
+    {
+     "name": "పీజీటీ",
+     "type": "Organization",
+     "english_name": "PGT"
+    },
+    {
+     "name": "టీజీటీ",
+     "type": "Organization",
+     "english_name": "TGT"
+    },
+    {
+     "name": "స్కూల్‌ అసిస్టెంట్",
+     "type": "Organization",
+     "english_name": "School Assistant"
+    },
+    {
+     "name": "ఎస్జీటీ",
+     "type": "Organization",
+     "english_name": "SGT"
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "ఏఎస్సార్‌ జిల్లా",
+     "type": "Place",
+     "english_name": "Anakapalli district"
+    },
+    {
+     "name": "దుర్గాప్రసాద్‌",
+     "type": "Person",
+     "english_name": "Durga Prasad"
+    },
+    {
+     "name": "కోర్టు ధిక్కరణ పిటిషన్‌",
+     "type": "Organization",
+     "english_name": "Contempt petition"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "విద్యా శాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కోర్టు ధిక్కరణ పిటిషన్‌",
+     "relation": "LOCATED_IN",
+     "target": "తూర్పుగోదావరి జిల్లా",
+     "evidence": "తూర్పుగోదావరి జిల్లాకు చెందిన 11 మంది డీఎస్సీ అభ్యర్థులు వేసిన కోర్టు ధిక్కరణ పిటిషన్‌"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ef5ca696255e4593f4bbc8d4efacd8c302b4c8f7": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "కోర్టు ధిక్కరణ పిటిషన్లు",
+     "type": "Claim",
+     "english_name": "Contempt of Court Petitions"
+    },
+    {
+     "name": "మెగా డిఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "ఉపాధ్యాయ ఉద్యోగాలు",
+     "type": "Claim",
+     "english_name": "Teacher Jobs"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "కోర్టు ఆదేశాలు",
+     "type": "Claim",
+     "english_name": "Court Orders"
+    },
+    {
+     "name": "కోర్టు ధిక్కరణ కేసులు",
+     "type": "Claim",
+     "english_name": "Contempt Cases"
+    },
+    {
+     "name": "కోర్టు ఆదేశాల మేరకు పోస్టులు",
+     "type": "Claim",
+     "english_name": "Posts as per Court Orders"
+    },
+    {
+     "name": "గత వైఎస్‌ జగన్‌ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Former YSRJagan Government"
+    },
+    {
+     "name": "16,347 ఉపాధ్యాయ పోస్టులు",
+     "type": "Claim",
+     "english_name": "16,347 Teacher Posts"
+    },
+    {
+     "name": "3,36,307 మంది అభ్యర్థులు",
+     "type": "Claim",
+     "english_name": "336,307 Candidates"
+    },
+    {
+     "name": "5,77,694 దరఖాస్తులు",
+     "type": "Claim",
+     "english_name": "577,694 Applications"
+    },
+    {
+     "name": "2,41,387 దరఖాస్తులు",
+     "type": "Claim",
+     "english_name": "241,387 Applications"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "900feb86fd90a315d79b56ba24a3666f28ae5d72": {
+   "entities": [
+    {
+     "name": "గుంటూరుకు చెందిన జి.రాజేశ్‌ దినకర్‌ (1335/26)",
+     "type": "Person",
+     "english_name": "G. Rajesh Dinakar (1335/26)"
+    },
+    {
+     "name": "సాక్షి, అమరావతి",
+     "type": "Organization",
+     "english_name": "Sakshi, Amaravati"
+    },
+    {
+     "name": "టీడీపీ కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Alliance Government"
+    },
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "డీమెరిట్‌ డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Demerit DSC"
+    },
+    {
+     "name": "గుంటూరు వైద్యుల కమిటీ",
+     "type": "Organization",
+     "english_name": "Guntur Doctors Committee"
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ–2025",
+     "evidence": "టీడీపీ కూటమి ప్రభుత్వం ఏర్పడ్డాక ఇచ్చిన మొదటి నోటిఫికేషన్‌ మెగా డీఎస్సీ–2025"
+    },
+    {
+     "source": "టీడీపీ కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీమెరిట్‌ డీఎస్సీ",
+     "evidence": "డీఎస్సీ–2025 డీమెరిట్‌ డీఎస్సీగా మారిపోయిందా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ed699ed16300299d6d755e71e115a0ef7ac95f03": {
+   "entities": [
+    {
+     "name": "candidates",
+     "type": "Person",
+     "english_name": "candidates"
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "Mega DSC",
+     "type": "Organization",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "district",
+     "type": "Place",
+     "english_name": "district"
+    },
+    {
+     "name": "regional",
+     "type": "Place",
+     "english_name": "regional"
+    },
+    {
+     "name": "state",
+     "type": "Place",
+     "english_name": "state"
+    },
+    {
+     "name": "RJDE",
+     "type": "Organization",
+     "english_name": "RJDE"
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "School Education Department",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "tehsildar",
+     "type": "Person",
+     "english_name": "tehsildar"
+    },
+    {
+     "name": "OBC-EWS quota",
+     "type": "Scheme",
+     "english_name": "OBC-EWS quota"
+    },
+    {
+     "name": "SA Biology post",
+     "type": "Scheme",
+     "english_name": "SA Biology post"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Mega DSC",
+     "relation": "LOCATED_IN",
+     "target": "state",
+     "evidence": "రాష్ట్ర స్థాయిలో పూర్తిచేసి"
+    },
+    {
+     "source": "tehsildar",
+     "relation": "ACCUSES",
+     "target": "candidates",
+     "evidence": "ఆరోపణలు ఎదుర్కొంటున్న అభ్యర్థి సర్టిఫికెట్లు తప్పుడువని"
+    },
+    {
+     "source": "OBC-EWS quota",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "DSC scam",
+     "evidence": ""
+    },
+    {
+     "source": "SA Biology post",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "DSC scam",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0a0c5a30688403c4528af64fbe3c45bdb80ef551": {
+   "entities": [
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "16,347 ఉపాధ్యాయు పోస్టులు",
+     "type": "Scheme",
+     "english_name": "16,347 teacher posts"
+    },
+    {
+     "name": "148 రోజులు",
+     "type": "Claim",
+     "english_name": "148 days"
+    },
+    {
+     "name": "15,941 పోస్టులు",
+     "type": "Claim",
+     "english_name": "15,941 posts"
+    },
+    {
+     "name": "406 పోస్టులు",
+     "type": "Claim",
+     "english_name": "406 posts"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "సూపర్‌న్యూమరీ పోస్టులు",
+     "type": "Scheme",
+     "english_name": "Supernumerary posts"
+    },
+    {
+     "name": "మెగా డీఎస్సీ 2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC 2025"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి నారా లోకేశ్‌",
+     "type": "Person",
+     "english_name": "Education Minister Nara Lokesh"
+    },
+    {
+     "name": "టీచర్‌ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "Teacher candidates"
+    },
+    {
+     "name": "నిరుద్యోగులు",
+     "type": "Person",
+     "english_name": "Unemployed"
+    },
+    {
+     "name": "సీబీఐ విచారణ",
+     "type": "Issue",
+     "english_name": "CBI investigation"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మెగా డీఎస్సీ 2025",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సీబీఐ విచారణ",
+     "evidence": "డీఎస్సీలో అవకతవకలపై సీబీఐ విచారణకు ఆదేశించాలని ఆందోళనలు"
+    },
+    {
+     "source": "విద్యాశాఖ మంత్రి నారా లోకేశ్‌",
+     "relation": "ACCUSES",
+     "target": "టీచర్‌ అభ్యర్థులు",
+     "evidence": "విద్యాశాఖ మంత్రి నారా లోకేశ్‌ వెంటనే రాజీనామా చేయాలని డిమాండ్‌"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d21c0796544aa0b62a652681deb52621ba2eaded": {
+   "entities": [
+    {
+     "name": "శాప్‌ గుర్తింపు లేని సంఘాలు",
+     "type": "Organization",
+     "english_name": "Unrecognized Sap organizations"
+    },
+    {
+     "name": "శాప్‌ గుర్తింపు ఉన్న సంఘాలు",
+     "type": "Organization",
+     "english_name": "Recognized Sap organizations"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "గోల్ఫ్‌",
+     "type": "Organization",
+     "english_name": "Golf"
+    },
+    {
+     "name": "సెపక్‌తక్రా",
+     "type": "Organization",
+     "english_name": "Sepak Takraw"
+    },
+    {
+     "name": "నెట్‌బాల్",
+     "type": "Organization",
+     "english_name": "Netball"
+    },
+    {
+     "name": "క్యారమ్స్",
+     "type": "Organization",
+     "english_name": "Carroms"
+    },
+    {
+     "name": "ఆత్యా పాత్యా",
+     "type": "Organization",
+     "english_name": "Atya Patya"
+    },
+    {
+     "name": "బాడీ బిల్డింగ్",
+     "type": "Organization",
+     "english_name": "Body Building"
+    },
+    {
+     "name": "కరాటే",
+     "type": "Organization",
+     "english_name": "Karate"
+    },
+    {
+     "name": "టెన్నిస్‌బాల్‌ క్రికెట్",
+     "type": "Organization",
+     "english_name": "Tennisball Cricket"
+    },
+    {
+     "name": "సాఫ్ట్‌ టెన్నిస్",
+     "type": "Organization",
+     "english_name": "Soft Tennis"
+    },
+    {
+     "name": "యోగాసన క్రీడలు",
+     "type": "Organization",
+     "english_name": "Yogasana sports"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "అపాయింట్‌మెంట్‌ ఆర్డర్లు",
+     "type": "Claim",
+     "english_name": "Appointment orders"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "కొత్త టీచర్లు",
+     "type": "Organization",
+     "english_name": "New teachers"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "మెగా అవినీతి డీల్",
+     "type": "Claim",
+     "english_name": "Mega corruption deal"
+    },
+    {
+     "name": "టెట్‌ పరీక్షలు",
+     "type": "Scheme",
+     "english_name": "TET exams"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీఎస్సీ",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "అమరావతిలో"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ",
+     "evidence": "చంద్రబాబు సర్కారు.. మెగా డీఎస్సీని మార్చేసింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e80e167d9b3e962c7eab049be8125d211ad41d17": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "మెరిట్‌ లిస్ట్‌",
+     "type": "Claim",
+     "english_name": "Merit List"
+    },
+    {
+     "name": "సెలక్షన్‌ లిస్ట్‌",
+     "type": "Claim",
+     "english_name": "Selection List"
+    },
+    {
+     "name": "కాల్‌ లెటర్లు",
+     "type": "Claim",
+     "english_name": "Call Letters"
+    },
+    {
+     "name": "రాష్ట్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "State Office"
+    },
+    {
+     "name": "జిల్లా అధికారులు",
+     "type": "Organization",
+     "english_name": "District Officials"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Education Minister"
+    }
+   ],
+   "relations": [
+    {
+     "source": "విద్యాశాఖ మంత్రి",
+     "relation": "ACCUSES",
+     "target": "రాష్ట్ర కార్యాలయం",
+     "evidence": "గోడు పట్టించుకోని విద్యాశాఖ మంత్రి కార్యాలయం.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3db86b15fc5d6963d307bc9ee6e84d50655412f7": {
+   "entities": [
+    {
+     "name": "మెరిట్‌ లిస్ట్",
+     "type": "Claim",
+     "english_name": "Merit List"
+    },
+    {
+     "name": "సెలక్షన్‌ లిస్ట్‌",
+     "type": "Claim",
+     "english_name": "Selection List"
+    },
+    {
+     "name": "సెలెక్టెడ్‌ అభ్యర్థులు",
+     "type": "Claim",
+     "english_name": "Selected Candidates"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "అర్హులు",
+     "type": "Claim",
+     "english_name": "Eligible Candidates"
+    },
+    {
+     "name": "రిజెక్టెడ్‌",
+     "type": "Claim",
+     "english_name": "Rejected"
+    },
+    {
+     "name": "గ్రీవెన్స్‌",
+     "type": "Claim",
+     "english_name": "Grievances"
+    },
+    {
+     "name": "మెగా డీఎస్సీ బాధితులు",
+     "type": "Claim",
+     "english_name": "Mega DSC Victims"
+    },
+    {
+     "name": "రాష్ట్రవ్యాప్తంగా",
+     "type": "Place",
+     "english_name": "Statewide"
+    },
+    {
+     "name": "టీచర్‌ అభ్యర్థులు",
+     "type": "Claim",
+     "english_name": "Teacher Candidates"
+    },
+    {
+     "name": "నిరుద్యోగులు",
+     "type": "Claim",
+     "english_name": "Unemployed"
+    },
+    {
+     "name": "డీఎస్సీలో అవకతవకలు",
+     "type": "Issue",
+     "english_name": "DSC Irregularities"
+    },
+    {
+     "name": "సీబీఐ విచారణ",
+     "type": "Claim",
+     "english_name": "CBI Investigation"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Education Minister"
+    },
+    {
+     "name": "నారా లోకేశ్‌",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "శ్రీకాకుళం జిల్లా",
+     "type": "Place",
+     "english_name": "Srikakulam District"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "మెరిట్‌ అభ్యర్థి",
+     "type": "Claim",
+     "english_name": "Merit Candidate"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "కాల్‌ లెటర్లు",
+     "type": "Claim",
+     "english_name": "Call Letters"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "జిల్లాకు ఓ విధానం",
+     "type": "Claim",
+     "english_name": "One Policy per District"
+    },
+    {
+     "name": "2 వేల మందికి పైగా",
+     "type": "Claim",
+     "english_name": "More than 2000"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4361975c00f95eb8e53a251dca65ae835b8318e6": {
+   "entities": [
+    {
+     "name": "Y.Sravankumar",
+     "type": "Person",
+     "english_name": "Y. Sravankumar"
+    },
+    {
+     "name": "BC–A",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "SA Physical Science",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "RJD",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "S.Prithviraj",
+     "type": "Person",
+     "english_name": "S. Prithviraj"
+    },
+    {
+     "name": "BC–B",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TGT Telugu Zone–2",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Guntur",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Educational Bhavan",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Bandaaru Yamuna",
+     "type": "Person",
+     "english_name": "Bandaaru Yamuna"
+    },
+    {
+     "name": "BC–D woman",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Physical Science",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "840ddcc4d5ac2ce619bb7ef838567839599d0de5": {
+   "entities": [
+    {
+     "name": "బండారు యమున",
+     "type": "Person",
+     "english_name": "Bandaru Yamuna"
+    },
+    {
+     "name": "విశాఖ జిల్లా",
+     "type": "Place",
+     "english_name": "Visakhapatnam district"
+    },
+    {
+     "name": "బీసీ–డీ మహిళ",
+     "type": "Party",
+     "english_name": "BC-D woman"
+    },
+    {
+     "name": "స్పోర్ట్సు కోటా",
+     "type": "Scheme",
+     "english_name": "Sports quota"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "షేక్‌ నసీమూన్‌",
+     "type": "Person",
+     "english_name": "Sheik Naseemun"
+    },
+    {
+     "name": "వేంపల్లి",
+     "type": "Place",
+     "english_name": "Vempalli"
+    },
+    {
+     "name": "బీసీ–ఈ",
+     "type": "Party",
+     "english_name": "BC-E"
+    },
+    {
+     "name": "కాకినాడ",
+     "type": "Place",
+     "english_name": "Kakinada"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "పి.ప్రతిభ",
+     "type": "Person",
+     "english_name": "P. Pratibha"
+    },
+    {
+     "name": "రాజమండ్రి",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ea4f78fa1794710da719b62f22ac6e89d4f226f9": {
+   "entities": [
+    {
+     "name": "District officials",
+     "type": "Organization",
+     "english_name": "District officials"
+    },
+    {
+     "name": "state office",
+     "type": "Organization",
+     "english_name": "state office"
+    },
+    {
+     "name": "DSSC",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "education minister's office",
+     "type": "Organization",
+     "english_name": "education minister's office"
+    },
+    {
+     "name": "M. Ekambaram",
+     "type": "Person",
+     "english_name": "M. Ekambaram"
+    },
+    {
+     "name": "BC–D",
+     "type": "Party",
+     "english_name": "BC–D"
+    },
+    {
+     "name": "SA Social Studies",
+     "type": "Organization",
+     "english_name": "SA Social Studies"
+    },
+    {
+     "name": "call letter",
+     "type": "Scheme",
+     "english_name": "call letter"
+    },
+    {
+     "name": "certificates",
+     "type": "Scheme",
+     "english_name": "certificates"
+    },
+    {
+     "name": "selection list",
+     "type": "Scheme",
+     "english_name": "selection list"
+    },
+    {
+     "name": "reject list",
+     "type": "Scheme",
+     "english_name": "reject list"
+    },
+    {
+     "name": "DEO",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "T. Vijayalakshmi",
+     "type": "Person",
+     "english_name": "T. Vijayalakshmi"
+    },
+    {
+     "name": "OBC",
+     "type": "Party",
+     "english_name": "OBC"
+    },
+    {
+     "name": "School Assistant (English) SGT",
+     "type": "Organization",
+     "english_name": "School Assistant (English) SGT"
+    },
+    {
+     "name": "sports quota",
+     "type": "Scheme",
+     "english_name": "sports quota"
+    },
+    {
+     "name": "grievances",
+     "type": "Scheme",
+     "english_name": "grievances"
+    },
+    {
+     "name": "E. Srinivasulu",
+     "type": "Person",
+     "english_name": "E. Srinivasulu"
+    },
+    {
+     "name": "horizontal reservation",
+     "type": "Scheme",
+     "english_name": "horizontal reservation"
+    },
+    {
+     "name": "Y. Sravan",
+     "type": "Person",
+     "english_name": "Y. Sravan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "M. Ekambaram",
+     "relation": "MEMBER_OF",
+     "target": "BC–D",
+     "evidence": "ఎం.ఏకాంబరం (బీసీ–డి)"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cf3c39e6835a784a7deb049319eacffe47786434": {
+   "entities": [
+    {
+     "name": "దేవరకొండ వెంకట్రావు",
+     "type": "Person",
+     "english_name": "Devarakonda Venkatarao"
+    },
+    {
+     "name": "దర్శి, ప్రకాశం జిల్లా",
+     "type": "Place",
+     "english_name": "Darsi, Prakasam district"
+    },
+    {
+     "name": "సయ్యద్‌ జమీల్",
+     "type": "Person",
+     "english_name": "Syed Jameel"
+    },
+    {
+     "name": "రాయచోటి, అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Rayachoti, Annamayya district"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Education Minister"
+    },
+    {
+     "name": "సీఎం",
+     "type": "Person",
+     "english_name": "CM"
+    },
+    {
+     "name": "విద్యాశాఖ కార్యదర్శి",
+     "type": "Person",
+     "english_name": "Education Secretary"
+    },
+    {
+     "name": "కోన శశిధర్‌",
+     "type": "Person",
+     "english_name": "Kona Shashi Dhar"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "బయాలజీ సైన్స్‌ ఉర్దూ మీడియం",
+     "type": "Scheme",
+     "english_name": "Biology Science Urdu Medium"
+    },
+    {
+     "name": "ఓసీ ఈడబ్ల్యూఎస్‌",
+     "type": "Scheme",
+     "english_name": "OC EWS"
+    },
+    {
+     "name": "బీసీ–ఈ",
+     "type": "Scheme",
+     "english_name": "BC-E"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Sports DSC"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "983ea28a0decd16b98bde7c50ba15709213ea2fd": {
+   "entities": [
+    {
+     "name": "కార్యదర్శి",
+     "type": "Person",
+     "english_name": "Secretary"
+    },
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5b386c24237c402d7a910c484bbf5062d0e53571": {
+   "entities": [
+    {
+     "name": "కార్యదర్శి",
+     "type": "Person",
+     "english_name": "Secretary"
+    },
+    {
+     "name": "వాస్తవం",
+     "type": "Claim",
+     "english_name": "Fact"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "స్పోర్ట్స్ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "క్రీడా పాలసీ–2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    },
+    {
+     "name": "జీఏడీ",
+     "type": "Organization",
+     "english_name": "GAD"
+    },
+    {
+     "name": "గ్రీవెన్సెస్‌",
+     "type": "Claim",
+     "english_name": "Grievances"
+    },
+    {
+     "name": "కాపీయింగ్",
+     "type": "Claim",
+     "english_name": "Copying"
+    },
+    {
+     "name": "లీకేజీ",
+     "type": "Claim",
+     "english_name": "Leakage"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కార్యదర్శి",
+     "relation": "DEFENDS",
+     "target": "స్పోర్ట్స్ కోటా",
+     "evidence": "స్పోర్ట్సు కోటా వారిచ్చిందే చేశాం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9d7f9d79c352c13ce671a9b202aba50ad095fabe": {
+   "entities": [
+    {
+     "name": "తామిచ్చిన మధ్యంతర ఉత్తర్వులను",
+     "type": "Claim",
+     "english_name": "the interim orders they gave"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "the government"
+    },
+    {
+     "name": "బాధితులు",
+     "type": "Person",
+     "english_name": "the victims"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "విజయరామరాజు",
+     "type": "Person",
+     "english_name": "Vijayaramaraju"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur district"
+    },
+    {
+     "name": "గొల్ల రెడ్డమ్మ",
+     "type": "Person",
+     "english_name": "Gollareddamma"
+    },
+    {
+     "name": "బి.సరస్వతి",
+     "type": "Person",
+     "english_name": "B. Saraswathi"
+    },
+    {
+     "name": "వైఎస్సార్‌ కడప జిల్లా",
+     "type": "Place",
+     "english_name": "YSR Kadapa district"
+    },
+    {
+     "name": "శ్రీకాంత్‌ రాయల్‌",
+     "type": "Person",
+     "english_name": "Srikant Royal"
+    },
+    {
+     "name": "రవీంద్రకుమార్‌",
+     "type": "Person",
+     "english_name": "Ravindra Kumar"
+    },
+    {
+     "name": "ఎం.మోహన్‌",
+     "type": "Person",
+     "english_name": "M. Mohan"
+    },
+    {
+     "name": "అల్లూరి సీతారామరాజు జిల్లా",
+     "type": "Place",
+     "english_name": "Alluri Sitharama Raju district"
+    },
+    {
+     "name": "దుర్గాప్రసాద్‌",
+     "type": "Person",
+     "english_name": "Durga Prasad"
+    },
+    {
+     "name": "తిరుపతి జిల్లా",
+     "type": "Place",
+     "english_name": "Tirupati district"
+    },
+    {
+     "name": "ఎ.శిరీష",
+     "type": "Person",
+     "english_name": "A. Shirisha"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాధితులు",
+     "relation": "ACCUSES",
+     "target": "పాఠశాల విద్యాశాఖ",
+     "evidence": "డీఎస్సీ ప్రక్రియ ముగిసిపోయిందని, కొత్తగా ఎవరికీ ఉద్యోగాలు ఇచ్చేది లేదని అభ్యర్థులపై పాఠశాల విద్యాశాఖ బెదరింపు ధోరణి ప్రదర్శించినట్టు బాధితులు వాపోయారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2bd546f15001fd640a483b42c1e00ec04a97db7e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కోన శశిధర్‌",
+     "type": "Person",
+     "english_name": "Kona Sasidhar"
+    },
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Sports DSC"
+    },
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "సోషల్‌ స్టడీస్‌ టాపర్‌",
+     "type": "Claim",
+     "english_name": "Social Studies Topper"
+    },
+    {
+     "name": "టీజీటీ",
+     "type": "Claim",
+     "english_name": "TGT"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కోన శశిధర్‌",
+     "relation": "DEFENDS",
+     "target": "మెగా డీఎస్సీ–2025",
+     "evidence": "మెగా డీఎస్సీ–2025ను అత్యంత పారదర్శకంగా నిర్వహించామని విద్యా శాఖ కార్యదర్శి కోన శశిధర్‌ చెప్పుకొచ్చారు."
+    },
+    {
+     "source": "నవీన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "సోషల్‌ స్టడీస్‌ టాపర్‌",
+     "evidence": "మెగా డీఎస్సీలో ఎస్సీఈఆర్టీ కాంట్రాక్టు అవుట్‌ సోర్సింగ్‌ ఉద్యోగి, కంప్యూటర్‌ ఆపరేటర్‌ నవీన్‌ కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గా, టీజీటీలో ఆరో ర్యాంకు సాధించారు."
+    },
+    {
+     "source": "నవీన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "టీజీటీ",
+     "evidence": "మెగా డీఎస్సీలో ఎస్సీఈఆర్టీ కాంట్రాక్టు అవుట్‌ సోర్సింగ్‌ ఉద్యోగి, కంప్యూటర్‌ ఆపరేటర్‌ నవీన్‌ కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గా, టీజీటీలో ఆరో ర్యాంకు సాధించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9bea9fccc1581e77579d24edc9e945b51be1dfdb": {
+   "entities": [
+    {
+     "name": "తూర్పు గోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "డీఎస్సీ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "DSSC candidates"
+    },
+    {
+     "name": "అధికారులు",
+     "type": "Organization",
+     "english_name": "officials"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "విద్యా శాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "కోన శశిధర్‌",
+     "type": "Person",
+     "english_name": "Kona Sasidhar"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ",
+     "type": "Organization",
+     "english_name": "SCERT"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "731535c83e2e6f8d18af0b94c817129b455f6f8a": {
+   "entities": [
+    {
+     "name": "విజయనగరానికి చెందిన మరో క్రీడాకారుడు",
+     "type": "Person",
+     "english_name": "Athlete from Vijayanagaram"
+    },
+    {
+     "name": "ఏపీ డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "AP DSC"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ పోస్టల్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Central Government Postal Department"
+    },
+    {
+     "name": "కర్నూలు జిల్లా",
+     "type": "Place",
+     "english_name": "Kurnool district"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌ రవినాయుడు",
+     "type": "Person",
+     "english_name": "Shap chairman Ravinaidu"
+    },
+    {
+     "name": "తిరుపతి డీఈవో",
+     "type": "Person",
+     "english_name": "Tirupati DEO"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Chandrababu government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవినాయుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు ప్రభుత్వం",
+     "evidence": "దగా డీఎస్సీతో చంద్రబాబు ప్రభుత్వం డీలా"
+    },
+    {
+     "source": "తిరుపతి డీఈవో",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు ప్రభుత్వం",
+     "evidence": "తిరుపతి డీఈవోపై ఒత్తిడి తెచ్చి ఉపాధ్యాయులతో సమావేశానికి స్కెచ్‌"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "df40daf19027fa9084f46149c50d9d1edd9ad39b": {
+   "entities": [
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ",
+     "type": "Organization",
+     "english_name": "SCERT"
+    },
+    {
+     "name": "గ్రీవెన్సెస్‌ రిడ్రెసెల్‌ సెల్‌",
+     "type": "Organization",
+     "english_name": "Grievances Redressal Cell"
+    },
+    {
+     "name": "విద్యా శాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "ఏలూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Eluru district"
+    },
+    {
+     "name": "ఏజెన్సీ ఏరియా",
+     "type": "Place",
+     "english_name": "Agency area"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "పోస్టల్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Postal Department"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "విద్యా శాఖ",
+     "relation": "LOCATED_IN",
+     "target": "ఏలూరు జిల్లా",
+     "evidence": "ఏలూరు జిల్లాలోని ఏజెన్సీ ఏరియాలో ఓ మహిళకు స్కూల్‌ అసిస్టెంట్‌ ఉద్యోగం వచ్చింది."
+    },
+    {
+     "source": "శాప్‌",
+     "relation": "LOCATED_IN",
+     "target": "ఏలూరు జిల్లా",
+     "evidence": "ఈ ఆధారాలతో గతేడాది ఆగస్టులోనే శాప్‌కు ఫిర్యాదులు చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fffc500f4fbc0750adb9ab274461eccd4038a303": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌ రవినాయుడు",
+     "type": "Person",
+     "english_name": "Shap Chairman Ravinaidu"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ ఎమ్మెల్సీలు",
+     "type": "Party",
+     "english_name": "TDP MLCs"
+    },
+    {
+     "name": "డీఈవో",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "లక్ష్మీనారాయణ కళ్యాణ మండపం",
+     "type": "Place",
+     "english_name": "Lakshminarayana Kalyana Mandapam"
+    },
+    {
+     "name": "బాలాజీ కాలనీ",
+     "type": "Place",
+     "english_name": "Balaji Colony"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "ఉపాధ్యాయులు",
+     "type": "Person",
+     "english_name": "Teachers"
+    },
+    {
+     "name": "కంచర్ల శ్రీకాంత్",
+     "type": "Person",
+     "english_name": "Kancharla Srikanth"
+    },
+    {
+     "name": "రాంభూపాల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Ramabhopal Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవినాయుడు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్‌సీపీ",
+     "evidence": "వైఎస్సార్‌సీపీకి వ్యతిరేకంగా మాట్లాడాలని శాప్‌ చైర్మన్, ఇద్దరు టీడీపీ ఎమ్మెల్సీల ఉపన్యాసాలు"
+    },
+    {
+     "source": "డీఈవో",
+     "relation": "LOCATED_IN",
+     "target": "తిరుపతి",
+     "evidence": "తిరుపతి వేదికగా బాలాజీ కాలనీలోని లక్ష్మీనారాయణ కళ్యాణ మండపంలో ‘నిరుద్యోగులపై గొడ్డలి వేటు’ అంటూ సమావేశం నిర్వహించేందుకు ప్రణాళిక రచించింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "93144a665dfe41d5df93fae2cf3c356ff8afed78": {
+   "entities": [
+    {
+     "name": "టీడీపీ కూటమి",
+     "type": "Party",
+     "english_name": "TDP Alliance"
+    },
+    {
+     "name": "ఉపాధ్యాయులు",
+     "type": "Person",
+     "english_name": "Teachers"
+    },
+    {
+     "name": "డీఈవో",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "type": "Person",
+     "english_name": "Shap Chairman Ravi Naidu"
+    },
+    {
+     "name": "డీఎస్సీ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "DSSC Candidates"
+    },
+    {
+     "name": "డీఎస్సీ కుంభకోణం",
+     "type": "Issue",
+     "english_name": "DSSC Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "relation": "ACCUSES",
+     "target": "డీఈవో",
+     "evidence": "డీఎస్సీ కుంభకోణాన్ని అంతా తానై నడిపించారని ఆరోపణలు ఎదుర్కొంటున్న శాప్‌ చైర్మన్‌ రవి నాయుడు రంగంలోకి దిగారు. తిరుపతి డీఈవోపై ఒత్తిడి తెచ్చారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "59901341f26464e5085a4a955da012217e247c39": {
+   "entities": [
+    {
+     "name": "జిల్లా విద్యా శాఖ అధికారి",
+     "type": "Person",
+     "english_name": "District Education Officer"
+    },
+    {
+     "name": "అక్బర్",
+     "type": "Person",
+     "english_name": "Akbar"
+    },
+    {
+     "name": "ఎస్‌ఎఫ్‌ఐ జిల్లా కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "SFI District Secretary"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "డీఈఓ",
+     "type": "Person",
+     "english_name": "DEO"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డాక్టర్‌ ఓబుల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Dr. Obul Reddy"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ విద్యార్థి విభాగం రాష్ట్ర ఉపాధ్యక్షుడు",
+     "type": "Organization",
+     "english_name": "YSRCP Student Wing State Vice President"
+    },
+    {
+     "name": "డీఈవో",
+     "type": "Person",
+     "english_name": "DEO"
+    },
+    {
+     "name": "పదో తరగతి సప్లిమెంటరీ పరీక్షలు",
+     "type": "Issue",
+     "english_name": "Class 10 Supplementary Exams"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డీఈఓ",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్‌సీపీ",
+     "evidence": "వైఎస్సార్‌సీపీ చేపట్టిన నిరసనలకు భయపడి ఉపాధ్యాయులను ఉసిగొల్పాలనుకోవడం దారుణం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c05d39bd1c64086e2c5b6036271edb996c4a86b0": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వ పెద్దలు",
+     "type": "Person",
+     "english_name": "Government leaders"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "type": "Person",
+     "english_name": "Shap chairman Ravi Naidu"
+    },
+    {
+     "name": "తిరుపతి డీఈవో",
+     "type": "Organization",
+     "english_name": "Tirupati DEO"
+    },
+    {
+     "name": "2025 డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "2025 DSC"
+    },
+    {
+     "name": "బాలాజీ కాలనీలోని లక్ష్మీనారాయణ కళ్యాణ మండపం",
+     "type": "Place",
+     "english_name": "Lakshmi Narayana Kalyana Mandapam in Balaji Colony"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎమ్మెల్సీలు కంచర్ల శ్రీకాంత్",
+     "type": "Person",
+     "english_name": "MLC Kancharla Srikanth"
+    },
+    {
+     "name": "రాంభూపాల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Ramabhopal Reddy"
+    },
+    {
+     "name": "వందవాసి నాగరాజు",
+     "type": "Person",
+     "english_name": "Vandavasi Nagaraju"
+    },
+    {
+     "name": "సీపీఎం",
+     "type": "Party",
+     "english_name": "CPM"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ చైర్మన్‌ రవి నాయుడు",
+     "relation": "ACCUSES",
+     "target": "తిరుపతి డీఈవో",
+     "evidence": "సీన్‌ 2 : డీఎస్సీ కుంభకోణాన్ని అంతా తానై నడిపించారని ఆరోపణలు ఎదుర్కొంటున్న శాప్‌ చైర్మన్‌ రవి నాయుడు రంగంలోకి దిగారు. తిరుపతి డీఈవోపై ఒత్తిడి తెచ్చారు."
+    },
+    {
+     "source": "వందవాసి నాగరాజు",
+     "relation": "ACCUSES",
+     "target": "తిరుపతి డీఈవో",
+     "evidence": "విద్యాభివృద్ధి, ఉపాధ్యాయుల సమస్యల పరిష్కారానికి కృషి చేయాల్సిన డీఈవో, అధికార పార్టీ రాజకీయ కార్యక్రమాలకు ఉపాధ్యాయులను సమీకరించే పనిలో నిమగ్నం కావడం దారుణం."
+    },
+    {
+     "source": "టీడీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "2025 డీఎస్సీ",
+     "evidence": "సీన్‌ 3 : ‘హలో.. మేము డీఈవో కార్యాలయం నుంచి మాట్లాడుతున్నాం. 2025 డీఎస్సీలో ఉపాధ్యాయులుగా ఎంపికైన వారికి శనివారం తిరుపతిలో డీఈవోతో సమావేశం ఉంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "సీన్‌ 5 : లేదంటే మీకు ఉద్యోగాలు ఇచ్చిన చంద్రబాబు ప్రభుత్వంపై మరక పడుతుంది."
+    },
+    {
+     "source": "వందవాసి నాగరాజు",
+     "relation": "MEMBER_OF",
+     "target": "సీపీఎం",
+     "evidence": "వందవాసి నాగరాజు, సీపీఎం జిల్లా కార్యదర్శి, తిరుపతి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fc8ff7aa4c4437f5dff9ff936ca1147e030ec35c": {
+   "entities": [
+    {
+     "name": "డాక్టర్‌ ఓబుల్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Dr. Obul Reddy"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ విద్యార్థి విభాగం రాష్ట్ర ఉపాధ్యక్షుడు",
+     "type": "Party",
+     "english_name": "YSRCP Student Wing State Vice President"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "డీఈఓ",
+     "type": "Organization",
+     "english_name": "DEO"
+    },
+    {
+     "name": "సుందరరాజు",
+     "type": "Person",
+     "english_name": "Sundararaju"
+    },
+    {
+     "name": "ఎన్‌ఎల్‌ఎస్‌ఏ జాతీయ అధ్యక్షుడు",
+     "type": "Organization",
+     "english_name": "NALS National President"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కేవీఎన్‌ కుమార్",
+     "type": "Person",
+     "english_name": "K.V.N. Kumar"
+    },
+    {
+     "name": "జిల్లా విద్యాశాఖాధికారి",
+     "type": "Organization",
+     "english_name": "District Education Officer"
+    },
+    {
+     "name": "జీవో",
+     "type": "Organization",
+     "english_name": "GO"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Chandrababu Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "డాక్టర్‌ ఓబుల్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "డీఈఓ",
+     "evidence": "డీఈఓ తీరు విమర్శలకు తావిస్తోంది."
+    },
+    {
+     "source": "సుందరరాజు",
+     "relation": "ACCUSES",
+     "target": "డీఈఓ",
+     "evidence": "ఎవరు చెబితే డీఈవో ఈ సమావేశం నిర్వహించారో వెల్లడించాలి."
+    },
+    {
+     "source": "చంద్రబాబు ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీఎస్సీ",
+     "evidence": "మెగా డీఎస్సీ–2025పై ఆరోపణలు చేస్తున్నారని పాఠశాల విద్యా శాఖ బుకాయిస్తోంది."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "368036c0f7e45d0c6bcee7d2b3e8fe8d41695cbb": {
+   "entities": [
+    {
+     "name": "జీవో ఎంఎస్‌ నం.77",
+     "type": "Scheme",
+     "english_name": "GO77"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "దివ్యాంగులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మాజీ సైనికోద్యోగులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మెరిటోరియస్‌ స్పోర్ట్స్‌ పర్సన్స్‌",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఓసీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సామాజిక వర్గాల (ఎస్సీ, ఎస్టీ, బీసీ, ఈడబ్లు్యఎస్‌)",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "70f00a34de568f91b1a2a36582067f006dac6490": {
+   "entities": [
+    {
+     "name": "సాక్షి, అమరావతి",
+     "type": "Organization",
+     "english_name": "Sakshi, Amaravati"
+    },
+    {
+     "name": "డీఎస్సీ నియామక ప్రక్రియ",
+     "type": "Issue",
+     "english_name": "DSC recruitment process"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Issue",
+     "english_name": "Sports quota"
+    },
+    {
+     "name": "ముఖ్య’నేత బంధువు",
+     "type": "Person",
+     "english_name": "Mukhyanetra bandhu"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "రవినాయుడు",
+     "type": "Person",
+     "english_name": "Ravinaidu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముఖ్య’నేత బంధువు",
+     "relation": "ACCUSES",
+     "target": "శాప్‌",
+     "evidence": "మాస్టర్‌ మైండ్‌ అవినీతి వ్యూహంలో భాగంగానే పోస్టుల భర్తీలో ప్రాధాన్యతలు మారిపోయినట్లు అభ్యర్థులు పేర్కొంటున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fda0c6e9aa921ab607afd313a9e7ff6085db8ad8": {
+   "entities": [
+    {
+     "name": "రావినాయుడు",
+     "type": "Person",
+     "english_name": "Ravinaidu"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Sports Quota DSC"
+    },
+    {
+     "name": "మాస్టర్‌మైండ్‌",
+     "type": "Person",
+     "english_name": "Mastermind"
+    },
+    {
+     "name": "పశ్చిమ గోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "West Godavari district"
+    },
+    {
+     "name": "ఖోఖో",
+     "type": "Scheme",
+     "english_name": "Kho Kho"
+    }
+   ],
+   "relations": [
+    {
+     "source": "రావినాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "క్రీడా కోటా డీఎస్సీ",
+     "evidence": "శాప్‌ చైర్మన్‌ రవినాయుడు ప్రకటించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c401b3599b763e0a2e04ac3968abe615d4926cb7": {
+   "entities": [
+    {
+     "name": "సర్టిఫికెట్‌ వెరిఫికేషన్‌",
+     "type": "Claim",
+     "english_name": "Certificate verification"
+    },
+    {
+     "name": "1:1 నిష్పత్తి",
+     "type": "Claim",
+     "english_name": "1:1 ratio"
+    },
+    {
+     "name": "జీవో77",
+     "type": "Organization",
+     "english_name": "GO77"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": "Horizontal reservations"
+    },
+    {
+     "name": "ఓసీ",
+     "type": "Organization",
+     "english_name": "OC"
+    },
+    {
+     "name": "సామాజిక వర్గాల (ఎస్సీ, ఎస్టీ, బీసీ, ఈడబ్లు్యఎస్‌)",
+     "type": "Organization",
+     "english_name": "Social categories (SC, ST, BC, EWS)"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Organization",
+     "english_name": "Women"
+    },
+    {
+     "name": "వికలాంగులు",
+     "type": "Organization",
+     "english_name": "Disabled"
+    },
+    {
+     "name": "మాజీ సైనికులు",
+     "type": "Organization",
+     "english_name": "Ex-servicemen"
+    },
+    {
+     "name": "క్రీడాకారులు",
+     "type": "Organization",
+     "english_name": "Athletes"
+    },
+    {
+     "name": "తాత్కాలిక ఎంపిక జాబితా",
+     "type": "Claim",
+     "english_name": "Temporary selection list"
+    },
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Organization",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "కండీషన్స్‌ అప్లై",
+     "type": "Claim",
+     "english_name": "Conditions apply"
+    },
+    {
+     "name": "అంతర్‌ జిల్లా క్రీడా సర్టిఫికెట్‌",
+     "type": "Claim",
+     "english_name": "Inter-district sports certificate"
+    },
+    {
+     "name": "టీచర్‌ పోస్టా",
+     "type": "Claim",
+     "english_name": "Teacher post"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ కోటా డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "Sports quota DSC"
+    },
+    {
+     "name": "జాతీయ, అంతర్జాతీయ స్థాయిలో రాణించిన క్రీడాకారులకు",
+     "type": "Organization",
+     "english_name": "National and international level athletes"
+    },
+    {
+     "name": "జిల్లాలకు ప్రాతినిధ్యం వహించిన వారు",
+     "type": "Organization",
+     "english_name": "District representatives"
+    },
+    {
+     "name": "పొరుగు రాష్ట్రాల్లో డిగ్రీలు చదివిన వారు",
+     "type": "Organization",
+     "english_name": "Degrees from neighboring states"
+    },
+    {
+     "name": "ఫేక్‌ క్రీడా సర్టిఫికెట్లు",
+     "type": "Claim",
+     "english_name": "Fake sports certificates"
+    },
+    {
+     "name": "డిగ్రీలు",
+     "type": "Claim",
+     "english_name": "Degrees"
+    },
+    {
+     "name": "ఉద్యోగాలు అమ్మేశారంటూ",
+     "type": "Claim",
+     "english_name": "Alleged sale of jobs"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c284322ebca18cf36146959d7d1d19494bd6b88a": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "అజయ్‌జైన్",
+     "type": "Person",
+     "english_name": "Ajay Jain"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "భరణి",
+     "type": "Person",
+     "english_name": "Bharani"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "గ్రీవెన్స్‌ సెల్‌",
+     "type": "Organization",
+     "english_name": "Grievance Cell"
+    },
+    {
+     "name": "మీడియా",
+     "type": "Organization",
+     "english_name": "Media"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b5b1b5348e5d6de7385d02cf51f88c302355f361": {
+   "entities": [
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "Sports Quota DSC"
+    },
+    {
+     "name": "టీచర్‌ ఉద్యోగాలను",
+     "type": "Claim",
+     "english_name": "teacher jobs"
+    },
+    {
+     "name": "రూ.5 లక్షలకు",
+     "type": "Claim",
+     "english_name": "Rs.5 lakhs"
+    },
+    {
+     "name": "రూ.15–20 లక్షలు",
+     "type": "Claim",
+     "english_name": "Rs.15-20 lakhs"
+    },
+    {
+     "name": "రూ.40–50 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.40-50 crores"
+    },
+    {
+     "name": "తుది మెరిట్‌ లిస్టు",
+     "type": "Claim",
+     "english_name": "final merit list"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "పోస్టల్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Postal Department"
+    },
+    {
+     "name": "మెగా డీఎస్సీ –2025",
+     "type": "Organization",
+     "english_name": "Mega DSC -2025"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bf667eeaca6bd1de0ef951ea8c47588b5c521bbd": {
+   "entities": [
+    {
+     "name": "Special CS",
+     "type": "Person",
+     "english_name": "Special CS"
+    },
+    {
+     "name": "SAP MD",
+     "type": "Person",
+     "english_name": "SAP MD"
+    },
+    {
+     "name": "government",
+     "type": "Organization",
+     "english_name": "government"
+    },
+    {
+     "name": "sports policy",
+     "type": "Scheme",
+     "english_name": "sports policy"
+    },
+    {
+     "name": "screening committee",
+     "type": "Organization",
+     "english_name": "screening committee"
+    },
+    {
+     "name": "sports associations",
+     "type": "Organization",
+     "english_name": "sports associations"
+    },
+    {
+     "name": "federations",
+     "type": "Organization",
+     "english_name": "federations"
+    },
+    {
+     "name": "certificates",
+     "type": "Claim",
+     "english_name": "certificates"
+    },
+    {
+     "name": "media",
+     "type": "Organization",
+     "english_name": "media"
+    },
+    {
+     "name": "previous government",
+     "type": "Organization",
+     "english_name": "previous government"
+    },
+    {
+     "name": "secretariat jobs",
+     "type": "Issue",
+     "english_name": "secretariat jobs"
+    },
+    {
+     "name": "DSC",
+     "type": "Issue",
+     "english_name": "DSC"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Special CS",
+     "relation": "MAKES_CLAIM",
+     "target": "certificates",
+     "evidence": "ప్రభుత్వం చెబుతున్నట్లుగా క్రీడా సంఘాలు, ఫెడరేషన్ల నుంచి క్రీడాకారుల జెన్యూనుటీ సర్టిఫికెట్లను తీసుకుంటే ఒక్కటి కూడా మీడియాకు చూపించలేదు."
+    },
+    {
+     "source": "SAP MD",
+     "relation": "MAKES_CLAIM",
+     "target": "certificates",
+     "evidence": "ప్రభుత్వం చెబుతున్నట్లుగా క్రీడా సంఘాలు, ఫెడరేషన్ల నుంచి క్రీడాకారుల జెన్యూనుటీ సర్టిఫికెట్లను తీసుకుంటే ఒక్కటి కూడా మీడియాకు చూపించలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c0bce644c202a02920979e01f8c67d4e2ee85d5b": {
+   "entities": [
+    {
+     "name": "ఫెడరేషన్",
+     "type": "Organization",
+     "english_name": "Federation"
+    },
+    {
+     "name": "ప్రభుత్వ నియామకాలు",
+     "type": "Issue",
+     "english_name": "Government appointments"
+    },
+    {
+     "name": "సచివాలయ ఉద్యోగాల భర్తీ",
+     "type": "Issue",
+     "english_name": "Secretariat job recruitment"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "క్రీడా సర్టిఫికెట్",
+     "type": "Issue",
+     "english_name": "Sports certificate"
+    },
+    {
+     "name": "స్పెషల్‌ సీఎస్‌ అజయ్‌ జైన్‌",
+     "type": "Person",
+     "english_name": "Special CS Ajay Jain"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "ప్రకాశం జిల్లా",
+     "type": "Place",
+     "english_name": "Prakasam district"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "డివిజనల్‌ బెంచ్‌",
+     "type": "Organization",
+     "english_name": "Divisional Bench"
+    },
+    {
+     "name": "ప్రత్యేక కమిటీ",
+     "type": "Organization",
+     "english_name": "Special Committee"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌",
+     "relation": "LOCATED_IN",
+     "target": "ప్రకాశం జిల్లా",
+     "evidence": "ప్రకాశం జిల్లాకు చెందిన ఓ క్రీడాకారుడు"
+    },
+    {
+     "source": "హైకోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "ప్రకాశం జిల్లా",
+     "evidence": "ప్రకాశం జిల్లాకు చెందిన ఓ క్రీడాకారుడు"
+    },
+    {
+     "source": "హైకోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "అనంతపురంలో జరిగిన సాఫ్ట్‌బాల్‌ నేషనల్‌ మీట్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "bc34ce68d5be64243972f5bd34a49d7fa16fab65": {
+   "entities": [
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "ఏపీ స్టేట్‌ అండ్‌ సబార్డినేట్‌ సర్వీసు రూల్స్‌",
+     "type": "Organization",
+     "english_name": "AP State and Subordinate Service Rules"
+    },
+    {
+     "name": "విజయానంద్‌",
+     "type": "Person",
+     "english_name": "Vijayanand"
+    },
+    {
+     "name": "సాయిప్రసాద్‌",
+     "type": "Person",
+     "english_name": "Saiprasad"
+    },
+    {
+     "name": "క్రీడా శాఖ",
+     "type": "Organization",
+     "english_name": "Sports Department"
+    },
+    {
+     "name": "అజయ్‌జైన్‌",
+     "type": "Person",
+     "english_name": "Ajay Jain"
+    },
+    {
+     "name": "క్రీడా పాలసీ 2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024-29"
+    }
+   ],
+   "relations": [
+    {
+     "source": "కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "క్రీడా పాలసీ 2024–29",
+     "evidence": "క్రీడా పాలసీ 2024–29 రూపకల్పనలో కూటమి ప్రభుత్వం ఇష్టారీతిన వ్యవహరించింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0ec5fb9d802a548ede733b43371d9be45db249aa": {
+   "entities": [
+    {
+     "name": "10–05–1993",
+     "type": "Person",
+     "english_name": "Date of Birth 10-05-1993"
+    },
+    {
+     "name": "10–11–2010",
+     "type": "Person",
+     "english_name": "Date of Passport 10-11-2010"
+    },
+    {
+     "name": "06–08–2015",
+     "type": "Person",
+     "english_name": "Fine Payment Date 06-08-2015"
+    },
+    {
+     "name": "రూ.ఐదు వేలు",
+     "type": "Person",
+     "english_name": "Fine Amount Rs.5000"
+    },
+    {
+     "name": "20–05–1992",
+     "type": "Person",
+     "english_name": "New Passport DOB 20-05-1992"
+    },
+    {
+     "name": "2012",
+     "type": "Person",
+     "english_name": "Year 2012"
+    },
+    {
+     "name": "కామన్‌వెల్త్‌ జూనియర్‌ వెయిట్‌ లిఫ్టింగ్‌ చాంపియన్‌షిప్‌",
+     "type": "Organization",
+     "english_name": "Commonwealth Junior Weightlifting Championship"
+    },
+    {
+     "name": "53 కిలోల మహిళల విభాగం",
+     "type": "Organization",
+     "english_name": "53 kg Women's Category"
+    },
+    {
+     "name": "2015",
+     "type": "Person",
+     "english_name": "Year 2015"
+    },
+    {
+     "name": "నేషనల్‌ గేమ్స్‌",
+     "type": "Organization",
+     "english_name": "National Games"
+    },
+    {
+     "name": "డీఎస్సీ నోటిఫికేషన్‌",
+     "type": "Organization",
+     "english_name": "DSC Notification"
+    },
+    {
+     "name": "పోస్టల్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Postal Department"
+    },
+    {
+     "name": "పోస్టల్‌ అసిస్టెంట్‌",
+     "type": "Organization",
+     "english_name": "Postal Assistant"
+    },
+    {
+     "name": "రిజిస్టర్‌ నం, ఎస్‌పీ3ఈ153ఏ149బీఈ5ఎఫ్‌",
+     "type": "Organization",
+     "english_name": "Register No. SP3E153A149BE5F"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1f8b7227e3ae56e2b8387df0d5c11e42763eb57c": {
+   "entities": [
+    {
+     "name": "Special CS Ajay Jain",
+     "type": "Person",
+     "english_name": "Ajay Jain"
+    },
+    {
+     "name": "Sports Policy 2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024–29"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "National Games",
+     "type": "Issue",
+     "english_name": "National Games"
+    },
+    {
+     "name": "Sports Associations",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "Sports quota posts",
+     "type": "Claim",
+     "english_name": "Sports quota posts"
+    },
+    {
+     "name": "Vijayanagaram district",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "Weightlifting sportswoman",
+     "type": "Person",
+     "english_name": "Weightlifting sportswoman"
+    },
+    {
+     "name": "Date of birth 20–5–1992",
+     "type": "Claim",
+     "english_name": "Date of birth 20–5–1992"
+    },
+    {
+     "name": "Date of birth 10–05–1993",
+     "type": "Claim",
+     "english_name": "Date of birth 10–05–1993"
+    },
+    {
+     "name": "SP",
+     "type": "Organization",
+     "english_name": "SP"
+    },
+    {
+     "name": "DSP",
+     "type": "Organization",
+     "english_name": "DSP"
+    },
+    {
+     "name": "DIG",
+     "type": "Organization",
+     "english_name": "DIG"
+    },
+    {
+     "name": "Special Branch",
+     "type": "Organization",
+     "english_name": "Special Branch"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Special CS Ajay Jain",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Sports Policy 2024–29",
+     "evidence": "క్రీడా పాలసీ 2024–29 రూపకల్పనలో కూటమి ప్రభుత్వం ఇష్టారీతిన వ్యవహరించింది."
+    },
+    {
+     "source": "Weightlifting sportswoman",
+     "relation": "ACCUSES",
+     "target": "SP",
+     "evidence": "గతంలో పోస్టల్‌ శాఖ ఆమెకు ఉద్యోగం ఇవ్వడానికి నిరాకరించింది కదా?"
+    },
+    {
+     "source": "Special CS Ajay Jain",
+     "relation": "DEFENDS",
+     "target": "Weightlifting sportswoman",
+     "evidence": "స్పెషల్‌ సీఎస్, శాప్‌ ఎండీ: విజయనగరం జిల్లా వెయిట్‌ లిఫ్టింగ్‌ క్రీడాకారిణిపై ఎటువంటి ఎఫ్‌ఐఆర్‌ నమోదు కాలేదు."
+    },
+    {
+     "source": "SP",
+     "relation": "LOCATED_IN",
+     "target": "Vijayanagaram district",
+     "evidence": "విజయనగరం జిల్లా ఎస్పీ సైతం దీన్ని ధ్రువీకరిస్తూ పత్రం ఇచ్చారు."
+    },
+    {
+     "source": "DSP",
+     "relation": "LOCATED_IN",
+     "target": "Vijayanagaram district",
+     "evidence": "విచారణ చేసిన స్పెషల్‌ బ్రాంచ్‌ అధికారులు 08–04–2016న సదరు క్రీడాకారిణి 20–05–1992, 10–05–1993 డేట్‌ ఆఫ్‌ బర్త్‌లతో చలామణి అయినట్టు ధ్రువీకరిస్తూ నివేదిక సమర్పించారు."
+    },
+    {
+     "source": "Special Branch",
+     "relation": "LOCATED_IN",
+     "target": "Vijayanagaram district",
+     "evidence": "విచారణ చేసిన స్పెషల్‌ బ్రాంచ్‌ అధికారులు 08–04–2016న సదరు క్రీడాకారిణి 20–05–1992, 10–05–1993 డేట్‌ ఆఫ్‌ బర్త్‌లతో చలామణి అయినట్టు ధ్రువీకరిస్తూ నివేదిక సమర్పించారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "66d44fe0ecffad9e511fed131e0794cbc9b7a6d3": {
+   "entities": [
+    {
+     "name": "సాక్షి, అమరావతి",
+     "type": "Organization",
+     "english_name": "Sakshi, Amaravati"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "ఉపాధ్యాయ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "Teacher candidates"
+    },
+    {
+     "name": "జీవో నం.77",
+     "type": "Scheme",
+     "english_name": "GO No.77"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "ఓపెన్‌ మెరిట్‌",
+     "type": "Scheme",
+     "english_name": "Open Merit"
+    },
+    {
+     "name": "సామాజిక వర్గాల రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": "Social Category Reservations"
+    },
+    {
+     "name": "లోకల్‌ మెరిట్‌",
+     "type": "Scheme",
+     "english_name": "Local Merit"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "675f85512c942eb28247f4b0db33857b18adca9e": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "జీవో నం.77",
+     "type": "Organization",
+     "english_name": "GO 77"
+    },
+    {
+     "name": "హారిజాంటల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservation"
+    },
+    {
+     "name": "స్పెషల్‌ రిజర్వేషన్‌",
+     "type": "Scheme",
+     "english_name": "Special Reservation"
+    },
+    {
+     "name": "డీఎస్సీలో పోస్టుల ఆధారంగా అమలు చేయాల్సిన వివిధ సామాజిక రిజర్వేషన్ల",
+     "type": "Issue",
+     "english_name": "Social Reservations in DSC"
+    },
+    {
+     "name": "1,500 మంది రిజర్వేషన్‌ అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "1500 Reservation Candidates"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2577b03d2d4e46e1d6678f23db395578a14274db": {
+   "entities": [
+    {
+     "name": "జాతీయ క్రీడలు",
+     "type": "Scheme",
+     "english_name": "National Games"
+    },
+    {
+     "name": "పోస్టల్ శాఖ",
+     "type": "Organization",
+     "english_name": "Postal Department"
+    },
+    {
+     "name": "పోస్టల్ అసిస్టెంట్",
+     "type": "Scheme",
+     "english_name": "Postal Assistant"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram District"
+    },
+    {
+     "name": "వెయిట్ లిఫ్టింగ్ క్రీడాకారిణి",
+     "type": "Person",
+     "english_name": "Weightlifting Sportswoman"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "Dsc"
+    },
+    {
+     "name": "జీవో నం.77",
+     "type": "Scheme",
+     "english_name": "G.O. No.77"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3d80d08952abd4cc8a1b0c8cccbcc34ad6956b1a": {
+   "entities": [
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ",
+     "type": "Issue",
+     "english_name": "Sports quota DSC"
+    },
+    {
+     "name": "జరుబుల రాము",
+     "type": "Person",
+     "english_name": "Jarubula Rama"
+    },
+    {
+     "name": "కృష్ణా జిల్లా తోట్లవల్లూరు",
+     "type": "Place",
+     "english_name": "Krishnapatnam Toottlavooru, Krishna district"
+    },
+    {
+     "name": "క్రీడాకారులు",
+     "type": "Person",
+     "english_name": "Sportsmen"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "హైకోర్టు",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా తోట్లవల్లూరు",
+     "evidence": "కృష్ణా జిల్లా తోట్లవల్లూరులో స్కూల్‌ అసిస్టెంట్‌ పీఈటీగా పని చేస్తున్న వ్యక్తి పేరు ముందుగా అప్‌లోడ్‌ చేసిన జాబితాలో లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d39be84ea060b40d93cc97ae0a59fa36bb24a780": {
+   "entities": [
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "డీఎస్సీ – 2025",
+     "type": "Scheme",
+     "english_name": "DSSC 2025"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "ఎస్జీటీ పోస్టులు",
+     "type": "Organization",
+     "english_name": "SGT posts"
+    },
+    {
+     "name": "బీసీ–ఏ",
+     "type": "Organization",
+     "english_name": "BC-A"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎస్జీటీ పోస్టులు",
+     "relation": "LOCATED_IN",
+     "target": "విజయనగరం జిల్లా",
+     "evidence": "విజయనగరం జిల్లాలో ఎస్జీటీ పోస్టుల భర్తీలో ఈ అక్రమాలు కొట్టొచ్చినట్టు బయటపడ్డాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ae18e51459c64c16c7d3ccd49d058fb39d394165": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "క్రీడాకారులు",
+     "type": "Person",
+     "english_name": "Athletes"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "క్రీడా కోటా డీఎస్సీ పోస్టులు",
+     "type": "Scheme",
+     "english_name": "Sports Quota DSC Posts"
+    },
+    {
+     "name": "జాబితా",
+     "type": "Claim",
+     "english_name": "List"
+    },
+    {
+     "name": "మెరిట్‌",
+     "type": "Claim",
+     "english_name": "Merit"
+    },
+    {
+     "name": "పబ్లిక్‌ డొమైన్‌",
+     "type": "Claim",
+     "english_name": "Public Domain"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "జాబితా",
+     "evidence": "క్రీడా కోటా డీఎస్సీ పోస్టుల భర్తీలో ప్రతిభకు పాతర"
+    },
+    {
+     "source": "క్రీడాకారులు",
+     "relation": "MAKES_CLAIM",
+     "target": "జాబితా",
+     "evidence": "క్రీడా కోటా డీఎస్సీ పోస్టుల భర్తీలో ప్రతిభకు పాతర"
+    },
+    {
+     "source": "క్రీడాకారులు",
+     "relation": "MAKES_CLAIM",
+     "target": "మెరిట్‌",
+     "evidence": "జాబితా మొత్తం జల్లెడ పట్టినా కనిపించని మెరిట్‌"
+    },
+    {
+     "source": "క్రీడాకారులు",
+     "relation": "MAKES_CLAIM",
+     "target": "పబ్లిక్‌ డొమైన్‌",
+     "evidence": "ముందుగా పబ్లిక్‌ డొమైన్‌లో జాబితాలు పెట్టకుండా ఇప్పుడు ఉరుకుల పరుగులపై విడుదల చేయడాన్ని వారంతా తప్పుపడుతున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "410fd4f13121fd50ed3d41fa913f1d08c2867f12": {
+   "entities": [
+    {
+     "name": "88వ ర్యాంకు",
+     "type": "Person",
+     "english_name": "Rank 88"
+    },
+    {
+     "name": "101వ ర్యాంకు",
+     "type": "Person",
+     "english_name": "Rank 101"
+    },
+    {
+     "name": "ఓపెన్‌ కేటగిరీ",
+     "type": "Organization",
+     "english_name": "Open Category"
+    },
+    {
+     "name": "బీసీ–ఏ",
+     "type": "Organization",
+     "english_name": "BC-A"
+    },
+    {
+     "name": "ఎస్జీటీ పోస్టులు",
+     "type": "Organization",
+     "english_name": "SGT Posts"
+    },
+    {
+     "name": "హారిజాంటల్‌ స్పెషల్‌ రిజర్వేషన్‌",
+     "type": "Organization",
+     "english_name": "Horizontal Special Reservation"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram District"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "రాజేశ్‌కుమార్‌ దరియా వర్సెస్‌ రాజస్థాన్‌ పబ్లిక్‌ సర్వీస్‌ కమిషన్‌",
+     "type": "Organization",
+     "english_name": "Rajesh Kumar Dariya vs Rajasthan Public Service Commission"
+    },
+    {
+     "name": "రజత్‌యాదవ్‌ వర్సెస్‌ రాజస్థాన్‌ హైకోర్టు",
+     "type": "Organization",
+     "english_name": "Rajat Yadav vs Rajasthan High Court"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Organization",
+     "english_name": "DSSC-2025"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Organization",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "శాప్‌ చైర్మన్‌",
+     "type": "Person",
+     "english_name": "SHAP Chairman"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బీసీ–ఏ",
+     "relation": "LOCATED_IN",
+     "target": "విజయనగరం జిల్లా",
+     "evidence": "ఈ జిల్లాలో ఎస్జీటీ పోస్టులు బీసీ–ఏ లోకల్‌లో 15 ప్రకటించారు."
+    },
+    {
+     "source": "శాప్‌ చైర్మన్‌",
+     "relation": "ACCUSES",
+     "target": "శాప్‌",
+     "evidence": "చెప్పిన పని చేయకపోతే సస్పెషన్‌ వేటు వేయడంతోపాటు బదిలీ చేస్తామని సాక్షాత్తూ శాప్‌ చైర్మన్‌ బెదిరింపులకు పాల్పడినట్టు ఉద్యోగులు వాపోతున్నారు."
+    },
+    {
+     "source": "శాప్‌",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి: క్రీడా కోటా డీఎస్సీ పోస్టుల భర్తీలో అక్రమాలు చోటుచేసుకోవడంతో అర్ధరాత్రి వేళ శాప్‌లో హైడ్రామా నడిచింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b26af48ac946746a76cb36ebf1d736c5973e6c43": {
+   "entities": [
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "District Selection Committee"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "CockroachParty",
+     "type": "Party",
+     "english_name": "Cockroach Party"
+    },
+    {
+     "name": "National level",
+     "type": "Organization",
+     "english_name": "National level"
+    },
+    {
+     "name": "Central Youth Services Department",
+     "type": "Organization",
+     "english_name": "Central Youth Services Department"
+    },
+    {
+     "name": "Indian Olympic Association",
+     "type": "Organization",
+     "english_name": "Indian Olympic Association"
+    },
+    {
+     "name": "Sports Policy",
+     "type": "Scheme",
+     "english_name": "Sports Policy"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c8b96006eb702f54486b1e8dc0a8ed323e26e7d0": {
+   "entities": [
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "సాఫ్ట్‌బాల్‌ నేషనల్స్‌ స్పోర్ట్స్‌ మీట్",
+     "type": "Organization",
+     "english_name": "Softball Nationals Sports Meet"
+    },
+    {
+     "name": "శాప్‌ అధికారులు",
+     "type": "Organization",
+     "english_name": "SHAP officials"
+    },
+    {
+     "name": "టీడీపీ ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "TDP MLA"
+    },
+    {
+     "name": "ఏపీ సాఫ్ట్‌బాల్‌ అసోసియేషన్‌",
+     "type": "Organization",
+     "english_name": "AP Softball Association"
+    },
+    {
+     "name": "జూడో విభాగం",
+     "type": "Organization",
+     "english_name": "Judo section"
+    },
+    {
+     "name": "ఆలిండియా ఇంటర్‌ వర్సిటీ",
+     "type": "Organization",
+     "english_name": "All India Inter University"
+    },
+    {
+     "name": "పీఈటీ",
+     "type": "Organization",
+     "english_name": "PET"
+    },
+    {
+     "name": "పీడీ",
+     "type": "Organization",
+     "english_name": "PD"
+    },
+    {
+     "name": "స్కూల్‌ అసిస్టెంట్",
+     "type": "Organization",
+     "english_name": "School Assistant"
+    },
+    {
+     "name": "ఎస్జీటీ",
+     "type": "Organization",
+     "english_name": "SGT"
+    },
+    {
+     "name": "సీనియర్‌ ఇంటర్‌ డిస్ట్రిక్ట్‌ జూడో చాంపియన్‌ షిప్‌",
+     "type": "Organization",
+     "english_name": "Senior Inter District Judo Championship"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "మెరిటోరియస్‌ స్పోర్ట్స్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "Meritorious Sports Quota"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శాప్‌ అధికారులు",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "ఇందులో శాప్‌ అధికారులు 2024 సెప్టెంబర్‌లో ముందుగా సర్టిఫికెట్‌ను ధ్రువీకరించి.. ఆ తర్వాత కాదని కోర్టుకు చెప్పలేదా?"
+    },
+    {
+     "source": "ఏపీ సాఫ్ట్‌బాల్‌ అసోసియేషన్‌",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "టీడీపీ ఎమ్మెల్యే ఏపీ సాఫ్ట్‌బాల్‌ అసోసియేషన్‌ అధ్యక్షుడిగా ఉండటమే అన్నింటికంటే పెద్ద అర్హతా?"
+    },
+    {
+     "source": "జూడో విభాగం",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "జూడో విభాగంలో 39 పోస్టులు భర్తీ చేశారు."
+    },
+    {
+     "source": "ఆలిండియా ఇంటర్‌ వర్సిటీ",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "మరో 16 మందికి ఆలిండియా ఇంటర్‌ వర్సిటీ, స్టేట్‌ మీట్‌లో కేవలం పార్టిసిపేషన్‌ సర్టిఫికెట్‌కు సైతం పోస్టులు ఇచ్చేశారు."
+    },
+    {
+     "source": "పీఈటీ",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "ఇందులో పీఈటీ, పీడీ పోస్టులు కాదు ఏకంగా స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ కింద బోధన పోస్టులు ఇచ్చేశారు."
+    },
+    {
+     "source": "పీడీ",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "ఇందులో పీఈటీ, పీడీ పోస్టులు కాదు ఏకంగా స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ కింద బోధన పోస్టులు ఇచ్చేశారు."
+    },
+    {
+     "source": "స్కూల్‌ అసిస్టెంట్",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "ఇందులో పీఈటీ, పీడీ పోస్టులు కాదు ఏకంగా స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ కింద బోధన పోస్టులు ఇచ్చేశారు."
+    },
+    {
+     "source": "ఎస్జీటీ",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "ఇందులో పీఈటీ, పీడీ పోస్టులు కాదు ఏకంగా స్కూల్‌ అసిస్టెంట్, ఎస్జీటీ కింద బోధన పోస్టులు ఇచ్చేశారు."
+    },
+    {
+     "source": "సీనియర్‌ ఇంటర్‌ డిస్ట్రిక్ట్‌ జూడో చాంపియన్‌ షిప్‌",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "సీనియర్‌ ఇంటర్‌ డిస్ట్రిక్ట్‌ జూడో చాంపియన్‌ షిప్‌లో పతకాలు గెలిచిన క్రీడాకారులకు.. తాజాగా డీఎస్సీలో ఉద్యోగాలు పొందిన క్రీడాకారులకు పొంతనే లేదు."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    },
+    {
+     "source": "అమరావతి",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "సాక్షి, అమరావతి:"
+    },
+    {
+     "source": "డీఎస్సీ",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "రాష్ట్ర వ్యాప్తంగా సంచలనం సృష్టించిన డీఎస్సీ క్రీడా కోటా పోస్టుల భర్తీ అక్రమాలను సెలక్షన్‌ లిస్టు మరింత బలపరుస్తోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b320cf2bfd64251a6ba98fc314e3866766536473": {
+   "entities": [
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "పశ్చిమగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "West Godavari district"
+    },
+    {
+     "name": "తూర్పుగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "East Godavari district"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "డీఎస్సీ ఉద్యోగాల నియామకంలో టీడీపీది ఒక బ్రాండ్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9afbeee8761798b29ca5b37cbbe97293c6001bb9": {
+   "entities": [
+    {
+     "name": "ఆలిండియా ఇంటర్‌ వర్సిటీ పార్టిసిపేషన్‌ సర్టిఫికెట్",
+     "type": "Scheme",
+     "english_name": "All India Inter University Participation Certificate"
+    },
+    {
+     "name": "బాల్‌ బ్యాడ్మింటన్",
+     "type": "Scheme",
+     "english_name": "Ball Badminton"
+    },
+    {
+     "name": "ఖోఖో",
+     "type": "Scheme",
+     "english_name": "Kho Kho"
+    },
+    {
+     "name": "హ్యాండ్‌బాల్‌",
+     "type": "Scheme",
+     "english_name": "Handball"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "హైదరాబాద్‌ వర్సిటీ",
+     "type": "Organization",
+     "english_name": "Hyderabad University"
+    },
+    {
+     "name": "కోయంబత్తూరు",
+     "type": "Place",
+     "english_name": "Coimbatore"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor District"
+    },
+    {
+     "name": "ఉత్తరప్రదేశ్‌",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అనంతపురం",
+     "relation": "LOCATED_IN",
+     "target": "అనంతపురం",
+     "evidence": "అనంతపురంలో వాలీబాల్‌/బీచ్‌ వాలీబాల్‌లో ఓ క్రీడాకారుడికి ఎస్‌ఏ హిందీ పోస్టు వచ్చింది."
+    },
+    {
+     "source": "కోయంబత్తూరు",
+     "relation": "LOCATED_IN",
+     "target": "కోయంబత్తూరు",
+     "evidence": "ఆ తర్వాత అదే ఏడాది కోయంబత్తూరులో సౌత్‌ జోన్‌ వర్సిటీ టోర్నీలో పార్టిసిపేట్‌ చేసిన సర్టిఫికెట్‌తో డీఎస్సీ ఉద్యోగం దక్కింది."
+    },
+    {
+     "source": "చిత్తూరు జిల్లా",
+     "relation": "LOCATED_IN",
+     "target": "చిత్తూరు జిల్లా",
+     "evidence": "చిత్తూరు జిల్లాలో హ్యాండ్‌ బాల్‌ కోటాలో ఓ మహిళకు ఎస్‌ఏృజీవశాస్త్రం ఉపాధ్యాయురాలిగా ఉద్యోగం వచ్చింది."
+    },
+    {
+     "source": "ఉత్తరప్రదేశ్‌",
+     "relation": "LOCATED_IN",
+     "target": "ఉత్తరప్రదేశ్‌",
+     "evidence": "ఆ తర్వాత ఉత్తరప్రదేశ్‌లో నిర్వహించిన 49వ సీనియర్‌ ఉమెన్‌ నేషనల్‌ హ్యాండ్‌బాల్‌ చాంపియన్‌ షిప్‌ (2021 మార్చి17-21)లో పార్టిసిపేట్‌ చేసిన సర్టిఫికెట్‌తో ఉద్యోగం పొందింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a6ad4a279c2a66b9dca64752f7a6cf779e013808": {
+   "entities": [
+    {
+     "name": "సాఫ్ట్‌బాల్‌ విభాగం",
+     "type": "Organization",
+     "english_name": "Softball Section"
+    },
+    {
+     "name": "38 పోస్టులు",
+     "type": "Claim",
+     "english_name": "38 posts"
+    },
+    {
+     "name": "పార్టిసిపేషన్‌ సర్టిఫికెట్లు",
+     "type": "Scheme",
+     "english_name": "Participation certificates"
+    },
+    {
+     "name": "నేషనల్‌ గేమ్స్‌ సర్టిఫికెట్",
+     "type": "Scheme",
+     "english_name": "National Games certificate"
+    },
+    {
+     "name": "సౌత్‌ జోన్‌ చాంపియన్‌ షిప్",
+     "type": "Scheme",
+     "english_name": "South Zone Championship"
+    },
+    {
+     "name": "సీనియర్‌ నేషనల్స్",
+     "type": "Scheme",
+     "english_name": "Senior Nationals"
+    },
+    {
+     "name": "ఇంటర్‌ డిస్ట్రిక్ట్‌",
+     "type": "Scheme",
+     "english_name": "Inter District"
+    },
+    {
+     "name": "ఆరింటికి ఏపీలోని వర్సిటీలు జెన్యూనిటీ ఇచ్చాయి",
+     "type": "Claim",
+     "english_name": "Six certificates verified by AP universities"
+    },
+    {
+     "name": "సాఫ్ట్‌బాల్‌ అసోసియేషన్‌ ఆఫ్‌ ఇండియా (ఎస్‌ఏఐ)",
+     "type": "Organization",
+     "english_name": "Softball Association of India (SAI)"
+    },
+    {
+     "name": "ఏపీ సాఫ్ట్‌బాల్‌ అసోసియేషన్‌",
+     "type": "Organization",
+     "english_name": "AP Softball Association"
+    },
+    {
+     "name": "కేంద్ర యువజన సర్వీసుల శాఖ (మయాస్‌)",
+     "type": "Organization",
+     "english_name": "Ministry of Youth Affairs (MYAS)"
+    },
+    {
+     "name": "ఇండియన్‌ ఒలింపిక్‌ అసోసియేషన్‌ (ఐఓఏ)",
+     "type": "Organization",
+     "english_name": "Indian Olympic Association (IOA)"
+    },
+    {
+     "name": "ఐఓఏ లీగల్‌ నోటీసులు",
+     "type": "Claim",
+     "english_name": "IOA legal notices"
+    },
+    {
+     "name": "రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "క్రీడా ప్రాధికార సంస్థ",
+     "type": "Organization",
+     "english_name": "Sports Authority"
+    },
+    {
+     "name": "అనంతపురంలో 2021-22లో సాఫ్ట్‌బాల్‌ నేషనల్స్‌ స్పోర్ట్స్‌ మీట్‌లో ఆడకుండానే సర్టిఫికెట్టు తెచ్చుకుని, న్యాయస్థానంలో ఉద్యోగం పొందిన వ్యక్తి",
+     "type": "Person",
+     "english_name": "Person who obtained certificate without playing"
+    },
+    {
+     "name": "శాప్‌ అధికారులు",
+     "type": "Organization",
+     "english_name": "SHAP officials"
+    },
+    {
+     "name": "టీడీపీ ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "TDP MLA"
+    },
+    {
+     "name": "ఏపీ సాఫ్ట్‌బాల్‌ అసోసియేషన్‌ అధ్యక్షుడు",
+     "type": "Organization",
+     "english_name": "President of AP Softball Association"
+    },
+    {
+     "name": "జూడో విభాగం",
+     "type": "Organization",
+     "english_name": "Judo Section"
+    },
+    {
+     "name": "39 పోస్టులు",
+     "type": "Claim",
+     "english_name": "39 posts"
+    },
+    {
+     "name": "ఇంటర్‌ డిస్ట్రిక్ట్, స్టేట్‌ మీట్‌ సర్టిఫికెట్లు",
+     "type": "Scheme",
+     "english_name": "Inter District and State Meet certificates"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a418ebbdbec04322c5bf8e0fa81aab349156a173": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఓఎన్జీసీ చైర్మన్",
+     "type": "Person",
+     "english_name": "ONGC Chairman"
+    },
+    {
+     "name": "అరుణ్‌కుమార్ సింగ్",
+     "type": "Person",
+     "english_name": "Arun Kumar Singh"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "యోగాంధ్ర",
+     "type": "Scheme",
+     "english_name": "Yogaandhra"
+    },
+    {
+     "name": "కృష్ణానది బైపాస్ వంతెన",
+     "type": "Place",
+     "english_name": "Krishna River bypass bridge"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "sports associations"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "DEFENDS",
+     "target": "TDP",
+     "evidence": "డీఎస్సీ ద్వారా ఉద్యోగాల నియామకానికి TDP ఓ బ్రాండ్. పారదర్శకంగా చేసిన నియామకాలపై లేనిపోని దుష్ప్రచారం చేస్తున్నారు' అని పేర్కొన్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యోగాంధ్ర",
+     "evidence": "ఈ నెల 7 నుంచి 20 వరకు రాష్ట్ర వ్యాప్తంగా యోగాంధ్ర కార్యక్రమం నిర్వహణకు రూ.10 కోట్లు కేటాయించామని పేర్కొన్న చంద్రబాబు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aa71027025ffad5745573530696d70faa8db46ed": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "ఓఎన్జీసీ చైర్మన్",
+     "type": "Organization",
+     "english_name": "ONGC"
+    },
+    {
+     "name": "అరుణ్‌కుమార్ సింగ్",
+     "type": "Person",
+     "english_name": "Arun Kumar Singh"
+    },
+    {
+     "name": "మెగా డీఎస్సీ-2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "DSC"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "కృష్ణానది బైపాస్ వంతెన",
+     "type": "Place",
+     "english_name": "Krishna River bypass bridge"
+    },
+    {
+     "name": "యోగాంధ్ర",
+     "type": "Scheme",
+     "english_name": "Yogandhra"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యోగాంధ్ర",
+     "evidence": "ఈ నెల 7 నుంచి 20 వరకు రాష్ట్ర వ్యాప్తంగా యోగాంధ్ర కార్యక్రమం నిర్వహణకు రూ.10 కోట్లు కేటాయించామని పేర్కొన్న చంద్రబాబు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "మెగా డీఎస్సీ-2025ని దగా డీఎస్సీగా మార్చేసిన కూటమి ప్రభుత్వం"
+    },
+    {
+     "source": "ఓఎన్జీసీ చైర్మన్",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "రాష్ట్ర సచివాలయానికి వచ్చిన ఆయన"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "60f28e150c4b059b63214309bfd973d1a9ad319b": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ 2025 నియామకాలు",
+     "type": "Scheme",
+     "english_name": "Mega DSC 2025 recruitment"
+    },
+    {
+     "name": "బాధిత అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "affected candidates"
+    },
+    {
+     "name": "మాజీ సీఎం వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "former CM YS Jagan"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "సీఎం చంద్రబాబు",
+     "type": "Person",
+     "english_name": "CM Chandrababu"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Education Minister"
+    },
+    {
+     "name": "రాజధాని రైతులు",
+     "type": "Person",
+     "english_name": "capital farmers"
+    },
+    {
+     "name": "అగ్రిగోల్డ్",
+     "type": "Organization",
+     "english_name": "AgriGold"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాధిత అభ్యర్థులు",
+     "relation": "ACCUSES",
+     "target": "మాజీ సీఎం వైఎస్ జగన్",
+     "evidence": "నష్టపోయిన అర్హులంతా మాజీ సీఎం వైఎస్ జగన్ ను కలిసి తమకు జరిగిన అన్యాయాన్ని వివరించడం"
+    },
+    {
+     "source": "లోకేశ్",
+     "relation": "DEFENDS",
+     "target": "మెగా డీఎస్సీ 2025 నియామకాలు",
+     "evidence": "అందులో అక్ర మాలు జరగలేదని గట్టిగా చెప్పాలన్నారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3f30fd1bc1be2d92fc27bf24c30724bbbf1374d2": {
+   "entities": [
+    {
+     "name": "రాజధానికి భూములివ్వని కొందరు రైతులు",
+     "type": "Person",
+     "english_name": "Farmers who did not give land for capital"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అగ్రిగోల్డ్",
+     "type": "Organization",
+     "english_name": "AgriGold"
+    },
+    {
+     "name": "పవన్ కళ్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "ఉప ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": "Deputy Chief Minister"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "స్పోర్ట్స్‌ అథారిటీ ఆఫ్‌ ఆంధ్రప్రదేశ్‌ (శాప్‌)",
+     "type": "Organization",
+     "english_name": "Sports Authority of Andhra Pradesh (SAAP)"
+    },
+    {
+     "name": "అనిమి రవికుమార్‌ (రవినాయుడు)",
+     "type": "Person",
+     "english_name": "Animi Ravi Kumar (Ravinayudu)"
+    },
+    {
+     "name": "శ్రీ వేంకటేశ్వర విశ్వవిద్యాలయం",
+     "type": "Organization",
+     "english_name": "Sri Venkateswara University"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పవన్ కళ్యాణ్",
+     "relation": "ACCUSES",
+     "target": "జనసేన",
+     "evidence": "అయితే దీనిపై సోషల్ మీడియాలో విమర్శలు వెల్లువెత్తుతున్నాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9ba9cf2bea16f11e4c3f0d20fc9206bff8b56821": {
+   "entities": [
+    {
+     "name": "Ravinaidu",
+     "type": "Person",
+     "english_name": "Ravinaidu"
+    },
+    {
+     "name": "Student union leaders",
+     "type": "Person",
+     "english_name": "Student union leaders"
+    },
+    {
+     "name": "Inviiligator",
+     "type": "Person",
+     "english_name": "Inviiligator"
+    },
+    {
+     "name": "Shap chairman",
+     "type": "Person",
+     "english_name": "Shap chairman"
+    },
+    {
+     "name": "Former CM YS Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "Former CM YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "S.S. Rawat",
+     "type": "Person",
+     "english_name": "S.S. Rawat"
+    },
+    {
+     "name": "Konashishar",
+     "type": "Person",
+     "english_name": "Konashishar"
+    },
+    {
+     "name": "Tamim Ansari",
+     "type": "Person",
+     "english_name": "Tamim Ansari"
+    },
+    {
+     "name": "Shap MD Bharani",
+     "type": "Person",
+     "english_name": "Shap MD Bharani"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "Sports quota",
+     "type": "Scheme",
+     "english_name": "Sports quota"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "GO No.77",
+     "type": "Scheme",
+     "english_name": "GO No.77"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Student union leaders",
+     "relation": "ACCUSES",
+     "target": "Ravinaidu",
+     "evidence": "విద్యార్థి సంఘాల నాయకులు ఆరోపించినట్టు ఈనాడు సహా అప్పటి మీడియా కథనాలు పేర్కొన్నాయి."
+    },
+    {
+     "source": "Ravinaidu",
+     "relation": "ACCUSES",
+     "target": "Inviiligator",
+     "evidence": "పరీక్ష చివరి దశలో విద్యార్థి సంఘాల నాయకులు పరీక్షా హాల్‌లోకి వెళ్లి ఇన్విజిలేటర్‌కు ఫిర్యాదు చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f90f968dc1d34dc8071bd86128c8febbce9e8710": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సాధారణ పరిపాలన శాఖ(సర్వీసెస్‌) ప్రత్యేక ప్రధాన కార్యదర్శి ఎస్‌ఎస్‌ రావత్",
+     "type": "Person",
+     "english_name": "SS Rawat"
+    },
+    {
+     "name": "విద్యాశాఖ కార్యదర్శి కోన శశిధర్",
+     "type": "Person",
+     "english_name": "Kona Sasidhar"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ డైరెక్టర్‌ తమీమ్‌ అన్సారియా",
+     "type": "Person",
+     "english_name": "Thamim Ansari"
+    },
+    {
+     "name": "శాప్‌ ఎండీ భరణి",
+     "type": "Person",
+     "english_name": "Bharani"
+    },
+    {
+     "name": "క్రీడాకారులను",
+     "type": "Person",
+     "english_name": "Sportsmen"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "8e8c1baf0ffa6698de4889a9c14c3cf2a305b79c": {
+   "entities": [
+    {
+     "name": "క్రీడా పాలసీ",
+     "type": "Scheme",
+     "english_name": "Sports Policy"
+    },
+    {
+     "name": "ఒలింపిక్‌",
+     "type": "Scheme",
+     "english_name": "Olympics"
+    },
+    {
+     "name": "ఏషియన్‌ గేమ్స్",
+     "type": "Scheme",
+     "english_name": "Asian Games"
+    },
+    {
+     "name": "వరల్డ్‌కప్‌",
+     "type": "Scheme",
+     "english_name": "World Cup"
+    },
+    {
+     "name": "కామన్‌ వెల్త్",
+     "type": "Scheme",
+     "english_name": "Commonwealth"
+    },
+    {
+     "name": "నేషనల్‌ గేమ్స్",
+     "type": "Scheme",
+     "english_name": "National Games"
+    },
+    {
+     "name": "నేషనల్‌ చాంపియన్‌షిప్",
+     "type": "Scheme",
+     "english_name": "National Championship"
+    },
+    {
+     "name": "ఖేలో ఇండియా వర్సిటీ గేమ్స్‌",
+     "type": "Scheme",
+     "english_name": "Khelo India University Games"
+    },
+    {
+     "name": "యూత్‌ గేమ్స్‌",
+     "type": "Scheme",
+     "english_name": "Youth Games"
+    },
+    {
+     "name": "ఆలిండియా ఇంటర్‌ వర్సిటీ చాంపియన్‌ షిప్",
+     "type": "Scheme",
+     "english_name": "All India Inter University Championship"
+    },
+    {
+     "name": "సౌత్‌ జోన్‌ చాంపియన్‌ షిప్",
+     "type": "Scheme",
+     "english_name": "South Zone Championship"
+    },
+    {
+     "name": "జోనల్‌ ఇంటర్‌ వర్సిటీ చాంపియన్‌షిప్",
+     "type": "Scheme",
+     "english_name": "Zonal Inter University Championship"
+    },
+    {
+     "name": "స్టేట్‌ చాంపియన్‌ షిప్‌ల",
+     "type": "Scheme",
+     "english_name": "State Championships"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ శాఖలు",
+     "type": "Organization",
+     "english_name": "Central Government Departments"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "మాస్టర్‌ మైండ్‌",
+     "type": "Person",
+     "english_name": "Master Mind"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆంధ్రప్రదేశ్",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "ఆంధ్రప్రదేశ్ నుంచి జాతీయ స్థాయిలో పతకం గెలిచిన క్రీడాకారులందరూ ఏమైపోయారు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "70afbe6d33eb1088d708897ce586ac7c9b8678e9": {
+   "entities": [
+    {
+     "name": "Fact",
+     "type": "Claim",
+     "english_name": "Fact"
+    },
+    {
+     "name": "Sadhya MD",
+     "type": "Person",
+     "english_name": "Sadhya MD"
+    },
+    {
+     "name": "National Federation",
+     "type": "Organization",
+     "english_name": "National Federation"
+    },
+    {
+     "name": "Universities",
+     "type": "Organization",
+     "english_name": "Universities"
+    },
+    {
+     "name": "State Associations",
+     "type": "Organization",
+     "english_name": "State Associations"
+    },
+    {
+     "name": "Fake certificates",
+     "type": "Claim",
+     "english_name": "Fake certificates"
+    },
+    {
+     "name": "Jobs",
+     "type": "Claim",
+     "english_name": "Jobs"
+    },
+    {
+     "name": "DSC sports quota jobs",
+     "type": "Issue",
+     "english_name": "DSC sports quota jobs"
+    },
+    {
+     "name": "Softball Federation",
+     "type": "Organization",
+     "english_name": "Softball Federation"
+    },
+    {
+     "name": "Miyas",
+     "type": "Organization",
+     "english_name": "Miyas"
+    },
+    {
+     "name": "Indian Olympic Association",
+     "type": "Organization",
+     "english_name": "Indian Olympic Association"
+    },
+    {
+     "name": "AP Soft Association",
+     "type": "Organization",
+     "english_name": "AP Soft Association"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sadhya MD",
+     "relation": "MAKES_CLAIM",
+     "target": "Fake certificates",
+     "evidence": "ఎవరైనా ఫేక్‌ సర్టిఫికెట్లు ఇస్తే, అభ్యర్థులు వాటితో ఉద్యోగాలు పొందితే కఠిన చర్యలు తీసుకుంటాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "382f6c7f155bf7100a4c6aded33af2d556f56e00": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "డీఎస్సీ స్పోర్ట్స్‌ కోటా ఉద్యోగాల అక్రమాలు",
+     "type": "Issue",
+     "english_name": "DSC Sports Quota Job Irregularities"
+    },
+    {
+     "name": "అసోసియేషన్లు",
+     "type": "Organization",
+     "english_name": "Associations"
+    },
+    {
+     "name": "ఎండీ",
+     "type": "Person",
+     "english_name": "MD"
+    },
+    {
+     "name": "సాఫ్ట్‌బాల్‌ ఫెడరేషన్‌",
+     "type": "Organization",
+     "english_name": "Softball Federation"
+    },
+    {
+     "name": "మయాస్‌",
+     "type": "Organization",
+     "english_name": "MYS"
+    },
+    {
+     "name": "ఇండియన్‌ ఒలింపిక్‌ అసోసియేషన్‌",
+     "type": "Organization",
+     "english_name": "Indian Olympic Association"
+    },
+    {
+     "name": "ఏపీలో ఉండే సాఫ్ట్‌ అసోసియేషన్‌",
+     "type": "Organization",
+     "english_name": "AP Soft Association"
+    },
+    {
+     "name": "5 శాప్‌ ఎండీ",
+     "type": "Person",
+     "english_name": "5 SAP MD"
+    },
+    {
+     "name": "ఒలింపిక్స్‌",
+     "type": "Place",
+     "english_name": "Olympics"
+    },
+    {
+     "name": "స్టేట్‌ చాంపియన్‌షిప్‌",
+     "type": "Place",
+     "english_name": "State Championship"
+    },
+    {
+     "name": "ఇంటర్‌ డిస్ట్రిక్ట్",
+     "type": "Scheme",
+     "english_name": "Inter District"
+    },
+    {
+     "name": "స్కూల్స్‌ గేమ్స్",
+     "type": "Place",
+     "english_name": "School Games"
+    },
+    {
+     "name": "డిస్ట్రిక్ట్‌ ఫెస్టివల్స్‌",
+     "type": "Place",
+     "english_name": "District Festivals"
+    },
+    {
+     "name": "పథకం",
+     "type": "Scheme",
+     "english_name": "Scheme"
+    },
+    {
+     "name": "క్రీడా పాలసీ",
+     "type": "Scheme",
+     "english_name": "Sports Policy"
+    },
+    {
+     "name": "జీవో",
+     "type": "Scheme",
+     "english_name": "GO"
+    },
+    {
+     "name": "కాలేజీ అడ్మిషన్లు",
+     "type": "Place",
+     "english_name": "College Admissions"
+    },
+    {
+     "name": "దగా డీఎస్సీ",
+     "type": "Issue",
+     "english_name": "DSC Scam"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "5 శాప్‌ ఎండీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇంటర్‌ డిస్ట్రిక్ట్",
+     "evidence": "క్రీడాకారులను ప్రోత్సహించేందుకు ఇంటర్‌ డిస్ట్రిక్ట్ ను చేర్చాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "వారిని తప్పుగా చిత్రీకరించేందుకు టీడీపీ పెయిడ్‌ వీడియోలు"
+    },
+    {
+     "source": "వైఎస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "వైఎస్‌ జగన్‌తో మాట్లాడిన డీఎస్సీ బాధితులపై మానసిక దాడులు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "58837b24e259b6f76cb93263b32a0a4c1936ca94": {
+   "entities": [
+    {
+     "name": "ఎస్.ఎస్.రావత్",
+     "type": "Person",
+     "english_name": "S.S. Rawat"
+    },
+    {
+     "name": "కోన శశిధర్",
+     "type": "Person",
+     "english_name": "Kona Sasidhar"
+    },
+    {
+     "name": "తమీమ్ అన్సారియా",
+     "type": "Person",
+     "english_name": "Tamim Ansari"
+    },
+    {
+     "name": "భరణి",
+     "type": "Person",
+     "english_name": "Bharani"
+    },
+    {
+     "name": "శాప్",
+     "type": "Organization",
+     "english_name": "SAP"
+    },
+    {
+     "name": "ప్రభుత్వ ప్రత్యేక ప్రధాన కార్యదర్శి (జీఏడీ- సర్వీ 3)",
+     "type": "Organization",
+     "english_name": "Government Special Chief Secretary (GAD- Service 3)"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "జీవో నం.77",
+     "type": "Scheme",
+     "english_name": "GO No.77"
+    },
+    {
+     "name": "హారిజాం టల్ రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": "Horizontal Reservations"
+    },
+    {
+     "name": "స్పోర్ట్స్ కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    },
+    {
+     "name": "దివ్యాంగుల కోటా",
+     "type": "Scheme",
+     "english_name": "Divyang Quota"
+    },
+    {
+     "name": "అనిగి దుర్గయ్య",
+     "type": "Person",
+     "english_name": "Anigi Durgayya"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "SA Hindi",
+     "type": "Organization",
+     "english_name": "SA Hindi"
+    },
+    {
+     "name": "నేషనల్ ఫెడరేషన్",
+     "type": "Organization",
+     "english_name": "National Federation"
+    },
+    {
+     "name": "వర్సిటీలు",
+     "type": "Organization",
+     "english_name": "Universities"
+    },
+    {
+     "name": "రాష్ట్ర అసోసియేషన్లు",
+     "type": "Organization",
+     "english_name": "State Associations"
+    },
+    {
+     "name": "ఒలింపిక్స్",
+     "type": "Organization",
+     "english_name": "Olympics"
+    },
+    {
+     "name": "స్టేట్ చాంపియన్ షిప్",
+     "type": "Organization",
+     "english_name": "State Championship"
+    },
+    {
+     "name": "ఇంటర్ డిస్ట్రిక్ట్",
+     "type": "Organization",
+     "english_name": "Inter District"
+    },
+    {
+     "name": "స్కూల్స్ గేమ్స్",
+     "type": "Organization",
+     "english_name": "Schools Games"
+    },
+    {
+     "name": "డిస్ట్రిక్ట్ ఫెస్టివల్స్",
+     "type": "Organization",
+     "english_name": "District Festivals"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c04c74e739643c6c8cf6b1b6e0907a320e8f33b3": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "మెరిట్‌ లిస్టు",
+     "type": "Claim",
+     "english_name": "Merit list"
+    },
+    {
+     "name": "1:1 నిష్పత్తి",
+     "type": "Claim",
+     "english_name": "1:1 ratio"
+    },
+    {
+     "name": "ఉపాధ్యాయ పోస్టులు",
+     "type": "Claim",
+     "english_name": "Teacher posts"
+    },
+    {
+     "name": "1,500 మంది అభ్యర్థులు",
+     "type": "Claim",
+     "english_name": "1,500 candidates"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ పెయిడ్‌ ఫ్యాక్టరీ ఆర్టిస్టులు చెలరేగి ‘ఫేక్‌’ ప్రచారానికి దిగారు"
+    },
+    {
+     "source": "వైఎస్ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "నష్టపోయిన అభ్యర్థులదే తప్పు అన్న చందంగా ప్రభుత్వం వ్యవహరించడంతో పాటు 1:1 నిష్పత్తికి కొత్త అర్థం చెప్పింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1130d1666d9dab3f9558130b7362b9e0a9ebb1cf": {
+   "entities": [
+    {
+     "name": "అంకాని నాగవేణి",
+     "type": "Person",
+     "english_name": "Ankanti Nagaveni"
+    },
+    {
+     "name": "బీసీ–ఎ",
+     "type": "Party",
+     "english_name": "BC-A"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Issue",
+     "english_name": "DSC"
+    },
+    {
+     "name": "కోఎంప్ట్‌",
+     "type": "Organization",
+     "english_name": "COEMPT"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "29d7a7e649e52594c9085f1a96af50bc510c71b5": {
+   "entities": [
+    {
+     "name": "శాప్‌ ఎండీ భరణి",
+     "type": "Person",
+     "english_name": "SAP MD Bharani"
+    },
+    {
+     "name": "మయాస్‌",
+     "type": "Organization",
+     "english_name": "Ministry of Youth Affairs and Sports"
+    },
+    {
+     "name": "ఏపీ",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "కుడో",
+     "type": "Organization",
+     "english_name": "Kudo"
+    },
+    {
+     "name": "ఈక్వెస్టారియాన్‌",
+     "type": "Organization",
+     "english_name": "Equestria"
+    },
+    {
+     "name": "మెట్రన్‌ పెంటాథ్లాన్",
+     "type": "Organization",
+     "english_name": "Metro Pentathlon"
+    },
+    {
+     "name": "సెయిలింగ్‌",
+     "type": "Organization",
+     "english_name": "Sailing"
+    },
+    {
+     "name": "గోల్ఫ్",
+     "type": "Organization",
+     "english_name": "Golf"
+    },
+    {
+     "name": "సైలింగ్‌",
+     "type": "Organization",
+     "english_name": "Sailing"
+    },
+    {
+     "name": "అనిగి దుర్గయ్య",
+     "type": "Person",
+     "english_name": "Anigi Durgayya"
+    },
+    {
+     "name": "నేషనల్‌ గేమ్స్‌",
+     "type": "Organization",
+     "english_name": "National Games"
+    },
+    {
+     "name": "నేషనల్‌ చాంపియన్‌షిప్‌",
+     "type": "Organization",
+     "english_name": "National Championship"
+    },
+    {
+     "name": "భారత జట్టు",
+     "type": "Organization",
+     "english_name": "Indian Team"
+    },
+    {
+     "name": "సీనియర్‌ నేషనల్‌",
+     "type": "Organization",
+     "english_name": "Senior National"
+    },
+    {
+     "name": "జూనియర్‌ నేషనల్స్‌",
+     "type": "Organization",
+     "english_name": "Junior Nationals"
+    },
+    {
+     "name": "అనంతపురం",
+     "type": "Place",
+     "english_name": "Anantapur"
+    },
+    {
+     "name": "ఎస్‌ఏ హిందీ",
+     "type": "Organization",
+     "english_name": "SA Hindi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మయాస్‌",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "కేంద్ర ప్రభుత్వ యువజన వ్యవహారాలు, క్రీడల మంత్రిత్వ శాఖ (మయాస్‌)లో ఈ విభజన ఎక్కడా లేదు."
+    },
+    {
+     "source": "కుడో",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "కుడో, ఈక్వెస్టారియాన్‌(గుర్రపుస్వారీ)లను తొలగించి వాటి స్థానంలో మెట్రన్‌ పెంటాథ్లాన్, సెయిలింగ్‌ను తీసుకొచ్చి.. వాటిని ‘ఏ’ కేటగిరీలో పెట్టారు."
+    },
+    {
+     "source": "మెట్రన్‌ పెంటాథ్లాన్",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "కుడో, ఈక్వెస్టారియాన్‌(గుర్రపుస్వారీ)లను తొలగించి వాటి స్థానంలో మెట్రన్‌ పెంటాథ్లాన్, సెయిలింగ్‌ను తీసుకొచ్చి.. వాటిని ‘ఏ’ కేటగిరీలో పెట్టారు."
+    },
+    {
+     "source": "సెయిలింగ్‌",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "కుడో, ఈక్వెస్టారియాన్‌(గుర్రపుస్వారీ)లను తొలగించి వాటి స్థానంలో మెట్రన్‌ పెంటాథ్లాన్, సెయిలింగ్‌ను తీసుకొచ్చి.. వాటిని ‘ఏ’ కేటగిరీలో పెట్టారు."
+    },
+    {
+     "source": "గోల్ఫ్",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "ఏపీలో గోల్ఫ్, సైలింగ్‌ ఎంత మంది ఆడుతున్నారు? దానిని ‘ఏ’ కేటగిరీలో ఎందుకు పెట్టారు? అన్నది పాలకులకే అర్థం కావాలి."
+    },
+    {
+     "source": "సైలింగ్‌",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "ఏపీలో గోల్ఫ్, సైలింగ్‌ ఎంత మంది ఆడుతున్నారు? దానిని ‘ఏ’ కేటగిరీలో ఎందుకు పెట్టారు? అన్నది పాలకులకే అర్థం కావాలి."
+    },
+    {
+     "source": "అనంతపురం",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "అనంతపురంలో ఎస్‌ఏ హిందీ ఉద్యోగం వచ్చిన వ్యక్తి ఇంటర్‌ కాలేజియేట్‌ బ్యాకప్‌ సబ్మిట్‌ చేశారు."
+    },
+    {
+     "source": "ఎస్‌ఏ హిందీ",
+     "relation": "LOCATED_IN",
+     "target": "ఏపీ",
+     "evidence": "అనంతపురంలో ఎస్‌ఏ హిందీ ఉద్యోగం వచ్చిన వ్యక్తి ఇంటర్‌ కాలేజియేట్‌ బ్యాకప్‌ సబ్మిట్‌ చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6eaaae10cf920a3052028d4cb2b3701b72488316": {
+   "entities": [
+    {
+     "name": "అభ్యర్థులు",
+     "type": "Person",
+     "english_name": "candidates"
+    },
+    {
+     "name": "విద్యా శాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "టీడీపీ సోషల్‌ మీడియా",
+     "type": "Organization",
+     "english_name": "TDP Social Media"
+    },
+    {
+     "name": "మాజీ సీఎం వైఎస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Former CM YS Jagan"
+    },
+    {
+     "name": "ఎం.ఏకాంబరం",
+     "type": "Person",
+     "english_name": "M. Ekambaram"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "బీసీ–డి కేటగిరీ",
+     "type": "Party",
+     "english_name": "BC-D category"
+    },
+    {
+     "name": "ఎస్టీ అభ్యర్థి",
+     "type": "Person",
+     "english_name": "ST candidate"
+    },
+    {
+     "name": "మహిళ",
+     "type": "Person",
+     "english_name": "woman"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7c4510199e5972db6a2c80e544d59211d7037609": {
+   "entities": [
+    {
+     "name": "కోఎంప్ట్‌",
+     "type": "Organization",
+     "english_name": "Coempt"
+    },
+    {
+     "name": "స్టేట్‌ బోర్డ్‌ ఆఫ్‌ టెక్నికల్‌ ఎడ్యుకేషన్‌ (ఎస్‌బీటీఈటీ)",
+     "type": "Organization",
+     "english_name": "State Board of Technical Education (SBTE)"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Issue",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "మెగా",
+     "type": "Scheme",
+     "english_name": "Mega"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "61343b3b44775cfafcf0cb1ae2b4f151a3924252": {
+   "entities": [
+    {
+     "name": "రాష్ట్రంలో పాలిటెక్నిక్‌ విద్యార్థుల భవిష్యత్‌",
+     "type": "Issue",
+     "english_name": "Future of polytechnic students"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి నారా లోకేశ్‌",
+     "type": "Person",
+     "english_name": "Nara Lokesh"
+    },
+    {
+     "name": "విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "Education Department"
+    },
+    {
+     "name": "ఆన్‌ స్క్రీన్‌ మార్కింగ్‌ డిజిటల్‌ వాల్యూయేషన్‌ (ఓఎస్‌ఎం)",
+     "type": "Scheme",
+     "english_name": "Online Screen Marking Digital Valuation (OSM)"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కోఎంప్‌్ట",
+     "type": "Organization",
+     "english_name": "Coempt"
+    },
+    {
+     "name": "పైలట్‌",
+     "type": "Scheme",
+     "english_name": "Pilot"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆన్‌ స్క్రీన్‌ మార్కింగ్‌ డిజిటల్‌ వాల్యూయేషన్‌ (ఓఎస్‌ఎం)",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "రాష్ట్రంలో పాలిటెక్నిక్‌ విద్యార్థుల భవిష్యత్‌",
+     "evidence": "పాలిటెక్నిక్‌లో వార్షిక పరీక్షల నిర్వహణ, జవాబు పత్రాల మూల్యాంకనాన్ని గందరగోళంగా మార్చేసింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "54eb34456d4b1e4324ea5cf9bef6d853026ba596": {
+   "entities": [
+    {
+     "name": "కాల్‌ లెటర్‌",
+     "type": "Claim",
+     "english_name": "Call Letter"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ కాంట్రాక్టు అవుట్‌ సోర్సింగ్‌ ఉద్యోగి",
+     "type": "Person",
+     "english_name": "SCERT Contract Outsourcing Employee"
+    },
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "నిపుణులు",
+     "type": "Person",
+     "english_name": "Experts"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "57b5bc265c2dbd9761a12c9b95c9a3dd7f207660": {
+   "entities": [
+    {
+     "name": "ఆఫ్‌లైన్‌లోనే పాలిటెక్నిక్‌ మూల్యాంకనం",
+     "type": "Scheme",
+     "english_name": "Offline Polytechnic Evaluation"
+    },
+    {
+     "name": "అక్రమాల రాకెట్‌",
+     "type": "Issue",
+     "english_name": "Malpractices racket"
+    },
+    {
+     "name": "నీట్‌ ప్రశ్నపత్రాల లీక్‌",
+     "type": "Issue",
+     "english_name": "NEET question paper leak"
+    },
+    {
+     "name": "డీఎస్సీలో అవకతవకలు",
+     "type": "Issue",
+     "english_name": "DSSC irregularities"
+    },
+    {
+     "name": "కోఎంప్ట్‌",
+     "type": "Organization",
+     "english_name": "COEMPT"
+    },
+    {
+     "name": "సీబీఎస్‌ఈ",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Party",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మాన్యువల్‌ మూల్యాంకనానికే మొగ్గు",
+     "type": "Scheme",
+     "english_name": "Manual evaluation"
+    },
+    {
+     "name": "ఆన్‌లైన్‌ మూల్యాంకనం",
+     "type": "Scheme",
+     "english_name": "Online evaluation"
+    },
+    {
+     "name": "పైలట్‌ ప్రాజెక్టు",
+     "type": "Scheme",
+     "english_name": "Pilot project"
+    },
+    {
+     "name": "విద్యార్థులు",
+     "type": "Person",
+     "english_name": "Students"
+    },
+    {
+     "name": "తల్లిదండ్రులు",
+     "type": "Person",
+     "english_name": "Parents"
+    },
+    {
+     "name": "విద్యార్థి సంఘాలు",
+     "type": "Organization",
+     "english_name": "Student unions"
+    },
+    {
+     "name": "రాజకీయ పార్టీలు",
+     "type": "Party",
+     "english_name": "Political parties"
+    },
+    {
+     "name": "పరీక్షా వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Examination system"
+    },
+    {
+     "name": "సంస్కరణలు",
+     "type": "Issue",
+     "english_name": "Reforms"
+    },
+    {
+     "name": "పలు రాష్ట్రాల్లో",
+     "type": "Place",
+     "english_name": "Several states"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh government"
+    },
+    {
+     "name": "పాలిటెక్నిక్‌ సమాధానపత్రాల ఆన్‌లైన్‌ మూల్యాంకన కాంట్రాక్టు",
+     "type": "Scheme",
+     "english_name": "Online evaluation contract for polytechnic answer sheets"
+    },
+    {
+     "name": "అధ్యాపక సంఘాలు",
+     "type": "Organization",
+     "english_name": "Faculty associations"
+    },
+    {
+     "name": "విద్యావేత్తలు",
+     "type": "Person",
+     "english_name": "Educationists"
+    },
+    {
+     "name": "సాంప్రదాయ ఆఫ్‌లైన్‌ పద్ధతి",
+     "type": "Scheme",
+     "english_name": "Traditional offline method"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు సర్కారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఆన్‌లైన్‌ మూల్యాంకనం",
+     "evidence": "ఆన్‌లైన్‌ మూల్యాంకన కాంట్రాక్టును అప్పగించడం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "483e7a83c2c22ce5435b3e74f7bd95e79b5077d5": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "అధికారులు",
+     "type": "Organization",
+     "english_name": "Officials"
+    },
+    {
+     "name": "నిపుణులు",
+     "type": "Person",
+     "english_name": "Experts"
+    },
+    {
+     "name": "ఎస్సీఈఆర్టీ కాంట్రాక్టు అవుట్‌ సోర్సింగ్‌ ఉద్యోగి",
+     "type": "Person",
+     "english_name": "SCERT contract outsourcing employee"
+    },
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Alliance Government"
+    },
+    {
+     "name": "ఏపీపీఎస్సీ",
+     "type": "Organization",
+     "english_name": "APPSC"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "సోషల్‌ స్టడీస్‌",
+     "type": "Issue",
+     "english_name": "Social Studies"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఏపీపీఎస్సీ",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గా డీఎస్సీ నిర్వహణలో కీలకపాత్ర పోషించిన ఎస్సీఈఆర్టీ కాంట్రాక్టు ఉద్యోగి నవీన్‌ నిలిచాడు."
+    },
+    {
+     "source": "డీఎస్సీ",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "కృష్ణా జిల్లా సోషల్‌ స్టడీస్‌ టాపర్‌గా డీఎస్సీ నిర్వహణలో కీలకపాత్ర పోషించిన ఎస్సీఈఆర్టీ కాంట్రాక్టు ఉద్యోగి నవీన్‌ నిలిచాడు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3400f1b767d7f1558f0cce0ae8dd55dc26d68d8b": {
+   "entities": [
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "ఎం.ఏకాంబరం",
+     "type": "Person",
+     "english_name": "M. Ekambaram"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    },
+    {
+     "name": "బీసీ–డీ",
+     "type": "Party",
+     "english_name": "BC-D"
+    },
+    {
+     "name": "ఎస్టీ",
+     "type": "Party",
+     "english_name": "ST"
+    },
+    {
+     "name": "ఎం.జగదీష్‌ నాయక్‌",
+     "type": "Person",
+     "english_name": "M. Jagadeesh Naik"
+    },
+    {
+     "name": "కడప జిల్లాలు",
+     "type": "Place",
+     "english_name": "Kadapa districts"
+    },
+    {
+     "name": "మైన్స్‌ అండ్‌ జియా లజీ శాఖ",
+     "type": "Organization",
+     "english_name": "Mines and Geology Department"
+    },
+    {
+     "name": "జీఏడీ",
+     "type": "Organization",
+     "english_name": "GAD"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "15ddea850dfea858ab40e1b7ffbcf78e36c04155": {
+   "entities": [
+    {
+     "name": "నవీన్‌",
+     "type": "Person",
+     "english_name": "Naveen"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "నిరుద్యోగ జేఏసీ",
+     "type": "Organization",
+     "english_name": "Unemployed JAC"
+    },
+    {
+     "name": "ఎంబేటి రామచంద్ర",
+     "type": "Person",
+     "english_name": "Embeti Ramachandra"
+    },
+    {
+     "name": "ఎం.ఏకాంబరం",
+     "type": "Person",
+     "english_name": "M. Ekambaram"
+    },
+    {
+     "name": "డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "DSC-2025"
+    },
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "చిత్తూరు జిల్లా",
+     "type": "Place",
+     "english_name": "Chittoor district"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0dde0cc5b42040f0149b46f8b81b4b13234b89c5": {
+   "entities": [
+    {
+     "name": "సయ్యద్‌ జ మీల్‌ డీఎస్సీ ఎస్‌ ఏ బయలా జికల్‌ సైన్స్‌",
+     "type": "Person",
+     "english_name": "Syed J Meal DSC SA Biological Science"
+    },
+    {
+     "name": "ఓసీ–ఈడబ్ల్యూ ఎస్‌",
+     "type": "Organization",
+     "english_name": "OBC-EWS"
+    },
+    {
+     "name": "బీసీ–ఈ",
+     "type": "Organization",
+     "english_name": "BC-E"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ రాష్ట్ర కా ర్యా లయం",
+     "type": "Organization",
+     "english_name": "School Education Department State Council"
+    },
+    {
+     "name": "తహసీల్దార్‌",
+     "type": "Organization",
+     "english_name": "Tahsildar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

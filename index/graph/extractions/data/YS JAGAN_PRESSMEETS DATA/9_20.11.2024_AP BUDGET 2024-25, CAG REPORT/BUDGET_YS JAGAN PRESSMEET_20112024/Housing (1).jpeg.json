@@ -1,0 +1,762 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f73475ce460e20285240787e985af197ad617731": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "పేదలు",
+     "type": "Claim",
+     "english_name": "Poor"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "df39ca467bd7424e69aa81494894c98b17409781": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "జనసామాన్యం",
+     "type": "Person",
+     "english_name": "Janasaamanya"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "నవరత్నాలు-పేదలందరికీ ఇళ్లు",
+     "type": "Scheme",
+     "english_name": "Navaratnalu-Pedalandariki Illu"
+    },
+    {
+     "name": "టిడ్కో",
+     "type": "Organization",
+     "english_name": "Tidco"
+    },
+    {
+     "name": "సీఆర్డీఏ",
+     "type": "Organization",
+     "english_name": "CRDA"
+    },
+    {
+     "name": "యూఎల్బీ",
+     "type": "Organization",
+     "english_name": "ULB"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "చంద్రబాబు ప్రభుత్వం నిరుపేదలను ఇలాగే వంచించింది...ఆ వంచనకు శాస్తిగా బాబును చిత్తుగా ఓడించింది జనసామాన్యం..."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవరత్నాలు-పేదలందరికీ ఇళ్లు",
+     "evidence": "జగన్ మేం సిద్ధం యాత్ర సాక్ష్యంగా నిరూపిస్తోంది...ఆ హామీ పేరు పేదలకు ఇళ్లు...అర్హతే ప్రాతిపదికగా దేశం"
+    },
+    {
+     "source": "జగన్",
+     "relation": "DEFENDS",
+     "target": "నవరత్నాలు-పేదలందరికీ ఇళ్లు",
+     "evidence": "జగన్ మేం సిద్ధం యాత్ర సాక్ష్యంగా నిరూపిస్తోంది...ఆ హామీ పేరు పేదలకు ఇళ్లు...అర్హతే ప్రాతిపదికగా దేశం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9a0a703d6a425b877881a5da1d3f64aace5c4b10": {
+   "entities": [
+    {
+     "name": "టీడీపీ నాయకులు",
+     "type": "Party",
+     "english_name": "TDP leaders"
+    },
+    {
+     "name": "కోర్టు",
+     "type": "Organization",
+     "english_name": "Court"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "నిరుపేద కుటుంబాలు",
+     "type": "Person",
+     "english_name": "Poor families"
+    },
+    {
+     "name": "సీఎం జగన్",
+     "type": "Person",
+     "english_name": "CM Jagan"
+    },
+    {
+     "name": "రూ.2.5 లక్షల నుంచి రూ.15 లక్షల",
+     "type": "Scheme",
+     "english_name": "Rs 2.5 lakh to Rs 15 lakh"
+    },
+    {
+     "name": "రూ.6 లక్షల నుంచి రూ.20 లక్షల",
+     "type": "Scheme",
+     "english_name": "Rs 6 lakh to Rs 20 lakh"
+    },
+    {
+     "name": "రూ.2 లక్షల కోట్ల నుంచి రూ.3 లక్షల కోట్ల",
+     "type": "Scheme",
+     "english_name": "Rs 2 lakh crore to Rs 3 lakh crore"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సీఎం జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రూ.2.5 లక్షల నుంచి రూ.15 లక్షల",
+     "evidence": "మహిళల పేరిట రూ.2.5 లక్షల నుంచి రూ.15 లక్షల వరకు విలువ చేసే స్థలాలను ఉచితంగా పంపిణీ చేశారు."
+    },
+    {
+     "source": "సీఎం జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రూ.6 లక్షల నుంచి రూ.20 లక్షల",
+     "evidence": "స్థలం, ఇంటి రూపంలో ప్రతి పేదింటి అక్కబెల్లెమ్మ పేరిట ప్రాంతాన్ని బట్టి రూ.6 లక్షల నుండి రూ.20 లక్షల వరకు మార్కెట్ విలువ చేసే స్థిరాస్తి సమకూరినట్లయింది."
+    },
+    {
+     "source": "సీఎం జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రూ.2 లక్షల కోట్ల నుంచి రూ.3 లక్షల కోట్ల",
+     "evidence": "ఇలా రూ.2 లక్షల కోట్ల నుండి రూ.3 లక్షల కోట్ల వరకు సంపదను ప్రభుత్వం సృష్టించింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "599212df1409d21471d62b02702e1d6bae854cdd": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "సుప్రీం కోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "పొదిలి శివమురళి",
+     "type": "Person",
+     "english_name": "Podili Shivamurthy"
+    },
+    {
+     "name": "బల్లి ప్రభాకర్రావు",
+     "type": "Person",
+     "english_name": "Bally Prabhakar Rao"
+    },
+    {
+     "name": "జాజుల హరికృష్ణ",
+     "type": "Person",
+     "english_name": "Jajula Harikrishna"
+    },
+    {
+     "name": "యర్రజర్ల కాల్వ",
+     "type": "Place",
+     "english_name": "Yerrajerla Canal"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fdadcaecedbb38648377c1b765211913098bfa0b": {
+   "entities": [
+    {
+     "name": "అక్కబెల్లెమ్మ",
+     "type": "Person",
+     "english_name": "Akka Bellamma"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "మీసాల వనజాక్షి",
+     "type": "Person",
+     "english_name": "Meesala Vanajakshi"
+    },
+    {
+     "name": "వైఎస్సార్ జగనన్న కాలనీ",
+     "type": "Place",
+     "english_name": "YSR Jagananna Colony"
+    },
+    {
+     "name": "పార్వతీపురం మన్యం జిల్లా",
+     "type": "Place",
+     "english_name": "Parvathipuram Manyam district"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రాష్ట్ర, దేశ చరిత్ర",
+     "type": "Organization",
+     "english_name": "State and Country History"
+    },
+    {
+     "name": "సీఎం వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "CM YS Jagan Mohan Reddy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పేదల ఇళ్ల స్థలాలను శ్మశానాలతో పోల్చిన దుస్థితి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9af40ec7298196de414346889756f2616c62a9c2": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జగనన్న కాలనీ",
+     "type": "Place",
+     "english_name": "Jagananna Colony"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు తన ఆక్రమాలకు పట్టణాల్లో ఇల్లు లేని నిరుపేదల జీవి తాలను 'తాకట్టు' పెట్టారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1583e9d505464bb4c8d036efb570e8509860b8f1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "జగన్ మనో",
+     "type": "Person",
+     "english_name": "Jagan Mana"
+    },
+    {
+     "name": "సీఎం జగన్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "CM Jagan Government"
+    },
+    {
+     "name": "ఉచితం",
+     "type": "Scheme",
+     "english_name": "Free"
+    },
+    {
+     "name": "రిజిస్ట్రేషన్",
+     "type": "Scheme",
+     "english_name": "Registration"
+    },
+    {
+     "name": "సార్వత్రిక ఎన్నికలు",
+     "type": "Issue",
+     "english_name": "General Elections"
+    },
+    {
+     "name": "పక్కా ఇళ్ల నిర్మాణం",
+     "type": "Scheme",
+     "english_name": "Pakka Illu Construction"
+    },
+    {
+     "name": "నిరుపేదలు",
+     "type": "Person",
+     "english_name": "Neerupedalu"
+    },
+    {
+     "name": "వైఎస్సార్, జగనన్న కాలనీలు",
+     "type": "Place",
+     "english_name": "YSR, Jagannanna Colonies"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబు అడ్డుకునే ప్రయత్నం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్ మనో",
+     "evidence": "చంద్రబాబు అడ్డుకునే ప్రయత్నం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "59151bd470f192acce7b67287d8bffca3c5872ba": {
+   "entities": [
+    {
+     "name": "బుడితి బాలామణి",
+     "type": "Person",
+     "english_name": "Budithi Balamani"
+    },
+    {
+     "name": "దగ్గులూరు",
+     "type": "Place",
+     "english_name": "Dagguluru"
+    },
+    {
+     "name": "పశ్చిమగోదావరి జిల్లా",
+     "type": "Place",
+     "english_name": "West Godavari district"
+    },
+    {
+     "name": "సీఎం జగన్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "CM Jagan Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d3105617ba199214620f121e7b470f305e964b50": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఇంటి నిర్మాణానికి యూనిట్కు రూ.1.80 లక్షల",
+     "type": "Scheme",
+     "english_name": "House construction unit Rs 1.80 lakh"
+    },
+    {
+     "name": "పావలా వడ్డీకి రూ.35 వేల రుణ సాయం",
+     "type": "Scheme",
+     "english_name": "Rs 35,000 loan at one percent interest"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Scheme",
+     "english_name": "Sand distribution"
+    },
+    {
+     "name": "స్టీల్, సిమెంట్",
+     "type": "Scheme",
+     "english_name": "Steel and cement subsidy"
+    },
+    {
+     "name": "12 రకాల నిర్మాణ సామగ్రి",
+     "type": "Scheme",
+     "english_name": "12 types of construction materials"
+    },
+    {
+     "name": "2.70 లక్షలు",
+     "type": "Scheme",
+     "english_name": "Total benefit Rs 2.70 lakh"
+    },
+    {
+     "name": "అవినీతి",
+     "type": "Issue",
+     "english_name": "Corruption"
+    },
+    {
+     "name": "2016-17",
+     "type": "Issue",
+     "english_name": "2016-17"
+    },
+    {
+     "name": "నిర్మాణ వ్యయం",
+     "type": "Issue",
+     "english_name": "Construction cost"
+    },
+    {
+     "name": "లబ్దిదారులు",
+     "type": "Issue",
+     "english_name": "Beneficiaries"
+    },
+    {
+     "name": "చ.అ. విస్తీర్ణంలో ప్లాట్లు",
+     "type": "Issue",
+     "english_name": "Plots in sq.ft area"
+    },
+    {
+     "name": "300 చ.గ విస్తీర్ణం",
+     "type": "Issue",
+     "english_name": "300 sq.ft area"
+    },
+    {
+     "name": "రూ.260 లక్షలు",
+     "type": "Issue",
+     "english_name": "Rs 260 lakh"
+    },
+    {
+     "name": "నెలకు రూ.8 వేలు",
+     "type": "Issue",
+     "english_name": "Rs 8 thousand per month"
+    },
+    {
+     "name": "20 ఏళ్ళు",
+     "type": "Issue",
+     "english_name": "20 years"
+    },
+    {
+     "name": "రూ.72.20 లక్షలు",
+     "type": "Issue",
+     "english_name": "Rs 72.20 lakh"
+    },
+    {
+     "name": "నిర్మాణ కంపెనీల",
+     "type": "Issue",
+     "english_name": "Construction companies"
+    },
+    {
+     "name": "ముందస్తు",
+     "type": "Issue",
+     "english_name": "Advance"
+    },
+    {
+     "name": "ముడుపులు",
+     "type": "Issue",
+     "english_name": "Bribes"
+    },
+    {
+     "name": "చ.ఆరుగు",
+     "type": "Issue",
+     "english_name": "per sq.ft"
+    },
+    {
+     "name": "రూ.900",
+     "type": "Issue",
+     "english_name": "Rs 900"
+    },
+    {
+     "name": "రూ.1,000",
+     "type": "Issue",
+     "english_name": "Rs 1,000"
+    },
+    {
+     "name": "రూ.2,584.75",
+     "type": "Issue",
+     "english_name": "Rs 2,584.75"
+    },
+    {
+     "name": "రూ.2034.59",
+     "type": "Issue",
+     "english_name": "Rs 2,034.59"
+    },
+    {
+     "name": "రూ.2,203.45",
+     "type": "Issue",
+     "english_name": "Rs 2,203.45"
+    },
+    {
+     "name": "రూ.1,208.45",
+     "type": "Issue",
+     "english_name": "Rs 1,208.45"
+    },
+    {
+     "name": "5 లక్షల టిక్కెట్ల",
+     "type": "Issue",
+     "english_name": "5 lakh tickets"
+    },
+    {
+     "name": "8.15 లక్షల ఇళ్లు",
+     "type": "Issue",
+     "english_name": "8.15 lakh houses"
+    },
+    {
+     "name": "2,08,160 యూనిట్లు",
+     "type": "Issue",
+     "english_name": "2,08,160 units"
+    },
+    {
+     "name": "7,42,01,820 చ.అ. విస్తీర్ణం",
+     "type": "Issue",
+     "english_name": "7,42,01,820 sq.ft area"
+    },
+    {
+     "name": "రూ.8,929.81 కోట్లు",
+     "type": "Issue",
+     "english_name": "Rs 8,929.81 crore"
+    },
+    {
+     "name": "పేదలు",
+     "type": "Issue",
+     "english_name": "Poor"
+    },
+    {
+     "name": "300 చ.అ. ఇంటికే",
+     "type": "Issue",
+     "english_name": "300 sq.ft house"
+    },
+    {
+     "name": "రూ.7.20 లక్షలు",
+     "type": "Issue",
+     "english_name": "Rs 7.20 lakh"
+    },
+    {
+     "name": "రూ.3,805",
+     "type": "Issue",
+     "english_name": "Rs 3,805"
+    },
+    {
+     "name": "965 చ.అ. ఇంటికి",
+     "type": "Issue",
+     "english_name": "965 sq.ft house"
+    },
+    {
+     "name": "రూ.50 వేలు",
+     "type": "Issue",
+     "english_name": "Rs 50 thousand"
+    },
+    {
+     "name": "430 చ.అ. ఇంటికి",
+     "type": "Issue",
+     "english_name": "430 sq.ft house"
+    },
+    {
+     "name": "రూ.లక్ష",
+     "type": "Issue",
+     "english_name": "Rs 1 lakh"
+    },
+    {
+     "name": "ప్రభుత్వం నుండి ఇంటి స్థలాలు",
+     "type": "Issue",
+     "english_name": "House sites from government"
+    },
+    {
+     "name": "ఎస్సీలు",
+     "type": "Issue",
+     "english_name": "SCs"
+    },
+    {
+     "name": "ఎస్టీలు",
+     "type": "Issue",
+     "english_name": "STs"
+    },
+    {
+     "name": "బీసీలు",
+     "type": "Issue",
+     "english_name": "BCs"
+    },
+    {
+     "name": "ఇతరులు",
+     "type": "Issue",
+     "english_name": "Others"
+    },
+    {
+     "name": "మాగోడు విన్న నేత సీఎం కావాలి",
+     "type": "Claim",
+     "english_name": "Magoḍu viṇṇa nēta CM kāvaḷi"
+    },
+    {
+     "name": "భర్త భానుప్రసాద్",
+     "type": "Person",
+     "english_name": "Husband Bhanu Prasad"
+    },
+    {
+     "name": "నా భర్త భానుప్రసాద్",
+     "type": "Person",
+     "english_name": "My husband Bhanu Prasad"
+    },
+    {
+     "name": "నా ఇద్దరు పిల్లలతో",
+     "type": "Person",
+     "english_name": "My two children"
+    },
+    {
+     "name": "మా అత్తమ్మ",
+     "type": "Person",
+     "english_name": "My mother-in-law"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "చంద్రబాబు తన ఆక్రమాలకు పట్టణాల్లో ఇల్లు లేని నిరుపేదల జీవి తాలను 'తాకట్టు' పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మాగోడు విన్న నేత సీఎం కావాలి",
+     "evidence": "మాగోడు విన్న నేత సీఎం కావాలి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "32001eb5032a5de3242e2c02cf53315697f3751f": {
+   "entities": [
+    {
+     "name": "సీఎం జగన్",
+     "type": "Person",
+     "english_name": "CM Jagan"
+    },
+    {
+     "name": "వైఎస్సార్",
+     "type": "Organization",
+     "english_name": "YSR"
+    },
+    {
+     "name": "జగనన్న కాలనీలు",
+     "type": "Place",
+     "english_name": "Jagananna Colonies"
+    },
+    {
+     "name": "పేదలకు పక్కా ఇళ్ల నిర్మాణం",
+     "type": "Scheme",
+     "english_name": "Housing for the Poor"
+    },
+    {
+     "name": "ఇళ్ల పట్టాలు",
+     "type": "Scheme",
+     "english_name": "House Plots"
+    },
+    {
+     "name": "కరోనా",
+     "type": "Issue",
+     "english_name": "COVID-19"
+    },
+    {
+     "name": "కోర్టు కేసులు",
+     "type": "Issue",
+     "english_name": "Court Cases"
+    },
+    {
+     "name": "ఇళ్ల నిర్మాణాలు",
+     "type": "Scheme",
+     "english_name": "Housing Constructions"
+    },
+    {
+     "name": "టిడ్కో ఇళ్లు",
+     "type": "Scheme",
+     "english_name": "TIDCO Houses"
+    },
+    {
+     "name": "కాకినాడ జిల్లా",
+     "type": "Place",
+     "english_name": "Kakinada District"
+    },
+    {
+     "name": "యు.కొత్తపల్లి మండలం కొమర గిరి",
+     "type": "Place",
+     "english_name": "U. Kottapalli Mandal Komara Girip"
+    },
+    {
+     "name": "బాపట్ల జిల్లా",
+     "type": "Place",
+     "english_name": "Bapatla District"
+    },
+    {
+     "name": "వెల్లటూరు",
+     "type": "Place",
+     "english_name": "Vellaturu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "CM",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    }
+   ],
+   "relations": [
+    {
+     "source": "సీఎం జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పేదలకు పక్కా ఇళ్ల నిర్మాణం",
+     "evidence": "రాష్ట్రంలో పేదలకు పక్కా ఇళ్ల నిర్మాణం రూపంలో ఏకం గా కొత్తగా ఊళ్లకు ఉళ్లనే సీఎం జగన్ గడిచిన ఐదేళ్లలో నిర్మించ తలపెట్టారు."
+    },
+    {
+     "source": "సీఎం జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఇళ్ల పట్టాలు",
+     "evidence": "71,811 ఎకరాల్లో 31.19 లక్షల మంది నిరుపేదలకు ఉచితంగా ఇళ్ల పట్టాలు పంపిణీ చేశారు."
+    },
+    {
+     "source": "జగనన్న కాలనీలు",
+     "relation": "LOCATED_IN",
+     "target": "కాకినాడ జిల్లా",
+     "evidence": "2020 డిసెంబర్ 25న కాకినాడ జిల్లా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

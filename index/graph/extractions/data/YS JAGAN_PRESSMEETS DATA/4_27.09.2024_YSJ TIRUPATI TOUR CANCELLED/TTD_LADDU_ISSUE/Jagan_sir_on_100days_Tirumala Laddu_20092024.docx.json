@@ -1,0 +1,1000 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d2d4d75b3a862f855284382edfc8ade60e54ef0c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎల్లో పత్రిక",
+     "type": "Organization",
+     "english_name": "Yellow newspaper"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "దిశ",
+     "type": "Scheme",
+     "english_name": "Disha"
+    },
+    {
+     "name": "మచ్చుమర్రిలో బాలిక హత్య ఘటన",
+     "type": "Issue",
+     "english_name": "Machimarri girl murder incident"
+    },
+    {
+     "name": "వ్యవసాయం",
+     "type": "Issue",
+     "english_name": "Agriculture"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "క్రాప్‌ ఇన్సూరెన్స్‌",
+     "type": "Scheme",
+     "english_name": "Crop Insurance"
+    },
+    {
+     "name": "ఈ-క్రాప్‌ నమోదు",
+     "type": "Scheme",
+     "english_name": "e-Crop registration"
+    },
+    {
+     "name": "ఎరువులు",
+     "type": "Scheme",
+     "english_name": "Fertilizers"
+    },
+    {
+     "name": "ఆర్బీకే వ్యవస్థ",
+     "type": "Scheme",
+     "english_name": "RBK system"
+    },
+    {
+     "name": "పంట రుణాలు",
+     "type": "Scheme",
+     "english_name": "Crop loans"
+    },
+    {
+     "name": "కౌలు కార్డులు",
+     "type": "Scheme",
+     "english_name": "Tenancy cards"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ",
+     "type": "Scheme",
+     "english_name": "Price stabilization"
+    },
+    {
+     "name": "విపత్తుల సహాయ నిధి",
+     "type": "Scheme",
+     "english_name": "Disaster relief fund"
+    },
+    {
+     "name": "అసైన్డ్ ల్యాండ్స్ రిజిస్ట్రేషన్లు",
+     "type": "Scheme",
+     "english_name": "Assigned lands registration"
+    },
+    {
+     "name": "అగ్రి టెస్టింగ్ ల్యాబుల",
+     "type": "Organization",
+     "english_name": "Agri testing labs"
+    },
+    {
+     "name": "ఆక్వా యూనివర్సిటీ",
+     "type": "Organization",
+     "english_name": "Aqua University"
+    },
+    {
+     "name": "వ్యవసాయ సలహా మండళ్లు",
+     "type": "Organization",
+     "english_name": "Agricultural advisory councils"
+    },
+    {
+     "name": "సంచార పశువైద్య సేవలు",
+     "type": "Scheme",
+     "english_name": "Mobile veterinary services"
+    },
+    {
+     "name": "ప్రజారోగ్య రంగం",
+     "type": "Organization",
+     "english_name": "Public health sector"
+    },
+    {
+     "name": "వైద్యం",
+     "type": "Scheme",
+     "english_name": "Healthcare"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో పత్రిక",
+     "evidence": "చంద్రబాబు ప్రభుత్వాన్ని అడ్డు పెట్టుకుని ఒక ఎల్లో పత్రిక గూండాయిజం చేయడం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మహిళలు",
+     "evidence": "టీడీపీ కార్యకర్తలు, నాయకులు మహిళలను టార్గెట్‌ చేయడం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "అగ్రి టెస్టింగ్ ల్యాబుల",
+     "evidence": "అగ్రి టెస్టింగ్ ల్యాబుల సేవలకు అంతరాయం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆక్వా యూనివర్సిటీ",
+     "evidence": "ఆక్వా యూనివర్సిటీ పనులకు గ్రహణం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వ్యవసాయ సలహా మండళ్లు",
+     "evidence": "వ్యవసాయ సలహా మండళ్లు రద్దు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రజారోగ్య రంగం",
+     "evidence": "ప్రజారోగ్య రంగానికి చంద్రబాబు తన చేతులతో ఉరితాడు వేస్తున్నాడు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "12b9f60ddbb586bab5d28fa0d5d74c007daa9101": {
+   "entities": [
+    {
+     "name": "రూ. 8,౪౮౦ కోట్లు",
+     "type": "Scheme",
+     "english_name": "Rs. 8,480 crores"
+    },
+    {
+     "name": "17 కాలేజీలు",
+     "type": "Scheme",
+     "english_name": "17 colleges"
+    },
+    {
+     "name": "ఆరోగ్య శ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "సీహెచ్‌సీలు",
+     "type": "Organization",
+     "english_name": "CHCs"
+    },
+    {
+     "name": "జీరో వేకెన్సీ పాలసీ",
+     "type": "Scheme",
+     "english_name": "Zero vacancy policy"
+    },
+    {
+     "name": "ఫ్యామిలీ డాక్టర్‌ బంద్‌",
+     "type": "Scheme",
+     "english_name": "Family doctor bandh"
+    },
+    {
+     "name": "విలేజ్‌ క్లినిక్కులు",
+     "type": "Organization",
+     "english_name": "Village clinics"
+    },
+    {
+     "name": "నాడు-నేడు పనులు",
+     "type": "Scheme",
+     "english_name": "Naadu-Nedu works"
+    },
+    {
+     "name": "108, 104లు",
+     "type": "Organization",
+     "english_name": "108, 104"
+    },
+    {
+     "name": "గవర్నమెంటు స్కూళ్లు",
+     "type": "Organization",
+     "english_name": "Government schools"
+    },
+    {
+     "name": "ఇంగ్లిషు మీడియం",
+     "type": "Scheme",
+     "english_name": "English medium"
+    },
+    {
+     "name": "సీబీఎస్‌ఈ",
+     "type": "Organization",
+     "english_name": "CBSE"
+    },
+    {
+     "name": "టోఫెల్‌",
+     "type": "Scheme",
+     "english_name": "TOEFL"
+    },
+    {
+     "name": "ఐబీ",
+     "type": "Organization",
+     "english_name": "IB"
+    },
+    {
+     "name": "విద్యాకానుక",
+     "type": "Scheme",
+     "english_name": "Vidyakanuka"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "25d78691860e203927c30f368142261c7d5f6636": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వంలోకి వచ్చింది మొదలు ప్రతిక్షణం దానిపై ధ్యాస పెట్టాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంగ్లిషు మీడియం రద్దు చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సీబీఎస్‌ఈని పీకేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టోఫెల్‌ పీరియడ్‌ రద్దు చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఐబీ అడుగులకు ఫుల్ స్టాప్ పెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యాకానుక అస్తవ్యస్తం, అరకొర",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కలుషితాహారంతో వేలమంది విద్యార్థులు ఆస్పత్రి పాలవుతున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "స్కూళ్లు, హాస్టళ్లలో అతిసార కేసులు, మరణాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నాడు – నేడు ఆగిపోయింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇచ్చే పూర్తి ఫీజు రీయింబర్స్‌మెంట్ను ఆపేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెనను ఎత్తివేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమ్మ ఒడిని ఎత్తివేసి, తల్లికి వందనం అంటూ పంగనామం పెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రామస్వరాజ్యం కోసం చరిత్రలో చూడని మార్పులు తీసుకు వచ్చాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రామ, వార్డు సచివాలయాలు, వాలంటీర్ల వ్యవస్థను మేం అధికారంలోకి వచ్చిన 100 రోజుల రికార్డు సమయంలో తీసుకు వచ్చాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "1.35 లక్షల మందికి శాశ్వత ఉద్యోగాలు ఇచ్చాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చరిత్రలో ఎప్పుడూ ఒకేసారి ఇంతమందికి ఉద్యోగాలు ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏ టర్మ్‌లో కూడా జరగలేదు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "౨.6 లక్షల మందికి వాలంటీర్ల ఉద్యోగాలు ఇచ్చాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంటింటా సేవలు అందించాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇంటింటా సేవలకు సమాధి చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వాలంటీర్లకు రూ.10వేలు ఇస్తామని వారిని నిండా మోసంచేసి రోడ్డుమీద పెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రామ – వార్డు సచివాలయాల్లో సిబ్బంది తగ్గిస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రేషన్‌ డోర్‌ డెలివరీ రద్దుచేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రామస్థాయిలో సర్టిఫికెట్ల జారీ నిలుపుదల చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రామస్థాయిలో రిజిస్ట్రేషన్లు ఆపేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "డిజిటల్‌ లైబ్రరీల సంగతి వదిలేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రామగ్రామాన అరాచకాన్ని మొదలుపెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పెన్షన్లు కత్తిరించే కార్యక్రమం మొదలయ్యింది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పేదల ఇళ్లపై కక్ష కట్టి రాష్ట్రవ్యాప్తంగా నిలిచిన ఇళ్ల నిర్మాణాలు నిలిపేసిందీ ఈ ప్రభుత్వంలోనే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతిలో పేదల ఇళ్లపట్టాలు రద్దు చేసిందీ ఈ 100 రోజుల్లేనే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కుండపోత వానలు పడతాయని తెలిసినా, తుపాను ఉందని తెలిసినా, శ్రీశైలం, నాగార్జున సాగర్‌, పులిచింతల్లో ఫ్లడ్‌ కుషన్‌ ఏర్పాటు చేయక, బుడమేరు నీటిని విడుదలచేస్తున్నామని ఇంజినీర్లు చెప్పినా ప్రజలను అలర్ట్‌ చేయకుండా వారిని మూడువారాల పాటు ముంచేసి, సుమారుగా 60 మందిని పొట్టనపెట్టుకున్నది ఇదే 100 రోజుల్లోనే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏలేరులోనూ వరద నియంత్రణ పాటించక అక్కడి ప్రజలను, పంటలను ముంచేసింది కూడా ఈ 100 రోజుల్లోనే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వ పరంగా ఉన్న మద్యం షాపులను తన అనుచరులకు, పార్టీ నాయకులకు, కార్యకర్తలకు కట్టబెట్టి వేల కోట్ల దోపిడీకి తెలిరలేపిందీ ఈ వందరోజుల్లోనే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "షాపుకు ఇంత, బార్‌ అండ్‌ రెస్టారెంట్‌కు ఇంత, బెల్టుషాపుకు ఇంత అని ఇప్పటికే వసూళ్లు మొదలుపెట్టిందీ ఇప్పుడే",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3c6ec9a41de4896c0de57c38e7b01419fdd01d24": {
+   "entities": [
+    {
+     "name": "చంద్రబాబుగారు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిరుమల ప్రసాదం",
+     "type": "Issue",
+     "english_name": "Tirumala Prasad"
+    },
+    {
+     "name": "సుప్రీంకోర్టు సిట్టింగ్‌ జడ్జి",
+     "type": "Organization",
+     "english_name": "Supreme Court Sitting Judge"
+    },
+    {
+     "name": "CM",
+     "type": "Person",
+     "english_name": "Chief Minister"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "399649b56f3b22f18e50a99b6f2848c3eb1020f7": {
+   "entities": [
+    {
+     "name": "వైయస్సార్‌సీపీ పార్టీ",
+     "type": "Party",
+     "english_name": "YSRCP Party"
+    },
+    {
+     "name": "రెడ్‌బుక్‌",
+     "type": "Organization",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "స్కిల్‌ స్కాం",
+     "type": "Issue",
+     "english_name": "Skill Scam"
+    },
+    {
+     "name": "ఐఏఎస్‌",
+     "type": "Organization",
+     "english_name": "IAS"
+    },
+    {
+     "name": "ఐపీఎస్‌ అధికారులు",
+     "type": "Organization",
+     "english_name": "IPS officers"
+    },
+    {
+     "name": "చిట్‌ఫండ్‌",
+     "type": "Scheme",
+     "english_name": "Chitfund"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "దిగువ కోర్టులు",
+     "type": "Organization",
+     "english_name": "Lower Courts"
+    },
+    {
+     "name": "రామోజీరావు కుటుంబానికి చెందిన పత్రిక",
+     "type": "Organization",
+     "english_name": "Ramoji Rao family newspaper"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "ఎల్లో పత్రిక",
+     "type": "Organization",
+     "english_name": "Yellow newspaper"
+    },
+    {
+     "name": "పార్టీకి సంబంధించిన నాయకులు",
+     "type": "Person",
+     "english_name": "Party-related leaders"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "883d1ddb59220465fb953087a194b68ec0be4407": {
+   "entities": [
+    {
+     "name": "టీటీడీ ఈఓ",
+     "type": "Organization",
+     "english_name": "TTD EO"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "హిందూసమాజం",
+     "type": "Organization",
+     "english_name": "Hindu Society"
+    },
+    {
+     "name": "టీడీపీ పార్టీ",
+     "type": "Party",
+     "english_name": "TDP Party"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "నేయి",
+     "type": "Organization",
+     "english_name": "Nei"
+    },
+    {
+     "name": "వనస్పతి లాంటి వెజిటబుల్‌ ఫాట్‌",
+     "type": "Scheme",
+     "english_name": "Vegetable Fat"
+    },
+    {
+     "name": "శాంపిల్‌",
+     "type": "Organization",
+     "english_name": "Sample"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ ఈఓ",
+     "evidence": "చంద్రబాబు ... మాట్లాడారు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "జగన్‌ను ఎదుర్కోవడానికి తిరుమల పవిత్రతను దెబ్బతీయాలా?"
+    },
+    {
+     "source": "ప్రభుత్వం",
+     "relation": "LOCATED_IN",
+     "target": "తిరుమల",
+     "evidence": "తిరుమలకు సరఫరా అయ్యే నేయిలో"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c865b78513c1864690c2d9c7155c44e16a7f42e7": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "తిరుమల వేంకటేశ్వర స్వామి",
+     "type": "Place",
+     "english_name": "Tirumala Venkateswara Swamy"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "విశాఖ స్టీల్ ప్లాంట్",
+     "type": "Organization",
+     "english_name": "Visakhapatnam Steel Plant"
+    },
+    {
+     "name": "గుడ్లవల్లేరు కాలేజీ",
+     "type": "Organization",
+     "english_name": "Goodlavalacheruvu College"
+    },
+    {
+     "name": "విజవాడ వరదలు",
+     "type": "Issue",
+     "english_name": "Vijayawada floods"
+    },
+    {
+     "name": "నేయిలో కల్తీ",
+     "type": "Issue",
+     "english_name": "Ghee adulteration"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "aa8281c9e0531682a58dd552deb34ac29a2c0705": {
+   "entities": [
+    {
+     "name": "స్టాకు యార్డుల్లో నిల్వ ఉన్న సుమారు 80-85 లక్షల మెట్రిక్‌ టన్నుల ఇసుకను దోచుకుని కోట్ల రూపాయల స్కాంకు పాల్పడిందీ ఇదే ప్రభుత్వంలోనే.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free Crop Insurance"
+    },
+    {
+     "name": "వాహన మిత్ర",
+     "type": "Scheme",
+     "english_name": "Vahanamitra"
+    },
+    {
+     "name": "మత్స్యకార భరోసా",
+     "type": "Scheme",
+     "english_name": "Matsyakaara Bharosa"
+    },
+    {
+     "name": "నేతన్న నేస్తం",
+     "type": "Scheme",
+     "english_name": "Neethanna Nestham"
+    },
+    {
+     "name": "రైతులకు సున్నా వడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero Interest for Farmers"
+    },
+    {
+     "name": "మహిళలకు సున్నావడ్డీ",
+     "type": "Scheme",
+     "english_name": "Zero Interest for Women"
+    },
+    {
+     "name": "ఉపాధి హామీ ఫీల్డ్ అసిస్టెంట్ల తొలగింపు",
+     "type": "Issue",
+     "english_name": "Removal of MGNREGA Field Assistants"
+    },
+    {
+     "name": "అంగన్‌వాడీలు, ఆశావర్కర్లు",
+     "type": "Issue",
+     "english_name": "Anganwadi and Asha Workers"
+    },
+    {
+     "name": "మద్యం దుకాణాల్లో సిబ్బంది తొలగింపు",
+     "type": "Issue",
+     "english_name": "Removal of staff in liquor shops"
+    },
+    {
+     "name": "స్పెషలిస్టు వైద్యులు, ఆరోగ్య సిబ్బంది తొలగింపు",
+     "type": "Issue",
+     "english_name": "Removal of specialist doctors and health staff"
+    },
+    {
+     "name": "రేషన్‌ వాహనాల తొలగింపు",
+     "type": "Issue",
+     "english_name": "Removal of ration vehicles"
+    },
+    {
+     "name": "గ్రూప్ 1, 2 నోటిఫికేషన్లు వాయిదా",
+     "type": "Issue",
+     "english_name": "Postponement of Group 1, 2 notifications"
+    },
+    {
+     "name": "అవినీతికి గేట్లు తెరుస్తూ రివర్స్ టెండరింగ్ రద్దు",
+     "type": "Issue",
+     "english_name": "Cancellation of reverse tendering opening gates to corruption"
+    },
+    {
+     "name": "విశాఖ స్టీల్ ప్లాంట్ అమ్మకానికి సై",
+     "type": "Issue",
+     "english_name": "Sale of Visakhapatnam Steel Plant"
+    },
+    {
+     "name": "డీఎస్సీ వాయిదా",
+     "type": "Issue",
+     "english_name": "Postponement of DSC"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మదనపల్లె ఫైల్స్‌",
+     "type": "Issue",
+     "english_name": "Madanapalle files"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "స్టాకు యార్డుల్లో నిల్వ ఉన్న సుమారు 80-85 లక్షల మెట్రిక్‌ టన్నుల ఇసుకను దోచుకుని కోట్ల రూపాయల స్కాంకు పాల్పడిందీ ఇదే ప్రభుత్వంలోనే.",
+     "evidence": "స్టాకు యార్డుల్లో నిల్వ ఉన్న సుమారు 80-85 లక్షల మెట్రిక్‌ టన్నుల ఇసుకను దోచుకుని కోట్ల రూపాయల స్కాంకు పాల్పడిందీ ఇదే ప్రభుత్వంలోనే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "6000efb05c98e47d0282c3389422f9de312af9f4": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కర్ణాటక మిల్క్‌ ప్రొడ్యూసర్స్‌ ఫెడరేషన్‌ KMF",
+     "type": "Organization",
+     "english_name": "Karnataka Milk Producers Federation KMF"
+    },
+    {
+     "name": "నంది",
+     "type": "Organization",
+     "english_name": "Nandi"
+    },
+    {
+     "name": "నందికి నేయి కాంట్రాక్ట్‌",
+     "type": "Scheme",
+     "english_name": "Nandi Ghee Contract"
+    },
+    {
+     "name": "ఆహా",
+     "type": "Scheme",
+     "english_name": "Aahaa"
+    },
+    {
+     "name": "గెర్బర్‌",
+     "type": "Organization",
+     "english_name": "Gerber"
+    },
+    {
+     "name": "బెర్న్‌ ట్రూప్‌",
+     "type": "Organization",
+     "english_name": "Bern Troop"
+    },
+    {
+     "name": "రాట్జ్ లాఫ్‌",
+     "type": "Organization",
+     "english_name": "Raatz Laaf"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "ఈ సమయంలో ప్రభుత్వంలో లేని వైయస్సార్‌సీపీని టార్గెట్‌ చేస్తూ నిందలు వేయడం బట్టకాల్చి మీద పడేయాలన్నది చంద్రబాబు నైజం కాదా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కర్ణాటక మిల్క్‌ ప్రొడ్యూసర్స్‌ ఫెడరేషన్‌ KMF",
+     "evidence": "మరోవైపు కర్ణాటక మిల్క్‌ ప్రొడ్యూసర్స్‌ ఫెడరేషన్‌ KMFకు ఉద్దేశపూర్వకంగానే ఆ కంపెనీ బ్రాండ్‌ నందికి నేయి కాంట్రాక్ట్‌ ఇవ్వలేదని ఆరోపిస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ec185ac88111e87875bab47b13ab483596b46b17": {
+   "entities": [
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైయస్సార్‌గారు",
+     "type": "Person",
+     "english_name": "YSR"
+    },
+    {
+     "name": "వేద విశ్వవిద్యాలయం",
+     "type": "Organization",
+     "english_name": "Veda University"
+    },
+    {
+     "name": "కళ్యాణమస్తు",
+     "type": "Scheme",
+     "english_name": "Kalyanamastu"
+    },
+    {
+     "name": "అన్నమయ్య 600వ జయంతి",
+     "type": "Scheme",
+     "english_name": "Annamaiah 600th Jayanti"
+    },
+    {
+     "name": "మైసూర్ ల్యాబ్",
+     "type": "Organization",
+     "english_name": "Mysore Lab"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "చంద్రబాబు బాధ్యతారాహిత్య వ్యాఖ్యలు చేయడం అత్యంత దుర్మార్గం."
+    },
+    {
+     "source": "వైయస్సార్‌గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కళ్యాణమస్తు",
+     "evidence": "పేదలకు ఉచితంగా వివాహాలు చేయించే ‘కళ్యాణమస్తు’ కార్యక్రమాన్ని చేసింది కూడా వైయస్సార్‌గారి హయాంలోనే."
+    },
+    {
+     "source": "వైయస్సార్‌గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నమయ్య 600వ జయంతి",
+     "evidence": "అన్నమయ్య 600వ జయంతిని ఘనంగా నిర్వహించి, ఆయన స్వగ్రామమైన తాళ్లపాకలో 108 అడుగుల విగ్రహం ఏర్పాటుకూడా చేసింది మేమే."
+    },
+    {
+     "source": "వైయస్సార్‌గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కళ్యాణమస్తు",
+     "evidence": "వీరికి తాళిబొట్లు ఇచ్చే సంప్రదాయం కూడా మొదలుపెట్టింది వైయస్సార్‌గారే."
+    },
+    {
+     "source": "వైయస్సార్‌గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "కళ్యాణమస్తు",
+     "evidence": "స్వామి వారి కళ్యాణాన్ని ప్రపంచవ్యాప్తంగా పలు దేశాల్లో ఆ కార్యక్రమం నిర్వహించాలన్న నిర్ణయం కూడా వైయస్సార్‌గారి హయాంలో బోర్డు తీసుకున్నదే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c54ca5848bf199d570fa3524cae34053d28dc901": {
+   "entities": [
+    {
+     "name": "వైయస్సార్‌గారు",
+     "type": "Person",
+     "english_name": "Y. S. Rajasekhara Reddy"
+    },
+    {
+     "name": "బోర్డు",
+     "type": "Organization",
+     "english_name": "Board"
+    },
+    {
+     "name": "అన్నమయ్య",
+     "type": "Person",
+     "english_name": "Annamayya"
+    },
+    {
+     "name": "తాళ్లపాక",
+     "type": "Place",
+     "english_name": "Tallipaka"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "నవనీత సేవ",
+     "type": "Scheme",
+     "english_name": "Navaneetha Seva"
+    },
+    {
+     "name": "గోశాల",
+     "type": "Organization",
+     "english_name": "Goshalas"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వైజాగు",
+     "type": "Place",
+     "english_name": "Visakhapatnam"
+    },
+    {
+     "name": "భువనేశ్వర్‌",
+     "type": "Place",
+     "english_name": "Bhubaneswar"
+    },
+    {
+     "name": "హైదరాబాద్‌ జూబ్లీహిల్స్‌",
+     "type": "Place",
+     "english_name": "Hyderabad Jubilee Hills"
+    },
+    {
+     "name": "జమ్మూకాశ్మీర్‌",
+     "type": "Place",
+     "english_name": "Jammu Kashmir"
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": "Chennai"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "సుప్రీం చీఫ్‌జస్టిస్‌",
+     "type": "Person",
+     "english_name": "Supreme Chief Justice"
+    },
+    {
+     "name": "ప్రధాని నరేంద్రమోదీలు",
+     "type": "Person",
+     "english_name": "Prime Minister Narendra Modi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్‌గారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవనీత సేవ",
+     "evidence": "నవనీత సేవ మొదలుపెట్టాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

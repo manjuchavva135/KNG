@@ -1,0 +1,58 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bc78efcd8d499aece447ee08fce1329e86a71b51": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ శాసన పరిషత్తు",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Legislative Council"
+    },
+    {
+     "name": "46వ సమావేశం",
+     "type": "Organization",
+     "english_name": "46th Session"
+    },
+    {
+     "name": "దీపం -2 పథకం",
+     "type": "Scheme",
+     "english_name": "Deepam -2 Scheme"
+    },
+    {
+     "name": "శ్రీమతి వరుదు కళ్యాణి",
+     "type": "Person",
+     "english_name": "Smt. Varudu Kalyani"
+    },
+    {
+     "name": "శ్రీమతి ఎస్ మంగమ్మ",
+     "type": "Person",
+     "english_name": "Smt. S Mangamma"
+    },
+    {
+     "name": "ఎం.ఎల్.సి.లు",
+     "type": "Person",
+     "english_name": "MLCs"
+    },
+    {
+     "name": "గౌరవనీయులైన వినియోగదారుల వ్యవహారాలు, ఆహార మరియు పౌరసరఫరాల శాఖ మంత్రిగారు",
+     "type": "Person",
+     "english_name": "Honourable Minister for Consumer Affairs, Food and Civil Supplies"
+    },
+    {
+     "name": "ఆధార్ సంఖ్య",
+     "type": "Organization",
+     "english_name": "Aadhaar Number"
+    }
+   ],
+   "relations": [
+    {
+     "source": "గౌరవనీయులైన వినియోగదారుల వ్యవహారాలు, ఆహార మరియు పౌరసరఫరాల శాఖ మంత్రిగారు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "దీపం -2 పథకం",
+     "evidence": "31-10-2024 తేదీన ప్రభుత్వం దీపం – 2 పథకాన్ని ప్రారంభించింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

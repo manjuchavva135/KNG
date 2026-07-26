@@ -1997,6 +1997,123 @@
      "evidence": "Liquor Scam"
     }
    ]
+  },
+  "7fbd6467204d45ad3faf5e26fd2c1649f615b10c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అరవంద్ పనగడియా",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "16వ ఆర్థిక సంఘం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సచివాలయం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "బెంగళూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చెన్నై",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఆర్థిక విధ్వంసం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆదాయం కంటే ఖర్చు ఎక్కువైంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రత్యేక గ్రాంట్లు ఇవ్వండి.. పన్నుల వాటా పెంచండి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వికసిత్ భారత్ లక్ష్య సాధనలో మా వంతు పాత్ర పోషిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "గత వైకాపా ప్రభుత్వ హయాంలో అన్ని రంగాల విధ్వంసం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆర్థిక విధ్వంసం",
+     "evidence": "ఆర్థిక విధ్వంసం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఆదాయం కంటే ఖర్చు ఎక్కువైంది",
+     "evidence": "ఆదాయం కంటే ఖర్చు ఎక్కువైంది"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రత్యేక గ్రాంట్లు ఇవ్వండి.. పన్నుల వాటా పెంచండి",
+     "evidence": "ప్రత్యేక గ్రాంట్లు ఇవ్వండి.. పన్నుల వాటా పెంచండి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "వికసిత్ భారత్ లక్ష్య సాధనలో మా వంతు పాత్ర పోషిస్తాం",
+     "evidence": "వికసిత్ భారత్ లక్ష్య సాధనలో మా వంతు పాత్ర పోషిస్తాం"
+    },
+    {
+     "source": "సచివాలయం",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సచివాలయంలో"
+    }
+   ]
   }
  }
 }

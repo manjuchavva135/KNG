@@ -1,0 +1,53 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8931b91a14a783ec64802f0ad86bea1a1be87084": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "వైఎస్ జగన్ ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "నీతి ఆయోగ్",
+     "type": "Organization",
+     "english_name": "NITI Aayog"
+    },
+    {
+     "name": "కూటమి",
+     "type": "Party",
+     "english_name": "Kutami/NDA"
+    },
+    {
+     "name": "మంత్రివర్గం",
+     "type": "Organization",
+     "english_name": "Cabinet"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్ ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వందనం",
+     "evidence": "'తల్లికి వందనం'పై లో"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

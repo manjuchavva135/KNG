@@ -1,0 +1,51 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3afc36b0dc9732327c0948053cd41012ca444627": {
+   "entities": [
+    {
+     "name": "గవర్నర్ ప్రసంగం",
+     "type": "Claim",
+     "english_name": "Governor's Speech"
+    },
+    {
+     "name": "ఐఎమ్ఎఫ్ఎల్ అక్రమ రవాణా",
+     "type": "Issue",
+     "english_name": "IMFL illegal transport"
+    },
+    {
+     "name": "రాష్ట్ర ఎక్సైజ్ ఆదాయ మార్గాలు",
+     "type": "Organization",
+     "english_name": "State excise revenue channels"
+    },
+    {
+     "name": "నూతన ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "New government"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "మెగా డిఎస్సి",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "ల్యాండ్ టైటిలింగ్ చట్టం",
+     "type": "Scheme",
+     "english_name": "Land titling law"
+    },
+    {
+     "name": "సామాజిక భద్రత పింఛన్లు",
+     "type": "Scheme",
+     "english_name": "Social security pensions"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

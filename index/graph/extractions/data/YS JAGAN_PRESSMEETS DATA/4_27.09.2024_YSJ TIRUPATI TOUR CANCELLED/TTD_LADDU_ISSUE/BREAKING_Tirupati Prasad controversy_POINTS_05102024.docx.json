@@ -1,0 +1,53 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "57daa14d23bd3c4da5a1defe25e834f3e7c3515f": {
+   "entities": [
+    {
+     "name": "CM Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court of India"
+    },
+    {
+     "name": "Tirupati prasad",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Tirupati Laddu controversy",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "animal fat",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ghee",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "laddoos",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "CM Chandrababu Naidu",
+     "relation": "MAKES_CLAIM",
+     "target": "animal fat",
+     "evidence": "CM Chandrababu Naidu to claim that animal fat was used in the Tirupati prasad"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

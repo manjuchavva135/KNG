@@ -119,6 +119,92 @@
     }
    ],
    "relations": []
+  },
+  "f6c9fc8c49124a0afc0c69fd646cc759e924b8cb": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "మైనార్టీ కార్పొరేషన్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అసెంబ్లీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్ అమలు చేస్తామని హామీ ఇచ్చారు, కానీ భయపడుతున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ముస్లింలకు మైనార్టీ కార్పొరేషన్ ద్వారా వడ్డీ లేకుండా రూ.5 లక్షల గుణాలు ఒక్కరికీ ఇవ్వలేదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్ సిక్స్ అమలు చేస్తామని హామీ ఇచ్చారు, కానీ భయపడుతున్నారు",
+     "evidence": "నాడు ఎన్నికల సమయంలో జగన్ ఇచ్చిన సంక్షేమ పథకాలు కొనసాగిస్తూనే సూపర్ సిక్స్ అమలు చేస్తామని హామీ ఇచ్చి.. అధికారంలోకి వచ్చిన తర్వాత సూపర్ సిక్స్కు తలుచుకుంటేనే భయమేస్తోంది.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "సూపర్ సిక్స్కు తలుచుకుంటేనే భయమేస్తోంది.."
+    },
+    {
+     "source": "జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "సూపర్ సిక్స్ అమలు చేస్తామని హామీ ఇచ్చారు"
+    },
+    {
+     "source": "జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ముస్లింలకు మైనార్టీ కార్పొరేషన్ ద్వారా వడ్డీ లేకుండా రూ.5 లక్షల గుణాలు ఒక్కరికీ ఇవ్వలేదు",
+     "evidence": "ముస్లింలకు మైనార్టీ కార్పొరేషన్ ద్వారా వడ్డీ లేకుండా రూ.5 లక్షల గుణాలు ఒక్కరికీ ఇవ్వలేదు"
+    },
+    {
+     "source": "అసెంబ్లీ",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "అసెంబ్లీలో చెబుతున్న"
+    }
+   ]
   }
  }
 }

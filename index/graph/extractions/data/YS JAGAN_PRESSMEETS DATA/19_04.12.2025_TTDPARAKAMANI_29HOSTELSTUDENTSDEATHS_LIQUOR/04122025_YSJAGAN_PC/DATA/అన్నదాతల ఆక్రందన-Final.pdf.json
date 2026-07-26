@@ -1,0 +1,164 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "a7ef468803675f60a8be5c93875f1265397d23d1": {
+   "entities": [],
+   "relations": []
+  },
+  "5bdb2704c3348abf0f19e37885a6f0410d44ba4a": {
+   "entities": [],
+   "relations": []
+  },
+  "cb7e7a50dfaa45c4d9c9d1abc944602ae2dc5087": {
+   "entities": [],
+   "relations": []
+  },
+  "ef8de7aa64daae6c65514030e3193859910b326b": {
+   "entities": [],
+   "relations": []
+  },
+  "2530746b301dff630fa5ac9bd15d1565deea5891": {
+   "entities": [
+    {
+     "name": "రోడ్డు పక్కనే ధాన్యం కుప్పలు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "HOSTELSTUDENTSDEATHS_LIQUOR",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "కృష్ణా జిల్లా, పెదప్రోలు",
+     "type": "Place",
+     "english_name": "Krishna district, Pedaprolu"
+    },
+    {
+     "name": "ప.గో. జిల్లా ఖండవల్లి",
+     "type": "Place",
+     "english_name": "East Godavari district, Khandavilli"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "గుంటూరు జిల్లా, కాకుమాను",
+     "type": "Place",
+     "english_name": "Guntur district, Kakumanu"
+    },
+    {
+     "name": "TTDPARAKAMANI",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "3abde2665c21abc7ada9ec29545b09da83285767": {
+   "entities": [],
+   "relations": []
+  },
+  "c84eddb854fabb5bfd4c99ce2a85a7217258764d": {
+   "entities": [],
+   "relations": []
+  },
+  "5db90e54e928a29a2f8cfdf9d124e98931a8ec8a": {
+   "entities": [],
+   "relations": []
+  },
+  "7969ad23b722a57839fe03ad807f19cd0cfda745": {
+   "entities": [
+    {
+     "name": "గిట్టుబాటు ధరలేక పత్తి పంటను కుప్ప చేసి తగలబెడుతున్న రైతు..",
+     "type": "Claim",
+     "english_name": "Farmers are burning cotton crop due to not getting remunerative price"
+    }
+   ],
+   "relations": []
+  },
+  "da9c53c94f139788886403724bcace6f4d44f265": {
+   "entities": [
+    {
+     "name": "పత్తికి గిట్టుబాటు ధర లేకపోవడంతో పంటను దున్నేస్తున్న రైతులు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పత్తికి గిట్టుబాటు ధర లేకపోవడం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మహీంద్రా",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "పెదకూరపాడు మండలం",
+     "type": "Place",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "పత్తికి గిట్టుబాటు ధర లేకపోవడంతో పంటను దున్నేస్తున్న రైతులు..",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "పత్తికి గిట్టుబాటు ధర లేకపోవడం",
+     "evidence": "పత్తికి గిట్టుబాటు ధర లేకపోవడంతో పంటను దున్నేస్తున్న రైతులు.."
+    }
+   ]
+  },
+  "4ac528c80c5ff1d2b7a7c356087730ddb586177f": {
+   "entities": [
+    {
+     "name": "మొక్కజొన్నకు దక్కని మద్దతు.. పంటను అమ్ముకోవడానికి రైతులు నానా తిప్పలు..",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నంద్యాల జిల్లా",
+     "type": "Place",
+     "english_name": "Nandyal district"
+    },
+    {
+     "name": "ఆత్మకూరు యార్డు",
+     "type": "Place",
+     "english_name": "Atmakur yard"
+    }
+   ],
+   "relations": []
+  },
+  "4334e187e8865d0492c12cd4f5cf3385127b5f5e": {
+   "entities": [
+    {
+     "name": "TTDPARAKAMANI",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "HOSTELSTUDENTSDEATHS",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "LIQUOR",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "2ee28de125e6118b17b226d9c56a3914a365be24": {
+   "entities": [],
+   "relations": []
+  }
+ }
+}

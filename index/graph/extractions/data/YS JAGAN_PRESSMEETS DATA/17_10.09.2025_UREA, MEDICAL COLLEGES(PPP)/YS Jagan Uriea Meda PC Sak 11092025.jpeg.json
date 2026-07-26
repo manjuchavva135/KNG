@@ -565,6 +565,261 @@
      "evidence": "కుప్పంలోనూ యూరియా కోసం రైతుల కష్టాలు"
     }
    ]
+  },
+  "6917582faa7d514974ca717d951103cc1c87cec8": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "ధరల స్థిరీకరణ నిధి",
+     "type": "Scheme",
+     "english_name": "Price Stabilization Fund"
+    },
+    {
+     "name": "ఆర్బీకే",
+     "type": "Organization",
+     "english_name": "RBK"
+    },
+    {
+     "name": "సీఎం యాప్",
+     "type": "Scheme",
+     "english_name": "CM App"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Scheme",
+     "english_name": "Free Crop Insurance"
+    },
+    {
+     "name": "ఇన్ పుట్ సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Input Subsidy"
+    },
+    {
+     "name": "పంట నష్టపరిహారం",
+     "type": "Scheme",
+     "english_name": "Crop Loss Compensation"
+    },
+    {
+     "name": "సున్నా వడ్డీ పథకం",
+     "type": "Scheme",
+     "english_name": "Zero Interest Scheme"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "పీఎం కిసాన్",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "పీఏసీఏఎస్",
+     "type": "Organization",
+     "english_name": "PAACS"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కర్నూలు జిల్లా ఎమ్మిగనూరు",
+     "type": "Place",
+     "english_name": "Kurnool District Emmiganur"
+    },
+    {
+     "name": "పల్నాడు జిల్లా దాచేపల్లి",
+     "type": "Place",
+     "english_name": "Palnadu District Dachepalli"
+    },
+    {
+     "name": "నంద్యాల జిల్లా డోన్",
+     "type": "Place",
+     "english_name": "Nandyal District Done"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "ఉల్లి ధరల వివాదం",
+     "type": "Issue",
+     "english_name": "Onion Price Controversy"
+    },
+    {
+     "name": "యూరియా కుంభకోణం",
+     "type": "Issue",
+     "english_name": "Urea Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ధరల స్థిరీకరణ నిధి",
+     "evidence": "ధరల స్థిరీకరణ నిధి రూ.3 వేల కోట్లతో ఏర్పాటు చేసి"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సీఎం యాప్",
+     "evidence": "ప్రతి ఆర్బీకే పరిధిలో సీఎం యాప్ పెట్టాం"
+    }
+   ]
+  },
+  "74efe3dbb6fec9c0650e8f460d630816ceb07480": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మా పార్టీ",
+     "type": "Party",
+     "english_name": "Our Party"
+    },
+    {
+     "name": "పీఏసీఎస్",
+     "type": "Organization",
+     "english_name": "PACS"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna District"
+    },
+    {
+     "name": "లంకపల్లి",
+     "type": "Place",
+     "english_name": "Lankapalli"
+    },
+    {
+     "name": "పార్వ తీపురం మన్యం జిల్లా",
+     "type": "Place",
+     "english_name": "Manyam District Parvathipuram"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram District"
+    },
+    {
+     "name": "ఎస్ కోట",
+     "type": "Place",
+     "english_name": "S Kota"
+    },
+    {
+     "name": "రాజాం",
+     "type": "Place",
+     "english_name": "Rajam"
+    },
+    {
+     "name": "అనకాపల్లి జిల్లా",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "జిల్లా మదనపల్లె",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చిత్తూరు జిల్లా కుప్పం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "శ్రీకాకుళం జిల్లా టెక్కలి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు సిగ్గుతో తల దించుకోవాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎరువుల్లో కూడా కుంభకోణాలు చేసి, డబ్బు ఎత్తాలన్న ఆలోచన చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఏ పంటకూ గిట్టుబాటు ధరలు లేవు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎరువులు దొరకని పరిస్థితి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "MEDICAL COLLEGES(PPP)",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు సిగ్గుతో తల దించుకోవాలి",
+     "evidence": "చంద్రబాబు సిగ్గుతో తల దించుకోవాలి"
+    },
+    {
+     "source": "అచ్చెన్నాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఎరువుల్లో కూడా కుంభకోణాలు చేసి, డబ్బు ఎత్తాలన్న ఆలోచన చేస్తున్నారు",
+     "evidence": "ఎరువుల్లో కూడా కుంభకోణాలు చేసి, డబ్బు ఎత్తాలన్న ఆలోచన చేస్తున్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "ఏ పంటకూ గిట్టుబాటు ధరలు లేవు",
+     "evidence": "ఏ పంటకూ గిట్టుబాటు ధరలు లేవు"
+    },
+    {
+     "source": "చంద్రబాబు సిగ్గుతో తల దించుకోవాలి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువులు దొరకని పరిస్థితి",
+     "evidence": "ఎరువులు దొరకని పరిస్థితి"
+    },
+    {
+     "source": "ఎరువుల్లో కూడా కుంభకోణాలు చేసి, డబ్బు ఎత్తాలన్న ఆలోచన చేస్తున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువులు దొరకని పరిస్థితి",
+     "evidence": "ఎరువులు దొరకని పరిస్థితి"
+    },
+    {
+     "source": "ఏ పంటకూ గిట్టుబాటు ధరలు లేవు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "ఎరువులు దొరకని పరిస్థితి",
+     "evidence": "ఏ పంటకూ గిట్టుబాటు ధరలు లేవు"
+    }
+   ]
   }
  }
 }

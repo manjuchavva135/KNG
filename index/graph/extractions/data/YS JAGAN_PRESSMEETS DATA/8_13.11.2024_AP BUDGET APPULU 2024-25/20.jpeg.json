@@ -1,0 +1,96 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "3940c19302662c7cb6b918d795940e404d5e013a": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఎన్నికల సంఘం",
+     "type": "Organization",
+     "english_name": "Election Commission"
+    },
+    {
+     "name": "వिवेక్ యాదవ్",
+     "type": "Person",
+     "english_name": "Vivek Yadav"
+    },
+    {
+     "name": "సాధారణ ఓటర్లు",
+     "type": "Claim",
+     "english_name": "General Voters"
+    },
+    {
+     "name": "సర్వీసు ఓటర్లు",
+     "type": "Claim",
+     "english_name": "Service Voters"
+    },
+    {
+     "name": "మొత్తం ఓటర్లు",
+     "type": "Claim",
+     "english_name": "Total Voters"
+    },
+    {
+     "name": "పురుషులు",
+     "type": "Claim",
+     "english_name": "Males"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Claim",
+     "english_name": "Females"
+    },
+    {
+     "name": "థర్డ్ జెండర్",
+     "type": "Claim",
+     "english_name": "Third Gender"
+    },
+    {
+     "name": "యువ ఓటర్లు",
+     "type": "Claim",
+     "english_name": "Young Voters"
+    },
+    {
+     "name": "18-19 ఏళ్ల వయోజనానికి చెందినవారు",
+     "type": "Claim",
+     "english_name": "18-19 Year Old Voters"
+    },
+    {
+     "name": "కొత్త ఓటర్లు",
+     "type": "Claim",
+     "english_name": "New Voters"
+    },
+    {
+     "name": "తొలగించిన ఓటర్లు",
+     "type": "Claim",
+     "english_name": "Removed Voters"
+    },
+    {
+     "name": "నికర పెరుగుదల",
+     "type": "Claim",
+     "english_name": "Net Increase"
+    },
+    {
+     "name": "దివ్యాంగ ఓటర్లు",
+     "type": "Claim",
+     "english_name": "Differently Abled Voters"
+    },
+    {
+     "name": "పోలింగ్ కేంద్రాలు",
+     "type": "Claim",
+     "english_name": "Polling Stations"
+    },
+    {
+     "name": "ఓటరు జనాభా నిష్పత్తి",
+     "type": "Claim",
+     "english_name": "Voter Population Ratio"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,508 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "d5e04ed6240905ec1cbca914068561c610cf1b95": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    },
+    {
+     "name": "మెగా డీఎస్సీ –2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC 2025"
+    },
+    {
+     "name": "పోస్టల్‌ శాఖ",
+     "type": "Organization",
+     "english_name": "Postal Department"
+    },
+    {
+     "name": "అజయ్‌జైన్",
+     "type": "Person",
+     "english_name": "Ajay Jain"
+    },
+    {
+     "name": "శాప్‌ ఎండీ భరణి",
+     "type": "Person",
+     "english_name": "Bharani"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "క్రిడయ్‌ యాప్‌",
+     "type": "Organization",
+     "english_name": "Kridai App"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "గ్రీవెన్స్‌ సెల్‌",
+     "type": "Organization",
+     "english_name": "Grievance Cell"
+    },
+    {
+     "name": "జీవో",
+     "type": "Scheme",
+     "english_name": "GO"
+    }
+   ],
+   "relations": [
+    {
+     "source": "అజయ్‌జైన్",
+     "relation": "DEFENDS",
+     "target": "మెగా డీఎస్సీ –2025",
+     "evidence": "క్రీడా సర్టిఫికెట్లు ఇచ్చే బాధ్యత ప్రభుత్వానిది, శాప్‌ అధికారులది కాదని.. క్రీడా సంఘాలు మాత్రమే ఇస్తాయంటూ అర్థంలేని వాదన వినిపించింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4d4d89a417a9a63886b130ada7bed66a6c286e06": {
+   "entities": [
+    {
+     "name": "మీడియా",
+     "type": "Person",
+     "english_name": "Media"
+    },
+    {
+     "name": "స్పెషల్‌ సీఎస్",
+     "type": "Person",
+     "english_name": "Special CS"
+    },
+    {
+     "name": "శాప్‌ ఎండీ",
+     "type": "Person",
+     "english_name": "SAP MD"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "క్రీడా పాలసీ",
+     "type": "Scheme",
+     "english_name": "Sports Policy"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "ఫెడరేషన్లు",
+     "type": "Organization",
+     "english_name": "Federations"
+    },
+    {
+     "name": "క్రీడాకారుల జెన్యూనుటీ సర్టిఫికెట్లు",
+     "type": "Claim",
+     "english_name": "Authenticity of sports certificates"
+    },
+    {
+     "name": "క్రీడా సర్టిఫికెట్లు",
+     "type": "Claim",
+     "english_name": "Authenticity of sports certificates"
+    },
+    {
+     "name": "డిగ్రీల జెన్యూనుటీ",
+     "type": "Claim",
+     "english_name": "Authenticity of degrees"
+    },
+    {
+     "name": "రాత పరీక్ష",
+     "type": "Claim",
+     "english_name": "Written test"
+    },
+    {
+     "name": "క్రీడా సంఘాలు, ఫెడరేషన్ల నుంచి జెన్యూనుటీ సర్టిఫికెట్లు",
+     "type": "Claim",
+     "english_name": "Authenticity of sports certificates from associations and federations"
+    },
+    {
+     "name": "క్రీడా సంఘాల ప్రతినిధులు",
+     "type": "Person",
+     "english_name": "Sports association representatives"
+    },
+    {
+     "name": "జాతీయ స్థాయి",
+     "type": "Place",
+     "english_name": "National level"
+    },
+    {
+     "name": "క్రీడా సర్టిఫికెట్లు, డిగ్రీల జెన్యూనుటీని పరిశీలించడం",
+     "type": "Issue",
+     "english_name": "Verification of sports certificates and degrees"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మీడియా",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "క్రీడా సర్టిఫికెట్లు, డిగ్రీల జెన్యూనుటీని ఎలా పరిశీలించారు?"
+    },
+    {
+     "source": "శాప్‌ ఎండీ",
+     "relation": "DEFENDS",
+     "target": "క్రీడా పాలసీ",
+     "evidence": "క్రీడా పాలసీ కూడా అంతే."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "88b06a3c0175ce17b2f94b212fa5bcfffdac8b8b": {
+   "entities": [
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SAP"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "డీఎస్సీ 2025",
+     "type": "Scheme",
+     "english_name": "DSSC 2025"
+    },
+    {
+     "name": "ఏపీ స్టేట్‌ అండ్‌ సబార్డినేట్‌ సర్వీసు రూల్స్‌",
+     "type": "Organization",
+     "english_name": "AP State and Subordinate Service Rules"
+    },
+    {
+     "name": "విజయానంద్‌",
+     "type": "Person",
+     "english_name": "Vijayanand"
+    },
+    {
+     "name": "సీఎస్‌",
+     "type": "Person",
+     "english_name": "CS"
+    },
+    {
+     "name": "సాయిప్రసాద్‌",
+     "type": "Person",
+     "english_name": "Saiprasad"
+    },
+    {
+     "name": "క్రీడా కోటా",
+     "type": "Scheme",
+     "english_name": "Sports Quota"
+    }
+   ],
+   "relations": [
+    {
+     "source": "విజయానంద్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "క్రీడా కోటా",
+     "evidence": "డీఎస్సీకి ముందు ఏపీ స్టేట్‌ అండ్‌ సబార్డినేట్‌ సర్వీసు రూల్స్‌ను సవరిస్తూ 19–04–2025న అప్పటి సీఎస్‌ విజయానంద్‌ ఉత్తర్వులు జారీ చేశారు. దాని ప్రకారం డీఎస్సీలో పరీక్ష లేకుండా క్రీడా కోటాలో ఉద్యోగాలు ఇవ్వాలని నిర్ణయించారు."
+    },
+    {
+     "source": "సాయిప్రసాద్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "క్రీడా కోటా",
+     "evidence": "డీఎస్సీ ముగిసిన తర్వాత ఈ ఏడాది మే 15న ఏపీ సబార్డినేట్‌ అండ్‌ సర్వీసు రూల్స్‌ను మళ్లీ సవరిస్తూ సీఎస్‌ సాయిప్రసాద్‌ ఉత్తర్వులు జారీ చేశారు. కచ్చితంగా డిపార్ట్‌మెంట్‌ పెట్టే రాత పరీక్షలో అర్హత సాధించాలని పేర్కొన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3b8dae22974a36fd4a6798b3b80e3abe9dc09d3f": {
+   "entities": [
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "ఫెడరేషన్లు",
+     "type": "Organization",
+     "english_name": "Federations"
+    },
+    {
+     "name": "క్రీడాకారుల జెన్యూనుటీ సర్టిఫికెట్లు",
+     "type": "Scheme",
+     "english_name": "Athletes' genuineness certificates"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "సచివాలయ ఉద్యోగాల భర్తీ",
+     "type": "Scheme",
+     "english_name": "Secretariat job recruitment"
+    },
+    {
+     "name": "డీఎస్సీ",
+     "type": "Organization",
+     "english_name": "DSSC"
+    },
+    {
+     "name": "స్పెషల్‌ సీఎస్‌ అజయ్‌ జైన్‌",
+     "type": "Person",
+     "english_name": "Special CS Ajay Jain"
+    },
+    {
+     "name": "శాప్‌",
+     "type": "Organization",
+     "english_name": "SHAP"
+    },
+    {
+     "name": "ప్రకాశం జిల్లా",
+     "type": "Place",
+     "english_name": "Prakasam district"
+    },
+    {
+     "name": "సాఫ్ట్‌బాల్‌ నేషనల్‌ మీట్",
+     "type": "Scheme",
+     "english_name": "Softball National Meet"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "క్రీడా సంఘాలు",
+     "relation": "LOCATED_IN",
+     "target": "ప్రకాశం జిల్లా",
+     "evidence": "క్రీడా సంఘాల ప్రతినిధులకు భాగస్వామ్యం కల్పించాలి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dda7e4e51c50d00fbcf1b5451bdc142aa73518bb": {
+   "entities": [
+    {
+     "name": "AP State and Subordinate Service Rules",
+     "type": "Organization",
+     "english_name": "AP State and Subordinate Service Rules"
+    },
+    {
+     "name": "CS Vijaya Nand",
+     "type": "Person",
+     "english_name": "Vijaya Nand"
+    },
+    {
+     "name": "DSC",
+     "type": "Organization",
+     "english_name": "DSC"
+    },
+    {
+     "name": "CS Sai Prasad",
+     "type": "Person",
+     "english_name": "Sai Prasad"
+    },
+    {
+     "name": "Special CS Ajay Jain",
+     "type": "Person",
+     "english_name": "Ajay Jain"
+    },
+    {
+     "name": "Sports Policy 2024–29",
+     "type": "Scheme",
+     "english_name": "Sports Policy 2024–29"
+    },
+    {
+     "name": "National Games",
+     "type": "Issue",
+     "english_name": "National Games"
+    },
+    {
+     "name": "Senior Nationals",
+     "type": "Issue",
+     "english_name": "Senior Nationals"
+    },
+    {
+     "name": "SAAP",
+     "type": "Organization",
+     "english_name": "SAAP"
+    },
+    {
+     "name": "Sports Associations",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "Weightlifting sportswoman",
+     "type": "Person",
+     "english_name": "Weightlifting sportswoman"
+    },
+    {
+     "name": "Vijayanagaram district",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "SP",
+     "type": "Organization",
+     "english_name": "SP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CS Vijaya Nand",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Sports Policy 2024–29",
+     "evidence": "మాస్టర్‌మైండ్‌ చెప్పినట్టే పాలసీ పురుడు పోసుకుంది."
+    },
+    {
+     "source": "Sports Policy 2024–29",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "National Games",
+     "evidence": "సీనియర్‌ నేషనల్స్‌కు ప్రాధాన్యం దక్కాల్సిన చోట నేషనల్‌ గేమ్స్‌ పెట్టడంపై క్రీడా సంఘాలు ఇప్పుడు ఎందుకు ప్రశ్నిస్తాయి?"
+    },
+    {
+     "source": "Sports Policy 2024–29",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Senior Nationals",
+     "evidence": "సీనియర్‌ నేషనల్స్‌కు ప్రాధాన్యం దక్కాల్సిన చోట నేషనల్‌ గేమ్స్‌ పెట్టడంపై క్రీడా సంఘాలు ఇప్పుడు ఎందుకు ప్రశ్నిస్తాయి?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eb00f546cb2f9b8d20b0762bb2ba2a2c1f72fd83": {
+   "entities": [
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    },
+    {
+     "name": "స్పెషల్‌ బ్రాంచ్‌ డీఎస్పీ",
+     "type": "Organization",
+     "english_name": "Special Branch DSP"
+    },
+    {
+     "name": "SV R Murthy",
+     "type": "Person",
+     "english_name": "SV R Murthy"
+    },
+    {
+     "name": "విశాఖ రేంజ్‌ డీఐజీ",
+     "type": "Organization",
+     "english_name": "Visakhapatnam Range DIG"
+    },
+    {
+     "name": "విజయనగరం ఎస్పీ",
+     "type": "Organization",
+     "english_name": "Vijayanagaram SP"
+    },
+    {
+     "name": "క్రీడాకారిణి",
+     "type": "Person",
+     "english_name": "Athlete"
+    }
+   ],
+   "relations": [
+    {
+     "source": "SV R Murthy",
+     "relation": "ACCUSES",
+     "target": "క్రీడాకారిణి",
+     "evidence": "SV R Murthy అనే వ్యక్తి సదరు క్రీడాకారిణిపై విశాఖ రేంజ్‌ డీఐజీకి ఆధారాలతో సహా 19–02–2016న ఫిర్యాదు చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0249ce1422f4f9981eec0a8a6326257124b2639b": {
+   "entities": [
+    {
+     "name": "10–05–1993",
+     "type": "Person",
+     "english_name": "Date of Birth 10-05-1993"
+    },
+    {
+     "name": "10–11–2010",
+     "type": "Person",
+     "english_name": "Date of Passport 10-11-2010"
+    },
+    {
+     "name": "06–08–2015",
+     "type": "Person",
+     "english_name": "Fine Payment Date 06-08-2015"
+    },
+    {
+     "name": "20–05–1992",
+     "type": "Person",
+     "english_name": "Date of Birth 20-05-1992"
+    },
+    {
+     "name": "Commonwealth Junior Weightlifting Championship",
+     "type": "Organization",
+     "english_name": "Commonwealth Junior Weightlifting Championship"
+    },
+    {
+     "name": "National Games",
+     "type": "Organization",
+     "english_name": "National Games"
+    },
+    {
+     "name": "Postal Assistant",
+     "type": "Organization",
+     "english_name": "Postal Assistant"
+    },
+    {
+     "name": "Postal Department",
+     "type": "Organization",
+     "english_name": "Postal Department"
+    },
+    {
+     "name": "State Government",
+     "type": "Organization",
+     "english_name": "State Government"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "క్రీడాకారిణి",
+     "type": "Person",
+     "english_name": "Athlete"
+    },
+    {
+     "name": "క్రీడా సంఘాలు",
+     "type": "Organization",
+     "english_name": "Sports Associations"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "విజయనగరం జిల్లా",
+     "type": "Place",
+     "english_name": "Vijayanagaram district"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

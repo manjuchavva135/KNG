@@ -1,0 +1,50 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "4b44ad1a9acc873db8bc805ca75921db6329124b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "టీటీడీ ఈఓ",
+     "type": "Organization",
+     "english_name": "TTD EO"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Vais Jagann"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సుప్రీంకోర్టు",
+     "evidence": "సుప్రీంకోర్టు ఇంత ఆక్షేపించినా, చంద్రబాబు చేసిన తప్పు ఎత్తి చూపినా, ఆయన స్వయంగా వేసుకున్న సిట్‌ ను రద్దు చేసినా.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "శ్రీ వైయస్‌ జగన్‌",
+     "evidence": "అబద్ధాలకు రెక్కలు కట్టి, ప్రచారం చేస్తున్నారని శ్రీ వైయస్‌ జగన్‌ ఆక్షేపించారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబులో కించిత్‌ మార్పు లేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

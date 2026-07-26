@@ -1,0 +1,189 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6de033b3db74cbae1e315bfd15b0e589552df776": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "మంత్రి సత్యకుమార్",
+     "type": "Person",
+     "english_name": "Minister Satyakumar"
+    },
+    {
+     "name": "బొత్స సత్యనారాయణ",
+     "type": "Person",
+     "english_name": "Botsa Satyanarayana"
+    },
+    {
+     "name": "పులివెందుల మెడికల్ కాలేజీ",
+     "type": "Place",
+     "english_name": "Pulivendula Medical College"
+    },
+    {
+     "name": "శాసనమండలి",
+     "type": "Organization",
+     "english_name": "Legislative Council"
+    },
+    {
+     "name": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "అచ్చెన్నాయుడు",
+     "type": "Person",
+     "english_name": "Achchennaidu"
+    },
+    {
+     "name": "కొలుసు పార్థసారథి",
+     "type": "Person",
+     "english_name": "Kolusu Parthasarathi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బొత్స సత్యనారాయణ",
+     "relation": "ACCUSES",
+     "target": "మంత్రి సత్యకుమార్",
+     "evidence": "మంత్రి రెచ్చగొట్టేలా మాట్లాడుతున్నారని బొత్స మండిపాటు"
+    },
+    {
+     "source": "మంత్రి సత్యకుమార్",
+     "relation": "ACCUSES",
+     "target": "వైఎస్ జగన్మోహన్ రెడ్డి",
+     "evidence": "ఇటువంటి పెత్తందారులు వైద్య కళాశాలల నిర్మాణంపై రోజూ అబద్ధాలు చెబుతున్నారంటూ వ్యాఖ్యానించారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ebd072536c2ee6b3895bcd5791438492051c3008": {
+   "entities": [
+    {
+     "name": "Speaker",
+     "type": "Person",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "Chairman of the Council",
+     "type": "Person",
+     "english_name": "Chairman of the Council"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Y. S. Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "Duvvaada Srinivas",
+     "type": "Person",
+     "english_name": "Duvvaada Srinivas"
+    },
+    {
+     "name": "T. Madhavarao",
+     "type": "Person",
+     "english_name": "T. Madhavarao"
+    },
+    {
+     "name": "Varudu Kalyani",
+     "type": "Person",
+     "english_name": "Varudu Kalyani"
+    },
+    {
+     "name": "Kalpala",
+     "type": "Person",
+     "english_name": "Kalpala"
+    },
+    {
+     "name": "Minister Nadendla Manohar",
+     "type": "Person",
+     "english_name": "Nadendla Manohar"
+    },
+    {
+     "name": "Minister Kolla Ravindra",
+     "type": "Person",
+     "english_name": "Kolla Ravindra"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    },
+    {
+     "name": "Budget/CAG",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Speaker",
+     "relation": "ACCUSES",
+     "target": "YSRCP",
+     "evidence": "చేశారు. పోటీ శాసనసభ వ్యవస్థను ఏర్పాటు చేసేలా వైఎస్సార్సీపీ చేసే ప్రయత్నాలపై స్పీకర్, మండలి చైర్మన్ చర్యలు తీసుకోవాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "Chairman of the Council",
+     "relation": "ACCUSES",
+     "target": "YSRCP",
+     "evidence": "చేశారు. పోటీ శాసనసభ వ్యవస్థను ఏర్పాటు చేసేలా వైఎస్సార్సీపీ చేసే ప్రయత్నాలపై స్పీకర్, మండలి చైర్మన్ చర్యలు తీసుకోవాలని డిమాండ్ చేశారు."
+    },
+    {
+     "source": "Minister Nadendla Manohar",
+     "relation": "DEFENDS",
+     "target": "Deepam",
+     "evidence": "ప్రభుత్వం వద్ద ఉన్న డేటాబేస్ ప్రకారం రాష్ట్రంలో 1,55,22,000 గ్యాస్ కనెక్షన్లు ఉండగా, ఇప్పటికే ఈ పథకాన్ని 35.77 లక్షల మంది వినియోగదారులు వినియోగించుకుని గ్యాస్ బుక్ చేసుకున్నారని చెప్పారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

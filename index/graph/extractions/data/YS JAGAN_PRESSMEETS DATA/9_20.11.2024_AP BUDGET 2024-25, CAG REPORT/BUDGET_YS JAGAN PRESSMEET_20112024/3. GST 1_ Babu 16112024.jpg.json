@@ -1,0 +1,74 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "68d89454ab16d1ba0af4d1205cde07edacd43283": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Nara Chandrababu Naidu"
+    },
+    {
+     "name": "నిర్మలా సీతారామన్",
+     "type": "Person",
+     "english_name": "Nirmala Sitharaman"
+    },
+    {
+     "name": "జైశంకర్",
+     "type": "Person",
+     "english_name": "S. Jaishankar"
+    },
+    {
+     "name": "కేంద్ర ఆర్థిక మంత్రి",
+     "type": "Organization",
+     "english_name": "Union Finance Minister"
+    },
+    {
+     "name": "విదేశాంగ మంత్రి",
+     "type": "Organization",
+     "english_name": "Union External Affairs Minister"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "గోదావరి - కృష్ణా - పెన్నాల అనుసంధానం",
+     "type": "Scheme",
+     "english_name": "Godavari-Krishna-Pennar Link"
+    },
+    {
+     "name": "వరద బాధితులు",
+     "type": "Issue",
+     "english_name": "Flood Victims"
+    },
+    {
+     "name": "SGST",
+     "type": "Scheme",
+     "english_name": "State Goods and Services Tax"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "గోదావరి - కృష్ణా - పెన్నాల అనుసంధానం",
+     "evidence": "గోదావరి - కృష్ణా - పెన్నాల అనుసంధానానికి సహకరించండి"
+    },
+    {
+     "source": "కేంద్ర ఆర్థిక మంత్రి",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "దిల్లీలో కేంద్ర ఆర్థిక మంత్రి నిర్మలా సీతారామన్ సమావేశమైన సీఎం చంద్రబాబు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "cac1fea15ab374d7e13275f9cf2254384082c5f2": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "56c8cc1c386d04355e49de14809beea20a4f2f69": {
+   "entities": [
+    {
+     "name": "SVU",
+     "type": "Organization",
+     "english_name": "S.V. University"
+    },
+    {
+     "name": "TNSF",
+     "type": "Organization",
+     "english_name": "TNSF"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Ravikumar alias Ravinaidu",
+     "type": "Person",
+     "english_name": "Ravikumar alias Ravinaidu"
+    },
+    {
+     "name": "Tirupati",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "SVU research entrance test-2013",
+     "type": "Scheme",
+     "english_name": "SVU research entrance test-2013"
+    },
+    {
+     "name": "M.L.S.",
+     "type": "Scheme",
+     "english_name": "M.L.S."
+    },
+    {
+     "name": "శ్రీధర్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Sridhar Reddy"
+    },
+    {
+     "name": "సంచాలకులు, ప్రవేశాల విభాగం",
+     "type": "Organization",
+     "english_name": "Director of Admissions"
+    },
+    {
+     "name": "ఉపకులపతి ఆచార్య రాజేంద్ర",
+     "type": "Person",
+     "english_name": "Vice-Chancellor Rajendra"
+    },
+    {
+     "name": "విద్యార్థి సంఘాలు",
+     "type": "Organization",
+     "english_name": "Student Unions"
+    },
+    {
+     "name": "ప్రశ్నపత్రం లీక్",
+     "type": "Issue",
+     "english_name": "Question Paper Leak"
+    },
+    {
+     "name": "హాల్ టిక్కెట్",
+     "type": "Scheme",
+     "english_name": "Hall Ticket"
+    }
+   ],
+   "relations": [
+    {
+     "source": "SVU",
+     "relation": "LOCATED_IN",
+     "target": "Tirupati",
+     "evidence": "ఆదివారం తిరుపతిలో నిర్వహించారు."
+    },
+    {
+     "source": "శ్రీధర్ రెడ్డి",
+     "relation": "DEFENDS",
+     "target": "హాల్ టిక్కెట్",
+     "evidence": "రెండు హాల్టికెట్లు కలిగి ఉండటం నేరం, వేరే హాల్టికెట్లో జవాబులు ఉన్నాయనరు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

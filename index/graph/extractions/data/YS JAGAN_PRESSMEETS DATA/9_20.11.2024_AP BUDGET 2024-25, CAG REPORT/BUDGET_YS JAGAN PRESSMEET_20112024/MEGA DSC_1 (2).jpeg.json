@@ -1,0 +1,227 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "96d7a75e1975fc0e30a7e9e190cfc41020bafe3b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఎన్టీఆర్",
+     "type": "Person",
+     "english_name": "NTR"
+    },
+    {
+     "name": "TTD Laddu",
+     "type": "Issue",
+     "english_name": "TTD Laddu"
+    },
+    {
+     "name": "Liquor scam",
+     "type": "Issue",
+     "english_name": "Liquor scam"
+    },
+    {
+     "name": "DSC scam",
+     "type": "Issue",
+     "english_name": "DSC scam"
+    },
+    {
+     "name": "Budget/CAG",
+     "type": "Issue",
+     "english_name": "Budget/CAG"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1a5e13a6f225b39b48e80a91bca51e92a056b9f3": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పవన్కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "భాజపా",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "ల్యాండ్ టైట్లింగ్ యాక్ట్",
+     "type": "Scheme",
+     "english_name": "Land Titling Act"
+    },
+    {
+     "name": "పించిన్లు",
+     "type": "Scheme",
+     "english_name": "Pensions"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "AP బడ్జెట్ 2024-25",
+     "type": "Issue",
+     "english_name": "AP Budget 2024-25"
+    },
+    {
+     "name": "CAG రిపోర్ట్",
+     "type": "Issue",
+     "english_name": "CAG Report"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ",
+     "evidence": "16,347 ఉపాధ్యాయ పోస్టుల భర్తీకి సంబంధించిన మెగా డీఎస్సీ ప్రకటనపై తొలి సంతకం చేస్తున్నా అని చంద్రబాబు తెలిపారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ల్యాండ్ టైట్లింగ్ యాక్ట్",
+     "evidence": "గత ప్రభుత్వం ల్యాండ్ టైట్లింగ్ యాక్ట్ తీసుకొచ్చి ప్రజల భూములు, ఆస్తులకు రక్షణ లేకుండా చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పించిన్లు",
+     "evidence": "సామాజిక భద్రత పించన్లను రూ.4వేలకు పెంచుతూ లబ్దిదారుల సమక్షంలో మూడో సంతకం చేశారు."
+    },
+    {
+     "source": "పవన్కల్యాణ్",
+     "relation": "MEMBER_OF",
+     "target": "భాజపా",
+     "evidence": "నేను, పవన్కల్యాణ్, భాజపా కలిసి ఎన్నికల్లో వారికి ఇచ్చిన హామీ మేరకు.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "భాజపా",
+     "evidence": "నేను, పవన్కల్యాణ్, భాజపా కలిసి ఎన్నికల్లో వారికి ఇచ్చిన హామీ మేరకు.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "63c47f4786d19b26c3daa5a306ec22f548237fd7": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగనన్న భూహక్కు",
+     "type": "Scheme",
+     "english_name": "Jagannanna Bhoohakkulu"
+    },
+    {
+     "name": "ల్యాండ్ టైట్లింగ్ చట్టం",
+     "type": "Scheme",
+     "english_name": "Land Titling Act"
+    },
+    {
+     "name": "నైపుణ్య గణన",
+     "type": "Scheme",
+     "english_name": "Skill Census"
+    },
+    {
+     "name": "అన్న క్యాంటీన్లు",
+     "type": "Scheme",
+     "english_name": "Anna Canteens"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "కర్ణాటక",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న భూహక్కు",
+     "evidence": "జగనన్న భూహక్కు అని ముద్రించారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ల్యాండ్ టైట్లింగ్ చట్టం",
+     "evidence": "ల్యాండ్ టైట్లింగ్ చట్టాన్ని రద్దు చేస్తున్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నైపుణ్య గణన",
+     "evidence": "నైపుణ్య గణనకు శ్రీకారం చుట్టాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్న క్యాంటీన్లు",
+     "evidence": "అన్న క్యాంటీన్ల పునరుద్ధరణపై... ఐదో సంతకం చేస్తున్నాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "తెదేపా",
+     "evidence": "తెదేపా ప్రభుత్వ హయాంలో అన్న క్యాంటీన్లు ఏర్పాటు చేశారు."
+    },
+    {
+     "source": "కర్ణాటక",
+     "relation": "LOCATED_IN",
+     "target": "కర్ణాటక",
+     "evidence": "కర్ణాటకలో ఇందిరా క్యాంటీన్లు, తమిళనాడులో అమ్మ క్యాంటీన్లు ఉన్నాయి."
+    },
+    {
+     "source": "తమిళనాడు",
+     "relation": "LOCATED_IN",
+     "target": "తమిళనాడు",
+     "evidence": "కర్ణాటకలో ఇందిరా క్యాంటీన్లు, తమిళనాడులో అమ్మ క్యాంటీన్లు ఉన్నాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

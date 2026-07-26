@@ -1,0 +1,69 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "496f3c6d21d20b43815eb8b7cf9768b09d8a960b": {
+   "entities": [
+    {
+     "name": "పురందేశ్వరి",
+     "type": "Person",
+     "english_name": "Purandeshwari"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "భాజపా",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "జనసేన",
+     "type": "Party",
+     "english_name": "Janasena"
+    },
+    {
+     "name": "రాజమహేంద్రవరం ఎంపీ అభ్యర్థి",
+     "type": "Person",
+     "english_name": "Rajamahendravaram MP candidate"
+    },
+    {
+     "name": "దేవీచౌక్",
+     "type": "Place",
+     "english_name": "Devichauk"
+    },
+    {
+     "name": "రాష్ట్ర అప్పులు",
+     "type": "Issue",
+     "english_name": "State debt"
+    },
+    {
+     "name": "రూ.12.50 లక్షల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.12.50 lakh crores"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పురందేశ్వరి",
+     "relation": "ACCUSES",
+     "target": "వైకాపా",
+     "evidence": "వైకాపా అసమర్థ విధానాలతో రాష్ట్రంపై రూ.12.50 లక్షల కోట్ల అప్పుల భారం మోపా"
+    },
+    {
+     "source": "పురందేశ్వరి",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ.12.50 లక్షల కోట్లు",
+     "evidence": "రాష్ట్రంపై రూ.12.50 లక్షల కోట్ల అప్పుల భారం మోపా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "7d46f98941ae88b6c862ed2e5f3cde27d7820d24": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c5f1b7dc45b506d935ba350236bcb96528b1ab6b": {
+   "entities": [
+    {
+     "name": "Prohibition & Excise Dept., Govt of Andhra Pradesh (APSBCL)",
+     "type": "Organization",
+     "english_name": "Prohibition & Excise Department, Government of Andhra Pradesh (APSBCL)"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": "Amaravathi"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "P&E Dept/APSBCL/I/MM/1754/2017-18/600",
+     "type": "Organization",
+     "english_name": "P&E Dept/APSBCL/I/MM/1754/2017-18/600"
+    },
+    {
+     "name": "SNJ Sugars and Products Ltd. Sarvepalli",
+     "type": "Organization",
+     "english_name": "SNJ Sugars and Products Ltd. Sarvepalli"
+    },
+    {
+     "name": "ROYAL PALACE VSOP BRANDY",
+     "type": "Organization",
+     "english_name": "Royal Palace VSOP Brandy"
+    },
+    {
+     "name": "BRITISH EMPIRE PREMIUM MATURED BRANDY",
+     "type": "Organization",
+     "english_name": "British Empire Premium Matured Brandy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prohibition & Excise Dept., Govt of Andhra Pradesh (APSBCL)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Prohibition & Excise Dept., Govt of Andhra Pradesh (APSBCL)"
+    },
+    {
+     "source": "Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada, Amaravathi, Andhra Pradesh."
+    },
+    {
+     "source": "Amaravathi",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada, Amaravathi, Andhra Pradesh."
+    },
+    {
+     "source": "SNJ Sugars and Products Ltd. Sarvepalli",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "M/s SNJ Sugars and Products Ltd. Sarvepalli (v), Venkatachalan(M), District submitted an offer for supply of the following IMFL Liquor brands to the state of Andhra Pradesh"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

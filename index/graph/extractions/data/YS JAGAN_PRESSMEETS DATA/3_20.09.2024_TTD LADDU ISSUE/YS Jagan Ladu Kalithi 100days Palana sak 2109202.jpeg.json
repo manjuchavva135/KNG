@@ -1,0 +1,438 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e5fd75a6e85cc35b483f2795ba81613506c59ae3": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "రైతు",
+     "type": "Person",
+     "english_name": "Farmer"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సూపర్ సిక్స్లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "ప్రభుత్వం కడుతున్న మెడికల్ కాలేజీలను స్కాముల కోసం ప్రైవేటు పరం చేస్తున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "edc56e8f66b307972c2ede8b4eabe5f7f4364871": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "గ్రామ సచివాలయాల సిబ్బంది",
+     "type": "Organization",
+     "english_name": "Village Secretariat Staff"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ కేంద్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "YSRCP Central Office"
+    },
+    {
+     "name": "ఎన్నికల ప్రచారం",
+     "type": "Issue",
+     "english_name": "Election Campaign"
+    },
+    {
+     "name": "పిల్లలు",
+     "type": "Person",
+     "english_name": "Children"
+    },
+    {
+     "name": "మహిళలు",
+     "type": "Person",
+     "english_name": "Women"
+    },
+    {
+     "name": "యువత",
+     "type": "Person",
+     "english_name": "Youth"
+    },
+    {
+     "name": "పెద్దమ్మ",
+     "type": "Person",
+     "english_name": "Elderly Women"
+    },
+    {
+     "name": "రైతు",
+     "type": "Person",
+     "english_name": "Farmer"
+    },
+    {
+     "name": "ప్రభుత్వ బడులు",
+     "type": "Organization",
+     "english_name": "Government Schools"
+    },
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "104, 108 సిబ్బంది",
+     "type": "Organization",
+     "english_name": "104 and 108 Staff"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cb83717aca813a825e4aefc54db203eba9eef753": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "విశాఖ స్టీల్ ప్లాంట్",
+     "type": "Organization",
+     "english_name": "Visakhapatnam Steel Plant"
+    },
+    {
+     "name": "మెడికల్ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical Colleges"
+    },
+    {
+     "name": "కార్మిక, విద్యార్థి సంఘాలు",
+     "type": "Organization",
+     "english_name": "Labor and Student Unions"
+    },
+    {
+     "name": "ముగ్గురు సీనియర్ అధికారులు",
+     "type": "Person",
+     "english_name": "Three Senior Officials"
+    },
+    {
+     "name": "ప్రకాశం బ్యారేజీ",
+     "type": "Place",
+     "english_name": "Prakasam Barrage"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ముగ్గురు సీనియర్ అధికారులు",
+     "relation": "ACCUSES",
+     "target": "కార్మిక, విద్యార్థి సంఘాలు",
+     "evidence": "ముగ్గురూ సీనియర్ అధికారులపై సస్పెన్షన్ వేటు వేస్తూ మరో డైవర్షనుకు తెర తీశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c7d62c63a02e2761850f05ff0c05cdf4dbef37ab": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఐఏఎస్లు",
+     "type": "Person",
+     "english_name": "IAS officers"
+    },
+    {
+     "name": "ఐపీఎస్లు",
+     "type": "Person",
+     "english_name": "IPS officers"
+    },
+    {
+     "name": "ముంబై",
+     "type": "Place",
+     "english_name": "Mumbai"
+    },
+    {
+     "name": "సినిమా నటి",
+     "type": "Person",
+     "english_name": "Film actress"
+    },
+    {
+     "name": "వరదలు",
+     "type": "Issue",
+     "english_name": "Floods"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "ఇరిగేషన్",
+     "type": "Organization",
+     "english_name": "Irrigation Department"
+    },
+    {
+     "name": "రెవెన్యూ",
+     "type": "Organization",
+     "english_name": "Revenue Department"
+    },
+    {
+     "name": "హోంశాఖ",
+     "type": "Organization",
+     "english_name": "Home Department"
+    },
+    {
+     "name": "ఏలేరు",
+     "type": "Place",
+     "english_name": "Aeleru"
+    },
+    {
+     "name": "మ్యాన్ మేడ్ ఫ్లడ్స్",
+     "type": "Issue",
+     "english_name": "Man-made floods"
+    },
+    {
+     "name": "ప్రకాశం బ్యారేజీ",
+     "type": "Place",
+     "english_name": "Prakasam Barrage"
+    },
+    {
+     "name": "బోట్లు",
+     "type": "Organization",
+     "english_name": "Boats"
+    },
+    {
+     "name": "ఇసుక మాఫియా",
+     "type": "Organization",
+     "english_name": "Sand mafia"
+    },
+    {
+     "name": "వాటర్ ఫ్లో",
+     "type": "Issue",
+     "english_name": "Water flow"
+    },
+    {
+     "name": "అసత్య ప్రచారం",
+     "type": "Issue",
+     "english_name": "False propaganda"
+    },
+    {
+     "name": "విశాఖ స్టీల్ ప్లాంట్",
+     "type": "Organization",
+     "english_name": "Visakhapatnam Steel Plant"
+    },
+    {
+     "name": "మెడికల్ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical colleges"
+    },
+    {
+     "name": "కార్మిక, విద్యార్థి సంఘాలు",
+     "type": "Organization",
+     "english_name": "Labor and student unions"
+    },
+    {
+     "name": "ముగ్గురు సీనియర్ అధికారులు",
+     "type": "Person",
+     "english_name": "Three senior officers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఐఏఎస్లు",
+     "evidence": "చంద్రబాబు వేధిస్తున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఐపీఎస్లు",
+     "evidence": "చంద్రబాబు వేధిస్తున్నారు."
+    },
+    {
+     "source": "ముగ్గురు సీనియర్ అధికారులు",
+     "relation": "ACCUSES",
+     "target": "కార్మిక, విద్యార్థి సంఘాలు",
+     "evidence": "ముగ్గురు సీనియర్ అధికారులపై సస్పెన్షన్ వేటు వేస్తూ మరో డైవర్షనుకు తెర తీశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1e4f839ffd2b2d9ad90d6cad20b59c55777ff68e": {
+   "entities": [
+    {
+     "name": "పథకాలు, ప్రభుత్వ సేవల డోర్ డెలివరీ",
+     "type": "Scheme",
+     "english_name": "Schemes and Government Services Door Delivery"
+    },
+    {
+     "name": "జన్మభూమి కమిటీ",
+     "type": "Organization",
+     "english_name": "Janmabhoomi Committee"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సూపర్ సిక్స్లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "మెడికల్ కాలేజీలు",
+     "type": "Organization",
+     "english_name": "Medical Colleges"
+    },
+    {
+     "name": "ప్రభుత్వ ఆధ్వర్యంలో 17 కొత్త మెడికల్ కాలేజీలు",
+     "type": "Scheme",
+     "english_name": "17 New Government Medical Colleges"
+    },
+    {
+     "name": "రూ.8400 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.8400 crores cost"
+    },
+    {
+     "name": "రూ.2,400 కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs.2400 crores spent on buildings"
+    },
+    {
+     "name": "గతేడాది ఐదు చోట్ల కొత్త మెడికల్ కాలేజీలు",
+     "type": "Claim",
+     "english_name": "Five new medical colleges started last year"
+    },
+    {
+     "name": "నూతన కళాశాలలు",
+     "type": "Scheme",
+     "english_name": "New colleges"
+    },
+    {
+     "name": "ప్రభుత్వ మెడికల్ కాలేజీలను అమ్మేయడం, ప్రైవేటీకరణ",
+     "type": "Claim",
+     "english_name": "Selling and privatizing government medical colleges"
+    },
+    {
+     "name": "ప్రైవేట్ మెడికల్ కాలేజీలను దగ్గర వాళ్లకు అమ్ముకునేందుకు స్కామ్లు",
+     "type": "Claim",
+     "english_name": "Scams to sell private medical colleges to relatives"
+    },
+    {
+     "name": "సూపర్ స్పెషాలిటీ ఆసుపత్రి",
+     "type": "Organization",
+     "english_name": "Super specialty hospital"
+    },
+    {
+     "name": "రాష్ట్రానికి ఈ మెడికల్ కళాశాలల ద్వారా ఒక్కో చోట 150 చొప్పున ఎంబీబీఎస్ సీట్లు",
+     "type": "Claim",
+     "english_name": "150 MBBS seats per location from medical colleges"
+    },
+    {
+     "name": "పేదలకు మేలు జరుగుతుంది",
+     "type": "Claim",
+     "english_name": "Benefit to the poor"
+    },
+    {
+     "name": "మెరుగైన వైద్యం అందుతుంది",
+     "type": "Claim",
+     "english_name": "Better medical care"
+    },
+    {
+     "name": "చంద్రబాబు అరాచక, ఆటవిక పాలన",
+     "type": "Claim",
+     "english_name": "Chandrababu's anarchic and barbaric rule"
+    },
+    {
+     "name": "ఢిల్లీకి వెళ్లి ధర్నా",
+     "type": "Claim",
+     "english_name": "Going to Delhi and dharna"
+    },
+    {
+     "name": "మదనపల్లె ఫైల్స్ దగ్ధం ఘటన",
+     "type": "Claim",
+     "english_name": "Madanapalle file burning incident"
+    },
+    {
+     "name": "రెసిడెన్షియల్ స్కూళ్లు, ట్రిపుల్ ఐటీలు, హాస్టళ్లలో ఫుడ్ పాయిజనింగ్",
+     "type": "Claim",
+     "english_name": "Food poisoning in residential schools, triple ITs, hostels"
+    },
+    {
+     "name": "గోరు ముద్ద ఆహారం నాణ్యత అన్యాయంగా ఉంది",
+     "type": "Claim",
+     "english_name": "Poor quality of food (goru muddha)"
+    },
+    {
+     "name": "చంద్రబాబు ప్రమాణ స్వీకారానికి 30 ఏళ్లు",
+     "type": "Claim",
+     "english_name": "30 years of Chandrababu's oath-taking"
+    },
+    {
+     "name": "స్కిల్ స్కామ్లో తనను అరెస్టు చేయడం",
+     "type": "Claim",
+     "english_name": "Arrest in the skill scam"
+    },
+    {
+     "name": "ఈనాడు - మార్గదర్శి నేరాలు",
+     "type": "Claim",
+     "english_name": "Crimes of Eenadu - Margadarsi"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8bf58556182208a4f2d8f3b5aed828d9012312b6": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Y. S. Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Y. S. Jagan",
+     "relation": "ACCUSES",
+     "target": "YSRCP",
+     "evidence": "వైఎస్సార్సీపీని ప్రతిపక్షంగా గుర్తించకుండా కుట్రలు చేస్తున్నారు."
+    },
+    {
+     "source": "Y. S. Jagan",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "వైఎస్ జగన్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a15c3014f217271681f5ed657ca08817c4062d99": {
+   "entities": [
+    {
+     "name": "చంద్రబాబూ",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "రెడ్బుక్",
+     "type": "Scheme",
+     "english_name": "Redbook"
+    },
+    {
+     "name": "శ్వేతపత్రాలు",
+     "type": "Scheme",
+     "english_name": "White Papers"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Centre"
+    },
+    {
+     "name": "రాష్ట్రాలు",
+     "type": "Organization",
+     "english_name": "States"
+    },
+    {
+     "name": "మద్యం అమ్మకాలు",
+     "type": "Issue",
+     "english_name": "Liquor sales"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Issue",
+     "english_name": "Sand"
+    },
+    {
+     "name": "గనులు",
+     "type": "Issue",
+     "english_name": "Mines"
+    },
+    {
+     "name": "హామీలు",
+     "type": "Issue",
+     "english_name": "Promises"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Claim",
+     "english_name": "Budget"
+    },
+    {
+     "name": "ప్రజల నిలదీస్తారనే భయంతో",
+     "type": "Claim",
+     "english_name": "Fear of people questioning"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "రెడ్బుక్ పరిపాలన",
+     "type": "Claim",
+     "english_name": "Redbook governance"
+    },
+    {
+     "name": "శాసనసభ",
+     "type": "Organization",
+     "english_name": "Legislative Assembly"
+    },
+    {
+     "name": "ప్రతిపక్షంగా గుర్తించడం లేదు",
+     "type": "Claim",
+     "english_name": "Not recognizing opposition"
+    },
+    {
+     "name": "ఎన్నికలకు ముందు రూ.14 లక్షల కోట్ల అప్పులతో ఆర్థిక విధ్వంసం చేశారని ఆరోపించావు",
+     "type": "Claim",
+     "english_name": "Accusation of economic destruction with Rs 14 lakh crore debt"
+    },
+    {
+     "name": "గవర్నర్తో తప్పులు చెప్పించావు",
+     "type": "Claim",
+     "english_name": "Made Governor say wrong things"
+    },
+    {
+     "name": "రూ.పది లక్షల కోట్ల అప్పులున్నాయని",
+     "type": "Claim",
+     "english_name": "Rs ten lakh crore debt"
+    },
+    {
+     "name": "వాస్తవానికి ఉన్న అప్పలు రూ.7.48 లక్షల కోట్లే",
+     "type": "Claim",
+     "english_name": "Actual debt Rs 7.48 lakh crore"
+    },
+    {
+     "name": "కేంద్ర సామాజిక ఆర్థిక సర్వే ప్రశంసించలేదా?",
+     "type": "Claim",
+     "english_name": "Central Socio-Economic Survey praise"
+    },
+    {
+     "name": "2019 మే 30 నాటికి ఖజానాలో రూ.100 కోట్లే ఉన్నా మేం రూ.2.27 లక్షల కోట్లతో పూర్తి స్థాయి బడ్జెట్ ప్రవేశపెట్టాం",
+     "type": "Claim",
+     "english_name": "Budget of Rs 2.27 lakh crore despite Rs 100 crore treasury"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "ACCUSES",
+     "target": "కేంద్రం",
+     "evidence": "పోలవరాన్ని కట్టాల్సింది కేంద్రమే అయినా"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబూ",
+     "evidence": "సాక్ష్యాధారాలతో సీఎం చంద్రబాబును కడిగిపారేసిన వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్"
+    },
+    {
+     "source": "చంద్రబాబూ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "శ్వేతపత్రాలు",
+     "evidence": "హామీల అమలుపై ప్రజల దృష్టిని మళ్లించేందుకు శ్వేతపత్రాల పేరుతో డ్రామా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

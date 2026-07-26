@@ -124,6 +124,505 @@
      "evidence": "కాలువల పూడికతీత, సకాలంలో నీటి విడుదల, వాననీటి సంరక్షణ, నదుల అనుసంధానం ద్వారా ప్రతి ఎకరాకు నీరందేలా"
     }
    ]
+  },
+  "b4baa218943e6f4a67810c0bd621a74ed239ed88": {
+   "entities": [
+    {
+     "name": "రూ.4,000ల పింఛన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సర్వజన సంక్షేమం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20,000",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "THE LARGEST CIRCULATED TELUGU DAILY",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "పింఛన్ తెచ్చింది తెలుగుదేశం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాబును మళ్ళీ రప్పిద్దాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు లేదా నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ-జనసేన-బీజేపీ కూటమికి ఓటేద్దాం - సర్వజన సంక్షేమ రాజ్యాన్ని తెచ్చుకుందాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రూ.4,000ల పింఛన్",
+     "evidence": "పింఛన్ తెచ్చింది తెలుగుదేశం"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు",
+     "evidence": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "evidence": "నెలకు రూ.3,000 నిరుద్యోగ భృతి"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "evidence": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి రైతుకు ఏటా రూ.20,000",
+     "evidence": "ప్రతి రైతుకు ఏటా రూ.20,000"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు",
+     "evidence": "ప్రతి ఇంటికి ఉచితంగా ఏడాదికి 3 గ్యాస్ సిలిండర్లు"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ప్రతి మహిళకు నెలకు రూ.1,500",
+     "evidence": "ప్రతి మహిళకు నెలకు రూ.1,500"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మహిళలకు ఉచిత బస్సు ప్రయాణం",
+     "evidence": "మహిళలకు ఉచిత బస్సు ప్రయాణం"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్",
+     "evidence": "బీసీ, ఎస్సీ, ఎస్టీ, ముస్లిం మైనారిటీలకు 50 ఏళ్లకే పింఛన్"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ-జనసేన-బీజేపీ కూటమి",
+     "evidence": "బాబును మళ్ళీ రప్పిద్దాం"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బాబును మళ్ళీ రప్పిద్దాం",
+     "evidence": "బాబును మళ్ళీ రప్పిద్దాం"
+    },
+    {
+     "source": "బాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "పింఛన్ తెచ్చింది తెలుగుదేశం",
+     "evidence": "పింఛన్ తెచ్చింది తెలుగుదేశం"
+    },
+    {
+     "source": "పింఛన్ తెచ్చింది తెలుగుదేశం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సర్వజన సంక్షేమం",
+     "evidence": "సర్వజన సంక్షేమం"
+    },
+    {
+     "source": "బాబును మళ్ళీ రప్పిద్దాం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సర్వజన సంక్షేమం",
+     "evidence": "సర్వజన సంక్షేమం"
+    },
+    {
+     "source": "యువతకు 20 లక్షల ఉపాధి అవకాశాలు లేదా నెలకు రూ.3,000 నిరుద్యోగ భృతి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సర్వజన సంక్షేమం",
+     "evidence": "సర్వజన సంక్షేమం"
+    },
+    {
+     "source": "టీడీపీ-జనసేన-బీజేపీ కూటమికి ఓటేద్దాం - సర్వజన సంక్షేమ రాజ్యాన్ని తెచ్చుకుందాం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "సర్వజన సంక్షేమం",
+     "evidence": "సర్వజన సంక్షేమం"
+    }
+   ]
+  },
+  "52dcaa2e7faf5db230909728e9a8b8398f8e920f": {
+   "entities": [
+    {
+     "name": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీల రక్షణ కోసం ప్రత్యేక చట్టం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "BC Sub Plan ద్వారా ఐదేళ్లలో రూ.లక్షన్నర కోట్లు ఖర్చు చేస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "స్థానిక సంస్థలు, నామినేటెడ్ పదవుల్లో 34% రిజర్వేషన్",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చట్ట సభల్లో జీసీలకు 33శాతం రిజర్వేషన్ కోసం తీర్మానం చేసి కేంద్రానికి పంపిస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నామినేషన్ల ద్వారా రాజకీయ భాగస్వామ్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "BCల ఆర్ధికాభివృద్ధి, ఉపాధికి ప్రోత్సాహకాలు పునరుద్ధరిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దామాషా ప్రకారం కార్పొరేషన్లకు నిధులు చేస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రూ.5000 కోట్లతో 'ఆదరణ' పథకం పునరుద్ధరిస్తాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆదరణ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "శాశ్వత కుల ధ్రువీకరణ పత్రాలు అందజేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "యాదవ/కురుబ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అత్యాధునిక ప్రమాణాలతో గొర్రెల పెంపకం యూనిట్ల స్థాపనకు రాయితీలు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గొర్రెలు, మేకల పెంపకం యూనిట్లకు బీమా సౌకర్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "AIOA",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
+  },
+  "8e9f813028beae5697446e3c0232161728d26c04": {
+   "entities": [
+    {
+     "name": "TDP alliance",
+     "type": "Party",
+     "english_name": "TDP alliance"
+    },
+    {
+     "name": "Super Six 2.0 / షణ్ముఖ వ్యూహం",
+     "type": "Scheme",
+     "english_name": "Super Six 2.0 / Shanmukha vyuham"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Scheme",
+     "english_name": "Unemployment allowance"
+    },
+    {
+     "name": "ఉచిత బస్సు ప్రయాణం",
+     "type": "Scheme",
+     "english_name": "Free bus travel for women"
+    },
+    {
+     "name": "ఉచిత గ్యాస్ సిలిండర్లు",
+     "type": "Scheme",
+     "english_name": "Free gas cylinders"
+    },
+    {
+     "name": "యువతకు 20 లక్షల ఉద్యోగాలు / నెలకు రూ.3 వేల",
+     "type": "Claim",
+     "english_name": "20 lakh jobs for youth / Rs 3000 per month"
+    },
+    {
+     "name": "ప్రతి విద్యార్థికి ఏడాదికి రూ.15,000",
+     "type": "Claim",
+     "english_name": "Rs 15000 per year for each student"
+    },
+    {
+     "name": "ప్రతి రైతుకు ఏటా రూ.20 వేలు ఆర్థిక సాయం",
+     "type": "Claim",
+     "english_name": "Rs 20000 per year financial assistance for each farmer"
+    },
+    {
+     "name": "ప్రతి మహిళకి నెలకు రూ.1500",
+     "type": "Claim",
+     "english_name": "Rs 1500 per month for each woman"
+    },
+    {
+     "name": "రక్షిత తాగునీరు : ప్రతి ఇంటికి కుళాయి కనెక్షన్",
+     "type": "Scheme",
+     "english_name": "Protected drinking water: tap connection to every home"
+    },
+    {
+     "name": "పూర్ టు రిచ్ : పేదలను సంపన్నులను చేసే దిశగా పబ్లిక్, ప్రైవేట్, పీపుల్స్, పార్టనర్షిప్ (పి4) పథకాలు",
+     "type": "Scheme",
+     "english_name": "Poor to Rich: P4 schemes to make the poor rich"
+    },
+    {
+     "name": "స్కిల్ సెన్స్స్",
+     "type": "Scheme",
+     "english_name": "Skill senses"
+    },
+    {
+     "name": "సౌభాగ్యపథం : చిన్న, మధ్యతరహా పరిశ్రమలకు, అంకుర సంస్థలకు ప్రాజెక్టు వ్యయంలో గరిష్టంగా రూ.10 లక్షల వరకు సబ్సిడీ",
+     "type": "Scheme",
+     "english_name": "Saubhagya path: subsidy up to Rs 10 lakh for small and medium industries and start‑ups"
+    },
+    {
+     "name": "మెగా దీయస్పీ, ప్రతి సంవత్సరం జాబ్ క్యాలెండర్",
+     "type": "Scheme",
+     "english_name": "Mega DIESPI, job calendar every year"
+    },
+    {
+     "name": "ఉత్తరాంధ్ర, కోస్తా, రాయలసీమ",
+     "type": "Place",
+     "english_name": "Uttara Andhra, Kosta, Rayalaseema"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ఎంఎస్ఎంఈ సెక్టార్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "నైపుణ్య శిక్షణా కేంద్రాలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "NDA ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "10 శాతం EWS రిజర్వేషన్లు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "యువత సంక్షేమం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీ డిక్లరేషన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "డిజిటల్ లైబ్రరీలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "నైపుణ్య శిక్షణ అందించి యువతకు పరిశ్రమల అవసరాలకు అనుగుణంగా ఉద్యోగాలు కల్పిస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రపంచస్థాయి క్రీడా మౌలిక సదుపాయాలు అభివృద్ధిపరిచి రాష్ట్ర యువతను అంతర్జాతీయ క్రీడాకారులుగా తీర్చిదిద్దుతాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "కేంద్ర, రాష్ట్ర ప్రభుత్వ పరీక్షలకు ప్రిపేర్ కావడం కోసం డిజిటల్ లైబ్రరీల స్థాపన",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "NDA ప్రభుత్వం తెచ్చిన 10 శాతం EWS రిజర్వేషన్లను అమలు చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రతి 5 ఏళ్లకు ఒక సారి ఆర్థిక సర్వే చేసి రిజర్వేషన్లు అమలు చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "TDP alliance",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six 2.0 / షణ్ముఖ వ్యూహం",
+     "evidence": "Super Six 2.0 / షణ్ముఖ వ్యూహం"
+    }
+   ]
+  },
+  "48c8e8ac22f938cfaf409962023b2e85a07c1051": {
+   "entities": [
+    {
+     "name": "ఆదివాసీ ఉపాధ్యాయుల నియామకం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "జీవో 3 పునరుద్ధరణ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "ఎస్సీ, ఎస్టీ సంక్షేమ పథకాల పునరుద్ధరణ",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "డా॥ సుధాకర్",
+     "type": "Person",
+     "english_name": "Dr. Sudhakar"
+    },
+    {
+     "name": "డైరెక్టర్ సుబ్రహ్మణ్యం",
+     "type": "Person",
+     "english_name": "Director Subrahmanyam"
+    },
+    {
+     "name": "మంత్రుబాయ్",
+     "type": "Person",
+     "english_name": "Mantri Boy"
+    },
+    {
+     "name": "డా॥ అచ్చెన్న",
+     "type": "Person",
+     "english_name": "Dr. Achchenna"
+    },
+    {
+     "name": "ఎస్సీ, ఎస్టీ బ్యాక్లాగ్ పోస్టులను భర్తీ చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీ డిక్లరేషన్",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీలకు 50 సంవత్సరాలకే నెలకు రూ.4 వేల పెన్షన్ ఇస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీల రక్షణ కోసం ప్రత్యేక చట్టం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బీసీ సబ్ ప్లాన్ ద్వారా ఐదేళ్లలో రూ.లక్షన్నర కోట్లు ఖర్చు చేస్తాం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రస్తుత ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "కోర్టులు",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": []
   }
  }
 }

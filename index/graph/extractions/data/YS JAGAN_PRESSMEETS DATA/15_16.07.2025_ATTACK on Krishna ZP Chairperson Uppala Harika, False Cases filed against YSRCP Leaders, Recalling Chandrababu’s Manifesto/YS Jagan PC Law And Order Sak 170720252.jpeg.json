@@ -429,6 +429,638 @@
      "evidence": "చంద్రబాబు ప్రభుత్వాన్ని నడిపిస్తున్న తీరుతో రాష్ట్రంలో భయానక వాతావరణం నెలకొంది."
     }
    ]
+  },
+  "6b90818c60bacc9e6f4a00b776cf8c7503317634": {
+   "entities": [
+    {
+     "name": "హారిక",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "ఎన్టీఆర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నాగార్జున యాదవ్",
+     "type": "Person",
+     "english_name": "Naga Raju Yadav"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "జానసేన",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "చంద్రబాబూ.. మాపై నువ్వు ఎన్ని తప్పుడు కేసులు పెట్టినా భయపడేది లేదు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అధ్యక్షుడు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును ప్రశ్నిస్తున్నా."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ వాళ్లు ఎగతాళి చేస్తున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "నాగార్జున యాదవ్ అనే మరో జెడ్పీటీసీ భర్తను దారుణంగా కొట్టారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబూ.. మాపై నువ్వు ఎన్ని తప్పుడు కేసులు పెట్టినా భయపడేది లేదు.",
+     "evidence": "చంద్రబాబూ.. మాపై నువ్వు ఎన్ని తప్పుడు కేసులు పెట్టినా భయపడేది లేదు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్ సహా ఎన్నికల్లో ఇచ్చిన 143 హామీలను అమలు చేయకుండా"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవెన్",
+     "evidence": "సూపర్ సిక్స్, సూపర్ సెవెన్ సహా ఎన్నికల్లో ఇచ్చిన 143 హామీలను అమలు చేయకుండా"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు శాడిజం ప్రదర్శిస్తున్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు లైవ్ యాక్టింగ్ చూసి ఎన్టీఆర్ ఎక్కడికో వెళ్లిపోవాలి."
+    }
+   ]
+  },
+  "2d165989abe066c4afca7e4baa654dd1315dfb94": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "మాపై ఐదు కేసులు పెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "False Cases",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "మాపై ఐదు కేసులు పెట్టారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మాపై ఐదు కేసులు పెట్టారు",
+     "evidence": "మాపై ఐదు కేసులు పెట్టారు"
+    },
+    {
+     "source": "మాపై ఐదు కేసులు పెట్టారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False Cases",
+     "evidence": "మాపై ఐదు కేసులు పెట్టారు"
+    }
+   ]
+  },
+  "17884f054b78d7e6425f87f3704934e90edb3098": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Claim1",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim2",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Claim3",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబా బు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మీ ప్రభుత్వం కన్ను మూసుకుని కన్ను తెరిస్తే మహా అయితే మూడేళ్లు ఉంటుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నీవు పెట్టే కేసులకు, నీతో పాటు నీకు పావులుగా మారిన అధికారుల కు.. ఇద్దరికీ వార్నింగ్ ఇస్తున్నా.. వడ్డీతో మీరంతా చెల్లించాల్సి ఉంటుంది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్ష్యాధారాలతో సహా చంద్రబా బు ప్రభుత్వ వ్యవహార శైలిని కడిగి పారేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మీ ప్రభుత్వం కన్ను మూసుకుని కన్ను తెరిస్తే మహా అయితే మూడేళ్లు ఉంటుంది.",
+     "evidence": "మీ ప్రభుత్వం కన్ను మూసుకుని కన్ను తెరిస్తే మహా అయితే మూడేళ్లు ఉంటుంది."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "నీవు పెట్టే కేసులకు, నీతో పాటు నీకు పావులుగా మారిన అధికారుల కు.. ఇద్దరికీ వార్నింగ్ ఇస్తున్నా.. వడ్డీతో మీరంతా చెల్లించాల్సి ఉంటుంది.",
+     "evidence": "నీవు పెట్టే కేసులకు, నీతో పాటు నీకు పావులుగా మారిన అధికారుల కు.. ఇద్దరికీ వార్నింగ్ ఇస్తున్నా.. వడ్డీతో మీరంతా చెల్లించాల్సి ఉంటుంది."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "సాక్ష్యాధారాలతో సహా చంద్రబా బు ప్రభుత్వ వ్యవహార శైలిని కడిగి పారేశారు.",
+     "evidence": "సాక్ష్యాధారాలతో సహా చంద్రబా బు ప్రభుత్వ వ్యవహార శైలిని కడిగి పారేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "మీ ప్రభుత్వం కన్ను మూసుకుని కన్ను తెరిస్తే మహా అయితే మూడేళ్లు ఉంటుంది."
+    },
+    {
+     "source": "తాడేపల్లి",
+     "relation": "LOCATED_IN",
+     "target": "తాడేపల్లి",
+     "evidence": "తాడేపల్లిలోని వైఎస్సార్సీపీ కేంద్ర కార్యాలయంలో"
+    }
+   ]
+  },
+  "113f2ec2c40790f535bfc16336a8f3bd0baa5ce0": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "సత్తెనపల్లి నియోజకవర్గం",
+     "type": "Place",
+     "english_name": "Satthenapalli constituency"
+    },
+    {
+     "name": "రెంటపాళ్ల గ్రామం",
+     "type": "Place",
+     "english_name": "Rentapalla village"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "ఉచిత పంటల బీమా",
+     "type": "Issue",
+     "english_name": "Free crop insurance"
+    },
+    {
+     "name": "విద్యుత్ చార్జీల బాదుడు",
+     "type": "Issue",
+     "english_name": "Electricity charge hike"
+    },
+    {
+     "name": "విద్యా, వసతి దీవెన బకాయిలు",
+     "type": "Issue",
+     "english_name": "Education and hostel fee arrears"
+    },
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సెవన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "నిరుద్యోగ భృతి సంగతి ఏమిటని.. గత ఏడాదికి సంబంధించి ఒక్కొక్కరికి ఇవ్వా ల్సిన రూ.36 వేలు ఎగ్గొట్టిన తీరుపై యువతకు తోడుగా పోరాటం చేశాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు చేసిన మోసాలను నిలదీస్తూ 'వెన్నుపోటు దినం' కార్యక్రమం ద్వారా ప్రతి అసెంబ్లీ నియోజకవర్గంలో వేలమంది బాధిత ప్రజలతో కలిసి చంద్రబాబు ఎగ్గొట్టిన సూపర్ సిక్స్, సెవన్ హామీలను ఎత్తి చూపించాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాబు ప్యూరిటీ.. మోసం గ్యారంటీ.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు ఇచ్చిన బాండ్ల గురించి ప్రజలకు తెలియజేస్తూ.. ఆ బాండ్లను టీడీపీ నాయకులకు చూపిస్తూ ఏడాదిలో ఇవ్వాల్సిన డబ్బులు ఎంత అని లెక్కించి చంద్రబాబును అడిగేట్టుగా జూన్ 25న కార్యక్రమం ప్రారం భించాం.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వెన్నుపోటు దినం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రీకాలింగ్ చంద్రబాబు మేనిఫెస్టో",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "నిరుద్యోగ భృతి",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "చంద్రబాబు పని... లాఠీచార్జీలు చేయిం చడమే"
+    },
+    {
+     "source": "వైఎస్సార్సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా",
+     "evidence": "అన్నదాతకు అండగా వైఎస్సార్సీపీ రాష్ట్రవ్యాప్త ధర్నాకు పిలుపునిచ్చి రైతులకు తోడుగా నిలిచింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": ""
+    }
+   ]
+  },
+  "c937e0dc2a636a02f8a4abb79d89412df94781d2": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Siddharth Kaushal",
+     "type": "Person",
+     "english_name": "Siddharth Kaushal"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "DIGs",
+     "type": "Organization",
+     "english_name": "DIGs"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Gudivada",
+     "type": "Place",
+     "english_name": "Gudivada"
+    },
+    {
+     "name": "గుడ్లవల్లేరు",
+     "type": "Place",
+     "english_name": "Goodavallarevu"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "ఇక్కడ పోలీసులు వసూలు చేసి రివర్స్లో ఎమ్మెల్యేలకు ఇవ్వడం విచిత్రం.",
+     "type": "Claim",
+     "english_name": "Police extortion claim"
+    },
+    {
+     "name": "చంద్రబాబు 45 ఏళ్ల ఇండస్ట్రీకి మౌలిక హక్కులు తెలియవా?",
+     "type": "Claim",
+     "english_name": "Rights of political parties claim"
+    },
+    {
+     "name": "గుడివాడలో ... టీడీపీ సైకోలు కర్రలతో, రాళ్లతో దాడి చేశారు.",
+     "type": "Claim",
+     "english_name": "Attack on Harika claim"
+    },
+    {
+     "name": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "type": "Issue",
+     "english_name": "Attack on Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    },
+    {
+     "name": "Recalling Chandrababu’s Manifesto",
+     "type": "Issue",
+     "english_name": "Recalling Chandrababu’s Manifesto"
+    },
+    {
+     "name": "హారిక",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "రాము",
+     "type": "Person",
+     "english_name": "Rama"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "పేర్ని నాని",
+     "type": "Person",
+     "english_name": "Payareni Nani"
+    },
+    {
+     "name": "కైలే అనిల్ కుమార్",
+     "type": "Person",
+     "english_name": "Kaila Anil Kumar"
+    },
+    {
+     "name": "గుడివాడ",
+     "type": "Place",
+     "english_name": "Gudivada"
+    },
+    {
+     "name": "పెడన",
+     "type": "Place",
+     "english_name": "Pedana"
+    },
+    {
+     "name": "జెడ్పీ",
+     "type": "Organization",
+     "english_name": "Zilla Parishad"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "దాడి",
+     "type": "Issue",
+     "english_name": "Attack"
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False Cases"
+    },
+    {
+     "name": "బీసీ",
+     "type": "Issue",
+     "english_name": "BC community"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "Police",
+     "evidence": "ఇక్కడ పోలీసులు వసూలు చేసి రివర్స్లో ఎమ్మెల్యేలకు ఇవ్వడం విచిత్రం."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "గుడివాడలో ... టీడీపీ సైకోలు కర్రలతో, రాళ్లతో దాడి చేశారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇక్కడ పోలీసులు వసూలు చేసి రివర్స్లో ఎమ్మెల్యేలకు ఇవ్వడం విచిత్రం.",
+     "evidence": "ఇక్కడ పోలీసులు వసూలు చేసి రివర్స్లో ఎమ్మెల్యేలకు ఇవ్వడం విచిత్రం."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు 45 ఏళ్ల ఇండస్ట్రీకి మౌలిక హక్కులు తెలియవా?",
+     "evidence": "చంద్రబాబు 45 ఏళ్ల ఇండస్ట్రీకి మౌలిక హక్కులు తెలియవా?"
+    },
+    {
+     "source": "Uppala Harika",
+     "relation": "ACCUSES",
+     "target": "TDP",
+     "evidence": "గుడివాడలో ... టీడీపీ సైకోలు కర్రలతో, రాళ్లతో దాడి చేశారు."
+    },
+    {
+     "source": "Uppala Harika",
+     "relation": "MAKES_CLAIM",
+     "target": "గుడివాడలో ... టీడీపీ సైకోలు కర్రలతో, రాళ్లతో దాడి చేశారు.",
+     "evidence": "గుడివాడలో ... టీడీపీ సైకోలు కర్రలతో, రాళ్లతో దాడి చేశారు."
+    },
+    {
+     "source": "ఇక్కడ పోలీసులు వసూలు చేసి రివర్స్లో ఎమ్మెల్యేలకు ఇవ్వడం విచిత్రం.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False Cases filed against YSRCP Leaders",
+     "evidence": "ఇక్కడ పోలీసులు వసూలు చేసి రివర్స్లో ఎమ్మెల్యేలకు ఇవ్వడం విచిత్రం."
+    },
+    {
+     "source": "గుడివాడలో ... టీడీపీ సైకోలు కర్రలతో, రాళ్లతో దాడి చేశారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "evidence": "గుడివాడలో ... టీడీపీ సైకోలు కర్రలతో, రాళ్లతో దాడి చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు 45 ఏళ్ల ఇండస్ట్రీకి మౌలిక హక్కులు తెలియవా?",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Recalling Chandrababu’s Manifesto",
+     "evidence": "చంద్రబాబు 45 ఏళ్ల ఇండస్ట్రీకి మౌలిక హక్కులు తెలియవా?"
+    },
+    {
+     "source": "హారిక",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీకి చెందిన శాడిస్టులు దాడి చేసినట్టు స్పష్టంగా వీడి యోల్లో కనిపిస్తుంటే"
+    }
+   ]
   }
  }
 }

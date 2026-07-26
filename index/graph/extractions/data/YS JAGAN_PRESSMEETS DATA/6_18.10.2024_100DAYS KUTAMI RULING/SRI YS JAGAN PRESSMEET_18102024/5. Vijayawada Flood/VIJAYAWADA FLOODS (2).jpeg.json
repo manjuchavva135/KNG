@@ -1,0 +1,236 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "8538b96b98c00ef68bd8c14870746b809940ea6a": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d33c703283e5af349f0037be33f77adb6986050b": {
+   "entities": [
+    {
+     "name": "KUTAMI RULING",
+     "type": "Party",
+     "english_name": "Kutami Ruling"
+    },
+    {
+     "name": "కోన బాడు",
+     "type": "Place",
+     "english_name": "Konabadu"
+    },
+    {
+     "name": "వరద బాధితులు",
+     "type": "Person",
+     "english_name": "Flood victims"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "40d8d9c09fc332f3e8f6c34c345be029a70b28d5": {
+   "entities": [
+    {
+     "name": "బాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "టీడీపీ సర్కారు",
+     "type": "Organization",
+     "english_name": "TDP Government"
+    },
+    {
+     "name": "వరద సహాయక చర్యలు",
+     "type": "Issue",
+     "english_name": "Flood relief"
+    },
+    {
+     "name": "బుడమేరు",
+     "type": "Place",
+     "english_name": "Budameru"
+    },
+    {
+     "name": "కృష్ణా",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "ఎన్టీఆర్",
+     "type": "Place",
+     "english_name": "NTR district"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "విజయవాడ",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "సింగ్నగర్",
+     "type": "Place",
+     "english_name": "Singanagar"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "బాబు",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ సర్కారు",
+     "evidence": "చంద్రబాబు వరద లెక్కల్లో బయటపడిన దిమ్మతిరిగే అవినీతి"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3fd6f542b55693a1954fe93620f902a03e0a6b65": {
+   "entities": [
+    {
+     "name": "వరద ఖర్చుల వింతల్లో డ్రోన్ల ఖర్చు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వరద బాధితుల తరలింపు, చెత్త ఎత్తడం, పారిశుధ్యం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వరద బాధితులను ఆదుకోకపోగా వారి పేరుతో రూ.వందల కోట్లు దోచేయడం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వరద బాధితులు",
+     "type": "Person",
+     "english_name": "Flood victims"
+    },
+    {
+     "name": "వరద ఖర్చుల్లో ఒక్కో అంశంపైనా అవినీతి కేసులు పెట్టవచ్చు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వరద బాధితులను ఆదుకోవడానికి చం ద్రబాబు భారీగా విరాళాలు సేకరించారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వరద బాధితులకు రూ.602 కోట్ల నష్టపరిహారం ఇచ్చారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వరద బాధితులు ఎన్టీఆర్ జిల్లా కలెక్టరేట్ ఎదుట ఆందోళనలు చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వరద బాధితుల తరలింపు పైనా కాకి లెక్కలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "500 బోట్ల అద్దె",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "201 రవాణా వాహనాలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "1,500 మంది ఈతగాళ్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "6 హెలికాప్టర్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "412 డ్రోన్ల అద్దె",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రెస్క్యూ బృందాలకు భోజనం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇతర ఖర్చులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మొత్తం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "భోజనం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మంచినీళ్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "అగ్గిపెట్టెలు, కొవ్వొత్తులు, మొబైల్ జనరేటర్లు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చెత్త తొలగింపు ఖర్చులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వరద నీరు తోడివేత",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పారిశుధ్య సిబ్బంది ఖర్చులు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మృతదేహాలు, పశువుల కకేబరాల తొలగింపు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

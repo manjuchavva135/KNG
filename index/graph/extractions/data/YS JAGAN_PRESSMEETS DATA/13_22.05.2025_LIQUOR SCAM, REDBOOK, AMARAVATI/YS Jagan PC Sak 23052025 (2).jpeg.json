@@ -1,0 +1,117 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "93798bc1c8dd8447a255c57932c8d730b30e177e": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఉర్సా కంపెనీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విశాఖపట్నం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "లులూ సంస్థ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "సెకీ ఒప్పందం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు కేవలం ఈ 12 నెలల్లోనే రూ.1,37,546 కోట్ల అప్పు చేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉర్సా కంపెనీకి విశాఖపట్నంలో రూ.3 వేల కోట్ల విలువైన భూమి ఇస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "లులూ సంస్థకు మాల్ కట్టడానికి రూ.2 వేల కోట్ల విలువైన భూమి అప్పనంగా ఇస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మనం చేసుకున్న సెకీ ఒప్పందం మేరకు యూనిట్ విద్యుత్ ధర రూ.2.49.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు యాక్సెస్తో ఒప్పందం వల్ల ఇంతకంటే రూ.2.11 ఎక్కువగా చెల్లించాలి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఐకానిక్ టవర్ల కోసం 2018లో టెండర్లు పిల్చినప్పుడు అప్పుడు వాటి విలువ రూ.2,271.14 కోట్లు కాగా, ఇప్పుడు మిగిలిపోయిన పనుల విలువను ఏకంగా 105 శాతం పెంచి రూ.4,668.82 కోట్లకు తీసుకెళ్లారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "మా ప్రభుత్వం ఒప్పందం వల్ల, ప్రభుత్వానికి 7 వేల మెగావాట్లకు అంటే 17 మిలియన్ యూనిట్లకు ఏటా రూ.3,587 కోట్లు చొప్పున 25 ఏళ్లలో రూ.89,675 కోట్లు ఆదా అవుతుంది.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "చంద్రబాబు కేవలం ఈ 12 నెలల్లోనే రూ.1,37,546 కోట్ల అప్పు చేశారు.",
+     "evidence": "చంద్రబాబు కేవలం ఈ"
+    }
+   ]
+  }
+ }
+}

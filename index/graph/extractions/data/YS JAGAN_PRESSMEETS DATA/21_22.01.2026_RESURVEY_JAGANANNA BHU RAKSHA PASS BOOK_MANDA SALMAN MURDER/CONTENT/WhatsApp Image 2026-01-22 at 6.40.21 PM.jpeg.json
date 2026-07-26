@@ -1,0 +1,41 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "6732071856d6059c457f98c309b60aa292db3532": {
+   "entities": [
+    {
+     "name": "ఆంధ్రప్రదేశ్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "రెవెన్యూ శాఖ",
+     "type": "Organization",
+     "english_name": "Revenue Department"
+    },
+    {
+     "name": "భూమి యాజమాన్యపు హక్కు పత్రం మరియు పట్టాదారు పాసు పుస్తకము",
+     "type": "Scheme",
+     "english_name": "Land Ownership Title Deed and Pattadar Pass Book"
+    },
+    {
+     "name": "QR కోడ్",
+     "type": "Scheme",
+     "english_name": "QR Code"
+    },
+    {
+     "name": "Bhu-shodhak యాప్",
+     "type": "Organization",
+     "english_name": "Bhu-shodhak App"
+    },
+    {
+     "name": "Google Play స్టోర్",
+     "type": "Organization",
+     "english_name": "Google Play Store"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

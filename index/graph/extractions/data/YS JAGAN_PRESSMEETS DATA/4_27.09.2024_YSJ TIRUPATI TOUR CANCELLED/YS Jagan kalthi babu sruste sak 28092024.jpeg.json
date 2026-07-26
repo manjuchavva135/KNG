@@ -1,0 +1,149 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ef0375bbbcac53ae1e10fec5e4345f5b69652530": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fd75a8b6e650060887b2040ab11ff6dc2e1c207a": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "కల్తీ.. బాబు సృష్టి",
+     "type": "Claim",
+     "english_name": "Adulteration.. Babu's creation"
+    },
+    {
+     "name": "శ్రీవారి లడ్డూల తయారీలో కల్తీ నెయ్యిని అసలు వాడనేలేదని టీటీడీ",
+     "type": "Claim",
+     "english_name": "TTD says no adulterated ghee used in laddu preparation"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "బీజేపీ",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "పట్టు వస్త్రాలు",
+     "type": "Scheme",
+     "english_name": "Pattu Vastralu"
+    },
+    {
+     "name": "పాదయాత్ర",
+     "type": "Scheme",
+     "english_name": "Padayatra"
+    },
+    {
+     "name": "డిక్లరేషన్",
+     "type": "Scheme",
+     "english_name": "Declaration"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "నీచ రాజకీయం చేస్తూనే ఉన్నావ్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీటీడీ",
+     "evidence": "కల్తీ నెయ్యిని అసలు వాడనేలేదని టీటీడీ"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "కల్తీ.. బాబు సృష్టి",
+     "evidence": "కల్తీ.. బాబు సృష్టి"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పట్టు వస్త్రాలు",
+     "evidence": "శ్రీవారికి పట్టు వస్త్రాలు సమర్పించాం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "పాదయాత్ర",
+     "evidence": "నా పాదయాత్రకు ముందు, తరువాత కూడా స్వామివారిని దర్శించుకున్నా"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డిక్లరేషన్",
+     "evidence": "టాపిక్ డైవర్షన్ కోసం డిక్లరేషన్ అంటున్నావ్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్ జగన్",
+     "evidence": "నా పర్యటనకు అనుమతి లేదని నోటీసులిస్తావ్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బీజేపీ",
+     "evidence": "పక్క రాష్ట్రాల నుంచి బీజేపీ వాళ్లను రప్పిస్తావ్"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "మా పార్టీ నేతలకు అక్రమ నోటీసులు.. అరెస్టు చేస్తామని బెదిరిస్తావ్"
+    },
+    {
+     "source": "టీటీడీ",
+     "relation": "LOCATED_IN",
+     "target": "తిరుమల",
+     "evidence": "శ్రీవారి లడ్డూల తయారీలో కల్తీ నెయ్యిని అసలు వాడనేలేదని టీటీడీ"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "మా పార్టీ తరపున మీ ఊళ్లలో పూజలు చేయండి"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ",
+     "evidence": "వైఎస్సార్సీపీ అభిమానులే కాదు.. రాష్ట్ర శ్రేయస్సు కాంక్షించే ప్రతి ఒక్కరినీ కోరుతున్నా"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,293 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bc7e6f0025d4d3bc06186d931979a34df165573c": {
+   "entities": [
+    {
+     "name": "రాష్ట్రంలో గతంలో ఎన్నడూ చూడని రాక్షస రాజ్యం నడుస్తోంది",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌గారి తిరుమల తిరుపతి సందర్శనకు",
+     "type": "Scheme",
+     "english_name": "Y. S. J. Tirupati visit"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ",
+     "type": "Issue",
+     "english_name": "Tirupati laddu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "శ్రీ వైయస్‌ జగన్‌గారి తిరుమల తిరుపతి సందర్శనకు",
+     "evidence": "శ్రీ వైయస్‌ జగన్‌గారి తిరుమల తిరుపతి సందర్శనకు, సదరు కార్యక్రమానికి అనుమతి లేనందున"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eefdd4ccca951f54acce9ac2e2575dbd41f4af4f": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "వైయస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "తిరుపతి",
+     "type": "Place",
+     "english_name": "Tirupati"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "పాదయాత్ర",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "బ్రహ్మోత్సవాలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పట్టువస్త్రాలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్సీపీ",
+     "evidence": "వైయస్సార్సీపీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "58b3b571ee3aad6337a608fccc265260b2fc3dab": {
+   "entities": [
+    {
+     "name": "YSRCP President and former Chief Minister YS Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "YS Rajasekhara Reddy",
+     "type": "Person",
+     "english_name": "YS Rajasekhara Reddy"
+    },
+    {
+     "name": "CM Naidu",
+     "type": "Person",
+     "english_name": "CM Naidu"
+    },
+    {
+     "name": "Tirupati laddu",
+     "type": "Issue",
+     "english_name": "Tirupati laddu"
+    },
+    {
+     "name": "He",
+     "type": "Person",
+     "english_name": "He"
+    }
+   ],
+   "relations": [
+    {
+     "source": "He",
+     "relation": "ACCUSES",
+     "target": "CM Naidu",
+     "evidence": "He criticized CM Naidu for spreading lies about the purity of the Tirupati laddu and accused him of diverting attention from his government's failures over the last 100 days."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ce293fe79de21f7c7e8626e931c836b01bda5c69": {
+   "entities": [
+    {
+     "name": "పూజలు చేయండి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Tadepalli",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "CM Naidu",
+     "type": "Person",
+     "english_name": "CM Naidu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "MAKES_CLAIM",
+     "target": "పూజలు చేయండి.",
+     "evidence": "పూజలు చేయండి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును రిప్రిమాండ్‌ చేయకుండా, టీటీడీ పేరు ప్రఖ్యాతలు మంట కలిపిన ఈ వ్యక్తిని ఎలా ఉపేక్షిస్తున్నారు?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a68075a57634144d644c0351e83469892fe39e7f": {
+   "entities": [
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Naidu",
+     "type": "Person",
+     "english_name": "Naidu"
+    },
+    {
+     "name": "BJP",
+     "type": "Party",
+     "english_name": "BJP"
+    },
+    {
+     "name": "Lord Venkateswara",
+     "type": "Person",
+     "english_name": "Lord Venkateswara"
+    },
+    {
+     "name": "Tirupati laddu",
+     "type": "Issue",
+     "english_name": "Tirupati laddu"
+    },
+    {
+     "name": "Indian Constitution",
+     "type": "Organization",
+     "english_name": "Indian Constitution"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "Naidu",
+     "evidence": "Naidu’s actions have caused disrespect to the sanctity of the Tirupati laddu and the temple itself."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "BJP",
+     "evidence": "He stressed that Naidu must be held accountable for his actions, and political and religious leaders should unite in condemning Naidu's attempts to bring religion into politics for personal gain."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "MEMBER_OF",
+     "target": "YSRCP",
+     "evidence": "YS Jagan urged YSRCP supporters and the public to perform pujas in their towns"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

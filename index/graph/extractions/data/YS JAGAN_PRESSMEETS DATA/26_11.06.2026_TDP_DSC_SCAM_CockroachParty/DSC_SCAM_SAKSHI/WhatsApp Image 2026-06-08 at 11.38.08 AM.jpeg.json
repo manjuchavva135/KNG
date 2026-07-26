@@ -1,0 +1,36 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e8de6c65bb7eaf57b7e935b8279ac8fa6b0391ac": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "పాఠశాల విద్యాశాఖ",
+     "type": "Organization",
+     "english_name": "School Education Department"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "పరువు నష్టం నోటీసులు",
+     "type": "Claim",
+     "english_name": "Defamation notices"
+    },
+    {
+     "name": "క్రిమినల్ కేసులు",
+     "type": "Claim",
+     "english_name": "Criminal cases"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

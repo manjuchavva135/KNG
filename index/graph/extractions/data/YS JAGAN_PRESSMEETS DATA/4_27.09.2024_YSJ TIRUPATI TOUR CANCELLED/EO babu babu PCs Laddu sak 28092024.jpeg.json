@@ -1,0 +1,53 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "653f8a1f0d3ab8baed1536b3c6cc672158792ae3": {
+   "entities": [
+    {
+     "name": "ఈవో శ్యామలరావు",
+     "type": "Person",
+     "english_name": "EO Shyamalarao"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "టీటీడీ",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Issue",
+     "english_name": "Laddoo adulteration"
+    },
+    {
+     "name": "వనస్పతి",
+     "type": "Issue",
+     "english_name": "Vanaspati adulteration"
+    },
+    {
+     "name": "శ్రీ వేంకటేశ్వరస్వామి",
+     "type": "Place",
+     "english_name": "Sri Venkateswara Swamy"
+    },
+    {
+     "name": "ఆంధ్ర ప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "DEFENDS",
+     "target": "చంద్రబాబు",
+     "evidence": "నాలుగు ట్యాంకర్లు అప్పటికే వచ్చేశాయి. వాటిలోని నెయ్యిని వాడారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

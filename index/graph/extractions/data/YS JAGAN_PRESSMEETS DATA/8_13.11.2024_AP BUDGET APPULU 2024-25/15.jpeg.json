@@ -1,0 +1,102 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "698ae5a27547b938217a2ad6d2feae657a2c90b5": {
+   "entities": [
+    {
+     "name": "ట్రిపుల్ఐటీల భవనాలు",
+     "type": "Organization",
+     "english_name": "Triple IT Buildings"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "ఆర్టీయూకే టీ",
+     "type": "Organization",
+     "english_name": "RTU Tea"
+    },
+    {
+     "name": "గత ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "Past Government"
+    },
+    {
+     "name": "సీపీ బ్రౌన్ గ్రంథాలయం",
+     "type": "Organization",
+     "english_name": "CP Brown Library"
+    },
+    {
+     "name": "పాఠశాల విద్య",
+     "type": "Organization",
+     "english_name": "School Education"
+    },
+    {
+     "name": "ఉన్నత విద్య",
+     "type": "Organization",
+     "english_name": "Higher Education"
+    },
+    {
+     "name": "నైపుణ్యాభివృద్ధి, శిక్షణ శాఖ",
+     "type": "Organization",
+     "english_name": "Skill Development and Training Department"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1d5a261e97d4ced90e7a58be7b852efd36f58e59": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Kootami Government"
+    },
+    {
+     "name": "తల్లికి వందనం పథకం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam Scheme"
+    },
+    {
+     "name": "అమ్మఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi Scheme"
+    },
+    {
+     "name": "బీసీ, ఈడబ్ల్యూఎస్, మైనారిటీ, ఎస్టీ, ఎస్టీ సంక్షేమ శాఖలు",
+     "type": "Organization",
+     "english_name": "BC, EWS, Minority, ST, ST Welfare Departments"
+    },
+    {
+     "name": "రాజీవ్గాంధీ విజ్ఞాన, సాంకేతిక విశ్వవిద్యాలయం (ఆర్టీయూకేటీ)",
+     "type": "Organization",
+     "english_name": "Rajiv Gandhi University of Knowledge and Technology (RGUKT)"
+    },
+    {
+     "name": "ఒంగోలు",
+     "type": "Place",
+     "english_name": "Ongole"
+    },
+    {
+     "name": "శ్రీకాకుళం",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

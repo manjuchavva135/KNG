@@ -1,0 +1,41 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "52e9048db45958df0b1a24341f758e51606c03f7": {
+   "entities": [
+    {
+     "name": "బియ్యం కార్డు",
+     "type": "Scheme",
+     "english_name": "Rice Card"
+    },
+    {
+     "name": "ఎల్పిజి కనెక్షను",
+     "type": "Scheme",
+     "english_name": "LPG Connection"
+    },
+    {
+     "name": "ఆధార్",
+     "type": "Scheme",
+     "english_name": "Aadhaar"
+    },
+    {
+     "name": "వినియోగదారుల వ్యవహారాలు, ఆహార మరియు పౌరసరఫరాల శాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Minister of Consumer Affairs, Food and Civil Supplies"
+    },
+    {
+     "name": "వినియోగదారుల వ్యవహారాలు, ఆహార మరియు పౌరసరఫరాల (సి.ఎస్.II) శాఖ",
+     "type": "Organization",
+     "english_name": "Department of Consumer Affairs, Food and Civil Supplies (CS-II)"
+    },
+    {
+     "name": "యు.ఓ.నోటు.నెం.ఎఫ్సిఎస్01 – ఎస్టిఎమ్టి0ఎల్ఇక్యూ/17/2024 – సిఎస్ – II",
+     "type": "Organization",
+     "english_name": "U.O. Note No. FCS01 – STMTEQ/17/2024 – CS – II"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

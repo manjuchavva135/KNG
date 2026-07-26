@@ -1,0 +1,315 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "f858d3b764a4e6fdc1145bc8695907f7a6f62a82": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అబద్ధపు పత్రాలు",
+     "type": "Issue",
+     "english_name": "False Papers"
+    },
+    {
+     "name": "హామీల అమలుపై ప్రజల దృష్టిని మళ్లించేందుకు శ్వేతపత్రాల పేరుతో డ్రామా",
+     "type": "Issue",
+     "english_name": "White Papers Drama to Divert Public Attention from Promise Implementation"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Place",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "డయాప్రంవాల్",
+     "type": "Place",
+     "english_name": "Dyapranwal"
+    },
+    {
+     "name": "ల్యాండ్ టైట్లింగ్ యాక్ట్",
+     "type": "Scheme",
+     "english_name": "Land Titling Act"
+    },
+    {
+     "name": "ఉచిత ఇసుక",
+     "type": "Scheme",
+     "english_name": "Free Sand"
+    },
+    {
+     "name": "మద్యం అమ్మకాలు",
+     "type": "Scheme",
+     "english_name": "Liquor Sales"
+    },
+    {
+     "name": "గనుల ఆదాయం",
+     "type": "Scheme",
+     "english_name": "Mines Revenue"
+    },
+    {
+     "name": "రాష్ట్ర ఖజానా",
+     "type": "Organization",
+     "english_name": "State Treasury"
+    },
+    {
+     "name": "ఓటాన్ అకౌంట్ బడ్జెట్",
+     "type": "Scheme",
+     "english_name": "Vote-on-Account Budget"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్సీపీ అధ్యక్షుడు వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "పచ్చి అబద్ధాలు వల్లె వస్తూ చంద్రబాబు విడుదల చేసిన శ్వేత పత్రాలన్నీ తప్పుడు పత్రాలేనని స్పష్టం చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "40cf2eca79d41d0e94f9f84be4ce2ee536f19dab": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "880e0eee1e914287635d0317ff8b42c82d3236c8": {
+   "entities": [
+    {
+     "name": "ప్రజలు నిలదీస్తారనే భయంతో ప్రశ్నించే స్వరం",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం అణగదొక్కాలని చూస్తోందని",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నరమేధం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "నవరత్నాలు",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "ట్రూ అప్ కరెంటు ఛార్జీలు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఇసుక ఉచితం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వం అణగదొక్కాలని చూస్తోందని",
+     "evidence": "ప్రభుత్వం అణగదొక్కాలని చూస్తోందని మండిపడ్డారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవరత్నాలు",
+     "evidence": "మేము నవరత్నాలు ప్రకటించాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ",
+     "evidence": "మెగా డీఎస్సీ అన్నాడు.. నువ్వు రాకముందే 6,100"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "778c5c3d8660e6469e307175cba8571820626663": {
+   "entities": [
+    {
+     "name": "CM Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "YS Jagan",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "SECI",
+     "type": "Organization",
+     "english_name": "Solar Energy Corporation of India"
+    },
+    {
+     "name": "White Paper on Electricity",
+     "type": "Scheme",
+     "english_name": "White Paper on Electricity"
+    },
+    {
+     "name": "Judicial Preview Act",
+     "type": "Scheme",
+     "english_name": "Judicial Preview Act"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "CM Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "White Paper on Electricity",
+     "evidence": "విద్యుత్ రంగంపై శ్వేతపత్రం పేరుతో సీఎం చం ద్రబాబు చెప్పినవన్నీ పచ్చి అబద్ధాలని వైఎస్ జగన్ స్పష్టం చేశారు."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "ACCUSES",
+     "target": "CM Chandrababu",
+     "evidence": "విద్యుత్ విషయంలో గోల్డ్ మెడల్ ఇవ్వాల్సి వస్తే దేశంలో ముందు ఏపీనే కనిపిస్తుందని, ఇక్కడ ఆ రంగంలో అన్ని సంస్కరణలు జరిగాయన్నారు."
+    },
+    {
+     "source": "YS Jagan",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Judicial Preview Act",
+     "evidence": "ఆ మేరకు జ్యూడిషియల్ ప్రివ్యూ యాక్ట్.. చట్టం తీసుకువచ్చాం."
+    },
+    {
+     "source": "SECI",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "రాష్ట్రంలో వ్యవసాయానికి 30 ఏళ్ల పాటు ఉచిత విద్యుత్ సరఫరా చేసేలా 'సెకీ'తో ఒప్పందం కుదుర్చుకున్నామని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2efaf6a50109af9fab55ab56628067ef2ad9a0b9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బీసీ కమిషన్",
+     "type": "Organization",
+     "english_name": "BC Commission"
+    },
+    {
+     "name": "మెగా డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Mega DSC"
+    },
+    {
+     "name": "వలంటీర్లు",
+     "type": "Organization",
+     "english_name": "Volunteers"
+    },
+    {
+     "name": "బెల్టు షాపులు",
+     "type": "Organization",
+     "english_name": "Belt Shops"
+    },
+    {
+     "name": "రేషన్",
+     "type": "Scheme",
+     "english_name": "Ration"
+    },
+    {
+     "name": "ఫీజు రీయిం బర్స్మెంట్",
+     "type": "Scheme",
+     "english_name": "Fee Reimbursement"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "విద్యుత్ రంగం",
+     "type": "Issue",
+     "english_name": "Power sector"
+    },
+    {
+     "name": "గోల్డ్ మెడల్",
+     "type": "Claim",
+     "english_name": "Gold Medal"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ఫీజు రీయిం బర్స్మెంట్",
+     "evidence": "ఫీజు రీయిం బర్స్మెంట్ అంటూ కత్తిరింపులు ఉంటాయని చెప్పకనే చెబుతున్నారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రేషన్",
+     "evidence": "రేషన్ సప్లైని ఆపేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "విద్యుత్ రంగంపై శ్వేతపత్రం పేరుతో సీఎం చంద్రబాబు చెప్పినవన్నీ పచ్చి అబద్ధాలని వైఎస్ జగన్ స్పష్టం చేశారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గోల్డ్ మెడల్",
+     "evidence": "విద్యుత్ విషయంలో గోల్డ్ మెడల్ ఇవ్వాల్సి వస్తే దేశంలో ముందు ఏపీనే కనిపిస్తుందని, ఇక్కడ ఆ రంగంలో అన్ని సంస్కరణలు జరిగాయన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

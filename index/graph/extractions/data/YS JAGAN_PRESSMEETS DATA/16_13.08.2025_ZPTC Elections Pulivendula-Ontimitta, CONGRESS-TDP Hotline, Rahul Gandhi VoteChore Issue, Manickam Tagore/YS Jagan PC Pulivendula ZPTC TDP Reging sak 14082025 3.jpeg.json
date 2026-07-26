@@ -1,0 +1,174 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9617705e56a11c91cd420af7fba9162fa60e7446": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "జమ్మలమడుగు",
+     "type": "Place",
+     "english_name": "Jammalamadugu"
+    },
+    {
+     "name": "నల్లపురెడ్డిపల్లె",
+     "type": "Place",
+     "english_name": "Nallupureddipalle"
+    },
+    {
+     "name": "పులివెందుల",
+     "type": "Place",
+     "english_name": "Pulivendula"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చెరుకూరి శ్రీధర్",
+     "type": "Person",
+     "english_name": "Cherukuri Sridhar"
+    },
+    {
+     "name": "ప్రకాశం",
+     "type": "Person",
+     "english_name": "Prakasam"
+    },
+    {
+     "name": "ద్వారచర్ల జనార్ధనరెడ్డి",
+     "type": "Person",
+     "english_name": "Dwaracherla Janardhan Reddy"
+    },
+    {
+     "name": "పొన్నతోట మల్లికార్జున",
+     "type": "Person",
+     "english_name": "Ponnothota Mallikarjuna"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మారెడ్డి చిన్నపుల్లా రెడ్డి",
+     "type": "Person",
+     "english_name": "Mareddy Chinnapu Reddy"
+    },
+    {
+     "name": "నాగేశ్వరరెడ్డి",
+     "type": "Person",
+     "english_name": "Nageswara Reddy"
+    },
+    {
+     "name": "పాతకోట శివారెడ్డి",
+     "type": "Person",
+     "english_name": "Pathakota Sivareddy"
+    },
+    {
+     "name": "రామస్వామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Ramswamy Reddy"
+    },
+    {
+     "name": "కొత్తపల్లి రాజగోపాల్",
+     "type": "Person",
+     "english_name": "Kotthapalli Rajagopal"
+    },
+    {
+     "name": "బోయిన బాలుగ్రామ్",
+     "type": "Person",
+     "english_name": "Boyina Balu Gram"
+    },
+    {
+     "name": "మంత్రి కుళ్లాయప్ప",
+     "type": "Person",
+     "english_name": "Mantri Kullayappa"
+    },
+    {
+     "name": "గుజ్జల నారాయణ యాదవ్",
+     "type": "Person",
+     "english_name": "Gujjala Narayana Yadav"
+    },
+    {
+     "name": "ఎర్రపల్లి పోలీసింగ్ బూత్",
+     "type": "Place",
+     "english_name": "Errapalili Polishing Booth"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y.S. Jagan"
+    },
+    {
+     "name": "రీ పోలింగ్",
+     "type": "Issue",
+     "english_name": "Re-polling"
+    },
+    {
+     "name": "దొంగ ఓట్లు",
+     "type": "Issue",
+     "english_name": "Fake votes"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చెరుకూరి శ్రీధర్",
+     "evidence": "కలెక్టర్ చెరుకూరి శ్రీధర్ సమక్షంలోనే వారు దొంగ ఓట్లు వేశారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ కార్యకర్తలు దస్తగిరి, సందీప్కుమార్... దొంగ ఓట్లు వేశారు."
+    },
+    {
+     "source": "పొన్నతోట మల్లికార్జున",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "పొన్నతోట మల్లికార్జున టీడీపీ జిల్లా రైతు ప్రధాన కార్యదర్శి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "చంద్రబాబుతో దిగిన ఫొటో ప్రదర్శించారు"
+    },
+    {
+     "source": "మారెడ్డి చిన్నపుల్లా రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "కర్మలవారిపల్లె గ్రామం టీడీపీ సర్పంచ్ మారెడ్డి చిన్నపుల్లా రెడ్డి"
+    },
+    {
+     "source": "గుజ్జల నారాయణ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ నాయకుడు గుజ్జల నారాయణ యాదవ్"
+    },
+    {
+     "source": "నల్లపురెడ్డిపల్లె",
+     "relation": "LOCATED_IN",
+     "target": "జమ్మలమడుగు",
+     "evidence": "నల్లపురెడ్డిపల్లె పోలింగ్బూత్లో వారు దొంగ ఓట్లు వేశారు."
+    },
+    {
+     "source": "పులివెందుల",
+     "relation": "LOCATED_IN",
+     "target": "జమ్మలమడుగు",
+     "evidence": "పులివెందులలో ఓట్లు వేశారు."
+    }
+   ]
+  }
+ }
+}

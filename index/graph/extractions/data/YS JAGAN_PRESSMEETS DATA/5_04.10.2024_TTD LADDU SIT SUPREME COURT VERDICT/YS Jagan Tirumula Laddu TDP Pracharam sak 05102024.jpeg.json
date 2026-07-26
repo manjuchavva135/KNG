@@ -1,0 +1,124 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "65587c735e5b7858aaf8cfd240accbfc4b0535ee": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "బాబూ",
+     "type": "Person",
+     "english_name": "Baboo"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "శ్రీవారి లడ్డూ",
+     "type": "Place",
+     "english_name": "Srivari Laddu"
+    },
+    {
+     "name": "రాజకీయం",
+     "type": "Issue",
+     "english_name": "Politics"
+    },
+    {
+     "name": "సిట్",
+     "type": "Organization",
+     "english_name": "Sit"
+    },
+    {
+     "name": "సీబీఐ డైరెక్టర్",
+     "type": "Person",
+     "english_name": "CBI Director"
+    },
+    {
+     "name": "స్వతంత్ర దర్యాప్తు బృందం",
+     "type": "Organization",
+     "english_name": "Independent Investigation Team"
+    },
+    {
+     "name": "బాబూకు దేవుడంటే భయం, భక్తి.. రెండూ లేవు",
+     "type": "Claim",
+     "english_name": "Baboo has no fear or devotion for God"
+    },
+    {
+     "name": "తిరుమల శ్రీవారి పాదాల చెంత తప్పయిందని వేడుకోవాలి",
+     "type": "Claim",
+     "english_name": "Should beg forgiveness at Tirumala Srivari feet"
+    },
+    {
+     "name": "అసత్య ప్రచారాలు",
+     "type": "Claim",
+     "english_name": "False propaganda"
+    },
+    {
+     "name": "వంద రోజుల పాలన, హామీల అమలులో వైఫల్యం",
+     "type": "Claim",
+     "english_name": "Failure in hundred days of governance and promises"
+    },
+    {
+     "name": "గోబెల్స్ ప్రచారం",
+     "type": "Claim",
+     "english_name": "Goebbels propaganda"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "బాబూ",
+     "evidence": "బాబూకు దేవుడంటే భయం, భక్తి.. రెండూ లేవు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "బాబూ",
+     "evidence": "అసత్య ప్రచారాలు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "బాబూ",
+     "evidence": "వంద రోజుల పాలన, హామీల అమలులో వైఫల్యం.. వాటి నుంచి ప్రజల దృష్టి మళ్లించడానికి శ్రీవారితో ఆడుకుంటావా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "బాబూ",
+     "evidence": "గోబెల్స్ ప్రచారం చేస్తావా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "తిరుమల శ్రీవారి పాదాల చెంత తప్పయిందని వేడుకోవాలి",
+     "evidence": "ఇప్పటికైనా తిరుమల శ్రీవారి పాదాల చెంత తప్పయిందని వేడుకోవాలి"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "బాబూకు దేవుడంటే భయం, భక్తి.. రెండూ లేవు",
+     "evidence": "బాబూకు దేవుడంటే భయం, భక్తి.. రెండూ లేవు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "అసత్య ప్రచారాలు",
+     "evidence": "అసత్య ప్రచారాలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

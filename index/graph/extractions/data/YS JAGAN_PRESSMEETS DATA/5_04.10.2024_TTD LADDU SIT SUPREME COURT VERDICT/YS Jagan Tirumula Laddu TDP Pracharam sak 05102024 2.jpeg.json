@@ -1,0 +1,260 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "636979c0ec21ddfa57cb933b86fa35c952bbe4a8": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "TTD LADDU SIT SUPREME COURT VERDICT",
+     "type": "Issue",
+     "english_name": "TTD Laddu SIT Supreme Court Verdict"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఆయనకు వ్యక్తిత్వం ఉంటే ముందు ప్రజలను క్షమాపణ కోరాలి."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9c5392d41f9f2b8f62539561bb8b774920664283": {
+   "entities": [
+    {
+     "name": "ప్రస్తుత వ్యాజ్యాలు",
+     "type": "Issue",
+     "english_name": "Current Litigations"
+    },
+    {
+     "name": "Executive Officer of the Tirumala Tirupati Devasthanam Trust",
+     "type": "Organization",
+     "english_name": "Executive Officer of TTD"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "ఏపీ సీఎం",
+     "type": "Person",
+     "english_name": "AP CM"
+    },
+    {
+     "name": "FIR",
+     "type": "Organization",
+     "english_name": "FIR"
+    },
+    {
+     "name": "SIT",
+     "type": "Organization",
+     "english_name": "SIT"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e2b38c4c8fb27b51e70f73dda2d30c00bc839597": {
+   "entities": [
+    {
+     "name": "తిరుమల శ్రీవారి లడ్డూ తయారీలో కల్తీ నెయ్యి",
+     "type": "Issue",
+     "english_name": "TTD Laddu adulteration"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సిట్",
+     "type": "Organization",
+     "english_name": "SIT"
+    },
+    {
+     "name": "సీబీఐ",
+     "type": "Organization",
+     "english_name": "CBI"
+    },
+    {
+     "name": "రాష్ట్ర పోలీసు శాఖ",
+     "type": "Organization",
+     "english_name": "State Police Department"
+    },
+    {
+     "name": "ఎఫ్ఎస్ఎస్ఏఐ",
+     "type": "Organization",
+     "english_name": "FSSAI"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సుప్రీంకోర్టు",
+     "evidence": "సుప్రీంకోర్టులో శుక్రవారం, సెప్టెంబరు 30న జరిగిన పరిణామాలను గమనిస్తే సీఎం స్థాయిలో ఉన్న వ్యక్తి మత విశ్వాసాలను ఎలా కావాలని, రాజకీయ దుర్బుద్ధితో రెచ్చగొడుతున్నా నేది సుప్రీంకోర్టు అర్థం చేసుకుంది కాబట్టే ఘాటైన వ్యాఖ్యలు చేసిందన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "దేవుడంటే భయం, భక్తి ఉందే తక్షణమే ప్రజలకు క్షమాపణ చెప్పాలని చంద్రబా బును వైఎస్ జగన్ డిమాండ్ చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4eb16b541708c9a0ba076f8ad302a5649b98d5d9": {
+   "entities": [
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "EO",
+     "type": "Person",
+     "english_name": "EO"
+    },
+    {
+     "name": "CBI Director",
+     "type": "Person",
+     "english_name": "CBI Director"
+    },
+    {
+     "name": "CBI officials",
+     "type": "Person",
+     "english_name": "CBI officials"
+    },
+    {
+     "name": "State officials",
+     "type": "Person",
+     "english_name": "State officials"
+    },
+    {
+     "name": "FSSA I",
+     "type": "Organization",
+     "english_name": "Food Safety and Standards Authority of India"
+    },
+    {
+     "name": "TTD",
+     "type": "Organization",
+     "english_name": "TTD"
+    },
+    {
+     "name": "laddu",
+     "type": "Scheme",
+     "english_name": "laddu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "laddu",
+     "evidence": "చంద్రబాబు తాను స్వయంగా ఏర్పాటు చేసుకున్న సిట్ ను రద్దు చేస్తూ.. సీబీఐ డైరెక్టర్ పర్యవేక్ష"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "73fcf0b9b785c55c4099a708c496d609bf6ccb4c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "సుప్రీంకోర్టు",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "ప్రధాని",
+     "type": "Person",
+     "english_name": "Prime Minister"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "తిరుమల శ్రీ వెంకటేశ్వరస్వామి ఆలయం",
+     "type": "Place",
+     "english_name": "Tirumala Venkateswara Swamy Temple"
+    },
+    {
+     "name": "లడ్డూ",
+     "type": "Scheme",
+     "english_name": "Laddoo"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సుప్రీంకోర్టు",
+     "evidence": "చంద్రబాబు అన్న మాటలపై మేము ప్రధానికి లేఖ రాశాం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

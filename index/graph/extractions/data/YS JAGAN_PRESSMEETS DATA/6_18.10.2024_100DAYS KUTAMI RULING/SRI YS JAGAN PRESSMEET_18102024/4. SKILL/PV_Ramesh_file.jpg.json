@@ -1,0 +1,61 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "c2152b5e32f27bcf4c70e1c84f7b8427ce6fa66d": {
+   "entities": [
+    {
+     "name": "Dr.P.V.Ramesh",
+     "type": "Person",
+     "english_name": "Dr. P. V. Ramesh"
+    },
+    {
+     "name": "PFS",
+     "type": "Organization",
+     "english_name": "PFS"
+    },
+    {
+     "name": "G. Subba Rao",
+     "type": "Person",
+     "english_name": "G. Subba Rao"
+    },
+    {
+     "name": "SIEMENS",
+     "type": "Organization",
+     "english_name": "Siemens"
+    },
+    {
+     "name": "Skill development Dept Sec",
+     "type": "Organization",
+     "english_name": "Skill Development Department Secretary"
+    },
+    {
+     "name": "Mheendra Jacob",
+     "type": "Person",
+     "english_name": "Mheendra Jacob"
+    },
+    {
+     "name": "Finance Dept.",
+     "type": "Organization",
+     "english_name": "Finance Department"
+    },
+    {
+     "name": "A.P. Secretariat",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Secretariat"
+    },
+    {
+     "name": "Velagapudi",
+     "type": "Place",
+     "english_name": "Velagapudi"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

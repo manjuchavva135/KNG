@@ -1,0 +1,233 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "471e28d839a130d118c453b5084f8f231832fb5b": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "టీవీ 5",
+     "type": "Organization",
+     "english_name": "TV5"
+    },
+    {
+     "name": "గోబెల్స్ ప్రచారం",
+     "type": "Claim",
+     "english_name": "Goebbels propaganda"
+    },
+    {
+     "name": "మోడస్ ఆపరండా",
+     "type": "Claim",
+     "english_name": "Modus operandi"
+    },
+    {
+     "name": "ఇసుక మాఫియా",
+     "type": "Issue",
+     "english_name": "Sand mafia"
+    },
+    {
+     "name": "మద్యం మాఫియా",
+     "type": "Issue",
+     "english_name": "Liquor mafia"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి, టీవీ 5 మీడియా సామ్రాజ్యంతో కలిసి గోబెల్స్ ప్రచారం చేస్తారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి, టీవీ 5 మీడియా సామ్రాజ్యంతో కలిసి గోబెల్స్ ప్రచారం చేస్తారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "టీవీ 5",
+     "evidence": "ఈనాడు, ఆంధ్రజ్యోతి, టీవీ 5 మీడియా సామ్రాజ్యంతో కలిసి గోబెల్స్ ప్రచారం చేస్తారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "మోడస్ ఆపరండా",
+     "evidence": "చంద్రబాబు మోడస్ ఆపరండా గమనిస్తే ఎన్నికలప్పుడు ఒక అబద్ధానికి రెక్కలు కడతారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "79ff3990cf6d8acca1a5565f619ebf02fec6fd04": {
+   "entities": [
+    {
+     "name": "ముట్టజెప్పాల్సిందేనన్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఎమ్మెల్యే కింత",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ముఖ్యమంత్రి",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఎమ్మెల్యే కింత",
+     "relation": "MAKES_CLAIM",
+     "target": "ముట్టజెప్పాల్సిందేనన్నారు",
+     "evidence": "ముట్టజెప్పాల్సిందేనన్నారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ముట్టజెప్పాల్సిందేనన్నారు",
+     "evidence": "19/10/2024 | Andhra Pradesh (Andhra Pradesh Main ) | Page : 2"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5792125cf5efe96356d0a3d563aa8897b7c7f3f5": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్ సెవెన్",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": "DBT"
+    },
+    {
+     "name": "డీపీటీ",
+     "type": "Scheme",
+     "english_name": "DPT"
+    },
+    {
+     "name": "ఇసుక",
+     "type": "Issue",
+     "english_name": "Sand"
+    },
+    {
+     "name": "లిక్కర్",
+     "type": "Issue",
+     "english_name": "Liquor"
+    },
+    {
+     "name": "పేకాట క్లబ్లు",
+     "type": "Issue",
+     "english_name": "Gambling Clubs"
+    },
+    {
+     "name": "మాఫియా సామ్రాజ్యం",
+     "type": "Issue",
+     "english_name": "Mafia Empire"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "రాష్ట్రంలో మాఫియా సామ్రాజ్యాన్ని నడిపిస్తున్నా రని వైఎస్సార్సీపీ అధ్యక్షుడు, మాజీ సీఎం వైఎస్ జగన్మోహన్ రెడ్డి ధ్వజమెత్తారు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వ పాలనపై వైఎస్ జగన్ కన్నెర్ర"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": ""
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సెవెన్",
+     "evidence": ""
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీబీటీ",
+     "evidence": ""
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీపీటీ",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

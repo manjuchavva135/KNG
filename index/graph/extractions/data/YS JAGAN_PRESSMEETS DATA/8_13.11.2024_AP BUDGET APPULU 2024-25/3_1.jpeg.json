@@ -1,0 +1,58 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "aee90d2704459011e3161f1ebbf4a35bb689800c": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "వైకాపా",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వ ఉన్నతాధికారుల సమావేశం",
+     "type": "Organization",
+     "english_name": "Central Government Senior Officials Meeting"
+    },
+    {
+     "name": "ప్రధాని నరేంద్రమోదీ",
+     "type": "Person",
+     "english_name": "Prime Minister Narendra Modi"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "జగన్",
+     "evidence": "జగన్ వ్యక్తిగత ఆదాయం కోసమే ప్రజలపై భారం మోపుతున్నారు. ఇసుక, మద్యంలో దోపిడీ జరుగుతోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

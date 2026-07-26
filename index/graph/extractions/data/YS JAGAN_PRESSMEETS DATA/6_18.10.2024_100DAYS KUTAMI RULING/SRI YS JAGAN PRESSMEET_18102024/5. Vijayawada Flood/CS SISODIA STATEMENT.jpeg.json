@@ -1,0 +1,65 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "88097b73ad7737a34fb3b3da4db91d6f7fd9b869": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆర్పీ సిసోదియా",
+     "type": "Person",
+     "english_name": "RP Sisodia"
+    },
+    {
+     "name": "రెవెన్యూ (విపత్తుల నిర్వహణ) శాఖ ప్రత్యేక ప్రధాన కార్యదర్శి",
+     "type": "Organization",
+     "english_name": "Revenue (Disaster Management) Department Special Chief Secretary"
+    },
+    {
+     "name": "వరద సహాయ వ్యయం",
+     "type": "Issue",
+     "english_name": "Flood relief expenditure"
+    },
+    {
+     "name": "మొబైల్ జనరేటర్లు",
+     "type": "Scheme",
+     "english_name": "Mobile generators"
+    },
+    {
+     "name": "కొవ్వొత్తులు",
+     "type": "Scheme",
+     "english_name": "Candles"
+    },
+    {
+     "name": "అగ్గిపెట్టెలు",
+     "type": "Scheme",
+     "english_name": "Matchboxes"
+    }
+   ],
+   "relations": [
+    {
+     "source": "ఆర్పీ సిసోదియా",
+     "relation": "DEFENDS",
+     "target": "మొబైల్ జనరేటర్లు",
+     "evidence": "మొబైల్ జనరేటర్లకే ఎక్కువ ఖర్చు చేశామని"
+    },
+    {
+     "source": "ఆర్పీ సిసోదియా",
+     "relation": "DEFENDS",
+     "target": "కొవ్వొత్తులు",
+     "evidence": "కొవ్వొత్తులు, అగ్గిపెట్టెలు కూడా పంపిణీ చేశామని"
+    },
+    {
+     "source": "ఆర్పీ సిసోదియా",
+     "relation": "DEFENDS",
+     "target": "అగ్గిపెట్టెలు",
+     "evidence": "అగ్గిపెట్టెలు, కొవ్వొత్తులకు రూ. 23 కోట్లు ఖర్చు చేశారంటూ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

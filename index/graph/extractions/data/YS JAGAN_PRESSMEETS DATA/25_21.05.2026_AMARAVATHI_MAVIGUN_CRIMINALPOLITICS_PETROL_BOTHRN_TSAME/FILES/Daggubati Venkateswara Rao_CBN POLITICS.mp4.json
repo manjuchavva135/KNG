@@ -1,0 +1,31 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5da2827d6964806b4ee9297ce113bfc0539b72ed": {
+   "entities": [
+    {
+     "name": "రామ రావు గారు",
+     "type": "Person",
+     "english_name": "Rama Rao"
+    },
+    {
+     "name": "శరణ్ బాబు",
+     "type": "Person",
+     "english_name": "Sharann Babu"
+    },
+    {
+     "name": "ముషీర్ రావు",
+     "type": "Person",
+     "english_name": "Mushir Rao"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

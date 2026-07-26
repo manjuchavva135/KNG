@@ -1,0 +1,375 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "5ce9372b5f7c18a1538454cb9738750e58c7937a": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ప్రశ్నిస్తే.. కేసులు, అక్రమ నిర్బంధాలా?",
+     "type": "Claim",
+     "english_name": "Claim: Questioning leads to cases and illegal detention"
+    },
+    {
+     "name": "వరదల నియంత్రణ, సహాయ చర్యలు",
+     "type": "Issue",
+     "english_name": "Flood control and relief measures"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వాన్ని",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "1.50 కోట్ల మందికి ఆహారం",
+     "type": "Claim",
+     "english_name": "Claim: Food for 1.5 crore people"
+    },
+    {
+     "name": "కొవ్వొత్తులు, అగ్గిపెట్టెలు, మొబైల్ జనరేటర్లు",
+     "type": "Claim",
+     "english_name": "Claim: Candles, matchboxes, mobile generators"
+    },
+    {
+     "name": "మహిళలు, బాలికలు, చిన్నా రులపై లైంగిక వేధింపులు, దాడులు, హత్యలు, అత్యాచారాలు",
+     "type": "Issue",
+     "english_name": "Sexual harassment, attacks, murders, rapes on women, girls, children"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు, వారి మనుషులు రౌడీల్లా దౌర్జన్యం",
+     "type": "Issue",
+     "english_name": "MLA and henchmen hooliganism"
+    },
+    {
+     "name": "జె.సుదర్శన్ రెడ్డి (సీనియర్ న్యాయవాది)",
+     "type": "Person",
+     "english_name": "J. Sudarshan Reddy (Senior Advocate)"
+    },
+    {
+     "name": "కొమ్మూరి కనకారావు (మాదిగ కార్పొరేషన్)",
+     "type": "Person",
+     "english_name": "Kommuuri Kanakarao (former chairman, Madiga Corporation)"
+    },
+    {
+     "name": "దొడ్డా అంజిరెడ్డి (రాష్ట్ర సోషల్ మీడియా వింగ్ ఆర్గనైజింగ్ ప్రెసిడెంట్)",
+     "type": "Person",
+     "english_name": "Dodda Anji Reddy (State Social Media Wing Organizing President)"
+    },
+    {
+     "name": "ఇసుక ఉచితంగా ఇస్తామన్నారు",
+     "type": "Claim",
+     "english_name": "Claim: Free sand promised"
+    },
+    {
+     "name": "మద్యంపై ఒక్క పైసా కూడా తగ్గించకుండా",
+     "type": "Claim",
+     "english_name": "Claim: No reduction in liquor rates"
+    },
+    {
+     "name": "ప్రభుత్వ ఆధ్వర్యంలో నడిచే మద్యం షాపులు",
+     "type": "Organization",
+     "english_name": "Government-run liquor shops"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "విద్య వద్దు.. మద్యం ముద్దు",
+     "type": "Claim",
+     "english_name": "Claim: Education not needed, liquor is fine"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "ed98f0dbe16f62f1146a556b0e43d48d764b6b31": {
+   "entities": [
+    {
+     "name": "కార్యకర్త",
+     "type": "Person",
+     "english_name": "Social media activist"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జనసేన నాయకులు",
+     "type": "Party",
+     "english_name": "Janasena leaders"
+    },
+    {
+     "name": "టీడీపీ నేతలు",
+     "type": "Party",
+     "english_name": "TDP leaders"
+    },
+    {
+     "name": "బోడి వెంకటేష్",
+     "type": "Person",
+     "english_name": "Bodi Venkatesh"
+    },
+    {
+     "name": "దువ్వాడ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Duvva police"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ",
+     "type": "Issue",
+     "english_name": "Tirupati laddu"
+    },
+    {
+     "name": "అమ్మ ఒడి",
+     "type": "Scheme",
+     "english_name": "Amma Odi"
+    },
+    {
+     "name": "విద్యాదీవెన",
+     "type": "Scheme",
+     "english_name": "Vidya Deevena"
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": "Vasathi Deevena"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బోడి వెంకటేష్",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "బోడి వెంకటేష్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దువ్వాడ పోలీసులు",
+     "evidence": "చంద్రబాబునాయుడు, డిప్యూటీ సీఎం విజయవాడ వరదల్లో రూ.534 కోట్లు ప్రజాధనం లూటీ చేశారు!"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బోడి వెంకటేష్",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "బోడి వెంకటేష్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దువ్వాడ పోలీసులు",
+     "evidence": "చంద్రబాబునాయుడు, డిప్యూటీ సీఎం విజయవాడ వరదల్లో రూ.534 కోట్లు ప్రజాధనం లూటీ చేశారు!"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బోడి వెంకటేష్",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "బోడి వెంకటేష్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దువ్వాడ పోలీసులు",
+     "evidence": "చంద్రబాబునాయుడు, డిప్యూటీ సీఎం విజయవాడ వరదల్లో రూ.534 కోట్లు ప్రజాధనం లూటీ చేశారు!"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బోడి వెంకటేష్",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "బోడి వెంకటేష్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "దువ్వాడ పోలీసులు",
+     "evidence": "చంద్రబాబునాయుడు, డిప్యూటీ సీఎం విజయవాడ వరదల్లో రూ.534 కోట్లు ప్రజాధనం లూటీ చేశారు!"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "85b3d5ba514fc52286c5c75bf47474fdae260af4": {
+   "entities": [
+    {
+     "name": "గంపలగూడెం",
+     "type": "Place",
+     "english_name": "Gampalagudem"
+    },
+    {
+     "name": "పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Police Station"
+    },
+    {
+     "name": "వైఎస్సార్ సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సుధాకర్",
+     "type": "Person",
+     "english_name": "Sudhakar"
+    },
+    {
+     "name": "ఎక్స్",
+     "type": "Organization",
+     "english_name": "X"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "c931e48681e7a5097d8c471398e40c40d8a8a1dd": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "డిప్యూటీ సీఎం విజయవాడ వరదల్లో రూ.534 కోట్లు ప్రజాధనం లూటీ చేశారు!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సోషల్ మీడియా",
+     "type": "Organization",
+     "english_name": "Social Media"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ విషయంలో చంద్రబాబు చేసిన అసత్య ఆరోపణలు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గాజువాకకు చెందిన సోషల్ మీడియా యాక్టివిస్ట్ బోడి వెంకటేష్",
+     "type": "Person",
+     "english_name": "Bodi Venkathesh"
+    },
+    {
+     "name": "దువ్వాడ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Duvvada Police"
+    },
+    {
+     "name": "తెనాలి నియోజకవర్గం కొల్లిపర మండలం వల్లభాపురానికి చెందిన సోషల్ మీడియా కార్యకర్త, రైతు ఆళ్ల జగదీష్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Allu Jagadish Reddy"
+    },
+    {
+     "name": "విజయవాడ క్రైమ్ సిటీ పోలీసులు",
+     "type": "Organization",
+     "english_name": "Vijayawada Crime City Police"
+    },
+    {
+     "name": "చిలకలూరిపేటకు చెందిన పెద్దింటి సుధారాణి",
+     "type": "Person",
+     "english_name": "Peddinti Sudharani"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "చిలకలూరిపేట పోలీస్ స్టేషన్",
+     "type": "Organization",
+     "english_name": "Chilakaluripet Police Station"
+    },
+    {
+     "name": "ఒంగోలు పోలీసులు",
+     "type": "Organization",
+     "english_name": "Ongole Police"
+    },
+    {
+     "name": "తాడేపల్లిలో అయ్యప్పమాల ధరించిన నాని అనే సోషల్ యాక్టివిస్ట్",
+     "type": "Person",
+     "english_name": "Nani"
+    },
+    {
+     "name": "వినుకొండ",
+     "type": "Place",
+     "english_name": "Vinukonda"
+    },
+    {
+     "name": "మార్కాపురం",
+     "type": "Place",
+     "english_name": "Markapuram"
+    },
+    {
+     "name": "నందిగామ నియోజకవర్గం పెండ్యాలలో వాట్సప్ గ్రూప్ అడ్మిన్ను అరెస్ట్ చేసి కొట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గుంటూరు జిల్లా మాచర్లకు చెందిన వెంకట్రామిరెడ్డి",
+     "type": "Person",
+     "english_name": "Venkatarami Reddy"
+    },
+    {
+     "name": "మాచర్లలో",
+     "type": "Place",
+     "english_name": "Macharla"
+    },
+    {
+     "name": "హైదరాబాద్",
+     "type": "Place",
+     "english_name": "Hyderabad"
+    },
+    {
+     "name": "ఎన్టీఆర్ జిల్లా గంపలగూడెంకు చెందిన సన్నీ అనే కార్యకర్త",
+     "type": "Person",
+     "english_name": "Sunny"
+    },
+    {
+     "name": "తిరువూరు పోలీసులు",
+     "type": "Organization",
+     "english_name": "Tiruvuru Police"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "డిప్యూటీ సీఎం విజయవాడ వరదల్లో రూ.534 కోట్లు ప్రజాధనం లూటీ చేశారు!",
+     "evidence": "డిప్యూటీ సీఎం విజయవాడ వరదల్లో రూ.534 కోట్లు ప్రజాధనం లూటీ చేశారు!"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "తిరుపతి లడ్డూ విషయంలో చంద్రబాబు చేసిన అసత్య ఆరోపణలు",
+     "evidence": "తిరుపతి లడ్డూ విషయంలో చంద్రబాబు చేసిన అసత్య ఆరోపణలు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

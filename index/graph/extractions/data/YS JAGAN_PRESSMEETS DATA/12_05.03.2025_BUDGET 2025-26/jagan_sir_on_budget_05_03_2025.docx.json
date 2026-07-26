@@ -2263,6 +2263,355 @@
      "evidence": "ఆ 1.80 కోట్ల మందికి ఏటా రూ.18 వేల చొప్పున ఇవ్వాలంటే రూ.32,400 కోట్లు కావాలి."
     }
    ]
+  },
+  "bc9d13b83412af8efc05f0c9a0e0a795e0a8e66f": {
+   "entities": [
+    {
+     "name": "జగన్‌",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "రైతు భరోసా",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "పీఎం కిసాన్‌",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "అన్నదాత సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "దీపం",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "పెట్రోలియం అండ్‌ నేచురల్‌ గ్యాస్‌",
+     "type": "Organization",
+     "english_name": "Ministry of Petroleum and Natural Gas"
+    },
+    {
+     "name": "పెట్రోలియం ప్లానింగ్‌ అండ్‌ అనాలసిస్‌ సెల్",
+     "type": "Organization",
+     "english_name": "Petroleum Planning and Analysis Cell"
+    },
+    {
+     "name": "50 ఏళ్లకే పెన్షన్‌",
+     "type": "Scheme",
+     "english_name": "Pension at 50"
+    },
+    {
+     "name": "సూపర్‌సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adabidda Nidhi"
+    },
+    {
+     "name": "తల్లికి వందనానికి",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "ఫ్రీ బస్‌",
+     "type": "Scheme",
+     "english_name": "Free Bus"
+    },
+    {
+     "name": "బడ్జెట్",
+     "type": "Issue",
+     "english_name": "Budget"
+    },
+    {
+     "name": "రైతుల రుణాలు రూ.87,612 కోట్లు మాఫీ చేస్తానని 2014 ఎన్నికల్లో హామీ ఇచ్చాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "50 ఏళ్లకే పెన్షన్‌ అన్నాడు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "సూపర్‌సిక్స్‌ అమలుకు మొత్తం రూ.79,867 కోట్లు కావాలి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "దీపం. గ్యాస్‌ సిలిండర్‌ లేదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రైతు భరోసా",
+     "evidence": "జగన్‌ రైతు భరోసా కింద పీఎం కిసాన్‌ తో కలుపుకుని ఇస్తున్నాడు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అన్నదాత సుఖీభవ",
+     "evidence": "పీఎం కిసాన్‌ కాకుండా అన్నదాత సుఖీభవ ఇస్తా అన్నాడు."
+    },
+    {
+     "source": "జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మోసం చేసేదే కదా అన్నట్లు తయారైంది చంద్రబాబు పరిస్థితి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతుల రుణాలు రూ.87,612 కోట్లు మాఫీ చేస్తానని 2014 ఎన్నికల్లో హామీ ఇచ్చాడు",
+     "evidence": "రైతుల రుణాలు రూ.87,612 కోట్లు మాఫీ చేస్తానని 2014 ఎన్నికల్లో హామీ ఇచ్చి, చివరకు వడ్డీకి కూడా సరిపోని విధంగా ఆ 5 ఏళ్లలో కేవలం రూ.15 వేల కోట్లు మాత్రమే ఇచ్చి చేతులు దులుపుకున్న పరిస్థితుల మధ్య చంద్రబాబు ఎలా ఓడిపోయాడో మనమంతా చూశాం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "50 ఏళ్లకే పెన్షన్‌ అన్నాడు",
+     "evidence": "50 ఏళ్లకే పెన్షన్‌ అన్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "సూపర్‌సిక్స్‌ అమలుకు మొత్తం రూ.79,867 కోట్లు కావాలి",
+     "evidence": "అసలు సూపర్‌సిక్స్‌ అమలుకు మొత్తం రూ.79,867 కోట్లు కావాలి."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "దీపం. గ్యాస్‌ సిలిండర్‌ లేదు",
+     "evidence": "దీపం. గ్యాస్‌ సిలిండర్‌ లేదు:"
+    }
+   ]
+  },
+  "abf48b1cac3867abcec7439a231982965da3daae": {
+   "entities": [
+    {
+     "name": "ఫైనాన్స్‌ మినిస్టర్‌",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "డిస్కమ్స్‌",
+     "type": "Organization",
+     "english_name": "Discoms"
+    },
+    {
+     "name": "చిత్తూరు",
+     "type": "Place",
+     "english_name": "Chittoor"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్లు",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "గవర్నర్‌",
+     "type": "Person",
+     "english_name": "Governor"
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "బకాయిలు",
+     "type": "Issue",
+     "english_name": "Pending Bills"
+    },
+    {
+     "name": "అప్పులు",
+     "type": "Issue",
+     "english_name": "Debt"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్‌సీపీ",
+     "evidence": "సూపర్‌ సిక్స్, సూపర్‌ సెవెన్ల పేరుతో ఎందుకు ప్రజలను మోసం చేస్తున్నావయ్యా"
+    },
+    {
+     "source": "వైఎస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్",
+     "evidence": "సూపర్‌ సిక్స్, సూపర్‌ సెవెన్ల పేరుతో ఎందుకు ప్రజలను మోసం చేస్తున్నావయ్యా"
+    },
+    {
+     "source": "వైఎస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్లు",
+     "evidence": "సూపర్‌ సిక్స్, సూపర్‌ సెవెన్ల పేరుతో ఎందుకు ప్రజలను మోసం చేస్తున్నావయ్యా"
+    }
+   ]
+  },
+  "c4a94e6f9b1c8bf4535a107407a68e3b52312517": {
+   "entities": [
+    {
+     "name": "ఎడ్‌ఎక్స్‌",
+     "type": "Organization",
+     "english_name": "EdX"
+    },
+    {
+     "name": "విద్యాదీవెన పథకం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్ 2025-26",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "ఫీజు పోరు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యావ్యవస్థ విధ్వంసం",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యాదీవెన కింద ఏడాదికి రూ. 2,800 కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన కింద ప్రతి ఏప్రిల్‌లో రూ.1100 కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "గతేడాది రూ. 700 కోట్లు కూడా ఇవ్వలేదు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బాకీ పెట్టింది రూ.3200 కోట్లు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఈ ఏడాది మరో రూ. 3900 కోట్లు కావాలి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "బడ్జెట్‌లో ప్రవేశపెట్టింది కేవలం రూ.2,600.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పిల్లలను వారి చదువులకు దూరం చేసే కుట్ర.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఆన్‌లైన్‌ కోసం ఎడెక్స్‌ చేసుకున్న ఒప్పందం గాలికి ఎగిరిపోయింది.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "విద్యాదీవెన ఇవ్వక ఇంజినీరింగ్‌ కాలేజీలు సైతం మూసేసే పరిస్థితులొచ్చాయి.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "వసతి దీవెన పూర్తిగా గాలికి వదిలేశారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "గతేడాది రూ. 700 కోట్లు కూడా ఇవ్వలేదు.",
+     "evidence": "చంద్రబాబు గతేడాది రూ. 700 కోట్లు కూడా ఇవ్వలేదు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "బాకీ పెట్టింది రూ.3200 కోట్లు.",
+     "evidence": "గతేడాది రూ. 700 కోట్లు కూడా ఇవ్వలేదు."
+    },
+    {
+     "source": "విద్యాదీవెన పథకం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్యావ్యవస్థ విధ్వంసం",
+     "evidence": "విద్యాదీవెన పథకాన్ని కూడా భ్రష్టుపట్టించిన పరిస్థితులు కనిపిస్తున్నాయి."
+    },
+    {
+     "source": "వసతి దీవెన",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్యావ్యవస్థ విధ్వంసం",
+     "evidence": "వసతి దీవెన పూర్తిగా గాలికి వదిలేశారు."
+    },
+    {
+     "source": "ఆన్‌లైన్‌ కోసం ఎడెక్స్‌ చేసుకున్న ఒప్పందం గాలికి ఎగిరిపోయింది.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్యావ్యవస్థ విధ్వంసం",
+     "evidence": "ఆన్‌లైన్‌ కోసం ఎడెక్స్‌ చేసుకున్న ఒప్పందం గాలికి ఎగిరిపోయింది."
+    },
+    {
+     "source": "విద్యాదీవెన ఇవ్వక ఇంజినీరింగ్‌ కాలేజీలు సైతం మూసేసే పరిస్థితులొచ్చాయి.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "విద్యావ్యవస్థ విధ్వంసం",
+     "evidence": "విద్యాదీవెన ఇవ్వక ఇంజినీరింగ్‌ కాలేజీలు సైతం మూసేసే పరిస్థితులొచ్చాయి."
+    }
+   ]
   }
  }
 }

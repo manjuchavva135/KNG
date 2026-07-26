@@ -1,0 +1,223 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "96c4466a71004bdfc5e44cf54be78d4f3efa371d": {
+   "entities": [
+    {
+     "name": "పయ్యావుల కేశవ్",
+     "type": "Person",
+     "english_name": "Piyavula Keshav"
+    },
+    {
+     "name": "ఆర్థిక మంత్రి",
+     "type": "Person",
+     "english_name": "Finance Minister"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "బీసీ, ఎస్సీ, ఎస్టీ కార్పొరేషన్లు",
+     "type": "Organization",
+     "english_name": "BC, SC, ST Corporations"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "ప్రపంచ బ్యాంకు",
+     "type": "Organization",
+     "english_name": "World Bank"
+    },
+    {
+     "name": "ఆసియా అభివృద్ధి బ్యాంకు",
+     "type": "Organization",
+     "english_name": "Asian Development Bank"
+    },
+    {
+     "name": "పోలవరం ప్రాజెక్టు",
+     "type": "Organization",
+     "english_name": "Polavaram Project"
+    },
+    {
+     "name": "ద్వాక్రా సున్నా వడ్డీ పథకం",
+     "type": "Scheme",
+     "english_name": "DWCRA Zero Interest Scheme"
+    }
+   ],
+   "relations": [
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "పయ్యావుల కేశవ్ తన తొలి పద్దులోనే సూపర్ సిక్స్ బాదారు."
+    },
+    {
+     "source": "పయ్యావుల కేశవ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ద్వాక్రా సున్నా వడ్డీ పథకం",
+     "evidence": "ద్వాక్రా సున్నా వడ్డీ పథకానికి ₹ 1,250 కోట్లు"
+    },
+    {
+     "source": "ఆర్థిక మంత్రి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్ సిక్స్",
+     "evidence": "ఆర్థిక మంత్రి పయ్యావుల కేశవ్ తన తొలి పద్దులోనే సూపర్ సిక్స్ బాదారు."
+    },
+    {
+     "source": "ఆర్థిక మంత్రి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "ద్వాక్రా సున్నా వడ్డీ పథకం",
+     "evidence": "ద్వాక్రా సున్నా వడ్డీ పథకానికి ₹ 1,250 కోట్లు"
+    },
+    {
+     "source": "ప్రపంచ బ్యాంకు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ప్రపంచ బ్యాంకు, ఆసియా అభివృద్ధి బ్యాంకుల సాయానికి పచ్చ జెండా ఊపిన ప్రభుత్వం రాజధాని పనులు పరుగులు తీసేందుకు బడ్జెట్లో ఇతోధికంగా నిధులిచ్చింది."
+    },
+    {
+     "source": "ఆసియా అభివృద్ధి బ్యాంకు",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "ప్రపంచ బ్యాంకు, ఆసియా అభివృద్ధి బ్యాంకుల సాయానికి పచ్చ జెండా ఊపిన ప్రభుత్వం రాజధాని పనులు పరుగులు తీసేందుకు బడ్జెట్లో ఇతోధికంగా నిధులిచ్చింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "47575db9a23cfa1ab21518b4223db70a96a2cb2f": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పవన్కల్యాణ్",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "మంత్రి పయ్యావుల కేశవ్",
+     "type": "Person",
+     "english_name": "Minister P. Keshav"
+    },
+    {
+     "name": "ఆర్థిక శాఖ ముఖ్య కార్యదర్శి పీయూష్కుమార్",
+     "type": "Person",
+     "english_name": "Piyush Kumar"
+    },
+    {
+     "name": "బీసీ సంక్షేమానికి రాష్ట్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "State Government for BC Welfare"
+    },
+    {
+     "name": "బీసీ కార్పొరేషన్లు",
+     "type": "Organization",
+     "english_name": "BC Corporations"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "రాజధాని",
+     "type": "Place",
+     "english_name": "Capital"
+    },
+    {
+     "name": "పోలవరం",
+     "type": "Place",
+     "english_name": "Polavaram"
+    },
+    {
+     "name": "వైకాపా ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "ఎన్టీయే 2.0 సర్కార్",
+     "type": "Party",
+     "english_name": "NDA 2.0 Government"
+    },
+    {
+     "name": "2024-25 బడ్జెట్",
+     "type": "Scheme",
+     "english_name": "2024-25 Budget"
+    },
+    {
+     "name": "తల్లికి వందనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "ఆడబిడ్డ నిధి",
+     "type": "Scheme",
+     "english_name": "Adbidda Nidhi"
+    },
+    {
+     "name": "అన్నదాతా సుఖీభవ",
+     "type": "Scheme",
+     "english_name": "Annadata Sukhibhava"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MEMBER_OF",
+     "target": "ఎన్టీయే 2.0 సర్కార్",
+     "evidence": "చంద్రబాబు"
+    },
+    {
+     "source": "పవన్కల్యాణ్",
+     "relation": "MEMBER_OF",
+     "target": "ఎన్టీయే 2.0 సర్కార్",
+     "evidence": "పవన్కల్యాణ్"
+    },
+    {
+     "source": "మంత్రి పయ్యావుల కేశవ్",
+     "relation": "MEMBER_OF",
+     "target": "ఎన్టీయే 2.0 సర్కార్",
+     "evidence": "మంత్రి పయ్యావుల కేశవ్"
+    },
+    {
+     "source": "ఆర్థిక శాఖ ముఖ్య కార్యదర్శి పీయూష్కుమార్",
+     "relation": "MEMBER_OF",
+     "target": "ఎన్టీయే 2.0 సర్కార్",
+     "evidence": "ఆర్థిక శాఖ ముఖ్య కార్యదర్శి పీయూష్కుమార్"
+    },
+    {
+     "source": "మంత్రి పయ్యావుల కేశవ్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "2024-25 బడ్జెట్",
+     "evidence": "2024-25 ఆర్ధిక సంవత్సరం పూర్తి స్థాయి బడ్జెట్"
+    },
+    {
+     "source": "ఆంధ్రప్రదేశ్",
+     "relation": "LOCATED_IN",
+     "target": "రాజధాని",
+     "evidence": "రాజధానికి నిధులిచ్చింది"
+    },
+    {
+     "source": "ఆంధ్రప్రదేశ్",
+     "relation": "LOCATED_IN",
+     "target": "పోలవరం",
+     "evidence": "పోలవరానికి వరాలు"
+    },
+    {
+     "source": "బీసీ కార్పొరేషన్లు",
+     "relation": "LOCATED_IN",
+     "target": "ఆంధ్రప్రదేశ్",
+     "evidence": "బీసీ కార్పొరేషన్లను బలోపేతం చేస్తూ"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b8cc8a7397c052bf41d2be8c28c35a49022bcc7e": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "వినుకొండ",
+     "type": "Place",
+     "english_name": "Vinukonda"
+    },
+    {
+     "name": "మదనపల్లె ఆర్డీవో కార్యాలయం",
+     "type": "Place",
+     "english_name": "Madanapalle RDO office"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "ఇసుక టెండర్లు",
+     "type": "Scheme",
+     "english_name": "Sand tenders"
+    },
+    {
+     "name": "కుంభకోణం",
+     "type": "Issue",
+     "english_name": "Scam"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు హయాంలో ఈ ఆదాయం అంతా ఎవరి జేబుల్లోకి వెళ్లింది? ఎవరెవరు ఎంత పంచుకున్నారు?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఇప్పుడు ఇసుక ఉచితంగా ఇస్తామని చెప్పి, మా ప్రభుత్వం కంటే ఎక్కువ ధరకు అమ్ముతున్నారు. 40 లక్షల టన్నుల ఇసుకను దోచేశారు. ఇది కుంభకోణం కాదా?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు డైవర్షన్ రాజకీయాలకు పాల్పడ్డారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

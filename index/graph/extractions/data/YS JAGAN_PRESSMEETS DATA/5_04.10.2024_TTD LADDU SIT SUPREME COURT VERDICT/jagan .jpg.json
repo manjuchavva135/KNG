@@ -1,0 +1,56 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "69cef760b9079562770dfad22d1ebeb97d093c92": {
+   "entities": [
+    {
+     "name": "Telugu Desam Party",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "JaiTDP",
+     "type": "Organization",
+     "english_name": "JaiTDP"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "Jagan Reddy",
+     "type": "Person",
+     "english_name": "Jagan Reddy"
+    },
+    {
+     "name": "Dharmareddy",
+     "type": "Person",
+     "english_name": "Dharmareddy"
+    },
+    {
+     "name": "Subbareddy",
+     "type": "Person",
+     "english_name": "Subbareddy"
+    },
+    {
+     "name": "Karunakar Reddy",
+     "type": "Person",
+     "english_name": "Karunakar Reddy"
+    },
+    {
+     "name": "Tirumala",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

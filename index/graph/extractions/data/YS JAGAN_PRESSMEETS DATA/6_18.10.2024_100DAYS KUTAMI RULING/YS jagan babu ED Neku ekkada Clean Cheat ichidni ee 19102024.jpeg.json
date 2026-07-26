@@ -1,0 +1,344 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "0afb50eb37b88304e018f26631048788c5cfa65c": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "స్కిల్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Skill Scam"
+    },
+    {
+     "name": "డిజైన్ టెక్",
+     "type": "Organization",
+     "english_name": "Design Tech"
+    },
+    {
+     "name": "సీమెన్స్ ఇండియా",
+     "type": "Organization",
+     "english_name": "Siemens India"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఈడీ నీకెక్కడ క్లీన్చిట్ ఇచ్చింది?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ పాలనలో జరిగిన స్కిల్ స్కామ్పై వైఎస్సార్సీపీ ప్రభుత్వ హయాంలో సీఐడీ దర్యాప్తు చేసి.. అన్ని ఆధారాలతోనే ప్రభుత్వ ధనాన్ని దోపిడీ చేసిన చంద్రబాబును అరెస్ట్ చేసిందని చెప్పారు."
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి:"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "746080eeb780dd8f33b19cb6498b10cd2894ea79": {
+   "entities": [
+    {
+     "name": "ED",
+     "type": "Organization",
+     "english_name": "Enforcement Directorate"
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "Suman Bose",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vikas Vinayak Kanvarkar",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Mukul Chandra Agarwal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Suresh Goyal",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "Telugu Desam Party"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyothi"
+    },
+    {
+     "name": "TV-5",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandra Babu",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "చంద్రబాబు తన అధికార టీడీపీ వెబ్‌సైట్‌లో 'నిజం నిలచింది..' అని పేర్కొన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "18c04000269a0d3524091510a2363fe7cac76cbc": {
+   "entities": [
+    {
+     "name": "Directorate of Enforcement (ED), Hyderabad Zonal Office",
+     "type": "Organization",
+     "english_name": "Directorate of Enforcement (ED), Hyderabad Zonal Office"
+    },
+    {
+     "name": "Prevention of Money Laundering Act (PMLA), 2002",
+     "type": "Scheme",
+     "english_name": "Prevention of Money Laundering Act (PMLA), 2002"
+    },
+    {
+     "name": "Andhra Pradesh State Skill Development Corporation (APSDCL) Systems Project",
+     "type": "Scheme",
+     "english_name": "Andhra Pradesh State Skill Development Corporation (APSDCL) Systems Project"
+    },
+    {
+     "name": "AP CBDT",
+     "type": "Organization",
+     "english_name": "AP CBDT"
+    },
+    {
+     "name": "M/s Designcraft Systems Private Limited (DSTPL)",
+     "type": "Organization",
+     "english_name": "M/s Designcraft Systems Private Limited (DSTPL)"
+    },
+    {
+     "name": "Andhra Pradesh Government",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Government"
+    },
+    {
+     "name": "Vikas Vinayak Kharevelkar",
+     "type": "Person",
+     "english_name": "Vikas Vinayak Kharevelkar"
+    },
+    {
+     "name": "Somayajin Sakhar Bose alias Suman Bose",
+     "type": "Person",
+     "english_name": "Somayajin Sakhar Bose alias Suman Bose"
+    },
+    {
+     "name": "Mulchand Chandrasagar",
+     "type": "Person",
+     "english_name": "Mulchand Chandrasagar"
+    },
+    {
+     "name": "Suresh Goyal",
+     "type": "Person",
+     "english_name": "Suresh Goyal"
+    },
+    {
+     "name": "Ld. Adjusting Authority (FMLA)",
+     "type": "Organization",
+     "english_name": "Ld. Adjusting Authority (FMLA)"
+    },
+    {
+     "name": "Hon'ble Special Court (FMLA), Vishakhapatnam",
+     "type": "Organization",
+     "english_name": "Hon'ble Special Court (FMLA), Vishakhapatnam"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f145c9023a3bb2f3bac98bd041828a7dbd5b3e36": {
+   "entities": [
+    {
+     "name": "ED",
+     "type": "Organization",
+     "english_name": "Enforcement Directorate"
+    },
+    {
+     "name": "Fixed Deposits",
+     "type": "Organization",
+     "english_name": "Fixed Deposits"
+    },
+    {
+     "name": "DTSPL",
+     "type": "Organization",
+     "english_name": "Design Tech Systems Private Limited"
+    },
+    {
+     "name": "Ld. Adjusting Authority (FMLA)",
+     "type": "Organization",
+     "english_name": "Ld. Adjusting Authority (FMLA)"
+    },
+    {
+     "name": "Vikas Vinayak Kharevelkar",
+     "type": "Person",
+     "english_name": "Vikas Vinayak Kharevelkar"
+    },
+    {
+     "name": "Suman Bose",
+     "type": "Person",
+     "english_name": "Suman Bose"
+    },
+    {
+     "name": "Mulchand Chandrasagar",
+     "type": "Person",
+     "english_name": "Mulchand Chandrasagar"
+    },
+    {
+     "name": "Suresh Goyal",
+     "type": "Person",
+     "english_name": "Suresh Goyal"
+    },
+    {
+     "name": "Hon'ble Special Court (FMLA)",
+     "type": "Organization",
+     "english_name": "Hon'ble Special Court (FMLA)"
+    },
+    {
+     "name": "Chandra Babu",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "AP Skill Development Corporation",
+     "type": "Organization",
+     "english_name": "AP Skill Development Corporation"
+    },
+    {
+     "name": "Design Tech",
+     "type": "Organization",
+     "english_name": "Design Tech"
+    },
+    {
+     "name": "Siemens",
+     "type": "Organization",
+     "english_name": "Siemens"
+    },
+    {
+     "name": "Siemens India",
+     "type": "Organization",
+     "english_name": "Siemens India"
+    },
+    {
+     "name": "Noida Magistrate",
+     "type": "Organization",
+     "english_name": "Noida Magistrate"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b28c78884dbd34ae83d5b246ad087550d0135cb7": {
+   "entities": [
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ED",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "Silk scam",
+     "type": "Issue",
+     "english_name": "Silk scam"
+    },
+    {
+     "name": "IAS officers",
+     "type": "Person",
+     "english_name": "IAS officers"
+    },
+    {
+     "name": "Section-164",
+     "type": "Scheme",
+     "english_name": "Section-164"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "ED",
+     "evidence": "చంద్రబాబును ఈడీ అరెస్టు చేయదా?"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "ACCUSES",
+     "target": "IAS officers",
+     "evidence": "ఇద్దరు ఐఏఎస్ అధికారులు మేజిస్ట్రేట్ ముందు సెక్షన్-164 కింద వాంగ్మూలం ఇచ్చారు. తాము చంద్రబాబు ఆదేశాల మేరకే డబ్బు విడుదల చేశామని చెప్పారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

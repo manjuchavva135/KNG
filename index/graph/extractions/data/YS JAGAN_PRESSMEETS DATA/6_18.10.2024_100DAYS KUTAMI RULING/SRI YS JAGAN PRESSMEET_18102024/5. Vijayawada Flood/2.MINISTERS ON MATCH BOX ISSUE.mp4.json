@@ -1,0 +1,26 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b0cca5ba983aa1c7128b165ead57bd6a7bb14e5e": {
+   "entities": [
+    {
+     "name": "NTR",
+     "type": "Person",
+     "english_name": "NTR"
+    },
+    {
+     "name": "NTR district",
+     "type": "Place",
+     "english_name": "NTR district"
+    },
+    {
+     "name": "speaker",
+     "type": "Person",
+     "english_name": "speaker"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

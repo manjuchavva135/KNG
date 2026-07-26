@@ -610,6 +610,380 @@
      "evidence": "చంద్రబాబు తానొస్తే ధరలు తగ్గిస్తానన్నాడు"
     }
    ]
+  },
+  "5f8f7029ced8a839e8222016bb560082e0af21be": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "మద్యం ముడుపుల డాన్ బాబే",
+     "type": "Claim",
+     "english_name": "Don Babu of liquor bribes"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కాగ్",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "రెడ్ బుక్",
+     "type": "Claim",
+     "english_name": "Red Book"
+    },
+    {
+     "name": "వెన్నుపోటు",
+     "type": "Issue",
+     "english_name": "Backstab Day"
+    },
+    {
+     "name": "మద్యం కుంభకోణం",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "మద్యం స్కామ్",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Person",
+     "english_name": "Chandrababu's government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "మద్యం ముడుపుల డాన్ బాబే",
+     "evidence": "మద్యం ముడుపుల డాన్ బాబే"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "మద్యం స్కామ్స్టర్ చంద్రబాబే"
+    },
+    {
+     "source": "సాక్షి",
+     "relation": "LOCATED_IN",
+     "target": "అమరావతి",
+     "evidence": "సాక్షి, అమరావతి"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రెడ్ బుక్",
+     "evidence": "రెడ్ బుక్ రాజ్యాంగంతో చేస్తున్న అరాచకాలు"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రెడ్ బుక్",
+     "evidence": "రెడ్ బుక్ రాజ్యాంగంతో చేస్తున్న అరాచకాలు"
+    }
+   ]
+  },
+  "e199ca46fe46c885c3963efaee11e314e8651df8": {
+   "entities": [
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Redbook",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Satyaprasad",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Vasudeva Reddy",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Beverages Corporation",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "High Court",
+     "type": "Organization",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MEMBER_OF",
+     "target": "TDP",
+     "evidence": "టీడీపీ హయాంలో"
+    }
+   ]
+  },
+  "48938b3c4c2bb85863f069e442dea8d7071d3625": {
+   "entities": [
+    {
+     "name": "మద్యం షాపులను లాటరీ ద్వారా కేటాయిం",
+     "type": "Claim",
+     "english_name": "Lottery allocation of liquor shops"
+    },
+    {
+     "name": "30 శాతం వాటా తీసుకున్నారు",
+     "type": "Claim",
+     "english_name": "Took a 30% share"
+    },
+    {
+     "name": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నారు",
+     "type": "Claim",
+     "english_name": "Selling above MRP"
+    },
+    {
+     "name": "బెల్టు షాపులు ఏర్పాటు చేశారు",
+     "type": "Claim",
+     "english_name": "Set up belt shops"
+    },
+    {
+     "name": "డోర్ డెలివరీ కూడా చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": "Door delivery also provided"
+    },
+    {
+     "name": "బెల్టుషాప్ల నిర్వహణకు వేలంపాట పాడుతున్నారు",
+     "type": "Claim",
+     "english_name": "Auction for belt shop management"
+    },
+    {
+     "name": "పోలీసులు దగ్గరుండి మధ్యం అమ్మిస్తున్నారు",
+     "type": "Claim",
+     "english_name": "Police selling liquor"
+    },
+    {
+     "name": "ఆదాయాన్ని పంచుకుంటున్నారు",
+     "type": "Claim",
+     "english_name": "Sharing revenue"
+    },
+    {
+     "name": "ఎంపిక చేసిన డిస్టిలరీకి మేలు చేయాలనుకుంటే ప్రైవేటు షాపుల సైన్యంతో ఇండెంట్ వేయిస్తారు",
+     "type": "Claim",
+     "english_name": "Helping selected distillery via private shop army"
+    },
+    {
+     "name": "మా హయాంలో ప్రతి బాటిల్పై క్యూఆర్ కోడ్ పెట్టి స్కాన్ చేసి ఆటోమేటిక్గా ఆప్లోడ్ చేసే విధానం అమలు చేశాం",
+     "type": "Claim",
+     "english_name": "Implemented QR‑code scanning and auto‑upload per bottle"
+    },
+    {
+     "name": "ఆ డిమాండ్ మేరకు ఆయా డిస్టిలర్లకు ఆర్డర్లు ఇచ్చాం",
+     "type": "Claim",
+     "english_name": "Orders given to distillers based on demand"
+    },
+    {
+     "name": "Liquor Scam",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "డిస్టిలరీ",
+     "type": "Organization",
+     "english_name": "Distillery"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మద్యం షాపులను లాటరీ ద్వారా కేటాయిం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "మద్యం షాపులను లాటరీ ద్వారా కేటాయిం"
+    },
+    {
+     "source": "30 శాతం వాటా తీసుకున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "30 శాతం వాటా తీసుకున్నారు"
+    },
+    {
+     "source": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఎమ్మార్పీ కంటే ఎక్కువకు అమ్ముతున్నారు"
+    },
+    {
+     "source": "బెల్టు షాపులు ఏర్పాటు చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "బెల్టు షాపులు ఏర్పాటు చేశారు"
+    },
+    {
+     "source": "డోర్ డెలివరీ కూడా చేస్తున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "డోర్ డెలివరీ కూడా చేస్తున్నారు"
+    },
+    {
+     "source": "బెల్టుషాప్ల నిర్వహణకు వేలంపాట పాడుతున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "బెల్టుషాప్ల నిర్వహణకు వేలంపాట పాడుతున్నారు"
+    },
+    {
+     "source": "పోలీసులు దగ్గరుండి మధ్యం అమ్మిస్తున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "పోలీసులు దగ్గరుండి మధ్యం అమ్మిస్తున్నారు"
+    },
+    {
+     "source": "ఆదాయాన్ని పంచుకుంటున్నారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఆదాయాన్ని పంచుకుంటున్నారు"
+    },
+    {
+     "source": "ఎంపిక చేసిన డిస్టిలరీకి మేలు చేయాలనుకుంటే ప్రైవేటు షాపుల సైన్యంతో ఇండెంట్ వేయిస్తారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఎంపిక చేసిన డిస్టిలరీకి మేలు చేయాలనుకుంటే ప్రైవేటు షాపుల సైన్యంతో ఇండెంట్ వేయిస్తారు"
+    },
+    {
+     "source": "మా హయాంలో ప్రతి బాటిల్పై క్యూఆర్ కోడ్ పెట్టి స్కాన్ చేసి ఆటోమేటిక్గా ఆప్లోడ్ చేసే విధానం అమలు చేశాం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "మా హయాంలో ప్రతి బాటిల్పై క్యూఆర్ కోడ్ పెట్టి స్కాన్ చేసి ఆటోమేటిక్గా ఆప్లోడ్ చేసే విధానం అమలు చేశాం"
+    },
+    {
+     "source": "ఆ డిమాండ్ మేరకు ఆయా డిస్టిలర్లకు ఆర్డర్లు ఇచ్చాం",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Liquor Scam",
+     "evidence": "ఆ డిమాండ్ మేరకు ఆయా డిస్టిలర్లకు ఆర్డర్లు ఇచ్చాం"
+    }
+   ]
+  },
+  "cbdcff5eabafe3c632631529d6116d49d5cd6fb5": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "Sakshi",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "Amaravati",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్ స్కామ్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్బుక్ రాజ్యాంగం",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "143 హామీల",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "రెడ్బుక్ రాజ్యాంగాన్ని అమలు చేస్తున్నారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "లిక్కర్ స్కామ్ అంటూ రాజకీయ కక్షకు దిగారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "రెడ్బుక్ రాజ్యాంగాన్ని అమలు చేస్తున్నారు",
+     "evidence": "రెడ్బుక్ రాజ్యాంగాన్ని అమలు చేస్తున్నారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "MAKES_CLAIM",
+     "target": "లిక్కర్ స్కామ్ అంటూ రాజకీయ కక్షకు దిగారు",
+     "evidence": "లిక్కర్ స్కామ్ అంటూ రాజకీయ కక్షకు దిగారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "143 హామీల",
+     "evidence": "మేనిఫెస్టోలో ప్రకటించిన 143 హామీల"
+    }
+   ]
   }
  }
 }

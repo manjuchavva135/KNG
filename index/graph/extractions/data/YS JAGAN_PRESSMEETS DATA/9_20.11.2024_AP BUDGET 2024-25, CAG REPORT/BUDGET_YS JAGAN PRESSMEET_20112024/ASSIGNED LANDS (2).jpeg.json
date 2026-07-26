@@ -1,0 +1,525 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "34c4d0e30e772be88836eae6c45be2343d8723bf": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అసైన్డ్ భూములు",
+     "type": "Issue",
+     "english_name": "Assigned lands"
+    },
+    {
+     "name": "పేదలపై అక్కసు",
+     "type": "Issue",
+     "english_name": "Anger on the poor"
+    },
+    {
+     "name": "రైతు",
+     "type": "Person",
+     "english_name": "Farmer"
+    },
+    {
+     "name": "దళిత రైతు",
+     "type": "Person",
+     "english_name": "Dalit farmer"
+    },
+    {
+     "name": "పేద రైతు",
+     "type": "Person",
+     "english_name": "Poor farmer"
+    },
+    {
+     "name": "అసైన్డ్ చట్టం",
+     "type": "Scheme",
+     "english_name": "Assigned lands law"
+    },
+    {
+     "name": "ప్రజాప్రతినిధుల కమిటీ",
+     "type": "Organization",
+     "english_name": "People's representatives committee"
+    },
+    {
+     "name": "27 లక్షల మంది రైతులకు ప్రయోజనం",
+     "type": "Claim",
+     "english_name": "Benefit to 27 lakh farmers"
+    },
+    {
+     "name": "చరిత్రాత్మక రీతిలో",
+     "type": "Claim",
+     "english_name": "Historic manner"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "అసైన్డ్ చట్టం",
+     "evidence": "అసైన్డ్ చట్టం తెచ్చిన జగన్ ప్రభుత్వం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "27 లక్షల మంది రైతులకు ప్రయోజనం",
+     "evidence": "ఇదివరకెన్నడూ లేని విధంగా 27 లక్షల మంది రైతులకు ప్రయోజనం"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "చరిత్రాత్మక రీతిలో",
+     "evidence": "చరిత్రాత్మక రీతిలో వైఎస్ జగన్ హయాంలో దక్కిన యాజమాన్య హక్కులను ప్రశ్నించేలా ఎల్లో మీడియా."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "194e1fe069f4cd178c2355c14b22eac18ddef887": {
+   "entities": [
+    {
+     "name": "సీపీ నేతలు",
+     "type": "Person",
+     "english_name": "CPI leaders"
+    },
+    {
+     "name": "బాబు అండ్ కో",
+     "type": "Party",
+     "english_name": "Babu and Co"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "కిరణ్",
+     "type": "Person",
+     "english_name": "Kiran"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "తల్లికి వం దనం",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "మేనిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "తల్లికి వం దనం",
+     "evidence": "తల్లికి వం దనం పథకం అమలు చేస్తామని హామీ ఇచ్చి ఇప్పుడు తల్లికి మాత్రమే ఇస్తామని బొంకుతున్న విషయం బయట పడటంతో.."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మేనిఫెస్టో",
+     "evidence": "మేనిఫెస్టోలో ప్రజలకిచ్చిన హామీలు అమలు చేయడంపై దృష్టి పెట్టకుండా"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "బాబు అండ్ కో",
+     "evidence": "తమ మోసాన్ని ప్రజలు గ్రహించకుండా దృష్టి మళ్లించడానికి 'బాబు అండ్ కో' అసైన్డ్ హక్కుల వ్యవహారాన్ని తెర మీదకు తెచ్చింది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియా, ప్రధానంగా ఈనాడు పాత్ర పోషిస్తోంది."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కిరణ్",
+     "evidence": "చంద్రబాబు, తాము బాగుంటే చాలని ఈనాడు కిరణ్ అనుకోవడం దుర్మార్గం."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "చంద్రబాబు, తాము బాగుంటే చాలని ఈనాడు కిరణ్ అనుకోవడం దుర్మార్గం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "eddc896dc0490c91b43c98b06ff7364c0ae7fdff": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "POET చట్టం",
+     "type": "Organization",
+     "english_name": "POET Act"
+    },
+    {
+     "name": "నవరత్నాలు పేద లందరికీ ఇళ్లు పథకం",
+     "type": "Scheme",
+     "english_name": "Navaratnalu Poorla Illu Scheme"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవరత్నాలు పేద లందరికీ ఇళ్లు పథకం",
+     "evidence": "నవరత్నాలు పేద లందరికీ ఇళ్లు పథకం కింద పట్టాలు పొందినవారితోపాటు, మిగిలిన వారికి ప్రయోజనం చేకూరింది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "efa2ee036d3280ec2329b29ad71cdd7d4b1c446b": {
+   "entities": [
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగన్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Jagan Government"
+    },
+    {
+     "name": "అసైన్డ్ భూములు",
+     "type": "Issue",
+     "english_name": "Assigned Lands"
+    },
+    {
+     "name": "నవరత్నాలు పేదలందరికీ ఇళ్లు పథకం",
+     "type": "Scheme",
+     "english_name": "Navaratnalu Pedalandariki Illu Scheme"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "చంద్రబాబు, తాము బాగుంటే చాలని ఈనాడు కిరణ్ అనుకోవడం దుర్మార్గం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "80c2e4e18902c7f735699f20e51314c6bb559e37": {
+   "entities": [
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ప్రభుత్వం",
+     "evidence": "వాళ్లందరినీ రోడ్డున పడేయాలన్న చంద్రబాబు కోరికకు ఎల్లో మీడియా అక్షర రూపం ఇస్తోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "a4a9f968204d502cefb6601476676232294c9ba5": {
+   "entities": [
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "POTh చట్టం",
+     "type": "Scheme",
+     "english_name": "POTh Act"
+    },
+    {
+     "name": "నవరత్నాలు పేదలకు ఇళ్లు పథకం",
+     "type": "Scheme",
+     "english_name": "Navaratnalu Poor People Housing Scheme"
+    },
+    {
+     "name": "అమరావతి",
+     "type": "Place",
+     "english_name": "Amaravati"
+    },
+    {
+     "name": "అసైన్డ్ భూములు",
+     "type": "Issue",
+     "english_name": "Assigned Lands"
+    },
+    {
+     "name": "1954",
+     "type": "Organization",
+     "english_name": "1954"
+    },
+    {
+     "name": "రెవిన్యూ అధికారులు",
+     "type": "Organization",
+     "english_name": "Revenue Officers"
+    },
+    {
+     "name": "స్వాతంత్ర్య సమరయోధులు",
+     "type": "Person",
+     "english_name": "Freedom Fighters"
+    },
+    {
+     "name": "ఎక్స్ సర్వీస్మెన్",
+     "type": "Person",
+     "english_name": "Ex-Servicemen"
+    },
+    {
+     "name": "2016",
+     "type": "Organization",
+     "english_name": "2016"
+    },
+    {
+     "name": "22ఎ",
+     "type": "Organization",
+     "english_name": "22E"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "నవరత్నాలు పేదలకు ఇళ్లు పథకం",
+     "evidence": "నవరత్నాలు పేదలకు ఇళ్లు పథకం కింద పట్టాలు పొందినవారితోపాటు, మిగిలిన వారికి ప్రయోజనం చేకూరింది."
+    },
+    {
+     "source": "జగన్",
+     "relation": "DEFENDS",
+     "target": "POTh చట్టం",
+     "evidence": "జగన్ హయాంలో 10 సంవత్సరాలకు తగ్గిస్తూ పీఓటీ చట్టంలో సవరణ చేశారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "488ef7a11ee8ba1bdc661d15bded94eb72e1eab7": {
+   "entities": [
+    {
+     "name": "జూహాప్రభాకర్ రావు",
+     "type": "Person",
+     "english_name": "Juhapharikarao"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ఎస్సీ సెల్ రాష్ట్ర అధ్యక్షుడు",
+     "type": "Party",
+     "english_name": "YSRCP SC Cell State President"
+    },
+    {
+     "name": "మొండితోక అరుణ్ కుమార్",
+     "type": "Person",
+     "english_name": "Mondithoka Arun Kumar"
+    },
+    {
+     "name": "ఎమ్మెల్యే",
+     "type": "Party",
+     "english_name": "MLA"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ఎస్సీ సెల్ అధ్యక్షుడు",
+     "type": "Party",
+     "english_name": "YSRCP SC Cell President"
+    }
+   ],
+   "relations": [
+    {
+     "source": "జూహాప్రభాకర్ రావు",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ ఎస్సీ సెల్ రాష్ట్ర అధ్యక్షుడు",
+     "evidence": "జూహాప్రభాకర్ రావు, వైఎస్సార్సీపీ ఎస్సీ సెల్ రాష్ట్ర అధ్యక్షుడు"
+    },
+    {
+     "source": "మొండితోక అరుణ్ కుమార్",
+     "relation": "MEMBER_OF",
+     "target": "ఎమ్మెల్యే",
+     "evidence": "మొండితోక అరుణ్ కుమార్, ఎమ్మెల్యే"
+    },
+    {
+     "source": "మొండితోక అరుణ్ కుమార్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్సీపీ ఎస్సీ సెల్ అధ్యక్షుడు",
+     "evidence": "మొండితోక అరుణ్ కుమార్, ఎమ్మెల్యే, వైఎస్సార్సీపీ ఎస్సీ సెల్ అధ్యక్షుడు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dc4ca6c0cead185cc4da1037d096ead433474da1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "జగన్ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Jagan Government"
+    },
+    {
+     "name": "రెవెన్యూ మంత్రి",
+     "type": "Person",
+     "english_name": "Revenue Minister"
+    },
+    {
+     "name": "13 మంది ఎస్సీ, ఎస్టీ ఎమ్మెల్యేలు",
+     "type": "Party",
+     "english_name": "13 SC, ST MLAs"
+    },
+    {
+     "name": "కర్ణాటక",
+     "type": "Place",
+     "english_name": "Karnataka"
+    },
+    {
+     "name": "తమిళనాడు",
+     "type": "Place",
+     "english_name": "Tamil Nadu"
+    },
+    {
+     "name": "కేరళ",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "ఏపీ అసైన్మెంట్ చట్టం (పీఓటీ) 1977",
+     "type": "Scheme",
+     "english_name": "AP Assignment Act (POT) 1977"
+    },
+    {
+     "name": "పేద రైతులకు",
+     "type": "Person",
+     "english_name": "Poor farmers"
+    },
+    {
+     "name": "గిరిజనులకు",
+     "type": "Person",
+     "english_name": "Tribal people"
+    },
+    {
+     "name": "దళిత రైతులకు",
+     "type": "Person",
+     "english_name": "Dalit farmers"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "చంద్రబాబు కోరికకు ఎల్లో మీడియా అక్షర రూపం ఇస్తోంది."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4b4627405c3d985abf6a51a2d642873b4a139b4f": {
+   "entities": [
+    {
+     "name": "మొండితోక అరుణ్ కుమార్",
+     "type": "Person",
+     "english_name": "Mondithoka Arun Kumar"
+    },
+    {
+     "name": "వైఎస్సార్సీపీ ఎస్సీ సెల్ అధ్యక్షుడు",
+     "type": "Party",
+     "english_name": "YSRCP SC Cell President"
+    },
+    {
+     "name": "నత్తా యోనారాజు",
+     "type": "Person",
+     "english_name": "Natta Yonaraju"
+    },
+    {
+     "name": "మాల మహానాడు",
+     "type": "Organization",
+     "english_name": "Mala Mahanadu"
+    },
+    {
+     "name": "అసైన్డ్ భూములు",
+     "type": "Issue",
+     "english_name": "Assigned Lands"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

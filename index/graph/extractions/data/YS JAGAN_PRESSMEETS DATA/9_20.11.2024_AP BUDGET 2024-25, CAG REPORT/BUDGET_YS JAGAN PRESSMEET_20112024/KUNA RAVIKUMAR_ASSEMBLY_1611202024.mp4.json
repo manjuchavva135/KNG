@@ -1,0 +1,36 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "fc75b4f868b88a7b389044d558d042cf793d4fca": {
+   "entities": [
+    {
+     "name": "అధ్యక్ష",
+     "type": "Person",
+     "english_name": "Speaker"
+    },
+    {
+     "name": "మినిస్టర్",
+     "type": "Person",
+     "english_name": "Minister"
+    },
+    {
+     "name": "మారు",
+     "type": "Person",
+     "english_name": "Maru"
+    },
+    {
+     "name": "మనోజ్ గారు",
+     "type": "Person",
+     "english_name": "Manoj"
+    },
+    {
+     "name": "రవికుమార్ గారు",
+     "type": "Person",
+     "english_name": "Ravikumar"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

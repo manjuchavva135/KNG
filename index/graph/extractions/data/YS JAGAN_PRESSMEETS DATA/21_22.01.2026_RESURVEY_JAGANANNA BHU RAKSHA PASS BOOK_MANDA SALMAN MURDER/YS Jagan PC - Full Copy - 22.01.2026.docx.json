@@ -1,0 +1,1224 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "211dda46591f7c698ff1e9d2c21ad21df06865ec": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "రెడ్‌బుక్‌ రాజ్యాంగం",
+     "type": "Scheme",
+     "english_name": "Redbook Constitution"
+    },
+    {
+     "name": "మంద సాల్మన్‌ హత్య",
+     "type": "Issue",
+     "english_name": "Manda Salman murder"
+    },
+    {
+     "name": "భూసర్వే క్రెడిట్‌ చోరీ",
+     "type": "Issue",
+     "english_name": "Land survey credit theft"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును మించిన వారు లేరు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "వైయస్సార్‌సీపీ కేంద్ర కార్యాలయంలో మీడియాతో మాట్లాడిన మాజీ ముఖ్యమంత్రి, పార్టీ అధ్యక్షుడు శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "రెడ్‌బుక్‌ రాజ్యాంగం",
+     "evidence": "రెడ్‌బుక్‌ రాజ్యాంగం అమలు చేస్తూ, చేస్తున్న రాజకీయ హత్యలపై"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "56c310c686f03c1e865bcfe63dabd74071c02364": {
+   "entities": [
+    {
+     "name": "క్యూఆర్ కోడ్",
+     "type": "Scheme",
+     "english_name": "QR Code"
+    },
+    {
+     "name": "పట్టాదారు పాసుపుస్తకాలివ్వడం",
+     "type": "Scheme",
+     "english_name": "Patta Passbook Issuance"
+    },
+    {
+     "name": "ఆటోమేటిక్‌ సబ్‌ డివిజన్స్",
+     "type": "Scheme",
+     "english_name": "Automatic Subdivisions"
+    },
+    {
+     "name": "ఆటోమేటిక్‌ ప్రోటోకాల్‌",
+     "type": "Scheme",
+     "english_name": "Automatic Protocol"
+    },
+    {
+     "name": "మ్యూటేషన్‌",
+     "type": "Scheme",
+     "english_name": "Mutation"
+    },
+    {
+     "name": "గ్రామ సచివాలయాల్లో",
+     "type": "Organization",
+     "english_name": "Village Secretariat"
+    },
+    {
+     "name": "రిజిస్ట్రేషన్‌ ప్రక్రియ",
+     "type": "Scheme",
+     "english_name": "Registration Process"
+    },
+    {
+     "name": "రియల్‌ టైమ్‌ అలర్ట్స్‌",
+     "type": "Scheme",
+     "english_name": "Real-time Alerts"
+    },
+    {
+     "name": "గవర్నమెంట్‌ పోర్టల్‌",
+     "type": "Organization",
+     "english_name": "Government Portal"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "గవర్నమెంట్‌ పోర్టల్‌",
+     "evidence": "బాబుగారు ఇలాంటివి విన్నావా? చూశావా? చేశావా?"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "గ్రామ సచివాలయాల్లో",
+     "evidence": "బాబుగారు ఇలాంటివి విన్నావా? చూశావా? చేశావా?"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "గవర్నమెంట్‌ పోర్టల్‌",
+     "evidence": "బాబుగారు ఇలాంటివి విన్నావా? చూశావా? చేశావా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4713be4a49e2766171f219040b3f1f88b0d12e31": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "15వేల గ్రామ సచివాలయాలు",
+     "type": "Organization",
+     "english_name": "15,000 Grama Sachivalayam"
+    },
+    {
+     "name": "1.34 లక్షం ఉద్యోగుల నియామకం",
+     "type": "Organization",
+     "english_name": "1.34 lakh employee recruitment"
+    },
+    {
+     "name": "వీఆర్వో",
+     "type": "Organization",
+     "english_name": "VRU"
+    },
+    {
+     "name": "సర్వేయర్",
+     "type": "Organization",
+     "english_name": "Surveyor"
+    },
+    {
+     "name": "డిజిటల్‌ అసిస్టెంట్‌",
+     "type": "Organization",
+     "english_name": "Digital Assistant"
+    },
+    {
+     "name": "సమగ్ర భూ సర్వే",
+     "type": "Scheme",
+     "english_name": "Comprehensive land survey"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "చంద్రబాబును. ఇంకా ఆ కార్యక్రమాన్ని ఎప్పటికప్పుడు రివ్యూ చేసే వాళ్లం."
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "మరి ఇవన్నీ తానెప్పుడూ కూడా చేయకుండా మరి ఏ రకంగా చంద్రబాబుగారు ఈ రికార్డును తన ఖాతాలోకి వేసుకుంటూ క్రెడిట్‌ చోరీకి ఎలా పాల్పడతారని అడుగుతున్నాను."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "51aeb79b535c810cf8da9a9fc33b4da1787d30e0": {
+   "entities": [
+    {
+     "name": "సర్వే ఆఫ్‌ ఇండియా",
+     "type": "Organization",
+     "english_name": "Survey of India"
+    },
+    {
+     "name": "ఏపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "యూరప్",
+     "type": "Place",
+     "english_name": "Europe"
+    },
+    {
+     "name": "అమెరికా",
+     "type": "Place",
+     "english_name": "America"
+    },
+    {
+     "name": "కోర్స్‌–కంటిన్యూయస్‌లీ ఆపరేటింగ్‌ రిఫరెన్స్‌ స్టేషన్స్‌",
+     "type": "Organization",
+     "english_name": "CORS - Continuously Operating Reference Stations"
+    },
+    {
+     "name": "గ్లోబల్‌ నావిగేషన్‌ సిస్టం రిసీవర్స్‌",
+     "type": "Organization",
+     "english_name": "GNSR - Global Navigation System Receivers"
+    },
+    {
+     "name": "గ్లోబల్‌ పొజిషనింగ్‌ సిస్టం",
+     "type": "Organization",
+     "english_name": "GPS - Global Positioning System"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ ప్రభుత్వం",
+     "evidence": "చంద్రబాబులా మేము ఎప్పుడూ కూడా కబుర్లు చెప్పలేదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "5575dcab9bb7bc2f97be17ed0dc27135f6ca1488": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఏపీ గవర్నమెంట్‌ పోర్టల్‌",
+     "type": "Organization",
+     "english_name": "AP Government portal"
+    },
+    {
+     "name": "మీ భూమి",
+     "type": "Organization",
+     "english_name": "Mee Bhoomi"
+    },
+    {
+     "name": "పాస్‌ పుస్తకాలు",
+     "type": "Scheme",
+     "english_name": "Pass books"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ గవర్నమెంట్‌ పోర్టల్‌",
+     "evidence": "రైతులు, భూ యజమానులకు ఇంత గొప్పగా భద్రత కల్పించే పని చంద్రబాబు ఏనాడైనా చేశాడా అని సీరియస్‌ గా అడుగుతున్నా."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1cd9f18eff96752dd6c3c638bb31d66f06683a29": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Sri Y. S. Jagan"
+    },
+    {
+     "name": "22–ఏ",
+     "type": "Scheme",
+     "english_name": "22-A"
+    },
+    {
+     "name": "భూసర్వే",
+     "type": "Scheme",
+     "english_name": "Land Survey"
+    },
+    {
+     "name": "భూసంస్కరణలు",
+     "type": "Scheme",
+     "english_name": "Land Reforms"
+    },
+    {
+     "name": "మ్యానిఫెస్టో",
+     "type": "Organization",
+     "english_name": "Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భూసర్వే",
+     "evidence": "సుపరిపాలన విషయంలో రాష్ట్రంలో భూములన్నింటినీ సమగ్ర రీసర్వే చేయించి, భూ యజమానులకు శాశ్వత యాజమాన్య హక్కు కలగజేస్తాం"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భూసంస్కరణలు",
+     "evidence": "సమగ్ర భూ సర్వే, అన్ని రికార్డ్స్‌ అప్‌డేట్‌ చేయడంతో పాటు, వ్యవస్థలో సంస్కరణలు తీసుకువచ్చే దిశలో ఒక గొప్ప అడుగు పడింది"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f2949df18cc49f3a2c3c4648147aaeb30a3ae5fc": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "ఎల్లో గ్యాంగ్‌",
+     "type": "Organization",
+     "english_name": "Yellow Gang"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ఆంధ్రజ్యోతి",
+     "type": "Organization",
+     "english_name": "Andhra Jyoti"
+    },
+    {
+     "name": "భూరక్ష",
+     "type": "Scheme",
+     "english_name": "Bho Raksha"
+    },
+    {
+     "name": "భూ సురక్ష",
+     "type": "Scheme",
+     "english_name": "Bho Suraksha"
+    },
+    {
+     "name": "వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో గ్యాంగ్‌",
+     "evidence": "చంద్రబాబు, ఆయన ఎల్లో గ్యాంగ్‌ విశ్వప్రయత్నాలు, కుట్రలు చేశారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఆయన లెఫ్ట్, రైట్‌ ఉన్న ఈనాడు, ఆంధ్రజ్యోతి అసిస్టెంట్‌ పాత్ర పోషించారు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఆంధ్రజ్యోతి",
+     "evidence": "ఆయన లెఫ్ట్, రైట్‌ ఉన్న ఈనాడు, ఆంధ్రజ్యోతి అసిస్టెంట్‌ పాత్ర పోషించారు"
+    },
+    {
+     "source": "వైయస్‌ జగన్‌",
+     "relation": "DEFENDS",
+     "target": "భూరక్ష",
+     "evidence": "భూరక్ష, భూ సురక్ష అని పేర్లతో రాళ్లు పాతి మంచి చేస్తే"
+    },
+    {
+     "source": "వైయస్‌ జగన్‌",
+     "relation": "DEFENDS",
+     "target": "భూ సురక్ష",
+     "evidence": "భూరక్ష, భూ సురక్ష అని పేర్లతో రాళ్లు పాతి మంచి చేస్తే"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "37aa5abb686f80cf9ca4cf1d9b624006191663c4": {
+   "entities": [
+    {
+     "name": "మీ భూమి",
+     "type": "Organization",
+     "english_name": "Mee Bhoomi"
+    },
+    {
+     "name": "ఏపీ గవర్నమెంట్‌",
+     "type": "Organization",
+     "english_name": "AP Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "నీతి ఆయోగ్‌",
+     "type": "Organization",
+     "english_name": "NITI Aayog"
+    },
+    {
+     "name": "కేరళ",
+     "type": "Place",
+     "english_name": "Kerala"
+    },
+    {
+     "name": "ఉత్తరాఖండ్‌",
+     "type": "Place",
+     "english_name": "Uttarakhand"
+    },
+    {
+     "name": "మహారాష్ట్ర",
+     "type": "Place",
+     "english_name": "Maharashtra"
+    },
+    {
+     "name": "అసోం",
+     "type": "Place",
+     "english_name": "Assam"
+    },
+    {
+     "name": "సర్వే ఆఫ్‌ ఇండియా",
+     "type": "Organization",
+     "english_name": "Survey of India"
+    },
+    {
+     "name": "ఎస్వీ సింగ్‌",
+     "type": "Person",
+     "english_name": "S.V. Singh"
+    },
+    {
+     "name": "నరసన్నపేట",
+     "type": "Place",
+     "english_name": "Narsannapeta"
+    },
+    {
+     "name": "పట్టాదారు పాస్‌ బుక్‌",
+     "type": "Scheme",
+     "english_name": "Patta Dar Pass Book"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ గవర్నమెంట్‌",
+     "evidence": "రైతులు, భూ యజమానులకు ఇంత గొప్పగా భద్రత కల్పించే పని చంద్రబాబు ఏనాడైనా చేశాడా అని సీరియస్‌ గా అడుగుతున్నా."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ గవర్నమెంట్‌",
+     "evidence": "వారు నష్టపోని విధంగా ట్యాంపర్‌ ప్రూఫ్‌ డాక్యుమెంట్స్‌ ఇచ్చే విధంగా చంద్రబాబు ఏనాడైనా తాపత్రయపడ్డాడా?"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ గవర్నమెంట్‌",
+     "evidence": "ఇంత చేసిన మా గురించి ఎన్నికలప్పుడు చంద్రబాబు ఇష్టమొచ్చినట్టు మాట్లాడాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ గవర్నమెంట్‌",
+     "evidence": "ఆనాడు మాపై చంద్రబాబునాయుడు చేసిన విష ప్రచారం అంతా ఇంతా కాదు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "61a1d5622927a9709fa715a8853f01467cdc9fdb": {
+   "entities": [
+    {
+     "name": "భూరక్ష",
+     "type": "Scheme",
+     "english_name": "Bhulekh"
+    },
+    {
+     "name": "భూ సురక్ష",
+     "type": "Scheme",
+     "english_name": "Bhulekh"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "వైయస్‌ఆర్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "పెమ్మసాని",
+     "type": "Person",
+     "english_name": "Pemmababu"
+    },
+    {
+     "name": "కేంద్ర ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైయస్‌ఆర్‌సీపీ",
+     "evidence": "పోలింగ్‌ మే 14న ఉంటే, మే 10న ఈనాడులో ఏకంగా ‘మీ భూమి మీది కాకుండా పోతుంది’ అని ఒక ప్రకటన ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "కేంద్ర ప్రభుత్వం",
+     "evidence": "కేంద్రంలో భాగస్వామిగా ఉన్న వ్యక్తిగా పూర్తిగా యూటర్న్‌ ఎందుకు తీసుకున్నారు?"
+    },
+    {
+     "source": "పెమ్మసాని",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భూరక్ష",
+     "evidence": "కేంద్ర మంత్రి పెమ్మసాని ట్వీట్‌ చేయడం"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "భూరక్ష",
+     "evidence": "చంద్రబాబు ‘థ్యాంక్యూ’ అని రీట్వీట్‌ చేయడం"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1003db17ab1d40d9a97e53a8657f340ae8d78c7c": {
+   "entities": [
+    {
+     "name": "జగనన్న భూ హక్కు – భూరక్ష",
+     "type": "Scheme",
+     "english_name": "Jagananna Bhoomi Hakku – Bhoomi Raksha"
+    },
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "వైఎస్సార్",
+     "type": "Person",
+     "english_name": "YSR"
+    },
+    {
+     "name": "ఏపీ గవర్నమెంట్‌ పోర్టల్‌",
+     "type": "Organization",
+     "english_name": "AP Government Portal"
+    },
+    {
+     "name": "www.meebhoomi.ap.gov.in",
+     "type": "Organization",
+     "english_name": "www.meebhoomi.ap.gov.in"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "జగనన్న భూ హక్కు – భూరక్ష",
+     "evidence": "చంద్రబాబు నాయుడు ఇస్తున్న పాసుబుక్"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు ప్రభుత్వం",
+     "evidence": "చంద్రబాబు ఏం చేస్తున్నాడు.. అయ్యే పాస్‌బుక్కులు తీసుకోవడం, కలర్‌ మార్చడం.. ఇవ్వడం."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "07d7b6260e87c5d7ed0f77fb70622f8baec8c1e9": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "జగనన్న భూ హక్కు – భూరక్ష",
+     "type": "Scheme",
+     "english_name": "Jagananna Bhoomi Hakku – Bhoomi Raksha"
+    },
+    {
+     "name": "ఏపీ గవర్నమెంట్‌ పోర్టల్‌",
+     "type": "Organization",
+     "english_name": "AP Government Portal"
+    },
+    {
+     "name": "15 వేల గ్రామ సచివాలయాలు",
+     "type": "Organization",
+     "english_name": "15 thousand village secretariats"
+    },
+    {
+     "name": "40 వేల మంది సర్వేయర్లు, డిజిటల్‌ అసిస్టెంట్లు, వీఆర్‌వోలు",
+     "type": "Organization",
+     "english_name": "40 thousand surveyors, digital assistants, VROs"
+    },
+    {
+     "name": "కోట్లాది సర్వే రాళ్లు",
+     "type": "Organization",
+     "english_name": "crores of survey stones"
+    },
+    {
+     "name": "యూనిక్‌ ల్యాండ్‌ పార్సిల్‌ ఐడీ",
+     "type": "Organization",
+     "english_name": "unique land parcel ID"
+    },
+    {
+     "name": "జియో ట్యాగింగ్‌తో ల్యాండ్‌ మ్యాప్‌లు",
+     "type": "Organization",
+     "english_name": "land maps with geotagging"
+    },
+    {
+     "name": "అడ్వాన్స్‌ సెక్యూరిటీ ఫీచర్లతో క్యూఆర్‌ కోడ్‌",
+     "type": "Organization",
+     "english_name": "QR code with advanced security features"
+    },
+    {
+     "name": "ఆటోమేటిక్‌ మ్యూటేషన్",
+     "type": "Organization",
+     "english_name": "automatic mutation"
+    },
+    {
+     "name": "ఆటోమేటిక్‌ సబ్‌డివిజన్‌",
+     "type": "Organization",
+     "english_name": "automatic subdivision"
+    },
+    {
+     "name": "రియల్‌టైమ్‌ అలర్ట్‌లు",
+     "type": "Organization",
+     "english_name": "real-time alerts"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ఏపీ గవర్నమెంట్‌ పోర్టల్‌",
+     "evidence": "ఎన్నికలకు ముందు చంద్రబాబు చేసిన ఆరోపణలు ఏం కావాలి?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "f213bf5d32b146be9d7d88fb31649bf4d8b13d12": {
+   "entities": [
+    {
+     "name": "JAGANANNA BHU RAKSHA PASS BOOK",
+     "type": "Scheme",
+     "english_name": "Jagananna Bho Raksha Pass Book"
+    },
+    {
+     "name": "MANDA SALMAN MURDER",
+     "type": "Issue",
+     "english_name": "Manda Salman Murder"
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "పాదయాత్ర",
+     "type": "Claim",
+     "english_name": "Padayatra"
+    },
+    {
+     "name": "రెవెన్యూ వ్యవస్థ",
+     "type": "Organization",
+     "english_name": "Revenue System"
+    },
+    {
+     "name": "22–ఏ",
+     "type": "Scheme",
+     "english_name": "22-A"
+    },
+    {
+     "name": "భూసర్వే",
+     "type": "Scheme",
+     "english_name": "Bhoosurvey"
+    },
+    {
+     "name": "భూసంస్కరణలు",
+     "type": "Scheme",
+     "english_name": "Bhoosamskaralu"
+    },
+    {
+     "name": "మ్యానిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "రెవెన్యూ వ్యవస్థ",
+     "evidence": "చంద్రబాబునాయుడు గారు ముఖ్యమంత్రిగా ఉన్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "3a9c7735193179b9a0aa2f3eeff516bba112bd7d": {
+   "entities": [
+    {
+     "name": "ఈయన",
+     "type": "Person",
+     "english_name": "He"
+    },
+    {
+     "name": "అంబేద్కర్‌ విగ్రహం",
+     "type": "Place",
+     "english_name": "Ambedkar Statue"
+    },
+    {
+     "name": "నా పేరు",
+     "type": "Person",
+     "english_name": "My name"
+    },
+    {
+     "name": "ఈ రైతులకు",
+     "type": "Person",
+     "english_name": "These farmers"
+    },
+    {
+     "name": "మా నాన్నతో",
+     "type": "Person",
+     "english_name": "My father"
+    },
+    {
+     "name": "ఆయన",
+     "type": "Person",
+     "english_name": "He"
+    },
+    {
+     "name": "సర్వే రాళ్లు",
+     "type": "Place",
+     "english_name": "Survey stones"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "13c8528f84529a0066a53cba290e80f34b76c71a": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "సర్వే",
+     "type": "Scheme",
+     "english_name": "Survey"
+    },
+    {
+     "name": "రిజిస్ట్రేషన్‌ సేవలు",
+     "type": "Scheme",
+     "english_name": "Registration Services"
+    },
+    {
+     "name": "గ్రామ, వార్డు సచివాలయాలు",
+     "type": "Organization",
+     "english_name": "Village and Ward Secretariats"
+    },
+    {
+     "name": "పట్టాదారు పాస్‌బుక్‌",
+     "type": "Scheme",
+     "english_name": "Patta Dar Passbook"
+    },
+    {
+     "name": "22-ఏ",
+     "type": "Issue",
+     "english_name": "22-A"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "7630308f93ce88c8b338b872a4bffed977b17da2": {
+   "entities": [
+    {
+     "name": "గొప్ప టెక్నాలజీని అడాప్ట్‌ చేసుకున్నాం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "మీ భూమి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "పెద్ద మనిషి",
+     "type": "Person",
+     "english_name": "big man"
+    },
+    {
+     "name": "శాశ్వత భూ హక్కు.. భూ రక్ష",
+     "type": "Scheme",
+     "english_name": "Perpetual Land Rights.. Land Protection"
+    },
+    {
+     "name": "సర్వే రాళ్లు",
+     "type": "Organization",
+     "english_name": "Survey Stones"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "e9c94be66217dd15c0d8bb62fe353a1b67016fbc": {
+   "entities": [
+    {
+     "name": "వైఎస్సార్‌ సీపీ ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "YSRCP Government"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandra Babu"
+    },
+    {
+     "name": "అసైన్డ్‌ నిరుపేదలు",
+     "type": "Person",
+     "english_name": "Assigned poor"
+    },
+    {
+     "name": "చుక్కల భూములు",
+     "type": "Place",
+     "english_name": "Chukkal lands"
+    },
+    {
+     "name": "షరతులు కలిగిన భూములు",
+     "type": "Place",
+     "english_name": "Conditional lands"
+    },
+    {
+     "name": "విలేజ్‌ సర్వీస్‌ ఇనాం భూములు",
+     "type": "Place",
+     "english_name": "Village service inam lands"
+    },
+    {
+     "name": "ట్రైబల్‌ ప్రాంతాలు",
+     "type": "Place",
+     "english_name": "Tribal areas"
+    },
+    {
+     "name": "ఆర్‌ఓఎఫ్‌ఆర్‌ పట్టాలు",
+     "type": "Scheme",
+     "english_name": "ROFR pattas"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైఎస్సార్‌ సీపీ ప్రభుత్వం",
+     "evidence": "అబద్ధాలు చెప్పడానికి బుద్ధి, జ్ఞానం ఏమైనా ఉండాలి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "1eaa410305122f0446e378539e54852e6073ecb1": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు గారు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "సిఐలు",
+     "type": "Organization",
+     "english_name": "CI"
+    },
+    {
+     "name": "ఎస్ఐలు",
+     "type": "Organization",
+     "english_name": "SI"
+    },
+    {
+     "name": "ఎస్పీలు",
+     "type": "Organization",
+     "english_name": "SP"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Organization",
+     "english_name": "MLA"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు గారు",
+     "relation": "ACCUSES",
+     "target": "సిఐలు",
+     "evidence": "చంద్రబాబు నాయుడు గారు సాక్షాత్తూ.. వీళ్లంతా దోషులే."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు గారు",
+     "relation": "ACCUSES",
+     "target": "ఎస్ఐలు",
+     "evidence": "చంద్రబాబు నాయుడు గారు సాక్షాత్తూ.. వీళ్లంతా దోషులే."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు గారు",
+     "relation": "ACCUSES",
+     "target": "ఎస్పీలు",
+     "evidence": "చంద్రబాబు నాయుడు గారు సాక్షాత్తూ.. వీళ్లంతా దోషులే."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు గారు",
+     "relation": "ACCUSES",
+     "target": "ఎమ్మెల్యేలు",
+     "evidence": "చంద్రబాబు నాయుడు గారు సాక్షాత్తూ.. వీళ్లంతా దోషులే."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు గారు",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "చంద్రబాబు నాయుడు గారు సాక్షాత్తూ.. వీళ్లంతా దోషులే."
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు గారు",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "చనిపోయిన ఆ మనిషిని తన ఊర్లో బరీ చేయడానికి కూడా ఊర్లోకి పోకూడదని పోలీసులు అడ్డుకున్నారు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "546f062836bdf1d5fcd801856cb892efd4a5584d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు నాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "ఆయన కొడుక్కు",
+     "type": "Person",
+     "english_name": "His son"
+    },
+    {
+     "name": "ఆయన పార్టీ",
+     "type": "Party",
+     "english_name": "His party"
+    },
+    {
+     "name": "ఆయన",
+     "type": "Person",
+     "english_name": "He"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఆయన కొడుక్కు",
+     "evidence": "ఆయన కొడుక్కు నేర్పించిన అలవాటు"
+    },
+    {
+     "source": "చంద్రబాబు నాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఆయన పార్టీ",
+     "evidence": "ఆయన పార్టీ వాళ్లకు ఆయన చెప్పే అలవాటు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cdd850cbe7d78986cb982d0566482d63366f4f73": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "మా ప్రభుత్వ హయాంలో",
+     "type": "Organization",
+     "english_name": "Our Government"
+    },
+    {
+     "name": "42,307 మంది రైతులకు",
+     "type": "Person",
+     "english_name": "42,307 farmers"
+    },
+    {
+     "name": "46,463 ఎకరాల అసైన్డ్‌ భూములు",
+     "type": "Place",
+     "english_name": "46,463 acres of assigned lands"
+    },
+    {
+     "name": "ట్రైబల్‌ ప్రాంతాల్లో ఆర్‌ఓఎఫ్‌ఆర్‌ పట్టాల కింద 1.54 లక్షల గిరిజన కుటుంబాలకు 3.26 లక్షల ఎకరాలపై హక్కు కల్పించింది",
+     "type": "Organization",
+     "english_name": "ROFR pattas tribal families"
+    },
+    {
+     "name": "22–ఏ",
+     "type": "Scheme",
+     "english_name": "22-A"
+    },
+    {
+     "name": "క్యూఆర్‌ కోడ్‌ విధానం",
+     "type": "Scheme",
+     "english_name": "QR code system"
+    },
+    {
+     "name": "పోర్టల్, బ్లాక్‌ చెయిన్‌ అంటాడు.. మన్ను అంటాడు. పాడు అంటాడు..",
+     "type": "Organization",
+     "english_name": "Portal, blockchain, soil, and water"
+    },
+    {
+     "name": "రూ.400 కోట్లు కేంద్ర ప్రభుత్వం రివార్డు",
+     "type": "Organization",
+     "english_name": "Rs 400 crore central government reward"
+    },
+    {
+     "name": "పాస్‌ బుక్కులు",
+     "type": "Scheme",
+     "english_name": "Pass books"
+    },
+    {
+     "name": "జియో ట్యాగింగ్‌",
+     "type": "Scheme",
+     "english_name": "Geotagging"
+    },
+    {
+     "name": "ల్యాండ్‌ పార్సిళ్లు",
+     "type": "Place",
+     "english_name": "Land parcels"
+    },
+    {
+     "name": "ల్యాండ్‌ మ్యాప్స్",
+     "type": "Place",
+     "english_name": "Land maps"
+    },
+    {
+     "name": "ఏపీ గవర్నమెంట్‌ పోర్టల్",
+     "type": "Organization",
+     "english_name": "AP Government portal"
+    },
+    {
+     "name": "రెడ్‌బుక్‌ రాజ్యాంగం",
+     "type": "Issue",
+     "english_name": "Redbook constitution"
+    },
+    {
+     "name": "పిన్నెల్లి గ్రామం",
+     "type": "Place",
+     "english_name": "Pinnali village"
+    },
+    {
+     "name": "పల్నాడు జిల్లా గురజాల నియోజకవర్గంలో",
+     "type": "Place",
+     "english_name": "Palnadu district Guntur constituency"
+    },
+    {
+     "name": "సర్పంచ్‌",
+     "type": "Person",
+     "english_name": "Sarpanch"
+    },
+    {
+     "name": "ముగ్గురు ఎంపీటీసీలూ",
+     "type": "Person",
+     "english_name": "Three MPTCs"
+    },
+    {
+     "name": "వైసీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "మా ప్రభుత్వ హయాంలో",
+     "evidence": "చంద్రబాబు సృష్టించిన కష్టాల నుంచి మేము బయటకు తీస్తే ఈ మనిషి 22–ఏ గురించి మొన్నెప్పుడో మేము పెట్టామని మాట్లాడుతున్నాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "సర్పంచ్‌",
+     "evidence": "సర్పంచ్‌ మా వాడు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "ముగ్గురు ఎంపీటీసీలూ",
+     "evidence": "ముగ్గురు ఎంపీటీసీలూ మావాళ్లే."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "వైసీపీ",
+     "evidence": "వైసీపీ వాళ్లు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "94583b1f03d483d177daaea205e21b3422d2ff62": {
+   "entities": [
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandra Babu Naidu"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Sri Vys Jagan"
+    },
+    {
+     "name": "జాతీయ మానవ హక్కుల సంఘం",
+     "type": "Organization",
+     "english_name": "National Human Rights Commission"
+    },
+    {
+     "name": "కోర్టులు",
+     "type": "Organization",
+     "english_name": "Courts"
+    },
+    {
+     "name": "వైన్‌షాప్‌లు",
+     "type": "Organization",
+     "english_name": "Wine Shops"
+    },
+    {
+     "name": "బెల్టు షాప్‌లు",
+     "type": "Organization",
+     "english_name": "Belt Shops"
+    },
+    {
+     "name": "రాజధాని",
+     "type": "Place",
+     "english_name": "Capital"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "వైన్‌షాప్‌లు",
+     "evidence": "ఎక్కడ పడితే అక్కడ వైన్‌షాప్‌లు. బెల్టు షాప్‌లు. అడ్డగోలుగా మద్యం అమ్మకాలు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "బెల్టు షాప్‌లు",
+     "evidence": "ఎక్కడ పడితే అక్కడ వైన్‌షాప్‌లు. బెల్టు షాప్‌లు. అడ్డగోలుగా మద్యం అమ్మకాలు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "కోర్టులు",
+     "evidence": "గట్టిగా కోర్టుల మీద ఒత్తిడి తీసుకొస్తాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "జాతీయ మానవ హక్కుల సంఘం",
+     "evidence": "జాతీయ మానవ హక్కుల సంఘాన్ని కూడా ఆశ్రయిస్తాం."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబునాయుడు",
+     "evidence": "ఎల్లకాలం నువ్వు ఆపలేవు. ఎల్లకాలం చంద్రబాబునాయుడు రోజులు ఉండవు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1245,6 +1245,209 @@
     }
    ],
    "relations": []
+  },
+  "36f3feff09fa467aff3a0e9814369494dfc963d6": {
+   "entities": [
+    {
+     "name": "శ్రీ కురసాల కన్నబాబు",
+     "type": "Person",
+     "english_name": "Kurasala Kannababu"
+    },
+    {
+     "name": "శ్రీ వై యస్ జగన్మోహన్ రెడ్డి",
+     "type": "Person",
+     "english_name": "Y.S. Jagannath Reddy"
+    },
+    {
+     "name": "శ్రీ లేళ్ల అప్పిరెడ్డి",
+     "type": "Person",
+     "english_name": "Lella Appireddy"
+    },
+    {
+     "name": "పోలీస్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఇన్స్పెక్టర్ ఆఫ్ పోలీస్",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSR కాంగ్రెస్ పార్టీ",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "కాకినాడ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "అన్నదాత పోరు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "30 పోలీస్ ఆక్ట్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "You are not allowed to participate in the program.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "Permission is granted with instructions that no rallies or Dharnas are allowed.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "You are requested not to gather, conduct any procession and organize any protest program on 09.09.2025.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ కురసాల కన్నబాబు",
+     "relation": "MEMBER_OF",
+     "target": "YSR కాంగ్రెస్ పార్టీ",
+     "evidence": "YSR కాంగ్రెస్ పార్టీ"
+    },
+    {
+     "source": "శ్రీ లేళ్ల అప్పిరెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "YSR కాంగ్రెస్ పార్టీ",
+     "evidence": "YSR కాంగ్రెస్ పార్టీ"
+    },
+    {
+     "source": "పోలీస్",
+     "relation": "LOCATED_IN",
+     "target": "కాకినాడ",
+     "evidence": "కాకినాడ జిల్లా అధ్యక్షులు"
+    },
+    {
+     "source": "ఇన్స్పెక్టర్ ఆఫ్ పోలీస్",
+     "relation": "LOCATED_IN",
+     "target": "గుంటూరు",
+     "evidence": "Guntur District"
+    },
+    {
+     "source": "You are not allowed to participate in the program.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అన్నదాత పోరు",
+     "evidence": "అన్నదాత పోరు"
+    },
+    {
+     "source": "Permission is granted with instructions that no rallies or Dharnas are allowed.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అన్నదాత పోరు",
+     "evidence": "అన్నదాత పోరు"
+    },
+    {
+     "source": "You are requested not to gather, conduct any procession and organize any protest program on 09.09.2025.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "అన్నదాత పోరు",
+     "evidence": "అన్నదాత పోరు"
+    }
+   ]
+  },
+  "9a8b31c882594661b88d478b71790d631928e9db": {
+   "entities": [
+    {
+     "name": "పల్నాడు జిల్లా",
+     "type": "Place",
+     "english_name": "Palnadu district"
+    },
+    {
+     "name": "దాచేపల్లి",
+     "type": "Place",
+     "english_name": "Dachepalli"
+    },
+    {
+     "name": "పొందుగుల",
+     "type": "Place",
+     "english_name": "Emopugula"
+    },
+    {
+     "name": "తెలంగాణ",
+     "type": "Place",
+     "english_name": "Telangana"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": "Guntur"
+    },
+    {
+     "name": "కారంపూడి",
+     "type": "Place",
+     "english_name": "Karamudi"
+    },
+    {
+     "name": "నంద్యాల",
+     "type": "Place",
+     "english_name": "Nandyala"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "సకినాల సురేష్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "బొలగన సుధీర్",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నంద్యాల నాగరాజు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "ఆతుకూరి నరసింహరావు",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "నీరజ లక్ష్మీ వెంకట సత్యనారాయణ కమర్షియల్ షాపు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "విజిలెన్స్ అండ్ ఎన్ఫోర్స్మెంట్ అధికారులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "దాచేపల్లి పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "వ్యవసాయ అధికారి",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "టీడీపీ నేతలు అక్రమంగా సరిహద్దు దాటుతూ పెద్ద ఎత్తున సొమ్ము చేసుకుంటున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": []
   }
  }
 }

@@ -1,0 +1,144 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "058c7bada6d07901f98378dccf0380f4e9f1dabc": {
+   "entities": [
+    {
+     "name": "YSR Congress Party",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "Samajwadi Party",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "TMC",
+     "type": "Party",
+     "english_name": "TMC"
+    },
+    {
+     "name": "Shiv Sena (Uddhav)",
+     "type": "Party",
+     "english_name": "Shiv Sena (Uddhav)"
+    },
+    {
+     "name": "AAP",
+     "type": "Party",
+     "english_name": "AAP"
+    },
+    {
+     "name": "AIADMK",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "Jharkhand Mukti Morcha",
+     "type": "Party",
+     "english_name": "Jharkhand Mukti Morcha"
+    },
+    {
+     "name": "IUML",
+     "type": "Party",
+     "english_name": "IUML"
+    },
+    {
+     "name": "MIM",
+     "type": "Party",
+     "english_name": "MIM"
+    },
+    {
+     "name": "VCK",
+     "type": "Party",
+     "english_name": "VCK"
+    },
+    {
+     "name": "Akhilesh Yadav",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "Supreme Court",
+     "type": "Organization",
+     "english_name": "Supreme Court"
+    },
+    {
+     "name": "Redruk Rajyam",
+     "type": "Claim",
+     "english_name": "Redruk Rajyam"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "Delhi",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "Uttar Pradesh",
+     "type": "Place",
+     "english_name": "Uttar Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Akhilesh Yadav",
+     "relation": "MEMBER_OF",
+     "target": "Samajwadi Party",
+     "evidence": "సమాజ్వాదీ పార్టీ నేత అఖిలేశ్యాదవ్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "12ce9c972bb145d3bddb2093e2f2187411aa0ac5": {
+   "entities": [
+    {
+     "name": "శివసేన (ఉద్ధవ్) ఎంపీ సంజయ్ రౌత్",
+     "type": "Person",
+     "english_name": "Sanjay Raut"
+    },
+    {
+     "name": "తృణమూల్ కాంగ్రెస్ ఎంపీ నదీముల్",
+     "type": "Person",
+     "english_name": "Nadimul Haque"
+    },
+    {
+     "name": "ఐయూఎంఎల్ ఎంపీ వాహబ్",
+     "type": "Person",
+     "english_name": "Wahab"
+    },
+    {
+     "name": "ఏఐఏడీఎంకే ఎంపీ తంబిదొరై",
+     "type": "Person",
+     "english_name": "Thambidurai"
+    },
+    {
+     "name": "వీసీకే అధినేత తిరుమావలవన్",
+     "type": "Person",
+     "english_name": "Thirumavalavan"
+    },
+    {
+     "name": "ఆప్ ఎమ్మెల్యే రాజేంద్రపాల్ గౌతమ్",
+     "type": "Person",
+     "english_name": "Rajendra Pal Gautam"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "కేంద్రం",
+     "type": "Organization",
+     "english_name": "Central Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

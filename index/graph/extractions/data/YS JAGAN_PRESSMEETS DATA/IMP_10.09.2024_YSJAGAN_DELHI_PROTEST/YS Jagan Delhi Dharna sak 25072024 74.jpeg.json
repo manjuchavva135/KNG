@@ -1,0 +1,424 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "ce35a3316f57199cba322439c42b19e4ab22a56e": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "30d237c629dfc1d1d9bf502128accf59b0abba61": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "16f7b79136c169f91c26600be2b075588b1c7b92": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "b0897e5de3791d3528707dd196825ba1d85e5558": {
+   "entities": [],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "0d28d4ed3c101460ab91497823e6771b75b9d2ea": {
+   "entities": [
+    {
+     "name": "Srikakulam District",
+     "type": "Place",
+     "english_name": "Srikakulam District"
+    },
+    {
+     "name": "TDF",
+     "type": "Organization",
+     "english_name": "TDF"
+    },
+    {
+     "name": "Dalit woman",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Maala Marusapuran village",
+     "type": "Place",
+     "english_name": "Maala Marusapuran village"
+    },
+    {
+     "name": "Santabommal Mandal",
+     "type": "Place",
+     "english_name": "Santabommal Mandal"
+    },
+    {
+     "name": "Tekkali constituency",
+     "type": "Place",
+     "english_name": "Tekkali constituency"
+    },
+    {
+     "name": "Srikakulam",
+     "type": "Place",
+     "english_name": "Srikakulam"
+    },
+    {
+     "name": "Rajya Sabha MP Parimal Nathwani",
+     "type": "Person",
+     "english_name": "Parimal Nathwani"
+    },
+    {
+     "name": "Andhra Pradesh Photo & Video Exhibition",
+     "type": "Organization",
+     "english_name": "Andhra Pradesh Photo & Video Exhibition"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Shiv Sena (UBT)",
+     "type": "Party",
+     "english_name": "Shiv Sena (UBT)"
+    },
+    {
+     "name": "AIADMK",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "AAP",
+     "type": "Party",
+     "english_name": "AAP"
+    },
+    {
+     "name": "VCK",
+     "type": "Party",
+     "english_name": "VCK"
+    },
+    {
+     "name": "Akhilesh Yadav",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "YS Jagan Mohan Reddy",
+     "type": "Person",
+     "english_name": "YS Jagan Mohan Reddy"
+    },
+    {
+     "name": "Sanjay Raut",
+     "type": "Person",
+     "english_name": "Sanjay Raut"
+    },
+    {
+     "name": "Thanjithurai",
+     "type": "Person",
+     "english_name": "Thanjithurai"
+    },
+    {
+     "name": "N. Chandrasekharan",
+     "type": "Person",
+     "english_name": "N. Chandrasekharan"
+    },
+    {
+     "name": "Arvind Sawant",
+     "type": "Person",
+     "english_name": "Arvind Sawant"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Sanjay Raut",
+     "relation": "MEMBER_OF",
+     "target": "Shiv Sena (UBT)",
+     "evidence": "Shiv Sena (UBT) MP Sanjay Raut"
+    },
+    {
+     "source": "Thanjithurai",
+     "relation": "MEMBER_OF",
+     "target": "AIADMK",
+     "evidence": "AIADMK MPs Thanjithurai, N. Chandrasekharan"
+    },
+    {
+     "source": "N. Chandrasekharan",
+     "relation": "MEMBER_OF",
+     "target": "AIADMK",
+     "evidence": "AIADMK MPs Thanjithurai, N. Chandrasekharan"
+    },
+    {
+     "source": "Arvind Sawant",
+     "relation": "MEMBER_OF",
+     "target": "Shiv Sena (UBT)",
+     "evidence": "Shiv Sena (UBT) MP Arvind Sawant"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "4812644692bd93ab5e912671051c016058bc5bdc": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "జంతర్ మంతర్",
+     "type": "Place",
+     "english_name": "Jantar Mantar"
+    },
+    {
+     "name": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "టీడీపీ కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Alliance Government"
+    },
+    {
+     "name": "లోకేశ్ రెడ్బుక్",
+     "type": "Scheme",
+     "english_name": "Lokesh Redbook"
+    },
+    {
+     "name": "అంబేద్కర్",
+     "type": "Person",
+     "english_name": "B. R. Ambedkar"
+    },
+    {
+     "name": "లోకేశ్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "నెల్సన్ మండేలా",
+     "type": "Person",
+     "english_name": "Nelson Mandela"
+    },
+    {
+     "name": "సమాజ్వాది పార్టీ",
+     "type": "Party",
+     "english_name": "Samajwadi Party"
+    },
+    {
+     "name": "ఆమ్ ఆద్మీ పార్టీ",
+     "type": "Party",
+     "english_name": "Aam Aadmi Party"
+    },
+    {
+     "name": "ఏఐఏడీఎంకే",
+     "type": "Party",
+     "english_name": "AIADMK"
+    },
+    {
+     "name": "శివసేన",
+     "type": "Party",
+     "english_name": "Shiv Sena"
+    },
+    {
+     "name": "ఏఐటీసీ",
+     "type": "Party",
+     "english_name": "AITC"
+    },
+    {
+     "name": "వీసీకే",
+     "type": "Party",
+     "english_name": "VCK"
+    },
+    {
+     "name": "ఐయూఎంఎల్",
+     "type": "Party",
+     "english_name": "IUML"
+    },
+    {
+     "name": "అఖిలేష్ యాదవ్",
+     "type": "Person",
+     "english_name": "Akhilesh Yadav"
+    },
+    {
+     "name": "ప్రియాంక చతుర్వేది",
+     "type": "Person",
+     "english_name": "Priyanka Chaturvedi"
+    },
+    {
+     "name": "పీవీ అబ్దుల్ వాహబ్",
+     "type": "Person",
+     "english_name": "PV Abdul Wahab"
+    },
+    {
+     "name": "ప్రొఫెసర్ రాంగోపాల్ యాదవ్",
+     "type": "Person",
+     "english_name": "Prof. Ram Gopal Yadav"
+    },
+    {
+     "name": "తంబిదురై",
+     "type": "Person",
+     "english_name": "T. R. Baalu"
+    },
+    {
+     "name": "ఎండీ నదీముల్ హక్వీ",
+     "type": "Person",
+     "english_name": "Md. Nadimul Haque"
+    },
+    {
+     "name": "అరవింద్ సావంత్",
+     "type": "Person",
+     "english_name": "Arvind Sawant"
+    },
+    {
+     "name": "తిరుమావలన్లు",
+     "type": "Person",
+     "english_name": "Thirumavalavan"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "లోకేశ్ రెడ్బుక్",
+     "evidence": "రాష్ట్రంలో ఇప్పుడు అంబేద్కర్ రచించిన భారత రాజ్యాంగం కాకుండా, లోకేశ్ రెడ్బుక్ రాజ్యాంగం అమలవుతోంది."
+    },
+    {
+     "source": "అఖిలేష్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోపాల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    },
+    {
+     "source": "ప్రియాంక చతుర్వేది",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోపాల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    },
+    {
+     "source": "పీవీ అబ్దుల్ వాహబ్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోపాల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    },
+    {
+     "source": "ప్రొఫెసర్ రాంగోపాల్ యాదవ్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోపాల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    },
+    {
+     "source": "తంబిదురై",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోపాల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    },
+    {
+     "source": "ఎండీ నదీముల్ హక్వీ",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోపాల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    },
+    {
+     "source": "అరవింద్ సావంత్",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    },
+    {
+     "source": "తిరుమావలన్లు",
+     "relation": "MEMBER_OF",
+     "target": "వైఎస్సార్ కాంగ్రెస్ పార్టీ",
+     "evidence": "సమాజ్వాది పార్టీ, ఆమ్ ఆద్మీ పార్టీ, ఏఐఏడీఎంకే, శివసేన, ఏఐటీసీ, వీసీకే, ఐయూఎంఎల్, ఎంపీలు అఖిలేష్ యాదవ్, ప్రియాంక చతుర్వేది, పీవీ అబ్దుల్ వాహబ్, ప్రొఫెసర్ రాంగోపాల్ యాదవ్, తంబిదురై, ఎండీ నదీముల్ హక్వీ, అరవింద్ సావంత్, తిరుమావలన్లు అందించిన మద్దతు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "07c3a08fc227aadd1fc592dbf895adc0c0f30502": {
+   "entities": [
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "టీడీపీ",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "ఆంధ్రప్రదేశ్",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "ఢిల్లీ",
+     "type": "Place",
+     "english_name": "Delhi"
+    },
+    {
+     "name": "ప్రజల",
+     "type": "Claim",
+     "english_name": "People"
+    },
+    {
+     "name": "రాజ్యాంగ వ్యవస్థ",
+     "type": "Claim",
+     "english_name": "Constitutional system"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "నెల్సన్ మండేలా",
+     "type": "Person",
+     "english_name": "Nelson Mandela"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "టీడీపీ",
+     "evidence": "టీడీపీ అరాచకాలపై ఫొటో ఎగ్జిబిషన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజల",
+     "evidence": "గతంలో వైఎస్సార్సీపీ అధికారంలో ఉన్నప్పుడు ఇలాంటి వేమీ జరగలేదు."
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "MAKES_CLAIM",
+     "target": "రాజ్యాంగ వ్యవస్థ",
+     "evidence": "ఆ విధంగా రాజ్యాంగ వ్యవస్థను కూడా నిర్వీర్యం చేశారు."
+    },
+    {
+     "source": "నెల్సన్ మండేలా",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రజల",
+     "evidence": "ప్రజల మానవ హక్కులను తిరస్కరించడం అంటే వారి మానవత్వాన్ని సవాలు చేయడమే అని నెల్సన్ మండేలా చెప్పినట్లు.."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

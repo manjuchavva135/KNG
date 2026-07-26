@@ -1,0 +1,120 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "144b03008d6e8c801031b1e65b8f6b0ea292b409": {
+   "entities": [
+    {
+     "name": "మెగా డీఎస్సీ–2025",
+     "type": "Scheme",
+     "english_name": "Mega DSC-2025"
+    },
+    {
+     "name": "డీమెరిట్‌ డీఎస్సీ",
+     "type": "Scheme",
+     "english_name": "Demerit DSC"
+    },
+    {
+     "name": "టీడీపీ కూటమి ప్రభుత్వం",
+     "type": "Party",
+     "english_name": "TDP Alliance Government"
+    },
+    {
+     "name": "సాక్షి, అమరావతి",
+     "type": "Organization",
+     "english_name": "Sakshi, Amaravati"
+    },
+    {
+     "name": "జిల్లా, ప్రాంతీయ, రాష్ట్ర స్థాయిలో గ్రీవెన్స్‌ రెడ్రెస్‌ సెల్స్‌",
+     "type": "Organization",
+     "english_name": "Grievance Redress Cells"
+    },
+    {
+     "name": "ఆర్జేడీ",
+     "type": "Organization",
+     "english_name": "RJDE"
+    },
+    {
+     "name": "రాష్ట్ర కార్యాలయం",
+     "type": "Organization",
+     "english_name": "State Office"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "అన్నమయ్య జిల్లా",
+     "type": "Place",
+     "english_name": "Annamayya District"
+    },
+    {
+     "name": "ఓసీ–ఈడబ్లు్యఎస్‌ కోటా",
+     "type": "Scheme",
+     "english_name": "OC-EWS Quota"
+    },
+    {
+     "name": "బీసీ కోటా",
+     "type": "Scheme",
+     "english_name": "BC Quota"
+    }
+   ],
+   "relations": [
+    {
+     "source": "టీడీపీ కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "మెగా డీఎస్సీ–2025",
+     "evidence": "టీడీపీ కూటమి ప్రభుత్వం ఏర్పడ్డాక ఇచ్చిన మొదటి నోటిఫికేషన్‌ మెగా డీఎస్సీ–2025"
+    },
+    {
+     "source": "టీడీపీ కూటమి ప్రభుత్వం",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీమెరిట్‌ డీఎస్సీ",
+     "evidence": "డీమెరిట్‌ డీఎస్సీగా మారిపోయిందా?"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "fa9fdf97a6544ecb8ff0006366d0c21f22dab3db": {
+   "entities": [
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Coalition Government"
+    },
+    {
+     "name": "16,347 ఉపాధ్యాయు పోస్టులు",
+     "type": "Scheme",
+     "english_name": "16,347 teacher posts"
+    },
+    {
+     "name": "148 రోజులు",
+     "type": "Claim",
+     "english_name": "148 days"
+    },
+    {
+     "name": "15,941 పోస్టులు",
+     "type": "Claim",
+     "english_name": "15,941 posts"
+    },
+    {
+     "name": "406 పోస్టులు",
+     "type": "Claim",
+     "english_name": "406 posts"
+    },
+    {
+     "name": "హైకోర్టు",
+     "type": "Organization",
+     "english_name": "High Court"
+    },
+    {
+     "name": "చంద్రబాబు సర్కారు",
+     "type": "Organization",
+     "english_name": "Chandrababu Government"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

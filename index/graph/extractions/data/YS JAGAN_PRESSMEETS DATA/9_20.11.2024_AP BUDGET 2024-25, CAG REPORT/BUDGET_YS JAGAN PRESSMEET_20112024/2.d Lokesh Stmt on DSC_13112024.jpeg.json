@@ -1,0 +1,69 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "9a4b5274109d399f4c3e30602264ce5b2ffe1061": {
+   "entities": [
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "లోకేష్",
+     "type": "Person",
+     "english_name": "Lokesh"
+    },
+    {
+     "name": "విద్యాశాఖ మంత్రి",
+     "type": "Person",
+     "english_name": "Education Minister"
+    },
+    {
+     "name": "డీఎస్సీ-2024",
+     "type": "Scheme",
+     "english_name": "DSC-2024"
+    },
+    {
+     "name": "సూపర్ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "తెదేపా",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "గిరిజన వర్సిటీ",
+     "type": "Scheme",
+     "english_name": "Tribal University"
+    },
+    {
+     "name": "బుచ్చయ్య చౌదరి",
+     "type": "Person",
+     "english_name": "Buchayya Choudary"
+    },
+    {
+     "name": "రాజమహేంద్రవరం",
+     "type": "Place",
+     "english_name": "Rajahmundry"
+    }
+   ],
+   "relations": [
+    {
+     "source": "లోకేష్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "డీఎస్సీ-2024",
+     "evidence": "సూపర్ సిక్స్ హామీల్లో భాగంగా డీఎస్సీ నోటిఫికేషన్ త్వరలో ఇస్తున్నాం."
+    },
+    {
+     "source": "లోకేష్",
+     "relation": "MEMBER_OF",
+     "target": "తెదేపా",
+     "evidence": "గత తెదేపా ప్రభుత్వ హయాంలో కేటాయిం చించిన స్థలంలోనే గిరిజన విశ్వవిద్యాలయాన్ని"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

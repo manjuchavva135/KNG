@@ -1,0 +1,65 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "bf3ed1beba1058865d5ff122759e86af03aae263": {
+   "entities": [
+    {
+     "name": "Prohibition & Excise Dept., Govt of Andhra Pradesh(APSBCL)",
+     "type": "Organization",
+     "english_name": "Prohibition & Excise Department, Government of Andhra Pradesh (APSBCL)"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": "Amaravathi"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "SHASHI DISTILLERIES PVT LTD",
+     "type": "Organization",
+     "english_name": "Shashi Distilleries Pvt Ltd"
+    },
+    {
+     "name": "GOVERNORS RESERVE 100% PREMIUM GRAIN WHISKY",
+     "type": "Scheme",
+     "english_name": "Governors Reserve 100% Premium Grain Whisky"
+    },
+    {
+     "name": "LAFFAIRE NAPOLEON PREMIUM FRENCH BLENDED GRAPE BRANDY",
+     "type": "Scheme",
+     "english_name": "Laffaire Napoleon Premium French Blended Grape Brandy"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prohibition & Excise Dept., Govt of Andhra Pradesh(APSBCL)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Prohibition & Excise Dept., Govt of Andhra Pradesh(APSBCL)"
+    },
+    {
+     "source": "Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada, Amaravathi, Andhra Pradesh."
+    },
+    {
+     "source": "Amaravathi",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada, Amaravathi, Andhra Pradesh."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

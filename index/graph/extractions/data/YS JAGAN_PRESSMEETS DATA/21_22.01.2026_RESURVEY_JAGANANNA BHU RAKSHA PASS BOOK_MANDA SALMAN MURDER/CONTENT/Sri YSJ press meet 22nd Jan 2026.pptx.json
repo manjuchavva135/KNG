@@ -1,0 +1,42 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "868fe3e6724338814a3ab985f6fc1798b9de4f1e": {
+   "entities": [
+    {
+     "name": "Ministry of Rural Development, Government of India",
+     "type": "Organization",
+     "english_name": "Ministry of Rural Development, Government of India"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "934e20a9df63ac928a2ab8cbf2a798369ff1b091": {
+   "entities": [
+    {
+     "name": "Government of AP",
+     "type": "Organization",
+     "english_name": "Government of Andhra Pradesh"
+    },
+    {
+     "name": "Central Government",
+     "type": "Organization",
+     "english_name": "Central Government"
+    },
+    {
+     "name": "PIB notification",
+     "type": "Organization",
+     "english_name": "PIB notification"
+    },
+    {
+     "name": "Ministry’s annual report",
+     "type": "Organization",
+     "english_name": "Ministry’s annual report"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "b995600d0a7625b3c7d3ca1d7fc24703e1b7837d": {
+   "entities": [
+    {
+     "name": "AP Excise Act",
+     "type": "Organization",
+     "english_name": "AP Excise Act"
+    },
+    {
+     "name": "Commissioner of Proh. & Excise, AP Amaravathi",
+     "type": "Organization",
+     "english_name": "Commissioner of Prohibition and Excise, Andhra Pradesh, Amaravathi"
+    },
+    {
+     "name": "Rate Contract Agreement",
+     "type": "Organization",
+     "english_name": "Rate Contract Agreement"
+    },
+    {
+     "name": "M/s B9 Beverages Pvt Ltd",
+     "type": "Organization",
+     "english_name": "M/s B9 Beverages Pvt Ltd"
+    },
+    {
+     "name": "M/S ILIOS Breweries Pvt Ltd",
+     "type": "Organization",
+     "english_name": "M/S ILIOS Breweries Pvt Ltd"
+    },
+    {
+     "name": "West Godavari",
+     "type": "Place",
+     "english_name": "West Godavari"
+    }
+   ],
+   "relations": [
+    {
+     "source": "M/s B9 Beverages Pvt Ltd",
+     "relation": "LOCATED_IN",
+     "target": "West Godavari",
+     "evidence": "M/s B9 Beverages Pvt Ltd, WEST GODAVARI"
+    },
+    {
+     "source": "M/S ILIOS Breweries Pvt Ltd",
+     "relation": "LOCATED_IN",
+     "target": "West Godavari",
+     "evidence": "M/S ILIOS Breweries Pvt Ltd, WEST GODAVARI"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "dd8c832a999fce75fe0b1c455f07a9ae84159ab2": {
+   "entities": [
+    {
+     "name": "Prohibition & Excise Dept., Govt of Andhra Pradesh (APSBCL)",
+     "type": "Organization",
+     "english_name": "Prohibition & Excise Department, Government of Andhra Pradesh (APSBCL)"
+    },
+    {
+     "name": "Vijayawada",
+     "type": "Place",
+     "english_name": "Vijayawada"
+    },
+    {
+     "name": "Amaravathi",
+     "type": "Place",
+     "english_name": "Amaravathi"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    },
+    {
+     "name": "P&E Dept/APSBCL/I/MM/2019-20",
+     "type": "Organization",
+     "english_name": "P&E Department/APSBCL/I/MM/2019-20"
+    },
+    {
+     "name": "e-procurement notification No: P&E Dept /APBCL/1/2013-14/1",
+     "type": "Organization",
+     "english_name": "e-procurement notification No: P&E Dept /APBCL/1/2013-14/1"
+    },
+    {
+     "name": "M/s B9 Beverages Pvt Ltd",
+     "type": "Organization",
+     "english_name": "B9 Beverages Private Limited"
+    },
+    {
+     "name": "M/s ILIOS BREWERIES PVT LTD",
+     "type": "Organization",
+     "english_name": "Ilios Breweries Private Limited"
+    },
+    {
+     "name": "WEST GODAVARI",
+     "type": "Place",
+     "english_name": "West Godavari"
+    },
+    {
+     "name": "BIRA 91 BLONDE SUMMER LAGER BEER",
+     "type": "Organization",
+     "english_name": "BIRA 91 Blonde Summer Lager Beer"
+    },
+    {
+     "name": "ORIGINAL BIRA 91 BOOM SUPER STRONG BEER",
+     "type": "Organization",
+     "english_name": "Original BIRA 91 Boom Super Strong Beer"
+    },
+    {
+     "name": "ORIGINAL BIRA 91 BOOM SUPERIOR STRONG BEER",
+     "type": "Organization",
+     "english_name": "Original BIRA 91 Boom Superior Strong Beer"
+    },
+    {
+     "name": "ORIGINAL BIRA 91 BOOM CLASSIC BEER",
+     "type": "Organization",
+     "english_name": "Original BIRA 91 Boom Classic Beer"
+    },
+    {
+     "name": "ORIGINAL BIRA 91 BOOM SUPERIOR CLASSIC BEER",
+     "type": "Organization",
+     "english_name": "Original BIRA 91 Boom Superior Classic Beer"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Prohibition & Excise Dept., Govt of Andhra Pradesh (APSBCL)",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Prohibition & Excise Dept., Govt of Andhra Pradesh (APSBCL)"
+    },
+    {
+     "source": "Vijayawada",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada, Amaravathi, Andhra Pradesh."
+    },
+    {
+     "source": "Amaravathi",
+     "relation": "LOCATED_IN",
+     "target": "Andhra Pradesh",
+     "evidence": "Vijayawada, Amaravathi, Andhra Pradesh."
+    },
+    {
+     "source": "M/s B9 Beverages Pvt Ltd",
+     "relation": "LOCATED_IN",
+     "target": "WEST GODAVARI",
+     "evidence": "M/s B9 BEVERAGES PVT LTD S/L M/S ILIOS BREWERIES PVT LTD ,WEST GODAVARI"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

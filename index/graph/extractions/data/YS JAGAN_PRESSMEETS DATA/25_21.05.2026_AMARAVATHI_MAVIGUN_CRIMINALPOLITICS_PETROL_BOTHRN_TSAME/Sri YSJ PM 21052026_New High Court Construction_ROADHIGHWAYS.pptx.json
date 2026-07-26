@@ -1,0 +1,42 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "2f90f6d948ff4dcfc93cae8b95b24cfeee3a6ffc": {
+   "entities": [
+    {
+     "name": "New High Court construction",
+     "type": "Scheme",
+     "english_name": "New High Court construction"
+    },
+    {
+     "name": "Government orders",
+     "type": "Organization",
+     "english_name": "Government orders"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "9c4d97a583d0e5d4a61f57dc00c8bbc3e2cb1052": {
+   "entities": [
+    {
+     "name": "Sri, Nithin Gadkari ji",
+     "type": "Person",
+     "english_name": "Nithin Gadkari"
+    },
+    {
+     "name": "Hon’ble Minister of Road Transport and Highways",
+     "type": "Organization",
+     "english_name": "Ministry of Road Transport and Highways"
+    },
+    {
+     "name": "National Highway",
+     "type": "Organization",
+     "english_name": "National Highway"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

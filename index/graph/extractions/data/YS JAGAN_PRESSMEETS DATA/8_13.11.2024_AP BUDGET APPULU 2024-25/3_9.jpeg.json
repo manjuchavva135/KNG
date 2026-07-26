@@ -1,0 +1,200 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "03c763cb383ac5c81c81202edd3487469b307f73": {
+   "entities": [
+    {
+     "name": "జీడీపీలో 5 శాతం కన్నా తక్కువే",
+     "type": "Claim",
+     "english_name": "GDP less than 5%"
+    },
+    {
+     "name": "ఏపీ వెనకబడి ఉంది",
+     "type": "Claim",
+     "english_name": "AP is backward"
+    },
+    {
+     "name": "నిరుద్యోగ సమస్య పెరుగుతోంది",
+     "type": "Claim",
+     "english_name": "Unemployment problem increasing"
+    },
+    {
+     "name": "విద్య, ఆరోగ్యానికి ప్రాధాన్యత ఇచ్చిన పరిస్థితుల్లో లేవు",
+     "type": "Claim",
+     "english_name": "No priority given to education and health"
+    },
+    {
+     "name": "మిగతా దక్షిణాది రాష్ట్రాలతో పోల్చితే వెనకబడి ఉన్నాం",
+     "type": "Claim",
+     "english_name": "Backward compared to other southern states"
+    },
+    {
+     "name": "కొంత ప్రభావమున్నా.. పెద్దగా మార్పులేమీ జరగలేదు",
+     "type": "Claim",
+     "english_name": "Some impact but no major changes"
+    },
+    {
+     "name": "ఏపీలో అక్షరాస్యత 66 శాతమే",
+     "type": "Claim",
+     "english_name": "AP literacy 66%"
+    },
+    {
+     "name": "జాతీయ స్థాయిలో 78 శాతం",
+     "type": "Claim",
+     "english_name": "National level 78%"
+    },
+    {
+     "name": "నాడు-నేడు కార్యక్రమాలు పెద్దగా ప్రభావం చూపలేదు",
+     "type": "Claim",
+     "english_name": "Naadu-Nedu programs not much impact"
+    }
+   ],
+   "relations": [],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2ce2f303d1bbe80b9a5c4a9251621480a875ccdb": {
+   "entities": [
+    {
+     "name": "ఆంధ్రకు అప్పులే శాపం",
+     "type": "Issue",
+     "english_name": "Andhra's debt curse"
+    },
+    {
+     "name": "నిరుద్యోగం",
+     "type": "Issue",
+     "english_name": "Unemployment"
+    },
+    {
+     "name": "సంక్షేమ కార్యక్రమాలు",
+     "type": "Issue",
+     "english_name": "Welfare programs"
+    },
+    {
+     "name": "రాష్ట్ర రుణాలు",
+     "type": "Issue",
+     "english_name": "State loans"
+    },
+    {
+     "name": "జీఎస్డీపీ",
+     "type": "Issue",
+     "english_name": "GSDP"
+    },
+    {
+     "name": "ప్రత్యక్ష నగదు బదిలీ",
+     "type": "Scheme",
+     "english_name": "Direct cash transfer"
+    },
+    {
+     "name": "మహేంద్రదేవ్",
+     "type": "Person",
+     "english_name": "Mahendra Dev"
+    },
+    {
+     "name": "సెస్",
+     "type": "Organization",
+     "english_name": "Centre for Economic and Social Studies"
+    },
+    {
+     "name": "ఇందిరా గాంధీ ఇన్స్టిట్యూట్ ఆఫ్ డెవలప్మెంట్ రీసెర్చి",
+     "type": "Organization",
+     "english_name": "Indira Gandhi Institute of Development Research"
+    },
+    {
+     "name": "వ్యవసాయ ధరల నిర్ణాయక కమిటీ",
+     "type": "Organization",
+     "english_name": "Agriculture Cost and Prices Commission"
+    },
+    {
+     "name": "ఆర్థిక సేవలు",
+     "type": "Issue",
+     "english_name": "Financial services"
+    },
+    {
+     "name": "వ్యవసాయం",
+     "type": "Issue",
+     "english_name": "Agriculture"
+    },
+    {
+     "name": "పరిశ్రమలు",
+     "type": "Issue",
+     "english_name": "Industries"
+    },
+    {
+     "name": "సామాజిక సేవలు",
+     "type": "Issue",
+     "english_name": "Social services"
+    },
+    {
+     "name": "విద్య",
+     "type": "Issue",
+     "english_name": "Education"
+    },
+    {
+     "name": "ఆరోగ్యం",
+     "type": "Issue",
+     "english_name": "Health"
+    },
+    {
+     "name": "వడ్డీ చెల్లింపులు",
+     "type": "Issue",
+     "english_name": "Interest payments"
+    },
+    {
+     "name": "జీతాలు",
+     "type": "Issue",
+     "english_name": "Salaries"
+    },
+    {
+     "name": "మిగులు",
+     "type": "Issue",
+     "english_name": "Surplus"
+    },
+    {
+     "name": "సంక్షేమం",
+     "type": "Issue",
+     "english_name": "Welfare"
+    },
+    {
+     "name": "ఏపీ ఆర్ధిక సర్వే",
+     "type": "Organization",
+     "english_name": "AP Economic Survey"
+    },
+    {
+     "name": "బడ్జెట్ నివేదికలు",
+     "type": "Organization",
+     "english_name": "Budget reports"
+    },
+    {
+     "name": "రూ. 50 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 50,000 crores"
+    },
+    {
+     "name": "రూ. 85 వేల కోట్లు",
+     "type": "Claim",
+     "english_name": "Rs 85,000 crores"
+    },
+    {
+     "name": "నాడు-నేడు కార్యక్రమం",
+     "type": "Scheme",
+     "english_name": "Nadu-Nedu program"
+    }
+   ],
+   "relations": [
+    {
+     "source": "మహేంద్రదేవ్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ. 50 వేల కోట్లు",
+     "evidence": "ఏడాదికి రూ. 50 వేల కోట్ల చొప్పున ఈ అయిదేళ్లలో రూ. రెండున్నర లక్షల కోట్లు డీబీటీ కింద వెచ్చించారు."
+    },
+    {
+     "source": "మహేంద్రదేవ్",
+     "relation": "MAKES_CLAIM",
+     "target": "రూ. 85 వేల కోట్లు",
+     "evidence": "రాష్ట్ర సొంత వార్షికాదాయం రూ. 85 వేల కోట్లు."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

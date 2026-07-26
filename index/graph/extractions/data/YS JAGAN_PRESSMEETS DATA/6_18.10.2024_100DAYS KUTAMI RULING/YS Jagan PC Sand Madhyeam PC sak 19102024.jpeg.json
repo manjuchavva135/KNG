@@ -1,0 +1,175 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "e76d4b26d00ef908a0ead64bdbefac51d1a3c073": {
+   "entities": [
+    {
+     "name": "సాక్షి",
+     "type": "Organization",
+     "english_name": "Sakshi"
+    },
+    {
+     "name": "మాఫియా సామ్రాజ్యం",
+     "type": "Issue",
+     "english_name": "Mafia Empire"
+    },
+    {
+     "name": "దోచుకో.. పంచుకో.. తినుకో..",
+     "type": "Issue",
+     "english_name": "Rob-Share-Eat"
+    },
+    {
+     "name": "కూటమి ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Kutami Government"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "మందు.. దందా",
+     "type": "Issue",
+     "english_name": "Liquor Scam"
+    },
+    {
+     "name": "లిక్కర్ క్వాలిటీ",
+     "type": "Issue",
+     "english_name": "Liquor Quality"
+    },
+    {
+     "name": "ప్రభుత్వ ఆదాయం",
+     "type": "Issue",
+     "english_name": "Government Revenue"
+    },
+    {
+     "name": "మాజీ సీఎం వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "Former CM YS Jagan"
+    },
+    {
+     "name": "మద్యం పాలసీ",
+     "type": "Scheme",
+     "english_name": "Liquor Policy"
+    },
+    {
+     "name": "ఉచితంగా ఇసుక",
+     "type": "Issue",
+     "english_name": "Free Sand"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఈడీ",
+     "type": "Organization",
+     "english_name": "ED"
+    },
+    {
+     "name": "స్కిల్ స్కామ్",
+     "type": "Issue",
+     "english_name": "Skill Scam"
+    },
+    {
+     "name": "APSSDC",
+     "type": "Organization",
+     "english_name": "APSSDC"
+    },
+    {
+     "name": "డీబీటీ",
+     "type": "Scheme",
+     "english_name": "DBT"
+    },
+    {
+     "name": "పేకాట క్లబ్లు",
+     "type": "Issue",
+     "english_name": "Gambling Clubs"
+    },
+    {
+     "name": "ఎమ్మెల్యే",
+     "type": "Person",
+     "english_name": "MLA"
+    },
+    {
+     "name": "ముడుపులు",
+     "type": "Issue",
+     "english_name": "Bribes"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "కూటమి ప్రభుత్వం",
+     "evidence": "కూటమి ప్రభుత్వ పాలనపై వైఎస్ జగన్ కన్నెర్ర"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబును సూటిగా నిలదీసిన జగన్"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఈడీ",
+     "evidence": "ఈడీ నీకెక్కడ క్లీన్ చిట్ ఇచ్చింది?"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "APSSDC",
+     "evidence": "పూర్తిస్థాయి బడ్జెట్ కూడా ప్రవేశపెట్టలేని అసమర్ధ సర్కారిది"
+    },
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఎమ్మెల్యే",
+     "evidence": "అందులో ఎమ్మెల్యే, సీఎం పంచుకుంటున్నారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "d20d92da36700eda6331dcf3d3e1d4e912980718": {
+   "entities": [
+    {
+     "name": "ఈవీఎం",
+     "type": "Organization",
+     "english_name": "EVM"
+    },
+    {
+     "name": "వీవీ ప్యాట్ల",
+     "type": "Organization",
+     "english_name": "VVPAT"
+    },
+    {
+     "name": "ఈసీ",
+     "type": "Organization",
+     "english_name": "EC"
+    },
+    {
+     "name": "వైఎస్ జగన్",
+     "type": "Person",
+     "english_name": "YS Jagan"
+    },
+    {
+     "name": "Andhra Pradesh",
+     "type": "Place",
+     "english_name": "Andhra Pradesh"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైఎస్ జగన్",
+     "relation": "ACCUSES",
+     "target": "ఈసీ",
+     "evidence": "ఈసీని నిలదీసిన వైఎస్ జగన్"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}

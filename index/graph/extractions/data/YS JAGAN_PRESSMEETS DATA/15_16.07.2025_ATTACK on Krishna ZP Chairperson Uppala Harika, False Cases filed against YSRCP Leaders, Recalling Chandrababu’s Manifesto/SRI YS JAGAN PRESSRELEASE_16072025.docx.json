@@ -1314,6 +1314,1122 @@
      "evidence": "ద"
     }
    ]
+  },
+  "c97a00787ebaa66a60902ca2701d2ea9971dc989": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌",
+     "type": "Person",
+     "english_name": "Y. S. Jagan"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "చంద్రబాబు ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": "Chandrababu government"
+    },
+    {
+     "name": "ఎల్లోమీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు ప్రభుత్వం",
+     "evidence": "ఎన్నికల ముందు ఇచ్చిన హామీలను చంద్రబాబు ప్రభుత్వం ఎగ్గొడుతున్న తీరు"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "ACCUSES",
+     "target": "ఎల్లోమీడియా",
+     "evidence": "ఎల్లోమీడియాకు సంబంధించిన వన్‌ సైడ్‌ స్టోరీస్‌"
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌",
+     "relation": "DEFENDS",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": "ఒక్క వైయస్సార్‌సీపీ మాత్రమే"
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్",
+     "evidence": "సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ సహా 143 హామీలు ఇచ్చి"
+    },
+    {
+     "source": "వైయస్సార్‌సీపీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌",
+     "evidence": "సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ సహా 143 హామీలు ఇచ్చి"
+    }
+   ]
+  },
+  "1585e6b4e04c6e932c9a26ce8f29d97133a92a24": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "ఉప్పల హారిక",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కృష్ణా జిల్లా పరిషత్",
+     "type": "Organization",
+     "english_name": "Krishna ZP"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "కృష్ణా జిల్లా పరిషత్ చైర్‌పర్సన్ పై దాడి",
+     "type": "Issue",
+     "english_name": "Attack on Krishna ZP Chairperson"
+    },
+    {
+     "name": "YSRCP నాయకులపై తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    }
+   ],
+   "relations": [
+    {
+     "source": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్",
+     "evidence": "సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ సహా 143 హామీలు ఇచ్చి..."
+    },
+    {
+     "source": "వైయస్సార్‌ కాంగ్రెస్‌ పార్టీ",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌",
+     "evidence": "సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌ సహా 143 హామీలు ఇచ్చి..."
+    }
+   ]
+  },
+  "b69f65642f40d9c6acddeaac8be4a187f700636e": {
+   "entities": [
+    {
+     "name": "నాన్‌క్యాడర్‌ ఎస్పీలు",
+     "type": "Organization",
+     "english_name": "Non‑cadre SPs"
+    },
+    {
+     "name": "కమాండెంట్‌ స్థాయి అధికారి",
+     "type": "Person",
+     "english_name": "Commandant level officer"
+    },
+    {
+     "name": "అడిషనల్‌ ఎస్పీలు",
+     "type": "Organization",
+     "english_name": "Additional SPs"
+    },
+    {
+     "name": "డీఎస్పీలు",
+     "type": "Organization",
+     "english_name": "DSPs"
+    },
+    {
+     "name": "ఇన్‌స్పెక్టర్లు",
+     "type": "Organization",
+     "english_name": "Inspectors"
+    },
+    {
+     "name": "కానిస్టేబుళ్లు",
+     "type": "Organization",
+     "english_name": "Constables"
+    },
+    {
+     "name": "డీఐజీలు",
+     "type": "Organization",
+     "english_name": "DIGs"
+    },
+    {
+     "name": "సీఐలు",
+     "type": "Organization",
+     "english_name": "CIs"
+    },
+    {
+     "name": "ఎమ్మెల్యేలు",
+     "type": "Organization",
+     "english_name": "MLAs"
+    },
+    {
+     "name": "చినబాబు",
+     "type": "Person",
+     "english_name": "Chinababu"
+    },
+    {
+     "name": "పెదబాబు",
+     "type": "Person",
+     "english_name": "Pedababu"
+    },
+    {
+     "name": "సిద్దార్థ కౌశల్‌",
+     "type": "Person",
+     "english_name": "Siddhartha Kaushal"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "అధికార దుర్వినియోగం",
+     "type": "Issue",
+     "english_name": "Abuse of power"
+    }
+   ],
+   "relations": []
+  },
+  "9090eee99b33a7ba694e3d558751ab59592f5193": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "Chandrababu Naidu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "PSR Anjaneyulu",
+     "type": "Person",
+     "english_name": "PSR Anjaneyulu"
+    },
+    {
+     "name": "Sunil Kumar",
+     "type": "Person",
+     "english_name": "Sunil Kumar"
+    },
+    {
+     "name": "Sanjay",
+     "type": "Person",
+     "english_name": "Sanjay"
+    },
+    {
+     "name": "Vishal Guni",
+     "type": "Person",
+     "english_name": "Vishal Guni"
+    },
+    {
+     "name": "Kanti Rana Tata",
+     "type": "Person",
+     "english_name": "Kanti Rana Tata"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": "TDP"
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": "Krishna Zilla Parishad"
+    },
+    {
+     "name": "Police",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "District Collector",
+     "type": "Organization",
+     "english_name": "District Collector"
+    },
+    {
+     "name": "Krishna",
+     "type": "Place",
+     "english_name": "Krishna"
+    },
+    {
+     "name": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "type": "Issue",
+     "english_name": "Attack on Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    },
+    {
+     "name": "Recalling Chandrababu’s Manifesto",
+     "type": "Issue",
+     "english_name": "Recalling Chandrababu’s Manifesto"
+    },
+    {
+     "name": "Chandrababu government will be gone in three years",
+     "type": "Claim",
+     "english_name": "Chandrababu government will be gone in three years"
+    },
+    {
+     "name": "People are knocking on YSRCP's doors",
+     "type": "Claim",
+     "english_name": "People are knocking on YSRCP's doors"
+    },
+    {
+     "name": "Police were friendly in our tenure",
+     "type": "Claim",
+     "english_name": "Police were friendly in our tenure"
+    },
+    {
+     "name": "False cases were filed against officers",
+     "type": "Claim",
+     "english_name": "False cases were filed against officers"
+    },
+    {
+     "name": "Chandrababu is misusing power",
+     "type": "Claim",
+     "english_name": "Chandrababu is misusing power"
+    }
+   ],
+   "relations": []
+  },
+  "2cae260d3ca607b867ff93dc579edc15c44648dc": {
+   "entities": [
+    {
+     "name": "పేర్ని నాని",
+     "type": "Person",
+     "english_name": "Perini Nani"
+    },
+    {
+     "name": "ఉప్పల హారిక",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "రాము",
+     "type": "Person",
+     "english_name": "Ramu"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "జగన్",
+     "type": "Person",
+     "english_name": "Jagan"
+    },
+    {
+     "name": "కృష్ణ జెడ్పీ",
+     "type": "Organization",
+     "english_name": "Krishna Zilla Parishad"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "TDP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ప్రభుత్వం",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "గుంటూరు మిర్చియార్డ్‌",
+     "type": "Place",
+     "english_name": "Guntur Mirchi Yard"
+    },
+    {
+     "name": "గుంటూరు",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "కృష్ణ",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దాడి",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "టాపిక్ డైవర్షన్",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "దాడి చేశారు",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రాముపై తప్పుడు కేసు పెట్టారు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "పేర్ని నాని",
+     "relation": "ACCUSES",
+     "target": "పోలీసులు",
+     "evidence": "పోలీసుల సమక్షంలోనే దాడులు జరుగుతున్నాయి"
+    },
+    {
+     "source": "పేర్ని నాని",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు దగ్గరుండి తప్పుడు కేసులు పెట్టించడం"
+    },
+    {
+     "source": "కృష్ణ జెడ్పీ",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణ",
+     "evidence": "కృష్ణ జెడ్పీ ఛైర్‌పర్సన్"
+    },
+    {
+     "source": "పేర్ని నాని",
+     "relation": "MAKES_CLAIM",
+     "target": "దాడి చేశారు",
+     "evidence": "దాడి చేశారు"
+    },
+    {
+     "source": "పేర్ని నాని",
+     "relation": "MAKES_CLAIM",
+     "target": "రాముపై తప్పుడు కేసు పెట్టారు",
+     "evidence": "రాముపై తప్పుడు కేసు పెట్టారు"
+    },
+    {
+     "source": "దాడి చేశారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "దాడి",
+     "evidence": "దాడి చేశారు"
+    },
+    {
+     "source": "రాముపై తప్పుడు కేసు పెట్టారు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "తప్పుడు కేసులు",
+     "evidence": "రాముపై తప్పుడు కేసు పెట్టారు"
+    }
+   ]
+  },
+  "d13566829c4c50f3383288bf76f0b59d737e7f6d": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "కురుబ లింగమయ్య",
+     "type": "Person",
+     "english_name": "Kuruba Lingamiah"
+    },
+    {
+     "name": "తోపుదుర్తి ప్రకాష్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Toopudurthi Prakash Reddy"
+    },
+    {
+     "name": "జెడ్‌ ఫ్లస్‌ సెక్యూరిటీ",
+     "type": "Scheme",
+     "english_name": "Z Plus security"
+    },
+    {
+     "name": "పోలీసు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "శ్రీసత్యసాయి జిల్లా",
+     "type": "Place",
+     "english_name": "Sri Sathya Sai district"
+    },
+    {
+     "name": "రామగిరి",
+     "type": "Place",
+     "english_name": "Ramagiri"
+    },
+    {
+     "name": "రాప్తాడు",
+     "type": "Place",
+     "english_name": "Rapthadu"
+    },
+    {
+     "name": "కృష్ణ ZP",
+     "type": "Organization",
+     "english_name": "Krishna ZP"
+    },
+    {
+     "name": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "type": "Issue",
+     "english_name": "Attack on Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ACCUSES",
+     "target": "పోలీసు",
+     "evidence": "చంద్రబాబు ఆదేశాలతో ఆరోజు ఒక్క పోలీసు కూడా సహకరించకపోగా"
+    }
+   ]
+  },
+  "6f1a90378fc587ab4c24a1b2daa2840653173ac3": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": "Krishna Zilla Parishad"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "బంగారుపాళెం",
+     "type": "Place",
+     "english_name": "Bangarupalem"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "2 వేల మందికి పైగా నోటీసులు ఇచ్చారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": ""
+    },
+    {
+     "name": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "type": "Issue",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "2 వేల మందికి పైగా నోటీసులు ఇచ్చారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "False Cases filed against YSRCP Leaders",
+     "evidence": "2 వేల మందికి పైగా నోటీసులు ఇచ్చారు."
+    },
+    {
+     "source": "2 వేల మందికి పైగా నోటీసులు ఇచ్చారు.",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "evidence": "2 వేల మందికి పైగా నోటీసులు ఇచ్చారు."
+    }
+   ]
+  },
+  "bc46c3339b3d739e7dc90aed6f08c07177f20a7f": {
+   "entities": [
+    {
+     "name": "ఆరోగ్యశ్రీ",
+     "type": "Scheme",
+     "english_name": "Arogyasri"
+    },
+    {
+     "name": "ఆరోగ్య ఆసరా",
+     "type": "Scheme",
+     "english_name": "Arogya Asara"
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSR Congress Party"
+    },
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": "Krishna Zilla Parishad"
+    },
+    {
+     "name": "143 హామీల",
+     "type": "Claim",
+     "english_name": "143 promises"
+    },
+    {
+     "name": "ఉద్యోగాలు పీకేశారు",
+     "type": "Claim",
+     "english_name": "Jobs removed"
+    },
+    {
+     "name": "వాలంటీర్లను మోసం చేశారు",
+     "type": "Claim",
+     "english_name": "Volunteers cheated"
+    },
+    {
+     "name": "బేవరేజెస్‌ కార్పొరేషన్‌",
+     "type": "Organization",
+     "english_name": "Beverages Corporation"
+    },
+    {
+     "name": "ఎండీయూ వాహనాల ద్వారా రేషన్‌ డోర్‌ డెలివరీ",
+     "type": "Scheme",
+     "english_name": "MDLU vehicle door delivery ration scheme"
+    },
+    {
+     "name": "ప్రభుత్వ ఉద్యోగులకూ వంచన",
+     "type": "Claim",
+     "english_name": "Deception to government employees"
+    },
+    {
+     "name": "మధ్యంతర భృతి (ఐఆర్‌)",
+     "type": "Claim",
+     "english_name": "Interim allowance (IR)"
+    },
+    {
+     "name": "వేతన సవరణ సంఘం",
+     "type": "Organization",
+     "english_name": "Pay Commission"
+    },
+    {
+     "name": "ఉచిత వైద్యం అందని పరిస్థితి",
+     "type": "Claim",
+     "english_name": "Free medical treatment not available"
+    },
+    {
+     "name": "నెట్‌వర్క్‌ ఆస్పత్రులు చేతులెత్తేసిన పరిస్థితి",
+     "type": "Claim",
+     "english_name": "Network hospitals stopped"
+    },
+    {
+     "name": "(పీఆర్సీ)",
+     "type": "Organization",
+     "english_name": "PRC"
+    },
+    {
+     "name": "గ్యారెంటీ పెన్షన్‌ పథకం (జీపీఎస్‌)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "పాత పెన్షన్‌ పథకం (ఓపీఎస్‌)",
+     "type": "Scheme",
+     "english_name": ""
+    },
+    {
+     "name": "గ్రామ వార్డు సచివాలయాలు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "అడిగితే వారి మీద తప్పుడు కేసే",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఉద్యోగులకు బకాయిలే ఇప్పుడు రూ.20 వేల కోట్లు దాటాయి",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "నాలుగు డీఏలు పెండింగ్‌",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "పీఆర్సీ రద్దు చేసి కొత్తది వేయలేదు",
+     "type": "Claim",
+     "english_name": ""
+    }
+   ],
+   "relations": [
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "143 హామీల",
+     "evidence": "ఆయన ఇచ్చిన 143 హామీల గురించి కూడా ఎవరూ నిలదీయకూడదు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉద్యోగాలు పీకేశారు",
+     "evidence": "అధికారంలోకి వచ్చిన తర్వాత చంద్రబాబు తొలగించిన ఉద్యోగాలు 3 లక్షల పైచిలుకు ఉన్నాయి."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "వాలంటీర్లను మోసం చేశారు",
+     "evidence": "2.66 లక్షల వాలంటీర్లను మోసం చేశారు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ప్రభుత్వ ఉద్యోగులకూ వంచన",
+     "evidence": "ప్రభుత్వ ఉద్యోగులకూ వంచన"
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "మధ్యంతర భృతి (ఐఆర్‌)",
+     "evidence": "మధ్యంతర భృతి (ఐఆర్‌) అన్నాడు ఎగురకొట్టాడు."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "ఉచిత వైద్యం అందని పరిస్థితి",
+     "evidence": "పేదవాడికి ఉచితంగా వైద్యం అందని పరిస్థితి."
+    },
+    {
+     "source": "Chandrababu",
+     "relation": "MAKES_CLAIM",
+     "target": "నెట్‌వర్క్‌ ఆస్పత్రులు చేతులెత్తేసిన పరిస్థితి",
+     "evidence": "నెట్‌వర్క్‌ ఆస్పత్రులు చేతులెత్తేసిన పరిస్థితి."
+    }
+   ]
+  },
+  "a127aa6a1af1ed691f4d4fd98e2fc439e35246c6": {
+   "entities": [
+    {
+     "name": "Uppala Harika",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna ZP",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": ""
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": ""
+    },
+    {
+     "name": "Chandrababu",
+     "type": "Person",
+     "english_name": ""
+    },
+    {
+     "name": "Krishna",
+     "type": "Place",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులు రేటు ఉందని ఆనందంగా కేరింతలు కొడుతున్నారట!",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులకు ధరల్లేక ఇబ్బందులు పడుతుంటే.. కేరింతలని రాస్తున్నారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "రైతులు మామిడి పండ్లను రోడ్డు మీద వేసినందుకు వాళ్లపైన కేసులు పెట్టారు.",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "ఇకపై రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క రైతుకూ ఉండకూడదని, రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క నిరుద్యోగ యువకుడికి గానీ, ఫీజు రీయింబర్స్‌మెంట్‌ పొందే విద్యార్థులకు గానీ, ఏ ఒక్కరికీ ఆ హక్కు ఉండకూడదని, రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క ఉద్యోగికి, ఏ ఒక్క మహిళకు ఉండకూడదని, తాను",
+     "type": "Claim",
+     "english_name": ""
+    },
+    {
+     "name": "చంద్రబాబునాయుడు",
+     "type": "Person",
+     "english_name": "Chandrababu Naidu"
+    },
+    {
+     "name": "కేతిరెడ్డి పెద్దారెడ్డి",
+     "type": "Person",
+     "english_name": "Kethireddy Pedda Reddy"
+    },
+    {
+     "name": "సీఐ",
+     "type": "Person",
+     "english_name": "Circle Inspector"
+    },
+    {
+     "name": "ఎల్లో మీడియా",
+     "type": "Organization",
+     "english_name": "Yellow Media"
+    },
+    {
+     "name": "పోలీసులు",
+     "type": "Organization",
+     "english_name": "Police"
+    },
+    {
+     "name": "అనంతపురం జిల్లా",
+     "type": "Place",
+     "english_name": "Anantapur district"
+    },
+    {
+     "name": "తాడిపత్రి",
+     "type": "Place",
+     "english_name": "Tadipatri"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌లు",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌లు",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "143 హామీలను నెరవేర్చానని",
+     "type": "Claim",
+     "english_name": "143 promises fulfilled"
+    },
+    {
+     "name": "ఇది మోసం, అన్యాయం",
+     "type": "Claim",
+     "english_name": "Cheating and injustice"
+    },
+    {
+     "name": "పోలీసులే అడ్డుకుంటారు",
+     "type": "Claim",
+     "english_name": "Police block from entering house"
+    },
+    {
+     "name": "సీఐ గన్‌ చూపిస్తాడు",
+     "type": "Claim",
+     "english_name": "CI shows gun"
+    },
+    {
+     "name": "Attack on Krishna ZP Chairperson Uppala Harika",
+     "type": "Issue",
+     "english_name": "Attack on Krishna ZP Chairperson Uppala Harika"
+    },
+    {
+     "name": "False Cases filed against YSRCP Leaders",
+     "type": "Issue",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    },
+    {
+     "name": "Recalling Chandrababu’s Manifesto",
+     "type": "Issue",
+     "english_name": "Recalling Chandrababu’s Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "Uppala Harika",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులు రేటు ఉందని ఆనందంగా కేరింతలు కొడుతున్నారట!",
+     "evidence": "రైతులు రేటు ఉందని ఆనందంగా కేరింతలు కొడుతున్నారట!"
+    },
+    {
+     "source": "Uppala Harika",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులకు ధరల్లేక ఇబ్బందులు పడుతుంటే.. కేరింతలని రాస్తున్నారు.",
+     "evidence": "రైతులకు ధరల్లేక ఇబ్బందులు పడుతుంటే.. కేరింతలని రాస్తున్నారు."
+    },
+    {
+     "source": "Uppala Harika",
+     "relation": "MAKES_CLAIM",
+     "target": "రైతులు మామిడి పండ్లను రోడ్డు మీద వేసినందుకు వాళ్లపైన కేసులు పెట్టారు.",
+     "evidence": "రైతులు మామిడి పండ్లను రోడ్డు మీద వేసినందుకు వాళ్లపైన కేసులు పెట్టారు."
+    },
+    {
+     "source": "Uppala Harika",
+     "relation": "MAKES_CLAIM",
+     "target": "ఇకపై రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క రైతుకూ ఉండకూడదని, రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క నిరుద్యోగ యువకుడికి గానీ, ఫీజు రీయింబర్స్‌మెంట్‌ పొందే విద్యార్థులకు గానీ, ఏ ఒక్కరికీ ఆ హక్కు ఉండకూడదని, రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క ఉద్యోగికి, ఏ ఒక్క మహిళకు ఉండకూడదని, తాను",
+     "evidence": "ఇకపై రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క రైతుకూ ఉండకూడదని, రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క నిరుద్యోగ యువకుడికి గానీ, ఫీజు రీయింబర్స్‌మెంట్‌ పొందే విద్యార్థులకు గానీ, ఏ ఒక్కరికీ ఆ హక్కు ఉండకూడదని, రాష్ట్రంలో తమకు అన్యాయం జరిగిందని రోడ్డెక్కే పరిస్థితి ఏ ఒక్క ఉద్యోగికి, ఏ ఒక్క మహిళకు ఉండకూడదని, తాను"
+    },
+    {
+     "source": "Uppala Harika",
+     "relation": "ACCUSES",
+     "target": "ఈనాడు",
+     "evidence": "ఈనాడు పేపర్‌ చూస్తే.. అది పేపరా?"
+    },
+    {
+     "source": "Krishna ZP",
+     "relation": "LOCATED_IN",
+     "target": "Krishna",
+     "evidence": "Krishna ZP Chairperson"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "MAKES_CLAIM",
+     "target": "143 హామీలను నెరవేర్చానని",
+     "evidence": "ఎన్నికలప్పుడు ఇచ్చిన హామీలను సూపర్‌ సిక్స్‌లను, సూపర్‌ సెవెన్‌లతో సహా 143 హామీలను తాను నెరవేర్చానని"
+    },
+    {
+     "source": "చంద్రబాబునాయుడు",
+     "relation": "ACCUSES",
+     "target": "ఎల్లో మీడియా",
+     "evidence": "ఎల్లో మీడియాకు సిగ్గుండాలి"
+    },
+    {
+     "source": "కేతిరెడ్డి పెద్దారెడ్డి",
+     "relation": "MAKES_CLAIM",
+     "target": "పోలీసులే అడ్డుకుంటారు",
+     "evidence": "ఆయన తన సొంత ఇంటికి వెళ్ల లేని పరిస్థితి. కోర్టు ఆదేశాలున్నా, ఎప్పుడు ఆయన తన ఇంటికి వెళ్లాలని ప్రయత్నించినా పోలీసులే అడ్డుకుంటారు."
+    },
+    {
+     "source": "సీఐ",
+     "relation": "MAKES_CLAIM",
+     "target": "సీఐ గన్‌ చూపిస్తాడు",
+     "evidence": "ఒక సీఐ ఏకంగా గన్‌ చూపిస్తాడు."
+    }
+   ]
+  },
+  "de6a824195eac9614dcb4b60f6569be68304481d": {
+   "entities": [
+    {
+     "name": "ఉప్పల హారిక",
+     "type": "Person",
+     "english_name": "Uppala Harika"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సిద్ధార్థ కౌశల్",
+     "type": "Person",
+     "english_name": "Siddharth Kaushal"
+    },
+    {
+     "name": "YSRCP",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "మ్యానిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "కృష్ణా జిల్లా జడ్పీ ఛైర్‌పర్సన్",
+     "type": "Organization",
+     "english_name": "Krishna ZP Chairperson"
+    },
+    {
+     "name": "కృష్ణా జిల్లా",
+     "type": "Place",
+     "english_name": "Krishna district"
+    },
+    {
+     "name": "ఉప్పల హారికపై దాడి",
+     "type": "Claim",
+     "english_name": "Attack on Uppala Harika"
+    },
+    {
+     "name": "YSRCP నాయకులపై తప్పుడు కేసులు",
+     "type": "Claim",
+     "english_name": "False Cases filed against YSRCP Leaders"
+    },
+    {
+     "name": "చంద్రబాబు మ్యానిఫెస్టోను వెనక్కి తీసుకోవడం",
+     "type": "Issue",
+     "english_name": "Recalling Chandrababu’s Manifesto"
+    }
+   ],
+   "relations": [
+    {
+     "source": "YSRCP",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌",
+     "evidence": "సూపర్‌ సిక్స్‌ హామీలు"
+    },
+    {
+     "source": "కృష్ణా జిల్లా జడ్పీ ఛైర్‌పర్సన్",
+     "relation": "LOCATED_IN",
+     "target": "కృష్ణా జిల్లా",
+     "evidence": "కృష్ణా జిల్లా జడ్పీ ఛైర్‌పర్సన్"
+    },
+    {
+     "source": "ఉప్పల హారికపై దాడి",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "చంద్రబాబు మ్యానిఫెస్టోను వెనక్కి తీసుకోవడం",
+     "evidence": "రీకాలింగ్‌ ఆఫ్‌ చంద్రబాబూస్‌ మ్యానిఫెస్టో కార్యక్రమానికి హాజరయ్యేందుకు వెళ్తున్న ఆమెపై దాడి చేశారు"
+    },
+    {
+     "source": "YSRCP నాయకులపై తప్పుడు కేసులు",
+     "relation": "RELATED_TO_ISSUE",
+     "target": "చంద్రబాబు మ్యానిఫెస్టోను వెనక్కి తీసుకోవడం",
+     "evidence": "తప్పుడు కేసులు"
+    }
+   ]
+  },
+  "e99015a2307b7a6f6b373a6475230a77fc15a1ec": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "లూలూ",
+     "type": "Person",
+     "english_name": "Lulu"
+    },
+    {
+     "name": "ఉర్సా",
+     "type": "Person",
+     "english_name": "Ursa"
+    },
+    {
+     "name": "రామోజీరావు",
+     "type": "Person",
+     "english_name": "Ramoji Rao"
+    },
+    {
+     "name": "ఇండోసోల్‌ కంపెనీ",
+     "type": "Organization",
+     "english_name": "Indosol Company"
+    },
+    {
+     "name": "బీపీసీఎల్",
+     "type": "Organization",
+     "english_name": "BPCL"
+    },
+    {
+     "name": "ఈనాడు",
+     "type": "Organization",
+     "english_name": "Eenadu"
+    },
+    {
+     "name": "ప్రకాశం జిల్లా",
+     "type": "Place",
+     "english_name": "Prakasam district"
+    },
+    {
+     "name": "చేవూరు",
+     "type": "Place",
+     "english_name": "Chevoor"
+    },
+    {
+     "name": "కృష్ణపట్నం",
+     "type": "Place",
+     "english_name": "Krishnapatnam"
+    },
+    {
+     "name": "కరెడు",
+     "type": "Place",
+     "english_name": "Karredu"
+    },
+    {
+     "name": "రామయ్యపోర్టు",
+     "type": "Place",
+     "english_name": "Ramayyaporthu"
+    },
+    {
+     "name": "తప్పుడు కేసులు",
+     "type": "Issue",
+     "english_name": "False cases"
+    },
+    {
+     "name": "హత్యలు, హత్యాయత్నాలు, దౌర్జన్యాలు, ఆడపిల్లల మీద అఘాయిత్యాలు",
+     "type": "Issue",
+     "english_name": "Murders, attempted murders, atrocities, crimes against women"
+    },
+    {
+     "name": "ఇండోసోల్‌ను తరిమేసే కుట్ర",
+     "type": "Issue",
+     "english_name": "Indosol expulsion conspiracy"
+    }
+   ],
+   "relations": []
   }
  }
 }

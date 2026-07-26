@@ -1,0 +1,293 @@
+{
+ "fingerprint": "SarvamLLM/sarvam-105b/g2",
+ "records": {
+  "45f0dd278ec52437a81be16fb3f21b6bf98ed2ac": {
+   "entities": [
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "శ్రీ వైయస్‌ జగన్",
+     "type": "Person",
+     "english_name": "Shri Vayyys Jagan"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "రాష్ట్ర వార్షిక బడ్జెట్",
+     "type": "Issue",
+     "english_name": "State Annual Budget"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu"
+    },
+    {
+     "name": "ఇందాపూర్‌ డెయిరీ హెరిటేజ్‌ లింక్‌",
+     "type": "Issue",
+     "english_name": "Indapur Dairy Heritage Link"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు ఇంటింటికీ బాండ్లు పంపి పచ్చి మోసం చేశారని, వాటిలో ఏదీ అమలు చేయకుండా వంచన, దగా చేశారని, చివరకు ఉద్యోగులకు కూడా భారీ మోసం చేశారని, రెండేళ్లుగా ఉద్యోగుల జీతాలు పెరగలేదని, వారికి ఐఆర్‌ ఇవ్వలేదని, పీఆర్సీ ప్రస్తావనే లేదని గుర్తు చేశారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్",
+     "evidence": "ఈ బడ్జెట్‌లోనూ చంద్రబాబు తాను ఇస్తానన్న సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌తో పాటు, మ్యానిఫెస్టో హామీలు పూర్తిగా గాలికెగిరిపోయాయి."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌",
+     "evidence": "ఈ బడ్జెట్‌లోనూ చంద్రబాబు తాను ఇస్తానన్న సూపర్‌ సిక్స్, సూపర్‌ సెవెన్‌తో పాటు, మ్యానిఫెస్టో హామీలు పూర్తిగా గాలికెగిరిపోయాయి."
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "2bd31c9b72f70e82972743d1cae6bdb388eeadcf": {
+   "entities": [
+    {
+     "name": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "type": "Person",
+     "english_name": "Y. S. Jagan Mohan Reddy"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "N. Chandrababu Naidu"
+    },
+    {
+     "name": "వైయస్సార్‌సీపీ",
+     "type": "Party",
+     "english_name": "YSRCP"
+    },
+    {
+     "name": "రాష్ట్ర వార్షిక బడ్జెట్",
+     "type": "Issue",
+     "english_name": "State Annual Budget"
+    },
+    {
+     "name": "తిరుపతి లడ్డూ",
+     "type": "Issue",
+     "english_name": "Tirupati Laddu"
+    },
+    {
+     "name": "ఇందాపూర్‌ డెయిరీ హెరిటేజ్‌ లింక్‌",
+     "type": "Scheme",
+     "english_name": "Indapur Dairy Heritage Link"
+    },
+    {
+     "name": "కాగ్‌",
+     "type": "Organization",
+     "english_name": "CAG"
+    },
+    {
+     "name": "సూపర్‌సిక్స్",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌",
+     "type": "Scheme",
+     "english_name": "Super Seven"
+    },
+    {
+     "name": "భోలేబాబా డెయిరీ",
+     "type": "Organization",
+     "english_name": "Bhole Baba Dairy"
+    },
+    {
+     "name": "తిరుమల",
+     "type": "Place",
+     "english_name": "Tirumala"
+    },
+    {
+     "name": "తాడేపల్లి",
+     "type": "Place",
+     "english_name": "Tadepalli"
+    }
+   ],
+   "relations": [
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు పాలనలో ప్రతి బడ్జెట్‌లోనూ ప్రజలకు వంచన, మోసమే అని, ఈ ఏడాది బడ్జెట్‌లోనూ అన్నీ తప్పుడు గణాంకాలు, మొత్తం కాకి లెక్కలు. పూర్తిగా అవాస్తవాలే అని శ్రీ వైయస్‌ జగన్‌ ఫైర్‌ అయ్యారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబుది ఆర్థిక అస్తవ్యస్త నిర్వహణ అన్న ఆయన, రాష్ట్ర అప్పులపై పదే పదే అవే అబద్ధాలు చెబుతున్నారని, ఆదాయంలో దారుణ స్థితిలో మన రాష్ట్రం ఉందని, ‘కాగ్‌’ రిపోర్ట్‌ ప్రకారం దేశంలో 22వ స్థానం నిల్చిందని శ్రీ వైయస్‌ జగన్‌ వెల్లడించారు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "చంద్రబాబు హ్యాబిట్యువల్‌ అఫెండర్‌. ఆయనకు మోసాలు కొత్త కానే కాదు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "ఇందాపూర్, హెరిటేజ్‌ అసలు రహస్యం ఇదే. ఇందాపూర్‌ పేరుతో హెరిటేజ్‌కు ప్రయోజనం. ఏకంగా కిలో నెయ్యి ధర రూ.658కి పెంపు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "భోలేబాబా డెయిరీని తెచ్చిందే చంద్రబాబు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "ACCUSES",
+     "target": "చంద్రబాబు",
+     "evidence": "తాము అధికారంలోకి వస్తే వాటిని రద్దు చేస్తానన్న చంద్రబాబు."
+    },
+    {
+     "source": "శ్రీ వైయస్‌ జగన్‌మోహన్‌రెడ్డి",
+     "relation": "MEMBER_OF",
+     "target": "వైయస్సార్‌సీపీ",
+     "evidence": ""
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  },
+  "cc9157b5772d332717f8c5efd3500e38a9def1cc": {
+   "entities": [
+    {
+     "name": "మ్యానిఫెస్టో",
+     "type": "Scheme",
+     "english_name": "Manifesto"
+    },
+    {
+     "name": "చంద్రబాబు",
+     "type": "Person",
+     "english_name": "Chandrababu"
+    },
+    {
+     "name": "సూపర్‌ సిక్స్‌లు",
+     "type": "Scheme",
+     "english_name": "Super Sixes"
+    },
+    {
+     "name": "సూపర్‌ సెవెన్‌లు",
+     "type": "Scheme",
+     "english_name": "Super Sevens"
+    },
+    {
+     "name": "పవన్‌ కళ్యాణ్‌",
+     "type": "Person",
+     "english_name": "Pawan Kalyan"
+    },
+    {
+     "name": "SC, ST, BC minorities",
+     "type": "Person",
+     "english_name": "SC, ST, BC minorities"
+    },
+    {
+     "name": "PM Kisan",
+     "type": "Scheme",
+     "english_name": "PM Kisan"
+    },
+    {
+     "name": "Annadatha Sukhibhava",
+     "type": "Scheme",
+     "english_name": "Annadatha Sukhibhava"
+    },
+    {
+     "name": "Talliki Vandanam",
+     "type": "Scheme",
+     "english_name": "Talliki Vandanam"
+    },
+    {
+     "name": "Rythu Bharosa",
+     "type": "Scheme",
+     "english_name": "Rythu Bharosa"
+    },
+    {
+     "name": "Deepam",
+     "type": "Scheme",
+     "english_name": "Deepam"
+    },
+    {
+     "name": "Super Six",
+     "type": "Scheme",
+     "english_name": "Super Six"
+    },
+    {
+     "name": "Laddu Heritage Indhapur",
+     "type": "Place",
+     "english_name": "Laddu Heritage Indhapur"
+    },
+    {
+     "name": "Bhole Baba",
+     "type": "Person",
+     "english_name": "Bhole Baba"
+    }
+   ],
+   "relations": [
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సిక్స్‌లు",
+     "evidence": "ఎన్నికల మేనిఫెస్టోల గురించి సూపర్‌ సిక్స్‌లు, సూపర్‌ సెవెన్‌లు అంటూ వారి కరపత్రికల్లో ఒకటే యాడ్లు ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "సూపర్‌ సెవెన్‌లు",
+     "evidence": "ఎన్నికల మేనిఫెస్టోల గురించి సూపర్‌ సిక్స్‌లు, సూపర్‌ సెవెన్‌లు అంటూ వారి కరపత్రికల్లో ఒకటే యాడ్లు ఇచ్చారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Super Six",
+     "evidence": "చంద్రబాబు, పవన్‌ కళ్యాణ్‌ల ఫొటోలతో బాండ్లు ఇచ్చి వాటిపై సంతకాలు పెట్టి వారి చేతిలో పెట్టారు."
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Talliki Vandanam",
+     "evidence": "ప్రతి మహిళకు నెలకు రూ.1500"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Rythu Bharosa",
+     "evidence": "ప్రతి రైతుకు అన్నదాత సుఖీభవ కింద ఏడాదికి రూ.20 వేలు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "Deepam",
+     "evidence": "ప్రతి కుటుంబానికి ఏడాదికి ఉచితంగా 3 గ్యాస్‌ సిలిండర్లు"
+    },
+    {
+     "source": "చంద్రబాబు",
+     "relation": "ANNOUNCED_SCHEME",
+     "target": "PM Kisan",
+     "evidence": "PM Kisanతో కలిపి రైతుకు ఏడాదికి రూ.26 వేలు ఇస్తామని ఊదరగొట్టారు"
+    }
+   ],
+   "_fp": "SarvamLLM/sarvam-105b/g2"
+  }
+ }
+}
