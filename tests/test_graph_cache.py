@@ -18,13 +18,48 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 from unittest import mock
 
-from kng.models import Chunk
+from kng.models import Chunk, Relation
 from kng.pipeline import graph_extract as gx
+from kng.store import graph as gstore
 
 FP_105B = f"SarvamLLM/sarvam-105b/{gx.PROMPT_VERSION}"
 FP_30B = f"SarvamLLM/sarvam-30b/{gx.PROMPT_VERSION}"
 FP_FAKE = f"FakeLLM/fake/{gx.PROMPT_VERSION}"
 FP_OLD_PROMPT = "SarvamLLM/sarvam-105b/g1"
+
+
+class TestGraphEvidenceProvenance(unittest.TestCase):
+    def test_new_relation_keeps_source_file(self):
+        graph = gstore.new_graph()
+        graph.add_nodes_from(["Person:a", "Party:b"])
+        gstore.add_relation(graph, Relation(
+            source_id="Person:a", relation="ACCUSES", target_id="Party:b",
+            evidence="quote", chunk_id="c1", source_file="data/a.pdf",
+            press_meet_id="10", citation="a.pdf p.2",
+        ))
+        evidence = graph["Person:a"]["Party:b"]["ACCUSES"]["evidence"]
+        self.assertEqual(evidence[0]["source_file"], "data/a.pdf")
+
+    def test_legacy_evidence_is_enriched_from_exact_chunk_id(self):
+        graph = gstore.new_graph()
+        graph.add_edge(
+            "a", "b", key="R", relation="R",
+            evidence=[{"chunk_id": "c1", "citation": "old"}])
+        locators = {
+            "c1": {
+                "source_file": "data/a.pdf", "citation": "a.pdf p.7",
+                "press_meet_id": "10", "date": "2024-01-01",
+                "source_type": "source_doc", "publication": None,
+                "language": "en", "page": 7, "slide": None,
+                "video_start": None, "video_end": None,
+            }
+        }
+        with mock.patch.object(gstore, "_chunk_locators", return_value=locators):
+            counts = gstore.enrich_evidence(graph)
+        evidence = graph["a"]["b"]["R"]["evidence"][0]
+        self.assertEqual(counts, {"evidence": 1, "enriched": 1, "unresolved": 0})
+        self.assertEqual(evidence["source_file"], "data/a.pdf")
+        self.assertEqual(evidence["page"], 7)
 
 
 class TestFingerprintAcceptance(unittest.TestCase):

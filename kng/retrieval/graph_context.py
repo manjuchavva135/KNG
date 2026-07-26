@@ -131,8 +131,16 @@ def _fact(edge: dict, meet_hint: set[str]) -> dict[str, Any]:
     evidence = [
         {"quote": " ".join((ev.get("quote") or "").split()),
          "citation": ev.get("citation", ""), "date": ev.get("date"),
-         "chunk_id": ev.get("chunk_id", "")}
-        for ev in edge.get("evidence", [])[:2]
+         "chunk_id": ev.get("chunk_id", ""),
+         "source_file": ev.get("source_file", ""),
+         "press_meet_id": ev.get("press_meet_id", ""),
+         "source_type": ev.get("source_type", ""),
+         "publication": ev.get("publication"),
+         "language": ev.get("language", ""),
+         "page": ev.get("page"), "slide": ev.get("slide"),
+         "video_start": ev.get("video_start"),
+         "video_end": ev.get("video_end")}
+        for ev in edge.get("evidence", [])
     ]
     meets = edge.get("press_meet_ids", [])
     return {
@@ -147,6 +155,74 @@ def _fact(edge: dict, meet_hint: set[str]) -> dict[str, Any]:
         "evidence": evidence,
         "hop": edge.get("hop", 1),
     }
+
+
+def _filter_active(filters: Any) -> bool:
+    if filters is None:
+        return False
+    return any(getattr(filters, key, None) for key in (
+        "language", "source_type", "press_meet_id", "publication",
+        "since", "until",
+    ))
+
+
+def _evidence_matches(ev: dict, filters: Any) -> bool:
+    """Whether one exact evidence locator satisfies the passage filter scope."""
+    if filters is None:
+        return True
+    for attr, field in (
+        ("language", "language"),
+        ("source_type", "source_type"),
+        ("press_meet_id", "press_meet_id"),
+        ("publication", "publication"),
+    ):
+        wanted = getattr(filters, attr, None)
+        if wanted and str(ev.get(field) or "") != str(wanted):
+            return False
+    date = ev.get("date")
+    if getattr(filters, "since", None) and (not date or date < filters.since):
+        return False
+    if getattr(filters, "until", None) and (not date or date > filters.until):
+        return False
+    return True
+
+
+def _scope_fact(fact: dict, filters: Any) -> Optional[dict]:
+    """Keep only evidence that the user allowed, or drop the fact.
+
+    An aggregated edge can span eighteen press meets.  Carrying the whole edge
+    through a `press_meet_id=10` request makes the filter cosmetic and lets the
+    model cite claims from unrelated meets.  Scoping at the evidence record is
+    the only exact interpretation because that record owns the date, source type
+    and publication.
+    """
+    matching = [
+        ev for ev in fact.get("evidence", [])
+        if ev.get("chunk_id") and ev.get("source_file")
+        and _evidence_matches(ev, filters)
+    ]
+    if not matching:
+        return None
+    # Two exact excerpts are enough to render/cite one relation. Filter before
+    # this cap: the relevant meet may be the fifth evidence record on an
+    # aggregated cross-meet edge.
+    evidence = matching[:2]
+    if not _filter_active(filters):
+        fact["evidence"] = evidence
+        return fact
+
+    scoped = dict(fact)
+    scoped["evidence"] = evidence
+    meets = sorted({str(ev.get("press_meet_id")) for ev in evidence
+                    if ev.get("press_meet_id")})
+    dates = sorted({str(ev.get("date")) for ev in evidence if ev.get("date")})
+    scoped["press_meet_ids"] = meets
+    scoped["first_date"] = dates[0] if dates else None
+    scoped["last_date"] = dates[-1] if dates else None
+    # The original edge weight covers evidence outside the requested scope.
+    # Report only the supporting records actually available to this answer.
+    scoped["weight"] = len(matching)
+    return scoped
 
 
 def _terms(text: str) -> set[str]:
@@ -184,11 +260,25 @@ def _relevance(f: dict, question_terms: set[str]) -> float:
 
 def _fact_rank(f: dict) -> tuple:
     """Order facts by usefulness to an answer, not by graph mechanics."""
-    return (f["hop"], -f.get("relevance", 0.0), f["structural"], -f["weight"])
+    relation_priority = {
+        "MAKES_CLAIM": 0,
+        "ANNOUNCED_SCHEME": 1,
+        "ACCUSES": 2,
+        "SUPPORTS": 3,
+        "OPPOSES": 3,
+        "RESPONDS_TO": 3,
+        "MEMBER_OF": 8,
+        "MENTIONS": 9,
+    }.get(f.get("relation"), 5)
+    return (
+        f["hop"], -f.get("relevance", 0.0), f["structural"],
+        relation_priority, -f["weight"],
+    )
 
 
 def gather(question: str, *, hops: int = 1, max_facts: int = 20,
            passages: Optional[Iterable[dict]] = None,
+           filters: Any = None,
            max_timeline: int = 15) -> dict[str, Any]:
     """Entities, facts, timeline and communities for one question.
 
@@ -218,7 +308,9 @@ def gather(question: str, *, hops: int = 1, max_facts: int = 20,
         for edge in gstore.neighbors(G, ent["entity_id"], hops=hops):
             key = (edge["source_id"], edge["relation"], edge["target_id"])
             if key not in facts:
-                facts[key] = _fact(edge, meet_hint)
+                scoped = _scope_fact(_fact(edge, meet_hint), filters)
+                if scoped is not None:
+                    facts[key] = scoped
     # Terms that linked an entity are removed before scoring: every edge of the
     # Jagan node contains "Jagan", so leaving them in scores all 300 of his
     # edges identically and the topic words in the question decide nothing.

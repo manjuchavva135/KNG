@@ -244,12 +244,24 @@ class TestEmbeddingGuard(unittest.TestCase):
 
     def test_mismatch_names_the_cause_and_the_env_var(self):
         from kng.store import vector
-        with self.assertRaises(ValueError) as caught:
+        with self.assertRaises(vector.EmbeddingDimensionError) as caught:
             vector.check_dim(self.FakeTable(1024), [0.0] * 768)
         message = str(caught.exception)
         self.assertIn("768", message)
         self.assertIn("1024", message)
         self.assertIn("LOCAL_EMBED_MODEL", message)
+
+    def test_hybrid_does_not_hide_a_dimension_mismatch_as_bm25_fallback(self):
+        from kng.retrieval import hybrid
+        from kng.store import vector
+
+        with mock.patch.object(hybrid.vstore, "open_table", return_value=object()), \
+             mock.patch.object(
+                 hybrid, "vector_leg",
+                 side_effect=vector.EmbeddingDimensionError("wrong model")):
+            with self.assertRaises(vector.EmbeddingDimensionError):
+                hybrid.search_passages(
+                    "question", k=2, use_vector=True, use_keyword=False)
 
     def test_the_default_model_matches_the_committed_index(self):
         """A clone that never wrote a `.env` must still search the shipped vectors.

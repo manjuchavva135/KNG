@@ -68,8 +68,12 @@ def passage(source_file: str, *, chunk_id: Optional[str] = None,
     hit = None
     if chunk_id:
         hit = next((r for r in records if r.get("chunk_id") == chunk_id), None)
+        if hit is None:
+            raise SourceNotFound(f"no indexed passage {chunk_id!r} in {source_file}")
     if hit is None and page is not None:
         hit = next((r for r in records if r.get("page") == page), None)
+        if hit is None:
+            raise SourceNotFound(f"no indexed page {page} in {source_file}")
     if hit is None:
         hit = records[0]
 

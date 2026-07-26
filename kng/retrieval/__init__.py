@@ -47,7 +47,7 @@ class Context:
         return asdict(self)
 
 
-def retrieve(question: str, k: int = 8, *,
+def retrieve(question: str, k: int = 12, *,
              filters: Optional[hybrid.Filters] = None,
              use_vector: bool = True, use_keyword: bool = True,
              use_graph: bool = True, graph_hops: int = 1,
@@ -73,7 +73,7 @@ def retrieve(question: str, k: int = 8, *,
         return ctx
 
     g = gctx.gather(question, hops=graph_hops, max_facts=max_facts,
-                    passages=passages)
+                    passages=passages, filters=filters)
     ctx.facts = g["facts"]
     ctx.entities = g["entities"]
     ctx.communities = g["communities"]

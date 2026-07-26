@@ -8,6 +8,8 @@ from __future__ import annotations
 
 import numpy as np
 
+from ..config import settings
+
 
 class LocalEmbedder:
     """sentence-transformers multilingual model. CPU-friendly."""
@@ -15,7 +17,8 @@ class LocalEmbedder:
     def __init__(self, model_name: str):
         from sentence_transformers import SentenceTransformer
         self.model_name = model_name
-        self._model = SentenceTransformer(model_name)
+        self.device = settings().local_embed_device
+        self._model = SentenceTransformer(model_name, device=self.device)
         # renamed in sentence-transformers 5.x; support both
         _dim = (getattr(self._model, "get_embedding_dimension", None)
                 or self._model.get_sentence_embedding_dimension)

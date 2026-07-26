@@ -17,6 +17,7 @@ import tempfile
 import time
 import unittest
 from pathlib import Path
+from unittest import mock
 
 os.environ.setdefault("KNG_FAKE_LLM", "1")
 os.environ.setdefault("KNG_SESSION_SECRET", "test-secret-for-unit-tests-only")
@@ -60,6 +61,19 @@ class TestAuth(unittest.TestCase):
 
     def test_health_needs_no_session(self):
         self.assertEqual(TestClient(app).get("/api/health").status_code, 200)
+
+    def test_readiness_checks_serving_artifacts_without_a_session(self):
+        import dataclasses
+
+        from kng.api import main
+
+        configured = dataclasses.replace(
+            main.settings(), session_secret="test-readiness-secret")
+        with mock.patch.object(main, "settings", return_value=configured):
+            res = TestClient(app).get("/api/ready")
+        self.assertEqual(res.status_code, 200)
+        self.assertTrue(res.json()["ready"])
+        self.assertTrue(all(res.json()["checks"].values()))
 
     def test_bad_password_sets_no_cookie(self):
         c = TestClient(app)
@@ -324,6 +338,17 @@ class TestAskStream(unittest.TestCase):
         c = client_for(USER)
         self.assertEqual(c.post("/api/ask", json={"question": "   "}).status_code, 400)
 
+    def test_oversized_question_is_rejected_before_retrieval(self):
+        c = client_for(USER)
+        self.assertEqual(
+            c.post("/api/ask", json={"question": "x" * 2001}).status_code, 422)
+
+    def test_final_exposes_grounding_outcome(self):
+        final = dict(self._events({"question": "SECI solar tariff", "k": 3}))["final"]
+        self.assertIn("grounding_passed", final)
+        self.assertIn("refused", final)
+        self.assertIn("refusal_reason", final)
+
     def test_answer_is_written_to_history(self):
         events = self._events({"question": "liquor scam allegations", "k": 2})
         session_id = dict(events)["final"]["session_id"]
@@ -332,6 +357,8 @@ class TestAskStream(unittest.TestCase):
         self.assertIn(session_id, {s["session_id"] for s in sessions})
         turns = c.get(f"/api/history/{session_id}").json()["turns"]
         self.assertEqual(turns[0]["question"], "liquor scam allegations")
+        self.assertIn("grounding_passed", turns[0])
+        self.assertIn("refused", turns[0])
 
 
 class TestHistoryPage(unittest.TestCase):
@@ -505,6 +532,9 @@ class TestSourceSafety(unittest.TestCase):
         # The viewer must land on the passage that was cited, not the file's first.
         self.assertEqual(body["chunk_id"], src["chunk_id"])
         self.assertEqual(body["citation"], src["citation"])
+        missing = c.get("/api/source", params={
+            "file": src["source_file"], "chunk_id": "not-a-real-chunk"})
+        self.assertEqual(missing.status_code, 404)
 
 
 if __name__ == "__main__":

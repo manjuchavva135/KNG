@@ -30,7 +30,7 @@ def _where(args) -> str | None:
     return " AND ".join(clauses) or None
 
 
-def search(question: str, k: int = 8, where: str | None = None,
+def search(question: str, k: int = 12, where: str | None = None,
            dedup: bool = True) -> list[dict]:
     from .providers import get_embedder
     qv = get_embedder().embed_one(question, kind="query")
@@ -54,7 +54,7 @@ def search(question: str, k: int = 8, where: str | None = None,
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="kng.query")
     ap.add_argument("question")
-    ap.add_argument("-k", type=int, default=8)
+    ap.add_argument("-k", type=int, default=12)
     ap.add_argument("--lang", help="te | en | hi | mixed")
     ap.add_argument("--source-type", help="press_release | source_doc | news_clip | video | slide | table")
     ap.add_argument("--meet", help="press_meet_id")

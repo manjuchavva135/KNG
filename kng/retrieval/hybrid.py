@@ -31,6 +31,104 @@ OVERFETCH = 4
 # raw question's punctuation — quotes, "?", ":" — is a syntax error rather than
 # a search term.
 _FTS_STRIP = re.compile(r"[^\w\sఀ-౿ऀ-ॿ]+", re.UNICODE)
+_ATTRIBUTION = re.compile(
+    r"\b(?:jagan|said|say|statement|statements|allege|alleged|allegations|"
+    r"criticise|criticized|response|respond)\b|"
+    r"(?:జగన్|అన్నారు|చెప్పారు|ఆరోపణ|విమర్శ)", re.I)
+_DOCUMENTARY = re.compile(
+    r"\b(?:court|supreme court|sit|cag|report|order|verdict|conclude|"
+    r"concluded|document|tariff filing)\b|(?:కోర్టు|నివేదిక|తీర్పు)", re.I)
+_QUERY_STOP = {
+    "what", "which", "when", "where", "why", "how", "did", "does", "said",
+    "say", "about", "the", "and", "with", "from", "into", "were", "was",
+    "jagan", "ys", "are", "its", "his", "her", "their", "this", "that",
+    "గురించి", "జగన్", "ఏమన్నారు", "ఏమిటి", "ఏమి", "చెప్పారు",
+}
+
+
+def _query_terms(text: str) -> set[str]:
+    return {
+        token.lower() for token in _FTS_STRIP.sub(" ", text).split()
+        if len(token) > 2 and not token.isdigit() and token.lower() not in _QUERY_STOP
+    }
+
+
+def rerank(question: str, rows: list[dict]) -> list[dict]:
+    """Archive-aware second-stage ordering over the fused candidate pool.
+
+    Most questions ask what Jagan said, while 59% of indexed chunks are
+    third-party `source_doc` pages. Plain RRF therefore lets generic newspaper
+    PDFs crowd out the press release carrying the attributable statement.
+    Documentary questions (court/SIT/CAG/report) need the inverse preference.
+
+    This is deliberately small and inspectable, not a pretend cross-encoder:
+    the original fusion score, source prior and lexical coverage are retained on
+    each row. A configured learned reranker can replace it later without hiding
+    why today's ordering changed.
+    """
+    attribution = bool(_ATTRIBUTION.search(question or ""))
+    documentary = bool(_DOCUMENTARY.search(question or ""))
+    if documentary and not attribution:
+        priors = {
+            "source_doc": 1.06, "press_release": 1.00, "news_clip": 1.00,
+            "video": 1.00, "slide": 1.00, "table": 0.96,
+        }
+        intent = "documentary"
+    elif attribution:
+        priors = {
+            "press_release": 1.08, "video": 1.06, "news_clip": 1.04,
+            "slide": 1.03, "source_doc": 0.96, "table": 0.94,
+        }
+        intent = "attribution"
+    else:
+        priors = {
+            "press_release": 1.03, "video": 1.03, "news_clip": 1.02,
+            "slide": 1.02, "source_doc": 0.98, "table": 0.96,
+        }
+        intent = "general"
+
+    qterms = _query_terms(question)
+    out = []
+    for row in rows:
+        item = dict(row)
+        base = float(item.get("score") or 0.0)
+        text_terms = _query_terms(
+            f"{item.get('text', '')} {item.get('citation', '')}")
+        coverage = len(qterms & text_terms) / len(qterms) if qterms else 0.0
+        prior = priors.get(str(item.get("source_type") or ""), 0.90)
+        item["fusion_score"] = base
+        item["source_prior"] = prior
+        item["term_coverage"] = round(coverage, 4)
+        item["rerank_intent"] = intent
+        # Coverage is bounded below one RRF leg's contribution. It breaks close
+        # RRF ties; it cannot drag a lexical-only tail hit over broad hybrid
+        # agreement by itself.
+        item["score"] = base * prior + (coverage * 0.0015)
+        out.append(item)
+    return sorted(out, key=lambda r: -r["score"])
+
+
+def diversify(rows: list[dict], k: int, max_per_file: int = 2) -> list[dict]:
+    """Prevent one long PDF from occupying the complete answer context."""
+    out: list[dict] = []
+    skipped: list[dict] = []
+    per_file: dict[str, int] = {}
+    for row in rows:
+        source = str(row.get("source_file") or row.get("chunk_id") or "")
+        if per_file.get(source, 0) >= max_per_file:
+            skipped.append(row)
+            continue
+        out.append(row)
+        per_file[source] = per_file.get(source, 0) + 1
+        if len(out) >= k:
+            return out
+    # A narrow user filter can legitimately leave one document. Return k when
+    # possible instead of interpreting diversity as a hard result-count cap.
+    for row in skipped:
+        out.append(row)
+        if len(out) >= k:
+            break
+    return out
 
 
 @dataclass(frozen=True)
@@ -135,7 +233,7 @@ def dedup(rows: list[dict], k: int) -> list[dict]:
     return out
 
 
-def search_passages(question: str, k: int = 8, *,
+def search_passages(question: str, k: int = 12, *,
                     filters: Optional[Filters] = None,
                     use_vector: bool = True,
                     use_keyword: bool = True) -> tuple[list[dict], dict[str, Any]]:
@@ -161,6 +259,11 @@ def search_passages(question: str, k: int = 8, *,
         try:
             legs["vector"] = vector_leg(table, question, fetch, where)
             diag["vector"] = len(legs["vector"])
+        except vstore.EmbeddingDimensionError:
+            # Falling back to BM25 makes a model/index deployment mistake look
+            # like a healthy hybrid search with mysteriously poor multilingual
+            # recall. Fail startup/request loudly with the actionable message.
+            raise
         except Exception as e:                      # missing model, bad filter
             diag["vector"] = f"failed: {type(e).__name__}: {e}"
     if use_keyword:
@@ -177,10 +280,15 @@ def search_passages(question: str, k: int = 8, *,
             row.pop("vector", None)
 
     fused = fuse(legs)
-    passages = dedup(fused, k)
+    ranked = rerank(question, fused)
+    unique = dedup(ranked, len(ranked))
+    passages = diversify(unique, k)
     for i, p in enumerate(passages, start=1):
         p["rank"] = i
     diag["fused"] = len(fused)
+    diag["rerank"] = "archive-source-prior-v1"
+    diag["rerank_intent"] = passages[0].get("rerank_intent") if passages else None
+    diag["unique"] = len(unique)
     return passages, diag
 
 

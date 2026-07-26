@@ -5,8 +5,9 @@
     python -m kng.answer "మద్యం కుంభకోణం" --retrieval-only     # free, no LLM call
     KNG_FAKE_LLM=1 python -m kng.answer "TTD laddu"            # offline dry run
 
-Retrieval is free and local. The single synthesis call is the only paid step, so
-`--retrieval-only` shows exactly what would be sent before anything is spent.
+Retrieval is free and local. A successful answer uses up to three provider calls
+(sufficiency, synthesis, claim validation), so `--retrieval-only` shows exactly
+what would be sent before anything is spent.
 """
 from __future__ import annotations
 
@@ -45,7 +46,7 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="kng.answer",
                                  description="grounded, cited answer over the press-meet archive")
     ap.add_argument("question")
-    ap.add_argument("-k", type=int, default=8, help="passages to retrieve")
+    ap.add_argument("-k", type=int, default=12, help="passages to retrieve")
     ap.add_argument("--lang", help="filter passages: te | en | hi | mixed")
     ap.add_argument("--source-type",
                     help="press_release | source_doc | news_clip | video | slide | table")
@@ -85,13 +86,15 @@ def main(argv: list[str] | None = None) -> int:
                    max_facts=args.max_facts)
 
     if args.retrieval_only:
-        sources = synthesize.build_sources(ctx)
+        retrieved_sources = synthesize.build_sources(ctx)
+        sources = synthesize.select_prompt_sources(retrieved_sources)
         if args.prompt:
             system, user = synthesize.build_prompt(ctx, sources)
             print(system + "\n" + "-" * 70 + "\n" + user)
             return 0
         if args.json:
-            print(json.dumps({"context": ctx.to_dict(), "sources": sources},
+            print(json.dumps({"context": ctx.to_dict(), "sources": sources,
+                              "retrieved_sources": len(retrieved_sources)},
                              ensure_ascii=False, indent=1, default=str))
             return 0
         _print_sources(sources, cited=[], chars=args.chars or 240, show_all=True)

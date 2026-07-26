@@ -18,6 +18,11 @@ from ..models import Chunk
 TABLE = "chunks"
 VECTOR_COLUMN = "vector"
 
+
+class EmbeddingDimensionError(ValueError):
+    """The query model and the persisted vector index cannot interoperate."""
+
+
 # Columns mirror Chunk's flattened metadata (kng/models.py). Kept explicit rather
 # than inferred so a re-embed can never silently change column types.
 _BASE_FIELDS = [
@@ -110,7 +115,7 @@ def check_dim(table, vector: Sequence[float]) -> None:
     have = table_dim(table)
     if have is None or len(vector) == have:
         return
-    raise ValueError(
+    raise EmbeddingDimensionError(
         f"query embedding is {len(vector)}-dim but the index stores {have}-dim "
         f"vectors — they were built by different models. This machine is "
         f"configured for LOCAL_EMBED_MODEL={settings().local_embed_model!r}; the "

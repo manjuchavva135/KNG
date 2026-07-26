@@ -16,6 +16,7 @@ and its evidence list is what the citation renders from.
 from __future__ import annotations
 
 import json
+from functools import lru_cache
 from pathlib import Path
 from typing import Any, Iterable, Optional
 
@@ -25,10 +26,15 @@ from ..models import Community, Entity, Relation
 GRAPH_FILE = "graph.json"
 COMMUNITIES_FILE = "communities.json"
 
-# Evidence is capped per edge: a relation asserted in hundreds of chunks needs a
-# few citable examples, not all of them, and the uncapped list would dominate the
-# artifact's size. `weight` still records the true count.
-MAX_EVIDENCE = 5
+# Evidence is capped per edge, but the cap must be large enough to retain one
+# exact locator per meet on a cross-meet edge. The old cap of five left 726
+# aggregate edges naming meets for which they retained no citable evidence.
+# `weight` still records every assertion.
+MAX_EVIDENCE = 64
+_EVIDENCE_LOCATOR_FIELDS = (
+    "source_file", "citation", "press_meet_id", "date", "source_type",
+    "publication", "language", "page", "slide", "video_start", "video_end",
+)
 
 
 def graph_dir() -> Path:
@@ -72,7 +78,8 @@ def add_relation(G, rel: Relation) -> None:
         return
     key = rel.relation
     data = G.get_edge_data(rel.source_id, rel.target_id, key=key)
-    ev = {"chunk_id": rel.chunk_id, "citation": rel.citation,
+    ev = {"chunk_id": rel.chunk_id, "source_file": rel.source_file,
+          "citation": rel.citation,
           "quote": rel.evidence, "date": rel.date,
           "press_meet_id": rel.press_meet_id}
     if data is None:
@@ -88,8 +95,10 @@ def add_relation(G, rel: Relation) -> None:
     if rel.press_meet_id:
         data["press_meet_ids"] = sorted(
             set(data.get("press_meet_ids", [])) | {rel.press_meet_id})
-    if rel.chunk_id and len(data.get("evidence", [])) < MAX_EVIDENCE:
-        data.setdefault("evidence", []).append(ev)
+    evidence = data.setdefault("evidence", [])
+    if (rel.chunk_id and len(evidence) < MAX_EVIDENCE
+            and not any(old.get("chunk_id") == rel.chunk_id for old in evidence)):
+        evidence.append(ev)
 
 
 def _min_date(a: Optional[str], b: Optional[str]) -> Optional[str]:
@@ -116,18 +125,125 @@ def save(G, communities: Optional[Iterable[Community]] = None) -> Path:
         (d / COMMUNITIES_FILE).write_text(
             json.dumps([c.model_dump() for c in communities],
                        ensure_ascii=False, indent=1), encoding="utf-8")
+    _load_cached.cache_clear()
     return d / GRAPH_FILE
 
 
 def load():
     """Load the graph, or raise FileNotFoundError with the command that builds it."""
-    import networkx as nx
     fp = graph_file()
     if not fp.exists():
         raise FileNotFoundError(
             f"no graph at {fp} — run `python -m kng.pipeline.run --stage graph` first")
-    data = json.loads(fp.read_text(encoding="utf-8"))
-    return nx.node_link_graph(data, directed=True, multigraph=True, edges="edges")
+    stat = fp.stat()
+    return _load_cached(str(fp), stat.st_mtime_ns, stat.st_size)
+
+
+@lru_cache(maxsize=2)
+def _load_cached(path: str, mtime_ns: int, size: int):
+    """Load and enrich one immutable graph artifact.
+
+    `mtime_ns` and `size` are cache keys rather than unused trivia: a graph
+    rebuilt in a running process must not leave the server querying its prior
+    in-memory copy.  The name/entity-link indexes are attached to the graph
+    object by the retrieval layer, so caching also removes a ~30 MB JSON parse
+    from every request.
+    """
+    import networkx as nx
+
+    del mtime_ns, size
+    data = json.loads(Path(path).read_text(encoding="utf-8"))
+    G = nx.node_link_graph(data, directed=True, multigraph=True, edges="edges")
+    enrich_evidence(G)
+    return G
+
+
+@lru_cache(maxsize=1)
+def _chunk_locators() -> dict[str, dict[str, Any]]:
+    """Chunk id → exact portable locator, used to upgrade legacy graph files.
+
+    WP3 stored the evidence's `chunk_id` but accidentally dropped
+    `Relation.source_file`.  All existing chunk ids are unique, so the committed
+    chunk JSON can restore the missing path/page/timestamp without another LLM
+    call or a paid graph rebuild.
+    """
+    out: dict[str, dict[str, Any]] = {}
+    root = settings().index_dir / "chunks"
+    for fp in root.rglob("*.json"):
+        try:
+            rows = json.loads(fp.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        if not isinstance(rows, list):
+            continue
+        for row in rows:
+            cid = row.get("chunk_id")
+            if not cid:
+                continue
+            out[cid] = {
+                key: row.get(key)
+                for key in _EVIDENCE_LOCATOR_FIELDS
+            }
+    return out
+
+
+@lru_cache(maxsize=1)
+def _chunk_texts() -> dict[str, dict[str, Any]]:
+    """Text is loaded only for answer generation, not every graph stats query."""
+    out: dict[str, dict[str, Any]] = {}
+    root = settings().index_dir / "chunks"
+    for fp in root.rglob("*.json"):
+        try:
+            rows = json.loads(fp.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        if not isinstance(rows, list):
+            continue
+        for row in rows:
+            cid = row.get("chunk_id")
+            if cid:
+                out[cid] = {
+                    key: row.get(key)
+                    for key in ("text", "text_original", "text_en")
+                }
+    return out
+
+
+def chunk_record(chunk_id: str) -> dict[str, Any]:
+    """Exact persisted chunk behind a graph evidence record, if available."""
+    return {
+        **(_chunk_locators().get(chunk_id) or {}),
+        **(_chunk_texts().get(chunk_id) or {}),
+    }
+
+
+def enrich_evidence(G) -> dict[str, int]:
+    """Restore/complete every graph evidence locator from `index/chunks`.
+
+    Returns audit counts so tests and repair tooling can prove the upgrade was
+    complete.  Unknown ids stay visible as unresolved rather than being assigned
+    a plausible but wrong source.
+    """
+    locators = _chunk_locators()
+    counts = {"evidence": 0, "enriched": 0, "unresolved": 0}
+    for _, _, data in G.edges(data=True):
+        for ev in data.get("evidence", []) or []:
+            counts["evidence"] += 1
+            cid = ev.get("chunk_id")
+            loc = locators.get(cid)
+            if loc is None:
+                counts["unresolved"] += 1
+                continue
+            changed = False
+            for key in _EVIDENCE_LOCATOR_FIELDS:
+                value = loc.get(key)
+                if value is not None and not ev.get(key):
+                    ev[key] = value
+                    changed = True
+            if changed:
+                counts["enriched"] += 1
+    G.graph["_kng_evidence_audit"] = counts
+    return counts
 
 
 def load_communities() -> list[Community]:

@@ -175,6 +175,10 @@ body {
   margin-top: 12px; background: #fff8e3; border: 1px solid #ffe08a;
   border-left: 3px solid var(--saffron); border-radius: 7px; padding: 9px 12px; font-size: 13px;
 }
+.groundbar {
+  margin-top: 12px; background: var(--green-soft); border: 1px solid #bfe6cd;
+  border-left: 3px solid var(--green); border-radius: 7px; padding: 9px 12px; font-size: 13px;
+}
 
 .sources { margin-top: 14px; }
 .sources h3 {

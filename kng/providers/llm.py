@@ -216,10 +216,12 @@ class SarvamLLM(_Retrying):
         if system:
             messages.append({"role": "system", "content": system})
         messages.append({"role": "user", "content": user})
-        resp = client().chat.completions(
+        resp = self._attempt(lambda: client().chat.completions(
             model=self.model, messages=messages,
             temperature=temperature, max_tokens=max_tokens,
-        )
+        ))
+        if resp is None:
+            return ""
         return _unwrap(resp, "content", "text").strip()
 
     def complete_stream(self, system: str, user: str, temperature: float = 0.2,
@@ -289,7 +291,12 @@ class SarvamLLM(_Retrying):
             # as prose, which the parser below handles.
             "tools": [tool], "tool_choice": "auto",
         }
-        effort = (s.llm_reasoning_effort or "").strip().lower()
+        configured_effort = (
+            s.answer_reasoning_effort
+            if name in {"validate_evidence", "validate_answer"}
+            else s.llm_reasoning_effort
+        )
+        effort = (configured_effort or "").strip().lower()
         # "null"/"none"/"" -> send JSON null, which the API accepts to disable
         # reasoning; anything else must be one of low|medium|high.
         payload["reasoning_effort"] = None if effort in ("", "null", "none") else effort
@@ -400,8 +407,13 @@ class FakeLLM(_Retrying):
             return ""
         lines = ["(offline fixture answer — KNG_FAKE_LLM=1, no model was called)", ""]
         for n, body in sources[:4]:
-            sentence = " ".join(body.split())[:220]
-            lines.append(f"{sentence} [{n}]")
+            sentence = " ".join(body.split())
+            sentence = re.split(r"(?<=[.!?।])\s+", sentence, maxsplit=1)[0][:220]
+            # Put the citation before terminal punctuation, exactly as the
+            # production prompt requires; otherwise the local sentence checker
+            # correctly treats "Claim. [1]" as an uncited claim.
+            sentence = sentence.rstrip(".!?। ")
+            lines.append(f"{sentence} [{n}].")
         return "\n".join(lines)
 
     def complete_stream(self, system: str, user: str, temperature: float = 0.2,
@@ -418,6 +430,13 @@ class FakeLLM(_Retrying):
                       max_tokens: int = 1024,
                       retries: Optional[int] = None) -> Optional[dict]:
         self.calls += 1
+        if name == "validate_answer":
+            # The fixture answer copies cited evidence verbatim.  Returning a
+            # deterministic judge record exercises the production two-pass path
+            # while still making zero network calls.
+            return {"verdict": "supported", "unsupported_claims": []}
+        if name == "validate_evidence":
+            return {"verdict": "sufficient", "reason": ""}
         if name == "record_community":
             return {"title": "fake cluster", "summary": "Offline placeholder summary."}
 
@@ -460,11 +479,13 @@ class AnthropicLLM(_Retrying):
 
     def complete(self, system: str, user: str, temperature: float = 0.2,
                  max_tokens: int = 2048) -> str:
-        resp = self._client.messages.create(
+        resp = self._attempt(lambda: self._client.messages.create(
             model=self.model, system=system or None,
             messages=[{"role": "user", "content": user}],
             temperature=temperature, max_tokens=max_tokens,
-        )
+        ))
+        if resp is None:
+            return ""
         return "".join(b.text for b in resp.content if getattr(b, "type", "") == "text").strip()
 
     def clean_document(self, text: str, lang_hint: str = "") -> str:

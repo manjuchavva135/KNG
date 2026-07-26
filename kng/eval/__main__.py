@@ -6,7 +6,7 @@
     python -m kng.eval --only laddu-en,seci-tariff
     python -m kng.eval --baseline var/eval/20260726-120000-k8.json
     KNG_FAKE_LLM=1 python -m kng.eval --answer  # end-to-end, offline, free
-    python -m kng.eval --answer --spend         # PAID: one call per question
+    python -m kng.eval --answer --spend         # PAID: up to 3 calls per question
 
 `--answer` against a real provider needs `--spend` as well. The project's standing
 rule is that paid passes are run deliberately by the user, so the flag that costs
@@ -24,7 +24,9 @@ from . import harness
 
 def _progress(i: int, total: int, res: harness.QuestionResult) -> None:
     mark = "!" if res.error else ("✅" if res.meet_hit else "❌")
-    extra = f" cited={res.cited}" if res.answered else ""
+    extra = (
+        f" cited={res.cited} {'REFUSED' if res.refused else 'GROUNDED' if res.grounding_passed else ''}"
+        if res.answered else "")
     print(f"[{i}/{total}] {mark} {res.id:<22} rank={res.meet_rank or '—':<3} "
           f"facts={res.facts:<3} {res.retrieval_s:.2f}s{extra}"
           + (f"  {res.error}" if res.error else ""), flush=True)
@@ -36,7 +38,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--no-graph", action="store_true", help="ablate the graph leg")
     ap.add_argument("--graph-hops", type=int, default=1)
     ap.add_argument("--answer", action="store_true",
-                    help="also synthesise an answer per question (one LLM call each)")
+                    help="also answer each question (up to 3 LLM calls each)")
     ap.add_argument("--spend", action="store_true",
                     help="confirm paid calls when --answer uses a real provider")
     ap.add_argument("--language", help="force the answer language (en|te)")
@@ -87,12 +89,12 @@ def main(argv: list[str] | None = None) -> int:
         from ..providers import get_llm
         provider = type(get_llm()).__name__
         if provider != "FakeLLM" and not args.spend:
-            print(f"refusing to run {len(questions)} paid calls through {provider} "
+            print(f"refusing to run up to {3 * len(questions)} paid calls through {provider} "
                   f"without --spend.\nFor a free end-to-end check: "
                   f"KNG_FAKE_LLM=1 python -m kng.eval --answer", file=sys.stderr)
             return 2
         if provider != "FakeLLM":
-            print(f"⚠ {len(questions)} paid {provider} calls\n", flush=True)
+            print(f"⚠ up to {3 * len(questions)} paid {provider} calls\n", flush=True)
 
     report = harness.run(questions, k=args.k, use_graph=not args.no_graph,
                          graph_hops=args.graph_hops, with_answer=args.answer,

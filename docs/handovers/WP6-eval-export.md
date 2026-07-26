@@ -1,9 +1,13 @@
 # WP6 — Eval harness, hardening, portable export
 
-**Status:** eval harness and portable export ✅ done and verified 2026-07-26.
-**120 tests pass** (79 from WP1–WP5 + 22 eval + 19 export), all offline. Retrieval
-quality now has a baseline number; the reranker and the cross-script gap are
-scoped but not built.
+**Status:** eval, export, and production grounding hardening ✅ verified
+2026-07-26. **140 tests pass**, all offline. A bounded seven-call Sarvam
+validation also exercised the real sufficiency → generation → claim-validation
+path; no extraction/OCR/ASR calls were made.
+
+The original k=8 result below remains the comparison baseline. The production
+configuration now uses archive-aware second-stage ordering and `k=12`, measured
+at **0.800 meet hit / 0.536 MRR** versus **0.667 / 0.528** at baseline.
 
 ---
 
@@ -104,7 +108,66 @@ go straight to the transcripts. This is a weighting problem, not a language-mode
 problem: `source_doc` should not compete on equal terms with a press release from
 the meet itself.
 
-Both are WP6 work that this handover explicitly does *not* claim to have done.
+## Production hardening continuation — 2026-07-26
+
+The two measured ranking findings above are now implemented:
+
+- `hybrid.rerank` applies small, explicit source priors. Attribution questions
+  prefer press releases/video/news clips; documentary questions prefer source
+  documents. Per-file diversity prevents one long PDF occupying the prompt.
+- The serving default is `k=12`. On the same 30 questions this moved meet hit
+  **0.667 → 0.800**, MRR **0.528 → 0.536**, meet recall **0.526 → 0.653**, and
+  English hit **0.545 → 0.727**. Telugu remained **1.000**.
+- Cross-script graph facts now rank direct `MAKES_CLAIM` evidence above generic
+  high-weight `MEMBER_OF` / `MENTIONS` edges. Their exact underlying chunks are
+  promoted into the passage prompt, so an English question can receive the
+  original Telugu press-release context.
+
+Grounding and provenance now fail closed:
+
+- the only valid citation namespace is the evidence actually placed in the
+  prompt; graph facts no longer get squeezed out behind 30 passages;
+- every legacy graph evidence record is enriched from its exact chunk id at load
+  time. Real-artifact audit: **13,567/13,567 resolved, 0 unresolved**;
+- graph facts obey passage filters at the evidence level; `press_meet_id=10`
+  cannot bring evidence from another meet;
+- short uncited claims are no longer exempt, common `Rs.`/`రూ.` abbreviations
+  do not create false sentence boundaries, and a citation after punctuation is
+  canonicalised safely;
+- Sarvam first judges evidence sufficiency, then generates, then independently
+  checks every generated claim against only its cited excerpts. Missing,
+  malformed, unsupported, uncited, or invalid output becomes an explicit
+  refusal;
+- raw provider tokens are buffered until validation passes. Unsupported
+  political prose is never sent as a provisional SSE delta;
+- source viewing now returns 404 for an invalid chunk/page instead of silently
+  opening the file's first chunk.
+
+Serving controls added: 2,000-character question limit, bounds on login/admin and
+filter inputs, per-account request quota, bounded concurrent answer slots,
+explicit CPU embedding device, `/api/ready`, grounding/refusal fields in SSE,
+history and admin metrics, and a fatal embedding-dimension mismatch instead of a
+quiet BM25 fallback. The in-process quota is correct for the documented
+single-process deployment; multi-worker production must put rate limits in the
+reverse proxy or a shared store.
+
+### Bounded live Sarvam validation
+
+The user authorised Sarvam answer validation. The run was capped at exactly
+**seven `sarvam-105b` chat calls**:
+
+1. Two one-call sufficiency probes correctly refused while the directly quoted
+   press-release evidence was still absent from the prompt. These probes exposed
+   and drove the graph-fact promotion fix.
+2. One run passed sufficiency and generated, then correctly refused locally
+   because the answer's citation formatting produced uncited sentence fragments.
+3. The final run used three calls and passed every gate: evidence
+   **sufficient**, **9 claims checked**, verdict **supported**, 9 cited sources,
+   0 retries, 0 provider failures.
+
+The validated answer concerned Jagan's statements on the SECI agreement and
+₹2.49 tariff. No Telugu live answer was run after the seven-call cap was reached.
+Offline Telugu retrieval remained 1.000 on the fixed evaluation set.
 
 ## Portable export
 
@@ -175,12 +238,15 @@ reports vectors when exporting the configured project root.)*
 
 | check | result |
 |---|---|
-| full suite | **120 pass** (`python -m unittest discover -s tests`) |
+| full suite | **140 pass** (`python -m unittest discover -s tests`) |
 | eval tests | 22, offline, 0.10 s — no index, no model, no network |
 | export tests | 19, on a synthetic root |
 | `--validate` on the shipped set | 30 questions, every expectation resolves |
 | free baseline | 30 questions scored, 0 errors, report written |
 | k=30 ablation vs baseline | hit +0.200, MRR +0.030 (recorded above) |
+| production k=12 + local rerank | hit **0.800**, MRR **0.536**, English hit **0.727** |
+| graph evidence provenance | **13,567 resolved / 0 unresolved** |
+| bounded live Sarvam | exactly **7 calls**; final answer 9/9 claims supported, 0 retries/failures |
 | spend gate | `--answer` against a real provider without `--spend` → exit 2 |
 | archive build | 5140 files · 197.9 MB → 66.8 MB · 22 s |
 | `sha256sum -c` · `--verify` | OK · "archive matches its record" |
@@ -192,16 +258,25 @@ reports vectors when exporting the configured project root.)*
 
 ## What WP6 still has open
 
-- **Reranker.** `RERANK_PROVIDER=none`. A cross-encoder over the fused top-30 is
-  the measured next step — baseline and command are both ready, so the change can
-  be judged with `--baseline` instead of by feel.
-- **`source_doc` weighting.** The dominant English failure mode. Options: a
-  per-source-type prior in RRF, or excluding `source_doc` from the vector leg while
-  keeping it searchable. Either needs an eval run, not an opinion.
-- **Cross-script fact relevance.** `graph_context._relevance` scores an English
-  question at zero against Telugu evidence quotes; `text_en` is unpopulated.
+- **Learned reranker.** The measured local source-aware stage is shipped. A
+  multilingual cross-encoder can still be A/B tested over the fused candidates;
+  it must beat 0.800 / 0.536 and justify its latency/model footprint.
+- **Passage-level gold labels.** Meet-level evaluation missed the SECI failure:
+  the correct meet was present but the direct statement was not. Hand-label a
+  small release-blocking set of exact chunks for citation recall.
+- **Temporal retrieval.** The one temporal evaluation question still misses at
+  k=12; timeline/meet diversification needs its own measured stage.
+- **Persist the wider graph evidence cap.** New builds retain up to 64 exact
+  evidence records instead of five, but the current artifact was not rebuilt:
+  726 aggregate edges still name at least one meet for which the capped JSON has
+  no evidence. Filtered queries now drop those uncitable facts safely. Add a
+  cache-only graph rebuild mode before regenerating the artifact, so the one
+  known missing extraction can never trigger a surprise paid call.
 - **Ontology merge.** `TTD` exists as both `Place` and `Organization`.
-- **Answer-mode baseline.** Not run — that is 30 paid calls and the user's call.
-  `KNG_FAKE_LLM=1 python -m kng.eval --answer` exercises the path for free.
+- **Full answer-mode baseline.** Not run — production mode is now up to 90 paid
+  calls for 30 questions. The bounded seven-call smoke test is recorded above;
+  use `KNG_FAKE_LLM=1 python -m kng.eval --answer` for the free path.
+- **Shared rate limiting.** The built-in quota is process-local. Enforce a shared
+  quota at the reverse proxy/Redis layer before using multiple Uvicorn workers.
 - **`ANSWER_REASONING_EFFORT`** still un-A/B'd for synthesis (WP3 measured it only
   for extraction). The harness makes this a two-command comparison now.

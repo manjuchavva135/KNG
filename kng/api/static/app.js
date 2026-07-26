@@ -2,10 +2,9 @@
  *
  * Two things here are load-bearing rather than cosmetic:
  *
- * 1. The streamed text is *provisional*. Citations can only be verified once the
- *    model stops, so when the `final` event arrives its text replaces what was
- *    streamed. Leaving the raw stream on screen would show a hallucinated `[9]`
- *    as though the server had checked it.
+ * 1. Answer deltas arrive only after server-side citation and claim-support
+ *    checks pass. The `final` event remains authoritative and records either
+ *    that grounding passed or why the system refused.
  * 2. All source text is inserted with `textContent`, never `innerHTML`. The
  *    corpus is OCR'd third-party material; treating it as markup would let a
  *    scanned page inject script.
@@ -114,7 +113,7 @@ async function openSession(id) {
 function currentBody(question) {
   return {
     question,
-    k: parseInt(el("f-k").value, 10) || 8,
+    k: parseInt(el("f-k").value, 10) || 12,
     language: state.language || null,
     press_meet_id: el("f-meet").value || null,
     source_type: el("f-type").value || null,
@@ -171,6 +170,11 @@ function renderAnswer(box, text, sources) {
 
 function renderWarnings(box, info) {
   const bits = [];
+  if (info.refused) {
+    bits.push(`Grounded-answer refusal${info.refusal_reason ? `: ${info.refusal_reason}` : "."}`);
+  } else if (info.grounding_passed) {
+    bits.push("Grounding check passed against the cited evidence.");
+  }
   if (info.invalid_citations && info.invalid_citations.length) {
     bits.push(`${info.invalid_citations.length} citation(s) pointed at no source and were removed (${info.invalid_citations.join(", ")}).`);
   }
@@ -179,7 +183,7 @@ function renderWarnings(box, info) {
   }
   if (!bits.length) return;
   const bar = document.createElement("div");
-  bar.className = "warnbar";
+  bar.className = info.grounding_passed && !info.refused ? "groundbar" : "warnbar";
   bar.textContent = bits.join(" ");
   box.appendChild(bar);
 }
@@ -271,7 +275,7 @@ async function ask(question) {
           status.textContent = `${data.length} source(s) retrieved — writing the answer…`;
         } else if (event === "delta") {
           streamed += data.text;
-          // Provisional text: citations are not verified until `final`.
+          // Server emits answer text only after its grounding check succeeds.
           answerBox.textContent = streamed;
         } else if (event === "error") {
           status.textContent = `Error: ${data.message}`;

@@ -117,6 +117,9 @@ class QuestionResult:
     invalid_citations: list[int] = field(default_factory=list)
     uncited_sentences: int = 0
     cited_expected_meet: bool = False
+    grounding_passed: bool = False
+    refused: bool = False
+    refusal_reason: str = ""
     answer_s: float = 0.0
     error: str = ""
 
@@ -169,6 +172,9 @@ def score_answer(question: Question, res: QuestionResult, ans) -> QuestionResult
     res.cited = len(ans.cited or [])
     res.invalid_citations = list(ans.invalid_citations or [])
     res.uncited_sentences = int(ans.uncited_sentences or 0)
+    res.grounding_passed = bool(getattr(ans, "grounding_passed", False))
+    res.refused = bool(getattr(ans, "refused", False))
+    res.refusal_reason = str(getattr(ans, "refusal_reason", "") or "")
 
     expected = set(question.meets)
     by_n = {s.get("n"): s for s in (ans.sources or [])}
@@ -232,6 +238,9 @@ def aggregate(results: list[QuestionResult]) -> dict[str, Any]:
                 sum(1 for r in answered if r.invalid_citations),
             "cited_expected_meet_rate":
                 _mean([1.0 if r.cited_expected_meet else 0.0 for r in answered]),
+            "grounding_pass_rate":
+                _mean([1.0 if r.grounding_passed else 0.0 for r in answered]),
+            "refusal_rate": _mean([1.0 if r.refused else 0.0 for r in answered]),
             "mean_answer_s": _mean([r.answer_s for r in answered]),
         }
     return out
@@ -242,7 +251,7 @@ def run(questions: list[Question], *, k: int = 8, use_graph: bool = True,
         language: Optional[str] = None,
         filters: Optional[hybrid.Filters] = None,
         progress=None) -> Report:
-    """Score every question. Retrieval is free; `with_answer` costs one call each."""
+    """Score every question. Retrieval is free; answers use up to three calls each."""
     results: list[QuestionResult] = []
     for i, q in enumerate(questions, start=1):
         started = time.monotonic()
@@ -284,7 +293,11 @@ def run(questions: list[Question], *, k: int = 8, use_graph: bool = True,
         "with_answer": with_answer, "language": language,
         "questions_file": str(QUESTIONS_FILE),
         "embed_model": settings().local_embed_model,
-        "rerank_provider": settings().rerank_provider,
+        "rerank_provider": (
+            "archive-source-prior-v1"
+            + (f"+{settings().rerank_provider}"
+               if settings().rerank_provider.lower() != "none" else "")
+        ),
         "ran_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
     }
     if with_answer:
@@ -351,6 +364,8 @@ def markdown(report: Report, baseline: Optional[dict] = None) -> str:
         b = (base.get("answers") or {})
         lines += ["", "## Answers", "", "| metric | value |", "|---|---:|"]
         for label, key in (("answered", "n"),
+                           ("grounding pass rate", "grounding_pass_rate"),
+                           ("refusal rate", "refusal_rate"),
                            ("mean sources cited", "mean_cited"),
                            ("cited an expected meet", "cited_expected_meet_rate"),
                            ("mean uncited sentences", "mean_uncited_sentences"),

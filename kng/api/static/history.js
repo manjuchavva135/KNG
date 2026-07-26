@@ -63,10 +63,12 @@ function render() {
   const turns = state.sessions.reduce((n, s) => n + (s.turns || 0), 0);
   const uncited = state.sessions.reduce((n, s) => n + (s.uncited_sentences || 0), 0);
   const stripped = state.sessions.reduce((n, s) => n + (s.stripped_citations || 0), 0);
+  const refusals = state.sessions.reduce((n, s) => n + (s.refusals || 0), 0);
   const box = el("totals");
   box.textContent = "";
   [["conversations", total], ["questions", turns],
-   ["uncited sentences", uncited], ["citations stripped", stripped]]
+   ["grounded refusals", refusals], ["uncited sentences", uncited],
+   ["citations stripped", stripped]]
     .forEach(([k, v]) => {
       const row = document.createElement("div");
       row.className = "stat-line";
@@ -135,6 +137,8 @@ function card(s) {
   if (s.latency_s !== null && s.latency_s !== undefined) badge(badges, `${s.latency_s}s`);
   if (s.uncited_sentences) badge(badges, `${s.uncited_sentences} uncited`, "warn");
   if (s.stripped_citations) badge(badges, `${s.stripped_citations} citation(s) stripped`, "warn");
+  if (s.refused) badge(badges, "grounded refusal", "warn");
+  else if (s.grounding_passed) badge(badges, "grounding passed");
 
   const actions = document.createElement("div");
   actions.className = "hcard-actions";
@@ -219,6 +223,8 @@ async function openTranscript(id) {
     if ((t.invalid_citations || []).length) {
       badge(meta, `stripped ${t.invalid_citations.join(", ")}`, "warn");
     }
+    if (t.refused) badge(meta, "grounded refusal", "warn");
+    else if (t.grounding_passed) badge(meta, "grounding passed");
 
     const turn = document.createElement("div");
     turn.className = "turn";

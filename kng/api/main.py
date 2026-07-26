@@ -15,7 +15,9 @@ cannot open is not shipped — `/api/source` resolves each one back to its passa
 from __future__ import annotations
 
 import json
+import threading
 import time
+from collections import defaultdict, deque
 from typing import Any, Optional
 
 from fastapi import Depends, FastAPI, HTTPException, Request, Response
@@ -36,23 +38,27 @@ app = FastAPI(title="PressMeets RAG", version="0.1.0",
 
 # ── request models ─────────────────────────────────────────────────────────────
 class LoginBody(BaseModel):
-    email: str
-    password: str
+    email: str = Field(min_length=3, max_length=254)
+    password: str = Field(min_length=1, max_length=256)
 
 
 class AskBody(BaseModel):
-    question: str
-    k: int = Field(default=8, ge=1, le=30)
-    language: Optional[str] = None            # "en" | "te" | None = auto
-    press_meet_id: Optional[str] = None
-    source_type: Optional[str] = None
-    publication: Optional[str] = None
-    since: Optional[str] = None
-    until: Optional[str] = None
-    passage_language: Optional[str] = None    # filter passages by their language
+    question: str = Field(
+        min_length=1, max_length=settings().answer_max_question_chars)
+    k: int = Field(default=12, ge=1, le=30)
+    language: Optional[str] = Field(default=None, max_length=16)
+    press_meet_id: Optional[str] = Field(default=None, max_length=160)
+    source_type: Optional[str] = Field(default=None, max_length=48)
+    publication: Optional[str] = Field(default=None, max_length=120)
+    since: Optional[str] = Field(
+        default=None, pattern=r"^\d{4}-\d{2}-\d{2}$")
+    until: Optional[str] = Field(
+        default=None, pattern=r"^\d{4}-\d{2}-\d{2}$")
+    passage_language: Optional[str] = Field(default=None, max_length=16)
     use_graph: bool = True
     graph_hops: int = Field(default=1, ge=1, le=3)
-    session_id: Optional[str] = None
+    session_id: Optional[str] = Field(default=None, max_length=96,
+                                      pattern=r"^[A-Za-z0-9_-]+$")
 
     def filters(self) -> hybrid.Filters:
         return hybrid.Filters(
@@ -62,31 +68,31 @@ class AskBody(BaseModel):
 
 
 class UserBody(BaseModel):
-    email: str
-    password: str
+    email: str = Field(min_length=3, max_length=254)
+    password: str = Field(min_length=8, max_length=256)
     admin: bool = False
 
 
 class DisableBody(BaseModel):
-    email: str
+    email: str = Field(min_length=3, max_length=254)
     disabled: bool = True
 
 
 class RoleBody(BaseModel):
-    email: str
+    email: str = Field(min_length=3, max_length=254)
     role: str = Field(pattern="^(user|admin)$")
 
 
 class PasswordBody(BaseModel):
-    email: str
-    password: str = Field(min_length=8)
+    email: str = Field(min_length=3, max_length=254)
+    password: str = Field(min_length=8, max_length=256)
 
 
 class DeleteUserBody(BaseModel):
-    email: str
+    email: str = Field(min_length=3, max_length=254)
     # The client must echo the address it means to delete. A mis-click on a row
     # button should not be able to remove an account and its history.
-    confirm: str
+    confirm: str = Field(min_length=3, max_length=254)
 
 
 class RenameBody(BaseModel):
@@ -154,23 +160,66 @@ def health() -> dict[str, Any]:
     return {"ok": True, "app": "PressMeets RAG"}
 
 
+@app.get("/api/ready")
+def ready(response: Response) -> dict[str, Any]:
+    """Deployment readiness without loading the embedding model or leaking paths."""
+    s = settings()
+    checks = {
+        "session_signing": bool(s.session_secret),
+        "vector_index": s.path(s.lancedb_path).is_dir(),
+        "graph_index": (s.path(s.graph_path) / "graph.json").is_file(),
+        "chunk_provenance": (s.index_dir / "chunks").is_dir(),
+    }
+    available = all(checks.values())
+    if not available:
+        response.status_code = 503
+    return {"ready": available, "checks": checks}
+
+
 # ── ask (streaming) ────────────────────────────────────────────────────────────
+_ask_lock = threading.Lock()
+_ask_attempts: dict[str, deque[float]] = defaultdict(deque)
+_ask_slots = threading.BoundedSemaphore(max(1, settings().ask_max_concurrent))
+
+
+def _take_ask_quota(user_id: str) -> bool:
+    """Process-local paid-call throttle, keyed by authenticated account."""
+    now = time.monotonic()
+    window = max(1, settings().ask_window_seconds)
+    limit = max(1, settings().ask_max_requests)
+    with _ask_lock:
+        q = _ask_attempts[user_id]
+        while q and now - q[0] > window:
+            q.popleft()
+        if len(q) >= limit:
+            return False
+        q.append(now)
+        return True
+
+
 def _sse(event: str, data: Any) -> str:
     return f"event: {event}\ndata: {json.dumps(data, ensure_ascii=False, default=str)}\n\n"
 
 
 @app.post("/api/ask")
 def ask(body: AskBody, user: auth.User = Depends(current_user)) -> StreamingResponse:
-    """Server-sent events: `sources` → `delta`* → `final` (or `error`).
+    """Server-sent events: `sources` → validated `delta`* → `final`.
 
-    `final` is the authoritative answer. The deltas are provisional text straight
-    from the model; citations cannot be checked until it stops, so the client must
-    replace what it streamed with `final.text`, which has had any `[n]` pointing
-    at no source stripped and counted.
+    Provider output is buffered until citation and claim-support validation
+    passes, so unsupported prose is never sent as a provisional delta. `final`
+    remains authoritative and carries the grounding/refusal record.
     """
     question = (body.question or "").strip()
     if not question:
         raise HTTPException(status_code=400, detail="a question is required")
+    if not _take_ask_quota(user.id):
+        raise HTTPException(
+            status_code=429,
+            detail="question limit reached — wait before making another paid request")
+    if not _ask_slots.acquire(blocking=False):
+        raise HTTPException(
+            status_code=429,
+            detail="the answer service is at capacity — retry shortly")
 
     session_id = body.session_id or history.new_session_id()
 
@@ -180,56 +229,67 @@ def ask(body: AskBody, user: auth.User = Depends(current_user)) -> StreamingResp
         answer = None
         yield _sse("meta", {"session_id": session_id})
         try:
-            for kind, payload in stream_answer(
-                    question, k=body.k, filters=body.filters(),
-                    use_graph=body.use_graph, graph_hops=body.graph_hops,
-                    language=body.language):
-                if kind == "sources":
-                    yield _sse("sources", payload)
-                elif kind == "delta":
-                    yield _sse("delta", {"text": payload})
-                elif kind == "error":
-                    yield _sse("error", {"message": payload})
-                elif kind == "final":
-                    answer = payload
-                    yield _sse("final", {
-                        "text": payload.text,
-                        "cited": payload.cited,
-                        "invalid_citations": payload.invalid_citations,
-                        "uncited_sentences": payload.uncited_sentences,
-                        "sources": payload.sources,
-                        "diagnostics": payload.diagnostics,
-                        "session_id": session_id,
-                    })
-        except Exception as e:                # never leave the client hanging
-            yield _sse("error", {"message": f"{type(e).__name__}: {e}"})
-            return
+            try:
+                for kind, payload in stream_answer(
+                        question, k=body.k, filters=body.filters(),
+                        use_graph=body.use_graph, graph_hops=body.graph_hops,
+                        language=body.language):
+                    if kind == "sources":
+                        yield _sse("sources", payload)
+                    elif kind == "delta":
+                        yield _sse("delta", {"text": payload})
+                    elif kind == "error":
+                        yield _sse("error", {"message": payload})
+                    elif kind == "final":
+                        answer = payload
+                        yield _sse("final", {
+                            "text": payload.text,
+                            "cited": payload.cited,
+                            "invalid_citations": payload.invalid_citations,
+                            "uncited_sentences": payload.uncited_sentences,
+                            "grounding_passed": payload.grounding_passed,
+                            "refused": payload.refused,
+                            "refusal_reason": payload.refusal_reason,
+                            "sources": payload.sources,
+                            "diagnostics": payload.diagnostics,
+                            "session_id": session_id,
+                        })
+            except Exception as e:                # never leave the client hanging
+                yield _sse("error", {"message": f"{type(e).__name__}: {e}"})
+                return
 
-        if answer is None:
-            return
-        latency = round(time.monotonic() - started, 2)
-        turn = {
-            "question": question, "answer": answer.text,
-            "cited": answer.cited, "sources": answer.sources,
-            "uncited_sentences": answer.uncited_sentences,
-            "invalid_citations": answer.invalid_citations,
-            "language": body.language, "latency_s": latency,
-            "filters": {k: v for k, v in body.model_dump().items()
-                        if k in ("press_meet_id", "source_type", "publication",
-                                 "since", "until", "passage_language") and v},
-            "asked_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        }
-        try:
-            history.append_turn(user.id, session_id, turn)
-        except (OSError, ValueError):
-            pass                              # a failed write must not break the answer
-        history.log_query({
-            "user": user.email, "question": question, "latency_s": latency,
-            "sources": len(answer.sources), "cited": len(answer.cited),
-            "uncited_sentences": answer.uncited_sentences,
-            "invalid_citations": answer.invalid_citations,
-            "model": (answer.diagnostics.get("llm") or {}).get("model"),
-        })
+            if answer is None:
+                return
+            latency = round(time.monotonic() - started, 2)
+            turn = {
+                "question": question, "answer": answer.text,
+                "cited": answer.cited, "sources": answer.sources,
+                "uncited_sentences": answer.uncited_sentences,
+                "invalid_citations": answer.invalid_citations,
+                "grounding_passed": answer.grounding_passed,
+                "refused": answer.refused,
+                "refusal_reason": answer.refusal_reason,
+                "language": body.language, "latency_s": latency,
+                "filters": {k: v for k, v in body.model_dump().items()
+                            if k in ("press_meet_id", "source_type", "publication",
+                                     "since", "until", "passage_language") and v},
+                "asked_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
+            }
+            try:
+                history.append_turn(user.id, session_id, turn)
+            except (OSError, ValueError):
+                pass                          # a failed write must not break the answer
+            history.log_query({
+                "user": user.email, "question": question, "latency_s": latency,
+                "sources": len(answer.sources), "cited": len(answer.cited),
+                "uncited_sentences": answer.uncited_sentences,
+                "invalid_citations": answer.invalid_citations,
+                "grounding_passed": answer.grounding_passed,
+                "refused": answer.refused,
+                "model": (answer.diagnostics.get("llm") or {}).get("model"),
+            })
+        finally:
+            _ask_slots.release()
 
     return StreamingResponse(events(), media_type="text/event-stream",
                              headers={"Cache-Control": "no-cache",

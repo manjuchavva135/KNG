@@ -119,6 +119,7 @@ python -m kng.api.users delete --email them@example.com --yes  # + their history
 
 # 5. Score retrieval against a fixed question set — free, no key (WP6)
 python -m kng.eval                          # 30 questions: hit rate, MRR, per-script cuts
+python -m kng.eval -k 12 --baseline docs/eval/baseline-2026-07-26-k8.json  # production
 python -m kng.eval -k 30 --baseline docs/eval/baseline-2026-07-26-k8.json   # deltas
 KNG_FAKE_LLM=1 python -m kng.eval --answer  # answer path too, offline and free
 
@@ -129,11 +130,12 @@ python -m kng.pipeline.export --verify kng-index.tar.gz # checksum + EXPORT.json
 ```
 
 `kng.query` is retrieval only — it returns the evidence and where it came from.
-`kng.answer` adds the graph leg and writes the cited synopsis: retrieval is free
-and local, and the single synthesis call is the only paid step, so
-`--retrieval-only` shows exactly what would be sent before anything is spent.
-Citations are verified after generation — any `[n]` pointing at no source is
-stripped and reported.
+`kng.answer` adds the graph leg and writes the cited synopsis. Retrieval is free
+and local. A successful production answer uses up to three Sarvam calls:
+evidence sufficiency, synthesis, and independent claim/citation validation; an
+early refusal uses one. `--retrieval-only` shows the exact prompt-visible
+evidence before anything is spent. Unsupported or uncited output is replaced by
+an explicit refusal and is never streamed provisionally.
 
 **Extraction is already complete on this checkout**; re-running `--stage extract`
 costs paid Sarvam calls. `--stage chunk`/`embed`/`query` are free and local.
@@ -169,7 +171,7 @@ kng/
   api/                   # WP5: main.py auth.py users.py meta.py sources.py history.py
     static/              #      index/login/history/admin html + app/history/admin js
   eval/                  # WP6: questions.yaml + harness.py (retrieval & answer scoring)
-tests/                   # python -m unittest discover -s tests  (120 tests)
+tests/                   # python -m unittest discover -s tests  (140 tests)
 var/                     # WP5 app state: users, history, query log (git-ignored)
 config/  ontology.yaml            # graph node/edge types + alias table
 docs/                            # WORK_PACKAGES.md + handovers/
@@ -192,12 +194,11 @@ Built in independently-resumable work packages; each ends with a handover doc in
 | WP2 | Chunk → embed → LanceDB (RAG works) | ✅ done · 4267 chunks · bge-m3 (1024d) |
 | WP3 | Knowledge graph build | ✅ done · 8120 nodes / 10773 edges / 1157 communities · full corpus, all 33 meets |
 | WP4 | GraphRAG query engine (cited synopsis) | ✅ done · hybrid RRF + graph leg · 34 tests · warm 0.22 s/query |
-| WP5 | FastAPI + chat web UI (**PressMeets RAG**) | ✅ done · auth (sessions revocable) · streaming answers · clickable citations · History page · admin console with account deletion · 79 tests · 31 browser checks |
-| WP6 | Eval, hardening, portable export | 🚧 eval harness + export done · baseline hit 0.667 / MRR 0.528 · reranker open |
+| WP5 | FastAPI + chat web UI (**PressMeets RAG**) | ✅ done · auth (sessions revocable) · validated SSE answers · clickable exact citations · History · admin |
+| WP6 | Eval, hardening, portable export | 🚧 production local rerank + k=12: **hit 0.800 / MRR 0.536** · fail-closed Sarvam validation · 140 tests |
 
-> **Resume point:** WP6 continued — a **reranker** (measured against
-> [docs/eval/](docs/eval/)) and `source_doc` weighting, which the baseline
-> identifies as the dominant English failure mode. Everything else is end-to-end
-> usable: extraction complete (4251/4251 units), graph across all 33 meets, web app
-> streaming citation-verified answers, and `python -m kng.pipeline.export` producing
-> a 66.8 MB archive that a fresh machine can query. `data/` is git-ignored.
+> **Resume point:** WP6 continued — add passage-level gold labels and fix temporal
+> retrieval, then A/B a learned multilingual reranker against the shipped local
+> stage. The current system resolves all 13,567 graph evidence records, refuses
+> unsupported output, and measured 0.800 hit / 0.536 MRR at the production k=12.
+> `python -m kng.pipeline.export` produces a 66.8 MB portable archive.

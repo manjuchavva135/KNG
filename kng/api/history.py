@@ -91,6 +91,9 @@ def _summary(session: dict[str, Any], fallback_id: str) -> dict[str, Any]:
         "sources": len(last.get("sources") or []),
         "uncited_sentences": sum(t.get("uncited_sentences") or 0 for t in turns),
         "stripped_citations": sum(len(t.get("invalid_citations") or []) for t in turns),
+        "refused": bool(last.get("refused", False)),
+        "grounding_passed": bool(last.get("grounding_passed", False)),
+        "refusals": sum(1 for t in turns if t.get("refused")),
         "latency_s": round(sum(latencies) / len(latencies), 2) if latencies else None,
     }
 
@@ -213,9 +216,15 @@ def log_query(entry: dict[str, Any]) -> None:
 
 def query_stats(limit: int = 2000) -> dict[str, Any]:
     """Rollup for the admin page: volume, latency, and citation coverage."""
+    empty = {
+        "queries": 0, "entries": [], "grounding_pass_rate": None,
+        "refusal_rate": None, "mean_latency_s": None,
+        "mean_uncited_sentences": None, "answers_with_stripped_citations": 0,
+        "by_user": {},
+    }
     fp = var_dir() / "queries.jsonl"
     if not fp.exists():
-        return {"queries": 0, "entries": []}
+        return empty
     rows: list[dict[str, Any]] = []
     for line in fp.read_text(encoding="utf-8").splitlines()[-limit:]:
         try:
@@ -223,12 +232,14 @@ def query_stats(limit: int = 2000) -> dict[str, Any]:
         except ValueError:
             continue
     if not rows:
-        return {"queries": 0, "entries": []}
+        return empty
 
     latencies = [r["latency_s"] for r in rows if isinstance(r.get("latency_s"), (int, float))]
     uncited = [r["uncited_sentences"] for r in rows
                if isinstance(r.get("uncited_sentences"), int)]
     stripped = sum(1 for r in rows if r.get("invalid_citations"))
+    refused = sum(1 for r in rows if r.get("refused"))
+    grounded = sum(1 for r in rows if r.get("grounding_passed"))
     by_user: dict[str, int] = {}
     for r in rows:
         by_user[r.get("user", "?")] = by_user.get(r.get("user", "?"), 0) + 1
@@ -237,9 +248,12 @@ def query_stats(limit: int = 2000) -> dict[str, Any]:
         "mean_latency_s": round(sum(latencies) / len(latencies), 2) if latencies else None,
         "mean_uncited_sentences": round(sum(uncited) / len(uncited), 2) if uncited else None,
         "answers_with_stripped_citations": stripped,
+        "grounding_pass_rate": round(grounded / len(rows), 4),
+        "refusal_rate": round(refused / len(rows), 4),
         "by_user": by_user,
         "entries": [{k: r.get(k) for k in
                      ("ts", "user", "question", "latency_s", "sources", "cited",
-                      "uncited_sentences", "invalid_citations")}
+                      "uncited_sentences", "invalid_citations",
+                      "grounding_passed", "refused")}
                     for r in rows[-25:]][::-1],
     }

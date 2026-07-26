@@ -71,6 +71,10 @@ class Settings:
     # That surfaced as an opaque LanceDB "there is no vector column" error, and had
     # the dimensions happened to match it would have returned plausible nonsense.
     local_embed_model: str = _env("LOCAL_EMBED_MODEL", "BAAI/bge-m3")
+    # Production query nodes are CPU-only by default.  Auto-detecting CUDA on a
+    # host with an incompatible driver currently emits error 804 before falling
+    # back; an explicit device is quieter and deterministic.
+    local_embed_device: str = _env("LOCAL_EMBED_DEVICE", "cpu")
     cohere_api_key: str = _env("COHERE_API_KEY")
     cohere_embed_model: str = _env("COHERE_EMBED_MODEL", "embed-multilingual-v3.0")
 
@@ -80,6 +84,12 @@ class Settings:
     # behaviour
     translate_to_en: bool = _bool("TRANSLATE_TO_EN", True)
     answer_language: str = _env("ANSWER_LANGUAGE", "auto")
+    # Bounded pre/post Sarvam gates judge evidence sufficiency and each generated
+    # claim against only its cited evidence. Failure becomes a refusal, never a
+    # best-effort answer in this politically sensitive archive.
+    answer_validate_claims: bool = _bool("ANSWER_VALIDATE_CLAIMS", True)
+    answer_min_confidence: float = _float("ANSWER_MIN_CONFIDENCE", 0.20)
+    answer_max_question_chars: int = _int("ANSWER_MAX_QUESTION_CHARS", 2000)
     # Reasoning effort for *answer synthesis* (extraction has its own setting).
     # Default off: WP3 measured `null` as both faster and richer for extraction,
     # and for synthesis it also cuts time-to-first-token, which the chat UI feels
@@ -93,6 +103,9 @@ class Settings:
     # start without one rather than shipping a guessable secret.
     session_secret: str = _env("KNG_SESSION_SECRET")
     session_hours: int = _int("KNG_SESSION_HOURS", 12)
+    ask_window_seconds: int = _int("KNG_ASK_WINDOW_SECONDS", 300)
+    ask_max_requests: int = _int("KNG_ASK_MAX_REQUESTS", 20)
+    ask_max_concurrent: int = _int("KNG_ASK_MAX_CONCURRENT", 2)
     # App state that is neither source data nor a build artifact: users, chat
     # history, query log. Git-ignored.
     var_dir: str = _env("KNG_VAR_DIR", "var")

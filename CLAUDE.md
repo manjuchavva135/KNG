@@ -6,10 +6,11 @@ with **exact source citations**, plus cross-meet / temporal reasoning.
 
 ## Non-negotiables
 
-- **Never run paid Sarvam calls during dev.** The user runs paid passes. Verify
-  with local-only stages (`chunk`, `embed`, `query` are all free). This is the
-  standing guardrail. Note `--local-only` is now *destructive* on this repo —
-  see "Verification" below.
+- **Never run paid Sarvam calls during dev unless the user's current request
+  explicitly authorises a bounded live validation.** Default to local-only
+  checks (`chunk`, `embed`, `query` are free), state the maximum call count, and
+  never broaden answer validation into OCR/ASR/extraction. Note `--local-only`
+  is now *destructive* on this repo — see "Verification" below.
 - **Sarvam key lives only in git-ignored `.env`.** Never commit it. The
   top-level `/data/` source archive (584 MB) is also ignored. **`index/` and
   `extracted/` ARE committed** so a clone reproduces the whole system — see
@@ -37,13 +38,14 @@ Data processing runs on the **cluster**; the query app runs **locally**.
   communities). End of WP3 = `index/` is complete and self-contained.
 - **Local:** `git clone` is the whole hand-off — `index/` and `extracted/` are
   committed (~204 MB), so WP4 (query engine) and WP5 (chat UI) need no bulk
-  processing and **no `SARVAM_API_KEY`**. Querying makes zero API calls.
+processing. Retrieval makes zero API calls; production answer synthesis and its
+two grounding gates require `SARVAM_API_KEY`.
 
 ```bash
 git clone <repo> KNG && cd KNG
 python3.11 -m venv .venv && source .venv/bin/activate
 pip install -e '.[local]'          # bge-m3 for query-side embedding
-cp .env.example .env               # key only needed to resume WP3
+cp .env.example .env               # key needed for real answers or to resume WP3
 python -m kng.graph_query stats
 ```
 
@@ -57,7 +59,7 @@ python -m kng.graph_query stats
 
 ## Provider stack (locked)
 
-Sarvam primary: LLM `sarvam-m`, ASR `saarika:v2.5`, OCR/Doc-Intelligence
+Sarvam primary: LLM `sarvam-105b`, ASR `saarika:v2.5`, OCR/Doc-Intelligence
 `sarvam-vision`, translation `mayura:v1`. **Sarvam has no embeddings API** →
 embeddings run locally on **`BAAI/bge-m3`** (needs `.[local]`; set via
 `LOCAL_EMBED_MODEL`). Changed in WP2 from `multilingual-e5-base`, which
@@ -76,11 +78,11 @@ See [docs/WORK_PACKAGES.md](docs/WORK_PACKAGES.md) for the WP tracker and
 `~/.claude/plans/act-as-a-software-snuggly-pond.md` (Revision 1 = Sarvam-first
 universal extraction + progress tracking).
 
-**Current resume point: WP6 continued — reranker + `source_doc` weighting**, both
-now measurable against the committed baseline in `docs/eval/`. WP3's paid pass is
-**fully complete — 4251/4251 units, entire corpus**, WP4 answers with graph facts,
-and WP5 ships the **PressMeets RAG** web app (auth, streamed answers, clickable
-citations, history, admin). No paid work remains. State as of 2026-07-26:
+**Current resume point: WP6 continued — passage-level gold labels, temporal
+retrieval, then an A/B of a learned multilingual reranker against the shipped
+local source-aware stage.** WP3's paid pass is complete. Production answering
+now uses fail-closed sufficiency → synthesis → claim validation; raw provider
+tokens are not emitted before validation. State as of 2026-07-26:
 
 | stage | result |
 |---|---|
@@ -90,9 +92,9 @@ citations, history, admin). No paid work remains. State as of 2026-07-26:
 | graph — structural (WP3, free) | **698 nodes · 714 edges** · all 33 meets · 634 sources |
 | graph — LLM extraction (WP3, **done, full corpus**) | **4251 / 4251 units · 1 unrecoverable failure** (17KB non-JSON reply) · 4234 cached records |
 | graph — **final** in `index/graph` | **8120 nodes · 10773 edges · 1157 communities** (22 summarised — the rest are singletons or pairs below phase E's `min_size=3`) |
-| query (WP4) | `kng.answer` — hybrid RRF + graph facts + verified citations · cold 13.8 s (bge-m3 load) / **warm 0.22 s** per query |
-| app (WP5) | **PressMeets RAG** — `uvicorn kng.api.main:app` · auth with revocable sessions, SSE token streaming, citation → passage viewer, **History page** (search/rename/delete/reopen), **admin console** (roles, password reset, account deletion) · real answer measured at 352 deltas / 17 s with 0 invalid citations · 79 tests + 31 browser checks |
-| eval (WP6) | `python -m kng.eval` — 30 grounded questions, free retrieval scoring · **baseline hit 0.667 / MRR 0.528** (`docs/eval/`) · k=30 → hit 0.867, MRR +0.030 ⇒ **ranking problem, not coverage** · English 0.545 vs Telugu 1.000 |
+| query (WP4/6) | RRF + archive-aware rerank + per-file diversity + graph-promoted exact chunks · production `k=12` · Sarvam sufficiency/generation/claim validation |
+| app (WP5/6) | revocable auth · validated SSE only · exact citation viewer · quotas/concurrency/input bounds · `/api/ready` · history/admin grounding metrics |
+| eval (WP6) | baseline k=8 **0.667 hit / 0.528 MRR** → production k=12 **0.800 / 0.536** · English hit **0.727**, Telugu **1.000** · live bounded Sarvam: 9/9 claims supported |
 | export (WP6) | `python -m kng.pipeline.export` — allow-listed archive + `EXPORT.json` + checksum · 5140 files / 197.9 MB → **66.8 MB in 22 s** · verified by extract-and-query on a root with no `.env` |
 
 No paid extraction work remains. To re-run after a prompt-version bump or new
@@ -351,8 +353,16 @@ against Telugu's 1.000 because English queries land on the 2995 `source_doc`
 newspaper-page chunks that outrank the press-meet transcripts they document.
 Compare any change with `--baseline docs/eval/baseline-2026-07-26-k8.json`.
 
-**`--answer` costs one call per question** (30 calls) and refuses to run against a
-real provider without `--spend`. Use `KNG_FAKE_LLM=1` for the free path.
+**Production result (k=12, archive-source-prior-v1): hit 0.800 / MRR 0.536,
+English hit 0.727, Telugu hit 1.000.** Source priors and diversity are local.
+Direct graph claims outrank `MEMBER_OF`/`MENTIONS`, and their exact chunks are
+promoted to bridge English questions into Telugu evidence.
+
+**`--answer` costs up to three calls per question** (sufficiency, synthesis,
+claim validation; up to 90 for the 30-question set) and refuses a real provider
+without `--spend`. Use `KNG_FAKE_LLM=1` for the free path. The 2026-07-26 live
+smoke was capped at exactly seven calls; final result checked 9/9 claims as
+supported with 0 retries/failures.
 
 **Export is an allow-list** (`PARTS` in `kng/pipeline/export.py`), never a
 deny-list: a deny-list grows holes, and `.env` / `var/` / `data/` must never
@@ -377,7 +387,7 @@ kng/api/          main.py auth.py users.py meta.py sources.py history.py  # WP5
 kng/api/static/   index/login/history/admin .html · app.js history.js admin.js styles.css
 scripts/          bench_extract.py package_index.sh
 kng/eval/         questions.yaml harness.py __main__.py   # WP6 eval harness
-tests/            test_wp4.py test_graph_cache.py test_api.py test_eval.py test_export.py  # 120
+tests/            test_wp4.py test_graph_cache.py test_api.py test_eval.py test_export.py  # 140
 var/              users.json history/ queries.jsonl   # WP5 state, git-ignored
 config/ontology.yaml   docs/   extracted/
 scripts/ package_index.sh               # tar index/+extracted/ with checksum
@@ -399,7 +409,7 @@ python -m kng.pipeline.run --stage graph --plan-only        # paid-pass cost rep
 python -m kng.pipeline.run --stage graph --structural-only  # free metadata graph
 python -m kng.stats                          # per-stage doc counts (WP1b+)
 python -m kng.query "Tirupati laddu" -k 5    # retrieval + citations (WP2+)
-python -m unittest discover -s tests         # 120 tests, no network or key needed
+python -m unittest discover -s tests         # 140 tests, no network or key needed
 python -m kng.eval                           # WP6 retrieval baseline, free
 python -m kng.pipeline.export --plan         # WP6 export inventory, writes nothing
 python -m kng.answer "TTD laddu" --retrieval-only    # WP4 evidence, no LLM call

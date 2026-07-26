@@ -48,6 +48,8 @@ async function boot() {
   stat(s, "mean latency (s)", queries.mean_latency_s);
   stat(s, "mean uncited sentences", queries.mean_uncited_sentences);
   stat(s, "answers with stripped citations", queries.answers_with_stripped_citations);
+  stat(s, "grounding pass rate", queries.grounding_pass_rate);
+  stat(s, "refusal rate", queries.refusal_rate);
 
   const c = el("corpus");
   stat(c, "passages indexed", corpus.chunks.toLocaleString());

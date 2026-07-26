@@ -104,9 +104,13 @@ class TestRetrievalScoring(unittest.TestCase):
 
 class TestAnswerScoring(unittest.TestCase):
     class FakeAnswer:
-        def __init__(self, text, cited, sources, invalid=(), uncited=0):
+        def __init__(self, text, cited, sources, invalid=(), uncited=0,
+                     grounding_passed=True, refused=False):
             self.text, self.cited, self.sources = text, cited, sources
             self.invalid_citations, self.uncited_sentences = list(invalid), uncited
+            self.grounding_passed = grounding_passed
+            self.refused = refused
+            self.refusal_reason = "insufficient" if refused else ""
 
     def test_cited_expected_meet_is_the_strong_signal(self):
         q = harness.Question(id="x", q="q", meets=["10"])
@@ -130,6 +134,16 @@ class TestAnswerScoring(unittest.TestCase):
         self.assertEqual(out.invalid_citations, [9])
         self.assertEqual(out.uncited_sentences, 3)
         self.assertEqual(out.answer_chars, 4)
+
+    def test_refusal_is_recorded_as_a_failed_grounding_outcome(self):
+        q = harness.Question(id="x", q="q", meets=["1"])
+        res = harness.score_retrieval(q, ctx_with(["1"]))
+        out = harness.score_answer(q, res, self.FakeAnswer(
+            "grounded refusal", [], [], grounding_passed=False, refused=True))
+        self.assertTrue(out.answered)
+        self.assertTrue(out.refused)
+        self.assertFalse(out.grounding_passed)
+        self.assertEqual(out.refusal_reason, "insufficient")
 
 
 class TestAggregate(unittest.TestCase):
@@ -159,7 +173,11 @@ class TestAggregate(unittest.TestCase):
         answered = self.results()
         answered[0].answered = True
         answered[0].cited = 4
-        self.assertEqual(harness.aggregate(answered)["answers"]["mean_cited"], 4.0)
+        answered[0].grounding_passed = True
+        metrics = harness.aggregate(answered)["answers"]
+        self.assertEqual(metrics["mean_cited"], 4.0)
+        self.assertEqual(metrics["grounding_pass_rate"], 1.0)
+        self.assertEqual(metrics["refusal_rate"], 0.0)
 
 
 class TestRunAndReport(unittest.TestCase):
